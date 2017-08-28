@@ -30,7 +30,7 @@ _Context: John L. Hall, Nobel Prize in Physics, Roy J. Glauber, Theodor W. Hansc
 ### [ Four Ugandan civilians are killed in a rare afternoon ambush on a pickup truck in northeast Uganda by Lord's Resistance Army rebels. The insurgents are suspected of shooting the driver and two passengers and killing a fourth with an axe. ](/news/2005/10/4/four-ugandan-civilians-are-killed-in-a-rare-afternoon-ambush-on-a-pickup-truck-in-northeast-uganda-by-lord-s-resistance-army-rebels-the-in.md)
 _Context: Lord's Resistance Army, Uganda, ambush, pickup truck_
 
-### [ Israeli-Palestinian Conflict: A 37-year-old Palestinian mother of six is shot and killed after she stabbed and lightly injured a female Israel Defense Forces soldier at the Hawara roadblock south of Nablus. No militant group claimed the attack, but it is known that the woman's brother was killed by the IDF at the beginning of the Al-Aqsa Intifada. ](/news/2005/10/4/israeli-palestinian-conflict-a-37-year-old-palestinian-mother-of-six-is-shot-and-killed-after-she-stabbed-and-lightly-injured-a-female-i.md)
+### [ Israeli-Palestinian Conflict: A 37-year-old Palestinian mother of six is shot and killed after she stabbed and lightly injured a female Israel Defense Forces soldier at the Hawara roadblock south of Nablus. No militant group claimed the attack, but it is known that the woman's brother was killed by the IDF at the beginning of the Al-Aqsa Intifada. ](/news/2005/10/4/israeliapalestinian-conflict-a-37-year-old-palestinian-mother-of-six-is-shot-and-killed-after-she-stabbed-and-lightly-injured-a-female-i.md)
 _Context: Al-Aqsa Intifada, Hawara roadblock, Israel Defense Forces, Israeli-Palestinian conflict, Nablus, Palestinian_
 
 ## [Previous Day...](/news/2005/10/3/index.md)

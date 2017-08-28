@@ -13,7 +13,7 @@ Radical cleric Abu Qatada is held in a high security jail near the Jordanian cap
 Police in Sweden have shot and killed a knife-wielding man after he allegedly stabbed three people, including an elderly woman who died from her injuries.
 
 ### [Opponents of deposed Egyptian president Mohamed Morsi call for demonstrations to be held today in the aftermath of the 2013 Egyptian coup d'etat ](/news/2013/07/7/opponents-of-deposed-egyptian-president-mohamed-morsi-call-for-demonstrations-to-be-held-today-in-the-aftermath-of-the-2013-egyptian-coup-d.md)
-_Context: Aftermath of the 2013 Egyptian coup d'etat, Egyptian President, Mohamed Morsi_
+_Context: Egyptian President, Mohamed Morsi, aftermath of the 2013 Egyptian coup d'etat_
 
 ## [Previous Day...](/news/2013/07/6/index.md)
 

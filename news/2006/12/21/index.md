@@ -12,8 +12,8 @@ Four U.S. marines, including a squad leader, were charged with murder Thursday i
 ### [ New Jersey Governor Jon S. Corzine signs a bill granting civil unions to same-sex couples, with all the rights and privileges of marriage. New Jersey becomes the third U.S. state to offer civil unions, and the fifth to offer some version of marriage to gay couples. ](/news/2006/12/21/new-jersey-governor-jon-s-corzine-signs-a-bill-granting-civil-unions-to-same-sex-couples-with-all-the-rights-and-privileges-of-marriage.md)
 _Context: Jon Corzine, New Jersey, United States, civil union, gubernatorial elections, marriage, same-sex marriage_
 
-### [ War in Somalia:: Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/war-in-somalia-fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entir.md)
-_Context: Baidoa, Horn of Africa, War in Somalia_
+### [ Fresh heavy fighting is reported near the weak Somali government's Baidoa base, amid fears conflict could plunge the entire Horn of Africa into crisis. ](/news/2006/12/21/fresh-heavy-fighting-is-reported-near-the-weak-somali-government-s-baidoa-base-amid-fears-conflict-could-plunge-the-entire-horn-of-africa.md)
+_Context: Baidoa, Horn of Africa_
 
 ### [ Opponents of the President of Iran Mahmoud Ahmadinejad win a number of victories in local elections and elections to the Assembly of Experts as dissatisfaction grows with his Presidency. ](/news/2006/12/21/opponents-of-the-president-of-iran-mahmoud-ahmadinejad-win-a-number-of-victories-in-local-elections-and-elections-to-the-assembly-of-expert.md)
 _Context: Assembly of Experts, Mahmoud Ahmadinejad, President, elections, local elections_

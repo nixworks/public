@@ -13,7 +13,7 @@ _Context: Cluj-Napoca, European Youth Capital, Romania_
 Dinah Sheridan, who appeared in classic British films including The Railway Children and Genevieve, as well as the BBC sitcom All Night Long, dies.
 
 ### [The death toll from a fire in a garment factory in the Bangladeshi capital Dhaka rises to 112 as the search for victims continues. ](/news/2012/11/25/the-death-toll-from-a-fire-in-a-garment-factory-in-the-bangladeshi-capital-dhaka-rises-to-112-as-the-search-for-victims-continues.md)
-_Context: 2012 Dhaka fire, Bangladesh, Dhaka_
+_Context: Bangladesh, Dhaka, a fire in a garment factory_
 
 ### [A train hits a van at a level crossing near Rossano, Province of Cosenza, Calabria region, Italy, killing at least six workers from Romania and Bulgaria. ](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-rossano-province-of-cosenza-calabria-region-italy-killing-at-least-six-workers-from-romania.md)
 A train hit a van in southern Italyon Saturday, killing at least six people, the Italian fireservice said on Saturday.

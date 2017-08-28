@@ -1,6 +1,6 @@
 ### [2016-02-11](/news/2016/02/11/index.md)
 
-# Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and  has forced thousands to flee their homes. 
+# Southern California Gas Company caps, at least temporarily, the natural gas leak that started last October and has forced thousands to flee their homes. 
 
 The natural gas leak that flowed for three months and sickened hundreds near Los Angeles has been temporarily capped, gas company officials said.
 
@@ -21,4 +21,4 @@ The natural gas leak that flowed for three months and sickened hundreds near Los
 7. [The European Union opens an antitrust case against Russian gas giant Gazprom which supplies most of Central and eastern Europe with supplies of natural gas. ](/news/2015/04/22/the-european-union-opens-an-antitrust-case-against-russian-gas-giant-gazprom-which-supplies-most-of-central-and-eastern-europe-with-supplies.md) _Context: natural gas_
 8. [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md) _Context: natural gas_
 9. [The Natural Development and Reform Commission, an economic planning agency of the People's Republic of China, announces an increase in the price of natural gas sold to non-residential buyers. ](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.md) _Context: natural gas_
-10. [Sino-Russian relations:Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/sino-russian-relations-pxi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _Context: natural gas_
+10. [Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/xi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md) _Context: natural gas_

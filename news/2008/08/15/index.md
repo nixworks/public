@@ -13,10 +13,10 @@ _Context: Catholic Church, Fernando Lugo, Paraguayan President_
 _Context: Chad, Hissene Habre, President of Chad, military assault_
 
 ### [ Russia threatens Poland with military consequences for allowing the United States of America to place defense missiles within its borders. ](/news/2008/08/15/russia-threatens-poland-with-military-consequences-for-allowing-the-united-states-of-america-to-place-defense-missiles-within-its-borders.md)
-### [ 2008 South Ossetia war:: Russia will provide 'at least' 10 billion Roubles (approx. -270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/2008-south-ossetia-war-russia-will-provide-at-least-10-billion-roubles-approx-270-million-us-420-million-aid-to-south-ossetia-to.md)
+### [ Russia will provide 'at least' 10 billion Roubles (approx. EUR270 million, US$420 million) aid to South Ossetia to help rebuild Tskhinvali 'leveled' during the Georgian 'lasting artillery shelling' of 7th and 8th of August. ](/news/2008/08/15/russia-will-provide-at-least-10-billion-roubles-approx-a-270-million-us-420-million-aid-to-south-ossetia-to-help-rebuild-tskhinvali.md)
 The conflict may be over, but not the war of words. Moscow claims some Western newspapers have taken a one-sided view of the Georgian-South Ossetian conflict...
 
-### [ 2008 Summer Olympics: Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men-s 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-men-s-200-metres-indiv.md)
+### [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.md)
 _Context: 2008 Summer Olympics, Michael Phelps, United States, gold medal_
 
 ### [ Five people are arrested in Beijing after unfurling a "free Tibet" banner on the Central TV Tower, the highest building in Beijing. ](/news/2008/08/15/five-people-are-arrested-in-beijing-after-unfurling-a-free-tibet-banner-on-the-central-tv-tower-the-highest-building-in-beijing.md)

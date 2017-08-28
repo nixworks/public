@@ -21,7 +21,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 ### [ Those in power in Honduras empower police to quash "unauthorised" gatherings as President Manuel Zelaya calls on his supporters to march on the three-month anniversary of his fall, saying it will be "the final offensive". ](/news/2009/09/28/those-in-power-in-honduras-empower-police-to-quash-unauthorised-gatherings-as-president-manuel-zelaya-calls-on-his-supporters-to-march-on.md)
 _Context: Honduras, Manuel Zelaya, President_
 
-### [ An Eldoret operation commences to close down Kenya's largest camp for people forced to flee their homes during the 2007-2008 Kenyan crisis ethnic violence. ](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-kenya-s-largest-camp-for-people-forced-to-flee-their-homes-during-the-2007-2008-kenyan-crisi.md)
+### [ An Eldoret operation commences to close down Kenya's largest camp for people forced to flee their homes during the 2007-2008 Kenyan crisis ethnic violence. ](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-kenya-s-largest-camp-for-people-forced-to-flee-their-homes-during-the-2007a2008-kenyan-crisi.md)
 _Context: Eldoret, Kenya, post-election violence_
 
 ### [ President of the autonomous Government of Southern Sudan Salva Kiir says Sudan is at a "historic crossroads" which will lead to a split from the north. ](/news/2009/09/28/president-of-the-autonomous-government-of-southern-sudan-salva-kiir-says-sudan-is-at-a-historic-crossroads-which-will-lead-to-a-split-fro.md)

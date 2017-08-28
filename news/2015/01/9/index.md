@@ -1,9 +1,9 @@
 ## [2015-01-9](/news/2015/01/9/index.md)
 
-### ["Charlie Hebdo" shooting: The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/charlie-hebdo-shooting-the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french.md)
+### [The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french-town-of-dammartin-en-goa-l.md)
 French President Francois Hollande has said Muslims are the &quot;main victims&quot; of fanaticism, as funerals were held in Paris for five of the 17 people killed in last week&#039;s Islamist attacks.
 
-### [2015 Baga massacre: Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/2015-baga-massacre-refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-ch.md)
+### [Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-chad-while-over-1-000.md)
 UNHCR teams in Chad are at the border and seeking information on the new arrivals and their needs. The newly arrived are staying with local communities.
 
 ### [The People's Republic of China plans to soon permit the online sale of prescription drugs. ](/news/2015/01/9/the-people-s-republic-of-china-plans-to-soon-permit-the-online-sale-of-prescription-drugs.md)
@@ -27,7 +27,7 @@ Raif Badawi was sentenced to 10 years in prison and 1,000 lashes, the remainder 
 ### [A shooting into a car in San Francisco, California, U.S., leaves four men dead. ](/news/2015/01/9/a-shooting-into-a-car-in-san-francisco-california-u-s-leaves-four-men-dead.md)
 (Reuters) - Four men were shot dead in a car in a trendy neighborhood in San Francisco, California late on Friday evening, local media reported. Gunfire erupted at about 10 p.m. local time in the Hayes Valley neighborhood, said the San Francisco Chronicle newspaper, citing police. It said no arrests
 
-### [Sri Lankan presidential election, 2015: Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/sri-lankan-presidential-election-2015-mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md)
+### [Mahinda Rajapaksa concedes defeat to Maithripala Sirisena. ](/news/2015/01/9/mahinda-rajapaksa-concedes-defeat-to-maithripala-sirisena.md)
 Shock as authoritarian president’s office reports that he has left official residence
 
 ### [Barack Obama proposes a new program to waive tuition at community colleges in the United States for the first two years. ](/news/2015/01/9/barack-obama-proposes-a-new-program-to-waive-tuition-at-community-colleges-in-the-united-states-for-the-first-two-years.md)

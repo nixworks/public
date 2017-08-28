@@ -33,13 +33,13 @@ _Context: Eric Holder, FBI, San Francisco, sting operation_
 ### [U.S. envoy to Afghanistan and Pakistan Richard Holbrooke is hospitalised in a critically ill state in Washington, D.C., after gasping at a meeting with Hillary Clinton. ](/news/2010/12/11/u-s-envoy-to-afghanistan-and-pakistan-richard-holbrooke-is-hospitalised-in-a-critically-ill-state-in-washington-d-c-after-gasping-at-a-m.md)
 Richard Holbrooke, the US envoy to Afghanistan and Pakistan, has been taken critically ill with a torn aorta, the US state department says.
 
-### [United States diplomatic cables leak:: Newly released cables show the Vatican's refusal to co-operate with the Murphy Report child sexual abuse inquiry in Ireland which "offended many" of them when they were summoned to Ireland from Rome. ](/news/2010/12/11/united-states-diplomatic-cables-leak-newly-released-cables-show-the-vatican-s-refusal-to-co-operate-with-the-murphy-report-child-sexual-ab.md)
+### [Newly released cables show the Vatican's refusal to co-operate with the Murphy Report child sexual abuse inquiry in Ireland which "offended many" of them when they were summoned to Ireland from Rome. ](/news/2010/12/11/newly-released-cables-show-the-vatican-s-refusal-to-co-operate-with-the-murphy-report-child-sexual-abuse-inquiry-in-ireland-which-offended.md)
 Requests for information from the Murphy Commission &ldquo;offended many in the Vatican&rdquo; who felt that the Irish government had &ldquo;failed&hellip;
 
 ### [Hundreds of Spartak Moscow fans and Russian nationalists clash with riot police in central Moscow over the death of a football fan earlier this week. ](/news/2010/12/11/hundreds-of-spartak-moscow-fans-and-russian-nationalists-clash-with-riot-police-in-central-moscow-over-the-death-of-a-football-fan-earlier-t.md)
 A number of people are injured in central Moscow as football fans protesting over the killing of a fellow supporter clash with police.
 
-### [Detention of Julian Assange:: WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/detention-of-julian-assange-wikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his.md)
+### [WikiLeaks spokesperson Julian Assange is moved to the segregation unit of London's Wandsworth Prison "for his own safety, presumably", says his lawyer. ](/news/2010/12/11/wikileaks-spokesperson-julian-assange-is-moved-to-the-segregation-unit-of-london-s-wandsworth-prison-for-his-own-safety-presumably-says.md)
 Police moved WikiLeaks chief Julian Assange to the segregation unit of a London jail for his safety, his lawyer said on Friday as new cables showed the US suspects Burma has a secret nuclear program.
 
 ### [Mark Madoff, the 46-year-old son of convicted American fraudster Bernard Madoff is located hanging dead at an apartment in the New York City borough of Manhattan. ](/news/2010/12/11/mark-madoff-the-46-year-old-son-of-convicted-american-fraudster-bernard-madoff-is-located-hanging-dead-at-an-apartment-in-the-new-york-city.md)

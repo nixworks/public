@@ -24,8 +24,8 @@ Total indicates that $14.02 million worth of recreational pot was sold.
 ### [Men's Wearhouse buys rival JoS. A. Bank Clothiers for $1.8 billion. ](/news/2014/03/11/men-s-wearhouse-buys-rival-jos-a-bank-clothiers-for-1-8-billion.md)
 _Context: JoS. A. Bank Clothiers, Men's Wearhouse_
 
-### [Territorial disputes in the South China Sea:: Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/territorial-disputes-in-the-south-china-sea-two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly.md)
-_Context: Chinese Coast Guard, Spratly Islands, Territorial disputes in the South China Sea_
+### [Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly-group-of-islands.md)
+_Context: Chinese Coast Guard, Spratly Islands_
 
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 At issue is whether the CIA violated an agreement made with the committee about monitoring the panel&#39;s use of CIA computers.
@@ -39,7 +39,7 @@ _Context: Joran van der Sloot, United States_
 ### [The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. ](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.md)
 * Parliament appoints defence minister as acting PM* Clashes between rebels, pro-government militias reported* Western powers fear chaos in o
 
-### [Politics of Israel: Shas endorses Isaac Herzog from the Israeli Labor Party as the country's next prime minister. ](/news/2014/03/11/politics-of-israel-shas-endorses-isaac-herzog-from-the-israeli-labor-party-as-the-country-s-next-prime-minister.md)
+### [Shas endorses Isaac Herzog from the Israeli Labor Party as the country's next prime minister. ](/news/2014/03/11/shas-endorses-isaac-herzog-from-the-israeli-labor-party-as-the-country-s-next-prime-minister.md)
 During a special meeting, Shas head says opposition&#8217;s main goal is to topple Netanyahu&#8217;s government
 
 ## [Previous Day...](/news/2014/03/10/index.md)

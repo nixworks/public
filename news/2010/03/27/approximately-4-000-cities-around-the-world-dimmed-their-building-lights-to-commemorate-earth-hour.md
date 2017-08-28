@@ -14,5 +14,5 @@ Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera 
 
 ### Related:
 
-1. [ Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting.  ](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.md) _Context: Earth Hour_
+1. [ Millions of people worldwide recognize Earth Hour by deactivating unnecessary lighting. ](/news/2009/03/28/millions-of-people-worldwide-recognize-earth-hour-by-deactivating-unnecessary-lighting.md) _Context: Earth Hour_
 2. [ Cities around the world participate in Earth Hour, an international event that asks households and businesses to turn off their lights and non-essential electrical appliances between 8-9pm local time. ](/news/2008/03/29/cities-around-the-world-participate-in-earth-hour-an-international-event-that-asks-households-and-businesses-to-turn-off-their-lights-and.md) _Context: Earth Hour_

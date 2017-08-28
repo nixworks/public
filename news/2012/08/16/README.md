@@ -1,12 +1,12 @@
 ## [2012-08-16](/news/2012/08/16/index.md)
 
-### [Syrian civil war:: The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/syrian-civil-war-the-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md)
+### [The Organisation of Islamic Cooperation suspends Syria's membership in the group. ](/news/2012/08/16/the-organisation-of-islamic-cooperation-suspends-syria-s-membership-in-the-group.md)
 Observers will be removed within days, with plans to set up a smaller political office to monitor events.
 
-### [Stand-off between Ecuador and Britain over Julian Assange:: British police mass near the Ecuadorean embassy where WikiLeaks founder Julian Assange resides, after Britain threatens to use force to extract him. ](/news/2012/08/16/stand-off-between-ecuador-and-britain-over-julian-assange-british-police-mass-near-the-ecuadorean-embassy-where-wikileaks-founder-julian-a.md)
+### [British police mass near the Ecuadorean embassy where WikiLeaks founder Julian Assange resides, after Britain threatens to use force to extract him. ](/news/2012/08/16/british-police-mass-near-the-ecuadorean-embassy-where-wikileaks-founder-julian-assange-resides-after-britain-threatens-to-use-force-to-extr.md)
 Britain on Wednesday warned Ecuador that it could raid its London embassy if Quito does not hand over WikiLeaks founder Julian Assange, who has been taking refuge at the mission since mid-June.
 
-### [War on Terror:: Afghanistan: ISAF announces 11 people have been killed in a Black Hawk helicopter crash in southern Afghanistan, including seven U.S. soldiers and four members of the Afghan National Army. Taliban insurgents claim they downed it. ](/news/2012/08/16/war-on-terror-afghanistan-isaf-announces-11-people-have-been-killed-in-a-black-hawk-helicopter-crash-in-southern-afghanistan-including-s.md)
+### [Afghanistan: ISAF announces 11 people have been killed in a Black Hawk helicopter crash in southern Afghanistan, including seven U.S. soldiers and four members of the Afghan National Army. Taliban insurgents claim they downed it. ](/news/2012/08/16/afghanistan-isaf-announces-11-people-have-been-killed-in-a-black-hawk-helicopter-crash-in-southern-afghanistan-including-seven-u-s-soldie.md)
 Eleven people were killed on Thursday in a Black Hawk helicopter crash in southern Afghanistan, including seven U.S. soldiers and three Afghan allies, the NATO-led force in the country said.
 
 ### [Ten people are injured following clashes between anti-government protesters and police in Gabon. ](/news/2012/08/16/ten-people-are-injured-following-clashes-between-anti-government-protesters-and-police-in-gabon.md)

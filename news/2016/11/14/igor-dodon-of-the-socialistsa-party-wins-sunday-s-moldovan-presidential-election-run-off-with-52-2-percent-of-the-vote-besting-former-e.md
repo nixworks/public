@@ -1,6 +1,6 @@
 ### [2016-11-14](/news/2016/11/14/index.md)
 
-# Igor Dodon, of the Socialists' Party, wins Sunday's Moldovan presidential election run-off with 52.2 percent of the vote, besting former Education Minister  Maia Sandu of the Action and Security Party. Sandu has not yet accepted these preliminary results because of voting irregularities which she will present to the Central Election Commission for review. 
+# Igor Dodon, of the Socialists' Party, wins Sunday's Moldovan presidential election run-off with 52.2 percent of the vote, besting former Education Minister Maia Sandu of the Action and Security Party. Sandu has not yet accepted these preliminary results because of voting irregularities which she will present to the Central Election Commission for review. 
 
 
 

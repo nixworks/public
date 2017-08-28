@@ -36,7 +36,7 @@ _Context: North Korea, intercontinental ballistic, short-range ballistic missile
 ### [ Soyuz TMA-15 docks with the International Space Station. ](/news/2009/05/29/soyuz-tma-15-docks-with-the-international-space-station.md)
 _Context: International Space Station, Soyuz TMA-15, docks_
 
-### [ Ireland's government intends to further recapitalize Anglo Irish Bank by -4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-4-billion.md)
+### [ Ireland's government intends to further recapitalize Anglo Irish Bank by EUR4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-a-4-billion.md)
 The Government is to seek EU approval to inject up to &euro;4 billion of capital into the nationalised Anglo Irish Bank after it reported&hellip;
 
 ### [ At least 20,000 civilians were reportedly killed during the final five months of Sri Lanka's civil war. ](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.md)

@@ -3,7 +3,7 @@
 ### [ With the first launch events in Auckland, New Zealand, at 1101 UTC (12:01am NZDT, January 30), the global launch of Microsoft Windows Vista commences. ](/news/2007/01/29/with-the-first-launch-events-in-auckland-new-zealand-at-1101-utc-12-01am-nzdt-january-30-the-global-launch-of-microsoft-windows-vista.md)
 Consumer versions of new operating system went on sale in stores -- and on Internet -- at midnight Tuesday.
 
-### [ Japan-s oldest person, Yone Minagawa, 114, has become the world-s oldest living person. ](/news/2007/01/29/japan-s-oldest-person-yone-minagawa-114-has-become-the-world-s-oldest-living-person.md)
+### [ Japan's oldest person, Yone Minagawa, 114, has become the world's oldest living person. ](/news/2007/01/29/japanas-oldest-person-yone-minagawa-114-has-become-the-worldas-oldest-living-person.md)
 Japan&#039;s oldest person, Yone Minagawa, 114, has become the world&#039;s oldest living person after Emma Faust Tillman reportedly died Sunday night at a nursing h
 
 ### [ Azim Isabekov becomes Prime Minister of Kyrgyzstan, replacing Felix Kulov. ](/news/2007/01/29/azim-isabekov-becomes-prime-minister-of-kyrgyzstan-replacing-felix-kulov.md)

@@ -1,6 +1,6 @@
 ## [2009-01-22](/news/2009/01/22/index.md)
 
-### [ Hamas announces it will distribute maximums of -4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md)
+### [ Hamas announces it will distribute maximums of EUR4,000 to families seriously affected by the recent conflict in the Gaza Strip. ](/news/2009/01/22/hamas-announces-it-will-distribute-maximums-of-a-4-000-to-families-seriously-affected-by-the-recent-conflict-in-the-gaza-strip.md)
 _Context: EUR, Gaza Strip, Hamas, fire_
 
 ### [ Israel prepares to defend itself against accusations of war crimes in its conflict with Hamas. ](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.md)

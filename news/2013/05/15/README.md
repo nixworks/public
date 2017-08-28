@@ -1,9 +1,9 @@
 ## [2013-05-15](/news/2013/05/15/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/iraqi-insurgency-post-u-s-withdrawal-gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twel.md)
-_Context: Baghdad, Iraqi insurgency (post-U.S. withdrawal), alcoholic beverage, stores_
+### [Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. ](/news/2013/05/15/gunmen-using-silenced-weapons-attack-at-least-nine-alcohol-stores-in-western-baghdad-killing-twelve-people.md)
+_Context: Baghdad, alcoholic beverage, stores_
 
-### [Syrian civil war:: Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/syrian-civil-war-rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
+### [Rebel fighters launch a massive assault on a prison in Syria's northern city of Aleppo. ](/news/2013/05/15/rebel-fighters-launch-a-massive-assault-on-a-prison-in-syria-s-northern-city-of-aleppo.md)
 Syrian rebel fighters launch an attack on Aleppo prison, and government forces respond with air raids and tank shells, reports say.
 
 ### [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md)
@@ -28,7 +28,7 @@ France has entered its second recession in four years after the economy shrank b
 The Bank of England upgrades its economic growth forecast, but separate figures show a rise in UK unemployment.
 
 ### [Authorities in Myanmar and Bangladesh prepare for the arrival of Cyclone Mahasen, which has already killed at least seven people and displaced nearly 4,000 in Sri Lanka. ](/news/2013/05/15/authorities-in-myanmar-and-bangladesh-prepare-for-the-arrival-of-cyclone-mahasen-which-has-already-killed-at-least-seven-people-and-displac.md)
-_Context: Bangladesh, Cyclone Mahasen, Myanmar, Sri Lanka_
+_Context: Bangladesh, Burmese, Cyclone Mahasen, Sri Lanka_
 
 ### [A tornado hits Granbury, Texas, United States, killing several people and injuring at least 100. ](/news/2013/05/15/a-tornado-hits-granbury-texas-united-states-killing-several-people-and-injuring-at-least-100.md)
 _Context: Granbury, Texas, United States_

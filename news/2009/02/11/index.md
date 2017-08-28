@@ -1,6 +1,6 @@
 ## [2009-02-11](/news/2009/02/11/index.md)
 
-### [ Economy of the United States:: The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/economy-of-the-united-states-the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md)
+### [ The budget deficit reached US$84 billion in January 2009, due to the financial crisis. ](/news/2009/02/11/the-budget-deficit-reached-us-84-billion-in-january-2009-due-to-the-financial-crisis.md)
 U.S. congressional negotiators on Wednesday reached a deal on $789 billion in emergency spending and tax cuts, handing a big victory to President Barack Obama in his effort to pull the economy out of a steep tailspin.
 
 ### [ The number of worldwide connections to cellular networks reaches four billion. ](/news/2009/02/11/the-number-of-worldwide-connections-to-cellular-networks-reaches-four-billion.md)

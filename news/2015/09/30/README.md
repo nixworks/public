@@ -1,30 +1,30 @@
 ## [2015-09-30](/news/2015/09/30/index.md)
 
-### [Russian involvement in the Syrian Civil War: The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/russian-involvement-in-the-syrian-civil-war-the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-arme.md)
+### [The upper chamber of the Russian parliament approves a law allowing the use of the Russian Armed Forces outside its borders, following a request by Russian President Vladimir Putin. ](/news/2015/09/30/the-upper-chamber-of-the-russian-parliament-approves-a-law-allowing-the-use-of-the-russian-armed-forces-outside-its-borders-following-a-req.md)
 The escalation comes after Russia&rsquo;s parliament backed the use of military force in Syria.
 
-### [War in Afghanistan (2015-present): Battle of Kunduz: The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/war-in-afghanistan-2015-present-battle-of-kunduz-the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-com.md)
+### [The U.S.-led coalition dispatches American troops to Kunduz to help Afghan forces combat Taliban militants. ](/news/2015/09/30/the-u-s-led-coalition-dispatches-american-troops-to-kunduz-to-help-afghan-forces-combat-taliban-militants.md)
 The American soldiers were sent to &ldquo;train, advise and assist&rdquo; the Afghan military&rsquo;s bid to retake the city.
 
-### [2006 Mumbai train bombings: An Indian court sentences five suspected Islamic militants to death and seven others to life imprisonment for bombing attacks nine years ago on seven Mumbai commuter trains that killed 188 people and wounded more than 800. ](/news/2015/09/30/2006-mumbai-train-bombings-an-indian-court-sentences-five-suspected-islamic-militants-to-death-and-seven-others-to-life-imprisonment-for-bo.md)
+### [An Indian court sentences five suspected Islamic militants to death and seven others to life imprisonment for bombing attacks nine years ago on seven Mumbai commuter trains that killed 188 people and wounded more than 800. ](/news/2015/09/30/an-indian-court-sentences-five-suspected-islamic-militants-to-death-and-seven-others-to-life-imprisonment-for-bombing-attacks-nine-years-ago.md)
 A court sentenced five men to death and jailed seven for life on Wednesday for planning the bomb blasts that ripped through Mumbai commuter trains in 2006, killing more than 180 people and wounding hundreds.
 
 ### [At least six people are killed and dozens injured in explosions at 15 locations in Liucheng County in China's Guangxi Zhuang Autonomous Region. The explosives were reportedly concealed inside express delivery packages. Chinese officials have identified a suspect, but the motive is not yet known. ](/news/2015/09/30/at-least-six-people-are-killed-and-dozens-injured-in-explosions-at-15-locations-in-liucheng-county-in-china-s-guangxi-zhuang-autonomous-regi.md)
 At least six people are dead and dozens injured after a series of explosions tore through the Chinese city of Liuzhou on Wednesday afternoon.
 
-### [2015 Hajj stampede: Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/2015-hajj-stampede-iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-rep.md)
+### [Iran's Supreme Leader Ayatollah Ali Khamenei warns Saudi Arabia of "harsh" measures if the Kingdom fails to promptly repatriate the bodies of more than 200 Iranian pilgrims killed in last week's Hajj stampede. ](/news/2015/09/30/iran-s-supreme-leader-ayatollah-ali-khamenei-warns-saudi-arabia-of-harsh-measures-if-the-kingdom-fails-to-promptly-repatriate-the-bodies-o.md)
 _Context: 2015 Hajj stampede, Ali Khamenei, Hajj, Saudi Arabia, Supreme Leader of Iran, pilgrims, stampede_
 
-### [Saudi Arabian-led intervention in Yemen: An Iranian fishing boat loaded with weapons, including rockets and anti-tank shells, is intercepted and seized in the Arabian Sea, 150 miles southeast of the Omani Port of Salalah, by Arab coalition forces. Saudi Arabia has previously accused Iran of supplying weapons to Houthi militants in Yemen. ](/news/2015/09/30/saudi-arabian-led-intervention-in-yemen-an-iranian-fishing-boat-loaded-with-weapons-including-rockets-and-anti-tank-shells-is-intercepted.md)
+### [An Iranian fishing boat loaded with weapons, including rockets and anti-tank shells, is intercepted and seized in the Arabian Sea, 150 miles southeast of the Omani Port of Salalah, by Arab coalition forces. Saudi Arabia has previously accused Iran of supplying weapons to Houthi militants in Yemen. ](/news/2015/09/30/an-iranian-fishing-boat-loaded-with-weapons-including-rockets-and-anti-tank-shells-is-intercepted-and-seized-in-the-arabian-sea-150-miles.md)
 The Saudi-led coalition battling Houthi rebels in Yemen says it has seized an Iranian fishing boat loaded with weapons for them in the Arabian Sea.
 
 ### [The Dalai Lama, following his routine check-up at Minnesota's Mayo Clinic, cancels his U.S. speaking engagements in October after doctors advised him to rest. The 80-year-old Tibetan Buddhist leader is scheduled to return home to Dharamsala, India, Saturday. ](/news/2015/09/30/the-dalai-lama-following-his-routine-check-up-at-minnesota-s-mayo-clinic-cancels-his-u-s-speaking-engagements-in-october-after-doctors-ad.md)
 The 80-year-old Tibetan leader cancelled his planned October US appearances after doctors advised him to take rest.
 
-### [Volkswagen emissions violations: Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/volkswagen-emissions-violations-oliver-blume-is-appointed-the-new-ceo-of-porsche.md)
+### [Oliver Blume is appointed the new CEO of Porsche. ](/news/2015/09/30/oliver-blume-is-appointed-the-new-ceo-of-porsche.md)
 Volkswagen AG Chief Executive Officer Matthias Mueller will brief the leadership committee of the company’s board on Wednesday on findings of an internal investigation as the automaker struggles to explain years of cheating on emissions tests.
 
-### [2015 Atlantic hurricane season: Hurricane Joaquin: Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/2015-atlantic-hurricane-season-hurricane-joaquin-hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-si.md)
+### [Hurricane Joaquin passes over ocean with temperatures near 86degF (30degC) - the warmest since record keeping began in 1880. ](/news/2015/09/30/hurricane-joaquin-passes-over-ocean-with-temperatures-near-86adegf-30adegc-the-warmest-since-record-keeping-began-in-1880.md)
 Tropical Storm Joaquin is expected to strengthen while moving north of the East Coast, potentially bringing bands of rain, winds and heavy surf to beaches through early next week.
 
 ### [An earthquake strikes the Dutch province of Groningen, damaging some buildings. ](/news/2015/09/30/an-earthquake-strikes-the-dutch-province-of-groningen-damaging-some-buildings.md)

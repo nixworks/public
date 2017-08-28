@@ -1,6 +1,6 @@
 ### [2017-04-11](/news/2017/04/11/index.md)
 
-# United Airlines CEO Oscar Munoz issues an apology for the removal of a passenger from an overbooked flight on April 9, which has since gone viral. United Airlines stock drops more than 4%, a loss of PS800 million to the company's value. 
+# United Airlines CEO Oscar Munoz issues an apology for the removal of a passenger from an overbooked flight on April 9, which has since gone viral. United Airlines stock drops more than 4%, a loss of GBP800 million to the company's value. 
 
 
 
@@ -19,5 +19,5 @@
 6. [A ground stop of all U.S. airport-based United Airlines (UAL) mainline flights following a system-wide network connectivity issue is lifted after a 1 hour, 21 minute suspension of morning service. The Federal Aviation Administration (FAA), which is also investigating, says all of United Continental Holdings Inc. regional airlines are now unaffected. This follows a similar issue on June 2, 2015 due to automation problems. ](/news/2015/07/8/a-ground-stop-of-all-u-s-airport-based-united-airlines-ual-mainline-flights-following-a-system-wide-network-connectivity-issue-is-lifted.md) _Context: United Airlines_
 7. [Continental Airlines announces that it plans to lay off 500 staff in Houston, Texas following its merger with United Airlines. ](/news/2011/02/7/continental-airlines-announces-that-it-plans-to-lay-off-500-staff-in-houston-texas-following-its-merger-with-united-airlines.md) _Context: United Airlines_
 8. [United Airlines temporarily grounds its fleet of 96 Boeing 757 jetliners so it can perform checks to earlier modifications to air-data computers. ](/news/2011/02/15/united-airlines-temporarily-grounds-its-fleet-of-96-boeing-757-jetliners-so-it-can-perform-checks-to-earlier-modifications-to-air-data-compu.md) _Context: United Airlines_
-9. [United Airlines shareholders  meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md) _Context: United Airlines_
+9. [United Airlines shareholders meeting in Elk Grove, Illinois in Cook County, approve a deal to merge with Continental Airlines to create the world's biggest airline. ](/news/2010/09/17/united-airlines-shareholders-meeting-in-elk-grove-illinois-in-cook-county-approve-a-deal-to-merge-with-continental-airlines-to-create-the.md) _Context: United Airlines_
 10. [The United States Department of Justice closes an antitrust probe into a proposed merger of United Airlines and Continental Airlines clearing the way for shareholders to vote on the proposal. ](/news/2010/08/27/the-united-states-department-of-justice-closes-an-antitrust-probe-into-a-proposed-merger-of-united-airlines-and-continental-airlines-clearin.md) _Context: United Airlines_

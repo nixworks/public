@@ -1,6 +1,6 @@
 ### [2016-04-12](/news/2016/04/12/index.md)
 
-#   A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. 
+#  A Russian Air Force Mi-28 attack helicopter crashes near the Syrian city of Homs, killing two pilots. 
 
 
 

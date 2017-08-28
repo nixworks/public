@@ -1,7 +1,7 @@
 ## [2012-06-22](/news/2012/06/22/index.md)
 
-### [Syrian uprising (2011-present):: The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/syrian-uprising-2011-present-the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over.md)
-_Context: F-4 Phantom II, Mediterranean Sea, Syria, Syrian Military, Syrian uprising (2011-present), Turkey_
+### [The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over-the-mediterranean-sea.md)
+_Context: F-4 Phantom II, Mediterranean Sea, Syria, Syrian Military, Turkey_
 
 ### [NATO-backed Afghan security forces end a 12-hour siege carried out by Taliban insurgents on the Spozhmai Hotel outside Kabul, killing all five insurgents. ](/news/2012/06/22/nato-backed-afghan-security-forces-end-a-12-hour-siege-carried-out-by-taliban-insurgents-on-the-spozhmai-hotel-outside-kabul-killing-all-fi.md)
 _Context: Afghanistan's, Kabul, NATO, Taliban_
@@ -30,8 +30,8 @@ Wells Fargo & Co, the fourth-largest U.S. bank by assets, is looking tomove some
 ### [WikiLeaks editor-in-chief Julian Assange gives an interview on Australian radio as his attempt to gain political asylum in Ecuador continues. ](/news/2012/06/22/wikileaks-editor-in-chief-julian-assange-gives-an-interview-on-australian-radio-as-his-attempt-to-gain-political-asylum-in-ecuador-continues.md)
 _Context: Ecuador, Julian Assange, WikiLeaks_
 
-### [South China Sea dispute:: China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/south-china-sea-dispute-china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
-_Context: China, South China Sea dispute, Spratly Islands, Vietnam_
+### [China criticizes Vietnam for passing a law that claims sovereignty of the Spratly Islands. ](/news/2012/06/22/china-criticizes-vietnam-for-passing-a-law-that-claims-sovereignty-of-the-spratly-islands.md)
+_Context: China, Spratly Islands, Vietnam_
 
 ### [Ugandan ethics minister Simon Lokodo signs a government statement saying that it does not discriminate against homosexuals and that they are free to meet. ](/news/2012/06/22/ugandan-ethics-minister-simon-lokodo-signs-a-government-statement-saying-that-it-does-not-discriminate-against-homosexuals-and-that-they-are.md)
 _Context: Simon Lokodo, Uganda, gay_
@@ -51,7 +51,7 @@ _Context: Swaziland_
 ### [The Senate votes to impeach the President of Paraguay Fernando Lugo with former Vice President Federico Franco sworn in as the new president. ](/news/2012/06/22/the-senate-votes-to-impeach-the-president-of-paraguay-fernando-lugo-with-former-vice-president-federico-franco-sworn-in-as-the-new-president.md)
 Paraguay&#x27;s Senate removed President Fernando Lugo from office in a rapid impeachment trial on Friday, and the leftist former priest said he was stepping aside even though he considered his ouster a blow to democracy.
 
-### [Egyptian presidential election:: Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/egyptian-presidential-election-thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presiden.md)
+### [Thousands of Egyptians crowd Cairo's Tahrir Square ahead of the announcement of the results of the presidential election. ](/news/2012/06/22/thousands-of-egyptians-crowd-cairo-s-tahrir-square-ahead-of-the-announcement-of-the-results-of-the-presidential-election.md)
 _Context: Cairo, Egyptian, Tahrir Square, presidential election_
 
 ### [The ruling Pakistan People's Party nominates Raja Pervez Ashraf to replace Yousuf Raza Gilani after a judge orders the arrest of its first choice candidate Makhdoom Shahabuddin for alleged illegal importation of drugs. ](/news/2012/06/22/the-ruling-pakistan-people-s-party-nominates-raja-pervez-ashraf-to-replace-yousuf-raza-gilani-after-a-judge-orders-the-arrest-of-its-first-c.md)

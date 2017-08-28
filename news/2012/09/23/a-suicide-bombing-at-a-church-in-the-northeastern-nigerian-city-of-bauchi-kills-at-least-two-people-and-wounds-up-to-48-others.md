@@ -11,7 +11,7 @@ A suicide bomber in northern Nigeria attacks a Catholic church, killing at least
 
 ### Related:
 
-1. [Boko Haram insurgency: A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/boko-haram-insurgency-a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md) _Context: Nigeria, suicide bombing_
+1. [A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md) _Context: Nigeria, suicide bombing_
 2. [The death toll from the bombings in the Nigerian cities of Gombe and Bauchi reaches at least 37. ](/news/2014/12/23/the-death-toll-from-the-bombings-in-the-nigerian-cities-of-gombe-and-bauchi-reaches-at-least-37.md) _Context: Bauchi, Nigeria_
 3. [Bombings hit the Nigerian cities of Gombe and Bauchi, killing at least 26 people. ](/news/2014/12/22/bombings-hit-the-nigerian-cities-of-gombe-and-bauchi-killing-at-least-26-people.md) _Context: Bauchi, Nigeria_
 4. [A suicide bombing in the northeastern Nigerian city of Damaturu kills at least five soldiers. ](/news/2012/08/5/a-suicide-bombing-in-the-northeastern-nigerian-city-of-damaturu-kills-at-least-five-soldiers.md) _Context: Nigeria, suicide bombing_

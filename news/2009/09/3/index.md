@@ -3,13 +3,13 @@
 ### [ Chief Minister of the Indian state of Andhra Pradesh, Y. S. Rajasekhara Reddy is confirmed dead when the wreckage of the helicopter that crashed with him on-board in southern India on Wednesday is located. ](/news/2009/09/3/chief-minister-of-the-indian-state-of-andhra-pradesh-y-s-rajasekhara-reddy-is-confirmed-dead-when-the-wreckage-of-the-helicopter-that-cr.md)
 YSR Reddy &amp; 4 others have died in a chopper crash, PMO said. Chopper mystery | YSR: The mass leader | Full coverage | Prominent Indians killed in air crashes
 
-### [ Iranian ministerial appointments:: The Islamic Consultative Assembly of Iran approves at least 18 ministers for the 21 available posts. ](/news/2009/09/3/iranian-ministerial-appointments-the-islamic-consultative-assembly-of-iran-approves-at-least-18-ministers-for-the-21-available-posts.md)
-_Context: Iran, Islamic Consultative Assembly of Iran_
+### [ The Islamic Consultative Assembly of Iran approves at least 18 ministers for the 21 available posts. ](/news/2009/09/3/the-islamic-consultative-assembly-of-iran-approves-at-least-18-ministers-for-the-21-available-posts.md)
+_Context: Islamic Consultative Assembly of Iran_
 
 ### [ The death toll from the 2009 Java earthquake rises to at least 57. ](/news/2009/09/3/the-death-toll-from-the-2009-java-earthquake-rises-to-at-least-57.md)
 Magnitude seven earthquake leave at least 46 people dead and thousands homeless.
 
-### [ Gabonese presidential election: The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/gabonese-presidential-election-the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside.md)
+### [ The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside-the-offices-of-the-electoral-com.md)
 _Context: Gabon, Gabonese presidential election_
 
 ### [ Research indicates the Andromeda Galaxy appears to have expanded by digesting stars from other galaxies. ](/news/2009/09/3/research-indicates-the-andromeda-galaxy-appears-to-have-expanded-by-digesting-stars-from-other-galaxies.md)

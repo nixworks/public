@@ -1,6 +1,6 @@
 ## [2011-03-22](/news/2011/03/22/index.md)
 
-### [2011 Libyan civil war:: Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/2011-libyan-civil-war-two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md)
+### [Two US airmen safely eject prior to their F-15E crashing near Benghazi, Libya, due to mechanical failure. ](/news/2011/03/22/two-us-airmen-safely-eject-prior-to-their-f-15e-crashing-near-benghazi-libya-due-to-mechanical-failure.md)
 Two US airmen are rescued in eastern Libya after their warplane crashed during allied operations, officials say.
 
 ### [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md)
@@ -33,7 +33,7 @@ _Context: Deutsche Bank, Federal Court of Justice, Germany, Ille Papier Service,
 ### [The Mozilla Foundation releases Firefox 4. ](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.md)
 _Context: Firefox 4, Mozilla Foundation_
 
-### [2011 Tohoku earthquake and tsunami:: Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/2011-tahoku-earthquake-and-tsunami-tokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problem.md)
+### [Tokyo Electric Power Co. resumes its policy of rolling electricity blackouts following ongoing problems caused by the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/22/tokyo-electric-power-co-resumes-its-policy-of-rolling-electricity-blackouts-following-ongoing-problems-caused-by-the-2011-tahoku-earthquak.md)
 Tokyo Electric Power will have to compensate farmers for losses caused by the nuclear radiation leaks.
 
 ### [South Korea agrees to hold talks with North Korea about a potential eruption of Baekdu Mountain near the North's border with the People's Republic of China. ](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.md)

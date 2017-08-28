@@ -3,7 +3,7 @@
 ### [Ethiopian forces launch attacks on three militant camps inside Eritrea. ](/news/2012/03/15/ethiopian-forces-launch-attacks-on-three-militant-camps-inside-eritrea.md)
 _Context: Eritrea, Ethiopia_
 
-### [2011-2012 Syrian uprising:: Turkish intelligence reports claim that approximately 20,000 Syrian soldiers have deserted from the government forces in less than a month. ](/news/2012/03/15/2011-2012-syrian-uprising-turkish-intelligence-reports-claim-that-approximately-20-000-syrian-soldiers-have-deserted-from-the-government-f.md)
+### [Turkish intelligence reports claim that approximately 20,000 Syrian soldiers have deserted from the government forces in less than a month. ](/news/2012/03/15/turkish-intelligence-reports-claim-that-approximately-20-000-syrian-soldiers-have-deserted-from-the-government-forces-in-less-than-a-month.md)
 Turkey threatened to launch a military incursion into northern Syria after refugees fleeing alleged massacres by pro-Assad forces poured across its frontiers.
 
 ### [Two French soldiers are killed and one injured in a drive-by shooting in southern France. ](/news/2012/03/15/two-french-soldiers-are-killed-and-one-injured-in-a-drive-by-shooting-in-southern-france.md)

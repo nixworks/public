@@ -12,7 +12,7 @@ The pullback from an area where the Taliban and Al Qaeda have forged close ties 
 ### [ The Autonomous Region in Muslim Mindanao in the Philippines are holding elections using for the first-time electronic voting as precedent to the Presidential elections in 2010. ](/news/2008/08/11/the-autonomous-region-in-muslim-mindanao-in-the-philippines-are-holding-elections-using-for-the-first-time-electronic-voting-as-precedent-t.md)
 _Context: 2010, Autonomous Region in Muslim Mindanao, Philippines, election system, elections_
 
-### [ 2008 South Ossetian War:: According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/2008-south-ossetian-war-according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civil.md)
+### [ According to Ossetian and Russian sources, Georgian attacks leave 2000 dead in South Ossetia, most of which civilian population of Tskhinvali. ](/news/2008/08/11/according-to-ossetian-and-russian-sources-georgian-attacks-leave-2000-dead-in-south-ossetia-most-of-which-civilian-population-of-tskhinva.md)
 ----CHECK MY CHANNEL FOR LATEST NEWS---- President Mikheil Saakashvili said Monday that the proposal would be taken to Moscow by the French and Finnish forei...
 
 ## [Previous Day...](/news/2008/08/10/index.md)

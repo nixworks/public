@@ -1,15 +1,13 @@
 ## [2011-02-4](/news/2011/02/4/index.md)
 
-### [2011 Egyptian protests:: Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/2011-egyptian-protests-anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md)
-_Context: Protesters_
-
+### [Anti-government protesters demonstrate against the Mubarak regime for an eleventh day - the "Day of Departure". ](/news/2011/02/4/anti-government-protesters-demonstrate-against-the-mubarak-regime-for-an-eleventh-day-the-day-of-departure.md)
 ### [Police beat with batons and shoot tear gas at student protesters in the Sudanese state of Sennar in demonstrations inspired by the uprisings in Tunisia and Egypt. ](/news/2011/02/4/police-beat-with-batons-and-shoot-tear-gas-at-student-protesters-in-the-sudanese-state-of-sennar-in-demonstrations-inspired-by-the-uprisings.md)
 _Context: Sennar, baton, state, tear gas_
 
-### [2011 Syrian protests:: Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/2011-syrian-protests-syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md)
+### [Syrian protestors call for "a day of anger" against the Syrian government. ](/news/2011/02/4/syrian-protestors-call-for-a-day-of-anger-against-the-syrian-government.md)
 Protesters&#x20;have&#x20;called&#x20;for&#x20;&quot;a&#x20;day&#x20;of&#x20;anger&quot;&#x20;in&#x20;Syria,&#x20;demanding&#x20;an&#x20;end&#x20;to&#x20;&#x201C;corruption&#x20;and&#x20;tyranny&#x201D;.&#x20;The&#x20;action&#x20;is&#x20;scheduled&#x20;to&#x20;take&#x20;place&#x20;after&#x20;Friday&...
 
-### [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodian-thai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md)
+### [Cambodian-Thai border stand-off: The Thai Army and the Cambodian Armed Forces clash on the border near the Preah Vihear Temple. ](/news/2011/02/4/cambodianathai-border-stand-off-the-thai-army-and-the-cambodian-armed-forces-clash-on-the-border-near-the-preah-vihear-temple.md)
 _Context: Cambodian Armed Forces, Cambodian-Thai border stand-off, Preah Vihear Temple, Thai Army_
 
 ### [Islamic militants kill two Thai security guards in the south of the country. ](/news/2011/02/4/islamic-militants-kill-two-thai-security-guards-in-the-south-of-the-country.md)
@@ -40,7 +38,7 @@ _Context: Burma, India_
 ### [A man from Bamboroo, Queensland becomes the first casualty of Severe Tropical Cyclone Yasi in Australia. ](/news/2011/02/4/a-man-from-bamboroo-queensland-becomes-the-first-casualty-of-severe-tropical-cyclone-yasi-in-australia.md)
 _Context: Australia, Queensland, Severe Tropical Cyclone Yasi_
 
-### [The death toll from the January 31-February 2, 2011 North American winter storm is at least a dozen. ](/news/2011/02/4/the-death-toll-from-the-january-31-february-2-2011-north-american-winter-storm-is-at-least-a-dozen.md)
+### [The death toll from the January 31-February 2, 2011 North American winter storm is at least a dozen. ](/news/2011/02/4/the-death-toll-from-the-january-31afebruary-2-2011-north-american-winter-storm-is-at-least-a-dozen.md)
 _Context: January 31-February 2, 2011 North American winter storm_
 
 ### [A small plane crashes in Sulaimaniya in Iraq's semi-autonomous northern Kurdish region killing all seven people on board. ](/news/2011/02/4/a-small-plane-crashes-in-sulaimaniya-in-iraq-s-semi-autonomous-northern-kurdish-region-killing-all-seven-people-on-board.md)

@@ -1,12 +1,12 @@
 ## [2011-03-23](/news/2011/03/23/index.md)
 
-### [2011 Syrian protests: Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. ](/news/2011/03/23/2011-syrian-protests-syrian-forces-kill-at-least-four-people-at-the-omari-mosque-in-the-southern-syrian-city-of-deraa-following-days-of-pro.md)
+### [Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. ](/news/2011/03/23/syrian-forces-kill-at-least-four-people-at-the-omari-mosque-in-the-southern-syrian-city-of-deraa-following-days-of-protest-against-the-ba-at.md)
 At least six people have died after security forces fired on protesters outside a mosque in the Syrian city of Deraa, human rights activists say.
 
-### [2011 Libyan civil war: Kuwait and Jordan provide logistics, and Turkey adds five ships and a submarine to the military intervention in Libya. ](/news/2011/03/23/2011-libyan-civil-war-kuwait-and-jordan-provide-logistics-and-turkey-adds-five-ships-and-a-submarine-to-the-military-intervention-in-libya.md)
+### [Kuwait and Jordan provide logistics, and Turkey adds five ships and a submarine to the military intervention in Libya. ](/news/2011/03/23/kuwait-and-jordan-provide-logistics-and-turkey-adds-five-ships-and-a-submarine-to-the-military-intervention-in-libya.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
-### [2011 Yemeni protests: The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-20.md)
+### [The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-2011-yemeni-protests-con.md)
 _Context: 2011 Yemeni protests, Saleh, Yemeni President_
 
 ### [Islamic Jihad militants in the Gaza Strip fire ten mortars at the Eshkol, Sha'ar Hanegev region, and Grad rockets at the Israeli cities of Ashkelon and Beersheba; one person is injured in Beersheba. ](/news/2011/03/23/islamic-jihad-militants-in-the-gaza-strip-fire-ten-mortars-at-the-eshkol-sha-ar-hanegev-region-and-grad-rockets-at-the-israeli-cities-of-a.md)
@@ -36,7 +36,7 @@ _Context: Interior Minister, Jasmine Revolution of 2011, Lampedusa, Roberto Maro
 ### [An Egyptian committee set up to investigate violence during demonstrations that ousted former President Hosni Mubarak has charged him and the interior minister with the intentional murder of protesters. ](/news/2011/03/23/an-egyptian-committee-set-up-to-investigate-violence-during-demonstrations-that-ousted-former-president-hosni-mubarak-has-charged-him-and-th.md)
 Investigation of violence during protests says former president and interior minister intentionally murdered over 360 protesters.
 
-### [Moriarty Tribunal:: The Moriarty Tribunal, which yesterday found former government minister Michael Lowry guilty "beyond doubt" of assisting billionaire businessman Denis O'Brien in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal, is referred to the Director of Public Prosecutions (DPP). ](/news/2011/03/23/moriarty-tribunal-the-moriarty-tribunal-which-yesterday-found-former-government-minister-michael-lowry-guilty-beyond-doubt-of-assisting.md)
+### [The Moriarty Tribunal, which yesterday found former government minister Michael Lowry guilty "beyond doubt" of assisting billionaire businessman Denis O'Brien in gaining a mobile phone license for Esat Digifone, in actions judged "disgraceful and insidious" by the tribunal, is referred to the Director of Public Prosecutions (DPP). ](/news/2011/03/23/the-moriarty-tribunal-which-yesterday-found-former-government-minister-michael-lowry-guilty-beyond-doubt-of-assisting-billionaire-busines.md)
  MEDIA LEAKS: THE &ldquo;SIGNIFICANT leaking&rdquo; of tribunal information by Sarah Carey, a former employee of Denis O&rsquo;Brien, was &ldquo;irresponsible&hellip;
 
 ### [The United States Court of Appeals for the Ninth Circuit refuses to allow same-sex marriages to resume in the US state of California while it considers the constitutionality of Proposition 8. ](/news/2011/03/23/the-united-states-court-of-appeals-for-the-ninth-circuit-refuses-to-allow-same-sex-marriages-to-resume-in-the-us-state-of-california-while-i.md)

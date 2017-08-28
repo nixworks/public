@@ -1,0 +1,25 @@
+### [2016-11-30](/news/2016/11/30/index.md)
+
+# The recount in North Carolina continues amid pressure towards Republican candidate Pat McCrory to accept his defeat by Democratic nominee Roy Cooper. 
+
+SALEM, N.C. (Reuters) - A U.S. federal court on Tuesday set a March 15 deadline for North Carolina state lawmakers to redraw legislative districts found to be racially &quot;gerrymandered,&quot; and ordered a new round of elections by next November for the 28 seats at stake.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-north-carolina-gerrymander-idUSKBN13P0E4)
+2. [The New York Times](http://www.nytimes.com/2016/11/29/us/north-carolina-governor-race.html)
+3. [WCTI-TV](http://www.wcti12.com/news/state/the-latest-mccrory-still-resists-calls-to-concede-election_/192321074)
+
+### Related:
+
+1. [Recounts begin in North Carolina. ](/news/2016/12/1/recounts-begin-in-north-carolina.md) _Context: North Carolina, North Carolina  gubernatorial election, 2016_
+2. [The campaign of Republican president-elect Donald Trump has called the planned recounts by Green nominee Jill Stein's campaign in Wisconsin, Pennsylvania and Michigan a "scam" and has criticized the participation of the campaign of Democratic candidate Hillary Clinton. ](/news/2016/11/27/the-campaign-of-republican-presidentaelect-donald-trump-has-called-the-planned-recounts-by-green-nominee-jill-stein-s-campaign-in-wisconsi.md) _Context: Democratic, Republican_
+3. [The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. ](/news/2016/10/13/the-death-toll-in-north-carolina-rises-to-22-as-flood-waters-continue-to-rise-governor-pat-mccrory-says-places-that-had-a-foot-of-water-in.md) _Context: North Carolina, Pat McCrory_
+4. [The death toll in the United States from Hurricane Matthew rises to 27 with at least five people still missing in North Carolina. Governor Pat McCrory warns that the state's swollen rivers are still rising with flooding continuing to pose threats to life and property this week. The storm, downgraded to a post-tropical cyclone yesterday, moves away from the U.S. coastline on an east-northeast track. ](/news/2016/10/10/the-death-toll-in-the-united-states-from-hurricane-matthew-rises-to-27-with-at-least-five-people-still-missing-in-north-carolina-governor-p.md) _Context: North Carolina, Pat McCrory_
+5. [The United States Supreme Court rejects two of North Carolina's congressional districts because they violated the Constitution by relying too heavily on race in drawing them. ](/news/2017/05/22/the-united-states-supreme-court-rejects-two-of-north-carolina-s-congressional-districts-because-they-violated-the-constitution-by-relying-to.md) _Context: North Carolina_
+6. [The U.S. Supreme Court rules that the North Carolina state legislative members do not have standing to request an appeal of the U.S. Court of Appeals for the Fourth Circuit ruling against a law which it found discriminated against black voters. ](/news/2017/05/15/the-u-s-supreme-court-rules-that-the-north-carolina-state-legislative-members-do-not-have-standing-to-request-an-appeal-of-the-u-s-court-o.md) _Context: North Carolina_
+7. [The state legislature of North Carolina repeals the Public Facilities Privacy & Security Act, more commonly known as the "transgender bathroom bill." In its place, the legislature enacts a ban on cities in North Carolina from enacting "civil rights" protections for gay, lesbian, bisexual and transgender people through 2020. ](/news/2017/03/30/the-state-legislature-of-north-carolina-repeals-the-public-facilities-privacy-security-act-more-commonly-known-as-the-transgender-bathro.md) _Context: North Carolina_
+8. [Hurricane Matthew, responsible for killing 13 people and knocking out power to 2.2 million households and businesses in the Southeastern United States, is now a Category 1 hurricane (75 mph;120 km/h winds) approaching the North Carolina coast. ](/news/2016/10/8/hurricane-matthew-responsible-for-killing-13-people-and-knocking-out-power-to-2-2-million-households-and-businesses-in-the-southeastern-uni.md) _Context: North Carolina_
+9. [Protesters of the police shooting of Keith Lamont Scott yesterday injure twelve Charlotte, North Carolina police officers. Riots continue into a second night with North Carolina Governor Pat McCrory declaring a state of emergency. ](/news/2016/09/21/protesters-of-the-police-shooting-of-keith-lamont-scott-yesterday-injure-twelve-charlotte-north-carolina-police-officers-riots-continue-in.md) _Context: Pat McCrory_
+10. [The U.S. states of North Carolina and Virginia declare a state of emergency over gas shortages as a result of the Colonial pipeline leak in Shelby County, Alabama. ](/news/2016/09/19/the-u-s-states-of-north-carolina-and-virginia-declare-a-state-of-emergency-over-gas-shortages-as-a-result-of-the-colonial-pipeline-leak-in.md) _Context: North Carolina_

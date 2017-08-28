@@ -21,7 +21,7 @@ _Context: Apple Inc., Samsung, South Korea, smartphones_
 ### [A 6.9 magnitude earthquake strikes 51 kilometres south-west of the city of Ica in Peru at a depth of 35 km. No reports of casualties are issued. ](/news/2011/10/28/a-6-9-magnitude-earthquake-strikes-51-kilometres-south-west-of-the-city-of-ica-in-peru-at-a-depth-of-35-km-no-reports-of-casualties-are-iss.md)
 _Context: Ica, Peru, earthquake_
 
-### [Commonwealth Heads of Government Meeting 2011:: The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/commonwealth-heads-of-government-meeting-2011-the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-o.md)
+### [The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. ](/news/2011/10/28/the-heads-of-government-of-the-commonwealth-of-nations-meet-in-the-western-australian-city-of-perth.md)
 Behind the scenes at the Commonwealth Heads of Government Meeting in Perth there is disquiet amongst some members about the lack of will to reform the organisation. The Eminent Person&#039;s group recommendation to set up a Commissioner for Democracy, Human Rights and the Rule of Law has received sc...
 
 ### [The trial of former Prime Minister of Croatia Ivo Sanader, which was due to begin in Zagreb, is postponed on health grounds. ](/news/2011/10/28/the-trial-of-former-prime-minister-of-croatia-ivo-sanader-which-was-due-to-begin-in-zagreb-is-postponed-on-health-grounds.md)
@@ -30,13 +30,13 @@ The trial of former Croatian Prime Minister Ivo Sanader for corruption over a lo
 ### [Dutch engineer Vincent Tabak is convicted of the murder of British landscape artist Joanna Yeates and sentenced to life imprisonment. ](/news/2011/10/28/dutch-engineer-vincent-tabak-is-convicted-of-the-murder-of-british-landscape-artist-joanna-yeates-and-sentenced-to-life-imprisonment.md)
 Vincent Tabak is found guilty of the murder of Bristol landscape architect Jo Yeates and sentenced to a minimum of 20 years in jail.
 
-### [Occupy London protests:: St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/occupy-london-protests-st-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp.md)
-_Context: Occupy London, St Paul's Cathedral_
+### [St Paul's Cathedral re-opens to visitors after closing a week ago because Occupy London protesters had set up camp in its churchyard. ](/news/2011/10/28/st-paul-s-cathedral-re-opens-to-visitors-after-closing-a-week-ago-because-occupy-london-protesters-had-set-up-camp-in-its-churchyard.md)
+_Context: St Paul's Cathedral_
 
 ### [Nine servicemen from the Thai army are arrested on suspicion of killing 13 Chinese sailors on October 5 in a section of the Mekong River bordering Thailand, Laos and Myanmar. ](/news/2011/10/28/nine-servicemen-from-the-thai-army-are-arrested-on-suspicion-of-killing-13-chinese-sailors-on-october-5-in-a-section-of-the-mekong-river-bor.md)
-_Context: Chinese, Laos, Mekong River, Myanmar, Royal Thai Army, Thailand_
+_Context: Burmese, Chinese, Laos, Mekong River, Royal Thai Army, Thailand_
 
-### [Elections in Ireland:: Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/elections-in-ireland-michael-d-higgins-wins-the-irish-presidential-election.md)
+### [Michael D. Higgins wins the Irish presidential election. ](/news/2011/10/28/michael-d-higgins-wins-the-irish-presidential-election.md)
 Michael D. Higgins will become Ireland&#039;s next president after his main rival conceded defeat on Friday to the 70-year-old poet and former arts minister.
 
 ### [The Obama administration orders an independent review of Department of Energy "clean-energy" loans following the bankruptcy of solar energy company Solyndra. ](/news/2011/10/28/the-obama-administration-orders-an-independent-review-of-department-of-energy-clean-energy-loans-following-the-bankruptcy-of-solar-energy.md)

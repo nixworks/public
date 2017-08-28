@@ -6,7 +6,7 @@ _Context: Libya, Muammar al-Gaddafi, United States State Department, minaret con
 ### [Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. ](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-the-dutch-catholic-church-apologises-and-the-country-s-religious-leaders-request-an-indepen.md)
 _Context:  within the church, Germany, Netherlands, Pope Benedict XVI, Salzburg_
 
-### [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined -200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md)
+### [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined EUR200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-a-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md)
 Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has been fined 200,000 euros (&pound;181,000) by a German court for assaulting a hotel manager on an African island.
 
 ### [The first witnesses appear before the Solomon Islands Truth and Reconciliation Commission. ](/news/2010/03/9/the-first-witnesses-appear-before-the-solomon-islands-truth-and-reconciliation-commission.md)
@@ -39,7 +39,7 @@ The agreements were made public in the United States years ago, but until recent
 ### [A national strike by taxi drivers causes disruption across Ireland, stopping work at the country's three main airports, closing Dublin's O'Connell Street completely and blocking other streets as the High Court orders protesters to leave their sit-in at Commission for Taxi Regulation headquarters. ](/news/2010/03/9/a-national-strike-by-taxi-drivers-causes-disruption-across-ireland-stopping-work-at-the-country-s-three-main-airports-closing-dublin-s-o-c.md)
 Two men who had been staging a sit-in at the offices of the Taxi Regulator in Dublin have ended their protest.
 
-### [The first use of a biocontrol agent against a weed in the European Union is approved - the Japanese insect "Aphalara itadori" will be released at trial sites in England to combat invasive Japanese knotweed. ](/news/2010/03/9/the-first-use-of-a-biocontrol-agent-against-a-weed-in-the-european-union-is-approved-the-japanese-insect-aphalara-itadori-will-be-rele.md)
+### [The first use of a biocontrol agent against a weed in the European Union is approved -- the Japanese insect "Aphalara itadori" will be released at trial sites in England to combat invasive Japanese knotweed. ](/news/2010/03/9/the-first-use-of-a-biocontrol-agent-against-a-weed-in-the-european-union-is-approved-a-the-japanese-insect-aphalara-itadori-will-be-rele.md)
 _Context: Aphalara itadori, European Union, Japanese knotweed, biocontrol, invasive_
 
 ### [Burma's military junta announces the first law relating to the 2010 general election, concerning the election commission. ](/news/2010/03/9/burma-s-military-junta-announces-the-first-law-relating-to-the-2010-general-election-concerning-the-election-commission.md)

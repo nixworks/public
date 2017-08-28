@@ -1,6 +1,6 @@
 ## [2014-06-4](/news/2014/06/4/index.md)
 
-### [2014 pro-Russian conflict in Ukraine:: Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/2014-pro-russian-conflict-in-ukraine-separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-reb.md)
+### [Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-rebel-held-town-of-sloviansk.md)
 Separatist rebels take Ukrainian military bases in the eastern region of Luhansk as fighting continues near the rebel-held town of Sloviansk.
 
 ### [A suicide car bomber detonates his vehicle at the residence of Khalifa Haftar in Benghazi, Libya, killing 4 of his guards and injuring another 3. ](/news/2014/06/4/a-suicide-car-bomber-detonates-his-vehicle-at-the-residence-of-khalifa-haftar-in-benghazi-libya-killing-4-of-his-guards-and-injuring-anoth.md)
@@ -37,7 +37,7 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 _Context: Attorney General of Germany, Harald Range, NSA, surveillance of Chancellor Angela Merkel's phone_
 
 ### [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md)
-_Context: China, International Court of Arbitration, Philippines, Philippines v. China, The Hague, sweeping claim_
+_Context: China, International Court of Arbitration, Philippines, The Hague, court decision, sweeping claim_
 
 ### [In the city of Moncton, New Brunswick, Canada, an armed gunman shoots five RCMP officers, killing three. ](/news/2014/06/4/in-the-city-of-moncton-new-brunswick-canada-an-armed-gunman-shoots-five-rcmp-officers-killing-three.md)
 New Brunswick RCMP have confirmed that three officers were shot and killed and two other officers were wounded by a heavily armed gunman wearing camouflage in Moncton.

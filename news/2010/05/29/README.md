@@ -3,7 +3,7 @@
 ### [BP's effort fails to plug the Gulf of Mexico oil spill, which is the worst in U.S. history, and is fouling marshland and beaches, as estimates of how much oil is leaking grow more dire. ](/news/2010/05/29/bp-s-effort-fails-to-plug-the-gulf-of-mexico-oil-spill-which-is-the-worst-in-u-s-history-and-is-fouling-marshland-and-beaches-as-estimat.md)
 _Context: BP, Deepwater Horizon oil spill_
 
-### [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1-0-win-over-the-florida-marlins.md)
+### [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1a0-win-over-the-florida-marlins.md)
 _Context: Florida Marlins, Major League Baseball, Philadelphia Phillies, Roy Halladay, perfect game, pitcher_
 
 ### [Tens of thousands of Portuguese rally in central Lisbon against the government's austerity measures in one of the biggest protests in recent years. ](/news/2010/05/29/tens-of-thousands-of-portuguese-rally-in-central-lisbon-against-the-government-s-austerity-measures-in-one-of-the-biggest-protests-in-recent.md)
@@ -15,13 +15,13 @@ Evacuation of villages under way in Hunza and Gilgit amid fears of a dangerous b
 ### [Chinese Premier Wen Jiabao, Japanese Prime Minister Yukio Hatoyama and South Korean President Lee Myung-bak meet in Jeju in a trilateral summit to discuss strengthening trade ties and the "Cheonan" incident. ](/news/2010/05/29/chinese-premier-wen-jiabao-japanese-prime-minister-yukio-hatoyama-and-south-korean-president-lee-myung-bak-meet-in-jeju-in-a-trilateral-sum.md)
 JEJU ISLAND ― President Lee Myung-bak agreed with Japanese Prime Minister Yukio Hatoyama and Chinese Premier Wen Jiabao, Sunday, to work closely together to prevent the deadly sinking of a South Korean Navy vessel on March 26 from damaging their efforts to ensure regional peace and prosperity.
 
-### [Eurovision Song Contest 2010 at the Telenor Arena in Baerum: Oslo: An audience member storms the stage during Daniel Diges performance. The Spanish entry has to be performed again. ](/news/2010/05/29/eurovision-song-contest-2010-at-the-telenor-arena-in-ba-rum-oslo-an-audience-member-storms-the-stage-during-daniel-diges-performance-the.md)
+### [An audience member storms the stage during Daniel Diges performance. The Spanish entry has to be performed again. ](/news/2010/05/29/an-audience-member-storms-the-stage-during-daniel-diges-performance-the-spanish-entry-has-to-be-performed-again.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 ### [Israel rejects call to take part in a conference aimed at achieving a nuclear-arms free Middle East, citing the document agreed to at the Nuclear Non-Proliferation Treaty talks in which Israel was singled out, but which did not mention Iran, widely suspected of having a nuclear-weapons program, or declared nuclear states India and Pakistan, who have not signed the treaty.](/news/2010/05/29/israel-rejects-call-to-take-part-in-a-conference-aimed-at-achieving-a-nuclear-arms-free-middle-east-citing-the-document-agreed-to-at-the-nu.md)
 Israel calls agreement “deeply flawed and hypocritical.”
 
-### [Israeli-Palestinian conflict:: Gaza prepares a welcoming party to receive the flotilla of ships demonstrating against Israel's naval blockade, while the ships are delayed near Cyprus due to unsuccessful attempts to collect dozens of high-profile supporters from the island. ](/news/2010/05/29/israeli-palestinian-conflict-gaza-prepares-a-welcoming-party-to-receive-the-flotilla-of-ships-demonstrating-against-israel-s-naval-block.md)
+### [Gaza prepares a welcoming party to receive the flotilla of ships demonstrating against Israel's naval blockade, while the ships are delayed near Cyprus due to unsuccessful attempts to collect dozens of high-profile supporters from the island. ](/news/2010/05/29/gaza-prepares-a-welcoming-party-to-receive-the-flotilla-of-ships-demonstrating-against-israel-s-naval-blockade-while-the-ships-are-delayed.md)
 Ships carrying 10,000 tonnes of supplies and hundreds of pro-Palestinian activists to blockaded Gaza are being held up near Cyprus.
 
 ### [Thousands of people flee the Pacaya volcano in Guatemala and the Tungurahua volcano in Ecuador following eruptions. ](/news/2010/05/29/thousands-of-people-flee-the-pacaya-volcano-in-guatemala-and-the-tungurahua-volcano-in-ecuador-following-eruptions.md)

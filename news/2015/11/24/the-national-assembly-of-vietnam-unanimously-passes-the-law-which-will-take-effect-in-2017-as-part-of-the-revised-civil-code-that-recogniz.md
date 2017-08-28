@@ -11,4 +11,4 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ### Related:
 
-1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van Khai and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaopsi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citing.md) _Context: National Assembly of Vietnam_
+1. [ In Vietnam, President Tran Duc Luong, Prime Minister Phan Van KhGBPi and the Chairman of the Assembly Nguyen Van An resign, citing old age. ](/news/2006/06/24/in-vietnam-president-traossn-aa-c-c-laedegae-ng-prime-minister-phan-van-khaogbpi-and-the-chairman-of-the-assembly-nguyen-van-an-resign-citin.md) _Context: National Assembly of Vietnam_

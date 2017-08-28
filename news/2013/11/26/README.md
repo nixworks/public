@@ -1,15 +1,15 @@
 ## [2013-11-26](/news/2013/11/26/index.md)
 
-### [Central African Republic conflict (2012-13):: France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/central-african-republic-conflict-2012-13-france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md)
-_Context: Central African Republic, Central African Republic conflict (2012-13), France_
+### [France announces that it plans to intervene in the conflict in the Central African Republic. ](/news/2013/11/26/france-announces-that-it-plans-to-intervene-in-the-conflict-in-the-central-african-republic.md)
+_Context: Central African Republic, France_
 
-### [Typhoon Haiyan:: 39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md)
+### [39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber-release-a-charit.md)
 Isn&#39;t it nice when everyone bands together for a cause? The compilation album &#39;Songs for the Philippines,&#39; on sale at iTunes, includes tracks by Beyonce, U2 and Adele and benefits the Philippine Red Cross.
 
 ### [An archaeological site is discovered in Nepal dating to 550 BC which is claimed to be a Buddhist shrine. If true, the birthday of the Buddha would be pushed back. However, not all experts agree on the significance of the site. ](/news/2013/11/26/an-archaeological-site-is-discovered-in-nepal-dating-to-550-bc-which-is-claimed-to-be-a-buddhist-shrine-if-true-the-birthday-of-the-buddha.md)
 Excavations at a Buddhist pilgrimage site in Nepal have uncovered a shrine dating to the sixth century B.C.
 
-### [2012 Benghazi attack:: CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/2012-benghazi-attack-cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of.md)
+### [CBS suspends Lara Logan and her producer after she admitted that portions of her "60 Minutes" report on the death of U.S. Ambassador J. Christopher Stevens were false. ](/news/2013/11/26/cbs-suspends-lara-logan-and-her-producer-after-she-admitted-that-portions-of-her-60-minutes-report-on-the-death-of-u-s-ambassador-j-chri.md)
 CBS suspends star reporter Lara Logan and a producer for a discredited 60 Minutes report about the attack on a US post in Benghazi, Libya.
 
 ### [The U.K. Chancellor of the Exchequer asks the Bank of England whether it needs more power. The central bank's Financial Policy Committee will study the question. ](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.md)
@@ -21,7 +21,7 @@ Fire hazards from possible oil and fuel leaks are cited for the 1.6-liter 4-cyin
 ### [At least 30 Haitian migrants die when a boat capsizes off the Bahamas. ](/news/2013/11/26/at-least-30-haitian-migrants-die-when-a-boat-capsizes-off-the-bahamas.md)
 The fatal accident is the latest in a series of shipwrecks involving Haitian migrants, who pay smugglers to ferry them to the United States in often unseaworthy vessels.
 
-### [Islam in Angola:: Angola denies it has banned Islam. ](/news/2013/11/26/islam-in-angola-angola-denies-it-has-banned-islam.md)
+### [Angola denies it has banned Islam. ](/news/2013/11/26/angola-denies-it-has-banned-islam.md)
 An official at the Angolan Embassy said Angola is a country that does not interfere in religion.
 
 ### [Britain makes a protest to the Spanish authorities over the opening of a diplomatic bag at the border with Gibraltar on Friday 22 November 2013. ](/news/2013/11/26/britain-makes-a-protest-to-the-spanish-authorities-over-the-opening-of-a-diplomatic-bag-at-the-border-with-gibraltar-on-friday-22-november-2.md)
@@ -39,10 +39,10 @@ The rock singer has pleaded guilty to offences including two of attempting to ra
 ### [The U.S. Supreme Court agrees to hear certain major religious freedom cases that will decide whether a company that is for-profit (including family-run ones)- and other entities who are not themselves churches- can refuse to provide contraceptive coverage that would otherwise be required under the Patient Protection and Affordable Care Act; lower courts are split. ](/news/2013/11/26/the-u-s-supreme-court-agrees-to-hear-certain-major-religious-freedom-cases-that-will-decide-whether-a-company-that-is-for-profit-including.md)
 _Context: Patient Protection and Affordable Care Act, U.S. Supreme Court, appeals court_
 
-### [2013 Thai protests:: Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/2013-thai-protests-protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-b.md)
-_Context: 2013 Thai protests, Prime Minister, Thaksin Shinawatra, Yingluck Shinawatra_
+### [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md)
+_Context: Prime Minister, Thaksin Shinawatra, Yingluck Shinawatra_
 
-### [Scottish independence referendum:: A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/scottish-independence-referendum-a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)
+### [A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)
 First Minister Alex Salmond says &#034;it would cost the UK &pound;500m&#034; not to have an independent Scotland in the sterling currency, and would leave a &#034;massive hole in the UK balance of payments&#034;
 
 ## [Previous Day...](/news/2013/11/25/index.md)

@@ -1,15 +1,15 @@
 ## [2012-02-7](/news/2012/02/7/index.md)
 
-### [2011-2012 Syrian uprising: Sergey Lavrov, the Foreign Minister of Russia, visits Damascus to hold discussions with the President of Syria Bashar al-Assad about the current violence. ](/news/2012/02/7/2011-2012-syrian-uprising-sergey-lavrov-the-foreign-minister-of-russia-visits-damascus-to-hold-discussions-with-the-president-of-syria-ba.md)
+### [Sergey Lavrov, the Foreign Minister of Russia, visits Damascus to hold discussions with the President of Syria Bashar al-Assad about the current violence. ](/news/2012/02/7/sergey-lavrov-the-foreign-minister-of-russia-visits-damascus-to-hold-discussions-with-the-president-of-syria-bashar-al-assad-about-the-cur.md)
 Russia won a promise from Syrian President Bashar al-Assad on Tuesday to bring an end to bloodshed in Syria, but Western and Arab states acted to isolate Assad further after activists and rebels said his forces killed over 100 in the city of Homs.
 
-### [Maldives police mutiny: Maldives National Defence Force soldiers fire rubber bullets at police officers demonstrating in the capital Male who are defying an order by President Mohamed Nasheed to crack down on protests. ](/news/2012/02/7/maldives-police-mutiny-maldives-national-defence-force-soldiers-fire-rubber-bullets-at-police-officers-demonstrating-in-the-capital-mala-c-w.md)
+### [Maldives National Defence Force soldiers fire rubber bullets at police officers demonstrating in the capital Male who are defying an order by President Mohamed Nasheed to crack down on protests. ](/news/2012/02/7/maldives-national-defence-force-soldiers-fire-rubber-bullets-at-police-officers-demonstrating-in-the-capital-mala-c-who-are-defying-an-order.md)
 Maldives President Mohamed Nasheed resigns after weeks of demonstrations and a mutiny by some police officers.
 
 ### [A standoff between security forces and striking policemen occupying the state legislature continues in Salvador, Brazil. ](/news/2012/02/7/a-standoff-between-security-forces-and-striking-policemen-occupying-the-state-legislature-continues-in-salvador-brazil.md)
 State governor says issue can be resolved through negotiations after state legislature is taken over in Salvador city.
 
-### [Tuareg Rebellion (2011-present): 22,000 people flee fighting in Mali to neighbouring countries. ](/news/2012/02/7/tuareg-rebellion-2011-present-22-000-people-flee-fighting-in-mali-to-neighbouring-countries.md)
+### [Tuareg Rebellion (2011-present): 22,000 people flee fighting in Mali to neighbouring countries. ](/news/2012/02/7/tuareg-rebellion-2011apresent-22-000-people-flee-fighting-in-mali-to-neighbouring-countries.md)
 _Context: Mali, Tuareg Rebellion (2011-present)_
 
 ### [Greek government debt crisis: discussions among the three parties within the ruling coalition in Greece are postponed, at least in part because the paperwork wasn't ready. ](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.md)
@@ -30,7 +30,7 @@ _Context: California, California Proposition 8, United States Court of Appeals f
 ### [Manssor Arbabsiar will face a trial on October 22 in the United States for his role in the 2011 alleged Iran assassination plot against the Saudi Arabian ambassador. ](/news/2012/02/7/manssor-arbabsiar-will-face-a-trial-on-october-22-in-the-united-states-for-his-role-in-the-2011-alleged-iran-assassination-plot-against-the.md)
 _Context: 2011 alleged Iran assassination plot, Saudi Arabia, United States_
 
-### [U.S. Republican Party presidential primaries: Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/u-s-republican-party-presidential-primaries-republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santo.md)
+### [Republican Party voters in Colorado participate in caucuses with 36 delegates at stake - Santorum wins, with Mitt Romney placing second. ](/news/2012/02/7/republican-party-voters-in-colorado-participate-in-caucuses-with-36-delegates-at-stake-santorum-wins-with-mitt-romney-placing-second.md)
 US conservative Rick Santorum wins races for the Republican presidential nomination in three states, upsetting front-runner Mitt Romney.
 
 ### [The French Cabinet walks out of the National Assembly after Socialist Party MP Serge Letchimy accuses Interior Minister Claude Gueant of flirting with Nazi ideology in his statement that "not all civilisations are of equal value". ](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.md)

@@ -1,7 +1,7 @@
 ## [2011-10-3](/news/2011/10/3/index.md)
 
-### [North Caucasus insurgency:: Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/north-caucasus-insurgency-two-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md)
-_Context: Dagestan, Insurgency in the North Caucasus, Kizilyurt, Russia_
+### [Two police officers are killed in a suicide car bombing in Kizilyurt, Dagestan, Russia. ](/news/2011/10/3/two-police-officers-are-killed-in-a-suicide-car-bombing-in-kizilyurt-dagestan-russia.md)
+_Context: Dagestan, Kizilyurt, Russia_
 
 ### [A mosque in the Israeli village of Tuba-Zangaria is torched. ](/news/2011/10/3/a-mosque-in-the-israeli-village-of-tuba-zangaria-is-torched.md)
 Police fear spike in ethnic tensions during Yom Kippur; police commissioner boosts patrols around mosques, other holy places throughout Israel in an effort to assure Arab community that police do not take such incidents lightly.

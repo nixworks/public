@@ -1,6 +1,6 @@
 ### [2005-08-8](/news/2005/08/8/index.md)
 
-#  STS-114: The Shuttle "Discovery" was waved off by Mission Control in Houston for a landing at Kennedy Space Center due to bad weather. NASA has said they will land the Orbiter in 24 hours, with Six opportunities available - the first two at Kennedy Space Center and the second two at Edwards Air Force Base and the final two at the White Sands Missile Range (also known as the White Sounds Spaceport). 
+#  STS-114: The Shuttle "Discovery" was waved off by Mission Control in Houston for a landing at Kennedy Space Center due to bad weather. NASA has said they will land the Orbiter in 24 hours, with Six opportunities available -- the first two at Kennedy Space Center and the second two at Edwards Air Force Base and the final two at the White Sands Missile Range (also known as the White Sounds Spaceport). 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

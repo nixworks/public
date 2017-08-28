@@ -1,6 +1,6 @@
 ## [2009-04-30](/news/2009/04/30/index.md)
 
-### [ Swine influenza outbreak:: President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/swine-influenza-outbreak-president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)
+### [ President Felipe Calderon partially closes Mexico's economy for five days. ](/news/2009/04/30/president-felipe-caldera3n-partially-closes-mexico-s-economy-for-five-days.md)
 The World Health Organisation (WHO), bowing to pressure from meat industry producers and concerned governments, said today it&hellip;
 
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
@@ -16,7 +16,7 @@ Polls have opened in the third round of India&#039;s month-long elections, with 
 _Context: Britain, Iraq, Iraq War, military operation_
 
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
-_Context: Colombia, Colombian armed conflict (1964-present), National Army of Colombia, Revolutionary Armed Forces of Colombia, soldier_
+_Context: Colombia, National Army of Colombia, Revolutionary Armed Forces of Colombia, internal conflict, soldier_
 
 ### [ Twelve people are killed at the State Oil Academy in Baku, Azerbaijan. ](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.md)
 _Context: Azerbaijan, Baku, State Oil Academy, killed_

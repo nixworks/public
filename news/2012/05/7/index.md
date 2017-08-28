@@ -18,7 +18,7 @@ _Context: Malaysia, Muslim, fatwa_
 ### [The CIA announces it had foiled a plot by Fahd al-Quso, a Yemeni affiliate of al-Qaida, to have a suicide bomber, using an improved version of the underwear bomb used by Umar Farouk Abdulmutallab in 2009, to blow up an American-bound airliner; no lives were ever at risk. ](/news/2012/05/7/the-cia-announces-it-had-foiled-a-plot-by-fahd-al-quso-a-yemeni-affiliate-of-al-qaida-to-have-a-suicide-bomber-using-an-improved-version.md)
 _Context: Al Qaida's, CIA, Fahd al-Quso, Umar Farouk Abdulmutallab_
 
-### [Bahamian general election, 2012:: Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/bahamian-general-election-2012-voters-in-the-bahamas-go-to-the-polls-for-a-general-election.md)
+### [Voters in The Bahamas go to the polls for a general election. ](/news/2012/05/7/voters-in-the-bahamas-go-to-the-polls-for-a-general-election.md)
 Outgoing prime minister and Free National Movement (FNM) leader, Hubert Ingraham conceded defeat shortly before 10 p.m., and announced that he would not lead the party in opposition and would resign his seat in Parliament. “I shall return to priv...
 
 ### [USL Leader, Victor Ponta, becomes Prime Minister of Romania. ](/news/2012/05/7/usl-leader-victor-ponta-becomes-prime-minister-of-romania.md)

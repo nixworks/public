@@ -1,18 +1,18 @@
 ## [2010-06-29](/news/2010/06/29/index.md)
 
-### [Aftermath of the Gaza flotilla clash: Turkey says it will return an ambassador to Israel if the Israeli government formally apologizes for the killing of nine Turkish citizens during the Gaza flotilla raid, compensates their families and when an independent commission is established into the matter. ](/news/2010/06/29/aftermath-of-the-gaza-flotilla-clash-turkey-says-it-will-return-an-ambassador-to-israel-if-the-israeli-government-formally-apologizes-for-t.md)
+### [Turkey says it will return an ambassador to Israel if the Israeli government formally apologizes for the killing of nine Turkish citizens during the Gaza flotilla raid, compensates their families and when an independent commission is established into the matter. ](/news/2010/06/29/turkey-says-it-will-return-an-ambassador-to-israel-if-the-israeli-government-formally-apologizes-for-the-killing-of-nine-turkish-citizens-du.md)
 Turkey wants a formal apology for the killing of nine Turkish citizens who were aboarda boat that tried unsuccessfully in May to breach the Israeli naval blockade of Gaza. 
 
-### [Israel: Egyptian border guards fatally shoot an Eritrean woman in the stomach and leg as she tries to cross the border illegally into Israel. ](/news/2010/06/29/israel-egyptian-border-guards-fatally-shoot-an-eritrean-woman-in-the-stomach-and-leg-as-she-tries-to-cross-the-border-illegally-into-israel.md)
+### [Egyptian border guards fatally shoot an Eritrean woman in the stomach and leg as she tries to cross the border illegally into Israel. ](/news/2010/06/29/egyptian-border-guards-fatally-shoot-an-eritrean-woman-in-the-stomach-and-leg-as-she-tries-to-cross-the-border-illegally-into-israel.md)
 An African migrant is shot and killed by Egyptian police as she tries to cross illegally into Israel.
 
-### [United States: The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. ](/news/2010/06/29/united-states-the-supreme-court-rules-that-nigerian-families-can-sue-drug-company-pfizer-for-using-a-deadly-antibiotic-on-their-children.md)
+### [The Supreme Court rules that Nigerian families can sue drug company Pfizer for using a deadly antibiotic on their children. ](/news/2010/06/29/the-supreme-court-rules-that-nigerian-families-can-sue-drug-company-pfizer-for-using-a-deadly-antibiotic-on-their-children.md)
 The US Supreme Court gives Nigerian families the green light to sue Pfizer over the use of a new antibiotic on their children.
 
-### [Africa: Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/africa-prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md)
+### [Prime Minister of Kenya Raila Odinga undergoes brain surgery in Nairobi. ](/news/2010/06/29/prime-minister-of-kenya-raila-odinga-undergoes-brain-surgery-in-nairobi.md)
 Rescue workers say there is little chance of finding more survivors after a gold mine collapsed in Ghana, trapping dozens.
 
-### [China: China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md)
+### [China and Taiwan sign a trade deal in the southern mainland city of Chongqing. ](/news/2010/06/29/china-and-taiwan-sign-a-trade-deal-in-the-southern-mainland-city-of-chongqing.md)
 China can maintain its grip on Tibet &quot;forever&quot;, a senior official said on Tuesday, but conceded that a heavy security presence was still needed to ensure order in Lhasa two years after deadly riots.
 
 ### [A report by Human Rights Watch calls on Britain, France and Germany to stop using intelligence obtained through illegal torture in third-party countries, saying that it contradicts the European Union's anti-torture guidelines and is self-defeating in the "fight against terrorism". ](/news/2010/06/29/a-report-by-human-rights-watch-calls-on-britain-france-and-germany-to-stop-using-intelligence-obtained-through-illegal-torture-in-third-par.md)
@@ -42,7 +42,7 @@ _Context: Indonesia, Jakarta, suicide attacks on two hotels_
 ### [Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. ](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.md)
 _Context: Australia, Base Hospital, Bundaberg, Jayant Patel, Queensland, Supreme Court, manslaughter by gross negligence_
 
-### [Australian Winter: Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/australian-winter-sydney-experiences-its-coldest-june-day-in-27-years.md)
+### [Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/sydney-experiences-its-coldest-june-day-in-27-years.md)
 Sydney has shivered through its coldest June day in 27 years, with the mercury plummeting to 4.7 degrees in the city.
 
 ### [At least 21 people die and hundreds are evacuated after major floods in the northeast of Romania. ](/news/2010/06/29/at-least-21-people-die-and-hundreds-are-evacuated-after-major-floods-in-the-northeast-of-romania.md)
@@ -54,8 +54,8 @@ _Context: 2010 Atlantic hurricane season, Baffin Bay, Hurricane Alex, Mexico, Te
 ### [21 suspected cases of swine flu A (H1N1), with one death, have been reported in Thanjavur in India. ](/news/2010/06/29/21-suspected-cases-of-swine-flu-a-h1n1-with-one-death-have-been-reported-in-thanjavur-in-india.md)
 Tamil Nadu has recorded 21 cases of A (H1N1) flu, including four in Chennai and its suburbs, since May.
 
-### [Presidential transition of Noynoy Aquino:: Aquino names the incoming cabinet and becomes the Secretary of Interior and Local Government in acting capacity. ](/news/2010/06/29/presidential-transition-of-noynoy-aquino-aquino-names-the-incoming-cabinet-and-becomes-the-secretary-of-interior-and-local-government-in-a.md)
-_Context: Presidential transition of Noynoy Aquino, Secretary of Interior and Local Government_
+### [Aquino names the incoming cabinet and becomes the Secretary of Interior and Local Government in acting capacity. ](/news/2010/06/29/aquino-names-the-incoming-cabinet-and-becomes-the-secretary-of-interior-and-local-government-in-acting-capacity.md)
+_Context: Secretary of Interior and Local Government_
 
 ### [The entire Maldives cabinet resigns "en masse". ](/news/2010/06/29/the-entire-maldives-cabinet-resigns-en-masse.md)
 President says ministers are no longer able to work with opposition-led parliament.

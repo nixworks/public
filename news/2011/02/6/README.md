@@ -1,12 +1,12 @@
 ## [2011-02-6](/news/2011/02/6/index.md)
 
-### [2011 Egyptian protests:: People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/2011-egyptian-protests-people-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-me.md)
+### [People demonstrate against the Mubarak regime for the thirteenth consecutive day, dubbed the "Day of Martyrs" in memory of those killed. ](/news/2011/02/6/people-demonstrate-against-the-mubarak-regime-for-the-thirteenth-consecutive-day-dubbed-the-day-of-martyrs-in-memory-of-those-killed.md)
 Videos uploaded on YouTube appear to show graphic scenes of recent violence in Cairo and Alexandria.
 
-### [2010-2011 Tunisian uprising: Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/2010-2011-tunisian-uprising-police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the.md)
+### [Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. ](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-during-a-protest-in-the-northwestern-town-of-el-kef-demanding-the-resignation-of-a-police-chief.md)
 Tunisian police kill at least two people in the north-western town of Kef, during an attack on the local police station by protesters.
 
-### [Cambodian-Thai border stand-off: Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodian-thai-border-stand-off-cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-wi.md)
+### [Cambodia says a disputed 11th Century temple has been damaged on the third day of cross border clashes with Thailand. ([http://www.bbc.co.uk/news/world-asia-pacific-12377626 BBC])](/news/2011/02/6/cambodia-says-a-disputed-11th-century-temple-has-been-damaged-on-the-third-day-of-cross-border-clashes-with-thailand-http-www-bbc-co-uk.md)
 _Context: Cambodian-Thai border stand-off_
 
 ### [U.S.-led forces kill four civilians, including a woman, in northern Afghanistan. ](/news/2011/02/6/u-s-led-forces-kill-four-civilians-including-a-woman-in-northern-afghanistan.md)
@@ -34,7 +34,7 @@ Cambodia says a disputed 11th Century temple has been damaged on the third day o
 _Context: Easter Island, indigenous protesters_
 
 ### [Severe flood kills 13 in Sri Lanka. (Xinhua)](/news/2011/02/6/severe-flood-kills-13-in-sri-lanka-xinhua.md)
-### [Australia:: Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/australia-thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md)
+### [Thousands of people in the Australian state of Victoria are forced to evacuate due to flooding. ](/news/2011/02/6/thousands-of-people-in-the-australian-state-of-victoria-are-forced-to-evacuate-due-to-flooding.md)
 Sydney has sweated through its hottest night on record to end its longest heatwave, but relief is only hours away.
 
 ### [Widespread blackout in eight Brazilian states. ](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.md)

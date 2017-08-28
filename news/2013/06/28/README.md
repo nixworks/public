@@ -30,7 +30,7 @@ A New Mexico meat plant received federal approval on Friday to slaughter horses 
 ### [News Corp. completes a planned split into two companies, creating 21st Century Fox. ](/news/2013/06/28/news-corp-completes-a-planned-split-into-two-companies-creating-21st-century-fox.md)
 Rupert Murdoch &apos;s sprawling, $75-billion global empire has broken into two separate companies: 21st Century Fox and a much smaller News Corp.
 
-### [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling -20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-20-million-into-italy-from.md)
+### [A senior Vatican bank cleric, Monsignor Nunzio Scarano, and two others are arrested on suspicion of smuggling EUR20 million into Italy from Switzerland. ](/news/2013/06/28/a-senior-vatican-bank-cleric-monsignor-nunzio-scarano-and-two-others-are-arrested-on-suspicion-of-smuggling-a-20-million-into-italy-from.md)
 Monsignor Nunzio Scarano is arrested over allegations of corruption and fraud in connection with an inquiry into the scandal-hit Vatican bank.
 
 ### [French businessman Bernard Tapie is placed under investigation for improperly using political influence to benefit his businesses. ](/news/2013/06/28/french-businessman-bernard-tapie-is-placed-under-investigation-for-improperly-using-political-influence-to-benefit-his-businesses.md)

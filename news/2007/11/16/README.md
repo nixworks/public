@@ -6,8 +6,8 @@ _Context: A340-600, Abu Dhabi, Airbus, Etihad Airways, Toulouse Blagnac Internat
 ### [ Russia's deputy finance minister Sergei Storchak, one of Russia's top officials on international financial relations, is detained as part of a criminal investigation. ](/news/2007/11/16/russia-s-deputy-finance-minister-sergei-storchak-one-of-russia-s-top-officials-on-international-financial-relations-is-detained-as-part-o.md)
 _Context: Russia, Sergei Storchak_
 
-### [ 2007 Georgian demonstrations:: President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/2007-georgian-demonstrations-president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
-_Context: 2007 Georgian demonstrations, President of Georgia, Saakashvili, state of emergency_
+### [ President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
+_Context: President of Georgia, Saakashvili, state of emergency_
 
 ### [ The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.date=December 2007](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.md)
 _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, legal, moral_
@@ -33,8 +33,8 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Wo
 ### [ The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. ](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.md)
 _Context: OSCE, parliamentary elections, visa-free travel_
 
-### [ 2007 Pakistani state of emergency:: United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/2007-pakistani-state-of-emergency-united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutt.md)
-_Context: 2007 Pakistani state of emergency, Benazir Bhutto, John Negroponte, Prime Minister of Pakistan, US Deputy Secretary of State, United States, democratic progress_
+### [ United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutto-on-the-phone-and-tells-her-that-m.md)
+_Context: Benazir Bhutto, John Negroponte, Prime Minister of Pakistan, US Deputy Secretary of State, United States, democratic progress_
 
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
 _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_

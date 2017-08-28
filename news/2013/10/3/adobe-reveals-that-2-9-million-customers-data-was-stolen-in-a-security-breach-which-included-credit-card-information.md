@@ -11,6 +11,6 @@ As Adobe confirms hackers have accessed personal data belonging to 2.9 million c
 
 ### Related:
 
-1. [Adobe Flash: Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-flash-adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md) _Context: Adobe Systems_
+1. [Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. ](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-and-distributing-its-multimedia-software-platform-flash-by-the-end-of-2020.md) _Context: Adobe Systems_
 2. [ Danny Ferrer, owner of BuysUSA.com, is convicted of conspiracy and copyright infringement, sentenced to 6 years in prison, and ordered to pay more than US$4.1 million in damages to companies such as Adobe Systems, Autodesk, and Macromedia. ](/news/2006/08/25/danny-ferrer-owner-of-buysusa-com-is-convicted-of-conspiracy-and-copyright-infringement-sentenced-to-6-years-in-prison-and-ordered-to-p.md) _Context: Adobe Systems_
 3. [ Adobe Systems buys Macromedia for $3.4 billion. ](/news/2005/04/18/adobe-systems-buys-macromedia-for-3-4-billion.md) _Context: Adobe Systems_

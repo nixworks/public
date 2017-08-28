@@ -3,7 +3,7 @@
 ### [ A bankruptcy court judge in New York has authorized the creation of an equity holders' committee in connection with the reorganization of auto parts maker Delphi Corporation, ](/news/2006/03/22/a-bankruptcy-court-judge-in-new-york-has-authorized-the-creation-of-an-equity-holders-committee-in-connection-with-the-reorganization-of-a.md)
 _Context: Chapter 11, Delphi Corporation, New York State, bankruptcy_
 
-### [ University of Wisconsin-Madison scientists believe they may have discovered a reason why the deadly H5N1 bird flu virus cannot yet jump easily between humans. ](/news/2006/03/22/university-of-wisconsin-madison-scientists-believe-they-may-have-discovered-a-reason-why-the-deadly-h5n1-bird-flu-virus-cannot-yet-jump-e.md)
+### [ University of Wisconsin-Madison scientists believe they may have discovered a reason why the deadly H5N1 bird flu virus cannot yet jump easily between humans. ](/news/2006/03/22/university-of-wisconsinamadison-scientists-believe-they-may-have-discovered-a-reason-why-the-deadly-h5n1-bird-flu-virus-cannot-yet-jump-e.md)
 _Context: Avian flu virus, University of Wisconsin-Madison, bird flu_
 
 ### [ The MV "Queen of the North", a 125 metre ferry operated by BC Ferries, strikes a rock in British Columbia's Inside Passage shortly after midnight, and sinks. All passengers and crew are thought to have safely abandoned ship, but two passengers are later declared missing and presumed dead. ](/news/2006/03/22/the-mv-queen-of-the-north-a-125-metre-ferry-operated-by-bc-ferries-strikes-a-rock-in-british-columbia-s-inside-passage-shortly-after-mi.md)

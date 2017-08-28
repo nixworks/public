@@ -1,6 +1,6 @@
 ## [2012-06-12](/news/2012/06/12/index.md)
 
-### [Arab Spring:: Bahraini uprising: The 11-year-old child imprisoned by the regime speaks of being chased down while playing in the street. ](/news/2012/06/12/arab-spring-bahraini-uprising-the-11-year-old-child-imprisoned-by-the-regime-speaks-of-being-chased-down-while-playing-in-the-street.md)
+### [Bahraini uprising: The 11-year-old child imprisoned by the regime speaks of being chased down while playing in the street. ](/news/2012/06/12/bahraini-uprising-the-11-year-old-child-imprisoned-by-the-regime-speaks-of-being-chased-down-while-playing-in-the-street.md)
 Tunisia declares a curfew in eight regions, including the capital, after rioting which the government blames on Islamists angered by an art show.
 
 ### [Russian and Polish football fans clash in Warsaw ahead of their UEFA Euro 2012 match. ](/news/2012/06/12/russian-and-polish-football-fans-clash-in-warsaw-ahead-of-their-uefa-euro-2012-match.md)

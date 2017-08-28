@@ -3,8 +3,8 @@
 ### [ The Mexican Chamber of Deputies votes by 360 to 127 to suspend the executive immunity of Mayor Andrs Manuel Lpez Obrador of Mexico City, thereby removing him from office to face criminal charges. ](/news/2005/04/7/the-mexican-chamber-of-deputies-votes-by-360-to-127-to-suspend-the-executive-immunity-of-mayor-andres-manuel-lopez-obrador-of-mexico-city.md)
 _Context: Andrs Manuel Lpez Obrador, Chamber of Deputies, Mexico, Mexico City, criminal charges, mayor of Mexico City_
 
-### [ Israeli-Palestinian conflict:: A Palestinian-fired Qassam rocket hits a cemetery in the Israeli town of Sderot, causing minimal damage and no injuries. Israeli Defence Minister Shaul Mofaz says Israel will not let it pass and criticises the PA's lack of action. This is the first rocket fired inside the carrot-shaped "Green line" since late January. ](/news/2005/04/7/israeli-palestinian-conflict-a-palestinian-fired-qassam-rocket-hits-a-cemetery-in-the-israeli-town-of-sderot-causing-minimal-damage-and.md)
-_Context: Green line, Israeli-Palestinian conflict, Palestinian, Palestinian Authority, Qassam rocket, Sderot, Shaul Mofaz, cemetery_
+### [ A Palestinian-fired Qassam rocket hits a cemetery in the Israeli town of Sderot, causing minimal damage and no injuries. Israeli Defence Minister Shaul Mofaz says Israel will not let it pass and criticises the PA's lack of action. This is the first rocket fired inside the carrot-shaped "Green line" since late January. ](/news/2005/04/7/a-palestinian-fired-qassam-rocket-hits-a-cemetery-in-the-israeli-town-of-sderot-causing-minimal-damage-and-no-injuries-israeli-defence-mi.md)
+_Context: Green line, Palestinian, Palestinian Authority, Qassam rocket, Sderot, Shaul Mofaz, cemetery_
 
 ### [ Ibrahim Jaafari, a Shia, has replaced Iyad Allawi as the interim prime minister of Iraq. ](/news/2005/04/7/ibrahim-jaafari-a-shia-has-replaced-iyad-allawi-as-the-interim-prime-minister-of-iraq.md)
 _Context: Ibrahim Jaafari, Iraq, Iyad Allawi, Prime Minister, Shia_

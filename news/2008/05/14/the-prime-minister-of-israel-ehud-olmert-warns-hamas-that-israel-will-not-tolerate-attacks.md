@@ -1,6 +1,6 @@
 ### [2008-05-14](/news/2008/05/14/index.md)
 
-#   The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. 
+#  The Prime Minister of Israel Ehud Olmert warns Hamas that Israel will "not tolerate" attacks. 
 
 
 
@@ -21,5 +21,5 @@
 6. [Former Israeli Prime Minister Ehud Olmert is a prime suspect in a large corruption scandal, law enforcement sources have told the BBC. ](/news/2010/04/15/former-israeli-prime-minister-ehud-olmert-is-a-prime-suspect-in-a-large-corruption-scandal-law-enforcement-sources-have-told-the-bbc.md) _Context: Ehud Olmert, Israel, Israeli Prime Minister_
 7. [ The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. ](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.md) _Context: Ehud Olmert, Israel, Israeli Prime Minister_
 8. [ Israeli Prime Minister Ehud Olmert officially submits his resignation to President Shimon Peres. Foreign Minister Tzipi Livni begins talks on forming a new government. ](/news/2008/09/21/israeli-prime-minister-ehud-olmert-officially-submits-his-resignation-to-president-shimon-peres-foreign-minister-tzipi-livni-begins-talks.md) _Context: Ehud Olmert, Israel, Israeli Prime Minister_
-9. [ The Prime Minister of Israel Ehud Olmert states that Israel has agreed to swap five prisoners with Hezbollah  to provide the bodies of two Israeli soldiers captured in 2006. ](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states-that-israel-has-agreed-to-swap-five-prisoners-with-hezbollah-to-provide-the-bodies-of-two.md) _Context: Ehud Olmert, Israel, Israeli Prime Minister_
+9. [ The Prime Minister of Israel Ehud Olmert states that Israel has agreed to swap five prisoners with Hezbollah to provide the bodies of two Israeli soldiers captured in 2006. ](/news/2008/07/13/the-prime-minister-of-israel-ehud-olmert-states-that-israel-has-agreed-to-swap-five-prisoners-with-hezbollah-to-provide-the-bodies-of-two-i.md) _Context: Ehud Olmert, Israel, Israeli Prime Minister_
 10. [ Israeli Prime Minister Ehud Olmert denies taking bribes from businessman Moshe Talansky. ](/news/2008/05/9/israeli-prime-minister-ehud-olmert-denies-taking-bribes-from-businessman-moshe-talansky.md) _Context: Ehud Olmert, Israel, Israeli Prime Minister_

@@ -1,7 +1,7 @@
 ## [2012-07-4](/news/2012/07/4/index.md)
 
-### [Syrian uprising (2011-present):: Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-uprising-2011-present-syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-t.md)
-_Context: Bashar al-Assad, Syria, Syrian uprising (2011-present), Turkey_
+### [Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to-the-bloodshed-in-syria.md)
+_Context: Bashar al-Assad, Syria, Turkey_
 
 ### [A gunman, who was facing eviction from his apartment, is believed to have seized and killed four hostages in the German city of Karlsruhe before turning the gun on himself. ](/news/2012/07/4/a-gunman-who-was-facing-eviction-from-his-apartment-is-believed-to-have-seized-and-killed-four-hostages-in-the-german-city-of-karlsruhe-be.md)
 A man shot dead four people including his partner before killing himself in a siege in the German city of Karlsruhe, police say.
@@ -18,7 +18,7 @@ Current director of BBC Vision, George Entwistle, is announced as the 15th BBC d
 ### [Archaeologists in Israel discover a mosaic floor depicting the biblical figure of Samson and a Hebrew inscription in an ancient synagogue in the Galilee region. ](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.md)
 _Context: Archaeology of Israel, Galilee, Samson, mosaic, synagogue_
 
-### [Libor inter-bank interest rate:: Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/libor-inter-bank-interest-rate-bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-sele.md)
+### [Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-select-committee-on-the-bank-s-manipu.md)
 British Prime Minister David Cameron has branded a rate fixing scandal which prompted Barclays CEO Bob Diamond to quit as &quot;appalling&quot; and &quot;outrageous.&quot;
 
 ### [Standard & Poor's raises the credit rating of the Philippines to BB+. ](/news/2012/07/4/standard-poor-s-raises-the-credit-rating-of-the-philippines-to-bb.md)
@@ -30,7 +30,7 @@ Cairo says newly elected leader will not be attending conference in Tehran
 ### [Two Iranian suspects held by Kenyan police reportedly confess that they planned to detonate a series of 30 bombs simultaneously across Kenya. ](/news/2012/07/4/two-iranian-suspects-held-by-kenyan-police-reportedly-confess-that-they-planned-to-detonate-a-series-of-30-bombs-simultaneously-across-kenya.md)
 Two Iranian terror suspects in the hands of police have reportedly confessed they planned to detonate a series of 30 killer bombs across Kenya at once. 
 
-### [The Qatari-owned satellite channel, Al Jazeera, reports that traces of radioactive polonium-210 have been found in some personal effects of former PLO Chairman Yasser Arafat, who died in 2004; the PLO and Arafat-s widow agree to his exhumation to investigate if he had been poisoned. ](/news/2012/07/4/the-qatari-owned-satellite-channel-al-jazeera-reports-that-traces-of-radioactive-polonium-210-have-been-found-in-some-personal-effects-of.md)
+### [The Qatari-owned satellite channel, Al Jazeera, reports that traces of radioactive polonium-210 have been found in some personal effects of former PLO Chairman Yasser Arafat, who died in 2004; the PLO and Arafat's widow agree to his exhumation to investigate if he had been poisoned. ](/news/2012/07/4/the-qatari-owned-satellite-channel-al-jazeera-reports-that-traces-of-radioactive-polonium-210-have-been-found-in-some-personal-effects-of.md)
 Ramallah sources say remains of former chairman will be exhumed following report suggesting his death was caused by radioactive poisoning
 
 ### [Spain's national court opens a criminal investigation into last year's listing of Bankia SA on the stock market, with former chairman Rodrigo Rato and 32 others listed as suspects. ](/news/2012/07/4/spain-s-national-court-opens-a-criminal-investigation-into-last-year-s-listing-of-bankia-sa-on-the-stock-market-with-former-chairman-rodrig.md)

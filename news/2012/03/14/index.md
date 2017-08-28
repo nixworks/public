@@ -1,10 +1,10 @@
 ## [2012-03-14](/news/2012/03/14/index.md)
 
-### [2011-2012 Syrian uprising:: The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/2011-2012-syrian-uprising-the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md)
-_Context: 2011-2012 Syrian uprising, Idlib, Syrian Army_
+### [The Syrian Army captures the former rebel held city of Idlib. ](/news/2012/03/14/the-syrian-army-captures-the-former-rebel-held-city-of-idlib.md)
+_Context: Idlib, Syrian Army_
 
-### [Afghanistan:: Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/afghanistan-leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-mas.md)
-_Context: Afghanistan's, Kandahar massacre, Leon Panetta, Secretary of Defense_
+### [Leon Panetta, the United States Secretary of Defense, arrives in Afghanistan to attempt to placate anger over the Kandahar massacre. ](/news/2012/03/14/leon-panetta-the-united-states-secretary-of-defense-arrives-in-afghanistan-to-attempt-to-placate-anger-over-the-kandahar-massacre.md)
+_Context: Kandahar massacre, Leon Panetta, Secretary of Defense_
 
 ### [More than 10,000 Peruvian illegal gold miners clash with police in an attempt to gain control over the regional capital Puerto Maldonado. ](/news/2012/03/14/more-than-10-000-peruvian-illegal-gold-miners-clash-with-police-in-an-attempt-to-gain-control-over-the-regional-capital-puerto-maldonado.md)
 _Context: Peruvian, Puerto Maldonado, gold miner_

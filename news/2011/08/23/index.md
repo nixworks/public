@@ -1,13 +1,13 @@
 ## [2011-08-23](/news/2011/08/23/index.md)
 
-### [2011 Battle of Tripoli: Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. ](/news/2011/08/23/2011-battle-of-tripoli-heavy-fighting-continues-in-the-libyan-capital-tripoli-as-muammar-gaddafi-s-son-saif-al-islam-gaddafi-leads-a-counte.md)
+### [Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. ](/news/2011/08/23/heavy-fighting-continues-in-the-libyan-capital-tripoli-as-muammar-gaddafi-s-son-saif-al-islam-gaddafi-leads-a-counterattack-despite-earlier.md)
 Moamar Gaddafi&#039;s son Saif al-Islam leads a regime fightback in Tripoli as faltering rebels claim NATO jets have joined the fight for the Libyan capital.
 
 ### [Turkey claims to have killed 100 Kurdistan Workers' Party terrorists in bombing raids on positions in northern Iraq since last Wednesday.](/news/2011/08/23/turkey-claims-to-have-killed-100-kurdistan-workers-party-terrorists-in-bombing-raids-on-positions-in-northern-iraq-since-last-wednesday.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ### [Suspected Islamic insurgents kill two Thai Army soldiers and wound 14 other people in southern Thailand. ](/news/2011/08/23/suspected-islamic-insurgents-kill-two-thai-army-soldiers-and-wound-14-other-people-in-southern-thailand.md)
-_Context: Islam, Thai Army, Thailand_
+_Context: Muslims, Thai Army, Thailand_
 
 ### [The United Nations Human Rights Council orders an investigation into alleged human rights violations by the Government of Syria in the 2011 Syrian uprising. ](/news/2011/08/23/the-united-nations-human-rights-council-orders-an-investigation-into-alleged-human-rights-violations-by-the-government-of-syria-in-the-2011.md)
 The UN Human Rights Council orders an international inquiry to look into alleged violations by the Syrian regime during its crackdown on anti-regime protests.
@@ -36,7 +36,7 @@ Immigration authorities will use powers of prosecutorial discretion in existing 
 ### [An e-petition calling for the British Government to release of Cabinet documents relating to the Hillsborough disaster collects 100,000 signatures - enough for MPs to consider a House of Commons debate on the matter. It is the first government e-petition to reach the target. ](/news/2011/08/23/an-e-petition-calling-for-the-british-government-to-release-of-cabinet-documents-relating-to-the-hillsborough-disaster-collects-100-000-sign.md)
 A petition calling for Hillsborough disaster Cabinet papers to be released reaches 100,000 signatures - enough for a Commons debate to be considered.
 
-### [News International phone hacking scandal: The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/news-international-phone-hacking-scandal-the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severan.md)
+### [The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-whi.md)
 _Context: Andy Coulson, BBC, Conservative Party, News International, News of the World, conspiracy to hack mobile phones_
 
 ### [Hattiesburg Mayor Johnny DuPree is declared the winner in the Democratic Party primary election in Mississippi, becoming the first black candidate to win a major party nomination in a gubernatorial race. ](/news/2011/08/23/hattiesburg-mayor-johnny-dupree-is-declared-the-winner-in-the-democratic-party-primary-election-in-mississippi-becoming-the-first-black-can.md)

@@ -11,8 +11,8 @@
 
 ### Related:
 
-1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting -Europe, not Moscow- in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-europe-not-mosco.md) _Context: Budapest_
-2. [Hungarian presidential election, 2017: Janos Ader is re-elected President of Hungary by the National Assembly. ](/news/2017/03/13/hungarian-presidential-election-2017-ja-nos-ader-is-re-elected-president-of-hungary-by-the-national-assembly.md) _Context: President of Hungary_
+1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md) _Context: Budapest_
+2. [Janos Ader is re-elected President of Hungary by the National Assembly. ](/news/2017/03/13/ja-nos-ader-is-re-elected-president-of-hungary-by-the-national-assembly.md) _Context: President of Hungary_
 3. [A terror bombing occurs in Budapest, Hungary, with two injuries reported. ](/news/2016/09/24/a-terror-bombing-occurs-in-budapest-hungary-with-two-injuries-reported.md) _Context: Budapest_
 4. [Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. ](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapest-hungary-reveal-that-225088-2007-or10-is-the-third-largest-dwarf-planet-in-the-solar-sys.md) _Context: Budapest_
 5. [Chinese Vice-Premier Li Keqiang travels to Budapest and holds talks with Hungarian Prime Minister Viktor Orban. ](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.md) _Context: Budapest_

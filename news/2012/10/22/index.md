@@ -9,7 +9,7 @@ Police use teargas and batons to disperse thousands protesting against changes t
 ### [Syrian civil war: A Jordanian soldier dies during a gunfight between Jordanian troops and Islamic militants attempting to cross the border into Syria. ](/news/2012/10/22/syrian-civil-war-a-jordanian-soldier-dies-during-a-gunfight-between-jordanian-troops-and-islamic-militants-attempting-to-cross-the-border-i.md)
 Lebanese soldiers in armoured vehicles fanned out across the country on Monday to break down civilian roadblocks and chase gunmen off the streets as tempers flared over the killing of a top intelligence official who was a powerful opponent of Syrian involvement in Lebanon.
 
-### [2011-2012 conflict in Lebanon: The Lebanese Army launches an operation to quell the sectarian violence in Beirut triggered by the assassination of Wissam al-Hassan. ](/news/2012/10/22/2011-2012-conflict-in-lebanon-the-lebanese-army-launches-an-operation-to-quell-the-sectarian-violence-in-beirut-triggered-by-the-assassin.md)
+### [2011-2012 conflict in Lebanon: The Lebanese Army launches an operation to quell the sectarian violence in Beirut triggered by the assassination of Wissam al-Hassan. ](/news/2012/10/22/2011a2012-conflict-in-lebanon-the-lebanese-army-launches-an-operation-to-quell-the-sectarian-violence-in-beirut-triggered-by-the-assassin.md)
 _Context: 2011-2012 conflict in Lebanon, assassination of  Wissam al-Hassan_
 
 ### [Police authorities in South Africa admit the shooting of 34 miners by police "may have been disproportionate" to the danger faced by those in charge. ](/news/2012/10/22/police-authorities-in-south-africa-admit-the-shooting-of-34-miners-by-police-may-have-been-disproportionate-to-the-danger-faced-by-those-i.md)

@@ -3,13 +3,13 @@
 ### [Two Chinese workers are kidnapped from a controversial copper mine in Burma by activists. ](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.md)
 _Context: Burma, Chinese_
 
-### [2014 pro-Russian unrest in Ukraine:: Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/2014-pro-russian-unrest-in-ukraine-russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Belgorod, Bryansk, Rostov, Russian President Vladimir Putin, Vladimir Putin_
+### [Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to-withdraw-and-return-to-their-permane.md)
+_Context: Belgorod, Bryansk, Rostov, Russian President Vladimir Putin, Vladimir Putin_
 
 ### [AstraZeneca rejects the latest, and likely the last, takeover price from Pfizer, close to 70 billion pounds or US$118 billion. ](/news/2014/05/19/astrazeneca-rejects-the-latest-and-likely-the-last-takeover-price-from-pfizer-close-to-70-billion-pounds-or-us-118-billion.md)
 _Context: AstraZeneca, Pfizer_
 
-### [Sinking of the MV "Sewol":: Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/sinking-of-the-mv-sewol-park-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up.md)
+### [Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/park-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up-in-the-wake-of-the-ferry-dis.md)
 South Korea plans to break up its coastguard in the wake of the ferry disaster in which more than 300 people died, says President Park Geun-hye.
 
 ### [An apartment building collapses in Pyongyang, North Korea, with casualties estimated to be in the hundreds. ](/news/2014/05/19/an-apartment-building-collapses-in-pyongyang-north-korea-with-casualties-estimated-to-be-in-the-hundreds.md)
@@ -18,7 +18,7 @@ _Context: North Korea, Pyongyang_
 ### [An electrical problem causes an explosion south of Seoul in Seoul Metropolitan Subway Gunpo station, injuring 11 people. ](/news/2014/05/19/an-electrical-problem-causes-an-explosion-south-of-seoul-in-seoul-metropolitan-subway-gunpo-station-injuring-11-people.md)
 _Context: Gunpo, Seoul Metropolitan Subway_
 
-### [China-United States relations:: The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/china-united-states-relations-the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-s.md)
+### [The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-sector-american-companies-in-a-bid.md)
 The US charges five Chinese army officers with hacking into private-sector companies to gain trade secrets, in the first espionage case of its kind.
 
 ### [Saudi Arabia closes its embassy in Tripoli over security concerns in Libya. ](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.md)

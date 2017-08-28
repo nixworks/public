@@ -1,6 +1,6 @@
 ### [2015-06-24](/news/2015/06/24/index.md)
 
-# A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia.  
+# A police checkpoint on the outskirts of Kashgar in Xinjiang is attacked by ethnic Uighurs, with at least 18 killed according to US-based Radio Free Asia. 
 
 At least 18 people are killed in the Chinese region of Xinjiang during a clash at a police checkpoint, a US media report says.
 

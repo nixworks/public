@@ -1,6 +1,6 @@
 ## [2005-08-12](/news/2005/08/12/index.md)
 
-### [ Iraq War: Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/iraq-war-moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md)
+### [ Moqtada Sadr, the Shia cleric and leader, has announced that his Mahdi army has freed four hostages. ](/news/2005/08/12/moqtada-sadr-the-shia-cleric-and-leader-has-announced-that-his-mahdi-army-has-freed-four-hostages.md)
 _Context: Iraq War, Mahdi Army, Moqtada Sadr, Shia_
 
 ### [ Sri Lankan Foreign Minister Lakshman Kadirgamar is assassinated by suspected Tamil Tigers sniper team in Colombo. ](/news/2005/08/12/sri-lankan-foreign-minister-lakshman-kadirgamar-is-assassinated-by-suspected-tamil-tigers-sniper-team-in-colombo.md)

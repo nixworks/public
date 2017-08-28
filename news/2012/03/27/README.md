@@ -9,7 +9,7 @@ _Context: Arab citizen, Egypt, Israel Defense Forces_
 ### [Several people are arrested in Kabul, the capital of Afghanistan, as alleged suicide bombings are foiled. ](/news/2012/03/27/several-people-are-arrested-in-kabul-the-capital-of-afghanistan-as-alleged-suicide-bombings-are-foiled.md)
 Afghan authorities arrest 18 people, some of them soldiers, after foiling plans for an apparent mass suicide attack in Kabul, intelligence officials say.
 
-### [2011-2012 Libyan factional fighting:: At least 50 people are killed in two days of tribal clashes in southern Libya. ](/news/2012/03/27/2011-2012-libyan-factional-fighting-at-least-50-people-are-killed-in-two-days-of-tribal-clashes-in-southern-libya.md)
+### [At least 50 people are killed in two days of tribal clashes in southern Libya. ](/news/2012/03/27/at-least-50-people-are-killed-in-two-days-of-tribal-clashes-in-southern-libya.md)
 THE Libyan government yesterday admitted it faces a national crisis amid an escalation of violence and militia rule.
 
 ### [Apple Inc Chief Executive Tim Cook arrives in China for talks with government officials to clear up problems in the firm's biggest growth market, including the contested iPad trademark and treatment of local labor. ](/news/2012/03/27/apple-inc-chief-executive-tim-cook-arrives-in-china-for-talks-with-government-officials-to-clear-up-problems-in-the-firm-s-biggest-growth-ma.md)

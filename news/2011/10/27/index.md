@@ -1,6 +1,6 @@
 ## [2011-10-27](/news/2011/10/27/index.md)
 
-### [Aftermath of Libyan civil war:: The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/aftermath-of-libyan-civil-war-the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminate.md)
+### [The United Nations Security Council confirms that the NATO-enforced no-fly zone over Libya will be terminated on October 31. ](/news/2011/10/27/the-united-nations-security-council-confirms-that-the-nato-enforced-no-fly-zone-over-libya-will-be-terminated-on-october-31.md)
 The UN Security Council votes to end seven months of international military action in Libya, carried out under a mandate to protect civilians.
 
 ### [18 people are killed and at least 36 wounded by twin bombings in the Iraqi capital Baghdad. ](/news/2011/10/27/18-people-are-killed-and-at-least-36-wounded-by-twin-bombings-in-the-iraqi-capital-baghdad.md)
@@ -15,11 +15,11 @@ ALL trading on the Australian stock exchange has been halted indefinitely.
 ### [The Bank of Korea reports that the South Korean economy grew at the slowest rate in three quarters. ](/news/2011/10/27/the-bank-of-korea-reports-that-the-south-korean-economy-grew-at-the-slowest-rate-in-three-quarters.md)
 _Context: Bank of Korea, South Korean economy_
 
-### [Eurozone rescue deal:: Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/eurozone-rescue-deal-reports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the.md)
-_Context: European sovereign-debt crisis, Eurozone, Greek_
+### [Reports indicate that European private banks have agreed to accept a 50% loss on Greek bonds, therefore removing the last apparent roadblock to a solution for the European sovereign debt crisis. ](/news/2011/10/27/reports-indicate-that-european-private-banks-have-agreed-to-accept-a-50-loss-on-greek-bonds-therefore-removing-the-last-apparent-roadblock.md)
+_Context: European sovereign-debt crisis, Greek_
 
-### [2011 Thailand floods:: Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/2011-thailand-floods-tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md)
-_Context: Bangkok, Thailand, floods_
+### [Tens of thousands of people attempt to flee the Thai capital Bangkok as floodwaters rise. ](/news/2011/10/27/tens-of-thousands-of-people-attempt-to-flee-the-thai-capital-bangkok-as-floodwaters-rise.md)
+_Context: Bangkok, Thailand_
 
 ### [The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. ](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.md)
 _Context: 7.1 magnitude earthquake, Turkey_
@@ -30,7 +30,7 @@ _Context: Germany, Halle, World War II_
 ### [Scottish serial murderer Robert Black is convicted of the 1981 murder of Northern Irish schoolgirl Jennifer Cardy. ](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.md)
 Child killer Robert Black has been found guilty of murdering Jennifer Cardy in Ballinderry, County Antrim, 30 years ago.
 
-### [Elections in Ireland:: Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/elections-in-ireland-voters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md)
+### [Voters go to the polls to elect a successor to Mary McAleese in a presidential election. ](/news/2011/10/27/voters-go-to-the-polls-to-elect-a-successor-to-mary-mcaleese-in-a-presidential-election.md)
 Polling stations have closed after 15 hours of voting in two elections and on two referendums.
 
 ### [Dr Giles Fraser, the canon chancellor of London's St Paul's Cathedral, announces his resignation from the post, as police prepare to remove Occupy London protesters from the cathedral's churchyard. Dr Fraser said he could not condone the use of violence against the demonstrators. ](/news/2011/10/27/dr-giles-fraser-the-canon-chancellor-of-london-s-st-paul-s-cathedral-announces-his-resignation-from-the-post-as-police-prepare-to-remove.md)

@@ -1,9 +1,9 @@
 ## [2012-08-11](/news/2012/08/11/index.md)
 
-### [Syrian civil war:: U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md)
+### [U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md)
 Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian rebels trying to topple President Bashar Al-Assad, the Foreign Office (FCO) said today.
 
-### [Mexican Drug War:: A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/mexican-drug-war-a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md)
+### [A total of 12 decomposing bodies are found inside an abandoned vehicle in Zacatecas. ](/news/2012/08/11/a-total-of-12-decomposing-bodies-are-found-inside-an-abandoned-vehicle-in-zacatecas.md)
 At least five dead as suspected gang members go on rampage in drug-violence-ravaged western state of Michoacan.
 
 ### [An Afghan policeman kills ten of his colleagues at a checkpoint in southwestern Afghanistan. ](/news/2012/08/11/an-afghan-policeman-kills-ten-of-his-colleagues-at-a-checkpoint-in-southwestern-afghanistan.md)

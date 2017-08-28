@@ -1,6 +1,6 @@
 ## [2009-04-8](/news/2009/04/8/index.md)
 
-### [ Thousands of people in Pyongyang, North Korea, celebrate the -successful- launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-successful-launch-of-the-bright-star-2-communications-satellite-into-ear.md)
+### [ Thousands of people in Pyongyang, North Korea, celebrate the "successful" launch of the Bright Star-2 communications satellite into Earth's orbit. ](/news/2009/04/8/thousands-of-people-in-pyongyang-north-korea-celebrate-the-asuccessfula-launch-of-the-bright-star-2-communications-satellite-into-ear.md)
 _Context: Earth, Kwangmyongsong-2, North Korea, Pyongyang, communications satellite, orbit_
 
 ### [ Chinese and Russian cyber-spies allegedly infiltrate the United States' electrical grid. [http://www.google.com/hostednews/ap/article/ALeqM5gTamvV9J8BmeVmQift2odb--mBigD97EDNPO1 (AP)] [http://online.wsj.com/article/SB123914805204099085.html "(Wall Street Journal)"]](/news/2009/04/8/chinese-and-russian-cyber-spies-allegedly-infiltrate-the-united-states-electrical-grid-http-www-google-com-hostednews-ap-article-aleqm.md)

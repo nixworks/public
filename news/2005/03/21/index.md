@@ -7,7 +7,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Israel, Israeli settlement, Jerusalem, Ma'ale Adummim, Palestinian, Saeb Erekat_
 
 ### [ Red Lake shootings: In a U.S. school shooting, Jeff Weise opened fire at Red Lake High School in Minnesota, killing nine people and then himself. ](/news/2005/03/21/red-lake-shootings-in-a-u-s-school-shooting-jeff-weise-opened-fire-at-red-lake-high-school-in-minnesota-killing-nine-people-and-then-hi.md)
-_Context: Jeff Weise, Minnesota, Red Lake High School, Red Lake shootings, School shooting_
+_Context: Jeff Weise, Minnesota, Red Lake High School, Red Lake shootings, school shooting_
 
 ### [ UN Secretary-General Kofi Annan proposes to have the Security Council expanded from 15 members to 24 members. ](/news/2005/03/21/un-secretary-general-kofi-annan-proposes-to-have-the-security-council-expanded-from-15-members-to-24-members.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

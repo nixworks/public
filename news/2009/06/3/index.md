@@ -34,7 +34,7 @@ _Context: Home, Marilynne Robinson, Orange Prize for Fiction, United States, aut
 _Context: New Hampshire, U.S. state, legalizes, same-sex marriage_
 
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: Al Qaeda in the Islamic Maghreb, Britain, Insurgency in the Maghreb (2002-present), Islam, Maghreb, Sahara, al-Qaeda, hostage_
+_Context: Al Qaeda in the Islamic Maghreb, Britain, Insurgency in the Maghreb (2002-present), Maghreb, Muslims, Sahara, al-Qaeda, hostage_
 
 ## [Previous Day...](/news/2009/06/2/index.md)
 

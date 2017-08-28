@@ -1,7 +1,7 @@
 ## [2012-10-30](/news/2012/10/30/index.md)
 
-### [Syrian civil war:: Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/syrian-civil-war-qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md)
-_Context: Qatar, Syrian Civil War_
+### [Qatar says the government of Syria is waging a "war of extermination" against their own citizens. ](/news/2012/10/30/qatar-says-the-government-of-syria-is-waging-a-war-of-extermination-against-their-own-citizens.md)
+_Context: Qatar_
 
 ### [The Bahraini regime makes all opposition to its rule illegal. ](/news/2012/10/30/the-bahraini-regime-makes-all-opposition-to-its-rule-illegal.md)
 _Context: Bahrain_
@@ -39,7 +39,7 @@ Officials fear rising food prices and an increase in cholera cases in Caribbean 
 ### [Hurricane Sandy makes landfall near Atlantic City, New Jersey, with widespread flooding and at least 29 deaths in the Northeastern United States. ](/news/2012/10/30/hurricane-sandy-makes-landfall-near-atlantic-city-new-jersey-with-widespread-flooding-and-at-least-29-deaths-in-the-northeastern-united-st.md)
 _Context: Atlantic City, New Jersey, Hurricane Sandy, Northeastern United States_
 
-### [Rwanda-s high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwanda-s-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md)
+### [Rwanda's high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwandaas-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md)
 Victoire Ingabire, a Hutu politician, was found guilty of two charges related to Rwanda’s 1994 genocide, in a trial widely seen as a test of the country’s tolerance of dissent.
 
 ### [Organisers of a proposed free public event on "Homo floresiensis" are forced to change the event's title after use of the word "hobbit", the creature's nickname, is forbidden by the representatives of the Tolkien Estate. ](/news/2012/10/30/organisers-of-a-proposed-free-public-event-on-homo-floresiensis-are-forced-to-change-the-event-s-title-after-use-of-the-word-hobbit-the.md)

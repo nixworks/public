@@ -1,0 +1,25 @@
+### [2011-06-9](/news/2011/06/9/index.md)
+
+# The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.
+
+
+
+
+### Source:
+
+1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hN5CAoTM6uoho8Mod6VuDvwwPA7A?docId=CNG.6d7b64b15cc5338d6789f1f0d36d57e2.2c1)
+2. [Kyodo News](http://english.kyodonews.jp/news/2011/06/96025.html)
+3. [Yomiuri Daichiri](http://www.yomiuri.co.jp/dy/national/T110608006170.htm)
+
+### Related:
+
+1. [ An International Atomic Energy Agency team heads to North Korea to see if Pyongyang's nuclear reactor has been shut down. ](/news/2007/06/26/an-international-atomic-energy-agency-team-heads-to-north-korea-to-see-if-pyongyang-s-nuclear-reactor-has-been-shut-down.md) _Context: International Atomic Energy Agency, nuclear reactor_
+2. [The Tennessee Valley Authority completes the Watts Bar Nuclear Plant, the first U.S. nuclear reactor to enter commercial operation in 20 years. ](/news/2016/10/21/the-tennessee-valley-authority-completes-the-watts-bar-nuclear-plant-the-first-u-s-nuclear-reactor-to-enter-commercial-operation-in-20-yea.md) _Context: nuclear reactor_
+3. [The U.S. Navy dispatches a carrier strike group containing the Nimitz|aircraft carrier|0 nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-aircraft-carrier-0-nuclear-powered-supercarrier-john-c-stennis-to-the.md) _Context: nuclear reactor_
+4. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _Context: International Atomic Energy Agency_
+5. [Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. ](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.md) _Context: International Atomic Energy Agency_
+6. [Eleven tons of enriched uranium are on a ship heading from Iran to Russia, per the July 14th international agreement. Iran delivers 200 tons of Russian yellowcake in return. The International Atomic Energy Agency will decide when Tehran has complied with its obligations which would make dismantling of economic sanctions possible. ](/news/2015/12/28/eleven-tons-of-enriched-uranium-are-on-a-ship-heading-from-iran-to-russia-per-the-july-14th-international-agreement-iran-delivers-200-tons.md) _Context: International Atomic Energy Agency_
+7. [Hearings begin in the legal battle between the Japanese government and local officials in Okinawa over plans to move a U.S. military air base on the southern island. This fall, Okinawa Governor Takeshi Onaga revoked his predecessor's authorization for a US Marine Corps air base. ](/news/2015/12/2/hearings-begin-in-the-legal-battle-between-the-japanese-government-and-local-officials-in-okinawa-over-plans-to-move-a-u-s-military-air-bas.md) _Context: Japanese government_
+8. [Japan advises the International Whaling Commission that it plans to resume hunting minke whales for scientific research in the Antarctic Ocean by the end of March 2016. The United Nations' International Court of Justice (ICJ) ruled in March 2014 that Japan's decades-old whale hunt in the Antarctic should stop, prompting Tokyo to cancel the bulk of its whaling for the 2014/2015 season. ICJ decisions were binding and cannot be appealed. ](/news/2015/11/28/japan-advises-the-international-whaling-commission-that-it-plans-to-resume-hunting-minke-whales-for-scientific-research-in-the-antarctic-oce.md) _Context: Japanese government_
+9. [Reuters reports Japanese Prime Minister Shinzo Abe and Philippine President Benigno Aquino are set to agree on a deal paving the way for Tokyo to directly supply Manila with used military equipment. An announcement is expected this week during the Asia-Pacific Economic Cooperation (APEC) summit in Manila. ](/news/2015/11/15/reuters-reports-japanese-prime-minister-shinza-abe-and-philippine-president-benigno-aquino-are-set-to-agree-on-a-deal-paving-the-way-for-to.md) _Context: Japanese government_
+10. [ The Government of Japan invalidates a decision by Takeshi Onaga, governor of Okinawa, to halt the expansion of a U.S. military base on the island. ](/news/2015/10/28/the-government-of-japan-invalidates-a-decision-by-takeshi-onaga-governor-of-okinawa-to-halt-the-expansion-of-a-u-s-military-base-on-the.md) _Context: Japanese government_

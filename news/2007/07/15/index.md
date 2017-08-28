@@ -21,8 +21,8 @@ _Context: Eugene Starostin, Gert van der Heijden, Mbius strip, developable surfa
 ### [ Australia extradites Antun Gudelj to Croatia for the 1991 murder of Josip Reihl-Kir, the police chief of Osijek and two associates - this event fueled tensions during the Croatian War of Independence. ](/news/2007/07/15/australia-extradites-antun-gudelj-to-croatia-for-the-1991-murder-of-josip-reihl-kir-the-police-chief-of-osijek-and-two-associates-this-e.md)
 Australia has extradited to Croatia a man convicted for the murder of a senior police officer, an event that helped fuel the 1991-1995 Serbo-Croatian war, a local television station reported.
 
-### [ Waziristan conflict (July 2007-present):: Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/waziristan-conflict-july-2007-present-pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with.md)
-_Context: Taliban, Waziristan conflict (July 2007-present)_
+### [ Pro-Taliban militants in Pakistan's North Waziristan region say they have ended their truce with the government. ](/news/2007/07/15/pro-taliban-militants-in-pakistan-s-north-waziristan-region-say-they-have-ended-their-truce-with-the-government.md)
+_Context: Taliban_
 
 ### [ Brazil defeats Argentina 3-0 in the 2007 Copa Amrica final. ](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.md)
 _Context: 2007 Copa Amrica, Argentina national football team, Brazil national football team_

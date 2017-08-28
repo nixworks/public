@@ -6,7 +6,7 @@ _Context: Dow Jones Industrial Average_
 ### [ German authorities uncover 51 skeletons from a mass grave at the village of Menden-Barge in the Sauerland region of the country, thought to be remains of victims of Nazi atrocities during World War II. ](/news/2006/10/5/german-authorities-uncover-51-skeletons-from-a-mass-grave-at-the-village-of-menden-barge-in-the-sauerland-region-of-the-country-thought-to.md)
 _Context: Germany, Nazi, Sauerland, World War II, mass grave_
 
-### [ Mark Foley scandal: The House Ethics Committee issued four dozen subpoenas to members of Congress and aides to discover who was aware of explicit exchanges between former representative Mark Foley and underage Congressional pages. ](/news/2006/10/5/mark-foley-scandal-the-house-ethics-committee-issued-four-dozen-subpoenas-to-members-of-congress-and-aides-to-discover-who-was-aware-of-ex.md)
+### [ The House Ethics Committee issued four dozen subpoenas to members of Congress and aides to discover who was aware of explicit exchanges between former representative Mark Foley and underage Congressional pages. ](/news/2006/10/5/the-house-ethics-committee-issued-four-dozen-subpoenas-to-members-of-congress-and-aides-to-discover-who-was-aware-of-explicit-exchanges-bet.md)
 _Context: Mark Foley, United States House Committee on Standards of Official Conduct, come-ons to former male pages_
 
 ### [ Reports indicate that Abu Ayyub al-Masri, also known as Abu Hamza al-Muhajir, the leader of Al-Qaeda in Iraq who succeeded Abu Musab al-Zarqawi after his death, may have been killed in Haditha. A body initially tentatively identified as his is undergoing DNA analysis but most government sources are skeptical. ](/news/2006/10/5/reports-indicate-that-abu-ayyub-al-masri-also-known-as-abu-hamza-al-muhajir-the-leader-of-al-qaeda-in-iraq-who-succeeded-abu-musab-al-zar.md)
@@ -18,7 +18,7 @@ _Context: Bank of England, Britain, European Central Bank, interest rate_
 ### [ Edmund Daukoru, a Nigerian oil minister and president of the Organization of Petroleum Exporting Countries (OPEC) flags that the organization will hold an emergency meeting to cut output. The "Financial Times" reports that OPEC has informally agreed to cut output 4% to defend the oil price. ](/news/2006/10/5/edmund-daukoru-a-nigerian-oil-minister-and-president-of-the-organization-of-petroleum-exporting-countries-opec-flags-that-the-organizati.md)
 _Context: Edmund Daukoru, Financial Times, Nigeria, Organization of Petroleum Exporting Countries, oil_
 
-### [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country-s current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-country-s-current-government-amid-the-ongoing-tensions-w.md)
+### [ Post-Soviet Georgia holds the municipal elections seen as a crucial test for the country's current government amid the ongoing tensions with Russia. ](/news/2006/10/5/post-soviet-georgia-holds-the-municipal-elections-seen-as-a-crucial-test-for-the-countryas-current-government-amid-the-ongoing-tensions-w.md)
 _Context: Georgian, Post-Soviet, Russia, municipal elections, tensions_
 
 ### [ NTV television in Turkey reports that 260 Turkish soldiers will join the peacekeeping force in Lebanon. ](/news/2006/10/5/ntv-television-in-turkey-reports-that-260-turkish-soldiers-will-join-the-peacekeeping-force-in-lebanon.md)

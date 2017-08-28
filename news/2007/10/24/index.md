@@ -10,7 +10,7 @@ _Context: Bank of America_
 _Context: Gulf of Mexico, Mexican Navy, Mexico, PEMEX, offshore oil platform_
 
 ### [ Moderating winds improve the outlook in the fight against the California wildfires of October 2007. ](/news/2007/10/24/moderating-winds-improve-the-outlook-in-the-fight-against-the-california-wildfires-of-october-2007.md)
-_Context: California wildfires_
+_Context: California wildfires of October 2007_
 
 ### [ Richard J. Griffin resigns as head of the Bureau of Diplomatic Security in the United States State Department following the Blackwater shooting in Iraq. ](/news/2007/10/24/richard-j-griffin-resigns-as-head-of-the-bureau-of-diplomatic-security-in-the-united-states-state-department-following-the-blackwater-shoo.md)
 _Context: Blackwater, Blackwater Baghdad shootings, Bureau of Diplomatic Security, Iraq, Richard J. Griffin, State Department_
@@ -18,7 +18,7 @@ _Context: Blackwater, Blackwater Baghdad shootings, Bureau of Diplomatic Securit
 ### [ The United Kingdom announces a unilateral end to the Common Travel Area with the Republic of Ireland. From 2009, passports will be required for the first time, bringing to an end centuries of unimpeded travel between the two countries. ](/news/2007/10/24/the-united-kingdom-announces-a-unilateral-end-to-the-common-travel-area-with-the-republic-of-ireland-from-2009-passports-will-be-required.md)
 _Context: Britain, Common Travel Area, Ireland_
 
-### [ Turkey-PKK conflict: Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/turkey-pkk-conflict-reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-ear.md)
+### [ Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-earlier-in-the-week-kill.md)
 Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kurdish security official said, but Turkey said it wanted to hold back from a major incursion to give diplomacy a chance.
 
 ### [ China launches its first lunar orbiter, Chang'e 1, on an exploration mission to the moon. ](/news/2007/10/24/china-launches-its-first-lunar-orbiter-chang-e-1-on-an-exploration-mission-to-the-moon.md)

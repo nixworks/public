@@ -3,7 +3,7 @@
 ### [ UNITA accepts defeat in the Angolan legislative election, 2008, the first parliamentary elections in Angola in 16 years, in which the ruling Popular Movement for the Liberation of Angola wins more than 80% of the votes. ](/news/2008/09/9/unita-accepts-defeat-in-the-angolan-legislative-election-2008-the-first-parliamentary-elections-in-angola-in-16-years-in-which-the-rulin.md)
 _Context: Angola, Angolan legislative election, 2008, Popular Movement for the Liberation of Angola, UNITA_
 
-### [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democratic-farmer-labor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md)
+### [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md)
 _Context: Al Franken, Democratic, Norm Coleman, Senator, U.S. Senator, primary election_
 
 ### [ The military of Sri Lanka declares 12 of its soldiers and one policeman killed in a suicide attack by the Tamil Tigers in Mullaittivu. ](/news/2008/09/9/the-military-of-sri-lanka-declares-12-of-its-soldiers-and-one-policeman-killed-in-a-suicide-attack-by-the-tamil-tigers-in-mullaittivu.md)

@@ -1,18 +1,18 @@
 ## [2013-01-21](/news/2013/01/21/index.md)
 
-### [Syrian civil war:: Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/syrian-civil-war-russian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-bei.md)
+### [Russian authorities announce a plan to evacuate 100 Russian citizens from Syria by sending in two passenger planes to Beirut. ](/news/2013/01/21/russian-authorities-announce-a-plan-to-evacuate-100-russian-citizens-from-syria-by-sending-in-two-passenger-planes-to-beirut.md)
 A suicide bomb in central Syria kills many people, reports say, as Russia prepares to airlift its nationals fleeing the conflict.
 
-### [History of Eritrea:: Dissident soldiers seize the ministry of information in Asmara, Eritrea, forcing state media to call for the release of political prisoners. Other buildings are also surrounded while television and radio later went off air. The apparent coup attempt against President Isaias Afewerki reportedly fails. ](/news/2013/01/21/history-of-eritrea-dissident-soldiers-seize-the-ministry-of-information-in-asmara-eritrea-forcing-state-media-to-call-for-the-release-of.md)
+### [Dissident soldiers seize the ministry of information in Asmara, Eritrea, forcing state media to call for the release of political prisoners. Other buildings are also surrounded while television and radio later went off air. The apparent coup attempt against President Isaias Afewerki reportedly fails. ](/news/2013/01/21/dissident-soldiers-seize-the-ministry-of-information-in-asmara-eritrea-forcing-state-media-to-call-for-the-release-of-political-prisoners.md)
 Eritrean soldiers surround the ministry of information as state TV is taken off air, unconfirmed reports say.
 
-### [Northern Mali conflict:: French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/northern-mali-conflict-french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md)
+### [French and Malian troops retake Diabaly and Douentza as Islamist forces retreat. ](/news/2013/01/21/french-and-malian-troops-retake-diabaly-and-douentza-as-islamist-forces-retreat.md)
 French and Malian troops seize the key Malian towns of Diabaly and Douentza from militant Islamists, the French defence minister says.
 
-### [Piracy in the 21st century:: Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/piracy-in-the-21st-century-gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
-_Context: Abidjan, Ivory Coast, Nigeria, Panama, Piracy in the 21st century_
+### [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
+_Context: Abidjan, Ivory Coast, Nigeria, Panama_
 
-### [In Amnas hostage crisis:: Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/in-amenas-hostage-crisis-algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-m.md)
+### [Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-militants.md)
 * Algerian PM: 38 dead civilians, 29 militants killed* Dead Canadian named as &quot;Chedad&quot; coordinated attack -PM* Of hostages, 37 foreigners kil
 
 ### [Film director and newspaper columnist Michael Winner dies aged 77 in Kensington, London, England. ](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.md)

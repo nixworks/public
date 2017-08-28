@@ -1,6 +1,6 @@
 ## [2009-10-15](/news/2009/10/15/index.md)
 
-### [ Treaty of Lisbon:: Czech President Vaclav Klaus's disruption of the Treaty of Lisbon is deemed "absurd, irresponsible and damaging to the country" by his predecessor Vaclav Havel. ](/news/2009/10/15/treaty-of-lisbon-czech-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-deemed-absurd-irresponsible-and-damaging-to-the.md)
+### [ Czech President Vaclav Klaus's disruption of the Treaty of Lisbon is deemed "absurd, irresponsible and damaging to the country" by his predecessor Vaclav Havel. ](/news/2009/10/15/czech-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-deemed-absurd-irresponsible-and-damaging-to-the-country-by-his-pre.md)
 The President has signed the bill reconciling the Lisbon Treaty with the Constitution.
 
 ### [ Ugandan MP David Bahati proposes creating a capital offence of "aggravated homosexuality" for gay sex with people under 18, disabled people or when the accused is HIV-positive. ](/news/2009/10/15/ugandan-mp-david-bahati-proposes-creating-a-capital-offence-of-aggravated-homosexuality-for-gay-sex-with-people-under-18-disabled-people.md)

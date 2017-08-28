@@ -1,6 +1,6 @@
 ## [2012-06-14](/news/2012/06/14/index.md)
 
-### [Arab Spring:: Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/arab-spring-tunisian-authorities-ban-protests-planned-for-friday.md)
+### [Tunisian authorities ban protests planned for Friday. ](/news/2012/06/14/tunisian-authorities-ban-protests-planned-for-friday.md)
 Tunisian authorities ban protests planned for Friday, after rival Islamist rallies escalated into riots in recent days.
 
 ### [Mexican Drug War: Victor Manuel Baez Chino, a journalist for the Mexican newspaper "Milenio", is found dead after being kidnapped in the coastal state of Veracruz. ](/news/2012/06/14/mexican-drug-war-vactor-manuel-ba-ez-chino-a-journalist-for-the-mexican-newspaper-milenio-is-found-dead-after-being-kidnapped-in-the-c.md)
@@ -48,7 +48,7 @@ _Context: MP_
 ### [Photos of a woman forced to have an illegal abortion by Chinese authorities due to the country's One-Child Policy spark controversy. ](/news/2012/06/14/photos-of-a-woman-forced-to-have-an-illegal-abortion-by-chinese-authorities-due-to-the-country-s-one-child-policy-spark-controversy.md)
 A photo of a foetus whose mother was forced to have an abortion while seven months pregnant shocks Chinese web users and sparks an inquiry.
 
-### [Falklands War anniversary:: A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/falklands-war-anniversary-a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falkla.md)
+### [A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.md)
 Falkland Islanders mark 30 years since the end of the war with Argentina with a service at Liberation Monument, Port Stanley.
 
 ### [A new survey finds that global support for U.S. president Barack Obama has declined since 2009. ](/news/2012/06/14/a-new-survey-finds-that-global-support-for-u-s-president-barack-obama-has-declined-since-2009.md)

@@ -1,6 +1,6 @@
 ## [2011-08-16](/news/2011/08/16/index.md)
 
-### [2011 Libyan civil war: National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. ](/news/2011/08/16/2011-libyan-civil-war-national-transitional-council-forces-in-libya-began-cutting-off-supply-lines-to-tripoli-after-a-48-hour-operation-cap.md)
+### [National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. ](/news/2011/08/16/national-transitional-council-forces-in-libya-began-cutting-off-supply-lines-to-tripoli-after-a-48-hour-operation-capturing-key-towns-around.md)
 _Context: Libya, Libyan Civil War, National Transitional Council, Tripoli_
 
 ### [The Israeli Air Force launches an air strike east of Gaza City, killing a Hamas gunman, in response to a rocket launched at Israel which landed in the Negev Desert. ](/news/2011/08/16/the-israeli-air-force-launches-an-air-strike-east-of-gaza-city-killing-a-hamas-gunman-in-response-to-a-rocket-launched-at-israel-which-lan.md)
@@ -24,10 +24,10 @@ _Context: Anna Hazare, Indians, New Delhi, fast against corruption, social activ
 ### [Detained illegal immigrants injure 15 policemen and 3 soldiers in a riot in Malta. ](/news/2011/08/16/detained-illegal-immigrants-injure-15-policemen-and-3-soldiers-in-a-riot-in-malta.md)
 Fifteen policemen, three soldiers and an immigrant were slightly injured in a riot at the Safi Detention Centre this morning. The Detention Service said in a statement that while the policemen and soliders were treated on the spot, the immigrant was taken to a health centre. The place was also...
 
-### ["News of the World" phone hacking scandal:: MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/news-of-the-world-phone-hacking-scandal-mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-edit.md)
+### [MPs release a letter sent to News International in 2007 by former "News of the World" Royal editor Clive Goodman, in which he alleges senior staff at the newspaper were aware of phone hacking activities. ](/news/2011/08/16/mps-release-a-letter-sent-to-news-international-in-2007-by-former-news-of-the-world-royal-editor-clive-goodman-in-which-he-alleges-senior.md)
 MPs release a letter from a journalist jailed for phone hacking, alleging senior News of the World figures struck a deal to stop him implicating the paper at trial.
 
-### [2011 England riots:: Two men who set up a Facebook site to incite violence during the riots are sentenced to four years imprisonment at Chester Crown Court. ](/news/2011/08/16/2011-england-riots-two-men-who-set-up-a-facebook-site-to-incite-violence-during-the-riots-are-sentenced-to-four-years-imprisonment-at-ches.md)
+### [Two men who set up a Facebook site to incite violence during the riots are sentenced to four years imprisonment at Chester Crown Court. ](/news/2011/08/16/two-men-who-set-up-a-facebook-site-to-incite-violence-during-the-riots-are-sentenced-to-four-years-imprisonment-at-chester-crown-court.md)
 Two men are jailed for four years each for using Facebook to incite disorder during riots in England last week.
 
 ### [Chinese Vice-Premier Li Keqiang visits Hong Kong on a three-day official tour; observers indicate that this solidifies his status as the next Premier of China. ](/news/2011/08/16/chinese-vice-premier-li-keqiang-visits-hong-kong-on-a-three-day-official-tour-observers-indicate-that-this-solidifies-his-status-as-the-nex.md)

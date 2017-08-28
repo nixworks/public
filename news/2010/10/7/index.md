@@ -33,7 +33,7 @@ _Context: Taliban_
 ### [Peruvian-Spanish writer Mario Vargas Llosa is announced as the winner of the 2010 Nobel Prize in Literature. ](/news/2010/10/7/peruvian-spanish-writer-mario-vargas-llosa-is-announced-as-the-winner-of-the-2010-nobel-prize-in-literature.md)
 Mario Vargas Llosa, one of the most acclaimed South American writers, has won the Nobel Prize for Literature.
 
-### [TVNZ "Breakfast" race row:: Suspended TVNZ broadcaster Paul Henry is embroiled in further controversy as his mockery of Delhi Chief Minister Sheila Dikshit is declared "racist" and "unacceptable" and New Zealand's ambassador to India is summoned for a dressing down. ](/news/2010/10/7/tvnz-breakfast-race-row-suspended-tvnz-broadcaster-paul-henry-is-embroiled-in-further-controversy-as-his-mockery-of-delhi-chief-minister.md)
+### [Suspended TVNZ broadcaster Paul Henry is embroiled in further controversy as his mockery of Delhi Chief Minister Sheila Dikshit is declared "racist" and "unacceptable" and New Zealand's ambassador to India is summoned for a dressing down. ](/news/2010/10/7/suspended-tvnz-broadcaster-paul-henry-is-embroiled-in-further-controversy-as-his-mockery-of-delhi-chief-minister-sheila-dikshit-is-declared.md)
 India denounced Thursday &quot;racist&quot; and &quot;unacceptable&quot; remarks made by a New Zealand television anchor about an Indian minister and summoned the country&#039;s ambassador to present a complaint.
 
 ### [A lost Antonio Vivaldi concerto is found in the National Archives of Scotland in Edinburgh. ](/news/2010/10/7/a-lost-antonio-vivaldi-concerto-is-found-in-the-national-archives-of-scotland-in-edinburgh.md)
@@ -55,7 +55,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 _Context: Japan, US$, United States Federal Reserve, currency, quantitative easing, yen_
 
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
-_Context: Irrawaddy River, Myanmar, delta_
+_Context: Burmese, Irrawaddy River, delta_
 
 ### [A woman was killed and 25 others were injured when the tractor-trolley they were travelling in overturned in Kashipur town of Udhamsingh Nagar district. ](/news/2010/10/7/a-woman-was-killed-and-25-others-were-injured-when-the-tractor-trolley-they-were-travelling-in-overturned-in-kashipur-town-of-udhamsingh-nag.md)
 Woman killed, 25 injured in accident in Uttarakhand - The incident took place when the vehicle carrying labourers suddenly overturned in Kashipur town of Udhamsingh Nagar district, killing one of them on the spot.
@@ -69,13 +69,13 @@ The death toll from flash floods in a remote region of eastern Indonesia has cli
 ### [Red mud from the Ajka alumina plant accident in Hungary reaches the Danube River with alkalinity rising in the Raba River which flows into the Danube. ](/news/2010/10/7/red-mud-from-the-ajka-alumina-plant-accident-in-hungary-reaches-the-danube-river-with-alkalinity-rising-in-the-ra-ba-river-which-flows-into.md)
 Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday and crews struggled to dilute it to protect the river from what the prime minister called an &quot;unprecedented ecological catastrophe.&quot;
 
-### [United Nations Security Council visit to Sudan:: Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/united-nations-security-council-visit-to-sudan-members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-refe.md)
+### [Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.md)
 _Context: Darfur, Security Council, Southern Sudanese Independence Referendum, Sudan_
 
-### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran-s nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iran-s-nucle.md)
+### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
 _Context: Air Defense, Iran, Russia, ban on ballistic missile tests, nuclear scientist_
 
-### [United States helicopter strike on Pakistan:: The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/united-states-helicopter-strike-on-pakistan-the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-pos.md)
+### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
 As the White House tried to mollify Pakistan over an airstrike, officials said there were larger tensions.
 
 ### [Israel buys 20 F-35I variant radar-evading fighter jets from the United States, Israel's first batch of advanced fighter jets which arm the country with the most sophisticated combat aircraft in the Middle East. Officials at The Pentagon acknowledge the sale. ](/news/2010/10/7/israel-buys-20-f-35i-variant-radar-evading-fighter-jets-from-the-united-states-israel-s-first-batch-of-advanced-fighter-jets-which-arm-the.md)

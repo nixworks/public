@@ -1,9 +1,9 @@
 ## [2015-02-21](/news/2015/02/21/index.md)
 
-### [Boko Haram: The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/boko-haram-the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md)
+### [The Nigerian Army recaptures the town of Baga where Boko Haram killed scores of people last month. ](/news/2015/02/21/the-nigerian-army-recaptures-the-town-of-baga-where-boko-haram-killed-scores-of-people-last-month.md)
 The Nigerian army says it has retaken the town of Baga, held by Boko Haram militants since 3 January.
 
-### [Islamic State in Iraq and the Levant: The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/islamic-state-in-iraq-and-the-levant-the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-arte.md)
+### [The Turkish media reports that the Turkish Army has sent troops into Syria to evacuate troops and artefacts from the Tomb of Suleyman Shah in the Aleppo Governorate which has been under threat from Islamic State for several months. One soldier has reportedly been killed. ](/news/2015/02/21/the-turkish-media-reports-that-the-turkish-army-has-sent-troops-into-syria-to-evacuate-troops-and-artefacts-from-the-tomb-of-suleyman-shah-i.md)
 Turkey evacuated its military personnel protecting the Tomb of Süleyman Şah in northern Syria by an operation jointly conducted by the intelligence organization and the Turkish army early Feb. 22, few days after reports suggested that the tomb was besieged by ISIL 
 
 ### [ The United Steelworkers union notifies the owner of the largest refinery in the United States that its members are on strike. The notification to Motiva constitutes a major escalation of ongoing labor-management confrontation in that industry. ](/news/2015/02/21/the-united-steelworkers-union-notifies-the-owner-of-the-largest-refinery-in-the-united-states-that-its-members-are-on-strike-the-notificat.md)
@@ -18,7 +18,7 @@ Three Italians are killed after an avalanche in an area known as Death Valley in
 ### [Indonesia recalls its envoy to Brazil due to ongoing tension caused by Indonesia's recent execution of a Brazilian drug smuggler. ](/news/2015/02/21/indonesia-recalls-its-envoy-to-brazil-due-to-ongoing-tension-caused-by-indonesia-s-recent-execution-of-a-brazilian-drug-smuggler.md)
 Indonesia has recalled its new ambassador to Brazil after the South American country stopped him taking part in a credentials ceremony following the execution of a Brazilian national for drugs trafficking.
 
-### [War in Donbass: The United States and United Kingdom discuss imposing additional sanctions on Russia over the breach of the ceasefire. ](/news/2015/02/21/war-in-donbass-the-united-states-and-united-kingdom-discuss-imposing-additional-sanctions-on-russia-over-the-breach-of-the-ceasefire.md)
+### [The United States and United Kingdom discuss imposing additional sanctions on Russia over the breach of the ceasefire. ](/news/2015/02/21/the-united-states-and-united-kingdom-discuss-imposing-additional-sanctions-on-russia-over-the-breach-of-the-ceasefire.md)
 139 Ukrainian soldiers have been traded for 52 separatist fighters in rare compliance with the otherwise much-violated truce.
 
 ### [The President of Peru Ollanta Humala recalls the ambassador to Chile over spying allegations. ](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.md)

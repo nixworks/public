@@ -1,9 +1,9 @@
 ## [2011-06-25](/news/2011/06/25/index.md)
 
-### [Arab Spring:: 2011 Syrian uprising:: Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/arab-spring-2011-syrian-uprising-over-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md)
+### [2011 Syrian uprising:Over 1,000 Syrians flee into Lebanon to escape the unrest. ](/news/2011/06/25/2011-syrian-uprising-over-1-000-syrians-flee-into-lebanon-to-escape-the-unrest.md)
 A group of Libyan football figures, including members of the national team, tell the BBC they have decided to defect to the rebels.
 
-### [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001-present.md)
+### [War in Afghanistan (2001-present):](/news/2011/06/25/war-in-afghanistan-2001apresent.md)
 _Context: War in Afghanistan (2001-present)_
 
 ### [35 people are killed in a suicide car bomb attack in Afghanistan's Logar province. ](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-attack-in-afghanistan-s-logar-province.md)
@@ -36,7 +36,7 @@ Computer hackers appear to have accessed the personal details of Tony Blair afte
 ### [Former Egyptian trade minister, Rashid Mohamed Rashid, is convicted in absentia of profiteering and unlawfully taking money from the country's Export Development Fund and is sentenced to five years in prison and fined nearly 9.4 million Egyptian pound ($1.6 million). ](/news/2011/06/25/former-egyptian-trade-minister-rashid-mohamed-rashid-is-convicted-in-absentia-of-profiteering-and-unlawfully-taking-money-from-the-country.md)
 _Context: Egypt_
 
-### [Release of Chinese dissidents:: Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/release-of-chinese-dissidents-activist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-condit.md)
+### [Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/activist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-conditions-in-china.md)
 Hu was imprisoned for criticising human rights conditions in China ahead of the 2008 Beijing Olympic Games.
 
 ### [New York Governor Andrew Cuomo signs New York State's Marriage Equality Law, legalizing same-sex marriage in New York, and making New York the largest U.S. state to approve such legislation since California reversed its legalization in 2008. ](/news/2011/06/25/new-york-governor-andrew-cuomo-signs-new-york-state-s-marriage-equality-law-legalizing-same-sex-marriage-in-new-york-and-making-new-york-t.md)

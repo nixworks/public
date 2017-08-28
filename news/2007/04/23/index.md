@@ -3,13 +3,13 @@
 ### [ Former Russian President Boris Yeltsin dies at the age of 76. ](/news/2007/04/23/former-russian-president-boris-yeltsin-dies-at-the-age-of-76.md)
 _Context: Boris Yeltsin, President, Russia_
 
-### [ Iraq Insurgency:: Prime Minister Nouri Maliki calls for construction to be halted on the three-mile wall being built by the United States military around the predominantly Sunni district of Adhamiyah, Baghdad. Thousands of Iraqis also protest the wall. ](/news/2007/04/23/iraq-insurgency-prime-minister-nouri-maliki-calls-for-construction-to-be-halted-on-the-three-mile-wall-being-built-by-the-united-states-m.md)
-_Context: Adhamiyah, Baghdad, Iraq, Iraq Insurgency, Iraq Prime Minister, Nouri Maliki, Sunni, United States military, protest, three-mile wall_
+### [ Prime Minister Nouri Maliki calls for construction to be halted on the three-mile wall being built by the United States military around the predominantly Sunni district of Adhamiyah, Baghdad. Thousands of Iraqis also protest the wall. ](/news/2007/04/23/prime-minister-nouri-maliki-calls-for-construction-to-be-halted-on-the-three-mile-wall-being-built-by-the-united-states-military-around-the.md)
+_Context: Adhamiyah, Baghdad, Iraq, Iraq Prime Minister, Nouri Maliki, Sunni, United States military, protest, three-mile wall_
 
 ### [ Three of the six members of the Bali Nine &ndash; Tan Duc Thanh Nguyen, Si Yi Chen and Matthew Norman &ndash; who were sentenced to death have launched a judicial review appeal with Denpasar's District Court. ](/news/2007/04/23/three-of-the-six-members-of-the-bali-nine-ndash-tan-duc-thanh-nguyen-si-yi-chen-and-matthew-norman-ndash-who-were-sentenced-to-death-h.md)
 _Context: Bali Nine, Denpasar, Matthew Norman, Si Yi Chen, Tan Duc Thanh Nguyen, judicial review_
 
-### [ Barclays plc agrees to buy ABN Amro in a -67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-67-billion-deal.md)
+### [ Barclays plc agrees to buy ABN Amro in a EUR67 billion deal. ](/news/2007/04/23/barclays-plc-agrees-to-buy-abn-amro-in-a-a-67-billion-deal.md)
 _Context: ABN Amro, Barclays plc, EUR_
 
 ### [ Umaru Yar'Adua is declared the winner of Nigeria's presidential election that EU observers said "cannot be considered to have been credible." ](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.md)

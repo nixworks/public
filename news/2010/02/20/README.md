@@ -3,7 +3,7 @@
 ### [Olympic luger Nodar Kumaritashvili is buried in Bakuriani, Georgia. ](/news/2010/02/20/olympic-luger-nodar-kumaritashvili-is-buried-in-bakuriani-georgia.md)
 _Context: Bakuriani, Georgian, Nodar Kumaritashvili_
 
-### [2010 Nigerien coup d'etat:: The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/2010-nigerien-coup-d-a-c-tat-the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md)
+### [The African Union (AU) suspends Niger following this week's coup d'etat. ](/news/2010/02/20/the-african-union-au-suspends-niger-following-this-week-s-coup-d-a-c-tat.md)
 Capital calm as international bodies urge military leadership to restore democracy.
 
 ### [President of Afghanistan Hamid Karzai, addressing parliament with a photo of an 8-year-old girl who lost 12 relatives to ISAF rocket fire during Operation Moshtarak, urges foreign troops to do more to prevent civilian deaths. ](/news/2010/02/20/president-of-afghanistan-hamid-karzai-addressing-parliament-with-a-photo-of-an-8-year-old-girl-who-lost-12-relatives-to-isaf-rocket-fire-du.md)

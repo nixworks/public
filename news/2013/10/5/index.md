@@ -1,6 +1,6 @@
 ## [2013-10-5](/news/2013/10/5/index.md)
 
-### [Post-civil war clashes in Libya:: Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/post-civil-war-clashes-in-libya-gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md)
+### [Gunmen attack a military checkpoint near Bani Walid leaving 15 soldiers dead. ](/news/2013/10/5/gunmen-attack-a-military-checkpoint-near-bani-walid-leaving-15-soldiers-dead.md)
 Gunmen attack military checkpoint south-east of the Libyan capital Tripoli killing 15 soldiers and injuring several others, officials say.
 
 ### [Prince Harry arrives in Sydney, Australia, to celebrate 100 years of the Royal Australian Navy. ](/news/2013/10/5/prince-harry-arrives-in-sydney-australia-to-celebrate-100-years-of-the-royal-australian-navy.md)

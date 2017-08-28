@@ -6,7 +6,7 @@ _Context: Afghanistan's, Jalalabad Airport, protests_
 ### [An alleged plot to assassinate Vladimir Putin after this year's Russian presidential election is foiled by Ukrainian and Russian intelligence services. ](/news/2012/02/27/an-alleged-plot-to-assassinate-vladimir-putin-after-this-year-s-russian-presidential-election-is-foiled-by-ukrainian-and-russian-intelligenc.md)
 Critics questioned the timing of a revelation by Russian state media on Monday of the alleged assassination plot.
 
-### [2011-2012 Syrian uprising:: 125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/2011-2012-syrian-uprising-125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-b.md)
+### [125 civilians are killed nationwide by the Syrian army, included 64 people reportedly summarily executed after being caught trying to flee the city of Homs. ](/news/2012/02/27/125-civilians-are-killed-nationwide-by-the-syrian-army-included-64-people-reportedly-summarily-executed-after-being-caught-trying-to-flee-t.md)
 The Syrian military launches a new offensive against opposition-held towns in the province of Idlib, as the European Union agrees a tougher round of sanctions against Damascus.
 
 ### [Jailed U.S. serviceman Bradley Manning, U.S. political scientist Gene Sharp and news network Al Jazeera are among those known to have been nominated for the 2012 Nobel Peace Prize. ](/news/2012/02/27/jailed-u-s-serviceman-bradley-manning-u-s-political-scientist-gene-sharp-and-news-network-al-jazeera-are-among-those-known-to-have-been-n.md)

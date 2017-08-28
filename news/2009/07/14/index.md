@@ -9,7 +9,7 @@ _Context: Hans-Gert Pottering, Jerzy Buzek, President of the European Parliament
 ### [ The World Health Organization reports that yields for an H1N1 virus vaccine are lower than expected. ](/news/2009/07/14/the-world-health-organization-reports-that-yields-for-an-h1n1-virus-vaccine-are-lower-than-expected.md)
 _Context: H1N1, World Health Organization, vaccine, virus_
 
-### [ July 2009 Urumqi riots: China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/july-2009-ara1-4mqi-riots-china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
+### [ China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. ](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoaan-to-retract-his-comments-of-genocide-in-xinjiang.md)
 _Context: China, Tayyip Erdogan, Turkey, Turkish Prime Minister, Xinjiang, ethnic riots_
 
 ### [ Two foreign nationals, believed to be French, are kidnapped by gunmen after a hotel is stormed in Mogadishu, Somalia. ](/news/2009/07/14/two-foreign-nationals-believed-to-be-french-are-kidnapped-by-gunmen-after-a-hotel-is-stormed-in-mogadishu-somalia.md)
@@ -39,7 +39,7 @@ _Context: Canada, Czech Republic, Mexico, refugee, visa-free travel_
 ### [ An Egyptian civil servant is jailed for three years for insulting President Hosni Mubarak in a poem. ](/news/2009/07/14/an-egyptian-civil-servant-is-jailed-for-three-years-for-insulting-president-hosni-mubarak-in-a-poem.md)
 _Context: Egypt, Egyptian President, Hosni Mubarak_
 
-### [ The 11th Micronesian Chief Executives- Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executives-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md)
+### [ The 11th Micronesian Chief Executives' Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md)
 Guam - A website dedicated to stopping cyber bullying on Guam has been launched. ...
 
 ### [ Judy Chu wins the 32nd congressional district special election, becoming the first Chinese American woman elected to the U.S. House of Representatives. ](/news/2009/07/14/judy-chu-wins-the-32nd-congressional-district-special-election-becoming-the-first-chinese-american-woman-elected-to-the-u-s-house-of-repr.md)

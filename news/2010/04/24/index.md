@@ -27,7 +27,7 @@ _Context: Proton-M, Russia, United States, rocket, space, telecommunications sat
 ### [ An unmanned American aircraft kills seven militants in Pakistan. ](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-militants-in-pakistan.md)
 _Context: Pakistan, drone_
 
-### [Child sexual abuse in the Roman Catholic Church:: In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/child-sexual-abuse-in-the-roman-catholic-church-in-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hou.md)
+### [In Chile, Catholic Church leaders and President Sebastin Piera meet for more than an hour to discuss the child sexual abuse scandal and agree to send a letter to all the country's parishes. ](/news/2010/04/24/in-chile-catholic-church-leaders-and-president-sebastian-pinera-meet-for-more-than-an-hour-to-discuss-the-child-sexual-abuse-scandal-and-ag.md)
 _Context: Catholic Church, Chile, President, Sebastin Piera_
 
 ### [Tens of thousands of people rally and lay flowers at a monument in Yerevan to the victims on the 95th anniversary of the Armenian Genocide. ](/news/2010/04/24/tens-of-thousands-of-people-rally-and-lay-flowers-at-a-monument-in-yerevan-to-the-victims-on-the-95th-anniversary-of-the-armenian-genocide.md)

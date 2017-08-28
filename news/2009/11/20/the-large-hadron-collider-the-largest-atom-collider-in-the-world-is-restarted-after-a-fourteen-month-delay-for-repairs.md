@@ -13,7 +13,7 @@ Scientists are restarting a giant sub-atomic particle collider built to reproduc
 
 ### Related:
 
-1. [Large Hadron Collider: Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/large-hadron-collider-scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md) _Context: Large Hadron Collider_
+1. [Scientists announce the detection of a new subatomic particle at the Large Hadron Collider. ](/news/2017/07/6/scientists-announce-the-detection-of-a-new-subatomic-particle-at-the-large-hadron-collider.md) _Context: Large Hadron Collider_
 2. [Researchers at the SLAC National Accelerator Laboratory find a way to make thinner electrical wires that measure just three atoms wide. ](/news/2016/12/26/researchers-at-the-slac-national-accelerator-laboratory-find-a-way-to-make-thinner-electrical-wires-that-measure-just-three-atoms-wide.md) _Context: atom_
 3. [Scientists at CERN's Large Hadron Collider announce discovery of the pentaquark. ](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.md) _Context: Large Hadron Collider_
 4. [The Large Hadron Collider at CERN centre in Geneva, Switzerland has been restarted after a two-year conversion. ](/news/2015/04/5/the-large-hadron-collider-at-cern-centre-in-geneva-switzerland-has-been-restarted-after-a-two-year-conversion.md) _Context: Large Hadron Collider_

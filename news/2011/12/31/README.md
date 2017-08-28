@@ -12,7 +12,7 @@ Ethiopian forces capture the central Somali town of Beledweyne from Islamist mil
 ### [The President of Sudan Omar Hassan al-Bashir urges members of the Darfur based Justice and Equality Movement (JEM) to seek peace following the recent death of rebel leader Ibrahim Khalil. ](/news/2011/12/31/the-president-of-sudan-omar-hassan-al-bashir-urges-members-of-the-darfur-based-justice-and-equality-movement-jem-to-seek-peace-following-t.md)
 _Context: Darfur, Ibrahim Khalil, Justice and Equality Movement, Omar Hassan al-Bashir, President of Sudan_
 
-### [Nigerian unrest: The President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/nigerian-unrest-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-du.md)
+### [The President of Nigeria Goodluck Jonathan declares a state of emergency in the states of Borno, Yobe, Niger and Plateau due to violence by the Islamist sect Boko Haram. ](/news/2011/12/31/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-the-states-of-borno-yobe-niger-and-plateau-due-to-violence-by.md)
 Nigeria has declared a state of emergency and closed parts of the country&#039;s borders in areas hit hard by violence blamed on an Islamist sect.
 
 ### [Six thousand people from the Lou Nuer tribe in South Sudan attack the town of Pibor as a result of a dispute over cattle rustling. ](/news/2011/12/31/six-thousand-people-from-the-lou-nuer-tribe-in-south-sudan-attack-the-town-of-pibor-as-a-result-of-a-dispute-over-cattle-rustling.md)

@@ -1,6 +1,6 @@
 ## [2013-08-27](/news/2013/08/27/index.md)
 
-### [Syrian civil war: The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/syrian-civil-war-the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-count.md)
+### [The Russian foreign ministry warned that an attack on the Syrian government could be "catastrophic" and told Western countries to show "prudence" over the crisis happening there. ](/news/2013/08/27/the-russian-foreign-ministry-warned-that-an-attack-on-the-syrian-government-could-be-catastrophic-and-told-western-countries-to-show-prud.md)
 Russia&#x20;warned&#x20;that&#x20;a&#x20;military&#x20;intervention&#x20;in&#x20;Syria&#x20;could&#x20;have&#x20;&quot;catastrophic&#x20;consequences&quot;&#x20;on&#x20;Tuesday&#x20;and&#x20;called&#x20;on&#x20;Western&#x20;powers&#x20;to&#x20;show&#x20;&quot;prudence&quot;&#x20;over&#x20;the&#x20;c...
 
 ### [The Rim Fire near Yosemite National Park has now grown to about 281 square miles. ](/news/2013/08/27/the-rim-fire-near-yosemite-national-park-has-now-grown-to-about-281-square-miles.md)

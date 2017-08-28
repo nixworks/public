@@ -6,7 +6,7 @@ _Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, Germany, N
 ### [ Mexico and Venezuela have withdrawn their ambassadors amid rising tension between the two countries. ](/news/2005/11/14/mexico-and-venezuela-have-withdrawn-their-ambassadors-amid-rising-tension-between-the-two-countries.md)
 _Context: Mexico, Venezuela_
 
-### [ Uzbekistan:: Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/uzbekistan-petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-p.md)
+### [ Petrol shortages in Uzbekistan continue to worsen. Critics attribute the shortages to the Uzbek government's monopoly of the petrol industry. ](/news/2005/11/14/petrol-shortages-in-uzbekistan-continue-to-worsen-critics-attribute-the-shortages-to-the-uzbek-government-s-monopoly-of-the-petrol-industr.md)
 _Context: Uzbekistan, industry, monopoly, petrol_
 
 ### [ Somalia: 8 men were sentenced to death today for the murder of British Aid workers Richard and Enid Eyeington in Somaliland in October 2003. ](/news/2005/11/14/somalia-8-men-were-sentenced-to-death-today-for-the-murder-of-british-aid-workers-richard-and-enid-eyeington-in-somaliland-in-october-2003.md)
@@ -18,7 +18,7 @@ _Context: 1986, Kizza Besigye, Lord's Resistance Army, People's Redemption Army,
 ### [ The United States government issues warning after receiving credible information that a terrorist threat may exist against official U.S. government facilities in Guangzhou, China. ](/news/2005/11/14/the-united-states-government-issues-warning-after-receiving-credible-information-that-a-terrorist-threat-may-exist-against-official-u-s-go.md)
 _Context: China, Guangzhou, United States_
 
-### [ Knesset Member Omri Sharon, the son of the Prime Minister of Israel Ariel Sharon, struck a deal with prosecutors that would see him plead guilty to a series of charges in connection with illegal fundraising during Ariel Sharon-s 1999 primaries campaign. ](/news/2005/11/14/knesset-member-omri-sharon-the-son-of-the-prime-minister-of-israel-ariel-sharon-struck-a-deal-with-prosecutors-that-would-see-him-plead-g.md)
+### [ Knesset Member Omri Sharon, the son of the Prime Minister of Israel Ariel Sharon, struck a deal with prosecutors that would see him plead guilty to a series of charges in connection with illegal fundraising during Ariel Sharon's 1999 primaries campaign. ](/news/2005/11/14/knesset-member-omri-sharon-the-son-of-the-prime-minister-of-israel-ariel-sharon-struck-a-deal-with-prosecutors-that-would-see-him-plead-g.md)
 MK Omri Sharon, the prime minister&#39;s son, pleads guilty to charges of illegal political fundraising at Tel Aviv Magistrates court Tuesday. Sharon will address court during sentence hearing, his attorney reports 
 
 ## [Previous Day...](/news/2005/11/13/index.md)

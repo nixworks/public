@@ -30,7 +30,7 @@ _Context: Ukraine, Ukrainian President, Viktor Yanukovych_
 ### [A fire at the Garib & Garib Sweater Factory clothes factory in Gazipur, Bangladesh kills at least 18 people and injures more than 50 others. ](/news/2010/02/25/a-fire-at-the-garib-garib-sweater-factory-clothes-factory-in-gazipur-bangladesh-kills-at-least-18-people-and-injures-more-than-50-others.md)
 _Context: Bangladesh, Gazipur_
 
-### [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murder-suicide.md)
+### [The chief of Algeria's national police, Ali Tounsi, is fatally shot in his office in a retaliatory murder-suicide. ](/news/2010/02/25/the-chief-of-algeria-s-national-police-ali-tounsi-is-fatally-shot-in-his-office-in-a-retaliatory-murderasuicide.md)
 _Context: Algeria, Ali Tounsi, murder-suicide_
 
 ### [The International Criminal Tribunal for Rwanda (ICTR) jails Lieut-Col Eprem Setako, the Ministry of Defence's former head of legal affairs, for 25 years after finding him guilty of genocide and crimes against humanity. ](/news/2010/02/25/the-international-criminal-tribunal-for-rwanda-ictr-jails-lieut-col-eprem-setako-the-ministry-of-defence-s-former-head-of-legal-affairs.md)

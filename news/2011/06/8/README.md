@@ -1,6 +1,6 @@
 ## [2011-06-8](/news/2011/06/8/index.md)
 
-### [Libyan Civil War:: NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/libyan-civil-war-nato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md)
+### [NATO aircraft conduct a bombing attack on Muammar Gaddafi's compound in Tripoli. ](/news/2011/06/8/nato-aircraft-conduct-a-bombing-attack-on-muammar-gaddafi-s-compound-in-tripoli.md)
 POWERFUL explosions have again rocked the area around the residence of Libyan leader Muammar Gaddafi in the centre of Tripoli, only hours after it had been targeted by dozens of similar raids.
 
 ### [South Korea's Yonhap News agency reports that North Korea has test-fired a KN-06 missile. ](/news/2011/06/8/south-korea-s-yonhap-news-agency-reports-that-north-korea-has-test-fired-a-kn-06-missile.md)

@@ -1,12 +1,12 @@
 ## [2013-12-23](/news/2013/12/23/index.md)
 
-### [War in North-West Pakistan:: The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/war-in-north-west-pakistan-the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-a.md)
-_Context: Pakistani, Taliban, War in North-West Pakistan_
+### [The Pakistani army launches a military offensive against Taliban insurgents near the Afghan border. There are accusations that dozens of civilians are killed. ](/news/2013/12/23/the-pakistani-army-launches-a-military-offensive-against-taliban-insurgents-near-the-afghan-border-there-are-accusations-that-dozens-of-civ.md)
+_Context: Pakistani, Taliban_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/iraqi-insurgency-post-u-s-withdrawal-a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md)
-_Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
+### [A mortar attack kills four Iraq army officers and two soldiers in an army base west of Baghdad. ](/news/2013/12/23/a-mortar-attack-kills-four-iraq-army-officers-and-two-soldiers-in-an-army-base-west-of-baghdad.md)
+_Context: Iraq_
 
-### [Syrian Civil War:: Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/syrian-civil-war-russia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an.md)
+### [Russia sends 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal. ](/news/2013/12/23/russia-sends-25-armored-trucks-and-50-other-vehicles-to-syria-to-help-transport-toxins-that-are-to-be-destroyed-under-an-international-agree.md)
 Russia has sent 25 armored trucks and 50 other vehicles to Syria to help transport toxins that are to be destroyed under an international agreement to rid the nation of its chemical arsenal, Defence Minister Sergei Shoigu said on Monday.
 
 ### [Palestinian militants fire a Kassam rocket from Gaza which lands next to a bus stop used by schoolchildren in the Ashkelon area in southern Israel; no injuries are reported. ](/news/2013/12/23/palestinian-militants-fire-a-kassam-rocket-from-gaza-which-lands-next-to-a-bus-stop-used-by-schoolchildren-in-the-ashkelon-area-in-southern.md)

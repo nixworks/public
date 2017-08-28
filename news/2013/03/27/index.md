@@ -1,13 +1,13 @@
 ## [2013-03-27](/news/2013/03/27/index.md)
 
-### [South Thailand insurgency:: The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/south-thailand-insurgency-the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade.md)
+### [The Thailand government prepares for peace talks with Muslim separatist groups with the hope of ending a decade-long insurgency. ](/news/2013/03/27/the-thailand-government-prepares-for-peace-talks-with-muslim-separatist-groups-with-the-hope-of-ending-a-decade-long-insurgency.md)
 Five people are reported killed as Thai government begins talks with separatists to end decades-long armed struggle.
 
-### [Northern Mali conflict:: The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/northern-mali-conflict-the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led.md)
-_Context: France, Government, January 2013, Mali, Northern Mali conflict (2012-present), Operation Serval_
+### [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md)
+_Context: France, Government, January 2013, Mali, Operation Serval_
 
-### [Terrorism in Greece:: A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/terrorism-in-greece-a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md)
-_Context: Acropolis, Athens, Greek, Terrorism in Greece_
+### [A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md)
+_Context: Acropolis, Athens, Greek_
 
 ### [The Rolling Stones are to headline Glastonbury Festival 2013 in Pilton, Somerset, England. ](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.md)
 As the Rolling Stones confirm they will headline Glastonbury for the first time in 2013, Neil McCormick looks at why it took them so long.

@@ -1,6 +1,6 @@
 ## [2012-01-19](/news/2012/01/19/index.md)
 
-### [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011-2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md)
+### [2011-2012 Syrian uprising: The Arab League observer mission ends, with its report to be reviewed at the weekend. ](/news/2012/01/19/2011a2012-syrian-uprising-the-arab-league-observer-mission-ends-with-its-report-to-be-reviewed-at-the-weekend.md)
 Syrian government troops pulled back armoured vehicles from the town of Zabandi as observers in the country prepared to hand in a report on their mission to Arab foreign ministers.
 
 ### [Kodak files for bankruptcy protection. ](/news/2012/01/19/kodak-files-for-bankruptcy-protection.md)

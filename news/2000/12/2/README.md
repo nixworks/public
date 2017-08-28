@@ -6,7 +6,7 @@ _Context: The Backstreet Boys_
 ### [The Smashing Pumpkins played what was intended to be their farewell concert at the Metro Theater. Even though the band later reunited, Corgan viewed it as the end of an era. ](/news/2000/12/2/the-smashing-pumpkins-played-what-was-intended-to-be-their-farewell-concert-at-the-metro-theater-even-though-the-band-later-reunited-corga.md)
 _Context: Billy Corgan, Metro Theater, The Smashing Pumpkins_
 
-### [Sarai Banjara rail disaster: 46 people killed and 150 injured when a freight train derailed into the path of a passenger train in the Punjab, India.](/news/2000/12/2/sarai-banjara-rail-disaster-46-people-killed-and-150-injured-when-a-freight-train-derailed-into-the-path-of-a-passenger-train-in-the-punjab.md)
+### [46 people killed and 150 injured when a freight train derailed into the path of a passenger train in the Punjab, India.](/news/2000/12/2/46-people-killed-and-150-injured-when-a-freight-train-derailed-into-the-path-of-a-passenger-train-in-the-punjab-india.md)
 _Context: India, Punjab, Sarai Banjara rail disaster_
 
 ## [Previous Day...](/news/2000/12/1/index.md)

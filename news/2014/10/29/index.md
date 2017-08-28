@@ -6,7 +6,7 @@ New Zealand is to hold a binding referendum in 2016 on whether to change the des
 ### [A mudslide in south-central Sri Lanka kills more than 100 people. ](/news/2014/10/29/a-mudslide-in-south-central-sri-lanka-kills-more-than-100-people.md)
 _Context: Sri Lanka, mudslide_
 
-### [Tunisian parliamentary election, 2014: The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/tunisian-parliamentary-election-2014-the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes.md)
+### [The results of the recent Tunisian parliamentary election are announced with the secular Nidaa Tounes party winning a plurality of seats. ](/news/2014/10/29/the-results-of-the-recent-tunisian-parliamentary-election-are-announced-with-the-secular-nidaa-tounes-party-winning-a-plurality-of-seats.md)
 _Context: Nidaa Tounes, Tunisia, Tunisian parliamentary election, 2014_
 
 ### [Guy Scott, the Vice-President of Zambia, becomes the interim President following the death of Michael Sata in London on Tuesday. ](/news/2014/10/29/guy-scott-the-vice-president-of-zambia-becomes-the-interim-president-following-the-death-of-michael-sata-in-london-on-tuesday.md)

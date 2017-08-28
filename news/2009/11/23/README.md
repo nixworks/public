@@ -30,7 +30,7 @@ _Context: Maguindanao, Philippines_
 ### [ Clashes break out between refugees from Sri Lanka and Afghanistan at an Australian immigration centre on Christmas Island. ](/news/2009/11/23/clashes-break-out-between-refugees-from-sri-lanka-and-afghanistan-at-an-australian-immigration-centre-on-christmas-island.md)
 Asylum seekers involved in a wild brawl on Christmas Island are being threatened with deportation.
 
-### [ Flooding in Great Britain and Ireland: Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/flooding-in-great-britain-and-ireland-residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for.md)
+### [ Residents in Cockermouth, Cumbria, begin returning to their homes; meanwhile, the search resumes for a missing woman swept away near Brecon, Powys. ](/news/2009/11/23/residents-in-cockermouth-cumbria-begin-returning-to-their-homes-meanwhile-the-search-resumes-for-a-missing-woman-swept-away-near-brecon.md)
 Parts of Co Clare are on high flood alert because of increasing water levels in the river Shannon.
 
 ### [ Relatives protest about the recent mine disaster in China. ](/news/2009/11/23/relatives-protest-about-the-recent-mine-disaster-in-china.md)

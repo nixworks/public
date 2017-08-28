@@ -12,14 +12,14 @@ _Context: Alabama, AstraZeneca, Medicaid, US$_
 ### [ The President of Iran Mahmoud Ahmadinejad accuses the United States of plotting to kidnap and assassinate him during a visit to Iraq. ](/news/2008/06/19/the-president-of-iran-mahmoud-ahmadinejad-accuses-the-united-states-of-plotting-to-kidnap-and-assassinate-him-during-a-visit-to-iraq.md)
 _Context: Iraq, Mahmoud Ahmadinejad, President, United States_
 
-### [ Subprime mortgage crisis: A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/subprime-mortgage-crisis-a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the.md)
+### [ A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. ](/news/2008/06/19/a-congressional-ethics-panel-is-examining-allegations-that-democrat-senators-christopher-dodd-of-connecticut-the-sponsor-of-a-major-300-b.md)
 _Context: Christopher Dodd, Countrywide Financial Corp., Kent Conrad, bailout, housing crisis_
 
 ### [ Royal Dutch Shell shuts down an offshore oil installation in Nigeria after an attack from the Movement for the Emancipation of the Niger Delta. ](/news/2008/06/19/royal-dutch-shell-shuts-down-an-offshore-oil-installation-in-nigeria-after-an-attack-from-the-movement-for-the-emancipation-of-the-niger-de.md)
 _Context: Movement for the Emancipation of the Niger Delta, Nigeria, Royal Dutch Shell_
 
-### [ Zimbabwean presidential election, 2008:: Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwean-presidential-election-2008-zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others.md)
-_Context: Movement for Democratic Change, Zimbabwe, run-off presidential election_
+### [ Zimbabwe police arrest an opposition Movement for Democratic Change lawmaker and place six others on a wanted list. ](/news/2008/06/19/zimbabwe-police-arrest-an-opposition-movement-for-democratic-change-lawmaker-and-place-six-others-on-a-wanted-list.md)
+_Context: Movement for Democratic Change, Zimbabwe_
 
 ### [ Lee Myung-bak, the President of South Korea, apologises to South Koreans over an unpopular decision to resume importing beef from the United States. ](/news/2008/06/19/lee-myung-bak-the-president-of-south-korea-apologises-to-south-koreans-over-an-unpopular-decision-to-resume-importing-beef-from-the-unite.md)
 _Context: Lee Myung-bak, President of South Korea, South Korea, United States, beef imports_

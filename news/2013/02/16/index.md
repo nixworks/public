@@ -1,10 +1,10 @@
 ## [2013-02-16](/news/2013/02/16/index.md)
 
-### [February 2013 Quetta bombing:: At least 84 people are killed and more than 190 injured after a bomb explodes at a market in Hazara Town on the outskirts of Quetta, in Pakistan. Most of the victims are members of the predominantly Twelver Shia Hazara minority that was targeted by Lashkar-e-Jhangvi only a month earlier. The organization later claims responsibility for the blasts. ](/news/2013/02/16/february-2013-quetta-bombing-at-least-84-people-are-killed-and-more-than-190-injured-after-a-bomb-explodes-at-a-market-in-hazara-town-on-t.md)
+### [At least 84 people are killed and more than 190 injured after a bomb explodes at a market in Hazara Town on the outskirts of Quetta, in Pakistan. Most of the victims are members of the predominantly Twelver Shia Hazara minority that was targeted by Lashkar-e-Jhangvi only a month earlier. The organization later claims responsibility for the blasts. ](/news/2013/02/16/at-least-84-people-are-killed-and-more-than-190-injured-after-a-bomb-explodes-at-a-market-in-hazara-town-on-the-outskirts-of-quetta-in-paki.md)
 At least 84 people killed in attack on vegetable market that targeted Hazara Shias in southwestern city of Quetta.
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/iraqi-insurgency-post-u-s-withdrawal-a-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-o.md)
-_Context: Iraq, Iraqi insurgency (post-U.S. withdrawal), Tal Afar_
+### [A suicide bombing kills General Ali Aouni, the head of the Iraqi intelligence academy, and three of his bodyguards in Tal Afar. ](/news/2013/02/16/a-suicide-bombing-kills-general-ali-aouni-the-head-of-the-iraqi-intelligence-academy-and-three-of-his-bodyguards-in-tal-afar.md)
+_Context: Iraq, Tal Afar_
 
 ### [2013 Romanian drama film Child's Pose wins the Golden Bear at the 63rd Berlin International Film Festival in Berlin, Germany. ](/news/2013/02/16/2013-romanian-drama-film-child-s-pose-wins-the-golden-bear-at-the-63rd-berlin-international-film-festival-in-berlin-germany.md)
 BERLIN -- The 63rd Berlin International Film Festival handed out its awards Saturday, with the top prize, the Golden Bear for best film, going to the Romanian family drama and corruption tale...

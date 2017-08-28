@@ -12,16 +12,16 @@ _Context: Aegean Sea, Andros, Cyprus, Greek_
 ### [A 106-car pileup occurs on Yeongjong Bridge in Incheon, South Korea, leaving two men dead and more than 65 people injured. ](/news/2015/02/11/a-106-car-pileup-occurs-on-yeongjong-bridge-in-incheon-south-korea-leaving-two-men-dead-and-more-than-65-people-injured.md)
 A pile-up involving 100 cars on a bridge leading to Incheon airport in South Korea leaves at least two people dead.
 
-### ["Costa Concordia" disaster: A court in the city of Grosseto convicts the former captain of the "Costa Concordia", Francesco Schettino, of manslaughter for his part in the ship's January 2012 sinking, and sentences him to 16 years in jail. ](/news/2015/02/11/costa-concordia-disaster-a-court-in-the-city-of-grosseto-convicts-the-former-captain-of-the-costa-concordia-francesco-schettino-of-ma.md)
+### [A court in the city of Grosseto convicts the former captain of the "Costa Concordia", Francesco Schettino, of manslaughter for his part in the ship's January 2012 sinking, and sentences him to 16 years in jail. ](/news/2015/02/11/a-court-in-the-city-of-grosseto-convicts-the-former-captain-of-the-costa-concordia-francesco-schettino-of-manslaughter-for-his-part-in-t.md)
 Costa Concordia captain Francesco Schettino is jailed for 16 years for the manslaughter of 32 people who died when the cruise ship sank in 2012.
 
-### [Yemeni Crisis (2011-present): The United States, United Kingdom, and France close their Yemeni embassies and evacuate their staff due to terrorist activities and continued unrest. ](/news/2015/02/11/yemeni-crisis-2011-present-the-united-states-united-kingdom-and-france-close-their-yemeni-embassies-and-evacuate-their-staff-due-to-t.md)
+### [The United States, United Kingdom, and France close their Yemeni embassies and evacuate their staff due to terrorist activities and continued unrest. ](/news/2015/02/11/the-united-states-united-kingdom-and-france-close-their-yemeni-embassies-and-evacuate-their-staff-due-to-terrorist-activities-and-continue.md)
 Yemen rebels seized U.S. embassy vehicles in the capital of Sanaa on Wednesday as diplomats fled the country amid deteriorating security conditions.
 
 ### [General Secretary of the Central Committee of the Communist Party of China Xi Jinping will make his first state visit to the United States next September. ](/news/2015/02/11/general-secretary-of-the-central-committee-of-the-communist-party-of-china-xi-jinping-will-make-his-first-state-visit-to-the-united-states-n.md)
 _Context: Central Committee, Communist Party general secretary, Communist Party of China, United States, Xi Jinping_
 
-### [War in Donbass: Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/war-in-donbass-leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md)
+### [Leaders from Germany, France, Russia and Ukraine meet in the Belarusian capital Minsk for peace talks. ](/news/2015/02/11/leaders-from-germany-france-russia-and-ukraine-meet-in-the-belarusian-capital-minsk-for-peace-talks.md)
 _Context: Belarus, France, Germany, Minsk, Russia, Ukraine, War in Donbass_
 
 ### [Police arrest a suspected shooter Craig Stephen Hicks for killing a Muslim family of three in Chapel Hill, North Carolina. Police state that the shooting was motivated by a long-standing neighbor dispute over parking. ](/news/2015/02/11/police-arrest-a-suspected-shooter-craig-stephen-hicks-for-killing-a-muslim-family-of-three-in-chapel-hill-north-carolina-police-state-that.md)

@@ -1,6 +1,6 @@
 ## [2013-09-16](/news/2013/09/16/index.md)
 
-### [Syrian civil war:: The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/syrian-civil-war-the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md)
+### [The United Nations confirms the use of sarin gas in the Ghouta Attacks. ](/news/2013/09/16/the-united-nations-confirms-the-use-of-sarin-gas-in-the-ghouta-attacks.md)
 Follow live updates as a UN report into last month&#x27;s chemical weapons attack in Syria is expected to be published and France, Britain and the US meet to draft a new UN resolution
 
 ### [Battle of Zamboanga City: The Armed Forces of the Philippines launch a helicopter strike against Moro National Liberation Front rebels holed up in parts of the city of Zamboanga. ](/news/2013/09/16/battle-of-zamboanga-city-the-armed-forces-of-the-philippines-launch-a-helicopter-strike-against-moro-national-liberation-front-rebels-holed.md)
@@ -10,7 +10,7 @@ _Context: Armed Forces, Battle of Zamboanga City, Moro National Liberation Front
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Typhoon Man-yi hits central Japan with concerns raised about a possible impact on the stricken Fukushima Daiichi Nuclear Power Plant. ](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.md)
-_Context: 2013 Pacific typhoon season, Fukushima Daiichi Nuclear Power Plant, Japan_
+_Context: Fukushima Daiichi Nuclear Power Plant, Japan, Typhoon Nari_
 
 ### [Rain continues in the American state of Colorado as more than 1,200 people remain unaccounted for in the current floods. ](/news/2013/09/16/rain-continues-in-the-american-state-of-colorado-as-more-than-1-200-people-remain-unaccounted-for-in-the-current-floods.md)
 As rain continued for a seventh day, inundating much of the state and creating a virtual moat around the closed Rocky Mountain National Park, Sandra Ellison waited at the Timberline Church here...

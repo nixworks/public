@@ -24,8 +24,8 @@ Get the latest breaking news and top news headlines at Reuters.com
 ### [ The United Kingdom's Royal Navy announces that it will allow same-sex couples live in family quarters if they are in registered partnership ](/news/2005/02/21/the-united-kingdom-s-royal-navy-announces-that-it-will-allow-same-sex-couples-live-in-family-quarters-if-they-are-in-registered-partnership.md)
 _Context: Royal Navy, registered partnership_
 
-### [ Israeli-Palestinian conflict:: Israel releases 500 Palestinian prisoners, as a gesture of goodwill to the Palestinian Authority and to its chairman, Mahmoud Abbas. Israel plans to release another 400 Palestinian prisoners within the next 3 months. ](/news/2005/02/21/israeli-palestinian-conflict-israel-releases-500-palestinian-prisoners-as-a-gesture-of-goodwill-to-the-palestinian-authority-and-to-its.md)
-_Context: Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian, Palestinian Authority, goodwill_
+### [ Israel releases 500 Palestinian prisoners, as a gesture of goodwill to the Palestinian Authority and to its chairman, Mahmoud Abbas. Israel plans to release another 400 Palestinian prisoners within the next 3 months. ](/news/2005/02/21/israel-releases-500-palestinian-prisoners-as-a-gesture-of-goodwill-to-the-palestinian-authority-and-to-its-chairman-mahmoud-abbas-israel.md)
+_Context: Israel, Mahmoud Abbas, Palestinian, Palestinian Authority, goodwill_
 
 ## [Previous Day...](/news/2005/02/20/index.md)
 

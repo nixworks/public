@@ -1,7 +1,7 @@
 ## [2013-06-12](/news/2013/06/12/index.md)
 
-### [Syrian Civil War:: United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/syrian-civil-war-united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: Austria, Golan Heights, Syrian Civil War, United Nations, peacekeepers_
+### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
+_Context: Austria, Golan Heights, United Nations, peacekeepers_
 
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
 Gunmen have kidnapped a British man working for an energy company in the restive Indonesian province of Aceh, officials said today.

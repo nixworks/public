@@ -6,8 +6,8 @@ _Context: Abu Ayyub al-Masri, Ayman al-Zawahiri, Islamic State of Iraq, al-Qaeda
 ### [ Prices for oil fall ](/news/2008/09/11/prices-for-oil-fall.md)
 _Context: crude oil_
 
-### [ 2008 unrest in Bolivia:: Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/2008-unrest-in-bolivia-fresh-violence-in-bolivia-stokes-civil-war-fears.md)
-_Context: Bolivia, Unrest in Bolivia, civil war_
+### [ Fresh violence in Bolivia stokes civil war fears. ](/news/2008/09/11/fresh-violence-in-bolivia-stokes-civil-war-fears.md)
+_Context: Bolivia, civil war_
 
 ### [ Morgan Tsvangirai, the leader of the Movement for Democratic Change, claims that a power sharing agreement has been reached with the President of Zimbabwe Robert Mugabe. ](/news/2008/09/11/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-claims-that-a-power-sharing-agreement-has-been-reached-with-the-presid.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, President of Zimbabwe, Robert Mugabe_

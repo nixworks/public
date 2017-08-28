@@ -13,13 +13,13 @@ _Context: 38th Chess Olympiad, Armenia, China, Dresden, Germany_
 _Context: Russia, Saint Petersburg, Saint Petersburg Metro, car bombing_
 
 ### [ BHP Billiton, the world's largest mining company, withdraws a $66 billion bid for the Rio Tinto Group due to the global financial crisis. ](/news/2008/11/25/bhp-billiton-the-world-s-largest-mining-company-withdraws-a-66-billion-bid-for-the-rio-tinto-group-due-to-the-global-financial-crisis.md)
-_Context: BHP Billiton, Global financial crisis of 2008, Rio Tinto_
+_Context: BHP Billiton, Rio Tinto, financial crisis_
 
 ### [ Israel again seals off the Gaza Strip in response to rocket attacks. ](/news/2008/11/25/israel-again-seals-off-the-gaza-strip-in-response-to-rocket-attacks.md)
 Israel has again sealed off the Gaza Strip in response to rocket fire, one day after humanitarian supplies were allowed in.
 
-### [ 2008 Thai political crisis:: About 10,000 protesters from the People's Alliance for Democracy surround Prime Minister Somchai Wongsawat's temporary office at Don Mueang International Airport in Bangkok, Thailand. ](/news/2008/11/25/2008-thai-political-crisis-about-10-000-protesters-from-the-people-s-alliance-for-democracy-surround-prime-minister-somchai-wongsawat-s-t.md)
-_Context: Bangkok, Don Mueang International Airport, Prime Minister, Somchai Wongsawat, Thailand, assemble, yellow shirt_
+### [ About 10,000 protesters from the People's Alliance for Democracy surround Prime Minister Somchai Wongsawat's temporary office at Don Mueang International Airport in Bangkok, Thailand. ](/news/2008/11/25/about-10-000-protesters-from-the-people-s-alliance-for-democracy-surround-prime-minister-somchai-wongsawat-s-temporary-office-at-don-mueang.md)
+_Context: Bangkok, Don Mueang International Airport, Prime Minister, Somchai Wongsawat, Thailand, yellow shirt_
 
 ## [Previous Day...](/news/2008/11/24/index.md)
 

@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Jordanian elections:: Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _Context: Islamic Action Front_
+1. [Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md) _Context: Islamic Action Front_
 2. [ Jordanian voters go to the polls in the 2007 parliamentary election. ](/news/2007/11/20/jordanian-voters-go-to-the-polls-in-the-2007-parliamentary-election.md) _Context: 2007 Jordanian parliamentary election_

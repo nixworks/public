@@ -1,9 +1,9 @@
 ## [2016-11-16](/news/2016/11/16/index.md)
 
-### [War in Afghanistan (2015-present): Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/war-in-afghanistan-2015-present-four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suici.md)
+### [Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suicide-bomber-attack-near-the-afghan-defe.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
-### [Saudi Arabian-led intervention in Yemen: The Saudi-led military coalition and the Houthis (Ansar Allah) arrive at a ceasefire agreement effective as of 17 November 2016, as a result of talks led by US Secretary of State John Kerry with the region's leaders.](/news/2016/11/16/saudi-arabian-led-intervention-in-yemen-the-saudi-led-military-coalition-and-the-houthis-ansar-allah-arrive-at-a-ceasefire-agreement-effe.md)
+### [The Saudi-led military coalition and the Houthis (Ansar Allah) arrive at a ceasefire agreement effective as of 17 November 2016, as a result of talks led by US Secretary of State John Kerry with the region's leaders.](/news/2016/11/16/the-saudi-led-military-coalition-and-the-houthis-ansar-allah-arrive-at-a-ceasefire-agreement-effective-as-of-17-november-2016-as-a-result.md)
 Kerry is seeking to end the fighting between the Houthis, allied to Iran, and the Saudi-backed government of the Yemeni president before Obama’s term ends
 
 ### [As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. ](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-days-due-to-smog-in-tehran-according-to-iran-s-health-ministry-all-schools-in-the-city-have.md)

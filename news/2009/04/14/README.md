@@ -1,7 +1,7 @@
 ## [2009-04-14](/news/2009/04/14/index.md)
 
 ### [ North Korea will depart the six-party talks and resume its nuclear program. ](/news/2009/04/14/north-korea-will-depart-the-six-party-talks-and-resume-its-nuclear-program.md)
-_Context: North Korea, Nuclear program of North Korea, six-party talks_
+_Context: North Korea, nuclear program, six-party talks_
 
 ### [ French fishing vessels institute blockades at Boulogne-sur-Mer and Dunkirk to protest the Common Fisheries Policy. ](/news/2009/04/14/french-fishing-vessels-institute-blockades-at-boulogne-sur-mer-and-dunkirk-to-protest-the-common-fisheries-policy.md)
 _Context: Boulogne-sur-Mer, Common Fisheries Policy, Dunkirk, France, blockade, fishing boat_

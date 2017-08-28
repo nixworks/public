@@ -1,6 +1,6 @@
 ### [2015-07-4](/news/2015/07/4/index.md)
 
-#   Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. 
+#  Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. 
 
 Yemen&#39;s dominant Houthi group and its army allies said on Saturday it had shelled various areas in Saudi Arabia&#39;s Jizan and Najran, killing and wounding several soldiers.
 

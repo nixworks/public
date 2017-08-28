@@ -9,11 +9,11 @@ _Context: Anbar province, Iraq, Military of the United States_
 ### [ An ACLU lawsuit challenges gag orders in National Security Letters. ](/news/2008/09/1/an-aclu-lawsuit-challenges-gag-orders-in-national-security-letters.md)
 _Context: ACLU, National Security Letter, gagged_
 
-### [ 2008 Atlantic hurricane season:: Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/2008-atlantic-hurricane-season-tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the.md)
+### [ Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the-turks-and-caicos.md)
 Tropical Storm Hanna knocked out power to the southern Bahamas on Wednesday and officials from Nassau to South Carolina warned residents to prepare for possible evacuations. 
 
-### [ 2008 South Ossetia war:: The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/2008-south-ossetia-war-the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-f.md)
-_Context: 2008 South Ossetia war, European Union, Georgian, Moscow_
+### [ The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-from-georgia.md)
+_Context: European Union, Georgian, Moscow_
 
 ### [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md)
 _Context: Japan, Liberal Democratic Party (Japan) leadership election, 2008, Yasuo Fukuda_

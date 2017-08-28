@@ -3,7 +3,7 @@
 ### [Greece requests its partners in the eurozone for a six month loan program extension in an apparent compromise attempt; Germany has rejected the request. ](/news/2015/02/19/greece-requests-its-partners-in-the-eurozone-for-a-six-month-loan-program-extension-in-an-apparent-compromise-attempt-germany-has-rejected.md)
 Germany rejects a Greek request for a six-month extension to its eurozone loan programme, after earlier signs that a compromise was possible.
 
-### [2014-15 Australian region cyclone season: Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/2014-15-australian-region-cyclone-season-cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensl.md)
+### [Cyclone Marcia is expected to strengthen to category 5 before making landfall in Central Queensland. ](/news/2015/02/19/cyclone-marcia-is-expected-to-strengthen-to-category-5-before-making-landfall-in-central-queensland.md)
 Queenslanders are being warned to have enough supplies to last a couple of days and an evacuation plan in place as wild weather bears down on the coastline.
 
 ### [Israel is hit by the heaviest snow storm in a century causing the closure of schools and highways in high places throughout the country. ](/news/2015/02/19/israel-is-hit-by-the-heaviest-snow-storm-in-a-century-causing-the-closure-of-schools-and-highways-in-high-places-throughout-the-country.md)

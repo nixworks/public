@@ -1,6 +1,6 @@
 ## [2011-06-10](/news/2011/06/10/index.md)
 
-### [2011 Syrian uprising:: The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/2011-syrian-uprising-the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md)
+### [The Syrian Army begins operations to "restore security" to Jisr al-Shughour and the surrounding area. ](/news/2011/06/10/the-syrian-army-begins-operations-to-restore-security-to-jisr-al-shughour-and-the-surrounding-area.md)
 Syrian state TV reports the army has begun operations in Jisr al-Shughour, where the government said 120 security troops were killed.
 
 ### [Sudan's military bombs a village in Unity State, amid increasing tensions with South Sudan. ](/news/2011/06/10/sudan-s-military-bombs-a-village-in-unity-state-amid-increasing-tensions-with-south-sudan.md)
@@ -9,8 +9,8 @@ _Context: South Sudan, Sudan, Unity State_
 ### [The Somali interior minister, Abdi Shakur Sheikh Hassan, is killed by a female suicide bomber at his house in the capital Mogadishu. ](/news/2011/06/10/the-somali-interior-minister-abdi-shakur-sheikh-hassan-is-killed-by-a-female-suicide-bomber-at-his-house-in-the-capital-mogadishu.md)
 Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack carried out by his niece, amid ongoing political unrest in the capital in Mogadishu.
 
-### [2011 Libyan civil war:: Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/2011-libyan-civil-war-fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md)
-_Context: Libyan Civil War, NATO, Tripoli_
+### [Fresh NATO airstrikes take place over the capital Tripoli. ](/news/2011/06/10/fresh-nato-airstrikes-take-place-over-the-capital-tripoli.md)
+_Context: NATO, Tripoli_
 
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
 _Context:  debt, China, Dagong Global Credit Rating, US$, United States, creditor, defaults_
@@ -30,7 +30,7 @@ _Context: Bedfordshire, Cambridgeshire, England, Environment Agency, Lincolnshir
 ### [Iran has reportedly been caught on 10 separate occasions trying to send arms to terrorist groups, including Hamas and the Taliban. ](/news/2011/06/10/iran-has-reportedly-been-caught-on-10-separate-occasions-trying-to-send-arms-to-terrorist-groups-including-hamas-and-the-taliban.md)
 _Context: Hamas, Iran, Taliban, terrorist_
 
-### [South China Sea dispute:: Vietnam said that a Chinese fishing boat had purposefully torn away a seismic research cable laid by Vietnam's Petrovietnam oil company inside Vietnam-s 200 nautical mile exclusive economic zone. ](/news/2011/06/10/south-china-sea-dispute-vietnam-said-that-a-chinese-fishing-boat-had-purposefully-torn-away-a-seismic-research-cable-laid-by-vietnam-s-pet.md)
+### [Vietnam said that a Chinese fishing boat had purposefully torn away a seismic research cable laid by Vietnam's Petrovietnam oil company inside Vietnam's 200 nautical mile exclusive economic zone. ](/news/2011/06/10/vietnam-said-that-a-chinese-fishing-boat-had-purposefully-torn-away-a-seismic-research-cable-laid-by-vietnam-s-petrovietnam-oil-company-insi.md)
 China accuses Vietnam of &quot;gravely violating&quot; its sovereignty in an escalating row over disputed waters in the South China Sea.
 
 ### [Yuri Budanov, a Russian colonel convicted of strangling an 18-year-old Chechen girl during the Chechen War, is shot dead in Moscow. ](/news/2011/06/10/yuri-budanov-a-russian-colonel-convicted-of-strangling-an-18-year-old-chechen-girl-during-the-chechen-war-is-shot-dead-in-moscow.md)

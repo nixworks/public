@@ -1,7 +1,7 @@
 ## [2008-03-25](/news/2008/03/25/index.md)
 
 ### [ Liechtenstein recognizes Kosovo as an independent state. ](/news/2008/03/25/liechtenstein-recognizes-kosovo-as-an-independent-state.md)
-_Context: International reaction to the 2008 Kosovo declaration of independence, Kosovo, Liechtenstein_
+_Context: Kosovo, Liechtenstein, recognize_
 
 ### [ French President Nicolas Sarkozy says he might boycott the opening ceremony of the Beijing Olympics if China continues its crackdown in Tibet. ](/news/2008/03/25/french-president-nicolas-sarkozy-says-he-might-boycott-the-opening-ceremony-of-the-beijing-olympics-if-china-continues-its-crackdown-in-tib.md)
 _Context: 2008 Summer Olympics, 2008 unrest in Tibet, China, France, Nicolas Sarkozy, President of France, Tibet, boycott_

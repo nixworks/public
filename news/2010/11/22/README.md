@@ -30,7 +30,7 @@ _Context: Chandra Levy, Ingmar Guandique_
 ### [CBC News leaks a suggestion that Hezbollah may have been responsible for the murder of Rafic Hariri. ](/news/2010/11/22/cbc-news-leaks-a-suggestion-that-hezbollah-may-have-been-responsible-for-the-murder-of-rafic-hariri.md)
 UN special investigators have concluded that an eight-member hit squad backed by the militant Shia group Hezbollah was behind the spectacular assassination of former Lebanese prime minister Rafik Hariri five years ago, CBC News has learned.
 
-### [Irish financial crisis:: Brian Cowen, the Taoiseach, states that he will call an early election once the Oireachtas passes an emergency budget to tackle the financial crisis. ](/news/2010/11/22/irish-financial-crisis-brian-cowen-the-taoiseach-states-that-he-will-call-an-early-election-once-the-oireachtas-passes-an-emergency-budg.md)
+### [Brian Cowen, the Taoiseach, states that he will call an early election once the Oireachtas passes an emergency budget to tackle the financial crisis. ](/news/2010/11/22/brian-cowen-the-taoiseach-states-that-he-will-call-an-early-election-once-the-oireachtas-passes-an-emergency-budget-to-tackle-the-financia.md)
  PROTEST: PROTESTERS AGAINST the Government&rsquo;s handling of the economic crisis yesterday forced their way into the grounds of &hellip;
 
 ### [Former Nigerian Vice President Atiku Abubakar is chosen to challenge incumbent President Goodluck Jonathan for the ruling People's Democratic Party nomination in next year's presidential election. ](/news/2010/11/22/former-nigerian-vice-president-atiku-abubakar-is-chosen-to-challenge-incumbent-president-goodluck-jonathan-for-the-ruling-people-s-democrati.md)

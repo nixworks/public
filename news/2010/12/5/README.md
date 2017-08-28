@@ -1,7 +1,7 @@
 ## [2010-12-5](/news/2010/12/5/index.md)
 
-### [Attacks against WikiLeaks, Julian Assange and his lawyers:: The WikiLeaks website is forced offline again. ](/news/2010/12/5/attacks-against-wikileaks-julian-assange-and-his-lawyers-the-wikileaks-website-is-forced-offline-again.md)
-_Context: Julian Assange, WikiLeaks, cyber-war_
+### [The WikiLeaks website is forced offline again. ](/news/2010/12/5/the-wikileaks-website-is-forced-offline-again.md)
+_Context: WikiLeaks, cyber-war_
 
 ### [A blast at an army base in eastern Afghanistan kills at least two soldiers and two civilians. ](/news/2010/12/5/a-blast-at-an-army-base-in-eastern-afghanistan-kills-at-least-two-soldiers-and-two-civilians.md)
 _Context: Afghanistan's_
@@ -52,8 +52,8 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
 _Context: Palestinian, West Bank_
 
-### [United States diplomatic cables leak:: Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/united-states-diplomatic-cables-leak-newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zap.md)
-_Context: 250,000 documents, Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
+### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
+_Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)
 Hong Kong, Dec 5 (DPA) Hundreds of protesters marched to Beijings de facto embassy in Hong Kong Sunday calling for the release of jailed dissident and...

@@ -3,7 +3,7 @@
 ### [At least four people, including a high-ranking security service officer, are killed in a series of bombings and shootings across Russia's North Caucasus. ](/news/2011/09/1/at-least-four-people-including-a-high-ranking-security-service-officer-are-killed-in-a-series-of-bombings-and-shootings-across-russia-s-no.md)
 _Context: North Caucasus, Russia_
 
-### [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi-s hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafi-s-hometown-of-sirt.md)
+### [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafias-hometown-of-sirt.md)
 _Context: Libya, Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_
 
 ### [Three Pakistani soldiers and one Indian soldier are killed following an attack by Indian border forces on a Pakistani checkpost along the Line of Control. ](/news/2011/09/1/three-pakistani-soldiers-and-one-indian-soldier-are-killed-following-an-attack-by-indian-border-forces-on-a-pakistani-checkpost-along-the-li.md)

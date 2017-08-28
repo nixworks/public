@@ -1,15 +1,15 @@
 ## [2011-02-24](/news/2011/02/24/index.md)
 
-### [2010-2011 Algerian protests:: Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/2010-2011-algerian-protests-algeria-officially-lifts-its-19-year-old-state-of-emergency.md)
-_Context: 2010-2011 Algerian protests, Algeria, state of emergency_
+### [Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/algeria-officially-lifts-its-19-year-old-state-of-emergency.md)
+_Context: Algeria, state of emergency_
 
-### [2011 Libyan civil war:: Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/2011-libyan-civil-war-libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md)
+### [Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md)
 Libyan leader Moammar Gadhafi,speaking on Libyan state TV, says the protesters have been drugged and sent into the streets.
 
-### [2011 Yemeni protests:: The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md)
+### [The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md)
 _Context: 2011 Yemeni protests, President, Saleh_
 
-### [2011 Bahraini protests:: Opposition groups outline their demands as protests continue in the country. ](/news/2011/02/24/2011-bahraini-protests-opposition-groups-outline-their-demands-as-protests-continue-in-the-country.md)
+### [Opposition groups outline their demands as protests continue in the country. ](/news/2011/02/24/opposition-groups-outline-their-demands-as-protests-continue-in-the-country.md)
 Manama, Feb 24 (IANS) An umbrella group of seven main opposition parties in Bahrain outlined its key demands Thursday as the anti-regime unrest intensified...
 
 ### [Palestinian militants fire two Grad-model Katyusha rockets at Beersheba, Israel; the Israeli Air Force responds with attacks on targets in the Gaza Strip. ](/news/2011/02/24/palestinian-militants-fire-two-grad-model-katyusha-rockets-at-beersheba-israel-the-israeli-air-force-responds-with-attacks-on-targets-in-t.md)
@@ -33,7 +33,7 @@ Private equity-backed Allison Transmission has hired banks and is planning an in
 ### [The US Air Force awards Boeing a $35billion contract to build aerial refueling tankers.](/news/2011/02/24/the-us-air-force-awards-boeing-a-35billion-contract-to-build-aerial-refueling-tankers.md)
 Boeing received a $35 billion contract even though it and its supporters had seemed to assume the European builder of Airbus planes would win.
 
-### [2011 Canterbury earthquake: The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/2011-canterbury-earthquake-the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md)
+### [The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md)
 The death toll from the Christchurch earthquake is now 98 with police holding grave concerns for a further 226 people.
 
 ### [The wreckage of a Republic of Korea Coast Guard AgustaWestland AW139 helicopter is located near the resort island of Jeju-do off the South Korean coast with one officer confirmed dead and several others missing. ](/news/2011/02/24/the-wreckage-of-a-republic-of-korea-coast-guard-agustawestland-aw139-helicopter-is-located-near-the-resort-island-of-jeju-do-off-the-south-k.md)

@@ -1,6 +1,6 @@
 ## [2011-01-15](/news/2011/01/15/index.md)
 
-### [2010-2011 Tunisian protests:: Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/2010-2011-tunisian-protests-former-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-rejec.md)
+### [Former President of Tunisia Zine El Abidine Ben Ali flees with his family to Saudi Arabia, after being rejected by France. ](/news/2011/01/15/former-president-of-tunisia-zine-el-abidine-ben-ali-flees-with-his-family-to-saudi-arabia-after-being-rejected-by-france.md)
 Tunisian President Zine al-Abidine Ben Ali flees to Saudi Arabia with his family, after widespread protests force him from office.
 
 ### [A US marine shoots and kills an Afghan police officer after the officer advanced on him with his weapon raised. ](/news/2011/01/15/a-us-marine-shoots-and-kills-an-afghan-police-officer-after-the-officer-advanced-on-him-with-his-weapon-raised.md)
@@ -33,10 +33,10 @@ South Africa declares a state of national disaster, after the deaths of 41 peopl
 ### [13,000 properties in rural Victoria in Australia are flooded. ](/news/2011/01/15/13-000-properties-in-rural-victoria-in-australia-are-flooded.md)
 The town of Echuca, on the Victorian-New South Wales border, is facing unprecedented flood peaks later today.
 
-### [British police undercover spy ring operating across Europe:: Veteran Labour Party TD Michael D. Higgins writes to the Irish Department of Justice regarding the activities of undercover British police officer Mark Kennedy, who infiltrated protest movements across Europe, including several on Republic of Ireland territory. He describes it as "of grave concern" and that "this type of activity undermines respect for the law and it is very sinister in that it can damage good causes." ](/news/2011/01/15/british-police-undercover-spy-ring-operating-across-europe-veteran-labour-party-td-michael-d-higgins-writes-to-the-irish-department-of-ju.md)
+### [Veteran Labour Party TD Michael D. Higgins writes to the Irish Department of Justice regarding the activities of undercover British police officer Mark Kennedy, who infiltrated protest movements across Europe, including several on Republic of Ireland territory. He describes it as "of grave concern" and that "this type of activity undermines respect for the law and it is very sinister in that it can damage good causes." ](/news/2011/01/15/veteran-labour-party-td-michael-d-higgins-writes-to-the-irish-department-of-justice-regarding-the-activities-of-undercover-british-police-o.md)
 A BRITISH undercover police officer who infiltrated protest movements across Europe over seven years made several visits to Ireland&hellip;
 
-### [Iranian diplomatic tour and medical discovery:: A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/iranian-diplomatic-tour-and-medical-discovery-a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodw.md)
+### [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md)
 _Context: China, European Union, Iran, Russia, nuclear scientist_
 
 ### [The Southern Sudanese independence referendum, 2011 ends. ](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.md)

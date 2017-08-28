@@ -13,7 +13,7 @@ The host of the ceremony, the Mayor of Ulqin, Fatmir Gjeka, said that the presen
 
 1. [Solomon Islands recognize Kosovo. ](/news/2014/08/13/solomon-islands-recognize-kosovo.md) _Context: Kosovo_
 2. [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md) _Context: Kosovo_
-3. [Antigua and Barbuda general election, 2014: Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/antigua-and-barbuda-general-election-2014-voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by.md) _Context: Antigua and Barbuda_
+3. [Voters in Antigua and Barbuda went to the polls with the Opposition Antigua Labour Party led by Gaston Browne winning a 15 of 17 seats. ](/news/2014/06/12/voters-in-antigua-and-barbuda-went-to-the-polls-with-the-opposition-antigua-labour-party-led-by-gaston-browne-winning-a-15-of-17-seats.md) _Context: Antigua and Barbuda_
 4. [The Government of Pakistan decides to accord recognition to the Republic of Kosovo. ](/news/2012/12/24/the-government-of-pakistan-decides-to-accord-recognition-to-the-republic-of-kosovo.md) _Context: Kosovo_
 5. [Papua New Guinea recognizes the independence of Kosovo. ](/news/2012/10/3/papua-new-guinea-recognizes-the-independence-of-kosovo.md) _Context: Kosovo_
 6. [Ghana recognizes Kosovo [http://www.mfa-ks.net/?page=1,4,1090&offset=2 (Ministry of Foreign Affairs of Kosovo)] (Albanian)](/news/2012/01/23/ghana-recognizes-kosovo-http-www-mfa-ks-net-page-1-4-1090-offset-2-ministry-of-foreign-affairs-of-kosovo-albanian.md) _Context: Kosovo_

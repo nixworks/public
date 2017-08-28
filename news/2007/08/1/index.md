@@ -33,7 +33,7 @@ _Context: Government of Iraq, Iraq, Sunni, The Accordance Front_
 ### [ US crude oil prices reach a new high of $78.77 a barrel due to declining stocks and decreased output. ](/news/2007/08/1/us-crude-oil-prices-reach-a-new-high-of-78-77-a-barrel-due-to-declining-stocks-and-decreased-output.md)
 _Context: price_
 
-### [ Russia-s gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russia-s-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md)
+### [ Russia's gas exports monopoly Gazprom will almost halve supplies to Belarus from August 3 after failing to reach a deal with Minsk over a $456 million energy debt. ](/news/2007/08/1/russiaas-gas-exports-monopoly-gazprom-will-almost-halve-supplies-to-belarus-from-august-3-after-failing-to-reach-a-deal-with-minsk-over-a.md)
 _Context: $456 million energy debt, August 3, Belarus, Gazprom_
 
 ### [ 18 militants killed near Banda checkpoint of North Waziristan, Pakistan by Pakistan troops. ](/news/2007/08/1/18-militants-killed-near-banda-checkpoint-of-north-waziristan-pakistan-by-pakistan-troops.md)

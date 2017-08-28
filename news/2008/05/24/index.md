@@ -12,7 +12,7 @@ _Context: Santa Catalina Island, California, Two Harbors, California_
 ### [ Munster win the Heineken European Rugby Cup against Toulouse, 16 to 13. ](/news/2008/05/24/munster-win-the-heineken-european-rugby-cup-against-toulouse-16-to-13.md)
 _Context: Heineken European Rugby Cup, Munster Rugby, Toulouse_
 
-### [ Colombia:: According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/colombia-according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md)
+### [ According to the Colombian Minister of Defense, Juan Manuel Santos, FARC founder and commander Tirofijo died on March 26. ](/news/2008/05/24/according-to-the-colombian-minister-of-defense-juan-manuel-santos-farc-founder-and-commander-tirofijo-died-on-march-26.md)
 _Context: Colombia, FARC, Juan Manuel Santos, March 26, Minister of National Defence, Tirofijo_
 
 ### [ In continuing battles against anti-foreigner violence in South Africa, police shoot and kill one man in Johannesburg. The Red Cross warns it is struggling to help the thousands of displaced people. ](/news/2008/05/24/in-continuing-battles-against-anti-foreigner-violence-in-south-africa-police-shoot-and-kill-one-man-in-johannesburg-the-red-cross-warns-i.md)
@@ -22,7 +22,7 @@ _Context: Johannesburg, South Africa_
 _Context: Chile, Pan American Highway, Santiago, flood_
 
 ### [ Cyclone Nargis: The authorities in Myanmar allow foreign help into the country following initial resistance. ](/news/2008/05/24/cyclone-nargis-the-authorities-in-myanmar-allow-foreign-help-into-the-country-following-initial-resistance.md)
-_Context: Cyclone Nargis, Myanmar_
+_Context: Burmese, Cyclone Nargis_
 
 ### [ Wen Jiabao, the Premier of China, estimates that the eventual death toll from the 2008 Sichuan earthquake could rise as high as "80,000 or more". ](/news/2008/05/24/wen-jiabao-the-premier-of-china-estimates-that-the-eventual-death-toll-from-the-2008-sichuan-earthquake-could-rise-as-high-as-80-000-or.md)
 The death toll from the earthquake in central China could rise as high as 80,000 &quot;or more,&quot; Premier Wen Jiabao said Saturday.

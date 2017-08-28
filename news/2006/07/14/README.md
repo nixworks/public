@@ -12,10 +12,10 @@ _Context: Bosnian Serb, International Criminal Tribunal for the former Yugoslavi
 ### [ Jaroslaw Kaczynski is sworn-in as the new Prime Minister of Poland by the President, Lech Kaczynski, his twin brother.](/news/2006/07/14/jarosaaw-kaczyaski-is-sworn-in-as-the-new-prime-minister-of-poland-by-the-president-lech-kaczyaski-his-twin-brother.md)
 _Context: Jaroslaw Kaczynski, Lech Kaczynski, Prime Minister_
 
-### [ 2006 Israel-Lebanon crisis:: US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/2006-israel-lebanon-crisis-us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebano.md)
+### [ US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebanon-but-he-s-not-going-to-mak.md)
 (VIDEO) Body of one of four sailors who went missing during Friday’s Hizbullah attack on Israeli Navy ship operating off Beirut shore recovered by IDF forces; search for remaining three sailors continues, damaged vessel being towed back to Israeli territorial waters. IDF: Missile that hit ship Ira...
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains):: About 1500 of Palestinian people cross the Gaza-Egypt border after Palestinian militants attack Egyptian policemen stationed at Rafah border terminal, blowing a hole in the wall near it. ](/news/2006/07/14/israeli-palestinian-conflict-operation-summer-rains-about-1500-of-palestinian-people-cross-the-gaza-egypt-border-after-palestinian-mili.md)
+### [ About 1500 of Palestinian people cross the Gaza-Egypt border after Palestinian militants attack Egyptian policemen stationed at Rafah border terminal, blowing a hole in the wall near it. ](/news/2006/07/14/about-1500-of-palestinian-people-cross-the-gaza-egypt-border-after-palestinian-militants-attack-egyptian-policemen-stationed-at-rafah-borde.md)
 Gunmen blow a hole in wall on Gaza-Egypt border, allowing Palestinians to enter Strip
 
 ## [Previous Day...](/news/2006/07/13/index.md)

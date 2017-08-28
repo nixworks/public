@@ -1,9 +1,9 @@
 ## [2013-12-25](/news/2013/12/25/index.md)
 
-### [Euromaidan:: Tetiana Chornovol, an Ukrainian civic activist and journalist, is dragged from her car and beaten by a group of men. Authorities say that this is the latest attack on government opponents. ](/news/2013/12/25/euromaidan-tetiana-chornovol-an-ukrainian-civic-activist-and-journalist-is-dragged-from-her-car-and-beaten-by-a-group-of-men-authoritie.md)
-_Context: Euromaidan, Tetiana Chornovol, Ukraine_
+### [Tetiana Chornovol, an Ukrainian civic activist and journalist, is dragged from her car and beaten by a group of men. Authorities say that this is the latest attack on government opponents. ](/news/2013/12/25/tetiana-chornovol-an-ukrainian-civic-activist-and-journalist-is-dragged-from-her-car-and-beaten-by-a-group-of-men-authorities-say-that-th.md)
+_Context: Tetiana Chornovol, Ukraine_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/iraqi-insurgency-post-u-s-withdrawal-a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the.md)
+### [A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the-capital-baghdad-killing-at-least-14-peo.md)
 Two bombs near a Catholic church and a market in Baghdad kill at least 35 people, as Iraqi Christians celebrated Christmas, officials say.
 
 ### [Pope Francis gives his first "Urbi et Orbi" speech calling for peace amidst the Syrian civil war and the 2013 South Sudan political crisis. ](/news/2013/12/25/pope-francis-gives-his-first-urbi-et-orbi-speech-calling-for-peace-amidst-the-syrian-civil-war-and-the-2013-south-sudan-political-crisis.md)
@@ -18,7 +18,7 @@ A piranha feeding frenzy in Argentina reportedly has left at least 70 people inj
 ### [Three Turkish ministers resign amid a corruption scandal involving bribery in the awarding of construction projects. ](/news/2013/12/25/three-turkish-ministers-resign-amid-a-corruption-scandal-involving-bribery-in-the-awarding-of-construction-projects.md)
 Three Turkish ministers resign over a corruption inquiry that has hit the government, and one calls for PM Recep Tayyip Erdogan to step down.
 
-### [Islamist protests in Egypt (July 2013-present):: The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/islamist-protests-in-egypt-july-2013-present-the-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-orga.md)
+### [The Egyptian government re-designates the Muslim Brotherhood in Egypt as a terrorist organisation. ](/news/2013/12/25/the-egyptian-government-re-designates-the-muslim-brotherhood-in-egypt-as-a-terrorist-organisation.md)
 The Egyptian government intensified its crackdown on the Muslim Brotherhood on Wednesday, formally listing the group as a terrorist organisation after accusing it of carrying out a suicide bomb attack on a police station that killed 16 people.
 
 ## [Previous Day...](/news/2013/12/24/index.md)

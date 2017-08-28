@@ -1,0 +1,23 @@
+### [2017-01-19](/news/2017/01/19/index.md)
+
+# A small plane carrying Brazilian Supreme Court Justice Teori Zavascki crashes into the sea near the tourist town of Paraty in the state of Rio de Janeiro, killing the magistrate and two other people. Zavascki had been handling the politically-charged Operation Car Wash corruption trials. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-brazil-crash-idUSKBN1532WH?il=0)
+
+### Related:
+
+1. [Brazilian police arrest EBX Group CEO Eike Batista for allegedly bribing officials in Rio de Janeiro, including former Governor of Rio de Janeiro Sergio Cabral Filho. ](/news/2017/01/30/brazilian-police-arrest-ebx-group-ceo-eike-batista-for-allegedly-bribing-officials-in-rio-de-janeiro-including-former-governor-of-rio-de-ja.md) _Context: Operation Car Wash, Rio de Janeiro_
+2. [A court of Lima orders 18 months of pre-trial imprisonment for former president Ollanta Humala and his wife Nadine Heredia for alleged money laundering. Both have turned themselves in. ](/news/2017/07/14/a-court-of-lima-orders-18-months-of-pre-trial-imprisonment-for-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-alleged-money.md) _Context: Operation Car Wash_
+3. [Former Brazilian president Luiz Incio Lula da Silva is convicted on corruption and money laundering charges in connection with the Petrobras investigation. Lula, who remains free on appeal, is sentenced to nine and a half years in prison. ](/news/2017/07/12/former-brazilian-president-luiz-inacio-lula-da-silva-is-convicted-on-corruption-and-money-laundering-charges-in-connection-with-the-petrobra.md) _Context: Operation Car Wash_
+4. [Brazilian construction firm Odebrecht and affiliated petrochemical company Braskem plead guilty of violating American foreign bribery laws in connection with the Petrobras deal. ](/news/2016/12/21/brazilian-construction-firm-odebrecht-and-affiliated-petrochemical-company-braskem-plead-guilty-of-violating-american-foreign-bribery-laws-i.md) _Context: Operation Car Wash_
+5. [Former Rio de Janeiro governor Sergio Cabral is arrested in corruption probe. ](/news/2016/11/17/former-rio-de-janeiro-governor-sa-c-rgio-cabral-is-arrested-in-corruption-probe.md) _Context: Rio de Janeiro_
+6. [Brazilian police arrest former Finance Minister Guido Mantega as part of an ongoing probe into corruption. ](/news/2016/09/22/brazilian-police-arrest-former-finance-minister-guido-mantega-as-part-of-an-ongoing-probe-into-corruption.md) _Context: Operation Car Wash_
+7. [Brazilian prosecutors file corruption charges against former President Luiz Inacio Lula da Silva and his wife, Marisa Leticia Lula da Silva. Federal judge Sergio Moro will preside over his case. ](/news/2016/09/14/brazilian-prosecutors-file-corruption-charges-against-former-president-luiz-ina-cio-lula-da-silva-and-his-wife-marisa-letacia-lula-da-silv.md) _Context: Operation Car Wash_
+8. [Acting on a request from Brazil's top prosecutor, Supreme Court Justice Teori Zavascki suspends President of the Deputies Chamber Eduardo Cunha for obstructing the Petrobras corruption investigation. The full court confirms this action, Cunha is eliminated from the line of succession to President Dilma Rousseff, who may be suspended from office next week. ](/news/2016/05/5/acting-on-a-request-from-brazil-s-top-prosecutor-supreme-court-justice-teori-zavascki-suspends-president-of-the-deputies-chamber-eduardo-cu.md) _Context: Operation Car Wash_
+9. [Fabiano Silveira, Minister for Transparency, Supervision and Control, resigns after leaked recordings suggested he tried to derail the Petrobras corruption investigation. This "anti-corruption" ministry was created on May 12, 2016, when Vice President Michel Temer was sworn in as acting president. The same tapes led to the resignation of Planning Minister Romero Juca last week. ](/news/2016/05/30/fabiano-silveira-minister-for-transparency-supervision-and-control-resigns-after-leaked-recordings-suggested-he-tried-to-derail-the-petro.md) _Context: Operation Car Wash_
+10. [A survey conducted by Datafolha shows a majority of Brazilians now favor the impeachment or resignation of President Dilma Rousseff. The poll showed 68 percent of respondents favor Rousseff's impeachment by Congress, while 65 percent think the president should resign. The president's approval ratings have been hammered by Brazil's worst recession in decades and its biggest ever corruption probe. ](/news/2016/03/19/a-survey-conducted-by-datafolha-shows-a-majority-of-brazilians-now-favor-the-impeachment-or-resignation-of-president-dilma-rousseff-the-pol.md) _Context: Operation Car Wash_

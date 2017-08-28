@@ -1,12 +1,12 @@
 ## [2010-02-22](/news/2010/02/22/index.md)
 
-### [Colombian President Alvaro Uribe and Venezuelan President Hugo Chavez almost come to blows at the Rio Group summit in Playa del Carmen, Mexico, with Uribe taunting Chavez "Be a man! - you're a coward face-to-face! Stay and argue face-to-face!" and Chavez responding with a simple "Go to Hell!" ](/news/2010/02/22/colombian-president-alvaro-uribe-and-venezuelan-president-hugo-cha-vez-almost-come-to-blows-at-the-rio-group-summit-in-playa-del-carmen-me.md)
+### [Colombian President Alvaro Uribe and Venezuelan President Hugo Chavez almost come to blows at the Rio Group summit in Playa del Carmen, Mexico, with Uribe taunting Chavez "Be a man! ... you're a coward face-to-face! Stay and argue face-to-face!" and Chavez responding with a simple "Go to Hell!" ](/news/2010/02/22/colombian-president-alvaro-uribe-and-venezuelan-president-hugo-cha-vez-almost-come-to-blows-at-the-rio-group-summit-in-playa-del-carmen-me.md)
 The Venezuelan and Colombian presidents traded insults at a summit with Hugo Chavez telling Alvaro Uribe to &#039;Go to hell!&#039; after he was called a &#039;coward&#039;.
 
 ### [An American pediatrician from Delaware state is indicted by video evidence on 471 felony counts in the alleged rape and sexual abuse of 103 children. ](/news/2010/02/22/an-american-pediatrician-from-delaware-state-is-indicted-by-video-evidence-on-471-felony-counts-in-the-alleged-rape-and-sexual-abuse-of-103.md)
 Dr. Earl Bradley, 56, a popular Delaware pediatrician, is facing at least 33 felony counts after an investigation opened into his alleged abuse of his young patients, at least one of whom was just three months old.
 
-### [Falkland Islands sovereignty dispute:: Desire Petroleum, a British-listed firm, begins drilling for oil at an offshore platform within the territory of the Falkland Islands, amid mounting criticism from Argentina and Venezuela. ](/news/2010/02/22/falkland-islands-sovereignty-dispute-desire-petroleum-a-british-listed-firm-begins-drilling-for-oil-at-an-offshore-platform-within-the-t.md)
+### [Desire Petroleum, a British-listed firm, begins drilling for oil at an offshore platform within the territory of the Falkland Islands, amid mounting criticism from Argentina and Venezuela. ](/news/2010/02/22/desire-petroleum-a-british-listed-firm-begins-drilling-for-oil-at-an-offshore-platform-within-the-territory-of-the-falkland-islands-amid.md)
 President Hugo Chavez delivered a bizarre attack on the Queen when the firebrand Venezuelan leader demanded Britain return the Falkland Islands to Argentina.
 
 ### [China throws a surprise 86th birthday party for President Robert Mugabe in its Zimbabwe embassy in Harare, the first time Mugabe visited a foreign embassy in the country since Zimbabwe won independence in 1980. ](/news/2010/02/22/china-throws-a-surprise-86th-birthday-party-for-president-robert-mugabe-in-its-zimbabwe-embassy-in-harare-the-first-time-mugabe-visited-a-f.md)

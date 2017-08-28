@@ -33,7 +33,7 @@ A Taliban group said it would withdraw from a peace deal with the government to 
 ### [ The Israeli navy intercepts a boat carrying humanitarian supplies headed for Gaza, which remains under a blockade. ](/news/2009/06/30/the-israeli-navy-intercepts-a-boat-carrying-humanitarian-supplies-headed-for-gaza-which-remains-under-a-blockade.md)
 Vessel carrying aid to Gaza intercepted by Israeli navy.
 
-### [ United States Senate election in Minnesota, 2008: The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. ](/news/2009/06/30/united-states-senate-election-in-minnesota-2008-the-minnesota-supreme-court-orders-that-al-franken-be-certified-winner-of-the-state-s-sen.md)
+### [ The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. ](/news/2009/06/30/the-minnesota-supreme-court-orders-that-al-franken-be-certified-winner-of-the-state-s-senate-election.md)
 The Minnesota SupremeCourt on Tuesday declared Democrat Al Franken the winner of atight U.S. Senate race over Republican Norm Coleman, whichshould give Democrats the 60-seat majority they need toovercome procedural obstacles and push through their agenda.
 
 ## [Previous Day...](/news/2009/06/29/index.md)

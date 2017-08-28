@@ -3,8 +3,8 @@
 ### [ Hurricane John lashes the Pacific coast of Mexico with the potential to cause flash floods and landslides. ](/news/2006/08/30/hurricane-john-lashes-the-pacific-coast-of-mexico-with-the-potential-to-cause-flash-floods-and-landslides.md)
 _Context: Flash flooding, Hurricane John, Mexico, landslide_
 
-### [ 2006 Israel-Lebanon conflict:: The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/2006-israel-lebanon-conflict-the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md)
-_Context: Jan Egeland, UN, cluster bombs, war_
+### [ The UN's humanitarian chief accuses Israel of "completely immoral" use of cluster bombs in Lebanon.](/news/2006/08/30/the-un-s-humanitarian-chief-accuses-israel-of-completely-immoral-use-of-cluster-bombs-in-lebanon.md)
+_Context: Jan Egeland, UN, cluster bombs_
 
 ### [ Multiple bomb attacks across Baghdad, Iraq kill at least 40 people while 12 more die after bomb explodes near an army recruiting office in Hilla. ](/news/2006/08/30/multiple-bomb-attacks-across-baghdad-iraq-kill-at-least-40-people-while-12-more-die-after-bomb-explodes-near-an-army-recruiting-office-in.md)
 _Context: Baghdad, Hilla, Iraq_
@@ -33,7 +33,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ East Timor rebel leader Alfredo Reinhado and 56 other prisoners escape from a jail in the capital Dili, throwing the troubled nation back into turmoil. ](/news/2006/08/30/east-timor-rebel-leader-alfredo-reinhado-and-56-other-prisoners-escape-from-a-jail-in-the-capital-dili-throwing-the-troubled-nation-back-i.md)
 _Context: Alfredo Reinhado, Dili, East Timor, troubled nation_
 
-### [ The European Patent Office completely revokes Sara Lee-s European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-lee-s-european-patent-on-the-senseo-coffee-pads.md)
+### [ The European Patent Office completely revokes Sara Lee's European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-leeas-european-patent-on-the-senseo-coffee-pads.md)
 _Context: European Patent Convention, European Patent Organisation, Sara Lee, Senseo, revokes_
 
 ## [Previous Day...](/news/2006/08/29/index.md)

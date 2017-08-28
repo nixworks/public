@@ -6,7 +6,7 @@ _Context: Iran, Mahmoud Ahmadinejad, Mir-Hossein Mousavi, President, re-election
 ### [ California Governor Arnold Schwarzenegger delivers a speech regarding the state's financial crisis, favoring state spending cuts rather than the issuing of bonds. ](/news/2009/06/13/california-governor-arnold-schwarzenegger-delivers-a-speech-regarding-the-state-s-financial-crisis-favoring-state-spending-cuts-rather-tha.md)
 _Context: Arnold Schwarzenegger, California, Governor of California, bond, state's financial crisis_
 
-### [ North Korea:: North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-counci.md)
+### [ North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. ](/news/2009/06/13/north-korea-announces-it-will-weaponise-all-plutonium-and-begin-uranium-enrichment-following-united-nations-security-council-resolution-1.md)
 Pyongyang threatens increased nuclear activity and military action after UN vote.
 
 ### [ China begins the third large-scale excavation of the Mausoleum of the First Qin Emperor in 24 years. ](/news/2009/06/13/china-begins-the-third-large-scale-excavation-of-the-mausoleum-of-the-first-qin-emperor-in-24-years.md)

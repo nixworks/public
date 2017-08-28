@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Iran's president, Mahmoud Ahmadinejad, warns of an "explosion" in the Islamic world and it would target Israel and its supporters in the Western world, if Israel doesn't cease its activity in the Gaza Strip. Ahmadinejad said during a rally in Tehran that, "This (Israel) is a fake regime ... it won't be able to survive. I think the only way (forward) is that those who created it (the West) take it away themselves." ](/news/2006/07/7/iran-s-president-mahmoud-ahmadinejad-warns-of-an-explosion-in-the-islamic-world-and-it-would-target-israel-and-its-supporters-in-the-we.md)
-_Context: Islam, Israel, Mahmoud Ahmadinejad, Operation Summer Rains, Tehran, Westerners_
+_Context: Israel, Mahmoud Ahmadinejad, Muslims, Operation Summer Rains, Tehran, Westerners_
 
 ### [ The FBI announces that a plot to bomb the Holland Tunnel and flood Lower Manhattan with water has been foiled. ](/news/2006/07/7/the-fbi-announces-that-a-plot-to-bomb-the-holland-tunnel-and-flood-lower-manhattan-with-water-has-been-foiled.md)
 _Context: FBI, Holland Tunnel, Lower Manhattan, plot to bomb_
@@ -39,7 +39,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ An explosion in the village of Dongzhai village in Shanxi province in north China kills 43 people. ](/news/2006/07/7/an-explosion-in-the-village-of-dongzhai-village-in-shanxi-province-in-north-china-kills-43-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Israeli-Palestinian conflict (Operation Summer Rains):: Three Israeli civilians are wounded when a Qassam rocket lands in a basketball court in Sderot. More than fifteen rockets land in Israeli towns on Friday, in spite of an Israeli raid in the northern Gaza Strip. ](/news/2006/07/7/israeli-palestinian-conflict-operation-summer-rains-three-israeli-civilians-are-wounded-when-a-qassam-rocket-lands-in-a-basketball-cour.md)
+### [ Three Israeli civilians are wounded when a Qassam rocket lands in a basketball court in Sderot. More than fifteen rockets land in Israeli towns on Friday, in spite of an Israeli raid in the northern Gaza Strip. ](/news/2006/07/7/three-israeli-civilians-are-wounded-when-a-qassam-rocket-lands-in-a-basketball-court-in-sderot-more-than-fifteen-rockets-land-in-israeli-t.md)
 Day of panic in Gaza vicinity communities: In spite of IDF&#39;s presence inside Strip, Red Dawn alert system constantly activated. At least ten rockets hit southern town area since Friday morning; three residents wounded by shrapnel, rushed to hospital
 
 ## [Previous Day...](/news/2006/07/6/index.md)

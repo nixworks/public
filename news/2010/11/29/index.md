@@ -12,7 +12,7 @@ _Context: Malaysia, Somali pirates, Somalia_
 ### [Pablo Picasso's electrician says he has 271 previously unknown works given to him as gifts by the artist. ](/news/2010/11/29/pablo-picasso-s-electrician-says-he-has-271-previously-unknown-works-given-to-him-as-gifts-by-the-artist.md)
 A retired electrician in southern France says he has hundreds of previously unknown works by Pablo Picasso, worth about 60m euros.
 
-### [Irish financial crisis:: Fine Gael speaks out against the high interest rate imposed by the International Monetary Fund and the European Central Bank and their insistence that the country pay -17 billion out of its own national pension fund. ](/news/2010/11/29/irish-financial-crisis-fine-gael-speaks-out-against-the-high-interest-rate-imposed-by-the-international-monetary-fund-and-the-european-cen.md)
+### [Fine Gael speaks out against the high interest rate imposed by the International Monetary Fund and the European Central Bank and their insistence that the country pay EUR17 billion out of its own national pension fund. ](/news/2010/11/29/fine-gael-speaks-out-against-the-high-interest-rate-imposed-by-the-international-monetary-fund-and-the-european-central-bank-and-their-insis.md)
 The euro and major European markets fall after ministers agree a 85bn euros bail-out for the Republic of Ireland.
 
 ### [Workers at the London Underground go on strike for 24 hours, causing widespread peak-hour disruption in the capital of the United Kingdom. ](/news/2010/11/29/workers-at-the-london-underground-go-on-strike-for-24-hours-causing-widespread-peak-hour-disruption-in-the-capital-of-the-united-kingdom.md)

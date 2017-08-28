@@ -1,6 +1,6 @@
 ### [2016-06-24](/news/2016/06/24/index.md)
 
-# West Virginia police report powerful flash floods last night killed at least 26 people and swept away a toddler from Ravenswood. Up to 10 inches (25 cm) of rain fell in White Sulphur Springs in the southern part of the state. A state of emergency had been declared in 44 counties. Almost 500,000 customers are without power including thousands in  Virginia. 
+# West Virginia police report powerful flash floods last night killed at least 26 people and swept away a toddler from Ravenswood. Up to 10 inches (25 cm) of rain fell in White Sulphur Springs in the southern part of the state. A state of emergency had been declared in 44 counties. Almost 500,000 customers are without power including thousands in Virginia. 
 
 Historic flooding in West Virginia has caused dangerous conditions that have killed at least 23 people and left thousands without power.
 
@@ -13,7 +13,7 @@ Historic flooding in West Virginia has caused dangerous conditions that have kil
 
 ### Related:
 
-1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims  were found overnight. It is the third-deadliest flood in West Virginia history.  ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-f.md) _Context: 2016 West Virginia flood, West Virginia_
+1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md) _Context: 2016 West Virginia flood, West Virginia_
 2. [The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. ](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-states-of-the-united-states-reaches-13-with-millions-out-of-power-and-states-of-emergencies.md) _Context: West Virginia, state of emergency_
 3. [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md) _Context: state of emergency_
 4. [Robert Bentley, the Governor of Alabama, declares a state of emergency due to forecasts of storms with the threat of tornadoes during the day. The neighboring state of Georgia also faces the threat of severe weather. ](/news/2017/04/4/robert-bentley-the-governor-of-alabama-declares-a-state-of-emergency-due-to-forecasts-of-storms-with-the-threat-of-tornadoes-during-the-da.md) _Context: state of emergency_

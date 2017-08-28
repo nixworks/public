@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [2010-2012 Greek protests: Riot police and protesters clash in Athens, hours after a 77-year-old pensioner's suicide outside parliament. ](/news/2012/04/5/2010-2012-greek-protests-riot-police-and-protesters-clash-in-athens-hours-after-a-77-year-old-pensioner-s-suicide-outside-parliament.md) _Context: anti-austerity protests in Greece_
+1. [2010-2012 Greek protests: Riot police and protesters clash in Athens, hours after a 77-year-old pensioner's suicide outside parliament. ](/news/2012/04/5/2010a2012-greek-protests-riot-police-and-protesters-clash-in-athens-hours-after-a-77-year-old-pensioner-s-suicide-outside-parliament.md) _Context: anti-austerity protests in Greece_

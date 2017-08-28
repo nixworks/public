@@ -1,6 +1,6 @@
 ### [2015-02-26](/news/2015/02/26/index.md)
 
-# A  Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. 
+# A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. 
 
 A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kills at least one, local officials say.
 
@@ -12,7 +12,7 @@ A suicide attack on a Turkish embassy vehicle in the Afghan capital, Kabul, kill
 
 ### Related:
 
-1. [A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured.  ](/news/2016/04/19/a-large-explosion-is-reported-in-the-afghan-capital-kabul-a-week-after-the-taliban-declared-the-start-of-their-annual-spring-offensive-the.md) _Context: Kabul, Taliban, War in Afghanistan_
+1. [A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured. ](/news/2016/04/19/a-large-explosion-is-reported-in-the-afghan-capital-kabul-a-week-after-the-taliban-declared-the-start-of-their-annual-spring-offensive-the.md) _Context: Kabul, Taliban, War in Afghanistan_
 2. [A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _Context: Kabul, Taliban, suicide bomb_
 3. [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md) _Context: Taliban, War in Afghanistan_
 4. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _Context: Kabul, War in Afghanistan_

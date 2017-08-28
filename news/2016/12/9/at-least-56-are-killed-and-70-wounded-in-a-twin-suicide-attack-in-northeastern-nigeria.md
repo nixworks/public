@@ -1,6 +1,6 @@
 ### [2016-12-9](/news/2016/12/9/index.md)
 
-#    At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. 
+#   At least 56 are killed and 70 wounded in a twin suicide attack in northeastern Nigeria. 
 
 A twin bomb blast has ripped through a market in Yola, the Adamawa state capital, about 47 people have been feared killed, Boko Haram is behind the attack.
 

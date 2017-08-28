@@ -6,16 +6,16 @@ Italian police carried out a vast counterterrorism operation against an al-Qaeda
 ### [Three members of a United Nations peacekeeping mission to the Democratic Republic of the Congo have been abducted. ](/news/2015/04/24/three-members-of-a-united-nations-peacekeeping-mission-to-the-democratic-republic-of-the-congo-have-been-abducted.md)
 _Context: Democratic Republic of the Congo, United Nations_
 
-### [Yemeni Civil War (2015): UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/yemeni-civil-war-2015-unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recrui.md)
+### [UNICEF reports that hundreds of children have been killed and injured in the Civil War while combatants have recruited hundreds more. ](/news/2015/04/24/unicef-reports-that-hundreds-of-children-have-been-killed-and-injured-in-the-civil-war-while-combatants-have-recruited-hundreds-more.md)
 _Context: UNICEF, Yemeni Civil War (2015)_
 
-### [Islamic State of Iraq and the Levant: Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/islamic-state-of-iraq-and-the-levant-iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car.md)
-_Context: Anbar province, Iraqi Army, Islamic State of Iraq and the Levant_
+### [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md)
+_Context: Anbar province, ISIL, Iraqi Army_
 
-### [Boko Haram insurgency: Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-insurgency-boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md)
+### [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md)
 _Context: Boko Haram, Boko Haram insurgency, Marte, Nigerian Army_
 
-### [Balochistan conflict: Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan-s "disappeared people" in Karachi. ](/news/2015/04/24/balochistan-conflict-pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistan-s-disa.md)
+### [Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan's "disappeared people" in Karachi. ](/news/2015/04/24/pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistanas-disappeared-people-in-kar.md)
 Prominent rights activist killed shortly after hosting an event on people missing in Balochistan at her Karachi cafe.
 
 ### [Armenia commemorates the 100th anniversary of the Armenian Genocide by the Ottoman Empire. ](/news/2015/04/24/armenia-commemorates-the-100th-anniversary-of-the-armenian-genocide-by-the-ottoman-empire.md)

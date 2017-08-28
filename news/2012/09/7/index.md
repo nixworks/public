@@ -1,6 +1,6 @@
 ## [2012-09-7](/news/2012/09/7/index.md)
 
-### [Syrian civil war:: A bomb kills five policemen after Friday prayer outside Rukniyeh mosque in Rukn Eddeen, central Damascus. ](/news/2012/09/7/syrian-civil-war-a-bomb-kills-five-policemen-after-friday-prayer-outside-rukniyeh-mosque-in-rukn-eddeen-central-damascus.md)
+### [A bomb kills five policemen after Friday prayer outside Rukniyeh mosque in Rukn Eddeen, central Damascus. ](/news/2012/09/7/a-bomb-kills-five-policemen-after-friday-prayer-outside-rukniyeh-mosque-in-rukn-eddeen-central-damascus.md)
 A motorcycle bomb exploded as worshippers left a mosque after Friday prayers in northern Damascus, wounding several people, Syrian state television said.
 
 ### [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md)
@@ -13,7 +13,7 @@ _Context: Chile_
 News Ltd has lowered its offer for Pay-TV operator Consolidated Media to $1.94 billion in a formal takeover bid.
 
 ### [The Reserve Bank of India permits Indian investments to and from Pakistan. India's minister of external affairs SM Krishna arrives in Pakistan for a meeting on Saturday in Islamabad with his Pakistani counterpart Hina Rabbani Khar. ](/news/2012/09/7/the-reserve-bank-of-india-permits-indian-investments-to-and-from-pakistan-india-s-minister-of-external-affairs-sm-krishna-arrives-in-pakist.md)
-_Context: Hina Rabbani Khar, India, Islamabad, Pakistan, Reserve Bank of India, SM Krishna, counterpart, minister of external affairs_
+_Context: Hina Rabbani Khar, India, Islamabad, Pakistan, Reserve Bank of India, SM Krishna, foreign ministry, minister of external affairs_
 
 ### [Cipla does not infringe a valid Roche patent on erlotinib (trade name "Tarceva") for the production of its generic cancer drug Erlocip, says the Delhi High Court. ](/news/2012/09/7/cipla-does-not-infringe-a-valid-roche-patent-on-erlotinib-trade-name-tarceva-for-the-production-of-its-generic-cancer-drug-erlocip-says.md)
 _Context: Cipla, Delhi High Court, Hoffmann-La Roche, Tarceva_
@@ -24,7 +24,7 @@ A series of earthquakes hit south-west China, leaving at least 64 people dead an
 ### [U.S. Secretary of State Clinton notifies Congress of her intent to include the Haqqani network on the government's terror list. An attache at the Embassy of Pakistan in Washington dismisses the decision as an "internal matter" of the United States and reaffirms Pakistan's commitment to "combating extremism and terrorism." Haqqani senior commanders say the decision will not help in bringing peace to Afghanistan. ](/news/2012/09/7/u-s-secretary-of-state-clinton-notifies-congress-of-her-intent-to-include-the-haqqani-network-on-the-government-s-terror-list-an-attacha-c.md)
 _Context: Afghanistan's, Haqqani network, Hillary Clinton, Secretary of State, United States Congress, War in Afghanistan (2001-present), terror list_
 
-### [Canada-Iran relations:: Canada closes its embassy in Iran and orders all Iranian diplomatic staff out of Canada, citing Iran's support for Syrian President Bashar al-Assad, Iran's "among the worst" human rights record, its lack of respect for the Vienna conventions, its nuclear program and the security of Canadian diplomatic personnel. It sees Iran as the world's "most significant threat to global peace and security." Minister of foreign affairs Baird says the Canadian government files Iran as a "state sponsor of terrorism" under the Canadian ](/news/2012/09/7/canada-iran-relations-canada-closes-its-embassy-in-iran-and-orders-all-iranian-diplomatic-staff-out-of-canada-citing-iran-s-support-for.md)
+### [Canada closes its embassy in Iran and orders all Iranian diplomatic staff out of Canada, citing Iran's support for Syrian President Bashar al-Assad, Iran's "among the worst" human rights record, its lack of respect for the Vienna conventions, its nuclear program and the security of Canadian diplomatic personnel. It sees Iran as the world's "most significant threat to global peace and security." Minister of foreign affairs Baird says the Canadian government files Iran as a "state sponsor of terrorism" under the Canadian ](/news/2012/09/7/canada-closes-its-embassy-in-iran-and-orders-all-iranian-diplomatic-staff-out-of-canada-citing-iran-s-support-for-syrian-president-bashar-a.md)
 Canada has suspended diplomatic relations with Iran and is expelling Iranian diplomats from Canada, Foreign Affairs Minister John Baird says in a statement.
 
 ### [Germany and France's foreign ministers say they are in favour of new sanctions to target Iranian finance, trade and oil in around ten days, if talks about Iran's nuclear program do not "make any substantial progress." ](/news/2012/09/7/germany-and-france-s-foreign-ministers-say-they-are-in-favour-of-new-sanctions-to-target-iranian-finance-trade-and-oil-in-around-ten-days.md)
@@ -36,7 +36,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### [Pakistan orders foreign nationals working for the Save the Children NGO to leave the country within four weeks. The Pakistani government has accused the organization of being linked to the fake vaccination program used in the hunt for Osama bin Laden. The charity and the U.S. government deny any links. ](/news/2012/09/7/pakistan-orders-foreign-nationals-working-for-the-save-the-children-ngo-to-leave-the-country-within-four-weeks-the-pakistani-government-has.md)
 _Context: Dr. Shakil Afridi, NGO, Osama bin Laden, Pakistan, Save the Children, United States, hunt_
 
-### [ Asia-Pacific Economic Cooperation (APEC):: Economic leaders assemble on Russky Island, off the coast of Vladivostok, Russia, for the forum's 24th summit on September 8th and 9th. ](/news/2012/09/7/asia-pacific-economic-cooperation-apec-economic-leaders-assemble-on-russky-island-off-the-coast-of-vladivostok-russia-for-the-forum.md)
+### [Economic leaders assemble on Russky Island, off the coast of Vladivostok, Russia, for the forum's 24th summit on September 8th and 9th. ](/news/2012/09/7/economic-leaders-assemble-on-russky-island-off-the-coast-of-vladivostok-russia-for-the-forum-s-24th-summit-on-september-8th-and-9th.md)
 Harper to meet with Chinese president during Asia-Pacific Economic Co-operation leaders’ summit
 
 ### [Some details emerge, but no suspect nor a motive, about Wednesday's murder of four people in the foothills of the French Alps. ](/news/2012/09/7/some-details-emerge-but-no-suspect-nor-a-motive-about-wednesday-s-murder-of-four-people-in-the-foothills-of-the-french-alps.md)

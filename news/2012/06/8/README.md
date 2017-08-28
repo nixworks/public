@@ -1,6 +1,6 @@
 ## [2012-06-8](/news/2012/06/8/index.md)
 
-### [Arab Spring:: Syrian uprising:: United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/arab-spring-syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-repor.md)
+### [Syrian uprising:United Nations monitors reach the site of the massacre in Mazraat al-Qubeir, where up to 78 people are reported to have been killed. ](/news/2012/06/8/syrian-uprising-united-nations-monitors-reach-the-site-of-the-massacre-in-mazraat-al-qubeir-where-up-to-78-people-are-reported-to-have-been.md)
 U.N. monitors entered the Syrian hamlet of Mazraat al-Qubeir where up to 78 people were reported killed in cold blood two days earlier and an eyewitness described a scene of shredded and burnt flesh.
 
 ### [7 United Nations peacekeepers from Niger are killed in an ambush in Ivory Coast. ](/news/2012/06/8/7-united-nations-peacekeepers-from-niger-are-killed-in-an-ambush-in-ivory-coast.md)

@@ -12,13 +12,13 @@ An Iraqi was killed and about 70 college students were wounded on the outskirts 
 ### [Notable Hollywood personalities, including Steven Spielberg, Martin Scorsese, Robert De Niro, Robert Redford and Francis Ford Coppola, sign a petition asking the Iranian government to release director Jafar Panahi, who was arrested alongside his wife, daughter and 15 other guests at his home on 1 March. ](/news/2010/05/2/notable-hollywood-personalities-including-steven-spielberg-martin-scorsese-robert-de-niro-robert-redford-and-francis-ford-coppola-sign.md)
 _Context: Francis Ford Coppola, Hollywood, Iran, Jafar Panahi, Martin Scorsese, Robert De Niro, Robert Redford, Steven Spielberg_
 
-### [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately -120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-120-billion.md)
+### [The European Union and the International Monetary Fund agree to a bailout package for Greece that will provide approximately EUR120 billion to end the sovereign debt crisis in that country. ](/news/2010/05/2/the-european-union-and-the-international-monetary-fund-agree-to-a-bailout-package-for-greece-that-will-provide-approximately-a-120-billion.md)
 _Context: European Union, Greek, International Monetary Fund, economically troubled euro-zone nations_
 
 ### [The United Nations investigates reports of a possible massacre of 100 people by Ugandan rebels in the Democratic Republic of the Congo. ](/news/2010/05/2/the-united-nations-investigates-reports-of-a-possible-massacre-of-100-people-by-ugandan-rebels-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Uganda, United Nations_
 
-### [After Iran-s selection to the Commission on the Status of Women, a United Nations panel on women-s rights, Canada cites -serious concerns- about Iran-s participation in the panel and Iran-s human-rights record. ](/news/2010/05/2/after-iran-s-selection-to-the-commission-on-the-status-of-women-a-united-nations-panel-on-women-s-rights-canada-cites-serious-conce.md)
+### [After Iran's selection to the Commission on the Status of Women, a United Nations panel on women's rights, Canada cites "serious concerns" about Iran's participation in the panel and Iran's human-rights record. ](/news/2010/05/2/after-iranas-selection-to-the-commission-on-the-status-of-women-a-united-nations-panel-on-womenas-rights-canada-cites-aserious-conce.md)
 _Context: Canada, Commission on the Status of Women, Iran, Iranian human rights, United Nations, women's rights_
 
 ### [Hizbul Islam members enter Harardhere in Somalia, and meet no resistance; they promise to enter other towns in the region. ](/news/2010/05/2/hizbul-islam-members-enter-harardhere-in-somalia-and-meet-no-resistance-they-promise-to-enter-other-towns-in-the-region.md)

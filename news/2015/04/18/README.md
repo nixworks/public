@@ -3,16 +3,16 @@
 ### [A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. ](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil-strikes-a-bank-in-the-city-of-jalalabad-in-afghanistan-killing-at-least-33-and-wounding-100.md)
 At least 33 people have been killed and more than 100 injured in a series of explosions in the eastern Afghan city of Jalalabad, according to police and local media. ISIS has claimed responsibility.
 
-### [Yemeni Civil War (2015): An Iranian Naval convoy is headed towards Yemen to potentially resupply Shia Houthi rebels. ](/news/2015/04/18/yemeni-civil-war-2015-an-iranian-naval-convoy-is-headed-towards-yemen-to-potentially-resupply-shia-houthi-rebels.md)
+### [An Iranian Naval convoy is headed towards Yemen to potentially resupply Shia Houthi rebels. ](/news/2015/04/18/an-iranian-naval-convoy-is-headed-towards-yemen-to-potentially-resupply-shia-houthi-rebels.md)
 U.S. officials are concerned about a confrontation with Saudi Arabia.
 
-### [Kashmir conflict: Indian Army soldiers fire on separatist protesters following unruly behaviour resulting in the death of a teenage protester. ](/news/2015/04/18/kashmir-conflict-indian-army-soldiers-fire-on-separatist-protesters-following-unruly-behaviour-resulting-in-the-death-of-a-teenage-proteste.md)
+### [Indian Army soldiers fire on separatist protesters following unruly behaviour resulting in the death of a teenage protester. ](/news/2015/04/18/indian-army-soldiers-fire-on-separatist-protesters-following-unruly-behaviour-resulting-in-the-death-of-a-teenage-protester.md)
 _Context: Indian Army, Kashmir conflict_
 
-### [Libyan Civil War (2014-present): The Prime Minister of Italy Matteo Renzi warns that thousands of Libyans will continue to risk their lives travelling to Europe unless the civil war ends. More than 2000 people have been rescued in the past week. ](/news/2015/04/18/libyan-civil-war-2014-present-the-prime-minister-of-italy-matteo-renzi-warns-that-thousands-of-libyans-will-continue-to-risk-their-live.md)
+### [The Prime Minister of Italy Matteo Renzi warns that thousands of Libyans will continue to risk their lives travelling to Europe unless the civil war ends. More than 2000 people have been rescued in the past week. ](/news/2015/04/18/the-prime-minister-of-italy-matteo-renzi-warns-that-thousands-of-libyans-will-continue-to-risk-their-lives-travelling-to-europe-unless-the-c.md)
 Italian Prime Minister Matteo Renzi has warned that thousands of Africans will continue to risk their lives trying to travel to Europe unless the civil war ends in Libya.
 
-### [List of Rock and Roll Hall of Fame inductees: New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/list-of-rock-and-roll-hall-of-fame-inductees-new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr.md)
+### [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md)
 The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, Ohio, on Saturday night and into Sunday morning. Here were the highlights as the evening unfolded, presented in reverse chronological order. Ringo Starr: &apos;Finally I&apos;m invited and I love it&apos; Ringo Starr spe...
 
 ### [At least 19 people are killed as a gold mine collapses in Tanzania's Msalala district. ](/news/2015/04/18/at-least-19-people-are-killed-as-a-gold-mine-collapses-in-tanzania-s-msalala-district.md)

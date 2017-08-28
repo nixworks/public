@@ -48,7 +48,7 @@ _Context: Taiwan, breastfeed_
 ### [Seventeen people including six employees of the Claims Conference in the United States have been charged with theft of $42 million from Holocaust compensation funds provided by the Government of Germany. ](/news/2010/11/9/seventeen-people-including-six-employees-of-the-claims-conference-in-the-united-states-have-been-charged-with-theft-of-42-million-from-holo.md)
 Seventeen people are charged in the US with stealing $42m of Holocaust compensation funds provided by the German government.
 
-### [Jordanian elections:: Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanian-elections-jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md)
+### [Jordanians go the polls for their parliamentary election but the opposition Islamic Action Front boycotts. ](/news/2010/11/9/jordanians-go-the-polls-for-their-parliamentary-election-but-the-opposition-islamic-action-front-boycotts.md)
 Jordanians vote in parliamentary elections that have been boycotted by the strongest opposition party, the Islamic Action Front.
 
 ### [Hamas bans Fatah supporters from holding a rally in the Gaza Strip as representatives of the two parties prepare to meet in Syria to discuss ways of resolving the conflict between them. ](/news/2010/11/9/hamas-bans-fatah-supporters-from-holding-a-rally-in-the-gaza-strip-as-representatives-of-the-two-parties-prepare-to-meet-in-syria-to-discuss.md)

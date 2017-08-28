@@ -3,8 +3,8 @@
 ### [ The TGV beats the record of the world's fastest conventional train with a speed of 553 &nbsp;km/h (344&nbsp;mph) reached during a test run on the LGV Est. ](/news/2007/02/13/the-tgv-beats-the-record-of-the-world-s-fastest-conventional-train-with-a-speed-of-553-nbsp-km-h-344-nbsp-mph-reached-during-a-test-run.md)
 _Context: LGV Est, TGV train, land speed record for railed vehicles_
 
-### [ Iraq War:: A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/iraq-war-a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
-_Context: Baghdad, Iraq War, car bomb, suicide bombing_
+### [ A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
+_Context: Baghdad, car bomb, suicide bombing_
 
 ### [ Dutch oil-trading company Trafigura agrees to pay the Cte d'Ivoire government $198 million to clean up a 2006 toxic waste spill which led to the deaths of 10 people. ](/news/2007/02/13/dutch-oil-trading-company-trafigura-agrees-to-pay-the-cote-d-ivoire-government-198-million-to-clean-up-a-2006-toxic-waste-spill-which-led.md)
 _Context: 2006 toxic waste spill, Cte d'Ivoire, Netherlands, Trafigura, USD, government, oil_

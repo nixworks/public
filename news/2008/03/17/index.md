@@ -1,6 +1,6 @@
 ## [2008-03-17](/news/2008/03/17/index.md)
 
-### [ United States presidential election, 2008:: The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/united-states-presidential-election-2008-the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using.md)
+### [ The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. ](/news/2008/03/17/the-florida-democratic-party-abandons-plans-to-redo-the-florida-democratic-primary-2008-using-mail-in-ballots.md)
 Barack Obama confronted the divisions between black and white as he sought to dispel the furor over his pastor’s words.
 
 ### [ UNMIK and NATO KFOR forces clashed with Serb protesters in North Kosovo resulting in over 150 wounded after arresting Serb lawyers and court officials who had taken control of a UN court. The clashes are part of ongoing unrest following Kosovo's declaration of independence. ](/news/2008/03/17/unmik-and-nato-kfor-forces-clashed-with-serb-protesters-in-north-kosovo-resulting-in-over-150-wounded-after-arresting-serb-lawyers-and-cour.md)
@@ -9,20 +9,20 @@ _Context: Kosovo Force, North Kosovo, UNMIK, unrest_
 ### [ A container ship pilot whose ship hit the San Francisco Bay Bridge resulting in an oil spill is charged with breaking United States pollution laws. ](/news/2008/03/17/a-container-ship-pilot-whose-ship-hit-the-san-francisco-bay-bridge-resulting-in-an-oil-spill-is-charged-with-breaking-united-states-polluti.md)
 The pilot of a containership that hit the San Francisco Bay Bridge last year andspilled 58,000 gallons of oil was charged on Monday withviolating federal pollution laws.
 
-### [ Subprime mortgage crisis:: World stock markets decline sharply after the proposed sale of investment bank Bear Stearns to rival JPMorgan Chase. ](/news/2008/03/17/subprime-mortgage-crisis-world-stock-markets-decline-sharply-after-the-proposed-sale-of-investment-bank-bear-stearns-to-rival-jpmorgan-ch.md)
-_Context: Bear Stearns, JPMorgan Chase, housing crisis, investment bank, stock market_
+### [ World stock markets decline sharply after the proposed sale of investment bank Bear Stearns to rival JPMorgan Chase. ](/news/2008/03/17/world-stock-markets-decline-sharply-after-the-proposed-sale-of-investment-bank-bear-stearns-to-rival-jpmorgan-chase.md)
+_Context: Bear Stearns, JPMorgan Chase, investment bank, stock market_
 
-### [ 2008 unrest in Tibet:: Chinese security forces round up Tibetan dissidents in Lhasa. Qiangba Puncog, Chairman of the Tibet Autonomous Region, says the official death toll from the unrest is 13 and calm is returning to the city. ](/news/2008/03/17/2008-unrest-in-tibet-chinese-security-forces-round-up-tibetan-dissidents-in-lhasa-qiangba-puncog-chairman-of-the-tibet-autonomous-regio.md)
+### [ Chinese security forces round up Tibetan dissidents in Lhasa. Qiangba Puncog, Chairman of the Tibet Autonomous Region, says the official death toll from the unrest is 13 and calm is returning to the city. ](/news/2008/03/17/chinese-security-forces-round-up-tibetan-dissidents-in-lhasa-qiangba-puncog-chairman-of-the-tibet-autonomous-region-says-the-official-de.md)
 _Context: 2008 unrest in Tibet, China, Lhasa, Qiangba Puncog, Tibet, Tibet Autonomous Region, dissident, security force_
 
 ### [ 2008 National People's Congress: Li Keqiang, Hui Liangyu, Zhang Dejiang, and Wang Qishan are approved by the National People's Congress as the new Vice-Premiers of the State Council. ](/news/2008/03/17/2008-national-people-s-congress-li-keqiang-hui-liangyu-zhang-dejiang-and-wang-qishan-are-approved-by-the-national-people-s-congress-as.md)
 _Context: 2008 National People's Congress, Hui Liangyu, Li Keqiang, Wang Qishan, Zhang Dejiang, parliament_
 
-### [ War in Iraq:: United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/war-in-iraq-united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
-_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, Iraq, U.S. Vice President, United States, War in Iraq_
+### [ United States Vice President Dick Cheney visits Baghdad, three days before the fifth anniversary of the 2003 invasion. ](/news/2008/03/17/united-states-vice-president-dick-cheney-visits-baghdad-three-days-before-the-fifth-anniversary-of-the-2003-invasion.md)
+_Context: 2003 invasion of Iraq, Baghdad, Dick Cheney, U.S. Vice President, United States_
 
-### [ Pakistan:: The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/pakistan-the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
-_Context: Pakistan, Parliament, by-elections_
+### [ The new Parliament convenes for the first time after the 2008 general election. ](/news/2008/03/17/the-new-parliament-convenes-for-the-first-time-after-the-2008-general-election.md)
+_Context: Parliament, by-elections_
 
 ### [ Albanian Defense Minister Fatmir Mediu resigns over the 2008 Tirana explosions. ](/news/2008/03/17/albanian-defense-minister-fatmir-mediu-resigns-over-the-2008-tirana-explosions.md)
 _Context: 2008 Tirana explosions, Albania, Defense Minister, Fatmir Mediu_

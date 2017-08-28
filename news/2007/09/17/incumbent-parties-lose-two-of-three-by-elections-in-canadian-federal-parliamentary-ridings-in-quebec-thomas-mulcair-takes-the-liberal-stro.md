@@ -1,6 +1,6 @@
 ### [2007-09-17](/news/2007/09/17/index.md)
 
-#  Incumbent parties lose two of three by-elections in Canadian federal parliamentary ridings in Quebec. Thomas Mulcair takes the Liberal stronghold of Outremont, bringing the New Democratic Party its second-ever victory in Quebec. Conservative Denis Lebel takes the Bloc-held riding of Roberval-Lac-Saint-Jean, while Eve-Mary Thai Thi Lac holds Saint-Hyacinthe-Bagot for the Bloc Quebecois. 
+#  Incumbent parties lose two of three by-elections in Canadian federal parliamentary ridings in Quebec. Thomas Mulcair takes the Liberal stronghold of Outremont, bringing the New Democratic Party its second-ever victory in Quebec. Conservative Denis Lebel takes the Bloc-held riding of Roberval--Lac-Saint-Jean, while Eve-Mary Thai Thi Lac holds Saint-Hyacinthe--Bagot for the Bloc Quebecois. 
 
 
 

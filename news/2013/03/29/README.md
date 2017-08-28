@@ -1,9 +1,9 @@
 ## [2013-03-29](/news/2013/03/29/index.md)
 
-### [Terrorism in Pakistan:: A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/terrorism-in-pakistan-a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md)
-_Context: Pakistan, Peshawar, Terrorism in Pakistan, United States, consulate_
+### [A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md)
+_Context: Pakistan, Peshawar, United States, consulate_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/iraqi-insurgency-post-u-s-withdrawal-coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)
+### [Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". ](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allowed-to-perform-at-a-music-festival-in-china-due-to-unspecified-political-reasons.md)
@@ -12,7 +12,7 @@ _Context: China, Kraftwerk, electronic music_
 ### [After 25 years on the air, the American TV show "America's Most Wanted" is cancelled. ](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.md)
 _Context: America's Most Wanted, TV show_
 
-### [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades says the island has no intention of abandoning the euro, despite the tough conditions imposed by its 10 billion euro bailout deal with the European Union and International Monetary Fund. ](/news/2013/03/29/2012-2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-says-the-island-has-no-intention-of-abandoning-the-euro-despit.md)
+### [2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades says the island has no intention of abandoning the euro, despite the tough conditions imposed by its 10 billion euro bailout deal with the European Union and International Monetary Fund. ](/news/2013/03/29/2012a2013-cypriot-financial-crisis-president-of-cyprus-nicos-anastasiades-says-the-island-has-no-intention-of-abandoning-the-euro-despit.md)
 Cyprus President Nicos Anastasiades says the island will not leave the euro, as the central bank announces a slight easing of capital controls.
 
 ### [Dar es Salaam building collapse: At least 36 are killed and around 25 more are trapped when a 16-floor building collapses in the commercial capital Dar es Salaam, Tanzania. ](/news/2013/03/29/dar-es-salaam-building-collapse-at-least-36-are-killed-and-around-25-more-are-trapped-when-a-16-floor-building-collapses-in-the-commercial.md)
@@ -54,7 +54,7 @@ JERUSALEM — Hundreds of Christians streamed through the cobblestone alleyways 
 ### [Soyuz TMA-08M: A Soyuz spacecraft docks with the International Space Station after being in orbit for less than six hours, setting a record, in a test conducted to reduce the time crew members have to spend in the ferry craft. ](/news/2013/03/29/soyuz-tma-08m-a-soyuz-spacecraft-docks-with-the-international-space-station-after-being-in-orbit-for-less-than-six-hours-setting-a-record.md)
 Three-man crew earlier rocketed into space and glided to a smooth docking with the International Space Station
 
-### [Scientists from New Jersey Institute of Technology-s Swarm Lab announce that they have created robotic ants that behave very similarly to real ants. ](/news/2013/03/29/scientists-from-new-jersey-institute-of-technology-s-swarm-lab-announce-that-they-have-created-robotic-ants-that-behave-very-similarly-to.md)
+### [Scientists from New Jersey Institute of Technology's Swarm Lab announce that they have created robotic ants that behave very similarly to real ants. ](/news/2013/03/29/scientists-from-new-jersey-institute-of-technologyas-swarm-lab-announce-that-they-have-created-robotic-ants-that-behave-very-similarly-to.md)
 _Context: New Jersey Institute of Technology, ant, robot_
 
 ## [Previous Day...](/news/2013/03/28/index.md)

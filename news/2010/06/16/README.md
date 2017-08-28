@@ -9,13 +9,13 @@ Seattle police review training procedures after video of an officer punching a t
 ### [The United Nations Human Rights Council says Britain is arranging its third enforced removal of Iraqi asylum applicants to Baghdad despite appeals for it to stop amid safety fears for the individuals concerned. ](/news/2010/06/16/the-united-nations-human-rights-council-says-britain-is-arranging-its-third-enforced-removal-of-iraqi-asylum-applicants-to-baghdad-despite-a.md)
 Refugee agencies express concern over reported plans by the UK to deport about 50 Iraqi asylum seekers.
 
-### [Iranian nuclear program sanctions:: Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iranian-nuclear-program-sanctions-iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enric.md)
-_Context: Iran, ban on ballistic missile tests, nuclear reactor, nuclear scientist_
+### [Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enriching-uranium-despite-un-nuclear-san.md)
+_Context: Iran, ban on ballistic missile tests, nuclear reactor_
 
-### [Gulf of Mexico oil disaster:: U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/gulf-of-mexico-oil-disaster-u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livel.md)
+### [U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livelihoods-have-been-damaged-by-th.md)
 BP’s embattled chief executive, Tony Hayward, prepared to tell Congress on Thursday that he was “deeply sorry” for the oil disaster in the gulf.
 
-### [Middle East:: Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/middle-east-israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md)
+### [Israel adjourns deciding on whether to ease its three year blockade of the Gaza Strip. ](/news/2010/06/16/israel-adjourns-deciding-on-whether-to-ease-its-three-year-blockade-of-the-gaza-strip.md)
 Security cabinet adjourns meeting on allowing entry of building materials and other goods.
 
 ### [At least 49 people are killed during landslides in Cox's Bazar, Bangladesh, with many swept to their deaths as they slept. ](/news/2010/06/16/at-least-49-people-are-killed-during-landslides-in-cox-s-bazar-bangladesh-with-many-swept-to-their-deaths-as-they-slept.md)
@@ -48,8 +48,8 @@ _Context: Bank of England, George Osborne_
 ### [The National Army of Colombia says an unknown number of informants who aided the rescue of three police officers and a soldier from FARC on Sunday will receive a $1.2 million reward between them. ](/news/2010/06/16/the-national-army-of-colombia-says-an-unknown-number-of-informants-who-aided-the-rescue-of-three-police-officers-and-a-soldier-from-farc-on.md)
 Colombian informants share a $1.2m reward for helping the rescue of four security personnel after a decade in rebel hands.
 
-### [Shanghai International Film Festival:: Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/shanghai-international-film-festival-chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-i.md)
-_Context: LeTV, Shanghai International Film Festival, Sohu, Voole_
+### [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md)
+_Context: LeTV, Sohu, Voole_
 
 ### [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md)
 A court bails two Dutch women over an alleged marketing stunt at the World Cup, in a case called &quot;outrageous&quot; by the Netherlands.
@@ -63,7 +63,7 @@ _Context: Jesus Christ, Ohio, United States_
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)
 Remains found in a Tuscany church almost certainly belong to Renaissance artist Caravaggio, researchers say.
 
-### [NCAA (U.S. college) conference realignment:: The Pacific-10 Conference, after being turned down by several Texas and Oklahoma schools in its effort to expand to 12 or more members, invites the University of Utah to become its 12th member. ](/news/2010/06/16/ncaa-u-s-college-conference-realignment-the-pacific-10-conference-after-being-turned-down-by-several-texas-and-oklahoma-schools-in-its.md)
+### [The Pacific-10 Conference, after being turned down by several Texas and Oklahoma schools in its effort to expand to 12 or more members, invites the University of Utah to become its 12th member. ](/news/2010/06/16/the-pacific-10-conference-after-being-turned-down-by-several-texas-and-oklahoma-schools-in-its-effort-to-expand-to-12-or-more-members-invi.md)
 Utah will join the Pac-10 Conference as its 12th team, with an announcement coming as soon as Friday, a source tells ESPN.
 
 ## [Previous Day...](/news/2010/06/15/index.md)

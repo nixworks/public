@@ -1,9 +1,9 @@
 ## [2010-04-6](/news/2010/04/6/index.md)
 
-### [Israeli-Palestinian conflict:: Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/israeli-palestinian-conflict-palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement.md)
+### [Palestinians fire another Qassam rocket at southern Israel, causing no harm, despite Gaza groups agreement to stop rockets attacks. ](/news/2010/04/6/palestinians-fire-another-qassam-rocket-at-southern-israel-causing-no-harm-despite-gaza-groups-agreement-to-stop-rockets-attacks.md)
 Israeli officials: Let’s wait and see; Kassam hits Negev, causing no harm.
 
-### [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxalite-maoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md)
+### [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md)
 In one of the bloodiest attacks on security forces, Naxals trapped and gunned down 75 personnel during a joint &quot;Operation Green Hunt&quot; offensive against the ultras in the thick forests of Mukrana in Dantewada district. 
 
 ### [Iraq War: At least eight explosions rock Baghdad and kill at least 35 people and wound over 140 others. ](/news/2010/04/6/iraq-war-at-least-eight-explosions-rock-baghdad-and-kill-at-least-35-people-and-wound-over-140-others.md)

@@ -1,13 +1,13 @@
 ## [2014-08-26](/news/2014/08/26/index.md)
 
-### [War in Donbass:: Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/war-in-donbass-russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-r.md)
-_Context: Donetsk Oblast, Dzerkalne, Russia, Ukraine, War in Donbass_
+### [Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-roughly-20-kilomet.md)
+_Context: Donetsk Oblast, Dzerkalne, Russia, Ukraine_
 
-### [2014 Israel-Gaza conflict:: On the 50th day of the conflict, an internationally supported long-term truce is reached where the borders of Gaza, Egypt, and Israel are opened for humanitarian and reconstruction supplies and the Gaza fishing zone is extended to 6 km. Other issues such as an airport/seaport and the Israeli demand for demilitarization will be negotiated within a month. ](/news/2014/08/26/2014-israel-gaza-conflict-on-the-50th-day-of-the-conflict-an-internationally-supported-long-term-truce-is-reached-where-the-borders-of.md)
+### [On the 50th day of the conflict, an internationally supported long-term truce is reached where the borders of Gaza, Egypt, and Israel are opened for humanitarian and reconstruction supplies and the Gaza fishing zone is extended to 6 km. Other issues such as an airport/seaport and the Israeli demand for demilitarization will be negotiated within a month. ](/news/2014/08/26/on-the-50th-day-of-the-conflict-an-internationally-supported-long-term-truce-is-reached-where-the-borders-of-gaza-egypt-and-israel-are-op.md)
 Four others injured; sides agree to open Gaza crossings for aid and building supplies; Hamas claims &#8216;victory&#8217;; Abbas announces truce in Ramallah, later confirmed by Jerusalem; 12 Gazans said killed in strikes
 
-### [Iraqi insurgency (2011-present):: A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011-present-a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-2.md)
-_Context: Baghdad, Iraqi insurgency (2011-present), Shi'ite, car bomb_
+### [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md)
+_Context: Baghdad, Shi'ite, car bomb_
 
 ### [Taiwan scrambles fighter jets to intercept two Chinese military aircraft that breached Taiwanese airspace. ](/news/2014/08/26/taiwan-scrambles-fighter-jets-to-intercept-two-chinese-military-aircraft-that-breached-taiwanese-airspace.md)
 Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military aircrafts, which breached its airspace four times.
@@ -18,8 +18,8 @@ _Context: Hammersmith Apollo, Kate Bush, London_
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
 _Context: Burger King, Canada, Canadian, Fast food, Tim Hortons, corporate tax inversions_
 
-### [2014 pro-Russian unrest in Ukraine:: The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/2014-pro-russian-unrest-in-ukraine-the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-b.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Belarus, Minsk, Petro Poroshenko, Russian President Vladimir Putin, Ukraine, Ukrainian President, Vladimir Putin_
+### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
+_Context: Belarus, Minsk, Petro Poroshenko, Russian President Vladimir Putin, Ukraine, Ukrainian President, Vladimir Putin_
 
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
 Officials in Brazil say a prison riot in which at least five inmates were killed has ended and the prisoners have been transferred to other jails.

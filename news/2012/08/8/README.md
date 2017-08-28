@@ -3,13 +3,13 @@
 ### [Armed men open fire at a checkpoint in the Egyptian city of Arish on the Sinai Peninsula. ](/news/2012/08/8/armed-men-open-fire-at-a-checkpoint-in-the-egyptian-city-of-arish-on-the-sinai-peninsula.md)
 Egyptian forces kill 20 people during air strikes on Sinai, in response to deadly attack on Sunday on a police station.
 
-### [Syrian civil war:: Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/syrian-civil-war-heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md)
+### [Heavy fighting continues in the Salaheddine district in Aleppo. ](/news/2012/08/8/heavy-fighting-continues-in-the-salaheddine-district-in-aleppo.md)
 Jordan says Riyad Hijab and his family arrived Wednesday, contradicting earlier reports he entered kingdom on Monday.
 
 ### [China announces plan to close one-third of the nation's 23 rare earth mines and about half of 99 smelting companies. ](/news/2012/08/8/china-announces-plan-to-close-one-third-of-the-nation-s-23-rare-earth-mines-and-about-half-of-99-smelting-companies.md)
 _Context: China, rare earth element_
 
-### [2012 Pacific typhoon season:: Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/2012-pacific-typhoon-season-typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
+### [Typhoon Haikui makes landfall over Xiangshan County in the Chinese province of Zhejiang. ](/news/2012/08/8/typhoon-haikui-makes-landfall-over-xiangshan-county-in-the-chinese-province-of-zhejiang.md)
 Nineteen people are now known to have died in severe floods in the Philippines, as officials warn heavy rain will continue to fall.
 
 ### [Hurricane Ernesto hits the Yucatn Peninsula in Mexico. ](/news/2012/08/8/hurricane-ernesto-hits-the-yucatan-peninsula-in-mexico.md)

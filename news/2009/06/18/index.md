@@ -9,8 +9,8 @@ _Context: Atlas V, LCROSS, LRO, Moon, explore_
 ### [ Continental Flight 61, a Boeing 777 containing 247 passengers flying from Brussels, Belgium, to Newark, New Jersey, United States, lands safely at Newark Liberty International Airport, after the 61-year-old pilot died mid-flight. ](/news/2009/06/18/continental-flight-61-a-boeing-777-containing-247-passengers-flying-from-brussels-belgium-to-newark-new-jersey-united-states-lands-sa.md)
 _Context: Belgium, Boeing 777, Brussels, Continental Airlines, Newark Liberty International Airport, Newark, New Jersey's, United States, pilot_
 
-### [ 2009 Iranian election protests:: Iran is accused of altering ](/news/2009/06/18/2009-iranian-election-protests-iran-is-accused-of-altering.md)
-_Context: altering, protests against the regime_
+### [ Iran is accused of altering ](/news/2009/06/18/iran-is-accused-of-altering.md)
+_Context: altering_
 
 ### [ Seven Gambian journalists are charged with seditious publication for reprinting a press union statement criticising President Yahya Jammeh. ](/news/2009/06/18/seven-gambian-journalists-are-charged-with-seditious-publication-for-reprinting-a-press-union-statement-criticising-president-yahya-jammeh.md)
 _Context: President, Yahya Jammeh, the Gambia_

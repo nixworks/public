@@ -1,12 +1,12 @@
 ## [2013-01-12](/news/2013/01/12/index.md)
 
-### [Northern Mali conflict (2012-present):: A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/northern-mali-conflict-2012-present-a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-de.md)
-_Context: France, Jean-Yves Le Drian, Mali, Minister of Defence, Northern Mali conflict (2012-present)_
+### [A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-defence-jean-yves-le-drian.md)
+_Context: France, Jean-Yves Le Drian, Mali, Minister of Defence_
 
-### [War in Somalia (2009-present):: One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/war-in-somalia-2009-present-one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer.md)
+### [One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer-somalia.md)
 A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#x20;captured&#x20;in&#x20;a&#x20;failed&#x20;French&#x20;commando&#x20;raid&#x20;on&#x20;Saturday&#x20;to&#x20;rescue&#x20;French&#x20;hostage&#x20;Denis&#x20;Allex,&#x20;who&#x20;is&#x20;also&#x20;believed&#x20;to&#x20;...
 
-### [Belfast City Hall flag protests:: Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/belfast-city-hall-flag-protests-violent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-po.md)
+### [Violent protests occur in Northern Ireland over flying the Union Jack at Belfast City Hall, twenty-nine police officers are injured. ](/news/2013/01/12/violent-protests-occur-in-northern-ireland-over-flying-the-union-jack-at-belfast-city-hall-twenty-nine-police-officers-are-injured.md)
 Twenty-nine police officers are injured in rioting in east Belfast following a loyalist protest over the union flag.
 
 ### [The funeral of Ian McKeever, who was killed by a lightning strike on Mount Kilimanjaro, occurs in County Wicklow, Ireland. ](/news/2013/01/12/the-funeral-of-ian-mckeever-who-was-killed-by-a-lightning-strike-on-mount-kilimanjaro-occurs-in-county-wicklow-ireland.md)

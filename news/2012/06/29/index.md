@@ -3,7 +3,7 @@
 ### [Mexican Drug War: A car bomb explodes outside the city hall in the Mexican border city of Nuevo Laredo, injuring 7 bystanders. This is the third car bomb in Nuevo Laredo this year, and much of the violence is blamed on the country's most powerful cartels: Los Zetas and the Sinaloa Cartel. ](/news/2012/06/29/mexican-drug-war-a-car-bomb-explodes-outside-the-city-hall-in-the-mexican-border-city-of-nuevo-laredo-injuring-7-bystanders-this-is-the-t.md)
 Explosives in a Ford Ranger pickup parked in front of the municipal building blew up shortly after 11 a.m., causing injuries to bystanders and damaging vehicles, the prosecutors said. Since 2010, the scene of a bloody turf war between the Zetas criminal organization and their former masters the Gulf...
 
-### [Syrian uprising (2011-present):: Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-uprising-2011-present-syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md)
+### [Syrian President Bashar al-Assad states that Syria will not accept a foreign solution to their problem. ](/news/2012/06/29/syrian-president-bashar-al-assad-states-that-syria-will-not-accept-a-foreign-solution-to-their-problem.md)
 _Context: Bashar al-Assad, Syria, Syrian uprising (2011-present)_
 
 ### [A man self-immolates in Birmingham city centre in a case reminiscent of Mohamed Bouazizi. ](/news/2012/06/29/a-man-self-immolates-in-birmingham-city-centre-in-a-case-reminiscent-of-mohamed-bouazizi.md)
@@ -40,7 +40,7 @@ Barclays boss Bob Diamond says he will not resign and blames a &quot;small numbe
 ### [British tax payer funding to support Prince Charles rose by 11% during the past financial year, it is disclosed. ](/news/2012/06/29/british-tax-payer-funding-to-support-prince-charles-rose-by-11-during-the-past-financial-year-it-is-disclosed.md)
 _Context: Prince Charles_
 
-### [Crisis in the European Union:: European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/crisis-in-the-european-union-european-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for.md)
+### [European Union leaders agree to use a bailout fund to recapitalise struggling banks and to work on a plan for tighter budgetary and political union. ](/news/2012/06/29/european-union-leaders-agree-to-use-a-bailout-fund-to-recapitalise-struggling-banks-and-to-work-on-a-plan-for-tighter-budgetary-and-politica.md)
 Leaders also agreed to recapitalize struggling banks without making governments back the debt.
 
 ### [A fast-moving line of storms knocks out power to nearly four million people in the Mid-Atlantic states of the US and kills one person in Springfield, Virginia. ](/news/2012/06/29/a-fast-moving-line-of-storms-knocks-out-power-to-nearly-four-million-people-in-the-mid-atlantic-states-of-the-us-and-kills-one-person-in-spr.md)

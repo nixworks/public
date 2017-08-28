@@ -1,7 +1,7 @@
 ## [2011-04-4](/news/2011/04/4/index.md)
 
-### [2010-2011 Ivorian crisis:: United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010-2011-ivorian-crisis-united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md)
-_Context: 2010-2011 Ivorian crisis, French military, Laurent Gbagbo, United Nations_
+### [United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md)
+_Context: French military, Laurent Gbagbo, United Nations_
 
 ### [At least 5 people are killed during a bomb explosion at a bus station in Jandool in Lower Dir, Pakistan. ](/news/2011/04/4/at-least-5-people-are-killed-during-a-bomb-explosion-at-a-bus-station-in-jandool-in-lower-dir-pakistan.md)
 At least seven people have been killed after a suicide bomber struck a bus station in north-west Pakistan, the sixth bombing in as many days in the country.
@@ -9,28 +9,28 @@ At least seven people have been killed after a suicide bomber struck a bus stati
 ### [Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. ](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a-highway-in-dhaka-arresting-dozens.md)
 _Context: Dhaka, baton, tear gas_
 
-### [2011 Yemeni protests:: Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/2011-yemeni-protests-yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md)
+### [Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. ](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-protesters-in-the-city-of-taiz-killing-one-person-and-injuring-over-400.md)
 Police and armed men in civilian clothes opened fire on anti-government demonstrators in the Yemeni cities of Taiz and Hudaida on Monday, witnesses said, as a drive to oust President Ali Abdullah Saleh gathered pace.
 
-### [2011 Syrian protests:: Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/2011-syrian-protests-syrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprec.md)
+### [Syrian president Assad appoints a new governor for Daraa as he struggles to please the people demonstrating in unprecedented protests against his regime. ](/news/2011/04/4/syrian-president-assad-appoints-a-new-governor-for-daraa-as-he-struggles-to-please-the-people-demonstrating-in-unprecedented-protests-agains.md)
 In a bid to appease protesters, the Syrian president continues to make new government appointments.
 
-### [2011 Libyan civil war:: A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/2011-libyan-civil-war-a-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-re.md)
+### [A humanitarian ship from Turkey rescues more than 250 injured people from Misrata and safely delivers them to the rebel stronghold of Benghazi. ](/news/2011/04/4/a-humanitarian-ship-from-turkey-rescues-more-than-250-injured-people-from-misrata-and-safely-delivers-them-to-the-rebel-stronghold-of-bengha.md)
 A Turkish humanitarian ship carrying more than 250 injured people from the Libyan city of Misrata arrives in the rebel stronghold of Benghazi.
 
-### [2011 Jordanian protests:: Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/2011-jordanian-protests-police-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-a.md)
-_Context: 2011 Jordanian protests, Amman, Muslim Brotherhood_
+### [Police arrest a man with a fake explosive belt attempting to enter the headquarters of the Muslim Brotherhood in Amman. ](/news/2011/04/4/police-arrest-a-man-with-a-fake-explosive-belt-attempting-to-enter-the-headquarters-of-the-muslim-brotherhood-in-amman.md)
+_Context: Amman, Muslim Brotherhood_
 
-### [Israeli-Palestinian conflict:: Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-palestinian-conflict-israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md)
+### [Israeli war planes roam at low attitudes across the skies of Gaza. ](/news/2011/04/4/israeli-war-planes-roam-at-low-attitudes-across-the-skies-of-gaza.md)
 Prominent Israeli filmmaker and peace activist was the son of a Jewish mother and a Christian Arab father from Nazareth.
 
-### [War on Terror:: 5 people, including Khalid Sheikh Mohammed, are to be put on trial by the United States military at the U.S.-operated Guantanamo Bay detention camp, it is announced. ](/news/2011/04/4/war-on-terror-5-people-including-khalid-sheikh-mohammed-are-to-be-put-on-trial-by-the-united-states-military-at-the-u-s-operated-guanta.md)
+### [5 people, including Khalid Sheikh Mohammed, are to be put on trial by the United States military at the U.S.-operated Guantanamo Bay detention camp, it is announced. ](/news/2011/04/4/5-people-including-khalid-sheikh-mohammed-are-to-be-put-on-trial-by-the-united-states-military-at-the-u-s-operated-guantanamo-bay-detenti.md)
 The alleged mastermind of the 9/11 attacks and four alleged co-conspirators will be tried at Guantanamo Bay, rather than a US civilian court.
 
 ### [Greek fighter jets escort a British civilian airliner as it makes an emergency landing in Athens after a bomb threat; no one is hurt. ](/news/2011/04/4/greek-fighter-jets-escort-a-british-civilian-airliner-as-it-makes-an-emergency-landing-in-athens-after-a-bomb-threat-no-one-is-hurt.md)
 A British passenger plane makes a safe emergency landing in Athens following a bomb threat, officials say.
 
-### [Disappearance of Ai Weiwei:: Concern grows as Ai Weiwei, who has criticised his country's human rights record, fails to reappear more than 24 hours after his disappearance by guards at Beijing Airport. Police issue no comment, though they have since raided his studio. ](/news/2011/04/4/disappearance-of-ai-weiwei-concern-grows-as-ai-weiwei-who-has-criticised-his-country-s-human-rights-record-fails-to-reappear-more-than-2.md)
+### [Concern grows as Ai Weiwei, who has criticised his country's human rights record, fails to reappear more than 24 hours after his disappearance by guards at Beijing Airport. Police issue no comment, though they have since raided his studio. ](/news/2011/04/4/concern-grows-as-ai-weiwei-who-has-criticised-his-country-s-human-rights-record-fails-to-reappear-more-than-24-hours-after-his-disappearan.md)
 The Chinese authorities are refusing to comment on the whereabouts of artist Ai Weiwei a day after he was detained trying to board a flight to Hong Kong.
 
 ### [A three-panel Zhang Xiaogang oil painting sells for a record HK$79 million. ](/news/2011/04/4/a-three-panel-zhang-xiaogang-oil-painting-sells-for-a-record-hk-79-million.md)
@@ -43,7 +43,7 @@ _Context: Charlene, Princess of Monaco, Prince Albert II of Monaco, Rhodesia, Ro
 _Context: Bank of Japan, Quarterly Tankan survey of business sentiment, an earthquake and tsunami_
 
 ### [It is reported that China has succeeded in genetically modifying cows to produce "human" milk. ](/news/2011/04/4/it-is-reported-that-china-has-succeeded-in-genetically-modifying-cows-to-produce-human-milk.md)
-### [Indonesian earthquake and tsunami:: A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/indonesian-earthquake-and-tsunami-a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md)
+### [A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. ](/news/2011/04/4/a-6-7-magnitude-earthquake-strikes-off-the-coast-of-java-in-indonesia.md)
 Hundreds of residents fled an Indonesian port town for higher ground on Monday when an earthquake struck south of Java with a magnitude estimated by US seismologists at 6.7.
 
 ### [A magnitude 5.4 earthquake strikes western Nepal near the Indian border, and is felt in Delhi. ](/news/2011/04/4/a-magnitude-5-4-earthquake-strikes-western-nepal-near-the-indian-border-and-is-felt-in-delhi.md)
@@ -58,7 +58,7 @@ The M11 in Essex is closed following a six-vehicle crash which leaves five peopl
 ### [A two-year-old dog is reunited with her owner in tsunami-ravished Japan. ](/news/2011/04/4/a-two-year-old-dog-is-reunited-with-her-owner-in-tsunami-ravished-japan.md)
 _Context: Japan, dog_
 
-### [U.S. tornado outbreak:: A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/u-s-tornado-outbreak-a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md)
+### [A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. ](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-hopkinsville-kentucky-near-nashville-injuring-seven-people.md)
 Severe storms blowing across the Southeast killed at least five people in Georgia early on Tuesday, and also were to blame for deaths in two other states, authorities said.
 
 ### [A United Nations Bombardier CRJ200 crashes at Bombardier CRJ200 in Kinshasa in the Democratic Republic of Congo killing 32 of 33 people on board. ](/news/2011/04/4/a-united-nations-bombardier-crj200-crashes-at-bombardier-crj200-in-kinshasa-in-the-democratic-republic-of-congo-killing-32-of-33-people-on-b.md)
@@ -100,13 +100,13 @@ Prominent lawyer and dissident Cu Huy Ha Vu is jailed for seven years in Vietnam
 ### [Than Shwe, the former head of Burma's State Peace and Development Council, retires as the head of the Myanmar military. ](/news/2011/04/4/than-shwe-the-former-head-of-burma-s-state-peace-and-development-council-retires-as-the-head-of-the-myanmar-military.md)
 _Context: Burma, Myanmar's military, State Peace and Development Council, Than Shwe_
 
-### [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined -60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-60-by-a-court-for-breaching-the-la.md)
+### [Controversial Irish senator Ivor Callely, who last year was embroiled in an expenses scandal, is fined EUR60 by a court for breaching the law. ](/news/2011/04/4/controversial-irish-senator-ivor-callely-who-last-year-was-embroiled-in-an-expenses-scandal-is-fined-a-60-by-a-court-for-breaching-the-la.md)
 _Context: Ivor Callely_
 
 ### [Barack Obama is to run for a second term as President of the United States next year, his campaign announces. ](/news/2011/04/4/barack-obama-is-to-run-for-a-second-term-as-president-of-the-united-states-next-year-his-campaign-announces.md)
 US president releases email and online video announcing his intention to stand for a second term in office in 2012.
 
-### [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010-2011.md)
+### [Musician Michel "Sweet Micky" Martelly wins the Haitian general election, 2010-2011. ](/news/2011/04/4/musician-michel-sweet-micky-martelly-wins-the-haitian-general-election-2010a2011.md)
 _Context: Haitian general election, 2010-2011, Michel "Sweet Micky" Martelly_
 
 ### [As part of the British government's package of welfare reforms, from today the one-and-a-half million people in the United Kingdom who claim incapacity benefit will begin to receive letters asking them to attend a work capability assessment. The tests are part of government plans to reduce the number of long-term claimants and will take until 2014 to complete. ](/news/2011/04/4/as-part-of-the-british-government-s-package-of-welfare-reforms-from-today-the-one-and-a-half-million-people-in-the-united-kingdom-who-claim.md)

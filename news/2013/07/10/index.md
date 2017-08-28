@@ -1,6 +1,6 @@
 ## [2013-07-10](/news/2013/07/10/index.md)
 
-### [Syrian civil war:: Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrian-civil-war-syrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md)
+### [Syrians in Aleppo stage a protest against a rebel siege of government-held areas in the city. ](/news/2013/07/10/syrians-in-aleppo-stage-a-protest-against-a-rebel-siege-of-government-held-areas-in-the-city.md)
 Syrians in Aleppo protest against a rebel siege of government-controlled districts that has created food shortages, residents say.
 
 ### [American country music star Randy Travis suffers a stroke while being hospitalized for congestive heart failure. ](/news/2013/07/10/american-country-music-star-randy-travis-suffers-a-stroke-while-being-hospitalized-for-congestive-heart-failure.md)
@@ -15,7 +15,7 @@ _Context: China, Sichuan Province, landslide_
 ### [The death toll from the Lac-Mgantic derailment in the Canadian province of Quebec rises to 20, with 30 people missing presumed dead. ](/news/2013/07/10/the-death-toll-from-the-lac-megantic-derailment-in-the-canadian-province-of-quebec-rises-to-20-with-30-people-missing-presumed-dead.md)
 _Context: Lac-Mgantic derailment, Quebec_
 
-### [Boston Marathon bombings:: Suspect Dzhokhar Tsarnaev makes his first appearance in a US court since his arrest on April 19. ](/news/2013/07/10/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-makes-his-first-appearance-in-a-us-court-since-his-arrest-on-april-19.md)
+### [Suspect Dzhokhar Tsarnaev makes his first appearance in a US court since his arrest on April 19. ](/news/2013/07/10/suspect-dzhokhar-tsarnaev-makes-his-first-appearance-in-a-us-court-since-his-arrest-on-april-19.md)
 Dzhokhar Tsarnaev, the chief suspect in the April 15th Boston Marathon bombing that killed three people and injured more than 200, has pled not guilty to 30 counts including using weapons of mass...
 
 ### [Egyptian prosecutors seek the arrest of Mohammed Badie, the leader of the Muslim Brotherhood, for allegedly instigating the 2013 Republican Guard headquarters clashes. ](/news/2013/07/10/egyptian-prosecutors-seek-the-arrest-of-mohammed-badie-the-leader-of-the-muslim-brotherhood-for-allegedly-instigating-the-2013-republican.md)
@@ -27,7 +27,7 @@ _Context: 2013 Republican Guard headquarters clashes, Egyptian, Mohammed Badie, 
 ### [Prominent Russian opposition figure Alexei Navalny registers himself to stand in September's vote for Moscow mayor. ](/news/2013/07/10/prominent-russian-opposition-figure-alexei-navalny-registers-himself-to-stand-in-september-s-vote-for-moscow-mayor.md)
 _Context: Alexei Navalny, Mayor of Moscow, Moscow, Russia, vote_
 
-### [Portuguese political crisis, 2013: The President of Portugal Cavaco Silva calls for a national salvation understanding between the three main parties: the Socialists, and the governing coalition PSD and CDS-PP. In a statement after the President's communication to the country, the Socialists said they will not support such Government and called for early elections. ](/news/2013/07/10/portuguese-political-crisis-2013-the-president-of-portugal-cavaco-silva-calls-for-a-national-salvation-understanding-between-the-three-mai.md)
+### [The President of Portugal Cavaco Silva calls for a national salvation understanding between the three main parties: the Socialists, and the governing coalition PSD and CDS-PP. In a statement after the President's communication to the country, the Socialists said they will not support such Government and called for early elections. ](/news/2013/07/10/the-president-of-portugal-cavaco-silva-calls-for-a-national-salvation-understanding-between-the-three-main-parties-the-socialists-and-the.md)
 President Anibal Cavaco Silva proposed an urgent cross-party agreement between the ruling coalition and opposition Socialists on Wednesday to ensure Portugal can complete adjustments under a bailout by June 2014 before holding early elections.
 
 ## [Previous Day...](/news/2013/07/9/index.md)

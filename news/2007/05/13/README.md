@@ -9,8 +9,8 @@ _Context: China, Dalian, cargo ship_
 ### [ At least one million people gather in Izmir, Turkey for the fifth mass rally to demand their country remain a secular state, stepping up pressure on the Islamist-rooted Justice and Development Party (AKP) government before July elections. ](/news/2007/05/13/at-least-one-million-people-gather-in-adegzmir-turkey-for-the-fifth-mass-rally-to-demand-their-country-remain-a-secular-state-stepping-up-p.md)
 _Context: Islamist, Izmir, July elections, Turkey, fifth mass rally, ruling party, secular state_
 
-### [ Iraq War:: At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/iraq-war-at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md)
-_Context: Iraq War, Kurdistan Democratic Party of Iraq, Makhmur, car bomb_
+### [ At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. ](/news/2007/05/13/at-least-40-people-die-in-a-truck-bomb-attack-on-the-offices-of-the-kurdistan-democratic-party-of-iraq-in-makhmur.md)
+_Context: Kurdistan Democratic Party of Iraq, Makhmur, car bomb_
 
 ### [ NATO confirms that Mullah Dadullah, the foremost military leader of the Taliban, has been killed in battle. ](/news/2007/05/13/nato-confirms-that-mullah-dadullah-the-foremost-military-leader-of-the-taliban-has-been-killed-in-battle.md)
 _Context: Dadullah, NATO, Taliban_

@@ -1,7 +1,7 @@
 ## [2006-12-19](/news/2006/12/19/index.md)
 
 ### [ Somali Civil War: Somalia's Islamic Courts Union (ICU) say they are finalising plans to fight Ethiopian forces deployed in the country as a seven-day ultimatum for Ethiopia to pull out its troops nears its deadline. ](/news/2006/12/19/somali-civil-war-somalia-s-islamic-courts-union-icu-say-they-are-finalising-plans-to-fight-ethiopian-forces-deployed-in-the-country-as-a.md)
-_Context: Ethiopia, Ethiopian war in Somalia, Islamic Courts Union, Somalia, War in Somalia_
+_Context: Ethiopia, Islamic Courts Union, Somali Civil War, Somalia, fight Ethiopian forces_
 
 ### [ Kyrgyz Prime Minister Felix Kulov resigns, automatically dismissing the Ministers of the Kyrgyz government, after political parties throughout the country called on him to resign. Deputy Prime Minister Daniar Usenov says President Kurmanbek Bakiyev should dissolve the Parliament and hold elections. ](/news/2006/12/19/kyrgyz-prime-minister-felix-kulov-resigns-automatically-dismissing-the-ministers-of-the-kyrgyz-government-after-political-parties-through.md)
 _Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, Kyrgyz government, President_
@@ -9,8 +9,8 @@ _Context: Daniar Usenov, Felix Kulov, Kurmanbek Bakiyev, Kyrgyz Prime Minister, 
 ### [ Kazakh President Nursultan Nazarbayev condemns the Iranian government for acting "as the center of growing insecurity in Asia" by supporting terrorism, weapons and drug trafficking, the spread of weapons of mass destruction, and illegal migration. The Foreign Ministry later says news agencies misquoted him. ](/news/2006/12/19/kazakh-president-nursultan-nazarbayev-condemns-the-iranian-government-for-acting-as-the-center-of-growing-insecurity-in-asia-by-supportin.md)
 _Context: Kazakh President, Nursultan Nazarbayev's, Tehran, drug trafficking, terrorism, weapons of mass destruction_
 
-### [ Palestinian civil skirmishes:: Five people have been killed and 12 injured after gun battles erupted between armed Palestinians loyal to Hamas and Fatah in the Gaza Strip. ](/news/2006/12/19/palestinian-civil-skirmishes-five-people-have-been-killed-and-12-injured-after-gun-battles-erupted-between-armed-palestinians-loyal-to-ha.md)
-_Context: Fatah, Gaza Strip, Hamas, Palestinian civil skirmishes, Palestinians_
+### [ Five people have been killed and 12 injured after gun battles erupted between armed Palestinians loyal to Hamas and Fatah in the Gaza Strip. ](/news/2006/12/19/five-people-have-been-killed-and-12-injured-after-gun-battles-erupted-between-armed-palestinians-loyal-to-hamas-and-fatah-in-the-gaza-strip.md)
+_Context: Fatah, Gaza Strip, Hamas, Palestinians_
 
 ### [ Hugo Chvez announces his plans to merge the parties which support the Bolivarian Revolution into the United Socialist Party of Venezuela. ](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.md)
 _Context: Bolivarian Revolution, Hugo Chvez, United Social Party of Venezuela_

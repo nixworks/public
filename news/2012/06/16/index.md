@@ -1,6 +1,6 @@
 ## [2012-06-16](/news/2012/06/16/index.md)
 
-### [Syrian uprising (2011-present):: The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/syrian-uprising-2011-present-the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md)
+### [The United Nations suspends its peacekeeping mission in Syria amid escalating violence. ](/news/2012/06/16/the-united-nations-suspends-its-peacekeeping-mission-in-syria-amid-escalating-violence.md)
 UN observers in Syria suspend their activities because of the escalating violence, the head of the UN Stabilisation Mission in Syria says.
 
 ### [At least 32 people are killed in a car bomb attack targeting Shia Muslims in the Iraqi capital, Baghdad. ](/news/2012/06/16/at-least-32-people-are-killed-in-a-car-bomb-attack-targeting-shia-muslims-in-the-iraqi-capital-baghdad.md)
@@ -16,7 +16,7 @@ The Myanmar activist said the prize helped her keep going in captivity.
 _Context: Gary Barlow, Kate Winslet, Kenneth Branagh, Queen's Birthday Honours_
 
 ### [Coca-Cola returns to Myanmar after 60 years, leaving North Korea and Cuba as the only two countries in the world where the company does not do business. ](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.md)
-_Context: Coca-Cola, Cuba, Myanmar, North Korea_
+_Context: Burmese, Coca-Cola, Cuba, North Korea_
 
 ### [The collapse of a stage intended for a Radiohead concert in the Canadian city of Toronto kills one person. ](/news/2012/06/16/the-collapse-of-a-stage-intended-for-a-radiohead-concert-in-the-canadian-city-of-toronto-kills-one-person.md)
 One person is killed and another seriously hurt after a stage collapses before a Radiohead show in the Canadian city of Toronto.

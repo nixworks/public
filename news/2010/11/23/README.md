@@ -1,6 +1,6 @@
 ## [2010-11-23](/news/2010/11/23/index.md)
 
-### [Shelling of Yeonpyeong:: North Korea shells Yeonpyeong island, South Korea at 14:34 local time in response to South Korean shelling close to the North Korean border during military drills. The North's shelling kills two marines and prompts a military response by the South in one of the most serious clashes since the 1953 armistice of the Korean War. ](/news/2010/11/23/shelling-of-yeonpyeong-north-korea-shells-yeonpyeong-island-south-korea-at-14-34-local-time-in-response-to-south-korean-shelling-close-to.md)
+### [North Korea shells Yeonpyeong island, South Korea at 14:34 local time in response to South Korean shelling close to the North Korean border during military drills. The North's shelling kills two marines and prompts a military response by the South in one of the most serious clashes since the 1953 armistice of the Korean War. ](/news/2010/11/23/north-korea-shells-yeonpyeong-island-south-korea-at-14-34-local-time-in-response-to-south-korean-shelling-close-to-the-north-korean-border.md)
 North and South Korea fire artillery shells across their tense western sea border, in one of the most serious clashes since the Korean War in the 1950s.
 
 ### [The Movement for the Emancipation of the Niger Delta claims responsibility for the destruction of an oil pipeline feeding a refinery in the Niger Delta. ](/news/2010/11/23/the-movement-for-the-emancipation-of-the-niger-delta-claims-responsibility-for-the-destruction-of-an-oil-pipeline-feeding-a-refinery-in-the.md)
@@ -33,7 +33,7 @@ India forms two new army divisions - comprising more than 36,000 men - to defend
 ### [Bangladesh sentences a further 23 soldiers from the Bangladesh Rifles to imprisonment over a mutiny in February 2009. ](/news/2010/11/23/bangladesh-sentences-a-further-23-soldiers-from-the-bangladesh-rifles-to-imprisonment-over-a-mutiny-in-february-2009.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles_
 
-### [The Irish financial crisis:: Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/the-irish-financial-crisis-brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md)
+### [Brian Cowen, the Taoiseach, claims in Dil ireann that he is "not clinging to power". ](/news/2010/11/23/brian-cowen-the-taoiseach-claims-in-dail-eireann-that-he-is-not-clinging-to-power.md)
 Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engaged in an ongoing attempt to cling on to power.
 
 ### [Burmese pro-democracy leader Aung San Suu Kyi is reunited with her son for the first time in a decade. ](/news/2010/11/23/burmese-pro-democracy-leader-aung-san-suu-kyi-is-reunited-with-her-son-for-the-first-time-in-a-decade.md)

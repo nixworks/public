@@ -1,9 +1,9 @@
 ## [2011-06-30](/news/2011/06/30/index.md)
 
-### [Arab Spring:: 2011 Syrian uprising:: The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/arab-spring-2011-syrian-uprising-the-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of.md)
+### [2011 Syrian uprising:The Syrian army kills a man and his 1 year old infant son after they attack his house in the village of al-Bara. ](/news/2011/06/30/2011-syrian-uprising-the-syrian-army-kills-a-man-and-his-1-year-old-infant-son-after-they-attack-his-house-in-the-village-of-al-bara.md)
 Syrian tanks and helicopters opened fire and killed at least two civilians as the military advanced through a series of villages in northwestern Syria Thursday, a push that sent residents running for the hills, a villager told CNN.
 
-### [Afghanistan:: Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/afghanistan-two-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan.md)
+### [Two freed French journalists, Herve Ghesquiere and Stephane Taponier, return to France after being held captive in Afghanistan by the Taliban for 18 months. ](/news/2011/06/30/two-freed-french-journalists-herve-ghesquiere-and-stephane-taponier-return-to-france-after-being-held-captive-in-afghanistan-by-the-taliba.md)
 Herv&#x00E9;&#x20;Ghesqui&#x00E8;re&#x20;and&#x20;St&#x00E9;phane&#x20;Taponier&#x20;have&#x20;arrived&#x20;back&#x20;on&#x20;French&#x20;soil&#x20;after&#x20;18&#x20;months&#x20;captivity&#x20;in&#x20;Afghanistan.&#x20;The&#x20;pair&#x20;were&#x20;greeted&#x20;by&#x20;French&#x20;President&#x20;Nic...
 
 ### [The Pakistani media reports Defence Minister Ahmad Mukhtar as claiming that the United States will no longer be able to use the Shamsi Airfield to launch drone attacks on militants. ](/news/2011/06/30/the-pakistani-media-reports-defence-minister-ahmad-mukhtar-as-claiming-that-the-united-states-will-no-longer-be-able-to-use-the-shamsi-airfi.md)
@@ -27,7 +27,7 @@ _Context: Iraq, Iraq War, Iraqi insurgency, United States_
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
 _Context: Fox News, Glenn Beck_
 
-### [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijing-shanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md)
+### [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md)
 _Context: Beijing-Shanghai High-Speed Railway, China_
 
 ### [The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. ](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.md)
@@ -69,7 +69,7 @@ _Context: 2011 royal tour of Canada, Catherine, Duchess of Cambridge, Duke of Ca
 ### [United States Secretary of State Hillary Clinton is in Budapest today. ](/news/2011/06/30/united-states-secretary-of-state-hillary-clinton-is-in-budapest-today.md)
 _Context: Budapest, Hillary Clinton, United States Secretary of State_
 
-### [Freedom Flotilla II:: Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/freedom-flotilla-ii-israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bo.md)
+### [Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bound-provocation-floti.md)
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.
 
 ### [Taiwanese media reports that former President Lee Teng-hui has been indicted on charges of embezzlement from a state diplomatic fund. ](/news/2011/06/30/taiwanese-media-reports-that-former-president-lee-teng-hui-has-been-indicted-on-charges-of-embezzlement-from-a-state-diplomatic-fund.md)
@@ -93,10 +93,10 @@ _Context: Neil Entwistle_
 ### [Thomas Masuku, a senior judge in Swaziland, is suspended over allegedly insults to King Mswati III. ](/news/2011/06/30/thomas-masuku-a-senior-judge-in-swaziland-is-suspended-over-allegedly-insults-to-king-mswati-iii.md)
 A top judge in Swaziland, Thomas Masuku, has been suspended for allegedly insulting King Mswati III, the chief justice says.
 
-### [Protests against austerity in Greece:: The Greek parliament in Athens holds a second vote on cuts, this one to put in place pay cuts, tax increases, privatisations and redundancies. ](/news/2011/06/30/protests-against-austerity-in-greece-the-greek-parliament-in-athens-holds-a-second-vote-on-cuts-this-one-to-put-in-place-pay-cuts-tax-in.md)
+### [The Greek parliament in Athens holds a second vote on cuts, this one to put in place pay cuts, tax increases, privatisations and redundancies. ](/news/2011/06/30/the-greek-parliament-in-athens-holds-a-second-vote-on-cuts-this-one-to-put-in-place-pay-cuts-tax-increases-privatisations-and-redundancie.md)
 Greek MPs pass a second vote on an unpopular austerity programme, as Athens clears up after two days of strikes and violent protests.
 
-### [Protests against austerity in the UK:: Hundreds of thousands of people go on strike across the United Kingdom in relation to worsening pension conditions being discussed by the government and opposition, while MPs from both the government and opposition condemn them for going on strike. ](/news/2011/06/30/protests-against-austerity-in-the-uk-hundreds-of-thousands-of-people-go-on-strike-across-the-united-kingdom-in-relation-to-worsening-pensi.md)
+### [Hundreds of thousands of people go on strike across the United Kingdom in relation to worsening pension conditions being discussed by the government and opposition, while MPs from both the government and opposition condemn them for going on strike. ](/news/2011/06/30/hundreds-of-thousands-of-people-go-on-strike-across-the-united-kingdom-in-relation-to-worsening-pension-conditions-being-discussed-by-the-go.md)
 Schools, courts and jobcentres are among the services affected across the UK as public sector workers strike against proposed pension changes.
 
 ### [2011 Spanish protests: Riot police in full gear surround scores of "indignados" protesting against austerity, political corruption and rising unemployment and evict them from their six-week encampment in Barcelona's Plaza de Catalunya. ](/news/2011/06/30/2011-spanish-protests-riot-police-in-full-gear-surround-scores-of-indignados-protesting-against-austerity-political-corruption-and-risin.md)

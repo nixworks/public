@@ -1,12 +1,12 @@
 ## [2017-02-13](/news/2017/02/13/index.md)
 
-### [2017 Lahore suicide bombing: At least 13 people, including six police officers, are killed and 85 are injured after a bomb explodes at a protest rally in Lahore, Punjab. The Pakistani Taliban splinter group Jamaat-ul-Ahrar claims responsibility. ](/news/2017/02/13/2017-lahore-suicide-bombing-at-least-13-people-including-six-police-officers-are-killed-and-85-are-injured-after-a-bomb-explodes-at-a-pro.md)
+### [At least 13 people, including six police officers, are killed and 85 are injured after a bomb explodes at a protest rally in Lahore, Punjab. The Pakistani Taliban splinter group Jamaat-ul-Ahrar claims responsibility. ](/news/2017/02/13/at-least-13-people-including-six-police-officers-are-killed-and-85-are-injured-after-a-bomb-explodes-at-a-protest-rally-in-lahore-punjab.md)
 _Context: 2017 Lahore suicide bombing, Jamaat-ul-Ahrar, Lahore, Pakistani Taliban, Punjab, police officers_
 
-### [War in Afghanistan (2015-present): According to a United Nations Assistance Mission in Afghanistan inquiry, 18 civilians in Helmand Province were killed in coalition air raids last Thursday and Friday, with locals and Afghan officials claiming that the death toll is higher. ](/news/2017/02/13/war-in-afghanistan-2015-present-according-to-a-united-nations-assistance-mission-in-afghanistan-inquiry-18-civilians-in-helmand-provin.md)
+### [According to a United Nations Assistance Mission in Afghanistan inquiry, 18 civilians in Helmand Province were killed in coalition air raids last Thursday and Friday, with locals and Afghan officials claiming that the death toll is higher. ](/news/2017/02/13/according-to-a-united-nations-assistance-mission-in-afghanistan-inquiry-18-civilians-in-helmand-province-were-killed-in-coalition-air-raids.md)
 _Context: Helmand Province, Resolute Support, United Nations Assistance Mission in Afghanistan, War in Afghanistan (2015-present)_
 
-### [2017 Oroville Dam crisis: Thousands of people are urged to evacuate in and around the vicinity of Yuba City due to the impending failure of an emergency spillway at Oroville Dam in Northern California. 188,000 people were reported to be evacuated. ](/news/2017/02/13/2017-oroville-dam-crisis-thousands-of-people-are-urged-to-evacuate-in-and-around-the-vicinity-of-yuba-city-due-to-the-impending-failure-of.md)
+### [Thousands of people are urged to evacuate in and around the vicinity of Yuba City due to the impending failure of an emergency spillway at Oroville Dam in Northern California. 188,000 people were reported to be evacuated. ](/news/2017/02/13/thousands-of-people-are-urged-to-evacuate-in-and-around-the-vicinity-of-yuba-city-due-to-the-impending-failure-of-an-emergency-spillway-at-o.md)
 The situation stabilized by Monday morning, but officials remain worried about rain predicted later in the week.
 
 ### [At least four skiers are killed in an avalanche at the Tignes resort in France. ](/news/2017/02/13/at-least-four-skiers-are-killed-in-an-avalanche-at-the-tignes-resort-in-france.md)
@@ -30,7 +30,7 @@ _Context: Keith Kellogg, Michael Flynn, National Security Advisor, Russia, Unite
 ### [Kim Jong-nam, eldest son of Kim Jong-il, is assassinated in Malaysia after two unidentified women reportedly poisoned him at Kuala Lumpur International Airport. ](/news/2017/02/13/kim-jong-nam-eldest-son-of-kim-jong-il-is-assassinated-in-malaysia-after-two-unidentified-women-reportedly-poisoned-him-at-kuala-lumpur-in.md)
 North Korean dictator Kim Jong Un’s half-brother was assassinated Monday in Malaysia, South Korean news agency Yonhap reported early Tuesday, citing a government source.
 
-### [Cabinet of Donald Trump: The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/cabinet-of-donald-trump-the-united-states-senate-in-a-53-47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md)
+### [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md)
 Mnuchin, former head of One West bank, which was embroiled in the foreclosure crisis, was Donald Trump&#x27;s finance director during the campaign.
 
 ## [Previous Day...](/news/2017/02/12/index.md)

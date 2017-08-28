@@ -1,7 +1,7 @@
 ## [2010-05-26](/news/2010/05/26/index.md)
 
 ### [More than 80 students are sickened in a girls' school in Kunduz, Afghanistan, in a poison gas attack suspected to have been carried out by Taliban assailants whose version of Islam is opposed to girls being educated.](/news/2010/05/26/more-than-80-students-are-sickened-in-a-girls-school-in-kunduz-afghanistan-in-a-poison-gas-attack-suspected-to-have-been-carried-out-by-t.md)
-_Context: Afghanistan's, Islam, Kunduz, Taliban, poison gas_
+_Context: Afghanistan's, Kunduz, Muslims, Taliban, poison gas_
 
 ### [International Criminal Court judges tell the UN Security Council that the Sudanese government is protecting suspects wanted for war crimes in Darfur instead of arresting them to face trial. ](/news/2010/05/26/international-criminal-court-judges-tell-the-un-security-council-that-the-sudanese-government-is-protecting-suspects-wanted-for-war-crimes-i.md)
 Judges at the International Criminal Court want action on crimes committed during the Darfur crisis where more than 300,000 have died since 2003
@@ -18,7 +18,7 @@ _Context: Brandenburg, Neisse, Oder, continue to rise_
 ### [Israel launches two night-time air strikes on the Gaza Strip in response to mortar attacks and the detonation of 200&nbsp;kg of explosives laden on a donkey-cart next to the border fence. ](/news/2010/05/26/israel-launches-two-night-time-air-strikes-on-the-gaza-strip-in-response-to-mortar-attacks-and-the-detonation-of-200-nbsp-kg-of-explosives-l.md)
 Israeli jets launch a night time bombing raid on the Gaza strip injuring several people.
 
-### [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were -hijacked, at the hands of the Iranians-; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-hijacked-at-the-hands-of-the-iranians-possibly-r.md)
+### [Palestinian Authority President Mahmoud Abbas condemns Iran, saying his people were "hijacked, at the hands of the Iranians"; possibly referring to Hamas's refusal to reconcile with Fatah on Iran's command by announcing on that it would boycott the Palestinian municipal elections ](/news/2010/05/26/palestinian-authority-president-mahmoud-abbas-condemns-iran-saying-his-people-were-ahijacked-at-the-hands-of-the-iraniansa-possibly-r.md)
 _Context: Fatah, Hamas, Iran, Mahmoud Abbas, Palestinian Authority, Palestinian municipal elections_
 
 ### [Palestinian Authority security forces arrest scores of Hamas officials and supporters in the West Bank a day after Hamas announced that it would boycott the Palestinian municipal elections scheduled for July 17. ](/news/2010/05/26/palestinian-authority-security-forces-arrest-scores-of-hamas-officials-and-supporters-in-the-west-bank-a-day-after-hamas-announced-that-it-w.md)
@@ -27,7 +27,7 @@ _Context: Palestinian Authority, Palestinian municipal elections_
 ### [The chief rabbi of a West Bank settlement declares that women should be prohibited from standing in a local community election. ](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-declares-that-women-should-be-prohibited-from-standing-in-a-local-community-election.md)
 The chief rabbi of a West Bank settlement prohibits women from standing in a local election, saying they must be heard through their husbands.
 
-### [Nuclear program of Iran:: Iranian President Mahmoud Ahmadinejad and Russian President Dmitry Medvedev disagree over Russia's support for United Nations sanctions concerning Iran's nuclear program, with some analysts describing it as the worst row between the countries for several years. ](/news/2010/05/26/nuclear-program-of-iran-iranian-president-mahmoud-ahmadinejad-and-russian-president-dmitry-medvedev-disagree-over-russia-s-support-for-uni.md)
+### [Iranian President Mahmoud Ahmadinejad and Russian President Dmitry Medvedev disagree over Russia's support for United Nations sanctions concerning Iran's nuclear program, with some analysts describing it as the worst row between the countries for several years. ](/news/2010/05/26/iranian-president-mahmoud-ahmadinejad-and-russian-president-dmitry-medvedev-disagree-over-russia-s-support-for-united-nations-sanctions-conc.md)
 Iran and Russia clashed on Wednesday over Kremlin support for draft U.N. sanctions against the Islamic Republic, in one of the worst rows between the two powers since the Cold War.
 
 ### [Lori Berenson is freed on parole after serving 15 years in a Peruvian prison for aiding the Tupac Amaru Revolutionary Movement. ](/news/2010/05/26/lori-berenson-is-freed-on-parole-after-serving-15-years-in-a-peruvian-prison-for-aiding-the-taopac-amaru-revolutionary-movement.md)

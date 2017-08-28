@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Piracy in Somalia: Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/piracy-in-somalia-seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
+1. [Seven Indian sailors are released by pirates after 4 years of captivity. ](/news/2014/10/30/seven-indian-sailors-are-released-by-pirates-after-4-years-of-captivity.md) _Context: India, Somali pirates_
 2. [Somali pirates hijack a Bangladeshi cargo ship off the coast of India. ](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.md) _Context: India, Somali pirates_
 3. [Somali pirates hijack a Liberian ship 80 nautical miles east of the border between Tanzania and Mozambique, in their most southerly attack yet. ](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.md) _Context: Liberia, Somali pirates_
 4. [Somali pirates attack and seize a Liberian tanker with 24 crew on board in the Indian Ocean. ](/news/2010/10/30/somali-pirates-attack-and-seize-a-liberian-tanker-with-24-crew-on-board-in-the-indian-ocean.md) _Context: Liberia, Somali pirates_
@@ -20,4 +20,4 @@
 7. [A Turkish ship is hijacked by Somali pirates more than 1,000 miles away from the coast of Somalia and closer to India. ](/news/2010/03/23/a-turkish-ship-is-hijacked-by-somali-pirates-more-than-1-000-miles-away-from-the-coast-of-somalia-and-closer-to-india.md) _Context: India, Somali pirates_
 8. [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md) _Context: India, Somali pirates_
 9. [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md) _Context: India, Somali pirates_
-10. [ Piracy in Somalia:: The Indian Navy frigate INS "Tabar" destroys a pirate ship and forces the abandonment of another pirate vessel off the coast of Somalia. ](/news/2008/11/19/piracy-in-somalia-the-indian-navy-frigate-ins-tabar-destroys-a-pirate-ship-and-forces-the-abandonment-of-another-pirate-vessel-off-the.md) _Context: India, Somali pirates_
+10. [ The Indian Navy foils an attempt by Somali pirates to hijack a merchant ship in Gulf of Aden. ](/news/2008/11/11/the-indian-navy-foils-an-attempt-by-somali-pirates-to-hijack-a-merchant-ship-in-gulf-of-aden.md) _Context: India, Somali pirates_

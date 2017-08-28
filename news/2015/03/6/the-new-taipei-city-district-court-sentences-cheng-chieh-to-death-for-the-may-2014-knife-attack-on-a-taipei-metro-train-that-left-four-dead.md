@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [2014 Taipei Metro Attack:A knife attack on a Taipei Metro train leaves at least 4 dead and 21 passengers injured. ](/news/2014/05/21/2014-taipei-metro-attack-pa-knife-attack-on-a-taipei-metro-train-leaves-at-least-4-dead-and-21-passengers-injured.md) _Context: 2014 Taipei Metro attack, Taipei Metro_
+1. [A knife attack on a Taipei Metro train leaves at least 4 dead and 21 passengers injured. ](/news/2014/05/21/a-knife-attack-on-a-taipei-metro-train-leaves-at-least-4-dead-and-21-passengers-injured.md) _Context: 2014 Taipei Metro attack, Taipei Metro_

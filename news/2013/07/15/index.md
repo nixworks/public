@@ -1,6 +1,6 @@
 ## [2013-07-15](/news/2013/07/15/index.md)
 
-### [Mexican Drug War: The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/mexican-drug-war-the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md)
+### [The Mexican Army captures Miguel Trevio Morales, the supreme leader of Los Zetas drug cartel. ](/news/2013/07/15/the-mexican-army-captures-miguel-trevino-morales-the-supreme-leader-of-los-zetas-drug-cartel.md)
 U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being leader of notoriously brutal cartel
 
 ### [Militants open fire on a bus carrying workers from a cement factory in Arish, Northern Sinai, Egypt, killing three and injuring 17. The gunfire is believed to have been intended for a police vehicle.](/news/2013/07/15/militants-open-fire-on-a-bus-carrying-workers-from-a-cement-factory-in-arish-northern-sinai-egypt-killing-three-and-injuring-17-the-gunf.md)
@@ -16,7 +16,7 @@ A car bomb explodes north of the Syrian capital Damascus killing at least 13 peo
 _Context: Light Warlpiri_
 
 ### [Asiana Airlines says they will sue Oakland, California television station KTVU for defamation after the station reported the wrong names of the pilots of Asiana Airlines Flight 214. ](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.md)
-_Context: 2013 Asiana Airlines accident, Asiana Airlines, California, KTVU, Oakland, California, defamation_
+_Context: Asiana Airlines, Asiana Airlines Flight 214, California, KTVU, Oakland, California, defamation_
 
 ### [Loblaw Companies Limited, one of Canada's largest supermarket chain owners, agrees to purchase Canada's largest pharmacy retailer Shoppers Drug Mart for almost $12.4 Billion dollars. ](/news/2013/07/15/loblaw-companies-limited-one-of-canada-s-largest-supermarket-chain-owners-agrees-to-purchase-canada-s-largest-pharmacy-retailer-shoppers-d.md)
 _Context: Loblaw Companies Limited, Shoppers Drug Mart_

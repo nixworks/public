@@ -1,6 +1,6 @@
 ## [2013-02-3](/news/2013/02/3/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):: At least 33 people are killed in Kirkuk, Iraq, when a suicide bomber detonates a truck packed with explosives outside a police headquarters and gunmen disguised as officers tried to storm the compound. ](/news/2013/02/3/iraqi-insurgency-post-u-s-withdrawal-at-least-33-people-are-killed-in-kirkuk-iraq-when-a-suicide-bomber-detonates-a-truck-packed-with.md)
+### [At least 33 people are killed in Kirkuk, Iraq, when a suicide bomber detonates a truck packed with explosives outside a police headquarters and gunmen disguised as officers tried to storm the compound. ](/news/2013/02/3/at-least-33-people-are-killed-in-kirkuk-iraq-when-a-suicide-bomber-detonates-a-truck-packed-with-explosives-outside-a-police-headquarters.md)
 At least 33 people were killed in the Iraqi city of Kirkuk on Sunday when a suicide bomber detonated a truck packed with explosives outside a police headquarters and gunmen disguised as officers tried to storm the compound.
 
 ### [Paraguayan politician and presidential candidate Lino Oviedo is killed in a helicopter crash near Puerto Antequera in the Chaco region. ](/news/2013/02/3/paraguayan-politician-and-presidential-candidate-lino-oviedo-is-killed-in-a-helicopter-crash-near-puerto-antequera-in-the-chaco-region.md)

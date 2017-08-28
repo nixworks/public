@@ -1,6 +1,6 @@
 ## [2013-06-20](/news/2013/06/20/index.md)
 
-### [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeli-palestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md)
+### [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeliapalestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md)
 A United Nations human rights body accused Israeli forces on Thursday of mistreating Palestinian children, including by torturing those in custody and using others as human shields.
 
 ### [Instagram announces that users will be able to upload videos to the service. ](/news/2013/06/20/instagram-announces-that-users-will-be-able-to-upload-videos-to-the-service.md)

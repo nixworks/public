@@ -27,8 +27,8 @@ _Context: Cancun, China, G4 bloc, IBSA Dialogue Forum, India, Mexico, New Delhi,
 ### [Dutch football club HFC Haarlem, national champion in 1946, is declared bankrupt, becoming the first Dutch professional club to be disestablished since FC Wageningen and VCV Zeeland in 1992. ](/news/2010/01/25/dutch-football-club-hfc-haarlem-national-champion-in-1946-is-declared-bankrupt-becoming-the-first-dutch-professional-club-to-be-disestabl.md)
 _Context: 1992, Dutch professional club, FC Wageningen, HFC Haarlem, Netherlands, VCV Zeeland, association football, national champion_
 
-### [Iraq:: Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/iraq-ali-hassan-al-majid-known-as-chemical-ali-is-executed.md)
-_Context: Ali Hassan al-Majid, Iraq_
+### [Ali Hassan al-Majid, known as "Chemical Ali", is executed. ](/news/2010/01/25/ali-hassan-al-majid-known-as-chemical-ali-is-executed.md)
+_Context: Ali Hassan al-Majid_
 
 ### [Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. ](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.md)
 Military reportedly planning to free opposition leader from house arrest.

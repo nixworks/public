@@ -1,9 +1,9 @@
 ## [2013-04-18](/news/2013/04/18/index.md)
 
-### [Boston Marathon bombings:: U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/boston-marathon-bombings-u-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md)
+### [U.S. President Barack Obama visits the city of Boston in the wake of the recent marathon bombings. ](/news/2013/04/18/u-s-president-barack-obama-visits-the-city-of-boston-in-the-wake-of-the-recent-marathon-bombings.md)
 President Obama vowed Thursday that Americans will move beyond the Boston Marathon bomb attack by bringing the perpetrators to justice -- and by refusing to live in fear. &ldquo;Yes, we will find...
 
-### [Iraqi insurgency (post-U.S. withdrawal):: 18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/iraqi-insurgency-post-u-s-withdrawal-18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injur.md)
+### [18 April 2013 Baghdad bombing: At least 27 people, including two children, are killed and 65 injured in a bomb attack on a cafe in the Iraqi capital Baghdad. ](/news/2013/04/18/18-april-2013-baghdad-bombing-at-least-27-people-including-two-children-are-killed-and-65-injured-in-a-bomb-attack-on-a-cafe-in-the-iraqi.md)
 At least 27 people, including two children, have been killed and scores hurt in a bomb attack on a cafe in the Iraqi capital Baghdad, officials say.
 
 ### [Prominent Hillsborough disaster justice campaigner Anne Williams dies from cancer, having made her last public appearance at Anfield's recent 24th anniversary memorial. ](/news/2013/04/18/prominent-hillsborough-disaster-justice-campaigner-anne-williams-dies-from-cancer-having-made-her-last-public-appearance-at-anfield-s-recen.md)
@@ -18,10 +18,10 @@ _Context: Australia, China, Craig Emerson, Trade Minister, free trade talks, sta
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
 _Context: Viacom, YouTube, copyright infringement_
 
-### [West Fertilizer Company explosion:: 15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/west-fertilizer-company-explosion-15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
+### [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
 Emergency services search for survivors after a deadly blast at a fertiliser plant in the US state of Texas, with firefighters among the missing.
 
-### [2013 Korean crisis:: North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/2013-korean-crisis-north-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-state.md)
+### [North Korea demands an end to United Nations sanctions on the country as a condition for dialogue with the United States. ](/news/2013/04/18/north-korea-demands-an-end-to-united-nations-sanctions-on-the-country-as-a-condition-for-dialogue-with-the-united-states.md)
 North Korea offered the United States and South Korea a list of conditions on Thursday for talks, including the lifting of U.N. sanctions, signaling a possible end to weeks of warlike hostility on the Korean peninsula.
 
 ### [A Pakistani court issues an arrest warrant for former President Pervez Musharraf in connection with the house arrest of judges in 2007. ](/news/2013/04/18/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-in-connection-with-the-house-arrest-of-judges-in-2007.md)

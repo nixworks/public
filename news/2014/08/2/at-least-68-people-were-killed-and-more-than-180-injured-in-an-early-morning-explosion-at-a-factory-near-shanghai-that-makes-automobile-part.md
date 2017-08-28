@@ -11,7 +11,7 @@ At least 68 people were killed in an early morning explosion at a factory near S
 
 ### Related:
 
-1. [China's state-run ''Global Times'' newspaper reports the launching of the first Type 055 destroyer, a 10,000-ton "new generation" warship, at the Jiangnan Shipyard in Shanghai. ](/news/2017/06/28/china-s-state-run-global-times-newspaper-reports-the-launching-of-the-first-type-055-destroyer-a-10-000-ton-new-generation-warship-a.md) _Context: Shanghai_
+1. [China's state-run "Global Times" newspaper reports the launching of the first Type 055 destroyer, a 10,000-ton "new generation" warship, at the Jiangnan Shipyard in Shanghai. ](/news/2017/06/28/china-s-state-run-global-times-newspaper-reports-the-launching-of-the-first-type-055-destroyer-a-10-000-ton-new-generation-warship-at.md) _Context: Shanghai_
 2. [General Motors halts production in Venezuela after the government seizes its plants. ](/news/2017/04/20/general-motors-halts-production-in-venezuela-after-the-government-seizes-its-plants.md) _Context: General Motors_
 3. [General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. ](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-after-a-defect-in-the-software-for-the-airbag-led-to-one-fatality.md) _Context: General Motors_
 4. [General Motors acquires Cruise Automation, a three-year old software company that's been testing self-driving cars on the streets of San Francisco. ](/news/2016/03/11/general-motors-acquires-cruise-automation-a-three-year-old-software-company-that-s-been-testing-self-driving-cars-on-the-streets-of-san-fra.md) _Context: General Motors_

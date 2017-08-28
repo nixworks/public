@@ -9,8 +9,8 @@ _Context: 2008, 25 October, Basque, Juan Jos Ibarretxe, Lehendakari, planned ref
 ### [ Richard Garriott, famed game designer and son of former NASA Skylab astronaut Owen Garriott, will become the sixth space tourist, visiting the International Space Station in 2008. ](/news/2007/09/28/richard-garriott-famed-game-designer-and-son-of-former-nasa-skylab-astronaut-owen-garriott-will-become-the-sixth-space-tourist-visiting.md)
 _Context: International Space Station, Owen Garriott, Richard Garriott, commercial space flights_
 
-### [ 2007 Burmese anti-government protests:: There are reports that Burmese troops from middle Myanmar have started to march towards Yangon. The reported troops are from the Central Command based in Taungoo and the South East Command. ](/news/2007/09/28/2007-burmese-anti-government-protests-there-are-reports-that-burmese-troops-from-middle-myanmar-have-started-to-march-towards-yangon-the.md)
-_Context: 2007 Burmese anti-government protests, Taungoo_
+### [ There are reports that Burmese troops from middle Myanmar have started to march towards Yangon. The reported troops are from the Central Command based in Taungoo and the South East Command. ](/news/2007/09/28/there-are-reports-that-burmese-troops-from-middle-myanmar-have-started-to-march-towards-yangon-the-reported-troops-are-from-the-central-co.md)
+_Context: Taungoo_
 
 ## [Previous Day...](/news/2007/09/27/index.md)
 

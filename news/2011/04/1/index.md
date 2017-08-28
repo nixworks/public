@@ -1,9 +1,9 @@
 ## [2011-04-1](/news/2011/04/1/index.md)
 
-### [Arab Spring:: 2011 Libyan civil war:: An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/arab-spring-2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-londo.md)
+### [2011 Libyan civil war:An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. ](/news/2011/04/1/2011-libyan-civil-war-an-envoy-of-muammar-gaddafi-is-reported-to-have-been-seen-gossiping-with-officials-on-a-visit-to-london-england.md)
 A Libyan envoy representing Colonel Gaddafi has been in London in the past few days for talks with British officials, the BBC understands.
 
-### [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010-2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md)
+### [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010a2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Ivory Coast, Laurent Gbagbo, President of the Ivory Coast_
 
 ### [The Turkish army kills seven PKK rebels who crossed the border from Syria. ](/news/2011/04/1/the-turkish-army-kills-seven-pkk-rebels-who-crossed-the-border-from-syria.md)
@@ -21,8 +21,8 @@ German polar bear Knut drowned when he fell into a pool of water in his enclosur
 ### [Penelope Cruz becomes the first Spanish actress to receive a star in the Hollywood Walk of Fame](/news/2011/04/1/pena-c-lope-cruz-becomes-the-first-spanish-actress-to-receive-a-star-in-the-hollywood-walk-of-fame.md)
 _Context: Hollywood Walk of Fame, Penelope Cruz_
 
-### [Ireland's government agrees to bank bailout number five, valued at -24 billion, and does not force senior bondholders into burden-sharing. ](/news/2011/04/1/ireland-s-government-agrees-to-bank-bailout-number-five-valued-at-24-billion-and-does-not-force-senior-bondholders-into-burden-sharing.md)
-### [It is revealed that chief executive of nationalised Anglo Irish Bank Mike Aynsley received -1 million, including a "housing allowance" for his second home in Australia, while the bank admits billions were squandered last year in the biggest corporate loss in the country's history. ](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationalised-anglo-irish-bank-mike-aynsley-received-1-million-including-a-housing-allowance-for.md)
+### [Ireland's government agrees to bank bailout number five, valued at EUR24 billion, and does not force senior bondholders into burden-sharing. ](/news/2011/04/1/ireland-s-government-agrees-to-bank-bailout-number-five-valued-at-a-24-billion-and-does-not-force-senior-bondholders-into-burden-sharing.md)
+### [It is revealed that chief executive of nationalised Anglo Irish Bank Mike Aynsley received EUR1 million, including a "housing allowance" for his second home in Australia, while the bank admits billions were squandered last year in the biggest corporate loss in the country's history. ](/news/2011/04/1/it-is-revealed-that-chief-executive-of-nationalised-anglo-irish-bank-mike-aynsley-received-a-1-million-including-a-housing-allowance-for.md)
 _Context: Anglo Irish Bank_
 
 ### [Microsoft lodged an antitrust complaint against Google with the European Commission. ](/news/2011/04/1/microsoft-lodged-an-antitrust-complaint-against-google-with-the-european-commission.md)

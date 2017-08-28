@@ -6,7 +6,7 @@ News - Your daily dose of information: European and International latest breakin
 ### [The United Nations Human Rights Council authorises an international investigation into alleged war crimes during the Sri Lankan Civil War. ](/news/2014/03/27/the-united-nations-human-rights-council-authorises-an-international-investigation-into-alleged-war-crimes-during-the-sri-lankan-civil-war.md)
 Human Rights Council authorises international criminal probe of alleged atrocities during civil war that ended in 2009.
 
-### [2014 Ukrainian revolution:: The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/2014-ukrainian-revolution-the-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-t.md)
+### [The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. ](/news/2014/03/27/the-interim-government-of-ukraine-agrees-to-increase-natural-gas-prices-for-domestic-consumers-by-50-in-order-to-secure-an-aid-package-from.md)
 As prime minister warns Ukrainians of pain ahead, IMF pledges $18B to prop up sinking economy
 
 ### [Pharmaceutical company Baxter International announces will split into two by mid 2015. ](/news/2014/03/27/pharmaceutical-company-baxter-international-announces-will-split-into-two-by-mid-2015.md)
@@ -18,13 +18,13 @@ _Context:  Moscow-based, High Court, London Metal Exchange, Rusal_
 ### [Canada's Atlantic seaboard provinces brace for a spring blizzard that is predicted to be the worst storm in a decade. ](/news/2014/03/27/canada-s-atlantic-seaboard-provinces-brace-for-a-spring-blizzard-that-is-predicted-to-be-the-worst-storm-in-a-decade.md)
 Powerful blizzards have blasted across Canada&#039;s Atlantic coast as high winds and snowfall kept many residents indoors.
 
-### [Holy See-United States relations:: President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/holy-see-united-states-relations-president-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inaugu.md)
+### [President of the United States Barack Obama meets Pope Francis for the first time since Francis' inauguration. ](/news/2014/03/27/president-of-the-united-states-barack-obama-meets-pope-francis-for-the-first-time-since-francis-inauguration.md)
 VATICAN CITY -- Greeting a man he has called an “inspiration,” President Obama paid his first visit to Pope Francis on Thursday, opening a meeting the White House hopes will highlight the leaders’ shared views on economic inequality and poverty and perhaps drown out the president’s conflicts...
 
-### [2014 Crimean crisis:: The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/2014-crimean-crisis-the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
-_Context: 2014 Crimean crisis, Crimea, General Assembly of the United Nations, Russia_
+### [The General Assembly of the United Nations passes a motion condemning the Russian annexation of Crimea. ](/news/2014/03/27/the-general-assembly-of-the-united-nations-passes-a-motion-condemning-the-russian-annexation-of-crimea.md)
+_Context: Crimea, General Assembly of the United Nations, Russia_
 
-### [Garda phone tapping scandal:: As the scandal rages on, it emerges Martin Callinan, who resigned as Garda Commissioner this week, wished to withdraw his use of the word "disgusting" to describe the behaviour of whistleblowers but was prevented from doing so by officials in the Department of Justice. ](/news/2014/03/27/garda-phone-tapping-scandal-as-the-scandal-rages-on-it-emerges-martin-callinan-who-resigned-as-garda-commissioner-this-week-wished-to-w.md)
+### [As the scandal rages on, it emerges Martin Callinan, who resigned as Garda Commissioner this week, wished to withdraw his use of the word "disgusting" to describe the behaviour of whistleblowers but was prevented from doing so by officials in the Department of Justice. ](/news/2014/03/27/as-the-scandal-rages-on-it-emerges-martin-callinan-who-resigned-as-garda-commissioner-this-week-wished-to-withdraw-his-use-of-the-word-d.md)
 The former garda commissioner delayed withdrawing his use of the word &quot;disgusting&quot; to describe the behaviour of whistleblowers following advice from Department of Justice officials, according to sources.
 
 ### [Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict. The Comprehensive Agreement on Bangsamoro will pave way for autonomous Bangsamoro. ](/news/2014/03/27/philippines-signs-a-peace-accord-with-the-largest-muslim-rebel-group-the-moro-islamic-liberation-front-ending-decades-of-conflict-the-com.md)

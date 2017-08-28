@@ -1,15 +1,15 @@
 ## [2015-01-26](/news/2015/01/26/index.md)
 
-### [Islamic State of Iraq and the Levant: Kurdish fighters recapture at least 90% of Kobani, Syria. ](/news/2015/01/26/islamic-state-of-iraq-and-the-levant-kurdish-fighters-recapture-at-least-90-of-kobana-r-syria.md)
-_Context: Islamic State of Iraq and the Levant, Kobani, Syria, YPG, recapture_
+### [Kurdish fighters recapture at least 90% of Kobani, Syria. ](/news/2015/01/26/kurdish-fighters-recapture-at-least-90-of-kobana-r-syria.md)
+_Context: ISIL, Kobani, Syria, YPG, recapture_
 
 ### [India honors billionaire philanthropist Bill Gates and his wife Melinda with the Padma Bhushan award for their work on improving health in developing countries. ](/news/2015/01/26/india-honors-billionaire-philanthropist-bill-gates-and-his-wife-melinda-with-the-padma-bhushan-award-for-their-work-on-improving-health-in-d.md)
 India conferred one of its highest civilian awards on billionaire philanthropist and Microsoft co-founder Bill Gates and his wife Melinda for their work to improve health in developing countries.
 
-### [2014-15 Russian financial crisis: Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/2014-15-russian-financial-crisis-standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling.md)
+### [Standard & Poor's ratings agency cuts Russia's credit rating to junk status due to the impact of falling oil prices and sanctions. ](/news/2015/01/26/standard-poor-s-ratings-agency-cuts-russia-s-credit-rating-to-junk-status-due-to-the-impact-of-falling-oil-prices-and-sanctions.md)
 _Context: 2014-15 Russian financial crisis, Standard & Poor's, junk bond_
 
-### [January 2015 nor'easter: The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/january-2015-nor-easter-the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-t.md)
+### [The blizzard begins as an ongoing winter storm across the Central and Eastern United States. States of New Jersey through New York and New England enact blizzard warnings. ](/news/2015/01/26/the-blizzard-begins-as-an-ongoing-winter-storm-across-the-central-and-eastern-united-states-states-of-new-jersey-through-new-york-and-new-e.md)
 Watch scenes from across America&#039;s East Coast as Winter Storm Juno causes travel chaos
 
 ### [An F-16 jet belonging to the Hellenic Air Force crashes in southern Spain during a NATO exercise, killing ten people and injuring 21. ](/news/2015/01/26/an-f-16-jet-belonging-to-the-hellenic-air-force-crashes-in-southern-spain-during-a-nato-exercise-killing-ten-people-and-injuring-21.md)

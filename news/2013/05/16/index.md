@@ -1,16 +1,16 @@
 ## [2013-05-16](/news/2013/05/16/index.md)
 
-### [War in Afghanistan (2001-present):: Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/war-in-afghanistan-2001-present-many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in.md)
-_Context: Afghanistan's, Hizb-i-Islami, Kabul, War in Afghanistan (2001-present), suicide bombing_
+### [Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. ](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-in-afghanistan-at-least-fifteen-of-which-are-killed-in-the-capital-kabul-when-a-suicide-bomb.md)
+_Context: Afghanistan's, Hizb-i-Islami, Kabul, suicide bombing_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/iraqi-insurgency-post-u-s-withdrawal-seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
+### [Seventeen people are killed when car bombs detonate and gunman attack people in Baghdad, Iraq. ](/news/2013/05/16/seventeen-people-are-killed-when-car-bombs-detonate-and-gunman-attack-people-in-baghdad-iraq.md)
 Spike in violence comes amid tensions between the Shiite-led government and Sunni minority.
 
 ### [Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. ](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.md)
 _Context: Egypt, Sinai_
 
-### [Nigerian Sharia conflict:: The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/nigerian-sharia-conflict-the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
-_Context: Adamawa State, Nigerian Sharia conflict_
+### [The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
+_Context: Adamawa State_
 
 ### [The American adaptation of the television series "The Office" airs its last episode on the National Broadcasting Company after nine seasons. ](/news/2013/05/16/the-american-adaptation-of-the-television-series-the-office-airs-its-last-episode-on-the-national-broadcasting-company-after-nine-seasons.md)
 _Context: NBC, The Office_
@@ -42,7 +42,7 @@ WASHINGTON -- The U.S. Treasury Department announced new sanctions against the S
 ### [Pope Francis calls for worldwide "financial reform along ethical lines" to fight the "tyranny [of] financial speculation". ](/news/2013/05/16/pope-francis-calls-for-worldwide-financial-reform-along-ethical-lines-to-fight-the-tyranny-of-financial-speculation.md)
 Vatican Bank says it will launch its own website as well as publish annual report 
 
-### [Two brothers are arrested in connection with the Mother-s Day parade shooting that wounded 20 in New Orleans. ](/news/2013/05/16/two-brothers-are-arrested-in-connection-with-the-mother-s-day-parade-shooting-that-wounded-20-in-new-orleans.md)
+### [Two brothers are arrested in connection with the Mother's Day parade shooting that wounded 20 in New Orleans. ](/news/2013/05/16/two-brothers-are-arrested-in-connection-with-the-motheras-day-parade-shooting-that-wounded-20-in-new-orleans.md)
 Two brothers, who belong to a New Orleans gang, have been charged with opening fire at a Mother&#39;s Day parade in New Orleans where 20 people were shot.
 
 ### [Rolf Wolff, president of the Stockholm School of Economics, is fired amidst a scandal where he promoted a convicted insider trader for a top position at the university and allegedly he lied about his academic credentials. ](/news/2013/05/16/rolf-wolff-president-of-the-stockholm-school-of-economics-is-fired-amidst-a-scandal-where-he-promoted-a-convicted-insider-trader-for-a-top.md)

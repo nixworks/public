@@ -16,7 +16,7 @@ _Context: Arifur Rahman, Bangladesh, Muhammad, Prothom Alo, caricature, cartooni
 _Context: Avian flu virus, China, Guangzhou_
 
 ### [ More than 1,000 Buddhist monks march peacefully in Myanmar as part of a wave of anti-government protests. The marches are dispersed using teargas. ](/news/2007/09/18/more-than-1-000-buddhist-monks-march-peacefully-in-myanmar-as-part-of-a-wave-of-anti-government-protests-the-marches-are-dispersed-using-t.md)
-_Context: Buddhists, Myanmar, monk, teargas_
+_Context: Buddhists, Burmese, monk, teargas_
 
 ### [ The Bank of England injects GBP4.4 billion of liquidity into the U.K. Financial System as a response to the Subprime Mortgage Financial Crisis, after GBP2 billion of deposits are removed from the Northern Rock bank in the three days after it applied for emergency funding from the Bank. ](/news/2007/09/18/the-bank-of-england-injects-gbp4-4-billion-of-liquidity-into-the-u-k-financial-system-as-a-response-to-the-subprime-mortgage-financial-cri.md)
 _Context: 2007 subprime mortgage financial crisis, Bank of England, Northern Rock_

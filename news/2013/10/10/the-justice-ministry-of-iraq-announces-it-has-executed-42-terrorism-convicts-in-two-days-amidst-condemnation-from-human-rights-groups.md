@@ -11,4 +11,4 @@ Latest executions bring number of prisoners hanged this year to 132, as rights g
 
 ### Related:
 
-1. [Iraqi insurgency (post-U.S. withdrawal):: A string of coordinated car bombs and suicide bombers strike central Baghdad, followed by a militant attack on the Justice Ministry building. At least 25 people are killed, including 7 police officers and 3 militants, along with 50 wounded. ](/news/2013/03/14/iraqi-insurgency-post-u-s-withdrawal-a-string-of-coordinated-car-bombs-and-suicide-bombers-strike-central-baghdad-followed-by-a-milita.md) _Context: Justice Ministry of Iraq_
+1. [A string of coordinated car bombs and suicide bombers strike central Baghdad, followed by a militant attack on the Justice Ministry building. At least 25 people are killed, including 7 police officers and 3 militants, along with 50 wounded. ](/news/2013/03/14/a-string-of-coordinated-car-bombs-and-suicide-bombers-strike-central-baghdad-followed-by-a-militant-attack-on-the-justice-ministry-building.md) _Context: Justice Ministry of Iraq_

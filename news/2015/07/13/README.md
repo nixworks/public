@@ -3,10 +3,10 @@
 ### [Burundi's army kills 31 suspected rebels and captures 170 others in fighting in the country's north. ](/news/2015/07/13/burundi-s-army-kills-31-suspected-rebels-and-captures-170-others-in-fighting-in-the-country-s-north.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Saudi-led military intervention in Yemen (2015-present): An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/saudi-led-military-intervention-in-yemen-2015-present-an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa.md)
+### [An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa-the-capital-of-yemen-last-week-a-ceasefire-agreement-was.md)
 _Context: Sanaa, Saudi Arabia, Saudi-led military intervention in Yemen (2015-present), Yemen_
 
-### [timeline: Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/timeline-eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md)
+### [Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md)
 As it happens: The latest news, views and analysis from the BBC and beyond.
 
 ### [All the missing 42 people have been found following the collapse of a Russian Army barracks in the Omsk Oblast of southwestern Siberia with 23 deaths. ](/news/2015/07/13/all-the-missing-42-people-have-been-found-following-the-collapse-of-a-russian-army-barracks-in-the-omsk-oblast-of-southwestern-siberia-with.md)
@@ -39,7 +39,7 @@ CINCINNATI — A federal judge on Monday found the Deer Park man who threatened 
 ### [Dutch Finance Minister Jeroen Dijsselbloem was re-elected president of the Eurogroup for a second term. ](/news/2015/07/13/dutch-finance-minister-jeroen-dijsselbloem-was-re-elected-president-of-the-eurogroup-for-a-second-term.md)
 Dutch Finance Minister Jeroen Dijsselbloem was re-elected on Monday as president of the Eurogroup of euro zone finance ministers, EU officials said in a statement.
 
-### [United States presidential election, 2016: Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/united-states-presidential-election-2016-scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-n.md)
+### [Scott Walker, the Governor of Wisconsin, announces that he will be seeking the Republican Party nomination. ](/news/2015/07/13/scott-walker-the-governor-of-wisconsin-announces-that-he-will-be-seeking-the-republican-party-nomination.md)
 Wisconsin Gov. Scott Walker made his long-expected White House run official Monday morning, tweeting that he will seek the GOP nomination for president.
 
 ## [Previous Day...](/news/2015/07/12/index.md)

@@ -9,7 +9,7 @@ _Context: 2008 Chinese milk scandal, China, Hong Kong, Japan, breakfast cereal, 
 ### [ German commandos storm a KLM airliner at Cologne-Bonn Airport and arrest two men suspected of planning to carry out a terrorist attack. ](/news/2008/09/26/german-commandos-storm-a-klm-airliner-at-cologne-bonn-airport-and-arrest-two-men-suspected-of-planning-to-carry-out-a-terrorist-attack.md)
 _Context: Cologne-Bonn Airport, Germany, KLM, airliner, commando, terrorism_
 
-### [ Subprime mortgage crisis:: In the biggest bank failure in American history, the Federal Deposit Insurance Corporation seizes Washington Mutual and sells most of the bank to JPMorgan Chase. ](/news/2008/09/26/subprime-mortgage-crisis-in-the-biggest-bank-failure-in-american-history-the-federal-deposit-insurance-corporation-seizes-washington-mut.md)
+### [ In the biggest bank failure in American history, the Federal Deposit Insurance Corporation seizes Washington Mutual and sells most of the bank to JPMorgan Chase. ](/news/2008/09/26/in-the-biggest-bank-failure-in-american-history-the-federal-deposit-insurance-corporation-seizes-washington-mutual-and-sells-most-of-the-b.md)
 Washington Mutual was seized by federal regulators in what is the largest bank failure in American history.
 
 ### [ A Ukrainian vessel carrying 30 T-72 tanks is captured by pirates 200 miles off Somalian coast. Russia sends its military ship to combat piracy in Somalia. ](/news/2008/09/26/a-ukrainian-vessel-carrying-30-t-72-tanks-is-captured-by-pirates-200-miles-off-somalian-coast-russia-sends-its-military-ship-to-combat-pir.md)

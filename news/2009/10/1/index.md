@@ -6,7 +6,7 @@ _Context: Organization of American States, Venezuela, hunger strike_
 ### [ Ateke Tom, militant leader of the Niger Delta Vigilante in the Niger Delta region, accepts an amnesty by the Nigerian government. ](/news/2009/10/1/ateke-tom-militant-leader-of-the-niger-delta-vigilante-in-the-niger-delta-region-accepts-an-amnesty-by-the-nigerian-government.md)
 THREE days to the deadline for militants in the Niger-Delta to lay down their arms and embrace the Presidential Amnesty granted by the Federal Government, President Umaru Yarâ€™Adua yesterday received one of the key militants, leader of the Niger-Delta Vigilante and Patriotic Force (NDVPF), Mr ...
 
-### [ Treaty of Lisbon:: Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/treaty-of-lisbon-ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-euro.md)
+### [ Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". ](/news/2009/10/1/ahead-of-the-second-irish-referendum-on-the-treaty-of-lisbon-the-vatican-issues-a-warning-to-irish-voters-that-the-european-union-threaten.md)
 The Vatican has made an unexpected last-minute intervention on the eve of Ireland&#039;s Lisbon Treaty referendum with a warning the European Union threatens the country&#039;s &#034;identity, traditions and history&#034;.
 
 ### [ The International Monetary Fund says the global economy is "recovering faster than expected", raising its forecast for global growth to 3.1% for 2010, up from 2.5%. ](/news/2009/10/1/the-international-monetary-fund-says-the-global-economy-is-recovering-faster-than-expected-raising-its-forecast-for-global-growth-to-3-1.md)
@@ -31,7 +31,7 @@ Ruling coalition breaks up as Social Democrats quit to protest sacking of minist
 Opposition leaders say the call is a tactic to divert attention from crackdown on protesters.
 
 ### [ 12 people are killed in fighting between rival Islamist groups for control of the port city of Kismayo in southern Somalia. ](/news/2009/10/1/12-people-are-killed-in-fighting-between-rival-islamist-groups-for-control-of-the-port-city-of-kismayo-in-southern-somalia.md)
-_Context: Islam, Kismayo, Somalia, port_
+_Context: Kismayo, Muslims, Somalia, port_
 
 ### [ Paleontologists announced the discovery of an "Ardipithecus ramidus" fossil skeleton, deeming it the oldest fossil skeleton of a human ancestor. ](/news/2009/10/1/paleontologists-announced-the-discovery-of-an-ardipithecus-ramidus-fossil-skeleton-deeming-it-the-oldest-fossil-skeleton-of-a-human-ance.md)
 Scientists said that Ardi, short for Ardipithecus ramidus, was the earliest known skeleton from the human branch of the primate family tree.
@@ -43,7 +43,7 @@ _Context: Dow Jones_
 The military will open a campaign against the Taliban’s main stronghold in the tribal areas, South Waziristan.
 
 ### [ The Netherlands Antilles agrees to disband on October 10, 2010. Bonaire, St. Eustatius and Saba will become Dutch municipalities within the Netherlands, whereas Curaao and Sint Maarten will become self-governing countries within the Kingdom of the Netherlands. ](/news/2009/10/1/the-netherlands-antilles-agrees-to-disband-on-october-10-2010-bonaire-st-eustatius-and-saba-will-become-dutch-municipalities-within-the.md)
-_Context: Bonaire, Curaao, Dissolution of the Netherlands Antilles, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Maarten, St Eustatius_
+_Context: Bonaire, Curaao, Dutch municipalities, Kingdom of the Netherlands, Netherlands, Netherlands Antilles, Saba, Sint Maarten, St Eustatius, disband_
 
 ## [Previous Day...](/news/2009/09/30/index.md)
 

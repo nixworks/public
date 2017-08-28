@@ -1,12 +1,12 @@
 ## [2015-01-8](/news/2015/01/8/index.md)
 
-### ["Charlie Hebdo" shooting: One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mezieres while the other two suspects are still at large. ](/news/2015/01/8/charlie-hebdo-shooting-one-of-the-suspects-in-the-killings-hamyd-mourad-voluntarily-surrenders-to-police-in-charleville-ma-c-zia-res-whil.md)
+### [One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mezieres while the other two suspects are still at large. ](/news/2015/01/8/one-of-the-suspects-in-the-killings-hamyd-mourad-voluntarily-surrenders-to-police-in-charleville-ma-c-zia-res-while-the-other-two-suspects-a.md)
 After the attack on &#039;Charlie Hebdo,&#039; France’s Muslims brace for backlash and keep their distance.
 
-### [2015 Baga massacre: Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State, which is the worst-affected by the insurgency. ](/news/2015/01/8/2015-baga-massacre-boko-haram-militants-raze-the-entire-town-of-baga-in-north-east-nigeria-bodies-lay-strewn-on-baga-s-streets-with-as-man.md)
+### [Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State, which is the worst-affected by the insurgency. ](/news/2015/01/8/boko-haram-militants-raze-the-entire-town-of-baga-in-north-east-nigeria-bodies-lay-strewn-on-baga-s-streets-with-as-many-as-2-000-people-ha.md)
 Bodies lay strewn on the streets of a key north-eastern Nigerian town following on-going raids by militant Islamists, officials tells the BBC.
 
-### [Iraqi insurgency (2011-present): A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/iraqi-insurgency-2011-present-a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md)
+### [A suicide bomber targets a police checkpoint in the town of Youssifiyah, killing seven people. ](/news/2015/01/8/a-suicide-bomber-targets-a-police-checkpoint-in-the-town-of-youssifiyah-killing-seven-people.md)
 _Context: Iraqi insurgency (2011-present), Youssifiyah, suicide bomber_
 
 ### [Dunkin' Donuts signs a franchise agreement for 1,400 new cafes in China by the year 2035. ](/news/2015/01/8/dunkin-donuts-signs-a-franchise-agreement-for-1-400-new-cafes-in-china-by-the-year-2035.md)
@@ -33,7 +33,7 @@ The government says it is fining Honda $70 million for not reporting to safety r
 ### [Brunei officially bans all future public celebrations of Christmas, in accordance with its conservative Islamic law Shariah. ](/news/2015/01/8/brunei-officially-bans-all-future-public-celebrations-of-christmas-in-accordance-with-its-conservative-islamic-law-shariah.md)
 The oil-rich nation has prohibited future public celebrations of Christmas as part of its recently imposed Islamic law, fearing it might lead Muslims in the country &quot;astray.&quot;
 
-### [Sri Lankan presidential election, 2015: Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/sri-lankan-presidential-election-2015-voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-betwe.md)
+### [Voters in Sri Lanka go to the polls for a presidential election with a tight contest predicted between President Mahinda Rajapaksa and challenger Maithripala Sirisena. ](/news/2015/01/8/voters-in-sri-lanka-go-to-the-polls-for-a-presidential-election-with-a-tight-contest-predicted-between-president-mahinda-rajapaksa-and-chall.md)
 _Context: Mahinda Rajapaksa, Maithripala Sirisena, President of Sri Lanka, Sri Lanka, Sri Lankan presidential election, 2015_
 
 ## [Previous Day...](/news/2015/01/7/index.md)

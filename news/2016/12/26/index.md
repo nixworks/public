@@ -3,7 +3,7 @@
 ### [American Actor George S. Irving, best known for being one of the last members of the original production of "Oklahoma!" and voicing Heat Miser from "The Year Without a Santa Claus", dies at age 94. ](/news/2016/12/26/american-actor-george-s-irving-best-known-for-being-one-of-the-last-members-of-the-original-production-of-oklahoma-and-voicing-heat-mis.md)
 Irving appeared in the original Broadway production of &#039;Oklahoma&#039; and voiced the character of Heat Miser in the animated &#039;The Year Without a Santa Claus.&#039;
 
-### [2016 Russian Defence Ministry Tupolev Tu-154 crash: Eleven bodies have so far been recovered from the Black Sea from yesterday's military aircraft crash. All 92 people on board died. ](/news/2016/12/26/2016-russian-defence-ministry-tupolev-tu-154-crash-eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-ai.md)
+### [Eleven bodies have so far been recovered from the Black Sea from yesterday's military aircraft crash. All 92 people on board died. ](/news/2016/12/26/eleven-bodies-have-so-far-been-recovered-from-the-black-sea-from-yesterday-s-military-aircraft-crash-all-92-people-on-board-died.md)
 _Context: 2016 Russian Defence Ministry Tupolev Tu-154 crash, Black Sea_
 
 ### [ China resumes diplomatic ties with SGBPo Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sagbpo-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md)

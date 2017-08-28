@@ -9,13 +9,13 @@ _Context: Kashmir, Srinagar, mosque_
 ### [At least 25 people are killed and at least 320 others are wounded at Camp Ashraf. ](/news/2011/04/8/at-least-25-people-are-killed-and-at-least-320-others-are-wounded-at-camp-ashraf.md)
 _Context: Camp Ashraf_
 
-### [Arab Spring: Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/arab-spring-today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md)
+### [Today's Friday protests take place in Egypt, Iraq, Syria and Yemen among other places. ](/news/2011/04/8/today-s-friday-protests-take-place-in-egypt-iraq-syria-and-yemen-among-other-places.md)
 At least 27 deaths reported in the city of Daraa as fresh pro-reform demonstrations rock the country.
 
 ### [A crew member shoots two of his crew mates on board the nuclear submarine HMS "Astute" at Southampton in Hampshire, England, killing one and sending the other into a life-threatening condition; police dismiss any link to terrorism. ](/news/2011/04/8/a-crew-member-shoots-two-of-his-crew-mates-on-board-the-nuclear-submarine-hms-astute-at-southampton-in-hampshire-england-killing-one-and.md)
 A Royal Navy crewman is killed and another is in a life-threatening condition after a shooting on board nuclear submarine HMS Astute.
 
-### [The European Union aims to complete Portugal's bailout of approximately -80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md)
+### [The European Union aims to complete Portugal's bailout of approximately EUR80 billion in exchange for cuts before a new government is elected in June, with the previous government having fallen at the loss of a parliamentary vote on imposing similar austerity measures. ](/news/2011/04/8/the-european-union-aims-to-complete-portugal-s-bailout-of-approximately-a-80-billion-in-exchange-for-cuts-before-a-new-government-is-electe.md)
 The European Union believes it can complete the Portuguese bail-out, set to be worth 80bn euros, before elections in June.
 
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)

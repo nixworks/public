@@ -6,7 +6,7 @@ _Context: Albert II of Belgium, Belgium, Yves Leterme, election, his government_
 ### [In elections marred by boycotts and fraud allegations, Omar al-Bashir is re-elected president of Sudan despite facing war crimes charges and an international arrest warrant. ](/news/2010/04/26/in-elections-marred-by-boycotts-and-fraud-allegations-omar-al-bashir-is-re-elected-president-of-sudan-despite-facing-war-crimes-charges-and.md)
 _Context: Omar al-Bashir, Sudan, war crimes_
 
-### [ 2010 Thai political protests:: Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. ](/news/2010/04/26/2010-thai-political-protests-several-grenade-attacks-occur-at-the-homes-of-former-thai-prime-minister-banharn-silpa-archa-and-in-chiang-m.md)
+### [ Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. ](/news/2010/04/26/several-grenade-attacks-occur-at-the-homes-of-former-thai-prime-minister-banharn-silpa-archa-and-in-chiang-mai.md)
 Pro-establishment group threatens to move against red shirts if government fails to act.
 
 ### [ Robotic submarines attempt to stop leaking oil in the aftermath of the Deepwater Horizon drilling rig explosion. ](/news/2010/04/26/robotic-submarines-attempt-to-stop-leaking-oil-in-the-aftermath-of-the-deepwater-horizon-drilling-rig-explosion.md)
@@ -36,7 +36,7 @@ Israeli forces on Monday killed a wanted Hamas operative who had holed up in a h
 ### [ South Koreans pay tribute to the victims of the sinking of the ROKS "Cheonan" in March. ](/news/2010/04/26/south-koreans-pay-tribute-to-the-victims-of-the-sinking-of-the-roks-cheonan-in-march.md)
 Five-day mourning begins for 46 navy personnel who died aboard warship that sank last month.
 
-### [ The Government of South Korea announces the completion of the world-s longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-world-s-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md)
+### [ The Government of South Korea announces the completion of the world's longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. ](/news/2010/04/26/the-government-of-south-korea-announces-the-completion-of-the-worldas-longest-seawall-in-a-reclaimed-tidal-flat-in-gunsan-north-jeolla-p.md)
 _Context: Gunsan, North Jeolla Province, South Korea, government of South Korea, seawall_
 
 ## [Previous Day...](/news/2010/04/25/index.md)

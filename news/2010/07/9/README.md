@@ -69,7 +69,7 @@ _Context: Johannesburg, Nelson Mandela, South Africa_
 ### [Australia celebrates indigenous culture in NAIDOC Week with the 2010 theme "Unsung Heroes - Closing the Gap by Leading Their Way". ](/news/2010/07/9/australia-celebrates-indigenous-culture-in-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)
 The Tasmanian Aboriginal community are using National Aboriginal Islander Day Observance Committee (NAIDOC) Week to criticise the State Government for failing to recognise heritage values.
 
-### [Mel Gibson:: The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/mel-gibson-the-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md)
+### [The American-born Australian actor is being called a "potential suspect" in a domestic violence investigation. ](/news/2010/07/9/the-american-born-australian-actor-is-being-called-a-potential-suspect-in-a-domestic-violence-investigation.md)
 The Sheriff&#39;s Department says it is investigating Mel Gibson over a possible domestic violence incident involving his ex-girlfriend earlier this year. 
 
 ### [American researchers discover that some fruits and vegetables grown today have less nutritional value than those grown in the 1950s. ](/news/2010/07/9/american-researchers-discover-that-some-fruits-and-vegetables-grown-today-have-less-nutritional-value-than-those-grown-in-the-1950s.md)

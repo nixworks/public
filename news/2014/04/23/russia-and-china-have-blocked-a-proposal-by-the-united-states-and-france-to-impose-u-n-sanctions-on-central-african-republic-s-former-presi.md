@@ -1,0 +1,23 @@
+### [2014-04-23](/news/2014/04/23/index.md)
+
+# Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2014/04/23/us-centralafrica-un-sanctions-idUSBREA3M1GA20140423)
+
+### Related:
+
+1. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: China, France, Russia, United States_
+2. [Iran, the United States, the United Kingdom, France, Russia, People's Republic of China, Germany, and the European Union (the P5+1) reach a breakthrough agreement on the general framework for an agreement on Iran's nuclear program, but sign no verbal agreement or official document. The deadline for a full deal is June 30, 2015. ](/news/2015/04/2/iran-the-united-states-the-united-kingdom-france-russia-people-s-republic-of-china-germany-and-the-european-union-the-p5-1-reach-a.md) _Context: China, France, Russia, United States_
+3. [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-a-china-france-germany-united-kingdom-russia-and-the-united-states-a-meet-with-iranian-off.md) _Context: China, France, Russia, United States_
+4. [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md) _Context: China, France, Russia, United States_
+5. [ The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. ](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-united-states-germany-france-russia-and-china-agree-to-make-a-new-offer-to-iran-over-its-nu.md) _Context: China, France, Russia, United States_
+6. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: China, France, Russia_
+7. [France seeks United States and Russian support for a Security Council resolution to impose a new truce that will allow aid into Aleppo, which has experienced two weeks of heavy Syrian and Russian bombing of rebel-held areas. ](/news/2016/10/5/france-seeks-united-states-and-russian-support-for-a-security-council-resolution-to-impose-a-new-truce-that-will-allow-aid-into-aleppo-whic.md) _Context: France, Russia, United States_
+8. [Philippine President Rodrigo Duterte tells U.S. President Barack Obama to "go to hell" after the United States refuses to sell some weapons to his country, while also acknowledging the cooperation of Russia and China. ](/news/2016/10/4/philippine-president-rodrigo-duterte-tells-u-s-president-barack-obama-to-go-to-hell-after-the-united-states-refuses-to-sell-some-weapons.md) _Context: China, Russia, United States_
+9. [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday. Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md) _Context: China, Russia, United States_
+10. [Australia, the UK, France, and the United States, all issue security alerts for westerners in Sanlitun in the Chaoyang District of Beijing, a popular diplomatic and entertainment district. Chinese officials indicate they have taken appropriate measures in response to this information. ](/news/2015/12/24/australia-the-uk-france-and-the-united-states-all-issue-security-alerts-for-westerners-in-sanlitun-in-the-chaoyang-district-of-beijing.md) _Context: China, France, United States_

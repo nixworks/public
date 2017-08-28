@@ -1,13 +1,13 @@
 ## [2011-04-13](/news/2011/04/13/index.md)
 
-### [2011 Libyan civil war: Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
-_Context: Libyan Civil War, Misrata, Muammar Gaddafi_
+### [Forces loyal to Muammar Gaddafi continue to attack the city of Misrata. ](/news/2011/04/13/forces-loyal-to-muammar-gaddafi-continue-to-attack-the-city-of-misrata.md)
+Forces loyal to Libyan leader Muammar Gaddafi have launched a new armoured incursion into the besieged rebel city Misrata.
 
 ### [The Malaysiakini Malaysian news website is attacked ahead of elections in Sarawak. ](/news/2011/04/13/the-malaysiakini-malaysian-news-website-is-attacked-ahead-of-elections-in-sarawak.md)
 _Context: Malaysia, Malaysiakini, Sarawak_
 
 ### [The 2011 Syrian protests spread to Aleppo. ](/news/2011/04/13/the-2011-syrian-protests-spread-to-aleppo.md)
-_Context: Aleppo, Syrian uprising_
+_Context: Aleppo, protestors_
 
 ### [Toyota closes several plants in Europe for part of April and May due to parts shortages caused by the power outages associated with the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/13/toyota-closes-several-plants-in-europe-for-part-of-april-and-may-due-to-parts-shortages-caused-by-the-power-outages-associated-with-the-2011.md)
 _Context: Europe, Toyota, an earthquake and tsunami_
@@ -24,7 +24,7 @@ _Context: Japan, Sendai Airport, an earthquake and tsunami_
 ### [The United States requests the release of one of its citizens detained in North Korea. ](/news/2011/04/13/the-united-states-requests-the-release-of-one-of-its-citizens-detained-in-north-korea.md)
 _Context: North Korea, United States_
 
-### [Israeli-Palestinian conflict: The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/israeli-palestinian-conflict-the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
+### [The government in the West Bank is largely ready to govern a Palestinian state, a United Nations report claims. ](/news/2011/04/13/the-government-in-the-west-bank-is-largely-ready-to-govern-a-palestinian-state-a-united-nations-report-claims.md)
 The Palestinian government in the West Bank is now largely ready to govern a state, a United Nations report says.
 
 ### [Ivory Coast President Alassane Ouattara says former leader Laurent Gbagbo will face charges at the national and international level. ](/news/2011/04/13/ivory-coast-president-alassane-ouattara-says-former-leader-laurent-gbagbo-will-face-charges-at-the-national-and-international-level.md)

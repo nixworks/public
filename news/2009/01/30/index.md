@@ -19,7 +19,7 @@ _Context: Al-Shabaab, Baidoa, Somalia, Transitional Federal Government_
 Pressure mounts on Israel to answer accusations of war crimes in Gaza Strip.
 
 ### [ A heat wave affects southeastern Australia, with both Adelaide and Melbourne experiencing temperatures above 45|C. ](/news/2009/01/30/a-heat-wave-affects-southeastern-australia-with-both-adelaide-and-melbourne-experiencing-temperatures-above-45-c.md)
-_Context: 2009 Southeastern Australia heat wave, Adelaide, Australia, Melbourne_
+_Context: Adelaide, Australia, Melbourne, heat wave_
 
 ### [ More than one thousand workers strike at four different United Kingdom oil refineries. ](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-different-united-kingdom-oil-refineries.md)
 _Context: Britain, refinery, strike_

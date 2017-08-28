@@ -1,9 +1,9 @@
 ## [2013-12-11](/news/2013/12/11/index.md)
 
-### [Syrian Civil War:: Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/syrian-civil-war-salim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-war.md)
+### [Salim Idris, top commander of the Free Syrian Army, flees Syria. Islamist fighters take over his headquarters and key warehouses. ](/news/2013/12/11/salim-idris-top-commander-of-the-free-syrian-army-flees-syria-islamist-fighters-take-over-his-headquarters-and-key-warehouses.md)
 Islamist fighters ran the top Western-backed rebel commander in Syria out of his headquarters, and he fled the country. The Islamists also took over key warehouses holding U.S. military gear for moderate fighters in northern Syria over the weekend.
 
-### [Human rights in the Philippines:: Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/human-rights-in-the-philippines-three-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-conce.md)
+### [Three journalists are killed and one wounded in the Philippines within the span of two weeks raising concerns regarding the security situation in the country. ](/news/2013/12/11/three-journalists-are-killed-and-one-wounded-in-the-philippines-within-the-span-of-two-weeks-raising-concerns-regarding-the-security-situati.md)
 Mindanao broadcaster Rogelio Butalib shot dead, marking the third fatal attack against a journalist in two weeks.
 
 ### ["Time" magazine names Pope Francis its Person of the Year. ](/news/2013/12/11/time-magazine-names-pope-francis-its-person-of-the-year.md)
@@ -21,8 +21,8 @@ Twenty people have died following a deadly outbreak of the bubonic plague, medic
 ### [The U.S. National Security Agency is secretly piggybacking on the tools that enable internet advertisers to track consumers, such tools are known as cookies; specifically, Google cookies are being tracked in order to determine targets for hacking. ](/news/2013/12/11/the-u-s-national-security-agency-is-secretly-piggybacking-on-the-tools-that-enable-internet-advertisers-to-track-consumers-such-tools-are.md)
 _Context: Google, National Security Agency, cookies_
 
-### [LGBT rights in India:: The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/lgbt-rights-in-india-the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md)
-_Context: Indian penal code, LGBT rights in India, Supreme Court of India, homosexuality_
+### [The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md)
+_Context: Indian penal code, Supreme Court of India, homosexuality_
 
 ### [A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. ](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.md)
 SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of operating a &quot;revenge porn&quot; website and demanding up to $350 to remove sexually explicit photos of women that were...
@@ -30,7 +30,7 @@ SAN DIEGO - A 27-year-old San Diego man was arrested Tuesday on suspicion of ope
 ### [President of Russia Vladimir Putin announces a policy mandate that increases military focus in the Arctic. ](/news/2013/12/11/president-of-russia-vladimir-putin-announces-a-policy-mandate-that-increases-military-focus-in-the-arctic.md)
 _Context: Arctic, Russian President Vladimir Putin, Vladimir Putin_
 
-### [Euromaidan:: Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/euromaidan-police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md)
+### [Police in Kiev abandon their posts after a sweep of the protesters ended in violence. ](/news/2013/12/11/police-in-kiev-abandon-their-posts-after-a-sweep-of-the-protesters-ended-in-violence.md)
 Security forces pulled back after seizing control of a large section of the square, setting off clashes with protesters rallying against the Ukrainian government.
 
 ## [Previous Day...](/news/2013/12/10/index.md)

@@ -1,6 +1,6 @@
 ## [2011-12-11](/news/2011/12/11/index.md)
 
-### [2011 Syrian uprising:: A general strike is observed in several regions of Syria. ](/news/2011/12/11/2011-syrian-uprising-a-general-strike-is-observed-in-several-regions-of-syria.md)
+### [A general strike is observed in several regions of Syria. ](/news/2011/12/11/a-general-strike-is-observed-in-several-regions-of-syria.md)
 A general strike was being observed on Sunday in several regions of Syria to step up the pressure on the regime, activists said, as fears grew of an &#034;invasion&#034; of the besieged protest hub of Homs.
 
 ### [2011 Yemeni uprising: Hundreds of thousands of protesters demonstrate in Yemen calling for the trial of President Ali Abdullah Saleh. ](/news/2011/12/11/2011-yemeni-uprising-hundreds-of-thousands-of-protesters-demonstrate-in-yemen-calling-for-the-trial-of-president-ali-abdullah-saleh.md)

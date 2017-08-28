@@ -15,7 +15,7 @@ _Context: Greenwich, Millennium Dome, Queen Elizabeth_
 ### [ Concerns of serious Y2K problems with computer systems.](/news/1999/12/31/concerns-of-serious-y2k-problems-with-computer-systems.md)
 _Context: Y2K_
 
-### [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijos-carter-treaties.md)
+### [ The Panama Canal Authority took over the administration of the Panama Canal as per the Torrijos-Carter Treaties.](/news/1999/12/31/the-panama-canal-authority-took-over-the-administration-of-the-panama-canal-as-per-the-torrijosacarter-treaties.md)
 _Context: Panama Canal, Panama Canal Authority, Torrijos-Carter Treaties_
 
 ### [ Sony removes support of all games on their PlayStation video game console.](/news/1999/12/31/sony-removes-support-of-all-games-on-their-playstation-video-game-console.md)

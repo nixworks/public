@@ -3,7 +3,7 @@
 ### [The mother of a woman who died in her home during a demonstration against Israel's separation barrier in Bil'in says she died from inhaling massive quantities of tear gas; the Israeli army says she did not die of tear gas inhalation. ](/news/2011/01/9/the-mother-of-a-woman-who-died-in-her-home-during-a-demonstration-against-israel-s-separation-barrier-in-bil-in-says-she-died-from-inhaling.md)
 Jawaher Abu Rahma died as a result of medical treatment from a Ramallah hospital, including medicine used to treat cancer, poisoning.
 
-### [Aftermath of the 2011 Tucson shooting:: Officials investigating the shooting, who were seeking a second person of interest, have cleared the other person of involvement in the shooting. ](/news/2011/01/9/aftermath-of-the-2011-tucson-shooting-officials-investigating-the-shooting-who-were-seeking-a-second-person-of-interest-have-cleared-the.md)
+### [Officials investigating the shooting, who were seeking a second person of interest, have cleared the other person of involvement in the shooting. ](/news/2011/01/9/officials-investigating-the-shooting-who-were-seeking-a-second-person-of-interest-have-cleared-the-other-person-of-involvement-in-the-shoo.md)
 Fidel Castro has denounced as atrocious a shooting attack on a U.S. lawmaker that left six people dead and the legislator in critical condition.
 
 ### [Teachers and cultural figures criticise as "foolhardy" the British government's abolition of a scheme intended to improve teaching of the arts in schools. ](/news/2011/01/9/teachers-and-cultural-figures-criticise-as-foolhardy-the-british-government-s-abolition-of-a-scheme-intended-to-improve-teaching-of-the-ar.md)
@@ -18,7 +18,7 @@ Researchers at Wofford College discovered that a Border Collie comprehends the n
 ### [The Algerian government cuts food prices amid unrest, and vows to punish those responsible for rioting in recent days. ](/news/2011/01/9/the-algerian-government-cuts-food-prices-amid-unrest-and-vows-to-punish-those-responsible-for-rioting-in-recent-days.md)
 In the wake of deadly protests, the government lowers duties on basic food supplies and cracks down on rioters.
 
-### [2010-2011 Tunisian protests: Unrest in Tunisia over youth unemployment continues, with several deaths reported. ](/news/2011/01/9/2010-2011-tunisian-protests-unrest-in-tunisia-over-youth-unemployment-continues-with-several-deaths-reported.md)
+### [2010-2011 Tunisian protests: Unrest in Tunisia over youth unemployment continues, with several deaths reported. ](/news/2011/01/9/2010a2011-tunisian-protests-unrest-in-tunisia-over-youth-unemployment-continues-with-several-deaths-reported.md)
 Fatalities reported after fresh clashes between demonstrators and security forces across north African nation.
 
 ### [Iran Air Flight 277 crashes with 100 people on board near Orumiyeh in the northeast of the country; at least 50 survive. ](/news/2011/01/9/iran-air-flight-277-crashes-with-100-people-on-board-near-orumiyeh-in-the-northeast-of-the-country-at-least-50-survive.md)
@@ -27,7 +27,7 @@ _Context: Iran Air Flight 277, Orumiyeh_
 ### [At least 14 people are killed and at least 25 others are injured in a bus crash near Concepcion Tutuapa in Guatemala's San Marcos department. ](/news/2011/01/9/at-least-14-people-are-killed-and-at-least-25-others-are-injured-in-a-bus-crash-near-concepcia3n-tutuapa-in-guatemala-s-san-marcos-departmen.md)
 A bus plunges into a ravine in western Guatemala, killing 14 ex-paramilitaries who had been working on a reforestation project.
 
-### [Israeli demolition of the historic Shepherd Hotel:: Israeli bulldozers begin demolishing a 1930s East Jerusalem hotel to build 20 new settler homes, "destroying all the US efforts and ending any possibility of a return to negotiations" according to a spokesperson for Palestinian President Mahmoud Abbas. ](/news/2011/01/9/israeli-demolition-of-the-historic-shepherd-hotel-israeli-bulldozers-begin-demolishing-a-1930s-east-jerusalem-hotel-to-build-20-new-settle.md)
+### [Israeli bulldozers begin demolishing a 1930s East Jerusalem hotel to build 20 new settler homes, "destroying all the US efforts and ending any possibility of a return to negotiations" according to a spokesperson for Palestinian President Mahmoud Abbas. ](/news/2011/01/9/israeli-bulldozers-begin-demolishing-a-1930s-east-jerusalem-hotel-to-build-20-new-settler-homes-destroying-all-the-us-efforts-and-ending-a.md)
 Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to make way for a new Israeli enclave, moving ahead with a plan that has angered the Palestinians and the U.S. ...
 
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)

@@ -1,12 +1,12 @@
 ## [2008-08-23](/news/2008/08/23/index.md)
 
-### [ War in Somalia (2006-09): Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/war-in-somalia-2006-09-two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md)
+### [ Two journalists and three other people are abducted by gunmen near Elasha, Somalia. ](/news/2008/08/23/two-journalists-and-three-other-people-are-abducted-by-gunmen-near-elasha-somalia.md)
 _Context: Elasha, Somalia, War in Somalia (2006-09)_
 
-### [ War in North-West Pakistan: A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/war-in-north-west-pakistan-a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-mor.md)
+### [ A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-more.md)
 _Context: Khyber Pakhtunkhwa, Swat, Pakistan, War in North-West Pakistan_
 
-### [ 2008 South Ossetia war: Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/2008-south-ossetia-war-russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-wi.md)
+### [ Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-with-the-cease-fire-agreem.md)
 Georgian Army units appeared in Gori for the first time since they retreated under heavy Russian bombardment two weeks ago.
 
 ### [ The death toll from Tropical Storm Fay in Florida rises to 11. ](/news/2008/08/23/the-death-toll-from-tropical-storm-fay-in-florida-rises-to-11.md)

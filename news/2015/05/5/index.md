@@ -12,7 +12,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Catriona Finlayson-Wilkins, 41, of England, becomes the first diabetic (she has Type I diabetes) to give birth naturally after using an artificial pancreas throughout her pregnancy. ](/news/2015/05/5/catriona-finlayson-wilkins-41-of-england-becomes-the-first-diabetic-she-has-type-i-diabetes-to-give-birth-naturally-after-using-an-arti.md)
 _Context: England, Type I diabetes, artificial pancreas, pregnancy_
 
-### [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs-lamivudine, AZT, and tenofovir-shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugs-lamivudine-azt-and-t.md)
+### [According to University of Toronto researchers Donald Branch and Stephen McCarthy, a combination of three HIV drugs--lamivudine, AZT, and tenofovir--shows some promise fighting at least a lab-modified version (which could not infect humans) of Ebola. ](/news/2015/05/5/according-to-university-of-toronto-researchers-donald-branch-and-stephen-mccarthy-a-combination-of-three-hiv-drugsalamivudine-azt-and-t.md)
 _Context: AZT, Ebola, University of Toronto, lamivudine, tenofovir_
 
 ### [South Korea and Vietnam sign a bilateral Free Trade Agreement. ](/news/2015/05/5/south-korea-and-vietnam-sign-a-bilateral-free-trade-agreement.md)

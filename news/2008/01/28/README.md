@@ -1,6 +1,6 @@
 ## [2008-01-28](/news/2008/01/28/index.md)
 
-### [ War in North-West Pakistan: A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. ](/news/2008/01/28/war-in-north-west-pakistan-a-group-of-schoolchildren-are-taken-hostage-by-militants-in-bannu-pakistan-but-later-released.md)
+### [ A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. ](/news/2008/01/28/a-group-of-schoolchildren-are-taken-hostage-by-militants-in-bannu-pakistan-but-later-released.md)
 _Context: Bannu, Pakistan, War in North-West Pakistan_
 
 ### [ Inflation in Zimbabwe rises to about 150,000%. The Zimbabwean dollar is essentially worthless. ](/news/2008/01/28/inflation-in-zimbabwe-rises-to-about-150-000-the-zimbabwean-dollar-is-essentially-worthless.md)

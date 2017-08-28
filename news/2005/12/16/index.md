@@ -6,8 +6,8 @@ _Context: Bulgaria, Iraq, U.S.-led troops_
 ### [ Extreme levels of radiation have been found at a chemical factory in Chechnya. ](/news/2005/12/16/extreme-levels-of-radiation-have-been-found-at-a-chemical-factory-in-chechnya.md)
 _Context: Chechnya_
 
-### [ United States Government:: Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/united-states-government-senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment.md)
-_Context: George W. Bush, John McCain, President, United States, United States Senate_
+### [ Senator John McCain persuades President George W. Bush to accept a ban on cruel, inhuman and degrading treatment of detainees. ](/news/2005/12/16/senator-john-mccain-persuades-president-george-w-bush-to-accept-a-ban-on-cruel-inhuman-and-degrading-treatment-of-detainees.md)
+_Context: George W. Bush, John McCain, President, United States Senate_
 
 ### [ Conflict in Iraq: Iraqi Police claim that they captured Abu Musab al-Zarqawi in 2004 and then released him by mistake. ](/news/2005/12/16/conflict-in-iraq-iraqi-police-claim-that-they-captured-abu-musab-al-zarqawi-in-2004-and-then-released-him-by-mistake.md)
 _Context: 2004, Abu Musab al-Zarqawi, Conflict in Iraq, Iraqi Police_

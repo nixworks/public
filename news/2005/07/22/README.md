@@ -7,7 +7,7 @@ _Context: Beirut, bomb, capital_
 _Context: Sharm el-Sheikh, series of car bombs_
 
 ### [ Malaysian Prime Minister Datuk Seri Abdullah Ahmad Badawi says that he feels it is his duty to prevent Islam and its symbols from being used to propagate violence. He has set three missions for himself - continuing to remind the world community to understand the root causes of terrorism, explaining that Islam is a religion of peace and opposed to violence, and showcasing Malaysia as a modern Islamic country and a safe place to invest and visit. ](/news/2005/07/22/malaysian-prime-minister-datuk-seri-abdullah-ahmad-badawi-says-that-he-feels-it-is-his-duty-to-prevent-islam-and-its-symbols-from-being-use.md)
-_Context: Abdullah Ahmad Badawi, Islam_
+_Context: Abdullah Ahmad Badawi, Muslims_
 
 ### [ Berlin, Germany: a small plane crashes near the Reichstag and the Federal Chancellor's Office, killing the pilot. Suicide suspected, rather than terrorism. ](/news/2005/07/22/berlin-germany-a-small-plane-crashes-near-the-reichstag-and-the-federal-chancellor-s-office-killing-the-pilot-suicide-suspected-rather.md)
 _Context: Berlin, Federal Chancellor's Office, Reichstag, airplane_

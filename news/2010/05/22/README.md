@@ -1,6 +1,6 @@
 ## [2010-05-22](/news/2010/05/22/index.md)
 
-### [Air India Express Flight 812:: Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md)
+### [Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md)
 A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a landing accident at Mangalore-Bajpe Airport (IXE), India. There were 160 passengers and six crew members on board. The airplane operated on a flight from Dubai Airport (DXB) to Mangalore-Bajpe Airport (IXE).
 
 ### [Apa, a Nepalese Sherpa mountain climber who already held the world record for summiting Mount Everest more than any other person, reaches the summit for the 20th time. ](/news/2010/05/22/apa-a-nepalese-sherpa-mountain-climber-who-already-held-the-world-record-for-summiting-mount-everest-more-than-any-other-person-reaches-th.md)
@@ -39,10 +39,10 @@ British Airways chief executive Willie Walsh had to be escorted to safety from a
 ### ["Ariane 5" launch vehicle carries out its 50th mission, putting two large telecommunications satellites in orbit. ](/news/2010/05/22/ariane-5-launch-vehicle-carries-out-its-50th-mission-putting-two-large-telecommunications-satellites-in-orbit.md)
 _Context: Ariane 5_
 
-### [In the 2010 UEFA Champions League Final, Inter Milan defeats Bayern Munich 2-0, for their first major European title since 1965. ](/news/2010/05/22/in-the-2010-uefa-champions-league-final-inter-milan-defeats-bayern-munich-2-0-for-their-first-major-european-title-since-1965.md)
+### [In the 2010 UEFA Champions League Final, Inter Milan defeats Bayern Munich 2-0, for their first major European title since 1965. ](/news/2010/05/22/in-the-2010-uefa-champions-league-final-inter-milan-defeats-bayern-munich-2a0-for-their-first-major-european-title-since-1965.md)
 _Context: 1965, 2010 UEFA Champions League Final, Bayern Munich, Inter Milan_
 
-### [More than 74,000 South African football fans attend the first match at Soccer City-venue for the 2010 FIFA World Cup Final-less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-city-venue-for-the-2010-fifa-world-cup-final-less-than-thr.md)
+### [More than 74,000 South African football fans attend the first match at Soccer City--venue for the 2010 FIFA World Cup Final--less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-cityavenue-for-the-2010-fifa-world-cup-finalaless-than-thr.md)
 More than 74,000 South African football fans attend the first match at Soccer City - venue for the World Cup final.
 
 ### [Thirteen-year-old American Jordan Romero becomes the youngest person to reach the summit of Mount Everest. ](/news/2010/05/22/thirteen-year-old-american-jordan-romero-becomes-the-youngest-person-to-reach-the-summit-of-mount-everest.md)

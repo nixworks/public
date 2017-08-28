@@ -1,7 +1,7 @@
 ## [2011-02-10](/news/2011/02/10/index.md)
 
-### [2011 Egyptian protests:: Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/2011-egyptian-protests-protests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md)
-_Context: Hosni Mubarak, Protesters_
+### [Protests against the Mubarak regime go on nationwide for a seventeenth consecutive day. ](/news/2011/02/10/protests-against-the-mubarak-regime-go-on-nationwide-for-a-seventeenth-consecutive-day.md)
+_Context: Hosni Mubarak_
 
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
 _Context: Jonglei, Southern Sudan, state_

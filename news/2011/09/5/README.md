@@ -24,7 +24,7 @@ _Context: Kii Peninsula, Typhoon Talas, Wakayama Prefecture_
 ### [The 2011 Somalian famine, which has killed 30,000 children and tens of thousands more adults, spreads to the Bay Region of Somalia. ](/news/2011/09/5/the-2011-somalian-famine-which-has-killed-30-000-children-and-tens-of-thousands-more-adults-spreads-to-the-bay-region-of-somalia.md)
 The United Nations warned that Somalia’s famine had spread and that 750,000 people could die in the next few months unless aid efforts were scaled up.
 
-### [2011 Atlantic hurricane season:: Approximately 5,000 people are evacuated from their homes near the U.S. city of Austin, Texas, with wildfires caused in part by Tropical Storm Lee causing concerns in other parts of the state. ](/news/2011/09/5/2011-atlantic-hurricane-season-approximately-5-000-people-are-evacuated-from-their-homes-near-the-u-s-city-of-austin-texas-with-wildfir.md)
+### [Approximately 5,000 people are evacuated from their homes near the U.S. city of Austin, Texas, with wildfires caused in part by Tropical Storm Lee causing concerns in other parts of the state. ](/news/2011/09/5/approximately-5-000-people-are-evacuated-from-their-homes-near-the-u-s-city-of-austin-texas-with-wildfires-caused-in-part-by-tropical-sto.md)
 No longer a hurricane, Lee continued to drench the South and fuel wildfires in Texas.
 
 ### [South Korea announces that it will start sending emergency aid to North Korea next week after devastating floods. ](/news/2011/09/5/south-korea-announces-that-it-will-start-sending-emergency-aid-to-north-korea-next-week-after-devastating-floods.md)
@@ -36,7 +36,7 @@ _Context: Jacques Chirac, President of France, embezzlement_
 ### [Turkish hackers gain access to the websites of several companies, including Vodafone, the "Daily Telegraph" and UPS, redirecting visitors to a site set up by the group. ](/news/2011/09/5/turkish-hackers-gain-access-to-the-websites-of-several-companies-including-vodafone-the-daily-telegraph-and-ups-redirecting-visitors-to.md)
 Turkish hackers managed to re-direct visitors away from high-profile sites, including Vodafone and the Daily Telegraph.
 
-### [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-afl-cio-labor-day-parade-in-t.md)
+### [The President of the United States Barack Obama kicks off his re-election campaign with an appearance at the AFL-CIO Labor Day parade in the city of Detroit. ](/news/2011/09/5/the-president-of-the-united-states-barack-obama-kicks-off-his-re-election-campaign-with-an-appearance-at-the-aflacio-labor-day-parade-in-t.md)
 He won the state in 2008 by nearly 18 percentage points and pumped billions of tax dollars into the effort to save its flagship industry.
 
 ### [In the United Kingdom the first wave of independent state-funded schools, known as free schools, open their doors as the new academic year begins. ](/news/2011/09/5/in-the-united-kingdom-the-first-wave-of-independent-state-funded-schools-known-as-free-schools-open-their-doors-as-the-new-academic-year-b.md)

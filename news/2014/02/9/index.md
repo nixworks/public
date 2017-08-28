@@ -3,16 +3,16 @@
 ### [A gunman kills two people at a Russian Orthodox cathedral in Yuzhno-Sakhalinsk, Sakhalin. ](/news/2014/02/9/a-gunman-kills-two-people-at-a-russian-orthodox-cathedral-in-yuzhno-sakhalinsk-sakhalin.md)
 A gunman opens fire inside a cathedral on the eastern Russian island of Sakhalin, killing a nun and a churchgoer, say reports.
 
-### [Balochistan conflict:: An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/balochistan-conflict-an-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md)
+### [An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/an-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md)
 Dead include six civilians, clash took place between BRA members and tribesmen.
 
-### [Syrian Civil War:: Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/syrian-civil-war-hundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md)
+### [Hundreds of civilians are evacuated from Homs, Syria, as a tense truce between rebel and government forces is maintained. ](/news/2014/02/9/hundreds-of-civilians-are-evacuated-from-homs-syria-as-a-tense-truce-between-rebel-and-government-forces-is-maintained.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Gunmen attack an Islamic religious gathering in Karachi, Pakistan, killing 8 people. ](/news/2014/02/9/gunmen-attack-an-islamic-religious-gathering-in-karachi-pakistan-killing-8-people.md)
 Officials say gunmen attacked an Islamic religious gathering in the southern Pakistani port city of Karachi, killing eight people.
 
-### [Central African Republic conflict: Human Rights Watch says that the entire Muslim population of the country may end up leaving in the next days or weeks. ](/news/2014/02/9/central-african-republic-conflict-human-rights-watch-says-that-the-entire-muslim-population-of-the-country-may-end-up-leaving-in-the-next-d.md)
+### [Human Rights Watch says that the entire Muslim population of the country may end up leaving in the next days or weeks. ](/news/2014/02/9/human-rights-watch-says-that-the-entire-muslim-population-of-the-country-may-end-up-leaving-in-the-next-days-or-weeks.md)
 Religious violence in the Central African Republic could force its entire Muslim population to flee, a senior human rights worker has told BBC News.
 
 ### [A 50th anniversary concert is to be held in celebration of the British Invasion of The Beatles. ](/news/2014/02/9/a-50th-anniversary-concert-is-to-be-held-in-celebration-of-the-british-invasion-of-the-beatles.md)
@@ -30,7 +30,7 @@ _Context: Woody Allen_
 ### [Marius the giraffe is culled and fed to the lions causing worldwide protests from environmental activists. ](/news/2014/02/9/marius-the-giraffe-is-culled-and-fed-to-the-lions-causing-worldwide-protests-from-environmental-activists.md)
 _Context: Marius the giraffe, culled, lion_
 
-### [2013-14 Australian bushfire season:: Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/2013-14-australian-bushfire-season-authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-th.md)
+### [Authorities issue emergency warnings for numerous parts of the state of Victoria as conditions are the worst recorded since Black Saturday bushfires on February 7, 2009. ](/news/2014/02/9/authorities-issue-emergency-warnings-for-numerous-parts-of-the-state-of-victoria-as-conditions-are-the-worst-recorded-since-black-saturday-b.md)
 Emergency warnings have been issued for 10 areas throughout the state as bushfires escalate in extreme conditions.
 
 ### [A car crash on the Pomona Freeway in Los Angeles, California, kills 6 people. ](/news/2014/02/9/a-car-crash-on-the-pomona-freeway-in-los-angeles-california-kills-6-people.md)
@@ -39,22 +39,22 @@ _Context: California, Los Angeles, Pomona Freeway_
 ### [A car crash on I-275 in the Tampa Bay Area of Florida kills 5 people. ](/news/2014/02/9/a-car-crash-on-i-275-in-the-tampa-bay-area-of-florida-kills-5-people.md)
 TAMPADozens of men and women gathered on the shoulder of Interstate 275 shortly before sunset Sunday with flowers, candles and a wreath.
 
-### [Iran-United States relations:: Iranian officials say that two Iranian Navy warships will be travelling very close to the United States' maritime border in the Atlantic Ocean. ](/news/2014/02/9/iran-united-states-relations-iranian-officials-say-that-two-iranian-navy-warships-will-be-travelling-very-close-to-the-united-states-mari.md)
+### [Iranian officials say that two Iranian Navy warships will be travelling very close to the United States' maritime border in the Atlantic Ocean. ](/news/2014/02/9/iranian-officials-say-that-two-iranian-navy-warships-will-be-travelling-very-close-to-the-united-states-maritime-border-in-the-atlantic-oce.md)
 Iranian warships dispatched to the Atlantic Ocean will travel close to U.S. maritime borders for the first time, a senior Iranian naval commander said Saturday.
 
 ### [Iran agrees to a United Nations plan to address suspicions that they are working on designing an atomic weapon. ](/news/2014/02/9/iran-agrees-to-a-united-nations-plan-to-address-suspicions-that-they-are-working-on-designing-an-atomic-weapon.md)
 _Context: Iran, United Nations, atomic weapon_
 
-### [2012 Dhaka fire:: The owners of Tazreen Fashions, Delwar Hossain and his wife Mahmuda Akter, hand themselves in to face charges of murder in relation to the death of 112 workers in a factory fire in Dhaka, Bangladesh, in November 2012. ](/news/2014/02/9/2012-dhaka-fire-the-owners-of-tazreen-fashions-delwar-hossain-and-his-wife-mahmuda-akter-hand-themselves-in-to-face-charges-of-murder-in.md)
-_Context: 2012 Dhaka fire, Bangladesh, Dhaka_
+### [The owners of Tazreen Fashions, Delwar Hossain and his wife Mahmuda Akter, hand themselves in to face charges of murder in relation to the death of 112 workers in a factory fire in Dhaka, Bangladesh, in November 2012. ](/news/2014/02/9/the-owners-of-tazreen-fashions-delwar-hossain-and-his-wife-mahmuda-akter-hand-themselves-in-to-face-charges-of-murder-in-relation-to-the-d.md)
+_Context: Bangladesh, Dhaka_
 
 ### [British immigration minister Mark Harper resigns after he reveals that he had employed an undocumented worker. ](/news/2014/02/9/british-immigration-minister-mark-harper-resigns-after-he-reveals-that-he-had-employed-an-undocumented-worker.md)
 _Context: Mark Harper, undocumented worker_
 
-### [Tokyo gubernatorial election, 2014:: Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/tokyo-gubernatorial-election-2014-voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-wh.md)
-_Context: Japan, Naoki Inose, Tokyo, Tokyo gubernatorial election, 2014, Yoichi Masuzoe_
+### [Voters in the Japanese capital of Tokyo elect Yoichi Masuzoe to replace former Governor Naoki Inose, who resigned on December 24, 2013. ](/news/2014/02/9/voters-in-the-japanese-capital-of-tokyo-elect-yoichi-masuzoe-to-replace-former-governor-naoki-inose-who-resigned-on-december-24-2013.md)
+_Context: Japan, Naoki Inose, Tokyo, Yoichi Masuzoe_
 
-### [Swiss referendums, 2014: 50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/swiss-referendums-2014-50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas.md)
+### [50.3% of voters vote in favor of the federal popular initiative "against mass immigration", to re-introduce quotas of immigrants for foreigners. ](/news/2014/02/9/50-3-of-voters-vote-in-favor-of-the-federal-popular-initiative-against-mass-immigration-to-re-introduce-quotas-of-immigrants-for-foreign.md)
 Unexpected narrow victory for far-right populists casts uncertainty over Swiss relations with European Union
 
 ### [Scientists at the Australian National University discover the universe's oldest known star SMSS J031300.36-670839.3 estimated to be about 13.6 billion years old. ](/news/2014/02/9/scientists-at-the-australian-national-university-discover-the-universe-s-oldest-known-star-smss-j031300-36-670839-3-estimated-to-be-about-13.md)

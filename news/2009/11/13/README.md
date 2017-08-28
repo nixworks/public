@@ -48,7 +48,7 @@ _Context: Gareth Jones, famine in Ukraine in 1932-1933_
 ### [ A bomb hits the Peshawar office of Pakistan's Inter-Services Intelligence agency with at least seven people dead and 35 injured. ](/news/2009/11/13/a-bomb-hits-the-peshawar-office-of-pakistan-s-inter-services-intelligence-agency-with-at-least-seven-people-dead-and-35-injured.md)
 _Context: Inter-Services Intelligence, Pakistan, Peshawar_
 
-### [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-british-irish-council.md)
+### [ Jersey's Chief Minister Terry Le Sueur hosts the 13th summit of the British-Irish Council. ](/news/2009/11/13/jersey-s-chief-minister-terry-le-sueur-hosts-the-13th-summit-of-the-britishairish-council.md)
 Taoiseach Brian Cowen is to attend the 13th British-Irish Council Summit today in Jersey.
 
 ### [ The Japan Coast Guard evacuates 28 passengers and crew from the "Ariake" commercial ferry after it rolls over onto its side in rough seas off Mie Prefecture in the Pacific Ocean. ](/news/2009/11/13/the-japan-coast-guard-evacuates-28-passengers-and-crew-from-the-ariake-commercial-ferry-after-it-rolls-over-onto-its-side-in-rough-seas-o.md)

@@ -1,7 +1,7 @@
 ## [2011-07-30](/news/2011/07/30/index.md)
 
-### [Libyan Civil War:: (NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/libyan-civil-war-nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md)
-_Context: Libya, Libyan Civil War, NATO, Tripoli_
+### [(NATO claims to have destroyed three television distribution facilities in an airstrike on Tripoli, Libya. ](/news/2011/07/30/nato-claims-to-have-destroyed-three-television-distribution-facilities-in-an-airstrike-on-tripoli-libya.md)
+_Context: Libya, NATO, Tripoli_
 
 ### [At least thirteen people are killed when gunmen open fire at passengers near a bus stop in Quetta, Pakistan. ](/news/2011/07/30/at-least-thirteen-people-are-killed-when-gunmen-open-fire-at-passengers-near-a-bus-stop-in-quetta-pakistan.md)
 _Context: Pakistan, Quetta_
@@ -15,7 +15,7 @@ _Context: Canongate Kirk, Edinburgh, Scotland, Elizabeth II, England rugby union
 ### [At least 17 people are killed in a fire at a shoe factory in the Vietnamese city of Hai Phong. ](/news/2011/07/30/at-least-17-people-are-killed-in-a-fire-at-a-shoe-factory-in-the-vietnamese-city-of-hai-phong.md)
 At least 17 people have been killed and 21 others injured in a fire at a shoe factory in northern Vietnam, police and media say.
 
-### [News International phone hacking scandal: The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/news-international-phone-hacking-scandal-the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-b.md)
+### [The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-by-news-international-journalists.md)
 A new team of officers is to investigate claims of computer hacking, the Metropolitan Police has announced.
 
 ### [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md)

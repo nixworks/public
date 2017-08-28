@@ -1,13 +1,13 @@
 ## [2014-01-3](/news/2014/01/3/index.md)
 
-### [Israeli-Palestinian conflict: An 85-year-old man dies during Israeli suppression of a violent riot at Kufr Qaddoum near Nablus; he is the first Palestinian casualty from conflict with Israel in 2014. ](/news/2014/01/3/israeli-palestinian-conflict-an-85-year-old-man-dies-during-israeli-suppression-of-a-violent-riot-at-kufr-qaddoum-near-nablus-he-is-the.md)
+### [An 85-year-old man dies during Israeli suppression of a violent riot at Kufr Qaddoum near Nablus; he is the first Palestinian casualty from conflict with Israel in 2014. ](/news/2014/01/3/an-85-year-old-man-dies-during-israeli-suppression-of-a-violent-riot-at-kufr-qaddoum-near-nablus-he-is-the-first-palestinian-casualty-from.md)
 _Context: Israeli-Palestinian conflict, Kufr Qaddoum, Nablus_
 
-### [Post-coup unrest in Egypt:: Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/post-coup-unrest-in-egypt-thirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md)
+### [Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/thirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md)
 Thirteen people were shot dead as supporters of the Muslim Brotherhood clashed with police across Egypt on Friday, defying an ever-widening state crackdown on the movement that ruled the country until six months ago.
 
-### [South Sudanese conflict (2013-present):: The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/south-sudanese-conflict-2013-present-the-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-det.md)
-_Context: Juba, South Sudanese conflict (2013-present)_
+### [The United States evacuates additional diplomatic personnel at its embassy in Juba due to the deteriorating security situation. ](/news/2014/01/3/the-united-states-evacuates-additional-diplomatic-personnel-at-its-embassy-in-juba-due-to-the-deteriorating-security-situation.md)
+_Context: Juba_
 
 ### [A winter storm hits the Northeastern United States, bringing snow to the region, affecting travel, and killing thirteen people. ](/news/2014/01/3/a-winter-storm-hits-the-northeastern-united-states-bringing-snow-to-the-region-affecting-travel-and-killing-thirteen-people.md)
 _Context: Northeastern United States_

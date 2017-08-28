@@ -1,6 +1,6 @@
 ## [2014-06-26](/news/2014/06/26/index.md)
 
-### [2014 Northern Iraq offensive: The Prime Minister of Iraq Nouri al-Maliki confirms that the Syrian Air Force bombed Islamic State in Iraq and the Levant positions in Iraq earlier in the week. ](/news/2014/06/26/2014-northern-iraq-offensive-the-prime-minister-of-iraq-nouri-al-maliki-confirms-that-the-syrian-air-force-bombed-islamic-state-in-iraq-and.md)
+### [The Prime Minister of Iraq Nouri al-Maliki confirms that the Syrian Air Force bombed Islamic State in Iraq and the Levant positions in Iraq earlier in the week. ](/news/2014/06/26/the-prime-minister-of-iraq-nouri-al-maliki-confirms-that-the-syrian-air-force-bombed-islamic-state-in-iraq-and-the-levant-positions-in-iraq.md)
 Iraqi forces launched an airborne assault on rebel-held Tikrit on Thursday with commandos flown into a stadium in helicopters, at least one of which crashed after taking fire from insurgents who have seized northern cities.
 
 ### [Authorities in China's Xinjiang region sentence 9 people for up to 14 years for terrorism offences. ](/news/2014/06/26/authorities-in-china-s-xinjiang-region-sentence-9-people-for-up-to-14-years-for-terrorism-offences.md)

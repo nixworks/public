@@ -18,7 +18,7 @@ _Context:  coal based electricity, Facebook, Inc., Greenpeace India's_
 ### [2010 strikes in France: French workers initiate a 24-hour strike against pension reform with transport services badly affected. ](/news/2010/10/12/2010-strikes-in-france-french-workers-initiate-a-24-hour-strike-against-pension-reform-with-transport-services-badly-affected.md)
 _Context: pension, recent strikes and demonstrations, strike_
 
-### [2010 Copiapo mining accident rescue:: Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/2010-copiapa3-mining-accident-rescue-chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining.md)
+### [Chile begins attempts to rescue 33 miners trapped underground as a result of the 2010 Copiapo mining accident. ](/news/2010/10/12/chile-begins-attempts-to-rescue-33-miners-trapped-underground-as-a-result-of-the-2010-copiapa3-mining-accident.md)
 The last of the 33 miners trapped deep underground in northern Chile for more than two months is rescued, amid scenes of jubilation.
 
 ### [41 people die following a collision between a bus and a train in the Dnipropetrovsk region in the eastern Ukraine. ](/news/2010/10/12/41-people-die-following-a-collision-between-a-bus-and-a-train-in-the-dnipropetrovsk-region-in-the-eastern-ukraine.md)

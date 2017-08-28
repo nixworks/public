@@ -11,4 +11,4 @@ A terrorist group seeking an independent Muslim state in western China has relea
 
 ### Related:
 
-1. [ 2008 Summer Olympics:: The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/2008-summer-olympics-the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-t.md) _Context: 2008 Olympic Games_
+1. [ The International Olympic Committee and the Beijing Organizing Committee reach an agreement on Internet access for the 2008 Olympic Games. ](/news/2008/08/1/the-international-olympic-committee-and-the-beijing-organizing-committee-reach-an-agreement-on-internet-access-for-the-2008-olympic-games.md) _Context: 2008 Olympic Games_

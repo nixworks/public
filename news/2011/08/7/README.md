@@ -1,6 +1,6 @@
 ## [2011-08-7](/news/2011/08/7/index.md)
 
-### [2011 Syrian uprising:: The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/2011-syrian-uprising-the-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md)
+### [The Syrian army attacks the city of Deir ez-Zor according to opposition activists. ](/news/2011/08/7/the-syrian-army-attacks-the-city-of-deir-ez-zor-according-to-opposition-activists.md)
 At least 82 people are killed across Syria as tanks and troops move against protesters in the eastern city of Deir al-Zour and near Homs, activists say, escalating a bloody government crackdown.
 
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh leaves hospital in Saudi Arabia after injuries sustained during the ongoing uprising. ](/news/2011/08/7/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-leaves-hospital-in-saudi-arabia-after-injuries-sustained-during-the-ongoing-uprisi.md)
@@ -21,7 +21,7 @@ _Context: Australian, French Resistance, London, Nancy Wake_
 ### [One person is killed and six are missing after a landslide in eastern Malaysia. ](/news/2011/08/7/one-person-is-killed-and-six-are-missing-after-a-landslide-in-eastern-malaysia.md)
 _Context: Malaysia_
 
-### [2011 London riots: The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. ](/news/2011/08/7/2011-london-riots-the-metropolitan-police-service-restores-order-in-tottenham-north-london-after-a-riot-on-saturday-night-in-which-twenty.md)
+### [The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. ](/news/2011/08/7/the-metropolitan-police-service-restores-order-in-tottenham-north-london-after-a-riot-on-saturday-night-in-which-twenty-six-police-officer.md)
 More than 40 people are arrested after rioting saw police attacked, buildings looted and vehicles set alight in Tottenham, north London.
 
 ### [Nepal bans smoking in public places. [http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_699698.html ("Straits Times")](/news/2011/08/7/nepal-bans-smoking-in-public-places-http-www-straitstimes-com-breakingnews-asia-story-stistory_699698-html-straits-times.md)

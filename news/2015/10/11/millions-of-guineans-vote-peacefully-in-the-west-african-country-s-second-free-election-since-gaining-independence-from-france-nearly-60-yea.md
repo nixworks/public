@@ -1,6 +1,6 @@
 ### [2015-10-11](/news/2015/10/11/index.md)
 
-# Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started;  the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. 
+# Millions of Guineans vote peacefully in the West African country's second free election since gaining independence from France nearly 60 years ago. Ballot counting started; the provisional outcome is not expected until the end of this week, an official said. Incumbent President Alpha Conde is expected to win reelection. 
 
 The country&#39;s constitutional court has ruled out postponing Sunday&#39;s election despite calls from opposition parties. Incumbent Alpha Conde faces challenges from six other hopefuls but is likely to retain the top job.
 

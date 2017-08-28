@@ -9,10 +9,10 @@ _Context: Lithuania, Russia_
 ### [ Crash landing at London Heathrow: A British Airways Boeing 777 flying from Beijing, China to London, England lands on the grass short of the south runway and continues onto the runway, stopping on the white stripes, injuring 13 people, but resulting in no fatalities. The chaos results in the cancellation of 200 flights. ](/news/2008/01/17/crash-landing-at-london-heathrow-a-british-airways-boeing-777-flying-from-beijing-china-to-london-england-lands-on-the-grass-short-of-th.md)
 _Context: Beijing, Boeing 777, British Airways, China, Crash landing at London Heathrow, England, London, runway_
 
-### [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004-present-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md)
+### [ War in Pakistan (2004-present): Another Pakistani security outpost near the border with Afghanistan is abandoned by government troops due to threats from pro-Taliban fighters. ](/news/2008/01/17/war-in-pakistan-2004apresent-another-pakistani-security-outpost-near-the-border-with-afghanistan-is-abandoned-by-government-troops-due.md)
 _Context: Afghanistan's, Pakistan, Taliban, War in Pakistan (2004-present)_
 
-### [ Civil unrest in Kenya (2007-2008): Kenya's police fire into the air to disperse opposition supporters in cities across the country on the second day of protests against disputed polls. ](/news/2008/01/17/civil-unrest-in-kenya-2007-2008-kenya-s-police-fire-into-the-air-to-disperse-opposition-supporters-in-cities-across-the-country-on-the.md)
+### [ Civil unrest in Kenya (2007-2008): Kenya's police fire into the air to disperse opposition supporters in cities across the country on the second day of protests against disputed polls. ](/news/2008/01/17/civil-unrest-in-kenya-2007a2008-kenya-s-police-fire-into-the-air-to-disperse-opposition-supporters-in-cities-across-the-country-on-the.md)
 _Context: Civil unrest in Kenya (2007-2008), Kenya_
 
 ### [ The Russian government closes British Council offices in St Petersburg and Ekaterinburg. ](/news/2008/01/17/the-russian-government-closes-british-council-offices-in-st-petersburg-and-ekaterinburg.md)

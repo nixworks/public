@@ -16,7 +16,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 1. [ The death toll in the Amagasaki rail crash in Japan rises to 104. Rescuers find the body of the train's driver. ](/news/2005/04/28/the-death-toll-in-the-amagasaki-rail-crash-in-japan-rises-to-104-rescuers-find-the-body-of-the-train-s-driver.md) _Context: Amagasaki rail crash, death toll_
 2. [ The death toll in the Amagasaki rail crash in Japan exceeds 91, and may increase to over 100. ](/news/2005/04/27/the-death-toll-in-the-amagasaki-rail-crash-in-japan-exceeds-91-and-may-increase-to-over-100.md) _Context: Amagasaki rail crash, death toll_
-3. [ 2008 Sichuan earthquake:: The death toll from the earthquake reaches 12,000. ](/news/2008/05/13/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-12-000.md) _Context: death toll_
+3. [ The death toll from the earthquake reaches 12,000. ](/news/2008/05/13/the-death-toll-from-the-earthquake-reaches-12-000.md) _Context: death toll_
 4. [ Residents flee Mogadishu as warlords and Islamist militias battle for control of the Somali capital. The death toll in five days of fighting reaches 120. ](/news/2006/05/11/residents-flee-mogadishu-as-warlords-and-islamist-militias-battle-for-control-of-the-somali-capital-the-death-toll-in-five-days-of-fightin.md) _Context: death toll_
 5. [ The death toll in the Djibouti ferry disaster reaches 109. ](/news/2006/04/8/the-death-toll-in-the-djibouti-ferry-disaster-reaches-109.md) _Context: death toll_
 6. [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md) _Context: death toll_

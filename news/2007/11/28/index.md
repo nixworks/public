@@ -21,8 +21,8 @@ U.S. Secretary of State Condoleezza Rice on Wednesday named retired Marine Gen. 
 ### [ Harry Redknapp, the manager of Portsmouth F.C., is one of five men arrested as part of an ongoing investigation of alleged corruption in British football. ](/news/2007/11/28/harry-redknapp-the-manager-of-portsmouth-f-c-is-one-of-five-men-arrested-as-part-of-an-ongoing-investigation-of-alleged-corruption-in-br.md)
 _Context: British, Harry Redknapp, Portsmouth, alleged corruption, footballer, manager_
 
-### [ 2007 Pakistani state of emergency:: The President of Pakistan Pervez Musharraf stands down as the head of the Pakistan Army. [http://www.foxnews.com/story/0,2933,313348,00.html (Fox News)]: General Ashfaq Parvez Kayani succeeds Musharraf as the 14th Chief of Army Staff of the Pakistan Army.date=December 2007 ](/news/2007/11/28/2007-pakistani-state-of-emergency-the-president-of-pakistan-pervez-musharraf-stands-down-as-the-head-of-the-pakistan-army-http-www-fo.md)
-_Context: 2007 Pakistani state of emergency, Ashfaq Parvez Kayani, Chief of Army Staff of the Pakistan Army, Pakistan army, Pervez Musharraf, President_
+### [ The President of Pakistan Pervez Musharraf stands down as the head of the Pakistan Army. [http://www.foxnews.com/story/0,2933,313348,00.html (Fox News)] General Ashfaq Parvez Kayani succeeds Musharraf as the 14th Chief of Army Staff of the Pakistan Army.date=December 2007 ](/news/2007/11/28/the-president-of-pakistan-pervez-musharraf-stands-down-as-the-head-of-the-pakistan-army-http-www-foxnews-com-story-0-2933-313348-00-htm.md)
+_Context: Ashfaq Parvez Kayani, Chief of Army Staff of the Pakistan Army, Pakistan army, Pervez Musharraf, President_
 
 ### [ A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.date=December 2007 ](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-lankan-minister-s-office-killing-one-and-injuring-two-date-december-2007.md)
 _Context: Sri Lanka, suicide bomber_
@@ -31,7 +31,7 @@ _Context: Sri Lanka, suicide bomber_
 _Context: China, Japan, Tokyo, Type 051B, World War II, destroyer_
 
 ### [ Authorities in Sudan charge a British school teacher at Unity High School in Khartoum with the crime of insulting Islam for letting students name a teddy bear Muhammad. ](/news/2007/11/28/authorities-in-sudan-charge-a-british-school-teacher-at-unity-high-school-in-khartoum-with-the-crime-of-insulting-islam-for-letting-student.md)
-_Context: Islam, Khartoum, Muhammad, Sudan, Unity High School, teddy bear_
+_Context: Khartoum, Muhammad, Muslims, Sudan, Unity High School, teddy bear_
 
 ## [Previous Day...](/news/2007/11/27/index.md)
 

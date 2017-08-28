@@ -12,4 +12,4 @@ Government hastily grants citizenship to Lithuanian, Georgian and American to en
 
 ### Related:
 
-1. [The Parliament of Ukraine removes the five-pointed red star from its spire in a measure aimed at erasing the nation-s Soviet legacy. ](/news/2014/02/25/the-parliament-of-ukraine-removes-the-five-pointed-red-star-from-its-spire-in-a-measure-aimed-at-erasing-the-nation-s-soviet-legacy.md) _Context: Parliament of Ukraine_
+1. [The Parliament of Ukraine removes the five-pointed red star from its spire in a measure aimed at erasing the nation's Soviet legacy. ](/news/2014/02/25/the-parliament-of-ukraine-removes-the-five-pointed-red-star-from-its-spire-in-a-measure-aimed-at-erasing-the-nationas-soviet-legacy.md) _Context: Parliament of Ukraine_

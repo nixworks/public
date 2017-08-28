@@ -24,7 +24,7 @@ _Context: Cote d'Ivoire, ECOWAS, Laurent Gbagbo_
 ### [Sudanese President Omar al-Bashir goes to Juba to meet with Southern Sudanese President of the Government Salva Kiir Mayardit ahead of Southern Sudan's independence referendum. ](/news/2011/01/4/sudanese-president-omar-al-bashir-goes-to-juba-to-meet-with-southern-sudanese-president-of-the-government-salva-kiir-mayardit-ahead-of-south.md)
 Visiting Sudanese President Omar al-Bashir reassures Southern Sudan he will help it even if it votes to secede in a referendum on Sunday.
 
-### [2010-2011 Tunisian protests: Reports continue to leak out of the country regarding civil unrest with claims that protests have spread to the city of Thala, where the ruling Constitutional Democratic Rally's offices have been attacked. ](/news/2011/01/4/2010-2011-tunisian-protests-reports-continue-to-leak-out-of-the-country-regarding-civil-unrest-with-claims-that-protests-have-spread-to-t.md)
+### [2010-2011 Tunisian protests: Reports continue to leak out of the country regarding civil unrest with claims that protests have spread to the city of Thala, where the ruling Constitutional Democratic Rally's offices have been attacked. ](/news/2011/01/4/2010a2011-tunisian-protests-reports-continue-to-leak-out-of-the-country-regarding-civil-unrest-with-claims-that-protests-have-spread-to-t.md)
 Protests over unemployment continue to spread across the country as the government forces try to curb growing unrest.
 
 ### [10-year-old Canadian Kathryn Gray becomes the youngest person ever to discover a supernova. ](/news/2011/01/4/10-year-old-canadian-kathryn-gray-becomes-the-youngest-person-ever-to-discover-a-supernova.md)

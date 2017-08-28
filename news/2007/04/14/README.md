@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Bill Richardson, North Korea, United States, nuclear reactor, six-party talks_
 
 ### [ Nigerian general election: Nigerian voters go to the polls for state governor and legislative elections. Security is tight in the northern city of Kano following the murder of militant Islamic cleric Ustaz Ja'afar Adam. ](/news/2007/04/14/nigerian-general-election-nigerian-voters-go-to-the-polls-for-state-governor-and-legislative-elections-security-is-tight-in-the-northern.md)
-_Context: Islam, Kano, Nigeria, Ustaz, gubernatorial elections, presidential election, ten new states_
+_Context: Kano, Muslims, Nigeria, Ustaz, gubernatorial elections, presidential election, ten new states_
 
 ## [Previous Day...](/news/2007/04/13/index.md)
 

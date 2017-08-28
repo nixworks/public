@@ -1,6 +1,6 @@
 ## [2014-01-8](/news/2014/01/8/index.md)
 
-### [South Yemen insurgency:: Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/south-yemen-insurgency-two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md)
+### [Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. ](/news/2014/01/8/two-suspected-al-qaeda-militants-are-killed-in-a-u-s-drone-strike-in-the-southeastern-province-of-hadhramaut.md)
 Two suspected al Qaeda militants were killed in a U.S. drone strike in the southeastern province of Hadramout on Wednesday, residents and local officials said.
 
 ### [A Canadian National Railway train from Toronto carrying crude oil and propane derails and catches fire in Plaster Rock, New Brunswick, in the northwest part of the province, causing 45 homes to be evacuated in a rural area. No one has yet been injured, and the fire has diminished, so far without the propane exploding. ](/news/2014/01/8/a-canadian-national-railway-train-from-toronto-carrying-crude-oil-and-propane-derails-and-catches-fire-in-plaster-rock-new-brunswick-in-th.md)
@@ -21,8 +21,8 @@ _Context: 67th British Academy Film Awards, London_
 ### [Facebook buys the Indian start-up Little Eye Labs. ](/news/2014/01/8/facebook-buys-the-indian-start-up-little-eye-labs.md)
 _Context: Facebook, Inc., India_
 
-### [Influenza A virus subtype H5N1:: Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/influenza-a-virus-subtype-h5n1-alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january.md)
-_Context: Alberta, Alberta Health Services, Calgary, Alberta, Influenza A virus subtype H5N1_
+### [Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january-1-2014-died-on-january-3-in-ca.md)
+_Context: Alberta, Alberta Health Services, Calgary, Alberta_
 
 ### [Imelda Marcos's former aide is sentenced in New York City for attempting to sell a painting of Claude Monet allegedly bought with embezzled funds. ](/news/2014/01/8/imelda-marcos-s-former-aide-is-sentenced-in-new-york-city-for-attempting-to-sell-a-painting-of-claude-monet-allegedly-bought-with-embezzled.md)
 _Context: Imelda Marcos, Monet, New York City, embezzlement_
@@ -34,7 +34,7 @@ _Context: Foreign Narcotics Kingpin Designation Act, Jos Rodrigo Archiga Gamboa,
 _Context: 2011 England Riots, High Court, London, Metropolitan Police, Tottenham, Trident Gang Crime Command, deadly police shooting of Mark Duggan, firearms officers, inquest_
 
 ### [A book released by former U.S. Defense Secretary Robert Gates criticizes President Barack Obama for his handling of the War in Afghanistan. ](/news/2014/01/8/a-book-released-by-former-u-s-defense-secretary-robert-gates-criticizes-president-barack-obama-for-his-handling-of-the-war-in-afghanistan.md)
-_Context: Barack Obama, Robert Gates, War in Afghanistan (2001-present)_
+_Context: Barack Obama, Robert Gates, War in Afghanistan_
 
 ## [Previous Day...](/news/2014/01/7/index.md)
 

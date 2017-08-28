@@ -13,4 +13,4 @@ Investigators in southern India find the cockpit voice recorder in the wreckage 
 
 ### Related:
 
-1. [Air India Express Flight 812:: Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md) _Context: Air India Express Flight 812_
+1. [Air India Express Flight 812, with 166 people on board, crashes near Mangalore International Airport. ](/news/2010/05/22/air-india-express-flight-812-with-166-people-on-board-crashes-near-mangalore-international-airport.md) _Context: Air India Express Flight 812_

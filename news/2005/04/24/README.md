@@ -28,7 +28,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Bangladesh, Kuwait, Kuwait City_
 
 ### [ Forty Pakistani Christians are arrested in Riyadh, Saudi Arabia for practicing their religion in violation of a Saudi law forbidding the practice of any religion but Islam. ](/news/2005/04/24/forty-pakistani-christians-are-arrested-in-riyadh-saudi-arabia-for-practicing-their-religion-in-violation-of-a-saudi-law-forbidding-the-pr.md)
-_Context: Christian, Islam, Pakistan, Riyadh, Saudi Arabia_
+_Context: Christian, Muslims, Pakistan, Riyadh, Saudi Arabia_
 
 ## [Previous Day...](/news/2005/04/23/index.md)
 

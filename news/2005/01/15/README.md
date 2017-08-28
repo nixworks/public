@@ -9,10 +9,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 ### [ Conflict in Iraq: U.S.-led forces in Iraq have destroyed and contaminated precious ancient Babylonian archaeological evidence and sites according to a report by the British Museum. ](/news/2005/01/15/conflict-in-iraq-u-s-led-forces-in-iraq-have-destroyed-and-contaminated-precious-ancient-babylonian-archaeological-evidence-and-sites-acc.md)
 _Context: Babylon, Conflict in Iraq, Iraq, United States_
 
-### [ Palestinian presidential election:: Mahmoud Abbas (a.k.a. Abu Mazen) is sworn in as president of the Palestinian Authority in a ceremony in the West Bank town of Ramallah, six days after winning the Palestinian presidential election. ](/news/2005/01/15/palestinian-presidential-election-mahmoud-abbas-a-k-a-abu-mazen-is-sworn-in-as-president-of-the-palestinian-authority-in-a-ceremony-in.md)
+### [ Mahmoud Abbas (a.k.a. Abu Mazen) is sworn in as president of the Palestinian Authority in a ceremony in the West Bank town of Ramallah, six days after winning the Palestinian presidential election. ](/news/2005/01/15/mahmoud-abbas-a-k-a-abu-mazen-is-sworn-in-as-president-of-the-palestinian-authority-in-a-ceremony-in-the-west-bank-town-of-ramallah-six.md)
 _Context: Mahmoud Abbas, Palestinian Authority, Palestinian presidential election, Ramallah, West Bank_
 
-### [ Israeli-Palestinian Conflict: Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/israeli-palestinian-conflict-mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-b.md)
+### [ Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-between-the-israelis-and-the-pa.md)
 _Context: Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian_
 
 ### [ The fictional character Jra da Cimrman is reported in a big surprise to lead the scores of "The Biggest Czech person" competition organized by Czech television.](/news/2005/01/15/the-fictional-character-jara-da-cimrman-is-reported-in-a-big-surprise-to-lead-the-scores-of-the-biggest-czech-person-competition-organize.md)

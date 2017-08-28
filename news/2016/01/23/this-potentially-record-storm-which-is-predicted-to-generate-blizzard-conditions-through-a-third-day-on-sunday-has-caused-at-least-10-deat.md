@@ -1,6 +1,6 @@
 ### [2016-01-23](/news/2016/01/23/index.md)
 
-# This potentially record storm, which is predicted to generate blizzard conditions through a third day on Sunday, has caused at least 10 deaths, knocked out power to hundreds of thousands, led to more than 8,300 canceled flights,  stranded many travelers on major highways and, with up to 70 mph winds, produced record-high tides along the Delaware and New Jersey shores. 
+# This potentially record storm, which is predicted to generate blizzard conditions through a third day on Sunday, has caused at least 10 deaths, knocked out power to hundreds of thousands, led to more than 8,300 canceled flights, stranded many travelers on major highways and, with up to 70 mph winds, produced record-high tides along the Delaware and New Jersey shores. 
 
 The storm effectively shut down New York City and D.C., while dumping as much as 3 feet of snow elsewhere.
 

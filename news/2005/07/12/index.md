@@ -43,7 +43,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Costa Rica, San Jose, Costa Rica_
 
 ### [ In Myanmar (Burma), the government begins a trial against Khin Nyunt, former prime minister, accused of bribery and corruption. The trial is held inside Insein prison in Rangoon. ](/news/2005/07/12/in-myanmar-burma-the-government-begins-a-trial-against-khin-nyunt-former-prime-minister-accused-of-bribery-and-corruption-the-trial-i.md)
-_Context: Insein Prison, Khin Nyunt, Myanmar, Yangon, anti-corruption, bribes_
+_Context: Burmese, Insein Prison, Khin Nyunt, Yangon, anti-corruption, bribes_
 
 ### [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md)
 _Context: Amorebieta, Basque, Bilbao, ETA, Spain, power station_
@@ -51,7 +51,7 @@ _Context: Amorebieta, Basque, Bilbao, ETA, Spain, power station_
 ### [ In Somalia, United Nations World Food Programme threatens to stop food shipments to the country for ten years if the hijacked food ship and its crew are not released ](/news/2005/07/12/in-somalia-united-nations-world-food-programme-threatens-to-stop-food-shipments-to-the-country-for-ten-years-if-the-hijacked-food-ship-and.md)
 _Context: Somalia, United Nations, World Food Programme_
 
-### [ The European Court of Justice fines France -20 million ($24 million) for flouting European Union fishing quotas ](/news/2005/07/12/the-european-court-of-justice-fines-france-20-million-24-million-for-flouting-european-union-fishing-quotas.md)
+### [ The European Court of Justice fines France EUR20 million ($24 million) for flouting European Union fishing quotas ](/news/2005/07/12/the-european-court-of-justice-fines-france-a-20-million-24-million-for-flouting-european-union-fishing-quotas.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ In Fiji, head of the military, Frank Bainimarama threatens to declare martial law and oust the government if it gives amnesty to those involved with 2000 coup attempt ](/news/2005/07/12/in-fiji-head-of-the-military-frank-bainimarama-threatens-to-declare-martial-law-and-oust-the-government-if-it-gives-amnesty-to-those-invo.md)

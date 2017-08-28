@@ -1,9 +1,9 @@
 ## [2013-09-20](/news/2013/09/20/index.md)
 
-### [Al-Qaeda insurgency in Yemen:: Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/al-qaeda-insurgency-in-yemen-separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md)
-_Context: Al-Qaeda insurgency in Yemen, Shabwa Governorate, Yemeni Army_
+### [Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md)
+_Context: Shabwa Governorate, Yemeni Army_
 
-### [Syrian civil war:: Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/syrian-civil-war-iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md)
+### [Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md)
 Outline of nuclear deal begins to emerge before UN debut as president says people should &#x27;be completely free in private life&#x27;
 
 ### [The video game "Grand Theft Auto V" becomes the fastest single entertainment product to reach sales of US$1 billion. ](/news/2013/09/20/the-video-game-grand-theft-auto-v-becomes-the-fastest-single-entertainment-product-to-reach-sales-of-us-1-billion.md)

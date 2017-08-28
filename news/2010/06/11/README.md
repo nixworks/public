@@ -1,17 +1,17 @@
 ## [2010-06-11](/news/2010/06/11/index.md)
 
 ### [RPET5's 20th Birthday!](/news/2010/06/11/rpet5-s-20th-birthday.md)
-### [Shanghai International Film Festival:: From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/shanghai-international-film-festival-from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-inte.md)
+### [From Oscar-winning blockbusters to low-budget art-house and documentary films, the 13th Shanghai International Film Festival screens films for everyone. It will feature a retrospective of films by Woody Allen and John Woo, classic movies from Japan, Canada, Germany, Italy and Ireland, as well as new Chinese cinema. ](/news/2010/06/11/from-oscar-winning-blockbusters-to-low-budget-art-house-and-documentary-films-the-13th-shanghai-international-film-festival-screens-films-f.md)
 _Context: 13th, Academy Award, Canada, Chinese cinema, Germany, Ireland, Italian, Japan, John Woo, Shanghai International Film Festival, Woody Allen_
 
-### [2010 Kyrgyzstan crisis:: Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/2010-kyrgyzstan-crisis-riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes.md)
+### [Riots erupt in the southern city of Osh killing at least 45, and injuring over a hundred others. The violence comes just over two months after violent riots in Bishkek toppled Kurmanbek Bakiyev's government, and only days ahead of a critical constitutional referendum. ](/news/2010/06/11/riots-erupt-in-the-southern-city-of-osh-killing-at-least-45-and-injuring-over-a-hundred-others-the-violence-comes-just-over-two-months-aft.md)
 Thousands flee homes in southern region as ethnic unrest leaves more than 600 wounded.
 
-### [Mexico - United States relations:: Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/mexico-united-states-relations-univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
-_Context: Mexico, Mexico - United States relations, United States, Univision's_
+### [Univision airs video footage of the U.S. agent who fatally shot a Mexican boy on Monday. ](/news/2010/06/11/univision-airs-video-footage-of-the-u-s-agent-who-fatally-shot-a-mexican-boy-on-monday.md)
+_Context: Mexico, United States, Univision's_
 
-### [Politics of Japan:: Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
-_Context: Japan, Naoto Kan, Politics of Japan, Prime Minister of Japan_
+### [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md)
+_Context: Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [Francois Bazaramba is sentenced to life imprisonment for his part in the 1994 Rwandan Genocide in Porvoo, Finland's first genocide trial. ](/news/2010/06/11/franassois-bazaramba-is-sentenced-to-life-imprisonment-for-his-part-in-the-1994-rwandan-genocide-in-porvoo-finland-s-first-genocide-trial.md)
 A finish court has found a Rwandan man guilty of taking part in the African country’s 1994 genocide and handed him a sentence of life in prison. 
@@ -55,10 +55,10 @@ _Context: Shanghai International Film Festival, Taipei_
 ### [Jane Fonda is awarded the Great Medal of Paris by mayor Bertrand Delanoe for her contribution to the city's art and culture during the Paris Cinema Festival. ](/news/2010/06/11/jane-fonda-is-awarded-the-great-medal-of-paris-by-mayor-bertrand-delanoa-for-her-contribution-to-the-city-s-art-and-culture-during-the-pari.md)
 Paris Mayor Bertrand Delanoe presented American actress Jane Fonda with the city&#39;s grand medal on Thursday.Duration: 01:05
 
-### [2010 FIFA World Cup:: The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/2010-fifa-world-cup-the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md)
+### [The first African edition of the association football tournament begins in South Africa. ](/news/2010/06/11/the-first-african-edition-of-the-association-football-tournament-begins-in-south-africa.md)
 Nelson Mandela is not attending the opening game of the World Cup today following the death of his great granddaughter in a car crash yesterday.
 
-### [NCAA (U.S. college) conference realignment:: Boise State University will leave the Western Athletic Conference to join the Mountain West Conference. ](/news/2010/06/11/ncaa-u-s-college-conference-realignment-boise-state-university-will-leave-the-western-athletic-conference-to-join-the-mountain-west-con.md)
+### [Boise State University will leave the Western Athletic Conference to join the Mountain West Conference. ](/news/2010/06/11/boise-state-university-will-leave-the-western-athletic-conference-to-join-the-mountain-west-conference.md)
 Boise State was announced as the next member of the Mountain West Conference on Friday.
 
 ### [Astronomers at the European Southern Observatory's Very Large Telescope (VLT) in Chile track the motion of gas giant Beta Pictoris b, the first time an extra-solar planet is tracked in orbit around a young star. ](/news/2010/06/11/astronomers-at-the-european-southern-observatory-s-very-large-telescope-vlt-in-chile-track-the-motion-of-gas-giant-beta-pictoris-b-the-fi.md)

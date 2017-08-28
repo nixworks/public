@@ -18,7 +18,7 @@ _Context: India, Iran, United States_
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
 _Context: U.S. state, Virginia, day of mourning, massacre_
 
-### [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-march-april-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md)
+### [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-marchaapril-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md)
 _Context: Ethiopia, Mogadishu, heavy clashes_
 
 ### [ Scientists prove that eating less salt reduces the chances of stroke or heart attack in the first long-term study on salt's effect on health. ](/news/2007/04/20/scientists-prove-that-eating-less-salt-reduces-the-chances-of-stroke-or-heart-attack-in-the-first-long-term-study-on-salt-s-effect-on-healt.md)

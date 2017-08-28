@@ -1,6 +1,6 @@
 ## [2015-05-19](/news/2015/05/19/index.md)
 
-### [Syrian Civil War: The Russian embassy in Damascus is shelled. ](/news/2015/05/19/syrian-civil-war-the-russian-embassy-in-damascus-is-shelled.md)
+### [The Russian embassy in Damascus is shelled. ](/news/2015/05/19/the-russian-embassy-in-damascus-is-shelled.md)
 The Russian embassy in the Syrian capital of Damascus was shelled on Tuesday, with Moscow stating that it considers the attack on its diplomatic mission an act of terror.
 
 ### [The inflation rate in the United Kingdom goes to -0.1 in April, marking the first time since 1960 it has been negative. ](/news/2015/05/19/the-inflation-rate-in-the-united-kingdom-goes-to-0-1-in-april-marking-the-first-time-since-1960-it-has-been-negative.md)
@@ -18,7 +18,7 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 ### [The death toll from landslides in the Colombian town of Salgar rises to 56 with scores missing. ](/news/2015/05/19/the-death-toll-from-landslides-in-the-colombian-town-of-salgar-rises-to-56-with-scores-missing.md)
 _Context: 2015 Colombian landslide, Colombia, Salgar_
 
-### [Germanwings Flight 9525: French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/germanwings-flight-9525-french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been.md)
+### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
 _Context: France, French-born, Germanwings Flight 9525_
 
 ### [ At least 16 people are killed and scores are injured in a residential building fire in Baku, Azerbaijan. ](/news/2015/05/19/at-least-16-people-are-killed-and-scores-are-injured-in-a-residential-building-fire-in-baku-azerbaijan.md)

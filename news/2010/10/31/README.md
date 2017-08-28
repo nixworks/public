@@ -21,8 +21,8 @@ _Context: Hugo Chvez, President, Sidetur, Sivensa_
 ### [The Sony BMG CD copy protection scandal is triggered after Mark Russinovich publishes details of Sony's rootkit.](/news/2010/10/31/the-sony-bmg-cd-copy-protection-scandal-is-triggered-after-mark-russinovich-publishes-details-of-sony-s-rootkit.md)
 _Context: Mark Russinovich, Sony BMG CD copy protection scandal, rootkit_
 
-### [2010 Atlantic hurricane season:: The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/2010-atlantic-hurricane-season-the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later.md)
-_Context: 2010 Atlantic hurricane season, Haiti cholera outbreak, Tropical Storm Tomas_
+### [The death toll from the 2010 Haitian cholera outbreak reaches 330 with the impact of Hurricane Tomas later in the week expected to make things worse. ](/news/2010/10/31/the-death-toll-from-the-2010-haitian-cholera-outbreak-reaches-330-with-the-impact-of-hurricane-tomas-later-in-the-week-expected-to-make-thin.md)
+_Context: Haiti cholera outbreak, Tropical Storm Tomas_
 
 ### [The death toll from the Sumatra tsunami reaches 435 with 110 people missing and feared dead. ](/news/2010/10/31/the-death-toll-from-the-sumatra-tsunami-reaches-435-with-110-people-missing-and-feared-dead.md)
 Indonesia has ramped up efforts to help those on remote islands hit by a devastating tsunami as an official put the latest death toll at 435.

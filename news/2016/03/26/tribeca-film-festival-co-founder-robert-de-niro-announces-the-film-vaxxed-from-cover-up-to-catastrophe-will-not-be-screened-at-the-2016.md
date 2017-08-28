@@ -1,6 +1,6 @@
 ### [2016-03-26](/news/2016/03/26/index.md)
 
-# Tribeca Film Festival co-founder Robert De Niro announces the film, "Vaxxed: From Cover-Up to Catastrophe", will not be screened at the 2016 Festival as previously announced. -Grace [Hightower] and I have a child with autism and we believe it is critical that all of the issues surrounding the causes of autism be openly discussed and examined," Mr. De Niro said. "... (our) Tribeca Film Festival team and others from the scientific community ... do not believe (this film) contributes to or furthers the discussion (about autism) I hoped for," the actor/producer said. 
+# Tribeca Film Festival co-founder Robert De Niro announces the film, "Vaxxed: From Cover-Up to Catastrophe", will not be screened at the 2016 Festival as previously announced. "Grace [Hightower] and I have a child with autism and we believe it is critical that all of the issues surrounding the causes of autism be openly discussed and examined," Mr. De Niro said. "... (our) Tribeca Film Festival team and others from the scientific community ... do not believe (this film) contributes to or furthers the discussion (about autism) I hoped for," the actor/producer said. 
 
 
 

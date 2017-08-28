@@ -1,6 +1,6 @@
 ## [2012-01-6](/news/2012/01/6/index.md)
 
-### [2011-2012 Syrian uprising: According to Syrian state media, 26 people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus. The Syrian opposition blames the Syrian government for orchestrating the attack, and alleges that they have leaked information from security forces that Aleppo is next. ](/news/2012/01/6/2011-2012-syrian-uprising-according-to-syrian-state-media-26-people-are-killed-and-63-wounded-when-a-suicide-bomber-blows-himself-up-at.md)
+### [2011-2012 Syrian uprising: According to Syrian state media, 26 people are killed and 63 wounded when a suicide bomber blows himself up at a police station in Damascus. The Syrian opposition blames the Syrian government for orchestrating the attack, and alleges that they have leaked information from security forces that Aleppo is next. ](/news/2012/01/6/2011a2012-syrian-uprising-according-to-syrian-state-media-26-people-are-killed-and-63-wounded-when-a-suicide-bomber-blows-himself-up-at.md)
 _Context: 2011-2012 Syrian uprising, 26 people are killed and 63 wounded, Damascus, suicide bomber_
 
 ### [Asa'ib Ahl al-Haq, the Iranian-backed Shiite militia that carried out deadly attacks on U.S. troops agrees to lay down its arms and join the political process in Iraq. ](/news/2012/01/6/asa-ib-ahl-al-haq-the-iranian-backed-shiite-militia-that-carried-out-deadly-attacks-on-u-s-troops-agrees-to-lay-down-its-arms-and-join-the.md)

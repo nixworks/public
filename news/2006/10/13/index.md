@@ -30,8 +30,8 @@ _Context: Pennsylvania, U.S. state, Wal-Mart_
 ### [ The US government has rebuffed UK calls to close its controversial detention centre at Guantnamo Bay in Cuba. ](/news/2006/10/13/the-us-government-has-rebuffed-uk-calls-to-close-its-controversial-detention-centre-at-guantanamo-bay-in-cuba.md)
 _Context: Cuba, Guantnamo Bay detainment camp, UK, US$_
 
-### [ Iraq War:: A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/iraq-war-a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-ira.md)
-_Context: ITN, Iraq, Iraq War, Terry Lloyd, US$, coronial, unlawful killing_
+### [ A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. ](/news/2006/10/13/a-coroner-has-recorded-a-verdict-of-unlawful-killing-on-itn-reporter-terry-lloyd-who-was-shot-dead-by-us-forces-in-southern-iraq-in-march.md)
+_Context: ITN, Iraq, Terry Lloyd, US$, coronial, unlawful killing_
 
 ### [ Two people protesting the impeachment of Plateau State governor Joshua Dariye are killed by riot police in Jos, Nigeria. ](/news/2006/10/13/two-people-protesting-the-impeachment-of-plateau-state-governor-joshua-dariye-are-killed-by-riot-police-in-jos-nigeria.md)
 _Context: Jos, Joshua Dariye, Nigeria, Plateau State_
@@ -42,7 +42,7 @@ _Context: British government, Irish government, Northern Ireland, St. Andrews Ag
 ### [ Bangladesh's Muhammad Yunus and the Grameen Bank win the Nobel Peace Prize for working to advance economic and social development among the poor. ](/news/2006/10/13/bangladesh-s-muhammad-yunus-and-the-grameen-bank-win-the-nobel-peace-prize-for-working-to-advance-economic-and-social-development-among-the.md)
 _Context: Bangladesh, Grameen Bank, Muhammad Yunus, Nobel Peace Prize_
 
-### [ 2006 North Korean nuclear test: The United States is encouraging a vote on a United Nations resolution, which currently would impose an arms embargo and freezing of North Korean funds connected to North Korean nuclear and ballistic missile programs, despite opposition from the People's Republic of China, which has veto power. ](/news/2006/10/13/2006-north-korean-nuclear-test-the-united-states-is-encouraging-a-vote-on-a-united-nations-resolution-which-currently-would-impose-an-arm.md)
+### [ The United States is encouraging a vote on a United Nations resolution, which currently would impose an arms embargo and freezing of North Korean funds connected to North Korean nuclear and ballistic missile programs, despite opposition from the People's Republic of China, which has veto power. ](/news/2006/10/13/the-united-states-is-encouraging-a-vote-on-a-united-nations-resolution-which-currently-would-impose-an-arms-embargo-and-freezing-of-north.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Veterinarians are reported to use vasectomies to control elephant overpopulation in Africa. At Kruger National Park, their numbers have doubled in the last decade. ](/news/2006/10/13/veterinarians-are-reported-to-use-vasectomies-to-control-elephant-overpopulation-in-africa-at-kruger-national-park-their-numbers-have-dou.md)

@@ -15,8 +15,8 @@ _Context: Al Jazeera, Osama bin Laden, Sunni, al-Qaeda in Iraq, audiotape_
 ### [ An investigation concludes pilot error caused the crash of Garuda Indonesia Flight 200 on March 7, killing 21 people. ](/news/2007/10/22/an-investigation-concludes-pilot-error-caused-the-crash-of-garuda-indonesia-flight-200-on-march-7-killing-21-people.md)
 _Context: Marwoto Komar, Pilot error_
 
-### [ California wildfires of October 2007:: At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/california-wildfires-of-october-2007-at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than.md)
-_Context: California wildfires, Southern California, evacuation centers, wildfires_
+### [ At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. ](/news/2007/10/22/at-least-a-dozen-wildfires-burning-throughout-southern-california-force-the-evacuations-of-more-than-250-000-residents.md)
+_Context: Southern California, evacuation centers, wildfires_
 
 ### [ Joaquim Chissano wins the inaugural Prize for Achievement in African Leadership for "his role in leading Mozambique from conflict to peace and democracy." ](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.md)
 _Context: Joaquim Chissano, Mozambique, Prize for Achievement in African Leadership, conflict, democratic progress_

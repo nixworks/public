@@ -1,7 +1,7 @@
 ## [2008-05-10](/news/2008/05/10/index.md)
 
-### [ May 2008 tornado outbreak sequence:: A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/may-2008-tornado-outbreak-sequence-a-tornado-kills-at-least-nine-in-picher-oklahoma.md)
-_Context: May 2008 tornado outbreak sequence, Oklahoma!, Picher, tornado_
+### [ A tornado kills at least nine in Picher, Oklahoma. ](/news/2008/05/10/a-tornado-kills-at-least-nine-in-picher-oklahoma.md)
+_Context: Oklahoma!, Picher, tornado_
 
 ### [ United States presidential election, 2008: Illinois Senator Barack Obama takes the lead in support from superdelegates to the Democratic National Convention ](/news/2008/05/10/united-states-presidential-election-2008-illinois-senator-barack-obama-takes-the-lead-in-support-from-superdelegates-to-the-democratic-na.md)
 Hillary Rodham Clinton’s trump card began slipping from her grasp, and her speeches took a more conciliatory tone.
@@ -18,8 +18,8 @@ _Context: Alexander Zelin, NATO, Russia_
 ### [ Muqtada al-Sadr and the Iraqi Government announced a ceasefire in Baghdad's Sadr district. ](/news/2008/05/10/muqtada-al-sadr-and-the-iraqi-government-announced-a-ceasefire-in-baghdad-s-sadr-district.md)
 _Context: Muqtada al-Sadr_
 
-### [ 2008 unrest in Lebanon:: The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/2008-unrest-in-lebanon-the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md)
-_Context: 2008 unrest in Lebanon, Fuad Saniora, Hezbollah, Lebanon, Prime Minister, coup_
+### [ The Prime Minister of Lebanon Fuad Saniora accuses Hezbollah of staging "an armed coup" against Lebanon. ](/news/2008/05/10/the-prime-minister-of-lebanon-fuad-saniora-accuses-hezbollah-of-staging-an-armed-coup-against-lebanon.md)
+_Context: Fuad Saniora, Hezbollah, Lebanon, Prime Minister, coup_
 
 ### [ Ninawa campaign: The Iraqi Army launched a major operation in the northern city of Mosul against al-Qaeda and its allies. ](/news/2008/05/10/ninawa-campaign-the-iraqi-army-launched-a-major-operation-in-the-northern-city-of-mosul-against-al-qaeda-and-its-allies.md)
 _Context: Iraqi Army, Mosul, Ninawa campaign, al-Qaeda_

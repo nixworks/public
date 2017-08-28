@@ -1,6 +1,6 @@
 ### [2016-11-12](/news/2016/11/12/index.md)
 
-# A Zimbabwe high court judge drops charges against Theo Bronkhorst, the professional hunter who led the expedition that resulted in the death of the lion named Cecil, because the prosecutor's filing was not properly constituted, and  was "too vague to enable (the defendant) to mount a proper defense." 
+# A Zimbabwe high court judge drops charges against Theo Bronkhorst, the professional hunter who led the expedition that resulted in the death of the lion named Cecil, because the prosecutor's filing was not properly constituted, and was "too vague to enable (the defendant) to mount a proper defense." 
 
 A high court in Zimbabwe dropped charges against a professional hunter who led the expedition that killed Cecil the lion in 2015.
 
@@ -21,4 +21,4 @@ A high court in Zimbabwe dropped charges against a professional hunter who led t
 7. [Riots break out in Harare, the capital of Zimbabwe, after police attempt to disperse a protest by the city's taxi drivers. ](/news/2016/07/4/riots-break-out-in-harare-the-capital-of-zimbabwe-after-police-attempt-to-disperse-a-protest-by-the-city-s-taxi-drivers.md) _Context: Zimbabwe_
 8. [Evan Mawarire, the most visible leader of the protests in Zimbabwe, is arrested and charged with "inciting public violence and disturbing peace." ](/news/2016/07/12/evan-mawarire-the-most-visible-leader-of-the-protests-in-zimbabwe-is-arrested-and-charged-with-inciting-public-violence-and-disturbing-pe.md) _Context: Zimbabwe_
 9. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Zimbabwe_
-10. [At least 31 people are killed in Kwekwe, Zimbabwe, when a bus, with a blown front tire, switches lanes and slams into an oncoming public transport minibus.  ](/news/2016/03/3/at-least-31-people-are-killed-in-kwekwe-zimbabwe-when-a-bus-with-a-blown-front-tire-switches-lanes-and-slams-into-an-oncoming-public-tra.md) _Context: Zimbabwe_
+10. [At least 31 people are killed in Kwekwe, Zimbabwe, when a bus, with a blown front tire, switches lanes and slams into an oncoming public transport minibus. ](/news/2016/03/3/at-least-31-people-are-killed-in-kwekwe-zimbabwe-when-a-bus-with-a-blown-front-tire-switches-lanes-and-slams-into-an-oncoming-public-tra.md) _Context: Zimbabwe_

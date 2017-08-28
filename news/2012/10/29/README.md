@@ -1,6 +1,6 @@
 ## [2012-10-29](/news/2012/10/29/index.md)
 
-### [Syrian civil war:: Two deadly car bombings rock Damascus, according to Syrian state media. ](/news/2012/10/29/syrian-civil-war-two-deadly-car-bombings-rock-damascus-according-to-syrian-state-media.md)
+### [Two deadly car bombings rock Damascus, according to Syrian state media. ](/news/2012/10/29/two-deadly-car-bombings-rock-damascus-according-to-syrian-state-media.md)
 Two car bombings in the Syrian capital Damascus kill at least 10 people, state media report, as a supposed ceasefire draws to an end.
 
 ### [Bahraini uprising: Anti-government protests are banned and legal action is threatened against those backing the protests. ](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.md)
@@ -15,7 +15,7 @@ _Context: Penguin, Random House_
 ### [Hurricane Sandy strikes New York City.](/news/2012/10/29/hurricane-sandy-strikes-new-york-city.md)
 _Context: Hurricane Sandy, New York City_
 
-### [Human Rights Watch and other rights groups issue a report rejecting the Israeli government-s arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-government-s-arguments-against-accepting-africans-migrants.md)
+### [Human Rights Watch and other rights groups issue a report rejecting the Israeli government's arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-governmentas-arguments-against-accepting-africans-migrants.md)
 Human rights groups criticise Israel for the treatment of migrants trying to enter the country from Egypt.
 
 ### [Activists descend on the city of Paju to float 50,000 propaganda leaflets on balloons into North Korea, despite protests from local South Korean residents concerned at provoking a military response. ](/news/2012/10/29/activists-descend-on-the-city-of-paju-to-float-50-000-propaganda-leaflets-on-balloons-into-north-korea-despite-protests-from-local-south-ko.md)

@@ -1,6 +1,6 @@
 ### [2010-12-31](/news/2010/12/31/index.md)
 
-# Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation- 
+# Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation" 
 
 
 

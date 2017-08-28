@@ -1,18 +1,18 @@
 ## [2013-03-4](/news/2013/03/4/index.md)
 
-### [Northern Mali conflict:: French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/northern-mali-conflict-french-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weeken.md)
+### [French officials announce that a soldier was killed in action during contact with Islamic militants over the weekend. It is France's third casualty since operations began in Operation Serval. ](/news/2013/03/4/french-officials-announce-that-a-soldier-was-killed-in-action-during-contact-with-islamic-militants-over-the-weekend-it-is-france-s-third-c.md)
 A French soldier is killed in heavy fighting in northern Mali in the same region where Chad said it killed Islamist leader Mokhtar Belmokhtar.
 
-### [March 2013 Karachi bombing:: Gunmen shoot and kill two people returning from a funeral for victims of the bombing. ](/news/2013/03/4/march-2013-karachi-bombing-gunmen-shoot-and-kill-two-people-returning-from-a-funeral-for-victims-of-the-bombing.md)
+### [Gunmen shoot and kill two people returning from a funeral for victims of the bombing. ](/news/2013/03/4/gunmen-shoot-and-kill-two-people-returning-from-a-funeral-for-victims-of-the-bombing.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [2013 Lahad Datu standoff:: The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/2013-lahad-datu-standoff-the-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-ma.md)
+### [The death toll in Malaysia rises to 26 as conflict between people claiming to follow the Sultanate of Sulu and Malaysian Armed Forces continue. ](/news/2013/03/4/the-death-toll-in-malaysia-rises-to-26-as-conflict-between-people-claiming-to-follow-the-sultanate-of-sulu-and-malaysian-armed-forces-contin.md)
 The three-week standoff involving a band of Filipino rebels who stormed a northern Borneo village has now claimed at least 26 lives 
 
-### [2012-2013 Egyptian protests:: Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/2012-2013-egyptian-protests-five-people-die-in-clashes-between-protestors-and-egyptian-police.md)
+### [Five people die in clashes between protestors and Egyptian police. ](/news/2013/03/4/five-people-die-in-clashes-between-protestors-and-egyptian-police.md)
 Five people - including two policemen - have been killed in clashes between protesters and security forces in the Egyptian city of Port Said, officials say.
 
-### [Akashat ambush:: At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/akashat-ambush-at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md)
+### [At least 40 Syrian soldiers are killed in ambush in Western Iraq. ](/news/2013/03/4/at-least-40-syrian-soldiers-are-killed-in-ambush-in-western-iraq.md)
 At least 40 Syrian soldiers and Iraqis have been killed by gunmen in western Iraq, officials in Baghdad say.
 
 ### [Queen Elizabeth II returns to Buckingham Palace after spending one night in hospital. ](/news/2013/03/4/queen-elizabeth-ii-returns-to-buckingham-palace-after-spending-one-night-in-hospital.md)
@@ -33,14 +33,14 @@ Dozens of people have died after a plane crashed into a residential area of Goma
 ### [At least 9 people die after heavy snowfall hit the northern Japanese island of Hokkaido over the weekend. ](/news/2013/03/4/at-least-9-people-die-after-heavy-snowfall-hit-the-northern-japanese-island-of-hokkaido-over-the-weekend.md)
 At least nine people die after heavy snowfall hits the northern Japanese island of Hokkaido over the weekend.
 
-### [Kenyan general election, 2013:: Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/kenyan-general-election-2013-voters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-viole.md)
+### [Voters in Kenya go to the polls for a general election with police issuing reports warning of possible violence. ](/news/2013/03/4/voters-in-kenya-go-to-the-polls-for-a-general-election-with-police-issuing-reports-warning-of-possible-violence.md)
 At least four Kenyan police officers, deployed to keep the peace in a tense presidential election following hundreds of deaths after a 2007 vote, were hacked to death by a gang hours before polling stations opened on Monday, a senior officer said.
 
 ### [Hugo Chavez, the President of Venezuela is suffering from a new severe respiratory infection as he struggles to recover from cancer surgery conducted in Cuba. ](/news/2013/03/4/hugo-cha-vez-the-president-of-venezuela-is-suffering-from-a-new-severe-respiratory-infection-as-he-struggles-to-recover-from-cancer-surgery.md)
 Venezuelan President Hugo Chavez died on Tuesday after a two-year battle with cancer, ending 14 years of tumultuous rule that made the socialist leader a hero for the poor but a hate figure to his opponents.
 
 ### [Papal conclave, 2013: More than 100 Roman Catholic cardinals meet in Rome to start the process of selecting a successor to Pope Benedict XVI. ](/news/2013/03/4/papal-conclave-2013-more-than-100-roman-catholic-cardinals-meet-in-rome-to-start-the-process-of-selecting-a-successor-to-pope-benedict-xvi.md)
-_Context: Cardinal, Papal conclave, 2013, Pope Benedict XVI, Roman Catholic, Rome_
+_Context: Cardinal, Pope Benedict XVI, Roman Catholic, Rome, conclave_
 
 ### [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md)
 A newly found asteroid will pass just inside the orbit of the Moon, with its closest approach on March 4, 2013 at 07:35 UTC. Named 2013 EC, the asteroid is

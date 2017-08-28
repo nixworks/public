@@ -111,7 +111,7 @@ _Context: Cabinet formation in the Netherlands, Informateur, Prime Minister, Ruu
 ### [The funeral of Roy Oldham, the UK's longest serving council leader, takes place. ](/news/2010/07/22/the-funeral-of-roy-oldham-the-uk-s-longest-serving-council-leader-takes-place.md)
 _Context: Roy Oldham_
 
-### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldt-jakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
+### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
 _Context: Creutzfeldt-Jakob disease, Italian, Livorno, Milan, Sicily_
 
 ### [A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. ](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.md)

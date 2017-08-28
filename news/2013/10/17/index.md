@@ -1,9 +1,9 @@
 ## [2013-10-17](/news/2013/10/17/index.md)
 
-### [Naxalite-Maoist insurgency: A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/naxalite-maoist-insurgency-a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md)
+### [A Naxalite landmine kills three police officers in the Gadchiroli district of India's Maharashtra state. ](/news/2013/10/17/a-naxalite-landmine-kills-three-police-officers-in-the-gadchiroli-district-of-india-s-maharashtra-state.md)
 _Context: Gadchiroli district, India, Maharashtra, Naxalite, Naxalite-Maoist insurgency_
 
-### [Iraqi insurgency (post-U.S. withdrawal): Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/iraqi-insurgency-post-u-s-withdrawal-attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targe.md)
+### [Attacks on Shia Muslims killed at least 59 people across Iraq, including a suicide truck bomb targeting at least 15 members of the country's Shabak people. ](/news/2013/10/17/attacks-on-shia-muslims-killed-at-least-59-people-across-iraq-including-a-suicide-truck-bomb-targeting-at-least-15-members-of-the-country-s.md)
 _Context: Iraqi insurgency (post-U.S. withdrawal), Shabak people, Shia_
 
 ### [Islamist gunmen kill two Tunisian policemen in clashes in the northeastern city Goubella. ](/news/2013/10/17/islamist-gunmen-kill-two-tunisian-policemen-in-clashes-in-the-northeastern-city-goubella.md)

@@ -1,6 +1,6 @@
 ## [2011-01-10](/news/2011/01/10/index.md)
 
-### [Aftermath of the 2011 Tucson shooting:: A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/aftermath-of-the-2011-tucson-shooting-a-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-includin.md)
+### [A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. ](/news/2011/01/10/a-judge-denies-bail-to-gunman-jared-loughner-who-is-accused-of-killing-six-and-injuring-14-including-a-federal-judge-and-u-s-congresswoman.md)
 An Arizona judge orders the 22-year-old man accused of killing six people and injuring 14, including a U.S. congresswoman, to be held without bail as he awaits trial on federal charges.
 
 ### [Three people are killed in a clash between Sudanese army and the Sudan Liberation Movement rebel group, in north Darfur, according to the United Nations-led peacekeeping mission. ](/news/2011/01/10/three-people-are-killed-in-a-clash-between-sudanese-army-and-the-sudan-liberation-movement-rebel-group-in-north-darfur-according-to-the-un.md)
@@ -15,8 +15,8 @@ Attack comes shortly after Palestinians report 65-year-old farmer shot to death 
 ### [ETA declares a permanent and general ceasefire which will be verifiable by the international community. ](/news/2011/01/10/eta-declares-a-permanent-and-general-ceasefire-which-will-be-verifiable-by-the-international-community.md)
 Basque separatists Eta call a permanent ceasefire in its fight for independence from Spain, but the Spanish government downplays the statement.
 
-### [War in North-West Pakistan:: Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/war-in-north-west-pakistan-tens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-kill.md)
-_Context: Karachi, Mumtaz Qadri, Pakistan, Punjab, Salman Taseer, War in North-West Pakistan, blasphemy law_
+### [Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/tens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-killing-salman-taseer-the-provin.md)
+_Context: Karachi, Mumtaz Qadri, Pakistan, Punjab, Salman Taseer, blasphemy law_
 
 ### [Turkey is considering demolishing a giant sculpture, meant to symbolize friendship between Turkey and Armenia, near the city of Kars. ](/news/2011/01/10/turkey-is-considering-demolishing-a-giant-sculpture-meant-to-symbolize-friendship-between-turkey-and-armenia-near-the-city-of-kars.md)
 The Turkish government is reportedly considering demolishing a giant sculpture meant to symbolise reconciliation between Turkey and Armenia.

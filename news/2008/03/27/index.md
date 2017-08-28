@@ -4,7 +4,7 @@
 _Context: 2008 Mahdi Army revolt, Iraq, Shiite, curfew_
 
 ### [ Geert Wilders releases his controversial anti-Islam film, "Fitna". ](/news/2008/03/27/geert-wilders-releases-his-controversial-anti-islam-film-fitna.md)
-_Context: Fitna, Geert Wilders, Islam_
+_Context: Fitna, Geert Wilders, Muslims_
 
 ### [ Puerto Rican Governor Anbal Salvador Acevedo Vil and twelve others are charged with electoral fraud. ](/news/2008/03/27/puerto-rican-governor-anibal-salvador-acevedo-vila-and-twelve-others-are-charged-with-electoral-fraud.md)
 Puerto Rican Gov. Anibal Acevedo Vila and 12 political associates in the Caribbean island and on the U.S. mainland were charged with election funding fraud in an indictment unsealed on Thursday.

@@ -1,9 +1,9 @@
 ## [2014-09-8](/news/2014/09/8/index.md)
 
-### [Taliban insurgency: A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/taliban-insurgency-a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md)
+### [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md)
 _Context: Afghanistan's, Kandahar Province, Taliban insurgency, suicide bomb_
 
-### [War in Donbass: Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/war-in-donbass-pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md)
+### [Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md)
 Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian President Petro Poroshenko says.
 
 ### [Clarence House confirms that the Duke and Duchess of Cambridge are expecting their second child. ](/news/2014/09/8/clarence-house-confirms-that-the-duke-and-duchess-of-cambridge-are-expecting-their-second-child.md)
@@ -15,10 +15,10 @@ _Context: Electrolux, General Electric, Sweden_
 ### [American food manufacturer General Mills buys organic food producer Annie's Homegrown for $820 million. ](/news/2014/09/8/american-food-manufacturer-general-mills-buys-organic-food-producer-annie-s-homegrown-for-820-million.md)
 General Mills will acquire organic food producer Annie&#039;s for about $820M in cash as it works to boost its presence in the natural food space. 
 
-### [2014 India-Pakistan floods: More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/2014-india-pakistan-floods-more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for.md)
+### [More than 160 people have died and thousands are stranded in one of the worst floods to occur in 60 years for India's Jammu and Kashmir. ](/news/2014/09/8/more-than-160-people-have-died-and-thousands-are-stranded-in-one-of-the-worst-floods-to-occur-in-60-years-for-india-s-jammu-and-kashmir.md)
 Nearly 150 people have died and thousands are marooned in Jammu and Kashmir, devastated by its worst floods in 60 years. Much of capital city Srinagar is submerged with people waiting for rescue on terraces and rooftops. Many people have lost contact with their families with phone lines down.
 
-### [Hurricane Norbert (2014): The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/hurricane-norbert-2014-the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-sta.md)
+### [The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-state-of-emergency-and-causin.md)
 _Context: Arizona, Hurricane Norbert, state of emergency_
 
 ### [It is reported that nearly one thousand children have been hospitalized with respiratory illnesses in several U.S. states. [http://www.usatoday.com/story/news/nation-now/2014/09/08/respiratory-virus-midwest-children/15269751/ "(USA Today)"]](/news/2014/09/8/it-is-reported-that-nearly-one-thousand-children-have-been-hospitalized-with-respiratory-illnesses-in-several-u-s-states-http-www-usato.md)

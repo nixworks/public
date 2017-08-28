@@ -1,19 +1,19 @@
 ## [2013-03-13](/news/2013/03/13/index.md)
 
-### [2013 Srinagar attack:: Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/2013-srinagar-attack-five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-are.md)
-_Context: 2013 Srinagar attack, Bemina, CRPF, India, Kashmir, Srinagar_
+### [Five Indian paramilitary soldiers are killed and three civilians injured by two militants near a school in Bemina area of Srinagar in Indian-administered Kashmir, later two militants being killed by CRPF. ](/news/2013/03/13/five-indian-paramilitary-soldiers-are-killed-and-three-civilians-injured-by-two-militants-near-a-school-in-bemina-area-of-srinagar-in-indian.md)
+_Context: Bemina, CRPF, India, Kashmir, Srinagar_
 
-### [Taliban insurgency:: A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/taliban-insurgency-a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-provin.md)
-_Context: Afghanistan's, Kunduz Province, Taliban insurgency_
+### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
+_Context: Afghanistan's, Kunduz Province_
 
-### [Syrian civil war:: Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/syrian-civil-war-ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
-_Context: Damascus, European Union, Syria, Syrian Civil War_
+### [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
+_Context: Damascus, European Union, Syria_
 
-### [Kurdish-Turkish conflict:: Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdish-turkish-conflict-kurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
-_Context: Kurdish, Kurdish-Turkish conflict, Turkey_
+### [Kurdish rebels release eight Turkish citizens that had been held captive for two years. ](/news/2013/03/13/kurdish-rebels-release-eight-turkish-citizens-that-had-been-held-captive-for-two-years.md)
+_Context: Kurdish, Turkey_
 
-### [Nigerian Sharia conflict:: Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/nigerian-sharia-conflict-men-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md)
-_Context: Nigeria, Nigerian Sharia conflict_
+### [Men on motorbikes storm a primary school in Nigeria and open fire wounding four teachers. ](/news/2013/03/13/men-on-motorbikes-storm-a-primary-school-in-nigeria-and-open-fire-wounding-four-teachers.md)
+_Context: Nigeria_
 
 ### [French sociologist of science and anthropologist Bruno Latour wins the 2013 Holberg Prize. ](/news/2013/03/13/french-sociologist-of-science-and-anthropologist-bruno-latour-wins-the-2013-holberg-prize.md)
 Bruno Latour, anthropologist and sociologist, is this year&#039;s Holberg Prize laureate. Latour is professor at Sciences Po, Paris. Photo credit: Manuel Braun. The Board of the Ludvig Holberg Memorial Fund has decided to award the 2013 Holberg International Memorial Prize to anthropologist and soci...
@@ -42,7 +42,7 @@ Terry Mills has been dumped as Chief Minister of the NT, with Adam Giles the new
 ### [After her Siumut party wins the parliamentary election, Aleqa Hammond is set to become first female Prime Minister of Greenland. ](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.md)
 _Context: Aleqa Hammond, Greenland, Prime Minister, Siumut, parliamentary election_
 
-### [Papal conclave, 2013:: Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/papal-conclave-2013-black-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-p.md)
+### [Black smoke rises from the Vatican's Sistine Chapel, signalling that Roman Catholic Cardinals had not elected a new pope in the morning session of the second day of voting at their conclave. ](/news/2013/03/13/black-smoke-rises-from-the-vatican-s-sistine-chapel-signalling-that-roman-catholic-cardinals-had-not-elected-a-new-pope-in-the-morning-sess.md)
 Catholic cardinals meeting at the Vatican have been holding another round of voting to choose a new Pope, but there is no sign of a positive result.
 
 ### [The European Southern Observatory's ALMA telescope begins service in Chile's Atacama Desert. ](/news/2013/03/13/the-european-southern-observatory-s-alma-telescope-begins-service-in-chile-s-atacama-desert.md)

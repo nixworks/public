@@ -1,10 +1,10 @@
 ## [2013-04-14](/news/2013/04/14/index.md)
 
-### [War in Somalia (2009-present):: At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/war-in-somalia-2009-present-at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md)
+### [At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md)
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
-### [War in North-West Pakistan:: A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/war-in-north-west-pakistan-a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakis.md)
-_Context: Datta Khel, North Waziristan, Pakistan, United States, War in North-West Pakistan, drones launch_
+### [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md)
+_Context: Datta Khel, North Waziristan, Pakistan, United States, drones launch_
 
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
 _Context: Peru, Trujillo, bus_
@@ -15,8 +15,8 @@ Five people were killed and another five seriously injured when a Polish bus car
 ### [At least 11 people are killed and 50 people are injured after a fire destroys a hotel in Xiangyang, Hubei, China. ](/news/2013/04/14/at-least-11-people-are-killed-and-50-people-are-injured-after-a-fire-destroys-a-hotel-in-xiangyang-hubei-china.md)
 At least 11 killed and 50 others injured after blaze that started in internet cafe spreads to hotel in central China.
 
-### [2013 Korean crisis:: North Korea rebuffs an offer of dialogue by South Korea. ](/news/2013/04/14/2013-korean-crisis-north-korea-rebuffs-an-offer-of-dialogue-by-south-korea.md)
-_Context: 2013 Korean crisis, North Korea, North Korea-South Korea relations, South Korea_
+### [North Korea rebuffs an offer of dialogue by South Korea. ](/news/2013/04/14/north-korea-rebuffs-an-offer-of-dialogue-by-south-korea.md)
+_Context: North Korea, North Korea-South Korea relations, South Korea_
 
 ### [Voters in Venezuela go to the polls for a snap presidential election, which was called after the death of President Hugo Chavez on March 5. ](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.md)
 Venezuelans have been voting to choose a successor to late President Hugo Chavez, with the opposition already alleging irregularities.

@@ -1,6 +1,6 @@
 ## [2012-11-4](/news/2012/11/4/index.md)
 
-### [Syrian civil war:: Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-civil-war-syrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after.md)
+### [Syrian opposition groups hold a meeting in Doha, Qatar, to discuss reforming the structure of the group, a few days after a War Crime investigation commenced at the UN. ](/news/2012/11/4/syrian-opposition-groups-hold-a-meeting-in-doha-qatar-to-discuss-reforming-the-structure-of-the-group-a-few-days-after-a-war-crime-invest.md)
 Syrian rebels capture a key oilfield in eastern Deir Ezzor province, activists say, the first time such a facility has been taken.
 
 ### [A car bomb detonates in Semdinli, Turkey, killing 1 and injuring 12. The attack is blamed on Kurdish rebels. ](/news/2012/11/4/a-car-bomb-detonates-in-semdinli-turkey-killing-1-and-injuring-12-the-attack-is-blamed-on-kurdish-rebels.md)

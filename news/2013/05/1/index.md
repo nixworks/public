@@ -1,15 +1,15 @@
 ## [2013-05-1](/news/2013/05/1/index.md)
 
-### [South Thailand insurgency:: Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/south-thailand-insurgency-insurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md)
+### [Insurgents kill six people, including a two-year-old boy, in a deadly shooting in Pattani, Thailand. ](/news/2013/05/1/insurgents-kill-six-people-including-a-two-year-old-boy-in-a-deadly-shooting-in-pattani-thailand.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Boston Marathon bombing:: Boston Police state that three more individuals are implicated and arrested. ](/news/2013/05/1/boston-marathon-bombing-boston-police-state-that-three-more-individuals-are-implicated-and-arrested.md)
-_Context: Boston Marathon bombing, Boston Police_
+### [Boston Police state that three more individuals are implicated and arrested. ](/news/2013/05/1/boston-police-state-that-three-more-individuals-are-implicated-and-arrested.md)
+_Context: Boston Police_
 
-### [Insurgency in the North Caucasus:: A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/insurgency-in-the-north-caucasus-a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-oth.md)
-_Context: Dagestan, Insurgency in the North Caucasus, Makhachkala, Russia_
+### [A bomb detonates in a busy shopping center in Makhachkala, Dagestan, Russia, killing 3 and injuring 2 others. ](/news/2013/05/1/a-bomb-detonates-in-a-busy-shopping-center-in-makhachkala-dagestan-russia-killing-3-and-injuring-2-others.md)
+_Context: Dagestan, Makhachkala, Russia_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/iraqi-insurgency-post-u-s-withdrawal-multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md)
+### [Multiple bomb attacks across Iraq kill at least 15 people. ](/news/2013/05/1/multiple-bomb-attacks-across-iraq-kill-at-least-15-people.md)
 At least 22 people are killed in attacks across Iraq, police and medics say, after weeks of intensifying violence that threatens all-out sectarian conflict.
 
 ### [T-Mobile US debuts on the New York Stock Exchange with the ticker symbol TMUS. ](/news/2013/05/1/t-mobile-us-debuts-on-the-new-york-stock-exchange-with-the-ticker-symbol-tmus.md)

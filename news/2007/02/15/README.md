@@ -25,7 +25,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 _Context: Hamas, Ismail Haniyeh, Palestinian National Authority, Palestinian Prime Minister, forming a government_
 
 ### [ South Korea agrees to resume high level talks with North Korea following the deal over North Korea's nuclear program. ](/news/2007/02/15/south-korea-agrees-to-resume-high-level-talks-with-north-korea-following-the-deal-over-north-korea-s-nuclear-program.md)
-_Context: North Korea, Nuclear program of North Korea, South Korea_
+_Context: North Korea, South Korea, nuclear program_
 
 ### [ The United States will build a military communications facility near Geraldton, Western Australia. ](/news/2007/02/15/the-united-states-will-build-a-military-communications-facility-near-geraldton-western-australia.md)
 _Context: Geraldton, Western Australia, United States_

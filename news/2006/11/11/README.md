@@ -7,13 +7,13 @@ _Context: Germany, Government of Turkmenistan, President, Russia, Saparmurat Niy
 _Context: Beit Hanoun November 2006 incident, Gaza Strip, Israel, United Nations Security Council, United Nations Security Council resolution, United States_
 
 ### [ Aung San Suu Kyi meets with a United Nations official Ibrahim Gambari in Myanmar. It is the first time she has left her house since having been placed under house arrest in May. ](/news/2006/11/11/aung-san-suu-kyi-meets-with-a-united-nations-official-ibrahim-gambari-in-myanmar-it-is-the-first-time-she-has-left-her-house-since-having.md)
-_Context: Aung San Suu Kyi, Ibrahim Gambari, Myanmar, United Nations_
+_Context: Aung San Suu Kyi, Burmese, Ibrahim Gambari, United Nations_
 
-### [ Somali Civil War (2006-present):: Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somali-civil-war-2006-present-somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-governm.md)
-_Context: Somalia, War in Somalia_
+### [ Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-government.md)
+_Context: Somalia_
 
 ### [ Iraq insurgency: At least eight people are killed and thirty injured in two simultaneous explosions in Baghdad, Iraq. ](/news/2006/11/11/iraq-insurgency-at-least-eight-people-are-killed-and-thirty-injured-in-two-simultaneous-explosions-in-baghdad-iraq.md)
-_Context: Baghdad, Iraq, Iraq Insurgency, explosion_
+_Context: Baghdad, Iraq, explosion, insurgents_
 
 ### [ A 5.9 earthquake occurs near Papua New Guinea. No damage is reported. ](/news/2006/11/11/a-5-9-earthquake-occurs-near-papua-new-guinea-no-damage-is-reported.md)
 _Context: Papua New Guinea, earthquake_

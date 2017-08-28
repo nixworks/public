@@ -1,0 +1,23 @@
+### [2014-09-12](/news/2014/09/12/index.md)
+
+# The Government of Ukraine and pro-Russian separatists exchange dozens of prisoners agreed to as part of a ceasefire a week ago. Both sides still hold thousands of prisoners. 
+
+Ukrainian leader said the crisis has &ldquo;no military solution&rdquo; and urged rebels to seek political accord.
+
+
+### Source:
+
+1. [Washington Post](http://www.washingtonpost.com/world/ukrainian-government-and-pro-russian-rebels-exchange-more-prisoners/2014/09/12/d4d89031-9da2-42bc-9b64-552a720bb038_story.html)
+
+### Related:
+
+1. [Representatives of the Russian-backed Donetsk People's Republic in Eastern Ukraine say at least five civilians are killed by artillery fire at a checkpoint in the town of Olenivka, with another 10 injured. Kiev denies the accusation. A local border-guard spokesman says there was an explosion at the checkpoint but he saw no artillery fired from either side, suggesting the blast could have been a bomb. ](/news/2016/04/27/representatives-of-the-russian-backed-donetsk-people-s-republic-in-eastern-ukraine-say-at-least-five-civilians-are-killed-by-artillery-fire.md) _Context: Kiev_
+2. [Russia's Finance Ministry sues Ukraine in London's High Court of Justice over a $3 billion debt. Payment was due December 21, 2015. Negotiations between Kiev and Moscow have not reached an agreement. Over the last 6 months Ukrainian government officials repeatedly stated they refuse to pay the debt. ](/news/2016/02/17/russia-s-finance-ministry-sues-ukraine-in-london-s-high-court-of-justice-over-a-3-billion-debt-payment-was-due-december-21-2015-negotiat.md) _Context: Kiev_
+3. [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md) _Context: Kiev_
+4. [Russia's Gazprom halts gas supplies to Ukraine until the Ukrainian government pays in advance for future supplies to replenish the current supplies of gas that it has used up; Ukraine says it has stopped buying from Gazprom because it can get cheaper gas from Europe. Roughly 15% of the gas used in Europe travels through Ukraine, and a previous cut-off of gas supplies in 2009 caused serious disruptions in shipments to EU countries at the height of winter. ](/news/2015/11/25/russia-s-gazprom-halts-gas-supplies-to-ukraine-until-the-ukrainian-government-pays-in-advance-for-future-supplies-to-replenish-the-current-s.md) _Context: Kiev_
+5. [The government of Ukraine bans all Russian airlines from flying into Ukraine from October 25 in response to Moscow's decision in September to impose a similar ban on Ukrainian airlines. ](/news/2015/10/12/the-government-of-ukraine-bans-all-russian-airlines-from-flying-into-ukraine-from-october-25-in-response-to-moscow-s-decision-in-september-t.md) _Context: Kiev_
+6. [Fighting intensifies near the ceasefire line in eastern Ukraine with both the Government of Ukraine and the rebels blaming each other. The separatist-held cities of Donetsk and Horlivka have been bombed with hundreds of shells and rockets in the last 72 hours. ](/news/2015/08/18/fighting-intensifies-near-the-ceasefire-line-in-eastern-ukraine-with-both-the-government-of-ukraine-and-the-rebels-blaming-each-other-the-s.md) _Context: Kiev_
+7. [The Government of Ukraine and pro-Russian separatists call off peace talks that were to be held in Minsk. ](/news/2015/01/30/the-government-of-ukraine-and-pro-russian-separatists-call-off-peace-talks-that-were-to-be-held-in-minsk.md) _Context: Kiev_
+8. [A huge explosion occurs in a rubber factory in the rebel held city of Donetsk with the Russian media claiming it was caused by a missile. The Government of Ukraine denies the charges. ](/news/2014/10/20/a-huge-explosion-occurs-in-a-rubber-factory-in-the-rebel-held-city-of-donetsk-with-the-russian-media-claiming-it-was-caused-by-a-missile-th.md) _Context: Kiev_
+9. [Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/russian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-us-the-eu-and-n.md) _Context: Kiev_
+10. [Dozens of people die in heavy fighting between Ukrainian government forces and rebels in eastern Ukraine. ](/news/2014/08/20/dozens-of-people-die-in-heavy-fighting-between-ukrainian-government-forces-and-rebels-in-eastern-ukraine.md) _Context: Kiev_

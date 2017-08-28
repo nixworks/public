@@ -1,6 +1,6 @@
 ## [2006-05-14](/news/2006/05/14/index.md)
 
-### [ Israeli-Palestinian conflict:: The IDF killed Elias al-Ashkar, the senior Islamic Jihad commander in the Jenin area who was accused of planning several suicide attacks that killed nearly 30 people, including US high-school student Daniel Wultz. Six other Palestinians were also killed. ](/news/2006/05/14/israeli-palestinian-conflict-the-idf-killed-elias-al-ashkar-the-senior-islamic-jihad-commander-in-the-jenin-area-who-was-accused-of-plan.md)
+### [ The IDF killed Elias al-Ashkar, the senior Islamic Jihad commander in the Jenin area who was accused of planning several suicide attacks that killed nearly 30 people, including US high-school student Daniel Wultz. Six other Palestinians were also killed. ](/news/2006/05/14/the-idf-killed-elias-al-ashkar-the-senior-islamic-jihad-commander-in-the-jenin-area-who-was-accused-of-planning-several-suicide-attacks-th.md)
 Things to do in Miami
 
 ### [ Ahmat Mahamat Bachir, the president of the Chadian Independent National Election Commission, announces that incumbent President of Chad Idriss Dby won the 2006 Chadian presidential election held on May 3 with 77.5% of the vote. The official turnout was 61%, though international observers estimated turnout at 4&ndash;10%. ](/news/2006/05/14/ahmat-mahamat-bachir-the-president-of-the-chadian-independent-national-election-commission-announces-that-incumbent-president-of-chad-idr.md)

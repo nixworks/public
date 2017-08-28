@@ -1,21 +1,21 @@
 ## [2015-01-29](/news/2015/01/29/index.md)
 
-### [2014 Sydney hostage crisis: A coronial inquest into the siege at the Lindt Cafe in the center of Sydney begins. The inquest hears that one hostage was killed by gunman Man Haron Monis while another was killed by fragments of a bullet or bullets fired by New South Wales Police Force officers. ](/news/2015/01/29/2014-sydney-hostage-crisis-a-coronial-inquest-into-the-siege-at-the-lindt-cafe-in-the-center-of-sydney-begins-the-inquest-hears-that-one-h.md)
+### [A coronial inquest into the siege at the Lindt Cafe in the center of Sydney begins. The inquest hears that one hostage was killed by gunman Man Haron Monis while another was killed by fragments of a bullet or bullets fired by New South Wales Police Force officers. ](/news/2015/01/29/a-coronial-inquest-into-the-siege-at-the-lindt-cafe-in-the-center-of-sydney-begins-the-inquest-hears-that-one-hostage-was-killed-by-gunman.md)
 An inquest into the Sydney siege hears that one hostage was killed by police fire as they stormed the cafe after the gunman killed the manager.
 
-### [Taliban insurgency: Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-insurgency-taliban-attacks-across-afghanistan-kill-17-people.md)
+### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)
 _Context: Afghanistan's, Taliban, Taliban insurgency_
 
-### [Moro insurgency in the Philippines: Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/moro-insurgency-in-the-philippines-philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulk.md)
+### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
 _Context: Chief Justice, Filipino Muslims, January 25 botched police operation, Maria Lourdes Sereno, Moro insurgency in the Philippines, Philippine National Police, Philippines, President of the Philippines, Supreme Court of the Philippines, Zulkifli Abdhir, his predecessor, peace deal, peace treaty_
 
-### [Iraqi insurgency (2011-present): Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/iraqi-insurgency-2011-present-several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
+### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
 _Context: Baghdad, Iraqi insurgency (2011-present)_
 
-### [Sinai insurgency: Ansar Beit al-Maqdis claims responsibility for widespread attacks on Egyptian army and police targets throughout the Sinai Peninsula killing at least 25 people. ](/news/2015/01/29/sinai-insurgency-ansar-beit-al-maqdis-claims-responsibility-for-widespread-attacks-on-egyptian-army-and-police-targets-throughout-the-sinai.md)
+### [Ansar Beit al-Maqdis claims responsibility for widespread attacks on Egyptian army and police targets throughout the Sinai Peninsula killing at least 25 people. ](/news/2015/01/29/ansar-beit-al-maqdis-claims-responsibility-for-widespread-attacks-on-egyptian-army-and-police-targets-throughout-the-sinai-peninsula-killing.md)
 Islamic State-linked Ansar Beit al-Maqdis claims responsibility for wide-ranging attacks in Sinai, targeting military base, newspaper; army major shot dead in Rafah.
 
-### [Shia insurgency in Yemen: Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shia-insurgency-in-yemen-shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once.md)
+### [Shiite Houthi rebels seize a Yemeni military base south of the capital, Sana'a, where U.S. military advisers once trained Yemeni counterterrorism forces to fight Al-Qaeda in the south of the country. Forces loyal to former President Ali Abdullah Saleh had manned the captured base. ](/news/2015/01/29/shiite-houthi-rebels-seize-a-yemeni-military-base-south-of-the-capital-sana-a-where-u-s-military-advisers-once-trained-yemeni-counterterr.md)
 _Context: Houthi, Saleh, Sanaa, Shia insurgency in Yemen, Shiite, U.S., Yemen, al-Qaeda_
 
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
@@ -27,7 +27,7 @@ The Philippines has been blighted by decades of corrupt governments, besides it 
 ### [A Nieto Express propane gas tanker truck explodes near the loading dock of a maternity and children's hospital (Hospital Materno Infantil Cuajimalpa) in Mexico City, collapsing much of the hospital with at least three deaths and 70 people injured, 22 of whom are children. ](/news/2015/01/29/a-nieto-express-propane-gas-tanker-truck-explodes-near-the-loading-dock-of-a-maternity-and-children-s-hospital-hospital-materno-infantil-cu.md)
 A gas tank truck explodes outside a maternity hospital in Mexico City, killing a nurse and two babies.
 
-### [Malaysia Airlines Flight 370: Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/malaysia-airlines-flight-370-without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss.md)
+### [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md)
 _Context: Indian Ocean, Malaysia, Malaysia Airlines Flight 370_
 
 ### [Heavy snowfall in northern England leads to the closures of hundreds of schools, roads and Manchester Airport. ](/news/2015/01/29/heavy-snowfall-in-northern-england-leads-to-the-closures-of-hundreds-of-schools-roads-and-manchester-airport.md)

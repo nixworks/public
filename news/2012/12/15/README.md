@@ -15,7 +15,7 @@ Authorities in Alabama say a man opened fire in a hospital, wounding an officer 
 ### [A man stood in the parking lot of the Fashion Island mall in Newport Beach, California, and fired 50 gunshots in the air, inducing a mass of panic from the shoppers and employees. No one was hit by the bullets, but one person was injured while trying to flee. A 42-year-old man was arrested for the shooting, and additional ammunition was found in his car. ](/news/2012/12/15/a-man-stood-in-the-parking-lot-of-the-fashion-island-mall-in-newport-beach-california-and-fired-50-gunshots-in-the-air-inducing-a-mass-of.md)
 _Context: California, Fashion Island, Newport Beach_
 
-### [Egyptian constitutional referendum, 2012:: Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/egyptian-constitutional-referendum-2012-voters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violen.md)
+### [Voters in Egypt go to the polls for a highly charged referendum on a new constitution with violent clashes reported in Alexandria the evening before. ](/news/2012/12/15/voters-in-egypt-go-to-the-polls-for-a-highly-charged-referendum-on-a-new-constitution-with-violent-clashes-reported-in-alexandria-the-evenin.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 ### [A census of population and housing begins today in Turkmenistan. ](/news/2012/12/15/a-census-of-population-and-housing-begins-today-in-turkmenistan.md)

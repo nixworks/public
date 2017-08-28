@@ -1,0 +1,25 @@
+### [2011-11-16](/news/2011/11/16/index.md)
+
+# Tibetans demonstrate near the Chinese embassy in New Delhi, India, following recent self-immolations by Tibetan monks and nuns protesting the Chinese government's repressive policies in Tibet. 
+
+The spiritual leader of the Kirti monastery, the starting point for a spate of self-immolation protests, says Chinese authorities have imposed new repressive measures.
+
+
+### Source:
+
+1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/11/16/international/i002455S45.DTL#ixzz1dtqMM6T2)
+2. [The New York Times](http://www.nytimes.com/2011/11/17/world/asia/spiritual-head-of-tibetan-monastery-rebukes-china.html)
+3. [VoA](http://www.voanews.com/tibetan-english/news/600-Tibet-Activists-Hold-Solidarity-Rally-in-Delhi-133961148.html)
+
+### Related:
+
+1. [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md) _Context: India, New Delhi, sets herself alight_
+2. [A Tibetan activist sets himself on fire at a demonstration in India's capital New Delhi ahead of a visit by the President of China Hu Jintao later in the week. ](/news/2012/03/26/a-tibetan-activist-sets-himself-on-fire-at-a-demonstration-in-india-s-capital-new-delhi-ahead-of-a-visit-by-the-president-of-china-hu-jintao.md) _Context: India, New Delhi, Tibetan_
+3. [Human rights groups send an open letter to the President of the People's Republic of China, Hu Jintao, pressing the Chinese government to address the underlying causes of protests that have led 11 Tibetans to set themselves on fire since March. ](/news/2011/11/8/human-rights-groups-send-an-open-letter-to-the-president-of-the-people-s-republic-of-china-hu-jintao-pressing-the-chinese-government-to-ad.md) _Context: Tibetan, repressive policies in Tibet, sets herself alight_
+4. [A Tibetan parliament-in-exile delegation appeals to foreign embassies in New Delhi, India, for help to release three monks from the Kirti monastery in northeastern Tibet detained by Chinese authorities and to address additional human rights violations in Tibet by China. ](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.md) _Context: India, New Delhi, repressive policies in Tibet_
+5. [At least 13 are killed in a fire in New Delhi, India. ](/news/2016/11/11/at-least-13-are-killed-in-a-fire-in-new-delhi-india.md) _Context: India, New Delhi_
+6. [A United Nations arbitration court rules India must allow an Italian marine, facing charges of murdering two fishermen during an anti-piracy mission in 2012, to return home pending the Permanent Court of Arbitration's decision over jurisdiction. The suspect, who will remain under the authority of the Supreme Court of India, has been staying in the Italian embassy in New Delhi; his co-defendant returned to Italy with health problems in 2014. ](/news/2016/05/2/a-united-nations-arbitration-court-rules-india-must-allow-an-italian-marine-facing-charges-of-murdering-two-fishermen-during-an-anti-piracy.md) _Context: India, New Delhi_
+7. [A massive fire severely damages the National Museum of Natural History in the Indian capital New Delhi. ](/news/2016/04/26/a-massive-fire-severely-damages-the-national-museum-of-natural-history-in-the-indian-capital-new-delhi.md) _Context: India, New Delhi_
+8. [The World Wildlife Fund reports global populations of tigers, an endangered species, are up about 20 percent over the past six years. This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India. ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this-i.md) _Context: India, New Delhi_
+9. [An Indian Border Security Force plane headed to Ranchi crashes just outside New Delhi, killing all 10 on board. The Super King Air turboprop aircraft hit an airport wall and landed in a small body of water. ](/news/2015/12/22/an-indian-border-security-force-plane-headed-to-ranchi-crashes-just-outside-new-delhi-killing-all-10-on-board-the-super-king-air-turboprop.md) _Context: India, New Delhi_
+10. [The capitals of the world's two most populous nations, China and India, are blanketed in hazardous, choking smog. Beijing, on the second-highest pollution alert, is closing highways, halting or suspending construction while warning residents to stay indoors. The U.S. New Delhi embassy's monitoring station recorded an air quality index of 372, putting air pollution levels into "hazardous" territory. No action by the New Delhi government. ](/news/2015/11/30/the-capitals-of-the-worldas-two-most-populous-nations-china-and-india-are-blanketed-in-hazardous-choking-smog-beijing-on-the-second-h.md) _Context: India, New Delhi_

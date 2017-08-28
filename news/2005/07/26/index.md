@@ -1,7 +1,7 @@
 ## [2005-07-26](/news/2005/07/26/index.md)
 
-### [ Conflict in Iraq:: At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/conflict-in-iraq-at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-gh.md)
-_Context: Abu Ghraib, Conflict in Iraq, Iraqi insurgency, nationalises_
+### [ At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. ](/news/2005/07/26/at-least-12-workers-have-been-shot-dead-as-they-are-driven-away-from-the-state-owned-factory-they-work-at-in-the-abu-ghraib-area-by-insur.md)
+_Context: Abu Ghraib, Iraqi insurgency, nationalises_
 
 ### [ Over 200 people have been killed in intense rain storms in Maharashtra, India, described by the Chief Minister of the state as the heaviest recorded rainfall in a single day in India. One third of the state Capital, Mumbai, is said to be underwater causing more than a two hundred thousand people to be stranded in offices and roads for about 24 hours. ](/news/2005/07/26/over-200-people-have-been-killed-in-intense-rain-storms-in-maharashtra-india-described-by-the-chief-minister-of-the-state-as-the-heaviest.md)
 Life in Mumbai and the rest of Maharashtra came to a standstill as torrential rains killed over 100 people across the Konkan belt and Thane districts and stopped rail and air traffic. | Over 100 killed in Maharashtra downpour
@@ -19,7 +19,7 @@ _Context: Lebanon, Samir Geagea, militia_
 _Context: Hong Seok-Hyun, slush fund_
 
 ### [ Burma/Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
-_Context: ASEAN, Burma, Myanmar_
+_Context: ASEAN, Burma, Burmese_
 
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
 _Context: Afghanistan's, Bagram, demonstration, protest_

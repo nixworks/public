@@ -13,4 +13,4 @@
 ### Related:
 
 1. [John Malone's Liberty Global acquires Virgin Media for $23 billion. ](/news/2013/02/6/john-malone-s-liberty-global-acquires-virgin-media-for-23-billion.md) _Context: Virgin Media_
-2. [ The Carlyle Group offers somewhere between PS4 billion and PS5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-aps4-billion-and-aps5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md) _Context: Virgin Media_
+2. [ The Carlyle Group offers somewhere between GBP4 billion and GBP5 billion for the purchase of heavily-indebted Virgin Media. ](/news/2007/07/2/the-carlyle-group-offers-somewhere-between-agbp4-billion-and-agbp5-billion-for-the-purchase-of-heavily-indebted-virgin-media.md) _Context: Virgin Media_

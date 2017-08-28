@@ -6,7 +6,7 @@ _Context: China, deadly earthquake_
 ### [ Tornadoes of 2008: The Governor of Nebraska Dave Heineman declares a state of emergency in relation to tornadoes in the towns of Kearney, Nebraska, and Aurora, Nebraska. ](/news/2008/05/29/tornadoes-of-2008-the-governor-of-nebraska-dave-heineman-declares-a-state-of-emergency-in-relation-to-tornadoes-in-the-towns-of-kearney-n.md)
 _Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoes of 2008, state of emergency, tornado_
 
-### [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6-5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md)
+### [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6a5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md)
 _Context: Brazil, Supreme Federal Court, embryonic stem cell_
 
 ### [ The National Indian Foundation publishes photographs of a tribe of uncontacted peoples in a remote area of Amazonia. ](/news/2008/05/29/the-national-indian-foundation-publishes-photographs-of-a-tribe-of-uncontacted-peoples-in-a-remote-area-of-amazonia.md)

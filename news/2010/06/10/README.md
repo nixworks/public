@@ -1,6 +1,6 @@
 ## [2010-06-10](/news/2010/06/10/index.md)
 
-### [War in Afghanistan:: Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/war-in-afghanistan-taliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan.md)
+### [Taliban militants execute a 7-year-old boy for "spying for the government" in Helmand province in southern Afghanistan, in an increasing wave of killings. ](/news/2010/06/10/taliban-militants-execute-a-7-year-old-boy-for-spying-for-the-government-in-helmand-province-in-southern-afghanistan-in-an-increasing-wav.md)
 The killings of low-level officials are an attempt to undermine counterinsurgency operations in the south. 
 
 ### [Soweto hosts an opening concert ahead of the 2010 FIFA World Cup, attended by tens of thousands of people and featuring appearances from international figures such as Desmond Tutu, Hugh Masekela, Amadou & Mariam, Shakira, Juanes, Black Eyed Peas and Alicia Keys. ](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.md)
@@ -9,7 +9,7 @@ _Context: 2010 FIFA World Cup, Alicia Keys, Amadou & Mariam, Black Eyed Peas, De
 ### [15 large storage boxes containing manuscripts, notebooks and letters belonging to J. G. Ballard are acquired by the British Library. ](/news/2010/06/10/15-large-storage-boxes-containing-manuscripts-notebooks-and-letters-belonging-to-j-g-ballard-are-acquired-by-the-british-library.md)
 An &quot;extraordinary insight&quot; into Empire of the Sun author JG Ballard is acquired by the British Library.
 
-### [Gulf of Mexico oil spill:: The Obama administration announces that BP will speed up claims payments stemming from the massive Gulf oil spill, to fishermen, property owners and businesspeople who have filed damage claims and are complaining of delays, excessive paperwork and inadequate compensation. ](/news/2010/06/10/gulf-of-mexico-oil-spill-the-obama-administration-announces-that-bp-will-speed-up-claims-payments-stemming-from-the-massive-gulf-oil-spill.md)
+### [The Obama administration announces that BP will speed up claims payments stemming from the massive Gulf oil spill, to fishermen, property owners and businesspeople who have filed damage claims and are complaining of delays, excessive paperwork and inadequate compensation. ](/news/2010/06/10/the-obama-administration-announces-that-bp-will-speed-up-claims-payments-stemming-from-the-massive-gulf-oil-spill-to-fishermen-property-ow.md)
 British Petroleum said Thursday it plans to increase its ability to capture the oil gushing from a leaking well in the Gulf of Mexico by early next week. Meanwhile, the White House announced that the company agreed to speed up claims payments.
 
 ### [A group of German Jews prepare to send a ship with humanitarian aid to the blockaded Gaza Strip. ](/news/2010/06/10/a-group-of-german-jews-prepare-to-send-a-ship-with-humanitarian-aid-to-the-blockaded-gaza-strip.md)

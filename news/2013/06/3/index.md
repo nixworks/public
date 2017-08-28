@@ -1,13 +1,13 @@
 ## [2013-06-3](/news/2013/06/3/index.md)
 
-### [2013 protests in Turkey:: Riot police fire tear gas at people in Istanbul and Ankara amid calls for the downfall of the current Turkish government. ](/news/2013/06/3/2013-protests-in-turkey-riot-police-fire-tear-gas-at-people-in-istanbul-and-ankara-amid-calls-for-the-downfall-of-the-current-turkish-gove.md)
+### [Riot police fire tear gas at people in Istanbul and Ankara amid calls for the downfall of the current Turkish government. ](/news/2013/06/3/riot-police-fire-tear-gas-at-people-in-istanbul-and-ankara-amid-calls-for-the-downfall-of-the-current-turkish-government.md)
 The brutal suppression of a peaceful environmental sit-in in Istanbul ignited a nationwide protest against the Turkish government. Allegations of police crossing the line between keeping the order and oppression are mushrooming in the social media.
 
-### [Bahraini uprising (2011-present):: Three people who previously demonstrated against the regime are jailed for 5, 10 and 15 years respectively. ](/news/2013/06/3/bahraini-uprising-2011-present-three-people-who-previously-demonstrated-against-the-regime-are-jailed-for-5-10-and-15-years-respectiv.md)
+### [Three people who previously demonstrated against the regime are jailed for 5, 10 and 15 years respectively. ](/news/2013/06/3/three-people-who-previously-demonstrated-against-the-regime-are-jailed-for-5-10-and-15-years-respectively.md)
 Three protesters in Bahrain have been jailed from five to 15 years on charges of taking part in anti-government demonstrations in June 2012 and attempting to murder a policeman.
 
-### [War in Afghanistan (2001-present):: A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/war-in-afghanistan-2001-present-a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
-_Context: Afghanistan's, War in Afghanistan (2001-present), suicide bombing_
+### [A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. ](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-at-least-20-people-including-10-children.md)
+_Context: Afghanistan's, suicide bombing_
 
 ### [An unmarked mass grave containing around 200 bodies is found in the Israeli town of Jaffa. ](/news/2013/06/3/an-unmarked-mass-grave-containing-around-200-bodies-is-found-in-the-israeli-town-of-jaffa.md)
 Palestinians alive during 1946 Arab-Israeli war say unmarked grave found in coastal town proof of their stories.
@@ -27,7 +27,7 @@ _Context: Vodafone Group Plc, crore, rupee_
 ### [At least 119 people are killed in a fire at a poultry farm in Jilin Province in northeastern China. ](/news/2013/06/3/at-least-119-people-are-killed-in-a-fire-at-a-poultry-farm-in-jilin-province-in-northeastern-china.md)
 _Context: China, Jilin Baoyuanfeng Poultry Plant fire, Jilin province_
 
-### [2013 European floods:: Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/2013-european-floods-flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
+### [Flooding across Europe kills seven people and leaves others unaccounted for. ](/news/2013/06/3/flooding-across-europe-kills-seven-people-and-leaves-others-unaccounted-for.md)
 State of emergency declared in several regions as heavy flooding kills eight and leaves nine more missing across Europe.
 
 ### [A Cebu Pacific flight carrying 165 passengers inbound from Manila, overshoots the runway during heavy rain in Davao City, Philippines. There are no fatalities, however the plane is heavily damaged. ](/news/2013/06/3/a-cebu-pacific-flight-carrying-165-passengers-inbound-from-manila-overshoots-the-runway-during-heavy-rain-in-davao-city-philippines-there.md)

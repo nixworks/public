@@ -1,6 +1,6 @@
 ### [2009-09-20](/news/2009/09/20/index.md)
 
-#   Toni Collette wins the Emmy for Outstanding Lead Actress in a Comedy Series for playing Tara Gregson on ''United States of Tara''. 
+#  Toni Collette wins the Emmy for Outstanding Lead Actress in a Comedy Series for playing Tara Gregson on "United States of Tara". 
 
 
 

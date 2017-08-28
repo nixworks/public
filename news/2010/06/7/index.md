@@ -52,7 +52,7 @@ A Chubb security guard has died after being shot in the chest during a routine c
 ### [22-year-old U.S. Army intelligence analyst, SPC Bradley Manning, is named as the alleged source of the leak of the Collateral murder video, along with the Granai massacre video and other documents, said to be in the possession of Wikileaks. ](/news/2010/06/7/22-year-old-u-s-army-intelligence-analyst-spc-bradley-manning-is-named-as-the-alleged-source-of-the-leak-of-the-collateral-murder-video.md)
 A US military analyst is arrested on suspicion of leaking combat video and thousands of classified documents.
 
-### [Chancellor Angela Merkel agrees -80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md)
+### [Chancellor Angela Merkel agrees EUR80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-a-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md)
 _Context: Angela Merkel, German Chancellor, her coalition cabinet_
 
 ### [North Korea holds a rare second session of its parliament, with Choe Yong-rim appointed to replace Kim Yong-il as Premier. ](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.md)

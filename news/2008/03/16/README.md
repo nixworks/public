@@ -1,9 +1,9 @@
 ## [2008-03-16](/news/2008/03/16/index.md)
 
-### [ 2008 unrest in Tibet:: The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/2008-unrest-in-tibet-the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md)
-_Context: 2008 unrest in Tibet, Central Tibetan Administration, government in exile_
+### [ The Central Tibetan Administration government in exile reports 80 confirmed deaths. ](/news/2008/03/16/the-central-tibetan-administration-government-in-exile-reports-80-confirmed-deaths.md)
+_Context: Central Tibetan Administration, government in exile_
 
-### [ Subprime mortgage crisis:: JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/subprime-mortgage-crisis-jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-c.md)
+### [ JPMorgan Chase announces plans to buy investment bank Bear Stearns for $2 a share following liquidity problems caused by the crisis. ](/news/2008/03/16/jpmorgan-chase-announces-plans-to-buy-investment-bank-bear-stearns-for-2-a-share-following-liquidity-problems-caused-by-the-crisis.md)
 The Fed approved a $30 billion loan for the takeover of Bear Stearns and announced a new lending tool for investment firms.
 
 ### [ The Australian Government announces that the wreck of the German auxiliary cruiser "Kormoran" has been found off the coast of Western Australia. The ship sank after a battle in 1941. ](/news/2008/03/16/the-australian-government-announces-that-the-wreck-of-the-german-auxiliary-cruiser-kormoran-has-been-found-off-the-coast-of-western-austr.md)
@@ -39,7 +39,7 @@ _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
 _Context: 2008, Iraq, John McCain, Republican candidate, United States, United States Senator_
 
-### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for -138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-138-million.md)
+### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
 _Context: Air France, Alitalia, EUR, Italian, KLM_
 
 ### [ At the 2008 National People's Congress, Wen Jiabao is elected as Premier for another five years term. ](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.md)

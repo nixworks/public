@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Cuba-United States relations: Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-united-states-relations-cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced.md) _Context: Cuba, political prisoner_
+1. [Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced-last-month.md) _Context: Cuba, political prisoner_
 2. [Cuban dissident Wilmar Villar dies after going on hunger strike. ](/news/2012/01/20/cuban-dissident-wilmar-villar-dies-after-going-on-hunger-strike.md) _Context: Cuba, hunger strike_
 3. [Cuba announces that it will release 2,900 prisoners &ndash; including some political prisoners &ndash; in the next few days. ](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.md) _Context: Cuba, political prisoner_
 4. [More than 30 political prisoners go on hunger strike at Insein Prison in Burma to protest against their treatment. ](/news/2011/05/24/more-than-30-political-prisoners-go-on-hunger-strike-at-insein-prison-in-burma-to-protest-against-their-treatment.md) _Context: hunger strike, political prisoner_

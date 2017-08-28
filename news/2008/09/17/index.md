@@ -12,8 +12,8 @@ Ilan and Ari Rabinovitch
 ### [ Rwanda becomes the first nation where women outnumber men in parliament. ](/news/2008/09/17/rwanda-becomes-the-first-nation-where-women-outnumber-men-in-parliament.md)
 _Context: Rwanda, parliament_
 
-### [ 2008 Russian financial crisis:: Trading is suspended for the second day in succession on Russia's two main stock exchanges (the MICEX and the dollar-denominated RTS) after shares fall dramatically, forcing the central bank in Moscow to intervene. ](/news/2008/09/17/2008-russian-financial-crisis-trading-is-suspended-for-the-second-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-t.md)
-_Context: 2008 Russian financial crisis, MICEX, Moscow, RTS, Russia, Russian Central Bank_
+### [ Trading is suspended for the second day in succession on Russia's two main stock exchanges (the MICEX and the dollar-denominated RTS) after shares fall dramatically, forcing the central bank in Moscow to intervene. ](/news/2008/09/17/trading-is-suspended-for-the-second-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-the-dollar-denominated-rts-after.md)
+_Context: MICEX, Moscow, RTS, Russia, Russian Central Bank_
 
 ### [ Islamic Jihad claim responsibility for an attack on the U.S. embassy in Yemen that results in 16 confirmed deaths. ](/news/2008/09/17/islamic-jihad-claim-responsibility-for-an-attack-on-the-u-s-embassy-in-yemen-that-results-in-16-confirmed-deaths.md)
 It was the deadliest and most ambitious attack in years in Yemen, a country where militants aligned with Al Qaeda have carried out a number of recent bombings.

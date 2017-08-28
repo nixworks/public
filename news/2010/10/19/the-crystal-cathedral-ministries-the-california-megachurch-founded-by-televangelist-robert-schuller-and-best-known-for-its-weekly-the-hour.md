@@ -13,7 +13,7 @@ The Southern California megachurch founded by televangelist Robert Schuller file
 ### Related:
 
 1. [American televangelist Robert H. Schuller is ousted from the board of the Crystal Cathedral. ](/news/2011/07/3/american-televangelist-robert-h-schuller-is-ousted-from-the-board-of-the-crystal-cathedral.md) _Context: Crystal Cathedral, televangelist_
-2. [Airline bankruptcies in the United States: Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/airline-bankruptcies-in-the-united-states-air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denve.md) _Context: Chapter 11_
+2. [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md) _Context: Chapter 11_
 3. [RadioShack files for chapter 11 protection from creditors for the second time in two years. ](/news/2017/03/8/radioshack-files-for-chapter-11-protection-from-creditors-for-the-second-time-in-two-years.md) _Context: Chapter 11_
 4. [Rapper Curtis James Jackson III, better known by his stage name 50 Cent, files for Chapter 11 bankruptcy protection. ](/news/2015/07/13/rapper-curtis-james-jackson-iii-better-known-by-his-stage-name-50-cent-files-for-chapter-11-bankruptcy-protection.md) _Context: Chapter 11_
 5. [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md) _Context: Chapter 11_

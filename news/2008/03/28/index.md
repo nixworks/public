@@ -1,7 +1,7 @@
 ## [2008-03-28](/news/2008/03/28/index.md)
 
 ### [ Norway and South Korea recognize Kosovo as an independent state. ](/news/2008/03/28/norway-and-south-korea-recognize-kosovo-as-an-independent-state.md)
-_Context: International reaction to the 2008 Kosovo declaration of independence, Kosovo, Norway, South Korea_
+_Context: Kosovo, Norway, South Korea, recognize_
 
 ### [ Dwain Chambers: BBC, Sky Sports & The Sun newspaper are all carrying reports that Chambers is to announce he is to become an English rugby league player with Castleford Tigers. Chambers was previously an athlete and American Football player. ](/news/2008/03/28/dwain-chambers-bbc-sky-sports-the-sun-newspaper-are-all-carrying-reports-that-chambers-is-to-announce-he-is-to-become-an-english-rugby.md)
 _Context: Dwain Chambers_

@@ -3,13 +3,13 @@
 ### [A 16-year-old Israeli boy injured by a Palestinian missile attack on his school bus on April 7 dies. [http://www.bbc.co.uk/news/world-middle-east-13115127 ("BBC")] ("Wikinews")](/news/2011/04/18/a-16-year-old-israeli-boy-injured-by-a-palestinian-missile-attack-on-his-school-bus-on-april-7-dies-http-www-bbc-co-uk-news-world-middle.md)
 _Context: (''Wikinews''), Israel, Palestinian, school bus_
 
-### [2011 Libyan civil war:: Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/2011-libyan-civil-war-gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md)
+### [Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md)
 The best of British &amp; international news, opinion, sport, people &amp; business.
 
 ### [Suspected Muslim insurgents detonate a bomb in southern Thailand, killing one and injuring 23 people. ](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.md)
 _Context: Muslim, Thailand_
 
-### [2011 Syrian protests:: Eight killed in Syrian Protests. ](/news/2011/04/18/2011-syrian-protests-eight-killed-in-syrian-protests.md)
+### [Eight killed in Syrian Protests. ](/news/2011/04/18/eight-killed-in-syrian-protests.md)
 Get the latest BBC News from the Middle East: breaking news, features, analysis and debate plus audio and video coverage from across the Middle East.
 
 ### [Suicide Bombing in Iraq kills 9 and wounds 25. ](/news/2011/04/18/suicide-bombing-in-iraq-kills-9-and-wounds-25.md)

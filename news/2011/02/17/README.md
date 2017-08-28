@@ -1,16 +1,16 @@
 ## [2011-02-17](/news/2011/02/17/index.md)
 
-### [2011 Bahraini protests:: Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/2011-bahraini-protests-bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-bat.md)
+### [Bahrain police launch an attack on protesters in the Pearl Roundabout in the capital Manama, using tear gas and batons to disperse the crowd. ](/news/2011/02/17/bahrain-police-launch-an-attack-on-protesters-in-the-pearl-roundabout-in-the-capital-manama-using-tear-gas-and-batons-to-disperse-the-crowd.md)
 Bahrain protesters claim several among their ranks were killed during a violent government crackdown. Amid the violence, ABC News correspondent Miguel Marquez joined the list of journalists to be attacked during demonstration spreading through the region.
 
-### [Libyan Civil War:: 14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/libyan-civil-war-14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdow.md)
+### [14 anti-government protesters are killed as Libyan protesters seeking to oust president Muammar Gaddafi defied a crackdown and took to the streets in four cities on what they called a "day of rage". ](/news/2011/02/17/14-anti-government-protesters-are-killed-as-libyan-protesters-seeking-to-oust-president-muammar-gaddafi-defied-a-crackdown-and-took-to-the-s.md)
 Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal security forces arrest at least 14 demonstrators.
 
-### [2010-2011 Algerian protests:: Eighty-four-year-old Abdelhamid Mehri, former leader of Algeria's governing party, writes a letter to President Abdelaziz Bouteflika asking that he change his government in response to the unrest across the Arab world. ](/news/2011/02/17/2010-2011-algerian-protests-eighty-four-year-old-abdelhamid-mehri-former-leader-of-algeria-s-governing-party-writes-a-letter-to-presid.md)
-_Context: 2010-2011 Algerian protests, Abdelaziz Bouteflika, Abdelhamid Mehri, Arab Spring, President_
+### [Eighty-four-year-old Abdelhamid Mehri, former leader of Algeria's governing party, writes a letter to President Abdelaziz Bouteflika asking that he change his government in response to the unrest across the Arab world. ](/news/2011/02/17/eighty-four-year-old-abdelhamid-mehri-former-leader-of-algeria-s-governing-party-writes-a-letter-to-president-abdelaziz-bouteflika-asking.md)
+_Context: Abdelaziz Bouteflika, Abdelhamid Mehri, Arab Spring, President_
 
-### [2011 Yemeni protests:: Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/2011-yemeni-protests-several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
-_Context: 2011 Yemeni protests, Sanaa, Yemen_
+### [Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
+_Context: Sanaa, Yemen_
 
 ### [Two people are killed and 47 injured in a protest in the northern Iraqi city of Sulaimaniya. ](/news/2011/02/17/two-people-are-killed-and-47-injured-in-a-protest-in-the-northern-iraqi-city-of-sulaimaniya.md)
 _Context: Iraq, Sulaimaniya_
@@ -78,10 +78,10 @@ _Context: Ahmed Maghrabi, Egypt, Habib Ibrahim El Adly, National Democratic Part
 ### [Anthony Graves, an American man found innocent of the murders which left him on death row for 18 years, is denied restitution due to a technicality. ](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.md)
 FOX 26 Houston News, Breaking News, Local, Weather, Traffic, Sports
 
-### [Wisconsin:: Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/wisconsin-schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for.md)
+### [Schools in the American state of Wisconsin close as teachers attend rallies against proposals to limit collective bargaining for state employees. ](/news/2011/02/17/schools-in-the-american-state-of-wisconsin-close-as-teachers-attend-rallies-against-proposals-to-limit-collective-bargaining-for-state-emplo.md)
 With the state Senate at an impasse over his temporary budget fix, and tens of thousands of protesters clogging the Capitol day after day, Gov. Scott Walker has pushed back
 
-### [Tunisia:: French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/tunisia-french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md)
+### [French media reports that former President of Tunisia Zine el-Abidine Ben Ali has been hospitalised in Saudi Arabia with a stroke. ](/news/2011/02/17/french-media-reports-that-former-president-of-tunisia-zine-el-abidine-ben-ali-has-been-hospitalised-in-saudi-arabia-with-a-stroke.md)
 Former Tunisian President Zine el-Abidine Ben Ali suffered a stroke and was in a coma in a Saudi Arabian hospital, a French online journalist reported.
 
 ### [Buckingham Palace confirms that the President of the United States Barack Obama will make a state visit to the United Kingdom in May. ](/news/2011/02/17/buckingham-palace-confirms-that-the-president-of-the-united-states-barack-obama-will-make-a-state-visit-to-the-united-kingdom-in-may.md)

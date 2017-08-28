@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Recognition of same-sex unions in Italy: The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/recognition-of-same-sex-unions-in-italy-the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-cou.md) _Context: civil union_
+1. [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md) _Context: civil union_
 2. [An estimated half-million Italians protest in Rome's Circus Maximus against pending legislation that would legalize same-sex unions. The legislation would extend to civil unions the same rights they would have under marriage, including adoption of children. ](/news/2016/01/30/an-estimated-half-million-italians-protest-in-rome-s-circus-maximus-against-pending-legislation-that-would-legalize-same-sex-unions-the-leg.md) _Context: civil union_
 3. [Pope Francis acknowledges that civil unions for LGBT people is a governmental move for economic and health management. ](/news/2014/03/6/pope-francis-acknowledges-that-civil-unions-for-lgbt-people-is-a-governmental-move-for-economic-and-health-management.md) _Context: civil union_
 4. [The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. ](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.md) _Context: civil union_

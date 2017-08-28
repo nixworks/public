@@ -36,7 +36,7 @@ The government unveils plans which could allow some prisoners to vote - but tell
 ### [Sandy Island, a South Pacific island, shown on marine charts and world maps as well as on Google Earth, does not exist, Australian scientists say. ](/news/2012/11/22/sandy-island-a-south-pacific-island-shown-on-marine-charts-and-world-maps-as-well-as-on-google-earth-does-not-exist-australian-scientist.md)
 A South Pacific island shown on marine charts and world maps as well as on Google Maps and on Google Earth, is proven not to exist, Australian scientists say.
 
-### [ESO says Makemake, one of the solar system-s five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-system-s-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md)
+### [ESO says Makemake, one of the solar system's five dwarf planets, has been found to have no atmosphere. ](/news/2012/11/22/eso-says-makemake-one-of-the-solar-systemas-five-dwarf-planets-has-been-found-to-have-no-atmosphere.md)
 First look at Kuiper Belt object also reveals no shroud of gases
 
 ## [Previous Day...](/news/2012/11/21/index.md)

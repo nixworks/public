@@ -9,13 +9,13 @@ Oscar-winning actor Philip Seymour Hoffman was found dead of an apparent heroin 
 ### [Archaeologists believe to have uncovered the oldest Roman temple ever discovered. ](/news/2014/02/2/archaeologists-believe-to-have-uncovered-the-oldest-roman-temple-ever-discovered.md)
 _Context: Roman_
 
-### [Thai general election, 2014:: Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/thai-general-election-2014-voters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md)
+### [Voters in Thailand go to the polls with concerns about violence between supporters of rival parties. ](/news/2014/02/2/voters-in-thailand-go-to-the-polls-with-concerns-about-violence-between-supporters-of-rival-parties.md)
 Thai government supporters and opposition protesters open fire on each other ahead of Sunday&#039;s election.
 
-### [Costa Rican general election, 2014:: Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/costa-rican-general-election-2014-voters-in-costa-rica-go-to-the-polls-for-a-general-election.md)
+### [Voters in Costa Rica go to the polls for a general election. ](/news/2014/02/2/voters-in-costa-rica-go-to-the-polls-for-a-general-election.md)
 On Feb. 2, Costa Ricans will head to the polls to elect a new president and members of the Legislative Assembly. Though non-citizens can&#039;t vote, Election Day is still an exciting civic event for anyone in the country. Here are a few facts you should know.
 
-### [Salvadoran presidential election, 2014:: Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/salvadoran-presidential-election-2014-voters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md)
+### [Voters in El Salvador go to the polls with a tight race expected. ](/news/2014/02/2/voters-in-el-salvador-go-to-the-polls-with-a-tight-race-expected.md)
 MEXICO CITY — Salvadorans vote Sunday in a presidential election that may give former leftist rebels a second chance at government — or return national leadership to the right-wing party that ruled the country for two decades.
 
 ## [Previous Day...](/news/2014/02/1/index.md)

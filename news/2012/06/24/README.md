@@ -3,7 +3,7 @@
 ### [At least 16 Syrian soldiers are killed in clashes with rebels in Aleppo. ](/news/2012/06/24/at-least-16-syrian-soldiers-are-killed-in-clashes-with-rebels-in-aleppo.md)
 At least 16 soldiers are killed in clashes with rebels in the northern Syrian province of Aleppo, activists say, a day after more than 100 people died in violence nationwide.
 
-### [War in North-West Pakistan:: Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/war-in-north-west-pakistan-seven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-cl.md)
+### [Seven Pakistani soldiers are beheaded and four others remain missing after being seized by Taliban militants close to the Afghan border.](/news/2012/06/24/seven-pakistani-soldiers-are-beheaded-and-four-others-remain-missing-after-being-seized-by-taliban-militants-close-to-the-afghan-border.md)
 Taliban militants behead seven Pakistani soldiers captured by insurgents in a cross-border attack on Sunday, security officials say.
 
 ### [Ousted President of Paraguay Fernando Lugo condemns the "coup against the citizenry and democracy" that ousted him from his office. ](/news/2012/06/24/ousted-president-of-paraguay-fernando-lugo-condemns-the-coup-against-the-citizenry-and-democracy-that-ousted-him-from-his-office.md)

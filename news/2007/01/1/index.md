@@ -12,7 +12,7 @@ _Context: Boyko Borisov, Bulgaria, GERB, Socialist Party, Sofia mayor, political
 ### [ The Palestinian factional violence flares up again. ](/news/2007/01/1/the-palestinian-factional-violence-flares-up-again.md)
 Peruvian photographer working for French press agency in Strip kidnapped; no immediate claim of responsibility for abduction; all captive Hamas, Fatah gunmen released following agreement reached between PFLP, Islamic Jihad 
 
-### [ War in Somalia:: The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/war-in-somalia-the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the.md)
+### [ The Islamic Courts Union collapses in the Battle of Jilib, and flees from its last major stronghold in Kismayo towards the Kenyan border. ](/news/2007/01/1/the-islamic-courts-union-collapses-in-the-battle-of-jilib-and-flees-from-its-last-major-stronghold-in-kismayo-towards-the-kenyan-border.md)
 Somali government troops backed by Ethiopian tanks and MiG fighter jets have captured the last major stronghold of a militant Islamic movement, the prime minister said Monday.
 
 ### [ Romania and Bulgaria join the European Union. ](/news/2007/01/1/romania-and-bulgaria-join-the-european-union.md)

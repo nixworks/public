@@ -21,8 +21,8 @@ _Context: Britain, letterbomb_
 ### [ A truth commission is set up by East Timor and Indonesia to promote reconciliation after the violence surrounding the 1999 independence referendum. ](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-indonesia-to-promote-reconciliation-after-the-violence-surrounding-the-1999-independence-ref.md)
 _Context: East Timor, Indonesia, referendum, truth commission_
 
-### [ Iraq War:: Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/iraq-war-two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md)
-_Context: Iraq War, Ramadi, car bomb, suicide bombing_
+### [ Two suicide car bombs kill at least eleven people in Ramadi. ](/news/2007/02/19/two-suicide-car-bombs-kill-at-least-eleven-people-in-ramadi.md)
+_Context: Ramadi, car bomb, suicide bombing_
 
 ### [ Samjhauta Express bombings: At least 66 people die in bomb blasts on the Samjhauta Express travelling from India to Pakistan. The blasts occurred near Deewana, 80 kilometres north of New Delhi. ](/news/2007/02/19/samjhauta-express-bombings-at-least-66-people-die-in-bomb-blasts-on-the-samjhauta-express-travelling-from-india-to-pakistan-the-blasts-oc.md)
 _Context: India, New Delhi, Pakistan, Samjhauta Express, Samjhauta Express bombings_

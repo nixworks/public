@@ -9,8 +9,8 @@ _Context: Defenders of Human Rights Center, Iran, Nobel Peace Prize, Shirin Ebad
 ### [ Iranian Foreign Ministry spokesman Hamid Reza Asefi calls for the "formation of an international investigation committee to probe the ongoing atrocities of the Zionist regime in Lebanon, and to prosecute and punish the ones responsible for these catastrophes." ](/news/2006/08/5/iranian-foreign-ministry-spokesman-hamid-reza-asefi-calls-for-the-formation-of-an-international-investigation-committee-to-probe-the-ongoi.md)
 _Context: Israel, Lebanon_
 
-### [ 2006 Israel-Lebanon conflict:: The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/2006-israel-lebanon-conflict-the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbo.md)
-_Context: France, Hezbollah, Israel, UN, US$, war_
+### [ The US and France have agreed on the wording of a UN resolution to end the fighting between Israel and Hezbollah.](/news/2006/08/5/the-us-and-france-have-agreed-on-the-wording-of-a-un-resolution-to-end-the-fighting-between-israel-and-hezbollah.md)
+_Context: France, Hezbollah, Israel, UN, US$_
 
 ### [ Tropical Depression Chris starts to dissipate near Cuba. ](/news/2006/08/5/tropical-depression-chris-starts-to-dissipate-near-cuba.md)
 _Context: Cuba, Tropical Depression Chris_

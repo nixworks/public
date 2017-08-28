@@ -1,6 +1,6 @@
 ### [2016-10-3](/news/2016/10/3/index.md)
 
-# FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum.  President Juan Manuel Santos calls the country's political parties to an emergency meeting. 
+# FARC leader Rodrigo Londono (Timoleon) says his troops will honor its commitments to the Colombian government, including the permanent cease-fire, despite voters rejection of the peace accord in Sunday's referendum. President Juan Manuel Santos calls the country's political parties to an emergency meeting. 
 
 BOGOTA, Colombia (AP) — As peace talks in Colombia advanced over the past year, 7,000 rebel fighters began slowly emerging from their jungle hideouts hoping for, if not a hero&#039;s welcome, at least an outstretched hand from…
 

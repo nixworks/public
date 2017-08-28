@@ -45,7 +45,7 @@ _Context: U.S. Appeals Court Judge, United States government, embryonic stem cel
 ### [Four people are killed, including a toddler, and one seriously injured in a shooting spree in the Mattapan neighbourhood of Boston, Massachusetts. ](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-one-seriously-injured-in-a-shooting-spree-in-the-mattapan-neighbourhood-of-boston-massachu.md)
 _Context: Boston, Massachusetts, Mattapan, shooting spree_
 
-### [43rd Australian Parliament:: The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/43rd-australian-parliament-the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-elect.md)
+### [The 43rd Parliament of Australia meets at Parliament House, Canberra, for the first time since the recent election. ](/news/2010/09/28/the-43rd-parliament-of-australia-meets-at-parliament-house-canberra-for-the-first-time-since-the-recent-election.md)
 A traditional smoking ceremony welcomed politicians to Canberra ahead of the official opening of Australia&#039;s 43rd Parliament.
 
 ### [The Workers' Party of Korea conference begins in Pyongyang, North Korea. ](/news/2010/09/28/the-workers-party-of-korea-conference-begins-in-pyongyang-north-korea.md)
@@ -57,7 +57,7 @@ _Context: Dmitry Medvedev, Mayor of Moscow, Russian President Vladimir Putin, Vl
 ### [Ed Miliband, the new leader of the UK's Labour Party, makes his first major speech at the party's Annual Conference in Manchester telling delegates that his "new generation" will return the party to power. ](/news/2010/09/28/ed-miliband-the-new-leader-of-the-uk-s-labour-party-makes-his-first-major-speech-at-the-party-s-annual-conference-in-manchester-telling-de.md)
 Ed Miliband says a new generation is running Labour and signals a break from the past by declaring the Iraq war wrong in his first big speech as leader.
 
-### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008-2012-icelandic-financial-crisis-against-form.md)
+### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008a2012-icelandic-financial-crisis-against-form.md)
 _Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, Landsdomur, parliament (Althing)_
 
 ## [Previous Day...](/news/2010/09/27/index.md)

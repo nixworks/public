@@ -1,12 +1,12 @@
 ## [2013-03-31](/news/2013/03/31/index.md)
 
-### [Terrorism in Pakistan:: A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/terrorism-in-pakistan-a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-na.md)
-_Context: Adnan Wazir, Awami National Party, Bannu District, Khyber Pakhtunkhwa, Pakistan, Parliament's, Terrorism in Pakistan_
+### [A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-national-party-in-bannu.md)
+_Context: Adnan Wazir, Awami National Party, Bannu District, Khyber Pakhtunkhwa, Pakistan, Parliament's_
 
-### [Northern Mali conflict:: Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/northern-mali-conflict-rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md)
+### [Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md)
 The attackers appeared to number perhaps 10 or 15, said the French military spokesman, Col. Thierry Burkhard. “A half-dozen” were confirmed killed, he said.
 
-### [Nigerian Sharia conflict:: The Nigerian Army kills 14 suspected Boko Haram members in a raid on a building, with the death of one soldier and the capture of a potential suicide bomber in a car full of explosives in the northern city of Kano. ](/news/2013/03/31/nigerian-sharia-conflict-the-nigerian-army-kills-14-suspected-boko-haram-members-in-a-raid-on-a-building-with-the-death-of-one-soldier-an.md)
+### [The Nigerian Army kills 14 suspected Boko Haram members in a raid on a building, with the death of one soldier and the capture of a potential suicide bomber in a car full of explosives in the northern city of Kano. ](/news/2013/03/31/the-nigerian-army-kills-14-suspected-boko-haram-members-in-a-raid-on-a-building-with-the-death-of-one-soldier-and-the-capture-of-a-potentia.md)
 Nigerian troops say they have killed 14 suspected members of the Islamist group Boko Haram, in a raid on a building in the northern city of Kano.
 
 ### [Two Chinese provinces pass restrictions on house sales designed to dampen a booming housing market. ](/news/2013/03/31/two-chinese-provinces-pass-restrictions-on-house-sales-designed-to-dampen-a-booming-housing-market.md)
@@ -27,7 +27,7 @@ GALAX, Va. (AP) — Virginia State Police say three people have been killed and 
 ### [Widespread flooding in Port Louis, Mauritius, leads to at least 11 deaths. ](/news/2013/03/31/widespread-flooding-in-port-louis-mauritius-leads-to-at-least-11-deaths.md)
 At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, officials have said.
 
-### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
+### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
 _Context: Avian flu virus, China, H7N9 avian flu virus_
 
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
@@ -48,7 +48,7 @@ Faithful around the world celebrate Easter Sunday with church services and commu
 ### [IBM Roadrunner, once the world's fastest supercomputer, is decommissioned. ](/news/2013/03/31/ibm-roadrunner-once-the-world-s-fastest-supercomputer-is-decommissioned.md)
 _Context: IBM Roadrunner, supercomputer_
 
-### [The Met Office confirms Sunday as the coldest Easter Day on record for the United Kingdom. The lowest temperature of -12.5degC is recorded in Braemar in the Scottish Highlands. ](/news/2013/03/31/the-met-office-confirms-sunday-as-the-coldest-easter-day-on-record-for-the-united-kingdom-the-lowest-temperature-of-12-5adegc-is-recorded.md)
+### [The Met Office confirms Sunday as the coldest Easter Day on record for the United Kingdom. The lowest temperature of -12.5degC is recorded in Braemar in the Scottish Highlands. ](/news/2013/03/31/the-met-office-confirms-sunday-as-the-coldest-easter-day-on-record-for-the-united-kingdom-the-lowest-temperature-of-a12-5adegc-is-recorded.md)
 Easter Sunday is the coldest Easter day since modern records began, with temperatures as low as -12.5C in Braemar in the Scottish Highlands.
 
 ## [Previous Day...](/news/2013/03/30/index.md)

@@ -1,0 +1,24 @@
+### [2015-11-1](/news/2015/11/1/index.md)
+
+# Azeri voters go to the polls for a parliamentary election, which Azerbaijan President Ilham Aliyev's ruling New Azerbaijan Party is widely expected to win since the The Musavat (Equality) Party and other Azerbaijani mainstream opposition parties are boycotting. The Organization for Security and Co-operation in Europe (OSCE) is not monitoring the election because the restrictions imposed by the authorities make credible poll monitoring impossible. 
+
+In accordance with the country’s legislation, the elections will be considered valid with any number of votes
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/2015/11/01/azerbaijan-election-idUSL8N12W03W20151101)
+2. [TASS](http://tass.ru/en/world/833248)
+
+### Related:
+
+1. [Armenia will recognize the independence of the breakaway Nagorno-Karabakh Republic from Azerbaijan if military actions there continue, according to Armenian President Serzh Sargsyan. Azerbaijan has resorted to an "unprecedented provocation along the entire perimeter of the contact line" with Nagorno-Karabakh, Sargsyan told a meeting with ambassadors from member states of the Organization for Security and Co-operation in Europe, referring to the latest flare-up of the conflict. ](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.md) _Context: Azerbaijan, OSCE_
+2. [Voters in Azerbaijan go to the polls for a presidential election with incumbent President Ilham Aliyev expected to be elected amid concerns about the fairness of the election. ](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.md) _Context: Azerbaijan, Ilham Aliyev's_
+3. [ Armenian President Robert Kocharyan and Azerbaijani President Ilham Aliyev agree to allow the residents of Nagorno-Karabakh to decide the region's future status through a popular vote. ](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.md) _Context: Azerbaijan, Ilham Aliyev's_
+4. [ In Azerbaijan, president Ilham Aliyev announces pardons for 114 people, including 7 opposition leaders and total of 50 political prisoners ](/news/2005/03/20/in-azerbaijan-president-ilham-aliyev-announces-pardons-for-114-people-including-7-opposition-leaders-and-total-of-50-political-prisoners.md) _Context: Azerbaijan, Ilham Aliyev's_
+5. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _Context: OSCE_
+6. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: OSCE_
+7. [The European Commission, based on the Organization for Security and Co-operation in Europe report, calls on Turkey to launch an investigation into allegations of referendum voting irregularities. ](/news/2017/04/18/the-european-commission-based-on-the-organization-for-security-and-co-operation-in-europe-report-calls-on-turkey-to-launch-an-investigatio.md) _Context: OSCE_
+8. [Clashes erupt between Nagorno-Karabakh separatists and Azerbaijani forces in the disputed Nagorno-Karabakh region. The Azerbaijan Ministry of Defense confirmed casualties on its side while the separatist forces claim to have no causalities. Both sides blame each other for the flareup in fighting. ](/news/2017/02/25/clashes-erupt-between-nagorno-karabakh-separatists-and-azerbaijani-forces-in-the-disputed-nagorno-karabakh-region-the-azerbaijan-ministry-o.md) _Context: Azerbaijan_
+9. [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md) _Context: Azerbaijan_
+10. [Azerbaijani First Lady Mehriban Aliyeva, who is widely considered to be in line to succeed her husband, is named vice president. ](/news/2017/02/21/azerbaijani-first-lady-mehriban-aliyeva-who-is-widely-considered-to-be-in-line-to-succeed-her-husband-is-named-vice-president.md) _Context: Azerbaijan_

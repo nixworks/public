@@ -9,8 +9,8 @@ Fox 32 Chicago News, breaking news, local headlines, weather, sports traffic and
 ### [ China's Armed Police shoot a Tibetan monk as he immolates himself in Sichuan. ](/news/2009/02/27/china-s-armed-police-shoot-a-tibetan-monk-as-he-immolates-himself-in-sichuan.md)
 _Context: China, People's Armed Police, Sichuan, Tibet, monk, sets herself alight_
 
-### [ Global financial crisis of 2008-2009:: ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/global-financial-crisis-of-2008-2009-asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md)
-_Context: ASEAN, Australia, New Zealand, agreement, commerce, current financial crisis, free trade_
+### [ ASEAN, Australia, and New Zealand sign a free trade agreement to increase commerce. ](/news/2009/02/27/asean-australia-and-new-zealand-sign-a-free-trade-agreement-to-increase-commerce.md)
+_Context: ASEAN, Australia, New Zealand, agreement, commerce, free trade_
 
 ### [ Bangladesh's military arrests 300 Rifles for mutiny and discovers a mass grave containing 58 officers killed during the revolt. ](/news/2009/02/27/bangladesh-s-military-arrests-300-rifles-for-mutiny-and-discovers-a-mass-grave-containing-58-officers-killed-during-the-revolt.md)
 _Context: 2009 Bangladesh Rifles revolt, Bangladesh, Bangladesh Rifles, mass grave, military_

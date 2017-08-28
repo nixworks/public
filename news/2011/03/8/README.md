@@ -1,9 +1,9 @@
 ## [2011-03-8](/news/2011/03/8/index.md)
 
-### [2011 Libyan civil war:: Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/2011-libyan-civil-war-al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-p.md)
+### [Al Jazeera claims to have video that shows a Libyan Army officer being executed for refusing to fire on opposition positions west of the capital Tripoli. ](/news/2011/03/8/al-jazeera-claims-to-have-video-that-shows-a-libyan-army-officer-being-executed-for-refusing-to-fire-on-opposition-positions-west-of-the-cap.md)
 Opposition video said to show Gaddafi soldiers killed for refusing to fire on rebel targets west of the capital Tripoli.
 
-### [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010-2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md)
+### [2010-2011 Ivorian crisis: Four people are shot dead in Abidjan after a march to protest the killing of seven female demonstrators last week. ](/news/2011/03/8/2010a2011-ivorian-crisis-four-people-are-shot-dead-in-abidjan-after-a-march-to-protest-the-killing-of-seven-female-demonstrators-last-wee.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan_
 
 ### [National Army of Colombia troops free 22 of 23 local oil contractors working for Canada's Talisman Energy captured a day earlier by FARC rebels. ](/news/2011/03/8/national-army-of-colombia-troops-free-22-of-23-local-oil-contractors-working-for-canada-s-talisman-energy-captured-a-day-earlier-by-farc-reb.md)

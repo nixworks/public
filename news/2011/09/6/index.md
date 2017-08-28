@@ -15,7 +15,7 @@ _Context: Bermuda, Hurricane Katia, tropical storm_
 ### [The Swiss National Bank introduces a minimum exchange rate of 1.20 CHF/EUR to prevent the overvaluation of the Swiss franc. ](/news/2011/09/6/the-swiss-national-bank-introduces-a-minimum-exchange-rate-of-1-20-chf-eur-to-prevent-the-overvaluation-of-the-swiss-franc.md)
 The Swiss franc falls sharply after the central bank pegs the franc to the euro, citing a &quot;massive overvaluation&quot; of the Swiss currency.
 
-### [News International phone hacking scandal:: Four former News International executives are recalled by the House of Commons Culture, Media and Sport Select Committee to face further examination over phone hacking within the organisation. ](/news/2011/09/6/news-international-phone-hacking-scandal-four-former-news-international-executives-are-recalled-by-the-house-of-commons-culture-media-and.md)
+### [Four former News International executives are recalled by the House of Commons Culture, Media and Sport Select Committee to face further examination over phone hacking within the organisation. ](/news/2011/09/6/four-former-news-international-executives-are-recalled-by-the-house-of-commons-culture-media-and-sport-select-committee-to-face-further-exa.md)
 News of the World lawyer Tom Crone tells MPs he was &quot;certain&quot; he told James Murdoch about an email which indicated phone hacking went beyond one rogue reporter.
 
 ### [Margaret Moran, the former British Labour Party MP for Luton South is charged on 21 counts relating falsely claiming Parliamentary expenses. ](/news/2011/09/6/margaret-moran-the-former-british-labour-party-mp-for-luton-south-is-charged-on-21-counts-relating-falsely-claiming-parliamentary-expenses.md)

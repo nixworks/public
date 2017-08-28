@@ -1,6 +1,6 @@
 ## [2013-05-3](/news/2013/05/3/index.md)
 
-### [Syrian civil war:: Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/syrian-civil-war-israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md)
+### [Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md)
 Israel aircraft bombed a target in Syria on Thursday, an Obama administration official said, as United States officials said they were weighing options that included their own airstrikes.
 
 ### [The world's largest rubber duck is moved to Hong Kong. ](/news/2013/05/3/the-world-s-largest-rubber-duck-is-moved-to-hong-kong.md)
@@ -15,7 +15,7 @@ _Context: CMC, Greek, Stockholm School of Economics, Sweden, insider trading_
 ### [Heavy construction equipment manufacturer Caterpillar announces it plans to lay off an additional 300 employees by July. ](/news/2013/05/3/heavy-construction-equipment-manufacturer-caterpillar-announces-it-plans-to-lay-off-an-additional-300-employees-by-july.md)
 Earth-moving equipment maker Caterpillar Inc. said Friday will lay off an additional 300 employees in Decatur, Ill., by July.Peoria-based Caterpillar said in April that it planned to cut roughly 500...
 
-### [2013 Savar building collapse:: The death toll in Bangladesh rises to 547. ](/news/2013/05/3/2013-savar-building-collapse-the-death-toll-in-bangladesh-rises-to-547.md)
+### [The death toll in Bangladesh rises to 547. ](/news/2013/05/3/the-death-toll-in-bangladesh-rises-to-547.md)
 Bangladesh&#39;s finance minister has downplayed the impact of last week&#39;s factory-building collapse on his country&#39;s garment industry, saying he didn&#39;t think it was &quot;really serious&quot;.
 
 ### [A U.S. KC-135 tanker aircraft on its way to Afghanistan crashes in northern Kyrgyzstan after a mid-flight explosion. ](/news/2013/05/3/a-u-s-kc-135-tanker-aircraft-on-its-way-to-afghanistan-crashes-in-northern-kyrgyzstan-after-a-mid-flight-explosion.md)
@@ -36,7 +36,7 @@ _Context: Arizona Cardinals, Daryl Washington, NFL, Phoenix, Arizona_
 ### [Police in China arrest more than 900 people as they shutdown a million dollar crime ring that was selling rat meat as mutton. ](/news/2013/05/3/police-in-china-arrest-more-than-900-people-as-they-shutdown-a-million-dollar-crime-ring-that-was-selling-rat-meat-as-mutton.md)
 Chinese police have broken a crime ring that passed off more than $1 million in rat and small mammal meat as mutton, authorities said, in a food safety crackdown that coincides with a bird flu outbreak and other environmental pressures.
 
-### [United Kingdom local elections, 2013:: Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/united-kingdom-local-elections-2013-results-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the.md)
+### [Results of the elections show gains for Labour and UKIP and losses for the Liberal Democrats and the Conservative Party.](/news/2013/05/3/results-of-the-elections-show-gains-for-labour-and-ukip-and-losses-for-the-liberal-democrats-and-the-conservative-party.md)
 UKIP leader Nigel Farage hails gains in council elections across England - while David Cameron pledges to &quot;work hard to win back voters&quot;.
 
 ### [Google calls one of its search engine websites "Google Palestine" instead of "Google Palestinian territories". ](/news/2013/05/3/google-calls-one-of-its-search-engine-websites-google-palestine-instead-of-google-palestinian-territories.md)

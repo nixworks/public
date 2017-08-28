@@ -3,7 +3,7 @@
 ### [More than 230 people are killed and 200 injured after a fuel tanker overturns and explodes in the South Kivu province of the Democratic Republic of the Congo. ](/news/2010/07/3/more-than-230-people-are-killed-and-200-injured-after-a-fuel-tanker-overturns-and-explodes-in-the-south-kivu-province-of-the-democratic-repu.md)
 Lorry carrying oil overturns and bursts into flames, engulfing the village of Sange.
 
-### [Gaza: More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/gaza-more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafa.md)
+### [More than 10,000 Palestinians, including many patients needing medical treatment, are reported to have crossed into Egypt via the Rafah border since its 1 June opening in the aftermath of the Gaza flotilla raid. ](/news/2010/07/3/more-than-10-000-palestinians-including-many-patients-needing-medical-treatment-are-reported-to-have-crossed-into-egypt-via-the-rafah-bord.md)
 Families cry foul as Hamas pulls down houses saying they were built on government land.
 
 ### [12 people are killed and 12 injured after a bus falls from a bridge near South Korea's main Incheon International Airport. ](/news/2010/07/3/12-people-are-killed-and-12-injured-after-a-bus-falls-from-a-bridge-near-south-korea-s-main-incheon-international-airport.md)
@@ -39,7 +39,7 @@ Former Argentine military ruler Jorge Videla goes on trial for the murder of mor
 ### [United States Republican Party chairman Michael Steele is heavily criticised by members of his own party and by members of the Democratic Party for saying America's war in Afghanistan is "a war of Obama's choosing". ](/news/2010/07/3/united-states-republican-party-chairman-michael-steele-is-heavily-criticised-by-members-of-his-own-party-and-by-members-of-the-democratic-pa.md)
 _Context: Barack Obama, Democratic, Michael Steele, Republican, United States_
 
-### [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6-3-6-2-to-win-her-fourth-wimbledon-women-s-singles-title.md)
+### [Serena Williams beats Vera Zvonareva 6-3, 6-2 to win her fourth Wimbledon women's singles title. ](/news/2010/07/3/serena-williams-beats-vera-zvonareva-6a3-6a2-to-win-her-fourth-wimbledon-women-s-singles-title.md)
 _Context: Serena Williams, Vera Zvonareva, Wimbledon_
 
 ## [Previous Day...](/news/2010/07/2/index.md)

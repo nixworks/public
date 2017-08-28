@@ -3,10 +3,10 @@
 ### ["Dawn", Pakistan's largest English-language newspaper, begins publication of thousands of U.S. diplomatic cables it has obtained in a deal with WikiLeaks and Julian Assange. The cables show that the Pakistani military asked the United States to increase its drone attacks against insurgents on Pakistani territory, a request Pakistani authorities have not admitted in public. ](/news/2011/05/21/dawn-pakistan-s-largest-english-language-newspaper-begins-publication-of-thousands-of-u-s-diplomatic-cables-it-has-obtained-in-a-deal-w.md)
 Leaked US diplomatic messages show Pakistani military requested more drone strikes and help from US special forces.
 
-### [Arab Spring:: 2011-2012 Syrian uprising:: Several people are killed and dozens of others are injured in Homs as Syrian security forces attack the funeral of protesters killed in yesterday's protest events during the country's uprising against the regime. ](/news/2011/05/21/arab-spring-2011-2012-syrian-uprising-several-people-are-killed-and-dozens-of-others-are-injured-in-homs-as-syrian-security-forces-att.md)
+### [2011-2012 Syrian uprising:Several people are killed and dozens of others are injured in Homs as Syrian security forces attack the funeral of protesters killed in yesterday's protest events during the country's uprising against the regime. ](/news/2011/05/21/2011a2012-syrian-uprising-several-people-are-killed-and-dozens-of-others-are-injured-in-homs-as-syrian-security-forces-attack-the-funeral.md)
 At least 11 dead and 27 injured in Homs, activists say, as thousands attend funerals for those killed on Friday.
 
-### [Other anti-government protests:: 2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. ](/news/2011/05/21/other-anti-government-protests-2011-2012-spanish-protests-thousands-of-people-defy-a-government-ban-on-gatherings-to-protest-across-the.md)
+### [2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. ](/news/2011/05/21/2011a2012-spanish-protests-thousands-of-people-defy-a-government-ban-on-gatherings-to-protest-across-the-country-against-the-spanish-gove.md)
 _Context: clash_
 
 ### [At least 15 people are killed near the town of Landi Kotal in Pakistan after a bomb destroys an Afghanistan-bound oil tanker. ](/news/2011/05/21/at-least-15-people-are-killed-near-the-town-of-landi-kotal-in-pakistan-after-a-bomb-destroys-an-afghanistan-bound-oil-tanker.md)
@@ -18,13 +18,13 @@ At least six medical students dead and 23 others injured in suicide bombing insi
 ### [A bomb explodes in a bank in the city centre of Derry, Northern Ireland; no damage is done. ](/news/2011/05/21/a-bomb-explodes-in-a-bank-in-the-city-centre-of-derry-northern-ireland-no-damage-is-done.md)
 A bomb which exploded in a bank in Londonderry was &quot;thrown&quot; into the Santander branch by three masked men.
 
-### [Sudanese invasion of Abyei:: Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/sudanese-invasion-of-abyei-southern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md)
+### [Southern Sudan says forces from Sudan have attacked the disputed Abyei border region. ](/news/2011/05/21/southern-sudan-says-forces-from-sudan-have-attacked-the-disputed-abyei-border-region.md)
 The northern Sudanese army is in control of Abyei on the border with South Sudan, the UN confirms, following days of clashes.
 
 ### [Police clashed with protesters in Valparaiso, Chile over the government's proposed hydro-electric dam project and education and labour policies which, student leaders say, are going "in the opposite way from those the population were demanding". The demonstration coincides with Sebastian Pinera's state of the nation address. ](/news/2011/05/21/police-clashed-with-protesters-in-valparaaso-chile-over-the-government-s-proposed-hydro-electric-dam-project-and-education-and-labour-poli.md)
 Police and protesters opposing government policies in Chile clash in the central city of Valparaiso.
 
-### [Harold Camping's May 21, 2011 end times prediction:: Hundreds of Hmong people are reportedly forced into hiding in north-west Vietnam, after security forces disperse thousands awaiting the supposed Second Coming of Christ. ](/news/2011/05/21/harold-camping-s-may-21-2011-end-times-prediction-hundreds-of-hmong-people-are-reportedly-forced-into-hiding-in-north-west-vietnam-after.md)
+### [Hundreds of Hmong people are reportedly forced into hiding in north-west Vietnam, after security forces disperse thousands awaiting the supposed Second Coming of Christ. ](/news/2011/05/21/hundreds-of-hmong-people-are-reportedly-forced-into-hiding-in-north-west-vietnam-after-security-forces-disperse-thousands-awaiting-the-supp.md)
 A prophecy that Saturday is Judgment Day, and the start of the five-month end of the world, is dividing families.
 
 ### [Britain formally backs French politician Christine Lagarde to become the next managing director of the International Monetary Fund, following the resignation of Dominique Strauss-Kahn over his alleged rape of a hotel chambermaid in New York City. ](/news/2011/05/21/britain-formally-backs-french-politician-christine-lagarde-to-become-the-next-managing-director-of-the-international-monetary-fund-followin.md)

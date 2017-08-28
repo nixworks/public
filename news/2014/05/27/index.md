@@ -1,18 +1,18 @@
 ## [2014-05-27](/news/2014/05/27/index.md)
 
-### [2014 pro-Russian unrest in Ukraine:: At least thirty pro-Russian separatists have died in fighting over control of Donetsk International Airport; the Ukrainian government claims to have total control of the airport following the clashes with the separatists. ](/news/2014/05/27/2014-pro-russian-unrest-in-ukraine-at-least-thirty-pro-russian-separatists-have-died-in-fighting-over-control-of-donetsk-international-air.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Donetsk International Airport, Kiev, Russia_
+### [At least thirty pro-Russian separatists have died in fighting over control of Donetsk International Airport; the Ukrainian government claims to have total control of the airport following the clashes with the separatists. ](/news/2014/05/27/at-least-thirty-pro-russian-separatists-have-died-in-fighting-over-control-of-donetsk-international-airport-the-ukrainian-government-claims.md)
+_Context: Donetsk International Airport, Kiev, Russia_
 
-### [Syrian Civil War:: Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/syrian-civil-war-eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-findin.md)
+### [Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding-mission-are-atta.md)
 A convoy of chemical weapons inspectors and UN staff that was travelling to a site of an alleged chlorine gas attack in Syria comes under attack.
 
-### [War in Afghanistan (2001-present):: Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/war-in-afghanistan-2001-present-barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghan.md)
+### [Barack Obama, the President of the United States, announces that 9,800 U.S. troops will stay in Afghanistan for a year after the withdrawal of combat troops in December. ](/news/2014/05/27/barack-obama-the-president-of-the-united-states-announces-that-9-800-u-s-troops-will-stay-in-afghanistan-for-a-year-after-the-withdrawal.md)
 The troops will include troops to train and advise Afghanistan&rsquo;s military and a group of Special Operations forces.
 
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
 _Context: Pakistan, United States_
 
-### [Iraqi Insurgency: At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/iraqi-insurgency-at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
+### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
 _Context: Anbar province, Baghdad, Iraq, Iraqi insurgency_
 
 ### [Opposition in Georgia's breakaway Abkhazia takes over the government headquarters, forcing President Alexander Ankvab to flee the capital, Sukhumi. ](/news/2014/05/27/opposition-in-georgia-s-breakaway-abkhazia-takes-over-the-government-headquarters-forcing-president-alexander-ankvab-to-flee-the-capital-s.md)
@@ -24,10 +24,10 @@ European Central Bank President Mario Draghi said on Tuesday the bank was aware 
 ### [Pfizer announces plans to release an over-the-counter version of heartburn medication Nexium. ](/news/2014/05/27/pfizer-announces-plans-to-release-an-over-the-counter-version-of-heartburn-medication-nexium.md)
 _Context: Nexium, Pfizer, heartburn_
 
-### [Malaysia Airlines Flight 370:: Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-airlines-flight-370-malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-dete.md)
-_Context: British people, Department of Civil Aviation, Inmarsat, Malaysia, Malaysia Airlines Flight 370_
+### [Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-determine-the-estimated-path-of-mis.md)
+_Context: British people, Department of Civil Aviation, Inmarsat, Malaysia_
 
-### [Haiyang Shiyou 981 standoff:: Vietnam and China trade accusations over an incident in the South China Sea that led to the sinking of a Vietnamese fishing boat yesterday. ](/news/2014/05/27/haiyang-shiyou-981-standoff-vietnam-and-china-trade-accusations-over-an-incident-in-the-south-china-sea-that-led-to-the-sinking-of-a-vietn.md)
+### [Vietnam and China trade accusations over an incident in the South China Sea that led to the sinking of a Vietnamese fishing boat yesterday. ](/news/2014/05/27/vietnam-and-china-trade-accusations-over-an-incident-in-the-south-china-sea-that-led-to-the-sinking-of-a-vietnamese-fishing-boat-yesterday.md)
 Vietnam and China trading accusations Tuesday over who was the aggressor in an incident that led to the sinking of a Vietnamese fishing boat in the South China Sea, sharpening already dangerously high tensions between the two nations over their overlapping territorial claims in the waters.
 
 ### [Disgraced former New South Wales Police officer Roger Rogerson is arrested over the alleged murder of student Jamie Gao in Sydney last week. ](/news/2014/05/27/disgraced-former-new-south-wales-police-officer-roger-rogerson-is-arrested-over-the-alleged-murder-of-student-jamie-gao-in-sydney-last-week.md)
@@ -36,8 +36,8 @@ Police have arrested disgraced ex-detective Roger Rogerson at his home in Sydney
 ### [A Pakistani woman is stoned to death with bricks outside a courthouse by family members including her father, two brothers, and ex-fiance for marrying a man she loved against the family's wishes. ([http://www.jpost.com/International/Pakistan-woman-stoned-to-death-by-family-for-marrying-man-she-loved-354555 JPost via Reuters])](/news/2014/05/27/a-pakistani-woman-is-stoned-to-death-with-bricks-outside-a-courthouse-by-family-members-including-her-father-two-brothers-and-ex-fianca-c-f.md)
 _Context: Pakistan, stoned to death_
 
-### [Egyptian presidential election, 2014:: The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/egyptian-presidential-election-2014-the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-en.md)
-_Context: Egyptian presidential election, 2014, Government of Egypt_
+### [The Government of Egypt declares the final day of voting in the election to be a public holiday to encourage turnout. ](/news/2014/05/27/the-government-of-egypt-declares-the-final-day-of-voting-in-the-election-to-be-a-public-holiday-to-encourage-turnout.md)
+_Context: Government of Egypt_
 
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield. ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
 _Context: Afghanistan's, Bagram Airfield, Barack Obama, CIA, President_

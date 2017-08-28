@@ -1,7 +1,7 @@
 ## [2009-08-15](/news/2009/08/15/index.md)
 
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Abdel-Latif Moussa, Hamas, Islam, Jund Ansar Allah, shootout_
+_Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Muslims, shootout_
 
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)
 _Context: Hong Kong_
@@ -15,7 +15,7 @@ _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World W
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
 JOHANNESBURG: A former president of Zambia faces jail after a trial that may send a shiver down the spines of Africa&#039;s once-untouchable autocrats.
 
-### [ MV "Arctic Sea": A ransom demand is made for the missing ship. ](/news/2009/08/15/mv-arctic-sea-a-ransom-demand-is-made-for-the-missing-ship.md)
+### [ A ransom demand is made for the missing ship. ](/news/2009/08/15/a-ransom-demand-is-made-for-the-missing-ship.md)
 The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)

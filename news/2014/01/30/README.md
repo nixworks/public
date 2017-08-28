@@ -1,6 +1,6 @@
 ## [2014-01-30](/news/2014/01/30/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/iraqi-insurgency-post-u-s-withdrawal-six-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24.md)
+### [Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. ](/news/2014/01/30/six-suicide-bombers-take-over-the-iraqi-ministry-of-transportation-in-baghdad-and-kill-at-least-24-hostages-before-security-forces-take-cont.md)
 Six suicide bombers burst into an Iraqi ministry building, took hostages and killed at least 24 people including themselves on Thursday before security forces regained control, security officials said.
 
 ### [Exxon Mobil posts lower than expected profit figures largely due to the fall in its oil and natural gas production. ](/news/2014/01/30/exxon-mobil-posts-lower-than-expected-profit-figures-largely-due-to-the-fall-in-its-oil-and-natural-gas-production.md)
@@ -12,8 +12,8 @@ The Philippines economic growth rate slows in the fourth quarter hurt by Typhoon
 ### [Chinese technology company Lenovo buys Motorola Mobility from Google for $3 billion to create its own mobile device unit. ](/news/2014/01/30/chinese-technology-company-lenovo-buys-motorola-mobility-from-google-for-3-billion-to-create-its-own-mobile-device-unit.md)
 Google announces the surprise sale of its Motorola Mobility unit, which it bought in 2012, to Chinese computer maker Lenovo for $2.91bn.
 
-### [2013-14 Australian region cyclone season:: Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/2013-14-australian-region-cyclone-season-tropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-be.md)
-_Context: 2013-14 Australian region cyclone season, Lucinda, Proserpine, north Queensland_
+### [Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/tropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-between-lucinda-and-proserpine.md)
+_Context: Lucinda, Proserpine, north Queensland_
 
 ### [A man whose boat was adrift for sixteen months is rescued at the Marshall Islands. The journey began with a companion as part of a venture from Mexico for El Salvador in September 2012. ](/news/2014/01/30/a-man-whose-boat-was-adrift-for-sixteen-months-is-rescued-at-the-marshall-islands-the-journey-began-with-a-companion-as-part-of-a-venture-f.md)
 An emaciated man whose boat washed up on the shores of the Pacific’s Marshall Islands is telling a harrowing tale of being adrift for 16 months, surviving on fish, birds, and turtle blood.
@@ -33,8 +33,8 @@ AMERICAN Amanda Knox has been found guilty of the gruesome murder of a British s
 ### [The Danish coalition government breaks up as widespread turmoil over the partial sale of the state-owned DONG Energy to Goldman Sachs leads to the withdrawal of the Socialist People's Party. ](/news/2014/01/30/the-danish-coalition-government-breaks-up-as-widespread-turmoil-over-the-partial-sale-of-the-state-owned-dong-energy-to-goldman-sachs-leads.md)
 Disagreement over DONG sale spells doom for coalition. SF leaves government, Vilhelmsen steps down
 
-### [2013-14 Thai political crisis:: The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/2013-14-thai-political-crisis-the-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-el.md)
-_Context: 2013-14 Thai political crisis, Bangkok, Thai Army, general election held on February 2_
+### [The Thai Army announces plans to deploy more troops in the streets of Bangkok ahead of Sunday's general election. ](/news/2014/01/30/the-thai-army-announces-plans-to-deploy-more-troops-in-the-streets-of-bangkok-ahead-of-sunday-s-general-election.md)
+_Context: Bangkok, Thai Army, general election held on February 2_
 
 ### [Mohammad-Ali Najafi resigns as Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization, marking the first change in President Rouhani's cabinet. ](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.md)
 _Context: Cultural Heritage, Handcrafts and Tourism Organization, Hassan Rouhani, Mohammad-Ali Najafi, cabinet_

@@ -1,10 +1,10 @@
 ## [2012-07-9](/news/2012/07/9/index.md)
 
-### [Mexican Drug War:: Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/mexican-drug-war-ten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahu.md)
+### [Ten decapitated bodies are discovered inside an abandoned vehicle along a roadside in the Mexican city of Torreon, Coahuila. Reportedly, a written message was left behind by the perpetrators. ](/news/2012/07/9/ten-decapitated-bodies-are-discovered-inside-an-abandoned-vehicle-along-a-roadside-in-the-mexican-city-of-torrea3n-coahuila-reportedly-a.md)
 Police in northern Mexico find 10 decapitated bodies in the city of Torreon, believed to be the victims of a turf war between drug gangs.
 
-### [Syrian uprising (2011-present):: UN and Arab League envoy to Syria, Kofi Annan, states that talks with Syrian President Bashar Assad in Damascus are "constructive". ](/news/2012/07/9/syrian-uprising-2011-present-un-and-arab-league-envoy-to-syria-kofi-annan-states-that-talks-with-syrian-president-bashar-assad-in-da.md)
-_Context: Bashar Assad's, Damascus, Kofi Annan, Syrian uprising (2011-present)_
+### [UN and Arab League envoy to Syria, Kofi Annan, states that talks with Syrian President Bashar Assad in Damascus are "constructive". ](/news/2012/07/9/un-and-arab-league-envoy-to-syria-kofi-annan-states-that-talks-with-syrian-president-bashar-assad-in-damascus-are-constructive.md)
+_Context: Bashar Assad's, Damascus, Kofi Annan_
 
 ### [Gunmen open fire at a Pakistan Army training camp near the city of Wazirabad resulting in seven deaths and five people being injured. ](/news/2012/07/9/gunmen-open-fire-at-a-pakistan-army-training-camp-near-the-city-of-wazirabad-resulting-in-seven-deaths-and-five-people-being-injured.md)
 _Context: Pakistan army, Wazirabad_

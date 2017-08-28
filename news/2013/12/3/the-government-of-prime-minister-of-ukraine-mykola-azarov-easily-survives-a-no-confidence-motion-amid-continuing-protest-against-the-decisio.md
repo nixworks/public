@@ -1,0 +1,23 @@
+### [2013-12-3](/news/2013/12/3/index.md)
+
+# The Government of Prime Minister of Ukraine Mykola Azarov easily survives a no-confidence motion amid continuing protest against the decision of Azarov and President Yanukovych to back away from stronger ties with the European Union. However, the Government is in danger of not surviving a similar motion tomorrow. 
+
+Ukraine’s government survived a no-confidence motion as tens of thousands of protesters surrounded the parliament building in central Kyiv, calling
+
+
+### Source:
+
+1. [Euronews](http://www.euronews.com/2013/12/03/ukraine-government-survives-no-confidence-motion/)
+
+### Related:
+
+1. [100,000 people continue their protest against president Yanukovych's decision to back away from stronger ties with the European Union. ](/news/2013/12/1/100-000-people-continue-their-protest-against-president-yanukovych-s-decision-to-back-away-from-stronger-ties-with-the-european-union.md) _Context: European Union, Ukraine-European Union relations, Viktor Yanukovych_
+2. [More than 100,000 people protest in Kiev, Ukraine, against the decision of Viktor Yanukovych's government to suspend preparations for signing of the association agreement with the European Union under pressure from Russia. ](/news/2013/11/24/more-than-100-000-people-protest-in-kiev-ukraine-against-the-decision-of-viktor-yanukovych-s-government-to-suspend-preparations-for-signin.md) _Context: European Union, Ukraine-European Union relations, Viktor Yanukovych_
+3. [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md) _Context: European Union, Ukraine-European Union relations_
+4. [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md) _Context: European Union, Ukraine-European Union relations_
+5. [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md) _Context: European Union, Ukraine-European Union relations_
+6. [Ukrainian Prime Minister Mykola Azarov submits his resignation to President Viktor Yanukovich "for the sake of a peaceful settlement of the conflict." ](/news/2014/01/28/ukrainian-prime-minister-mykola-azarov-submits-his-resignation-to-president-viktor-yanukovich-for-the-sake-of-a-peaceful-settlement-of-the.md) _Context: Mykola Azarov, Prime Minister of Ukraine_
+7. [Mykola Azarov, the Prime Minister of Ukraine, and his government resign en masse following controversial elections. ](/news/2012/12/3/mykola-azarov-the-prime-minister-of-ukraine-and-his-government-resign-en-masse-following-controversial-elections.md) _Context: Mykola Azarov, Prime Minister of Ukraine_
+8. [The Supreme Administrative Court of Ukraine suspends the decision of the Electoral Commission to declare Viktor Yanukovych the winner of the Ukrainian presidential election until the court has decided on the complaints brought by the other candidate, Prime Minister Yulia Tymoshenko. ](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.md) _Context: Prime Minister of Ukraine, Viktor Yanukovych_
+9. [ President Viktor Yushchenko and Prime Minister Viktor Yanukovych of Ukraine agree to a compromise, with early parliamentary elections to be held on September 30. ](/news/2007/05/27/president-viktor-yushchenko-and-prime-minister-viktor-yanukovych-of-ukraine-agree-to-a-compromise-with-early-parliamentary-elections-to-be.md) _Context: Prime Minister of Ukraine, Viktor Yanukovych_
+10. [ Preliminary results of the 2006 Ukrainian parliamentary election give former Prime Minister Viktor Yanukovych and his pro-Russian Party of Regions a narrow lead over the Yulia Tymoshenko Electoral Bloc, with President Viktor Yushchenko's Our Ukraine Bloc trailing in third place. ](/news/2006/03/27/preliminary-results-of-the-2006-ukrainian-parliamentary-election-give-former-prime-minister-viktor-yanukovych-and-his-pro-russian-party-of.md) _Context: Prime Minister of Ukraine, Viktor Yanukovych_

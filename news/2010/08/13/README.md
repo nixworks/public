@@ -69,7 +69,7 @@ _Context: Allah, Malaysia, Muslim_
 ### [Sri Lanka convicts ex-army chief Sarath Fonseka on charges of engaging in politics while on active service. ](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.md)
 Military court finds Sarath Fonseka guilty of meddling in politics while in uniform.
 
-### [Trial of Omar Khadr:: The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/trial-of-omar-khadr-the-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is.md)
+### [The lawyer of Omar Khadr, the former child soldier who is the youngest Guantanamo Bay inmate, faints in court and is rushed to hospital. The trial subsequently gets suspended.](/news/2010/08/13/the-lawyer-of-omar-khadr-the-former-child-soldier-who-is-the-youngest-guanta-namo-bay-inmate-faints-in-court-and-is-rushed-to-hospital-th.md)
 The first trial at Guantanamo Bay under US President Barack Obama is suspended after the defence lawyer faints in court.
 
 ### [Erastus Akingbola, former head of the Intercontinental Bank of Nigeria, is charged with 22 counts of involvement in the bank's near collapse at a court in Lagos; he denies all counts. ](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.md)

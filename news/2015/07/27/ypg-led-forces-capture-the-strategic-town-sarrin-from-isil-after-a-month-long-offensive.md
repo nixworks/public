@@ -1,6 +1,6 @@
 ### [2015-07-27](/news/2015/07/27/index.md)
 
-#   YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. 
+#  YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. 
 
 The Kurdish YPG militia on Monday captured a town from Islamic State fighters in northern Syria after a month-long offensive against the ultra hardline militants in the area to cut their supply lines, the Syrian Observatory for Human Rights said.
 
@@ -11,7 +11,7 @@ The Kurdish YPG militia on Monday captured a town from Islamic State fighters in
 
 ### Related:
 
-1. [  The Kurdish People's Protection Units (YPG) capture the military base Brigade 93 and enter the town of Ayn Issa, the first defense line of ISIL north of its de facto capital al-Raqqah.ISIL claims it has started the destruction of the ancient complex of Palmyra. ](/news/2015/06/23/the-kurdish-people-s-protection-units-ypg-capture-the-military-base-brigade-93-and-enter-the-town-of-ayn-issa-the-first-defense-line-of.md) _Context: ISIL, Syrian Civil War, YPG_
+1. [ The Kurdish People's Protection Units (YPG) capture the military base Brigade 93 and enter the town of Ayn Issa, the first defense line of ISIL north of its de facto capital al-Raqqah.ISIL claims it has started the destruction of the ancient complex of Palmyra. ](/news/2015/06/23/the-kurdish-people-s-protection-units-ypg-capture-the-military-base-brigade-93-and-enter-the-town-of-ayn-issa-the-first-defense-line-of.md) _Context: ISIL, Syrian Civil War, YPG_
 2. [The Turkish-backed Free Syrian Army captures Al-Bab from ISIL after months of fighting. ](/news/2017/02/24/the-turkish-backed-free-syrian-army-captures-al-bab-from-isil-after-months-of-fighting.md) _Context: ISIL, Syrian Civil War_
 3. [The ISIL-affiliated Syrian opposition group Jaysh Khaled bin Waleed overwhelms Tahrir al-Sham and Southern Front militants, capturing the towns of Tasil and Saham al-Jawlan, along with two other villages and a hill in Daraa Governorate. ](/news/2017/02/20/the-isil-affiliated-syrian-opposition-group-jaysh-khaled-bin-waleed-overwhelms-tahrir-al-sham-and-southern-front-militants-capturing-the-to.md) _Context: ISIL, Syrian Civil War_
 4. [Syrian government forces and Kurdish People's Protection Units capture more than a third of rebel-controlled eastern Aleppo. ](/news/2016/11/28/syrian-government-forces-and-kurdish-people-s-protection-units-capture-more-than-a-third-of-rebel-controlled-eastern-aleppo.md) _Context: Syrian Civil War, YPG_

@@ -13,7 +13,7 @@ James Purnell, the work and pensions secretary, dealt a major blow to Gordon Bro
 _Context: A New Beginning, Barack Obama, Cairo, Egypt, Muslim, President_
 
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: Britain, European Parliament, European Union, Netherlands, elections_
+_Context: Britain, European Parliament, European Union, Netherlands, election_
 
 ### [ Irish Minister for Education and Science Batt O'Keeffe apologises for the postponement of a Leaving Certificate Examination. ](/news/2009/06/4/irish-minister-for-education-and-science-batt-o-keeffe-apologises-for-the-postponement-of-a-leaving-certificate-examination.md)
 An inquiry has begun into the security breach which forced the postponement of today&#39;s Leaving Cert English Paper Two.

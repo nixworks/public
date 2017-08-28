@@ -6,8 +6,8 @@ _Context: 2004 Indian Ocean earthquake, Asian tsunami, Indonesia_
 ### [ Hajj: Around two million Muslims from around the world are converging on Mount Arafat for the most important day of the annual Hajj pilgrimage to Mecca. ](/news/2005/01/19/hajj-around-two-million-muslims-from-around-the-world-are-converging-on-mount-arafat-for-the-most-important-day-of-the-annual-hajj-pilgrim.md)
 _Context: Hajj, Mecca, Mount Arafat, Muslim_
 
-### [ Israeli-Palestinian Conflict:: Following negotiations with President Abu Mazen, Zachariya Zubaidi, the leader of the Al Aqsa Martyrs Brigade, has announced that his militant group are to halt attacks inside Israel but said it would continue to strike at Israelis in the West Bank and Gaza Strip. ](/news/2005/01/19/israeli-palestinian-conflict-following-negotiations-with-president-abu-mazen-zachariya-zubaidi-the-leader-of-the-al-aqsa-martyrs-brigad.md)
-_Context: Abu Mazen, Al Aqsa Martyrs Brigade, Gaza Strip, Israel, Israeli-Palestinian conflict, West Bank_
+### [ Following negotiations with President Abu Mazen, Zachariya Zubaidi, the leader of the Al Aqsa Martyrs Brigade, has announced that his militant group are to halt attacks inside Israel but said it would continue to strike at Israelis in the West Bank and Gaza Strip. ](/news/2005/01/19/following-negotiations-with-president-abu-mazen-zachariya-zubaidi-the-leader-of-the-al-aqsa-martyrs-brigade-has-announced-that-his-milit.md)
+_Context: Abu Mazen, Al Aqsa Martyrs Brigade, Gaza Strip, Israel, West Bank_
 
 ### [ Japan Meteorological Agency issues tsunami warnings near the Izu island chain south of Tokyo after a strong undersea earthquake (6.8 on the Richter scale). ](/news/2005/01/19/japan-meteorological-agency-issues-tsunami-warnings-near-the-izu-island-chain-south-of-tokyo-after-a-strong-undersea-earthquake-6-8-on-the.md)
 _Context: Izu, Japan Meteorological Agency, Tokyo, earthquake, magnitude, tsunami_

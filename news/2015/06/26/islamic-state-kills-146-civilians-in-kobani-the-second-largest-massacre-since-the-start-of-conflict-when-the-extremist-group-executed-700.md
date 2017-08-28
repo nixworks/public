@@ -1,6 +1,6 @@
 ### [2015-06-26](/news/2015/06/26/index.md)
 
-#   Islamic State kills 146 civilians in Koban, the second largest massacre since the start of conflict when the extremist group executed 700 members of the al-Sheitaat tribe in eastern Syria.  
+#  Islamic State kills 146 civilians in Koban, the second largest massacre since the start of conflict when the extremist group executed 700 members of the al-Sheitaat tribe in eastern Syria. 
 
 ISIS may be trying a diversionary tactic in the city it lost to the Kurds six months ago.
 

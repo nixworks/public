@@ -1,12 +1,12 @@
 ## [2013-11-4](/news/2013/11/4/index.md)
 
-### [Syria civil war:: Colonel Abdul Jabbar Akaidi, top rebel leader and chief recipient of U.S. aid, quits his position blaming recent losses on rebel infighting. ](/news/2013/11/4/syria-civil-war-colonel-abdul-jabbar-akaidi-top-rebel-leader-and-chief-recipient-of-u-s-aid-quits-his-position-blaming-recent-losses-on.md)
+### [Colonel Abdul Jabbar Akaidi, top rebel leader and chief recipient of U.S. aid, quits his position blaming recent losses on rebel infighting. ](/news/2013/11/4/colonel-abdul-jabbar-akaidi-top-rebel-leader-and-chief-recipient-of-u-s-aid-quits-his-position-blaming-recent-losses-on-rebel-infighting.md)
 Rebel infighting jeopardizes their control even in their strongholds
 
 ### [A truck carrying four people hits a land mine on a road leading to Menaka in Mali, killing all of the occupants. ](/news/2013/11/4/a-truck-carrying-four-people-hits-a-land-mine-on-a-road-leading-to-menaka-in-mali-killing-all-of-the-occupants.md)
 _Context: Mali_
 
-### [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth -1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-1-billion-in-munich-including-lost-works-by-picasso-and-m.md)
+### [German magazine "Focus" reports the 2012 discovery of Nazi plundered art worth EUR1 billion in Munich, including lost works by Picasso and Matisse. ](/news/2013/11/4/german-magazine-focus-reports-the-2012-discovery-of-nazi-plundered-art-worth-a-1-billion-in-munich-including-lost-works-by-picasso-and-m.md)
 _Context: 2012 discovery, German magazine ''Focus'', Matisse, Munich, Nazi plunder, Picasso_
 
 ### [A man fatally stabs three people on a bus en route between Ardal and Tyin in Norway. ](/news/2013/11/4/a-man-fatally-stabs-three-people-on-a-bus-en-route-between-ardal-and-tyin-in-norway.md)

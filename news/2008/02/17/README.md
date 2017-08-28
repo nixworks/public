@@ -6,7 +6,7 @@ A video showing sick animals being shoved with forklifts has led to the largest 
 ### [ Cypriot President Tassos Papadopoulos is eliminated in the first round of the Cypriot presidential election. ](/news/2008/02/17/cypriot-president-tassos-papadopoulos-is-eliminated-in-the-first-round-of-the-cypriot-presidential-election.md)
 Cypriot President Tassos Papadopoulos was eliminated in the first round of a presidential election on Sunday, sending two candidates who want talks on reuniting the island to a run-off.
 
-### [ Kosovo declares its independence: The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independence-the-parliament-of-kosovo-declares-independence-from-serbia.md)
+### [ The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.md)
 _Context: Kosovo, Serbia, independent_
 
 ### [ President of the United States George W. Bush offers a $700 million aid package to Tanzania. ](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.md)

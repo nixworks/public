@@ -1,0 +1,23 @@
+### [2016-05-10](/news/2016/05/10/index.md)
+
+# Officer Edward Nero waives his right to a jury trial on misdemeanor charges of second-degree assault, two counts of misconduct in office, and reckless endangerment. 
+
+A Baltimore police officer will be tried by a judge instead of a jury on charges stemming from the 2015 death of Freddie Gray, a black man who died in police custody, a Maryland judge ruled on Tuesday.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-baltimore-police-idUSKCN0Y115C)
+
+### Related:
+
+1. [Baltimore prosecutors drop all charges against the final three police officers with pending cases in the death of Freddie Gray. None of the six cases resulted in a conviction. ](/news/2016/07/27/baltimore-prosecutors-drop-all-charges-against-the-final-three-police-officers-with-pending-cases-in-the-death-of-freddie-gray-none-of-the.md) _Context: death of Freddie Gray_
+2. [Baltimore police officer Caesar Goodson is cleared of all charges for the murder of Freddie Gray, a black detainee, on April 19, 2015. ](/news/2016/06/23/baltimore-police-officer-caesar-goodson-is-cleared-of-all-charges-for-the-murder-of-freddie-gray-a-black-detainee-on-april-19-2015.md) _Context: death of Freddie Gray_
+3. [Judge Barry Williams finds Baltimore, Maryland, Police Officer Edward Nero not guilty of all charges. Nero was accused of second-degree intentional assault, two counts of misconduct in office, and reckless endangerment. Community leaders and elected officials appeal for calm. ](/news/2016/05/23/judge-barry-williams-finds-baltimore-maryland-police-officer-edward-nero-not-guilty-of-all-charges-nero-was-accused-of-second-degree-inte.md) _Context: death of Freddie Gray_
+4. [After the jury fails to reach a unanimous decision, a Baltimore, Maryland, judge declares a mistrial in the trial of police officer William Porter, the first officer to be charged in the death of Freddie Gray. ](/news/2015/12/16/after-the-jury-fails-to-reach-a-unanimous-decision-a-baltimore-maryland-judge-declares-a-mistrial-in-the-trial-of-police-officer-william.md) _Context: death of Freddie Gray_
+5. [A Baltimore, Maryland deadlocked jury was told by the trial judge to resume deliberations after closing arguments in the first trial of police officer William Porter, charged in the death of Freddie Gray. With demonstrations and unrest following the death, the city has cancelled leave for police officers and the mayor has called for calm when a verdict is announced. ](/news/2015/12/15/a-baltimore-maryland-deadlocked-jury-was-told-by-the-trial-judge-to-resume-deliberations-after-closing-arguments-in-the-first-trial-of-poli.md) _Context: death of Freddie Gray_
+6. [Jury selection begins for the trial of William Porter, a Baltimore, Maryland police officer charged with manslaughter and other charges surrounding the April 19 death of Freddie Gray. Porter is the first of six officers to be tried. ](/news/2015/11/30/jury-selection-begins-for-the-trial-of-william-porter-a-baltimore-maryland-police-officer-charged-with-manslaughter-and-other-charges-surr.md) _Context: death of Freddie Gray_
+7. [The U.S. city of Baltimore, Maryland, agrees to a $6.4 million settlement with relatives over the death of Freddie Gray. ](/news/2015/09/8/the-u-s-city-of-baltimore-maryland-agrees-to-a-6-4-million-settlement-with-relatives-over-the-death-of-freddie-gray.md) _Context: death of Freddie Gray_
+8. [ Joyce Mitchell, who had smuggled hacksaw blades inside frozen meat to Richard Matt and David Sweat in prison, before withdrawing as their getaway driver, pleads guilty to a first-degree felony of promoting prison contraband and to a misdemeanor count of fourth-degree criminal facilitation. She faces up to 7 years in prison when sentenced. ](/news/2015/07/28/joyce-mitchell-who-had-smuggled-hacksaw-blades-inside-frozen-meat-to-richard-matt-and-david-sweat-in-prison-before-withdrawing-as-their-g.md) _Context: misdemeanor_
+9. [The United States Department of Justice announces an inquiry into the Baltimore Police Department following the death of Freddie Gray. ](/news/2015/05/8/the-united-states-department-of-justice-announces-an-inquiry-into-the-baltimore-police-department-following-the-death-of-freddie-gray.md) _Context: death of Freddie Gray_
+10. [2015 Baltimore riots: The Governor of Maryland, Larry Hogan, rescinds a state of emergency imposed following the riots prompted by the death of Freddie Gray. ](/news/2015/05/6/2015-baltimore-riots-the-governor-of-maryland-larry-hogan-rescinds-a-state-of-emergency-imposed-following-the-riots-prompted-by-the-death.md) _Context: death of Freddie Gray_

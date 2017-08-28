@@ -3,10 +3,10 @@
 ### [The crew of the Libyan M/V "Rim" takes back the ship from Somali pirates in the Gulf of Aden. Another ship, the Panamanian M/V "QSM Dubai", is captured. ](/news/2010/06/2/the-crew-of-the-libyan-m-v-rim-takes-back-the-ship-from-somali-pirates-in-the-gulf-of-aden-another-ship-the-panamanian-m-v-qsm-dubai.md)
 The crew of a cargo ship seized by Somali pirates in the Gulf of Aden reportedly retake control of the vessel.
 
-### [Gaza flotilla raid:: The Israel Defense Forces claims that the 10 tonnes of aid delivered in the Free Gaza flotilla was turned back by Hamas when delivered to the border at Rafah, with Hamas stating that it will only accept the aid if all flotilla activists imprisoned in Israel are freed, and that the aid be delivered by the flotilla organizers. ](/news/2010/06/2/gaza-flotilla-raid-the-israel-defense-forces-claims-that-the-10-tonnes-of-aid-delivered-in-the-free-gaza-flotilla-was-turned-back-by-hamas.md)
+### [The Israel Defense Forces claims that the 10 tonnes of aid delivered in the Free Gaza flotilla was turned back by Hamas when delivered to the border at Rafah, with Hamas stating that it will only accept the aid if all flotilla activists imprisoned in Israel are freed, and that the aid be delivered by the flotilla organizers. ](/news/2010/06/2/the-israel-defense-forces-claims-that-the-10-tonnes-of-aid-delivered-in-the-free-gaza-flotilla-was-turned-back-by-hamas-when-delivered-to-th.md)
 Ankara threatens to cut Israel ties unless flotilla activists are returned by Wednesday.
 
-### [Cumbria shootings:: At least 12 people are killed and 25 injured during shootings carried out by a taxi driver in the Whitehaven, Egremont and Seascale areas of west Cumbria, England. He is found dead, an apparent suicide, in Boot. ](/news/2010/06/2/cumbria-shootings-at-least-12-people-are-killed-and-25-injured-during-shootings-carried-out-by-a-taxi-driver-in-the-whitehaven-egremont-a.md)
+### [At least 12 people are killed and 25 injured during shootings carried out by a taxi driver in the Whitehaven, Egremont and Seascale areas of west Cumbria, England. He is found dead, an apparent suicide, in Boot. ](/news/2010/06/2/at-least-12-people-are-killed-and-25-injured-during-shootings-carried-out-by-a-taxi-driver-in-the-whitehaven-egremont-and-seascale-areas-of.md)
 Police believe they have found the body of a gunman suspected of shooting 12 people dead in Cumbria and injuring a number of others.
 
 ### [Stage and screen actor Sir Patrick Stewart, known for his role in "Star Trek", is knighted by the Queen at Buckingham Palace in England. ](/news/2010/06/2/stage-and-screen-actor-sir-patrick-stewart-known-for-his-role-in-star-trek-is-knighted-by-the-queen-at-buckingham-palace-in-england.md)
@@ -51,7 +51,7 @@ Three centre-right parties pledge to work together following weekend election.
 ### [New Caledonia President Philippe Gomes is indicted over alleged misuse of business contracts. ](/news/2010/06/2/new-caledonia-president-philippe-goma-s-is-indicted-over-alleged-misuse-of-business-contracts.md)
 _Context: New Caledonia, Philippe Gomes, President of New Caledonia, contract, indicted_
 
-### [President of Lombardy, Roberto Formigoni, offers pregnant women -4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md)
+### [President of Lombardy, Roberto Formigoni, offers pregnant women EUR4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-a-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md)
 Pregnant women in northern Italy who face economic hardship are to be offered money not to have an abortion.
 
 ### [Hamid Karzai, the President of Afghanistan, opens a national peace conference to discuss negotiating with the Taliban. A rocket lands near the venue of the conference in Kabul and a suicide bomber sets off explosives outside the conference. ](/news/2010/06/2/hamid-karzai-the-president-of-afghanistan-opens-a-national-peace-conference-to-discuss-negotiating-with-the-taliban-a-rocket-lands-near-t.md)

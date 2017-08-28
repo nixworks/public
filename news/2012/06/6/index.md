@@ -3,7 +3,7 @@
 ### [NATO planes launch an air strike on Afghanistan, allegedly killing civilians in the process. ](/news/2012/06/6/nato-planes-launch-an-air-strike-on-afghanistan-allegedly-killing-civilians-in-the-process.md)
 Nato planes carry out an air strike in Logar province, south of the Afghan capital Kabul, with several civilians reported dead.
 
-### [Arab Spring:: Syrian uprising: Opposition activists on the ground in Syria report that a massacre has been committed in the small village of Qubair, Hama, by the government-hired Shabiha militia. Activists report 78 dead, mostly women and children. ](/news/2012/06/6/arab-spring-syrian-uprising-opposition-activists-on-the-ground-in-syria-report-that-a-massacre-has-been-committed-in-the-small-village-of.md)
+### [Syrian uprising: Opposition activists on the ground in Syria report that a massacre has been committed in the small village of Qubair, Hama, by the government-hired Shabiha militia. Activists report 78 dead, mostly women and children. ](/news/2012/06/6/syrian-uprising-opposition-activists-on-the-ground-in-syria-report-that-a-massacre-has-been-committed-in-the-small-village-of-qubair-hama.md)
 Activists accuse Syrian government forces of massacring 78 in a village near Hama, condemned by the US as &quot;unconscionable&quot;.
 
 ### [2012 Armenian-Azeri border clashes: a new clash kills an Armenian soldier. ](/news/2012/06/6/2012-armenian-azeri-border-clashes-a-new-clash-kills-an-armenian-soldier.md)
@@ -25,8 +25,8 @@ Broadway musical Once is the big winner at the Drama Desk Awards in New York, pi
 ### [An MRI reveals that singer-songwriter Sheryl Crow has a growth on her brain. ](/news/2012/06/6/an-mri-reveals-that-singer-songwriter-sheryl-crow-has-a-growth-on-her-brain.md)
 The singer has told her fans not to worry after she was diagnosed with a benign brain tumour.
 
-### [Diamond Jubilee of Elizabeth II:: The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/diamond-jubilee-of-elizabeth-ii-the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii.md)
-_Context: Commonwealth of Nations, Elizabeth II, Marlborough House, Pall Mall, diamond jubilee_
+### [The Jubilee celebrations conclude with a lunch at Marlborough House on Pall Mall attended by Elizabeth II and Commonwealth leaders. ](/news/2012/06/6/the-jubilee-celebrations-conclude-with-a-lunch-at-marlborough-house-on-pall-mall-attended-by-elizabeth-ii-and-commonwealth-leaders.md)
+_Context: Commonwealth of Nations, Elizabeth II, Marlborough House, Pall Mall_
 
 ### [A group of Irish people are thrown out of the European Central Bank in Frankfurt after attempting to hand a letter of protest to the bank's president Mario Draghi. ](/news/2012/06/6/a-group-of-irish-people-are-thrown-out-of-the-european-central-bank-in-frankfurt-after-attempting-to-hand-a-letter-of-protest-to-the-bank-s.md)
 _Context: European Central Bank, Frankfurt, Mario Draghi_

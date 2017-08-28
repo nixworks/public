@@ -1,6 +1,6 @@
 ### [2017-01-23](/news/2017/01/23/index.md)
 
-# U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning  U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. 
+# U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. 
 
 Activists have condemned as an “assault on women&#039;s health”, a decision by Donald Trump to block US funding for health clinics around the world that provide abortion services. One of the three executive orders Mr Trump signed on his first Monday morning as president, was to reinstate the so-called Mexico City Policy, a rule originally introduced by Ronald Reagan.
 

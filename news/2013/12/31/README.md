@@ -6,7 +6,7 @@ Unknown assailants attacked a natural gas pipeline in the Sinai on Tuesday, Egyp
 ### [Latvia becomes the 18th EU member state to adopt the euro despite public opposition. ](/news/2013/12/31/latvia-becomes-the-18th-eu-member-state-to-adopt-the-euro-despite-public-opposition.md)
 Single currency union marks 15th anniversary by expanding – 18 months after crisis in Greece threatened breakup
 
-### [Russian President Vladimir Putin broke with a long tradition of Soviet and Russian heads of state and delivered two New Year-s speeches instead of one. The second New Year-s address was made from Khabarovsk, a far-eastern city hit by devastating floods in summer, instead of the Moscow Kremlin. ](/news/2013/12/31/russian-president-vladimir-putin-broke-with-a-long-tradition-of-soviet-and-russian-heads-of-state-and-delivered-two-new-year-s-speeches-in.md)
+### [Russian President Vladimir Putin broke with a long tradition of Soviet and Russian heads of state and delivered two New Year's speeches instead of one. The second New Year's address was made from Khabarovsk, a far-eastern city hit by devastating floods in summer, instead of the Moscow Kremlin. ](/news/2013/12/31/russian-president-vladimir-putin-broke-with-a-long-tradition-of-soviet-and-russian-heads-of-state-and-delivered-two-new-yearas-speeches-in.md)
 Russia&rsquo;s president travels seven time zones away to change the subject from fear to optimism.
 
 ### [Thousands of protestors gather at Dataran Merdeka, Kuala Lumpur to begin protests against the Malaysian government's introduction of price hikes. ](/news/2013/12/31/thousands-of-protestors-gather-at-dataran-merdeka-kuala-lumpur-to-begin-protests-against-the-malaysian-government-s-introduction-of-price-h.md)

@@ -21,7 +21,7 @@ Two trains collide in a station near the Indonesian city of Pemalang, killing at
 ### [Rick Sanchez, a Cuban-born news anchorman with the American channel CNN, is fired by the network after calling comedian Jon Stewart a "bigot", saying Jews are not an oppressed minority in the United States, and implying the people who run CNN and other news media are Jewish. ](/news/2010/10/2/rick-sanchez-a-cuban-born-news-anchorman-with-the-american-channel-cnn-is-fired-by-the-network-after-calling-comedian-jon-stewart-a-bigot.md)
 CNN news anchor Rick Sanchez is dimissed by the network after calling top TV satirist and comedian Jon Stewart a bigot.
 
-### [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md)
+### [The MAXXI - National Museum of the 21st Century Arts in Rome wins the Stirling Prize, a British architectural award given by the Royal Institute of British Architects (RIBA). ](/news/2010/10/2/the-maxxi-a-national-museum-of-the-21st-century-arts-in-rome-wins-the-stirling-prize-a-british-architectural-award-given-by-the-royal-ins.md)
 The British architect Zaha Hadid has finally won the RIBA Stirling Prize on her fourth attempt.
 
 ### [The 60th Miss World 2010 pageant begins as the last delegates from 120 nations worldwide arrive in China. ](/news/2010/10/2/the-60th-miss-world-2010-pageant-begins-as-the-last-delegates-from-120-nations-worldwide-arrive-in-china.md)
@@ -57,7 +57,7 @@ _Context: President of Ecuador, Rafael Correa, protested against being stripped 
 ### [A report into the second Irish referendum on the Treaty of Lisbon is published, indicating reasons why people voted for and against the European Union treaty, which the Government eventually ratified successfully after much effort. ](/news/2010/10/2/a-report-into-the-second-irish-referendum-on-the-treaty-of-lisbon-is-published-indicating-reasons-why-people-voted-for-and-against-the-euro.md)
 A report on the second Lisbon Treaty has been published suggesting the reasons that people voted for and against the treaty.
 
-### [Death of Kwa Geok Choo:: Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/death-of-kwa-geok-choo-kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsie.md)
+### [Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsien-loong-dies-at-home.md)
 _Context: Kwa Geok Choo, Lee Hsien Loong, Lee Kuan Yew, Prime Minister of Singapore_
 
 ### [Thousands of people rally in Washington, D.C., calling for improved civil rights in the country. ](/news/2010/10/2/thousands-of-people-rally-in-washington-d-c-calling-for-improved-civil-rights-in-the-country.md)

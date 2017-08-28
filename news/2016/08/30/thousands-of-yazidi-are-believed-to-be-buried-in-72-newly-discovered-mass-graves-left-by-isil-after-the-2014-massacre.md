@@ -12,4 +12,4 @@
 ### Related:
 
 1. [The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md) _Context: Yazidi_
-2. [ War in Iraq: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-p-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md) _Context: Yazidi_
+2. [ 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide-bombers-drive.md) _Context: Yazidi_

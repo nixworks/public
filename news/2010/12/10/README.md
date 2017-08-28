@@ -9,7 +9,7 @@ Suicide attack at Shia hospital in Khyber Pakhtunkhwa province kills at least 15
 ### [Thai soldiers killed people at a Buddhist temple in Bangkok during demonstrations in May, leaked government documents demonstrate. ](/news/2010/12/10/thai-soldiers-killed-people-at-a-buddhist-temple-in-bangkok-during-demonstrations-in-may-leaked-government-documents-demonstrate.md)
 _Context: Bangkok, Buddhists, Thailand_
 
-### [2010 UK student protests:: Prime Minister of the United Kingdom David Cameron criticises the "mob" which launched an attack upon the car of Prince Charles and the Duchess of Cornwall as the couple were driven down Regent Street towards a Royal Variety performance in London last night. Protesters indicate the use of police brutality. ](/news/2010/12/10/2010-uk-student-protests-prime-minister-of-the-united-kingdom-david-cameron-criticises-the-mob-which-launched-an-attack-upon-the-car-of.md)
+### [Prime Minister of the United Kingdom David Cameron criticises the "mob" which launched an attack upon the car of Prince Charles and the Duchess of Cornwall as the couple were driven down Regent Street towards a Royal Variety performance in London last night. Protesters indicate the use of police brutality. ](/news/2010/12/10/prime-minister-of-the-united-kingdom-david-cameron-criticises-the-mob-which-launched-an-attack-upon-the-car-of-prince-charles-and-the-duch.md)
 Inquiries launched into royal security and alleged beating of student a day after violence over university fee hike.
 
 ### [An English exam questioning Indian crackdown on demonstrations in the disputed region of Kashmir leads to police arresting a college lecturer. ](/news/2010/12/10/an-english-exam-questioning-indian-crackdown-on-demonstrations-in-the-disputed-region-of-kashmir-leads-to-police-arresting-a-college-lecture.md)
@@ -39,7 +39,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
 _Context: France, Germany, World War II_
 
-### [Detention of Julian Assange:: Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/detention-of-julian-assange-christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-th.md)
+### [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md)
 London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extradition custody in London, has been refused the use of his own laptop but...
 
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)

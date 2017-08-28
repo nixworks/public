@@ -13,7 +13,7 @@
 
 1. [ Former leader of Togo, Gnassingb Eyadma, is buried in the capital Lom ](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.md) _Context: Lom, Togo_
 2. [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md) _Context: Togo_
-3. [Togolese presidential election, 2015: Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/togolese-presidential-election-2015-voters-in-togo-go-to-the-polls-amid-political-unrest.md) _Context: Togo_
+3. [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md) _Context: Togo_
 4. [Togo formally recognizes Kosovo. ](/news/2014/07/2/togo-formally-recognizes-kosovo.md) _Context: Togo_
 5. [The Togolese electoral commission releases official results for the recent parliamentary election with President Faure Gnassingbe's Union for the Republic party winning 62 of 91 seats with the Opposition threatening to challenge the results. ](/news/2013/07/28/the-togolese-electoral-commission-releases-official-results-for-the-recent-parliamentary-election-with-president-faure-gnassingbe-s-union-fo.md) _Context: Togo_
 6. [Voters in Togo go to the polls for a parliamentary election, which was delayed from October 2012 due to mass protests. ](/news/2013/07/25/voters-in-togo-go-to-the-polls-for-a-parliamentary-election-which-was-delayed-from-october-2012-due-to-mass-protests.md) _Context: Togo_

@@ -11,4 +11,4 @@ A Swedish Green Party politician, who ignited a storm of controversy after refus
 
 ### Related:
 
-1. [Swedish general election, 2014:: Sweden's new Prime Minister, Stefan Lfven, presents his minority government consisting of the Social Democrats and the Green Party; former EU commissioner Margot Wallstrm is the new foreign minister. ](/news/2014/10/3/swedish-general-election-2014-sweden-s-new-prime-minister-stefan-lofven-presents-his-minority-government-consisting-of-the-social-democ.md) _Context: Green Party_
+1. [Sweden's new Prime Minister, Stefan Lfven, presents his minority government consisting of the Social Democrats and the Green Party; former EU commissioner Margot Wallstrm is the new foreign minister. ](/news/2014/10/3/sweden-s-new-prime-minister-stefan-lofven-presents-his-minority-government-consisting-of-the-social-democrats-and-the-green-party-former.md) _Context: Green Party_

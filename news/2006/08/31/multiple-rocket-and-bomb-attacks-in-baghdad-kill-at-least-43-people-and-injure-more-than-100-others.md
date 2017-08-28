@@ -1,6 +1,6 @@
 ### [2006-08-31](/news/2006/08/31/index.md)
 
-#   Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. 
+#  Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. 
 
 
 

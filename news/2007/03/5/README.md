@@ -6,8 +6,8 @@ _Context: New York City, North Korea, North Korean nuclear weapons program, Unit
 ### [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-th.md)
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo Liberation Army, Prime Minister, Ramush Haradinaj, The Hague, war crimes_
 
-### [ Iraq War:: A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/iraq-war-a-car-bomb-in-baghdad-kills-at-least-26-people.md)
-_Context: Baghdad, Iraq War, car bomb_
+### [ A car bomb in Baghdad kills at least 26 people. ](/news/2007/03/5/a-car-bomb-in-baghdad-kills-at-least-26-people.md)
+_Context: Baghdad, car bomb_
 
 ### [ Ungdomshuset in Copenhagen, Denmark, is demolished to prevent it from being re-occupied. ](/news/2007/03/5/ungdomshuset-in-copenhagen-denmark-is-demolished-to-prevent-it-from-being-re-occupied.md)
 _Context: Copenhagen, Denmark, Ungdomshuset, demolishing_

@@ -11,8 +11,8 @@
 
 ### Related:
 
-1. [2017 Cannes Film Festival: "The Square", a Swedish film directed by Ruben stlund, wins the "Palme d'Or", the top award at the Cannes Film Festival. ](/news/2017/05/28/2017-cannes-film-festival-the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-f.md) _Context: Palme d'Or_
-2. [2016 Cannes Film Festival: British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/2016-cannes-film-festival-british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md) _Context: Palme d'Or_
+1. ["The Square", a Swedish film directed by Ruben stlund, wins the "Palme d'Or", the top award at the Cannes Film Festival. ](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ostlund-wins-the-palme-d-or-the-top-award-at-the-cannes-film-festival.md) _Context: Palme d'Or_
+2. [British film "I, Daniel Blake", directed by Ken Loach, wins the Palme d'Or at the Cannes Film Festival. ](/news/2016/05/22/british-film-i-daniel-blake-directed-by-ken-loach-wins-the-palme-d-or-at-the-cannes-film-festival.md) _Context: Palme d'Or_
 3. ["Dheepan", a French film directed by Jacques Audiard, wins the Palme d'Or at the 2015 Cannes Film Festival. ](/news/2015/05/24/dheepan-a-french-film-directed-by-jacques-audiard-wins-the-palme-d-or-at-the-2015-cannes-film-festival.md) _Context: Palme d'Or_
 4. [The French film "Blue Is the Warmest Colour" wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md) _Context: Palme d'Or_
 5. [Michael Haneke scoops the Palme d'Or for "Love" at the 2012 Cannes Film Festival. ](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.md) _Context: Palme d'Or_

@@ -1,12 +1,12 @@
 ## [2012-11-19](/news/2012/11/19/index.md)
 
-### [Operation Pillar of Defense:: Israeli air strikes kill at least 20 Palestinians in the Gaza Strip including Islamic Jihad members, while over 130 rockets are fired towards Israel injuring several, amid ceasefire talks in Egypt. ](/news/2012/11/19/operation-pillar-of-defense-israeli-air-strikes-kill-at-least-20-palestinians-in-the-gaza-strip-including-islamic-jihad-members-while-ove.md)
+### [Israeli air strikes kill at least 20 Palestinians in the Gaza Strip including Islamic Jihad members, while over 130 rockets are fired towards Israel injuring several, amid ceasefire talks in Egypt. ](/news/2012/11/19/israeli-air-strikes-kill-at-least-20-palestinians-in-the-gaza-strip-including-islamic-jihad-members-while-over-130-rockets-are-fired-toward.md)
 Two major Israeli newspapers are reporting that rockets fired from Egypt have hit Israel.&nbsp; Terrorists in the&nbsp;Sinai Peninsula&nbsp;launched rockets into Israel Friday night, reports the Jerusalem Post. The rockets fell near an Israeli village on the southern border, causing some damage, but...
 
-### [Syrian civil war:: The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/syrian-civil-war-the-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md)
+### [The Syrian opposition makes the Egyptian capital Cairo its headquarters. ](/news/2012/11/19/the-syrian-opposition-makes-the-egyptian-capital-cairo-its-headquarters.md)
 Announcement comes as new video emerges purporting to show opposition fighters announcing their rejection of coalition.
 
-### [2012 terrorist attacks in Kenya:: Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/2012-terrorist-attacks-in-kenya-police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-afte.md)
+### [Police in Kenya fire tear gas amid clashes between rioters and ethnic Somalis in the capital Nairobi, after a bus bombing yesterday killed nine people. ](/news/2012/11/19/police-in-kenya-fire-tear-gas-amid-clashes-between-rioters-and-ethnic-somalis-in-the-capital-nairobi-after-a-bus-bombing-yesterday-killed-n.md)
 Scores of Kenyan troops go on the rampage in the eastern town of Garissa, beating residents, after three soldiers are shot dead.
 
 ### [Barack Obama becomes the first sitting US President to visit Burma, meeting both Burmese President Thein Sein and National League for Democracy leader Aung San Suu Kyi. ](/news/2012/11/19/barack-obama-becomes-the-first-sitting-us-president-to-visit-burma-meeting-both-burmese-president-thein-sein-and-national-league-for-democr.md)

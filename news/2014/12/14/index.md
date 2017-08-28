@@ -1,7 +1,7 @@
 ## [2014-12-14](/news/2014/12/14/index.md)
 
-### [Syrian Civil War:: A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/syrian-civil-war-a-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loy.md)
-_Context: Aleppo Governorate, Bashar al-Assad, Islamist, Syrian Civil War_
+### [A battle between Bashar al-Assad loyalist forces and Islamist rebels in Aleppo Governorate leave 34 rebels dead and 3 loyalist fighters captured. ](/news/2014/12/14/a-battle-between-bashar-al-assad-loyalist-forces-and-islamist-rebels-in-aleppo-governorate-leave-34-rebels-dead-and-3-loyalist-fighters-capt.md)
+_Context: Aleppo Governorate, Bashar al-Assad, Islamist_
 
 ### [Miss World 2014 crowns Rolene Strauss, Miss South Africa, in London. ](/news/2014/12/14/miss-world-2014-crowns-rolene-strauss-miss-south-africa-in-london.md)
 _Context: London, Miss South Africa, Miss World 2014, Rolene Strauss_
@@ -33,7 +33,7 @@ _Context: Fethullah Gulen, President, Recep Tayyip Erdogan, Turkey, United State
 ### [At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the cafe the following day.](/news/2014/12/14/at-least-18-are-held-hostage-in-a-chocolate-shop-in-sydney-australia-police-stormed-the-cafa-c-the-following-day.md)
 _Context: 2014 Sydney hostage crisis, Australia, Sydney_
 
-### [Japanese general election, 2014: Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-general-election-2014-japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its.md)
+### [Japanese citizens vote in a general election. Prime Minister Shinzo Abe's Liberal Democratic Party and its junior coalition partner win 325 seats out of 475 and thus a new term. ](/news/2014/12/14/japanese-citizens-vote-in-a-general-election-prime-minister-shinzo-abe-s-liberal-democratic-party-and-its-junior-coalition-partner-win-325.md)
 _Context: 2014, Japanese, Komeito, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe_
 
 ### [Laurent Lamothe resigns as Prime Minister of Haiti along with several ministers following violent protests and a commission's call for him to step down. The protesters have been demanding the holding of early elections. ](/news/2014/12/14/laurent-lamothe-resigns-as-prime-minister-of-haiti-along-with-several-ministers-following-violent-protests-and-a-commission-s-call-for-him-t.md)

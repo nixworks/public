@@ -42,7 +42,7 @@ Acts of self-immolation spreads through North Africa and Middle East after suici
 ### [The leader of the Israeli Labor Party Ehud Barak and four other Labor Party MKs announce their resignation from the party and the formation of a new "centrist Zionist and democratic" faction called "Independence". ](/news/2011/01/17/the-leader-of-the-israeli-labor-party-ehud-barak-and-four-other-labor-party-mks-announce-their-resignation-from-the-party-and-the-formation.md)
 Party leader, along with other ministers expected to form new party; House Committee scheduled to meet to vote on split; Eitan Cabel charges &quot;these MKs have decided to destroy party.&quot;
 
-### [2010-2011 Tunisian protests: Anti-government demonstrations continue to take place as a new cabinet is named. ](/news/2011/01/17/2010-2011-tunisian-protests-anti-government-demonstrations-continue-to-take-place-as-a-new-cabinet-is-named.md)
+### [2010-2011 Tunisian protests: Anti-government demonstrations continue to take place as a new cabinet is named. ](/news/2011/01/17/2010a2011-tunisian-protests-anti-government-demonstrations-continue-to-take-place-as-a-new-cabinet-is-named.md)
 _Context: demonstrations that toppled his regime_
 
 ### [A computer glitch temporarily halts all bullet trains in northern and central Japan, affecting thousands of passengers. ](/news/2011/01/17/a-computer-glitch-temporarily-halts-all-bullet-trains-in-northern-and-central-japan-affecting-thousands-of-passengers.md)

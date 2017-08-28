@@ -1,12 +1,12 @@
 ## [2013-01-11](/news/2013/01/11/index.md)
 
-### [Syrian civil war:: Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/syrian-civil-war-rebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md)
+### [Rebel forces take over the strategic Taftanaz airbase in northern Syria. ](/news/2013/01/11/rebel-forces-take-over-the-strategic-taftanaz-airbase-in-northern-syria.md)
 Syrian activists say Islamic militants seeking to topple President Bashar Assad have taken full control of a strategic northwestern air base in a significant blow to the Assad regime.
 
-### [Northern Mali conflict (2012-present):: France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/northern-mali-conflict-2012-present-france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md)
+### [France commits troops to aid government forces in the Northern Mali conflict. ](/news/2013/01/11/france-commits-troops-to-aid-government-forces-in-the-northern-mali-conflict.md)
 France answered an urgent plea from the government of its former colony to help blunt an advance into the center of the country by Islamist extremist militants.
 
-### [2012-2013 Central African Republic conflict:: In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/2012-2013-central-african-republic-conflict-in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-end.md)
+### [In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-ending-a-month-of-conflict-and-establishing-a-new-c.md)
 Rebels fighting the government in the Central African Republic have signed a formal ceasefire and agreed to form a unity government following talks in Gabon.
 
 ### [The first official portrait of the Duchess of Cambridge, painted by Paul Emsley, is unveiled to a mixed reception from critics. ](/news/2013/01/11/the-first-official-portrait-of-the-duchess-of-cambridge-painted-by-paul-emsley-is-unveiled-to-a-mixed-reception-from-critics.md)

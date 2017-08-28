@@ -13,4 +13,4 @@ Ten people have been killed and 20 more injured in a bomb blast in the St Peters
 ### Related:
 
 1. [Russian authorities discover and deactivate an explosive device in a Saint Petersburg flat, during ongoing raids occurring in response to the bombing. ](/news/2017/04/6/russian-authorities-discover-and-deactivate-an-explosive-device-in-a-saint-petersburg-flat-during-ongoing-raids-occurring-in-response-to-th.md) _Context: 2017 Saint Petersburg Metro bombing_
-2. [ Three people are killed in a car bombing near the Udelnaya  Metro station in Saint Petersburg, Russia. ](/news/2008/11/25/three-people-are-killed-in-a-car-bombing-near-the-udelnaya-metro-station-in-saint-petersburg-russia.md) _Context: Saint Petersburg Metro_
+2. [ Three people are killed in a car bombing near the Udelnaya Metro station in Saint Petersburg, Russia. ](/news/2008/11/25/three-people-are-killed-in-a-car-bombing-near-the-udelnaya-metro-station-in-saint-petersburg-russia.md) _Context: Saint Petersburg Metro_

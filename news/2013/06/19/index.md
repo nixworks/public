@@ -1,9 +1,9 @@
 ## [2013-06-19](/news/2013/06/19/index.md)
 
-### [Nigerian Sharia conflict:: Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/nigerian-sharia-conflict-boko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md)
+### [Boko Haram gunmen kill nine children in an attack on a school in Maiduguri. ](/news/2013/06/19/boko-haram-gunmen-kill-nine-children-in-an-attack-on-a-school-in-maiduguri.md)
 Suspected Boko Haram militants in Nigeria kill at least nine school children, in what survivors suggest is a response to growing vigilante groups.
 
-### [War in Somalia:: An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/war-in-somalia-an-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civili.md)
+### [An al-Shabaab-led assault on the UNDP base in Mogadishu leaves 22 dead, including militants, security personnel, and civilians. ](/news/2013/06/19/an-al-shabaab-led-assault-on-the-undp-base-in-mogadishu-leaves-22-dead-including-militants-security-personnel-and-civilians.md)
 Islamist militants carried out a deadly assault on the main U.N. compound in the Somali capital on Wednesday, dealing a blow to fragile security gains that have allowed a slow return of foreign aid workers and diplomats.
 
 ### [Armed bandits and robbers riding motorbikes kill 48 people in Nigeria's Zamfara State. ](/news/2013/06/19/armed-bandits-and-robbers-riding-motorbikes-kill-48-people-in-nigeria-s-zamfara-state.md)

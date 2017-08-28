@@ -3,7 +3,7 @@
 ### [The Prime Minister of France Manuel Valls claims that five terrorist attacks have been "foiled" in France in recent months. ](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.md)
 _Context: France, Manuel Valls, Prime Minister_
 
-### [War in Afghanistan (2015-present): The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/war-in-afghanistan-2015-present-the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-h.md)
+### [The United States advises that a counterterrorism operation on the border of Afghanistan and Pakistan has killed American and Italian al-Qaeda hostages Warren Weinstein and Giovanni Lo Porto. ](/news/2015/04/23/the-united-states-advises-that-a-counterterrorism-operation-on-the-border-of-afghanistan-and-pakistan-has-killed-american-and-italian-al-qae.md)
 President Obama said today that he takes &quot;full responsibility&quot; for a U.S. government counterterrorism operation that killed two innocent hostages held by al Qaeda. Dr. Warren Weinstein, an American held by the terror group since 2011, and Giovanni Lo Porto, an Italian national who had been...
 
 ### [Bloomberg News reports that Comcast will walk away from its $45 billion takeover for Time Warner Cable. ](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.md)
@@ -15,10 +15,10 @@ Investors weren’t wrong; they just paid too much to be right the last time the
 ### [Macedonian state television reports that 14 migrants died after being hit by a train near the city of Veles while travelling through the Balkans towards Western Europe. ](/news/2015/04/23/macedonian-state-television-reports-that-14-migrants-died-after-being-hit-by-a-train-near-the-city-of-veles-while-travelling-through-the-bal.md)
 _Context: Balkans, Macedonian, Veles, Western Europe_
 
-### [Libor scandal: Deutsche Bank pays $2.5 billion to settle an investigation by the United States and the United Kingdom related to manipulation of the Libor or London Interbank Offered Rate. It will also plead guilty in a US court case. ](/news/2015/04/23/libor-scandal-deutsche-bank-pays-2-5-billion-to-settle-an-investigation-by-the-united-states-and-the-united-kingdom-related-to-manipulatio.md)
+### [Deutsche Bank pays $2.5 billion to settle an investigation by the United States and the United Kingdom related to manipulation of the Libor or London Interbank Offered Rate. It will also plead guilty in a US court case. ](/news/2015/04/23/deutsche-bank-pays-2-5-billion-to-settle-an-investigation-by-the-united-states-and-the-united-kingdom-related-to-manipulation-of-the-libor.md)
 Deutsche Bank settled a long-running investigation into the manipulation of interest rates with U.S. and British authorities by paying a record $2.5 billion fine, regulators said.
 
-### [Petraeus scandal: Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. ](/news/2015/04/23/petraeus-scandal-former-united-states-army-general-and-director-of-the-central-intelligence-agency-david-petraeus-pleads-guilty-of-sharing.md)
+### [Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. ](/news/2015/04/23/former-united-states-army-general-and-director-of-the-central-intelligence-agency-david-petraeus-pleads-guilty-of-sharing-classified-informa.md)
 Former US army general and CIA director fined $100,000 – $60,000 more than expected – after pleading guilty to leaking information to biographer and lover Paula Broadwell
 
 ### [Djoomart Otorbaev resigns as the Prime Minister of Kyrgyzstan. ](/news/2015/04/23/djoomart-otorbaev-resigns-as-the-prime-minister-of-kyrgyzstan.md)

@@ -12,7 +12,7 @@ _Context: Coal India, Jharkhand_
 ### [A Cessna 525 carrying six passengers goes missing shortly after takeoff from Cleveland Burke Lakefront Airport in the United States. ](/news/2016/12/30/a-cessna-525-carrying-six-passengers-goes-missing-shortly-after-takeoff-from-cleveland-burke-lakefront-airport-in-the-united-states.md)
 The plane was traveling from Cleveland to Columbus.
 
-### [Russia-United States relations: After 35 Russian diplomats are expelled from the United States, Russia's foreign minister Sergey Lavrov recommends expelling 35 American diplomats. Russian President Vladimir Putin rejects Lavrov's recommendation and expresses a desire to restore relations between the two countries. ](/news/2016/12/30/russia-united-states-relations-after-35-russian-diplomats-are-expelled-from-the-united-states-russia-s-foreign-minister-sergey-lavrov-re.md)
+### [After 35 Russian diplomats are expelled from the United States, Russia's foreign minister Sergey Lavrov recommends expelling 35 American diplomats. Russian President Vladimir Putin rejects Lavrov's recommendation and expresses a desire to restore relations between the two countries. ](/news/2016/12/30/after-35-russian-diplomats-are-expelled-from-the-united-states-russia-s-foreign-minister-sergey-lavrov-recommends-expelling-35-american-dip.md)
 Trump says Putin is &#39;smart&#39; for not reciprocating Obama&#39;s diplomat expulsion.
 
 ### [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md)

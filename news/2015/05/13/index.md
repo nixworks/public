@@ -30,7 +30,7 @@ Danaher Corp.’s purchase of Pall Corp. for $13.8 billion will complete a march
 ### [Rescue efforts resume in Nepal after yesterday's earthquake which killed at least 63 in Nepal and 17 in northern India. ](/news/2015/05/13/rescue-efforts-resume-in-nepal-after-yesterday-s-earthquake-which-killed-at-least-63-in-nepal-and-17-in-northern-india.md)
 Rescue work resumes after the latest deadly earthquake in Nepal, after thousands of scared residents spent the night in the open.
 
-### [2015 Philadelphia train derailment: The death toll from the derailment rises to seven with over 200 people injured. ](/news/2015/05/13/2015-philadelphia-train-derailment-the-death-toll-from-the-derailment-rises-to-seven-with-over-200-people-injured.md)
+### [The death toll from the derailment rises to seven with over 200 people injured. ](/news/2015/05/13/the-death-toll-from-the-derailment-rises-to-seven-with-over-200-people-injured.md)
 At least six people were killed and over 140 people hurt after an Amtrak train, carrying 238 passengers and five crew members, derailed and rolled onto its side in the Port Richmond section of Philadelphia...
 
 ### [2015 Valenzuela fire: At least 72 people die after a fire engulfs a rubber sandal factory in Valenzuela City, a northern suburb of Manila, Philippines. ](/news/2015/05/13/2015-valenzuela-fire-at-least-72-people-die-after-a-fire-engulfs-a-rubber-sandal-factory-in-valenzuela-city-a-northern-suburb-of-manila-p.md)
@@ -42,7 +42,7 @@ _Context: Caldas Department, gold mine_
 ### [The Vatican concludes a treaty to recognize the Palestinian state. ](/news/2015/05/13/the-vatican-concludes-a-treaty-to-recognize-the-palestinian-state.md)
 _Context: Catholic Church, Palestinian_
 
-### [2015 Burundian unrest: Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/2015-burundian-unrest-major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-commi.md)
+### [Major General Godefroid Niyombare has declared a coup in Burundi and the establishment of a "national salvation committee". President Pierre Nkurunziza is attempting to return home from Tanzania. ](/news/2015/05/13/major-general-godefroid-niyombare-has-declared-a-coup-in-burundi-and-the-establishment-of-a-national-salvation-committee-president-pierre.md)
 A coup is launched in Burundi to try to overthrow President Pierre Nkurunziza, amid unrest over his bid to be re-elected to a third term.
 
 ### [The small nation of Nauru temporarily bans Facebook, purportedly to protect young people. ](/news/2015/05/13/the-small-nation-of-nauru-temporarily-bans-facebook-purportedly-to-protect-young-people.md)

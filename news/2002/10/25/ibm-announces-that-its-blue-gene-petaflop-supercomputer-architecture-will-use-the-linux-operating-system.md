@@ -16,4 +16,4 @@
 7. [ MareNostrum, Europe's most powerful (and the world's fourth most powerful) supercomputer, is booted up for the first time in the Barcelona Supercomputing Center, Spain. ](/news/2005/04/12/marenostrum-europe-s-most-powerful-and-the-world-s-fourth-most-powerful-supercomputer-is-booted-up-for-the-first-time-in-the-barcelona.md) _Context: supercomputer_
 8. [ Linux kernel 2.6.0 is released by Linus Torvalds.](/news/2003/12/17/linux-kernel-2-6-0-is-released-by-linus-torvalds.md) _Context: Linux_
 9. [ Matsushita and Sony have announced that they are collaborating on the development of a Linux platform for home electronics.](/news/2002/12/18/matsushita-and-sony-have-announced-that-they-are-collaborating-on-the-development-of-a-linux-platform-for-home-electronics.md) _Context: Linux_
-10. [ Nanotech - IBM creates punched cards with a diameter of just 10 nanometers.](/news/2002/06/11/nanotech-ibm-creates-punched-cards-with-a-diameter-of-just-10-nanometers.md) _Context: IBM_
+10. [ Nanotech - IBM creates punched cards with a diameter of just 10 nanometers.](/news/2002/06/11/nanotech-a-ibm-creates-punched-cards-with-a-diameter-of-just-10-nanometers.md) _Context: IBM_

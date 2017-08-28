@@ -1,16 +1,16 @@
 ## [2013-11-29](/news/2013/11/29/index.md)
 
-### [Chief of Army Staff (Pakistan)<br>: Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/chief-of-army-staff-pakistan-genral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md)
+### [Genral Raheel Sharif took over the command of army chief of Pakistan Army.](/news/2013/11/29/genral-raheel-sharif-took-over-the-command-of-army-chief-of-pakistan-army.md)
 The entire area around the venue of the ceremony was blocked off with military and police personnel. 
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md)
+### [A wave of violence in Iraq kills 52 people, most of whom were kidnapped and then shot dead. ](/news/2013/11/29/a-wave-of-violence-in-iraq-kills-52-people-most-of-whom-were-kidnapped-and-then-shot-dead.md)
 Most of those killed had been kidnapped and were later shot dead with their corpses abandoned.
 
-### [Syrian civil war:: Four people are killed in a mortar attack on the Umayyad Mosque in Damascus. ](/news/2013/11/29/syrian-civil-war-four-people-are-killed-in-a-mortar-attack-on-the-umayyad-mosque-in-damascus.md)
+### [Four people are killed in a mortar attack on the Umayyad Mosque in Damascus. ](/news/2013/11/29/four-people-are-killed-in-a-mortar-attack-on-the-umayyad-mosque-in-damascus.md)
 At least four killed and 26 injured in the attack near Umayyad Mosque in Damascus, state media reported.
 
-### [Senkaku Islands dispute:: China deploys fighter jets to the Chinese Air Defense Identification Zone, as tensions escalate further over the disputed islands in the East China Sea. ](/news/2013/11/29/senkaku-islands-dispute-china-deploys-fighter-jets-to-the-chinese-air-defense-identification-zone-as-tensions-escalate-further-over-the-d.md)
-_Context: Air Defense Identification Zone, China, East China Sea, Senkaku Islands dispute_
+### [China deploys fighter jets to the Chinese Air Defense Identification Zone, as tensions escalate further over the disputed islands in the East China Sea. ](/news/2013/11/29/china-deploys-fighter-jets-to-the-chinese-air-defense-identification-zone-as-tensions-escalate-further-over-the-disputed-islands-in-the-eas.md)
+_Context: Air Defense Identification Zone, China, East China Sea_
 
 ### [Three previously unpublished short stories by J. D. Salinger are leaked online against the late author's wishes. ](/news/2013/11/29/three-previously-unpublished-short-stories-by-j-d-salinger-are-leaked-online-against-the-late-author-s-wishes.md)
 _Context: J. D. Salinger_
@@ -24,12 +24,10 @@ A Mozambique Airlines plane flying from the capital, Maputo, to the Angolan capi
 ### [An unknown number are dead as a result of a police helicopter that crashed into a crowded pub on the north bank of the River Clyde in Glasgow, Scotland. ](/news/2013/11/29/an-unknown-number-are-dead-as-a-result-of-a-police-helicopter-that-crashed-into-a-crowded-pub-on-the-north-bank-of-the-river-clyde-in-glasgo.md)
 Thirty-two people are taken to hospital after a police helicopter with three people on board crashes into a busy pub in Glasgow.
 
-### [2013 Thai protests:: Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/2013-thai-protests-several-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thail.md)
+### [Several opposition parties including the Civil Movement for Democracy hold a protest march on the headquarters of Thailand's ruling Puea Thai party in Bangkok. ](/news/2013/11/29/several-opposition-parties-including-the-civil-movement-for-democracy-hold-a-protest-march-on-the-headquarters-of-thailand-s-ruling-puea-tha.md)
 About 1,500 anti-government protesters have forced their way into the compound of the Royal Thai Army headquarters in Bangkok.
 
-### [2013 Ukraine pro-European Union protests:: With their demands not being met, protests are scheduled to continue until at least Sunday 1 December 2013. ](/news/2013/11/29/2013-ukraine-pro-european-union-protests-with-their-demands-not-being-met-protests-are-scheduled-to-continue-until-at-least-sunday-1-dece.md)
-_Context: 2013 Ukraine pro-European Union protests_
-
+### [With their demands not being met, protests are scheduled to continue until at least Sunday 1 December 2013. ](/news/2013/11/29/with-their-demands-not-being-met-protests-are-scheduled-to-continue-until-at-least-sunday-1-december-2013.md)
 ### [At least part of Comet C/2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md)
 _Context: C/2012 S1, Sun, comet, corona_
 

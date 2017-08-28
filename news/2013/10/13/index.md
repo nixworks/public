@@ -1,6 +1,6 @@
 ## [2013-10-13](/news/2013/10/13/index.md)
 
-### [Syrian civil war:: Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/syrian-civil-war-gunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md)
+### [Gunmen kidnap seven workers from the International Committee of the Red Cross from northern Syria. ](/news/2013/10/13/gunmen-kidnap-seven-workers-from-the-international-committee-of-the-red-cross-from-northern-syria.md)
 Gunmen kidnapped a team of seven workers from the International Committee of the Red Cross after stopping their convoy early Sunday along a roadside in northern Syria, a spokesman said.
 
 ### [Indian authorities commence rescue efforts in the aftermath of Cyclone Phailin, with initial reports of at least 20 casualties and widespread damage along the landfall area. ](/news/2013/10/13/indian-authorities-commence-rescue-efforts-in-the-aftermath-of-cyclone-phailin-with-initial-reports-of-at-least-20-casualties-and-widesprea.md)

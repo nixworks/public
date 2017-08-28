@@ -12,7 +12,7 @@ _Context: Puntland, Said Mohamed Rageh, Somali pirates_
 ### [Iran's Fars News Agency (FNA) announces that 18 people were killed in a blast at one of the Revolutionary Guards' bases in Luristan Province. ](/news/2010/10/13/iran-s-fars-news-agency-fna-announces-that-18-people-were-killed-in-a-blast-at-one-of-the-revolutionary-guards-bases-in-luristan-province.md)
 _Context: Fars News Agency, Iran, Luristan Province, Revolutionary Guards_
 
-### [War in Afghanistan: 8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/war-in-afghanistan-8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
+### [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
 _Context: War in Afghanistan_
 
 ### [10 people, including three women, are injured in a clash between two groups at Kaserwa in Uttar Pradesh, India. ](/news/2010/10/13/10-people-including-three-women-are-injured-in-a-clash-between-two-groups-at-kaserwa-in-uttar-pradesh-india.md)

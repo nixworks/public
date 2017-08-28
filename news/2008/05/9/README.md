@@ -6,11 +6,11 @@ _Context: Asif Ali Zardari, London, Musharraf, Nawaz Sharif, Pakistan_
 ### [ Commander Esteban Robles Espinosa of Mexico City's investigative police force was shot dead as he left his home. ](/news/2008/05/9/commander-esteban-robles-espinosa-of-mexico-city-s-investigative-police-force-was-shot-dead-as-he-left-his-home.md)
 _Context: Esteban Robles Espinosa, Mexico City_
 
-### [ Cyclone Nargis:: A spokesman for the World Food Programme says that Myanmar's refusal to give visas to relief experts is "unprecedented" in the history of humanitarian assistance. ](/news/2008/05/9/cyclone-nargis-a-spokesman-for-the-world-food-programme-says-that-myanmar-s-refusal-to-give-visas-to-relief-experts-is-unprecedented-in.md)
-_Context: Cyclone Nargis, Myanmar, World Food Programme_
+### [ A spokesman for the World Food Programme says that Myanmar's refusal to give visas to relief experts is "unprecedented" in the history of humanitarian assistance. ](/news/2008/05/9/a-spokesman-for-the-world-food-programme-says-that-myanmar-s-refusal-to-give-visas-to-relief-experts-is-unprecedented-in-the-history-of-h.md)
+_Context: Burmese, World Food Programme_
 
-### [ 2008 unrest in Lebanon:: Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/2008-unrest-in-lebanon-hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md)
-_Context: 2008 unrest in Lebanon, Beirut, Hezbollah, government, television station_
+### [ Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md)
+_Context: Beirut, Hezbollah, government, television station_
 
 ### [ The price of crude oil reaches a new record high of US$125.98 a barrel. ](/news/2008/05/9/the-price-of-crude-oil-reaches-a-new-record-high-of-us-125-98-a-barrel.md)
 _Context: US$, crude oil_

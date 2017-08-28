@@ -9,7 +9,7 @@ _Context: Charsadda, Khyber Pakhtunkhwa, Pakistan, Peshawar_
 ### [ A suicide bomber explodes a truck at a police station in Nazran in Russia's North Caucasus, killing at least 20 people and wounding about 60 others. ](/news/2009/08/17/a-suicide-bomber-explodes-a-truck-at-a-police-station-in-nazran-in-russia-s-north-caucasus-killing-at-least-20-people-and-wounding-about-6.md)
 The attack in Russia’s tumultuous North Caucasus region was the latest episode in a spate of violence to hit the area in recent weeks.
 
-### [ An accident at the Sayano-Shushenskaya hydroelectric power station in Russia kills seven and causes power shortages in Siberia. ](/news/2009/08/17/an-accident-at-the-sayano-shushenskaya-hydroelectric-power-station-in-russia-kills-seven-and-causes-power-shortages-in-siberia.md)
+### [ An accident at the Sayano-Shushenskaya hydroelectric power station in Russia kills seven and causes power shortages in Siberia. ](/news/2009/08/17/an-accident-at-the-sayanoashushenskaya-hydroelectric-power-station-in-russia-kills-seven-and-causes-power-shortages-in-siberia.md)
 Eight people are dead and 54 still unaccounted for after an accident at a hydroelectric power station in Siberia.
 
 ### [ The Canadian Forces begin exercises to protect Canada's sovereignty in the far north. ](/news/2009/08/17/the-canadian-forces-begin-exercises-to-protect-canada-s-sovereignty-in-the-far-north.md)

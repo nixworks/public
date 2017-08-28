@@ -9,7 +9,7 @@ _Context: Hamarjajab, Mogadishu, Puntland, Transitional Federal Government_
 ### [At least 28 prisoners are killed in a clash between rival gangs in Sinaloa, Mexico. ](/news/2010/06/14/at-least-28-prisoners-are-killed-in-a-clash-between-rival-gangs-in-sinaloa-mexico.md)
 A clash between rival drug gangs in a Mexican prison leaves 29 inmates dead, as 12 police officers die in a separate ambush by gunmen.
 
-### [The Federal Supreme Court of Switzerland rules that Romanian footballer Adrian Mutu has lost his final appeal in a five-year legal battle meaning he has to pay a record -17 million in damages for breaching his contract. ](/news/2010/06/14/the-federal-supreme-court-of-switzerland-rules-that-romanian-footballer-adrian-mutu-has-lost-his-final-appeal-in-a-five-year-legal-battle-me.md)
+### [The Federal Supreme Court of Switzerland rules that Romanian footballer Adrian Mutu has lost his final appeal in a five-year legal battle meaning he has to pay a record EUR17 million in damages for breaching his contract. ](/news/2010/06/14/the-federal-supreme-court-of-switzerland-rules-that-romanian-footballer-adrian-mutu-has-lost-his-final-appeal-in-a-five-year-legal-battle-me.md)
 _Context: Adrian Mutu, Federal Supreme Court of Switzerland, Romania_
 
 ### [Secretary of State for Northern Ireland Owen Paterson receives a copy of the Saville Inquiry, the longest and most expensive public inquiry in British history, ahead of its official launch by David Cameron tomorrow. ](/news/2010/06/14/secretary-of-state-for-northern-ireland-owen-paterson-receives-a-copy-of-the-saville-inquiry-the-longest-and-most-expensive-public-inquiry.md)
@@ -60,16 +60,16 @@ _Context: 2010 FIFA World Cup, Al Jazeera Sports, Algeria, Lanseria Internationa
 ### [New files on American politician Ted Kennedy, which were previously secret, are released. ](/news/2010/06/14/new-files-on-american-politician-ted-kennedy-which-were-previously-secret-are-released.md)
 Over 2,200 pages of previously secret files on the late Senator Edward Kennedy are released by the FBI.
 
-### [2010 Kyrgyzstan crisis and 2010 South Kyrgyzstan riots:: Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/2010-kyrgyzstan-crisis-and-2010-south-kyrgyzstan-riots-secretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in.md)
+### [Secretary-General of the United Nations Ban Ki-moon expresses "alarm" at events in Kyrgyzstan. ](/news/2010/06/14/secretary-general-of-the-united-nations-ban-ki-moon-expresses-alarm-at-events-in-kyrgyzstan.md)
 Ban Ki-moon expresses alarm at the scale of inter-ethnic violence in southern Kyrgyzstan.
 
-### [Israeli-Palestinian conflict:: The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/israeli-palestinian-conflict-the-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to.md)
+### [The International Committee of the Red Cross (ICRC) issues a report criticizing Israel and calling on it to lift the blockade. ](/news/2010/06/14/the-international-committee-of-the-red-cross-icrc-issues-a-report-criticizing-israel-and-calling-on-it-to-lift-the-blockade.md)
 Israel has been forced to the defence of an alleged Mossad spy who has been arrested in Poland on charges of using a German passport in an operation to kill a Palestinian militant.
 
 ### [US Secretary of State Hillary Clinton announces the 10th Annual Trafficking in Persons Report. ](/news/2010/06/14/us-secretary-of-state-hillary-clinton-announces-the-10th-annual-trafficking-in-persons-report.md)
 _Context: Hillary Clinton, human trafficking_
 
-### [NCAA (U.S. college) conference realignment:: The University of Texas at Austin, seen as the key to the survival of a 10-team Big 12 Conference in the wake of the loss of Colorado to the Pacific-10 Conference and Nebraska to the Big Ten Conference, announces it will turn down an invitation from the Pac-10 and remain in the Big 12. Shortly after Texas' announcement, four other Texas and Oklahoma schools targeted by the Pac-10 pledge themselves to the Big 12. ](/news/2010/06/14/ncaa-u-s-college-conference-realignment-the-university-of-texas-at-austin-seen-as-the-key-to-the-survival-of-a-10-team-big-12-conferen.md)
+### [The University of Texas at Austin, seen as the key to the survival of a 10-team Big 12 Conference in the wake of the loss of Colorado to the Pacific-10 Conference and Nebraska to the Big Ten Conference, announces it will turn down an invitation from the Pac-10 and remain in the Big 12. Shortly after Texas' announcement, four other Texas and Oklahoma schools targeted by the Pac-10 pledge themselves to the Big 12. ](/news/2010/06/14/the-university-of-texas-at-austin-seen-as-the-key-to-the-survival-of-a-10-team-big-12-conference-in-the-wake-of-the-loss-of-colorado-to-the.md)
 Texas will remain a Big 12 Conference member, the university announced on Monday.
 
 ## [Previous Day...](/news/2010/06/13/index.md)

@@ -1,6 +1,6 @@
 ### [2016-06-5](/news/2016/06/5/index.md)
 
-#   Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. 
+#  Three people are killed and 10 more are injured following an attack on a military base in Aktobe, Kazakhstan, by suspected Islamists. 
 
 Police have killed four terrorists, and arrested seven more, as a manhunt continues outside the Kazakh city of Aktobe. Earlier the attackers raided two gun shops, hijacked a bus and attacked a military base, killing at least five people and wounding ten more.
 

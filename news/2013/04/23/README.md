@@ -1,21 +1,21 @@
 ## [2013-04-23](/news/2013/04/23/index.md)
 
-### [Syrian civil war:: An Israeli military intelligence analyst states that Syria has used chemical weapons repeatedly over the past month. He also criticizes the international community for not responding to the use of the weapons. ](/news/2013/04/23/syrian-civil-war-an-israeli-military-intelligence-analyst-states-that-syria-has-used-chemical-weapons-repeatedly-over-the-past-month-he-a.md)
+### [An Israeli military intelligence analyst states that Syria has used chemical weapons repeatedly over the past month. He also criticizes the international community for not responding to the use of the weapons. ](/news/2013/04/23/an-israeli-military-intelligence-analyst-states-that-syria-has-used-chemical-weapons-repeatedly-over-the-past-month-he-also-criticizes-the.md)
 Tel Aviv made its most definitive statement accusing Syria of using chemical weapons, which President Obama has called a “red line” Syria cannot cross.
 
-### [War on Terror:: A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/war-on-terror-a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensi.md)
-_Context: French-born, Libya, Tripoli, War on Terror, car bomb_
+### [A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. ](/news/2013/04/23/a-car-bomb-detonates-outside-the-french-embassy-in-the-libyan-capital-tripoli-resulting-in-injury-to-two-guards-and-extensive-damage-to-the.md)
+_Context: French-born, Libya, Tripoli, car bomb_
 
-### [2013 Hawija clashes:: At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/2013-hawija-clashes-at-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-su.md)
-_Context: 2013 Hawija clashes, Hawija, Iraq, Sunni Muslim_
+### [At least 28 are dead and more than 70 are injured as violence breaks out in Hawija, Iraq, between police forces and Sunni Muslim activists. ](/news/2013/04/23/at-least-28-are-dead-and-more-than-70-are-injured-as-violence-breaks-out-in-hawija-iraq-between-police-forces-and-sunni-muslim-activists.md)
+_Context: Hawija, Iraq, Sunni Muslim_
 
-### [War in North-West Pakistan:: Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/war-in-north-west-pakistan-pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musha.md)
-_Context: Pakistan, Pakistani police, Pervez Musharraf, President, War in North-West Pakistan, car bomb, house arrest_
+### [Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musharraf-is-under-house-arrest.md)
+_Context: Pakistan, Pakistani police, Pervez Musharraf, President, car bomb, house arrest_
 
-### [2013 Xinjiang unrest:: Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in 21 people killed, including 15 police and social workers. Of the 15 government casualties, 10 members are ethnic Uighur, 3 are Han Chinese, and 2 are ethnic Mongolian. ](/news/2013/04/23/2013-xinjiang-unrest-violence-in-bachu-county-kashgar-prefecture-of-china-s-xinjiang-results-in-21-people-killed-including-15-police-an.md)
-_Context: 2013 Xinjiang unrest, Bachu County, China, Chinese, Kashgar Prefecture, Mongolia, Uighur, Xinjiang_
+### [Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in 21 people killed, including 15 police and social workers. Of the 15 government casualties, 10 members are ethnic Uighur, 3 are Han Chinese, and 2 are ethnic Mongolian. ](/news/2013/04/23/violence-in-bachu-county-kashgar-prefecture-of-china-s-xinjiang-results-in-21-people-killed-including-15-police-and-social-workers-of-th.md)
+_Context: Bachu County, China, Chinese, Kashgar Prefecture, Mongolia, Uighur, Xinjiang_
 
-### [Senkaku Islands dispute:: The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/senkaku-islands-dispute-the-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-shi.md)
+### [The Government of Japan summons the ambassador from the People's Republic of China after a flotilla of Chinese ships sail near the dispute Senkaku Islands. ](/news/2013/04/23/the-government-of-japan-summons-the-ambassador-from-the-people-s-republic-of-china-after-a-flotilla-of-chinese-ships-sail-near-the-dispute-s.md)
 Japanese prime minister threatens force if China attempts to land on island chain in East China Sea.
 
 ### [The United States stock market undergoes a flash crash (similar to 2010) of 1 percent when the Twitter feed from the Associated Press news agency is hacked and erroneously states that several explosions have injured President Barack Obama. ](/news/2013/04/23/the-united-states-stock-market-undergoes-a-flash-crash-similar-to-2010-of-1-percent-when-the-twitter-feed-from-the-associated-press-news-a.md)
@@ -25,7 +25,7 @@ A news agency tweet, that turned out to be fake about explosions at the White Ho
 A millionaire businessman who sold fake bomb detectors to countries including Iraq and Georgia, knowing they did not work, is convicted of fraud.
 
 ### [President of Myanmar Thein Sein grants amnesty to 93 prisoners. Some prisoners are reported as prisoners of conscience and political prisoners. ](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.md)
-_Context: Myanmar, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
+_Context: Burmese, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
 
 ### [2013 ricin letters: All charges against a suspect of sending letters containing ricin to US President Barack Obama are dropped due to lack of evidence. ](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.md)
 _Context: 2013 ricin letters, Barack Obama, US President, ricin_

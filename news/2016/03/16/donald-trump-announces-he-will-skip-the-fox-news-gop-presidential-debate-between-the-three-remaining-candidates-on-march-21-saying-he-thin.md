@@ -1,0 +1,26 @@
+### [2016-03-16](/news/2016/03/16/index.md)
+
+#  Donald Trump announces he will skip the Fox News GOP presidential debate between the three remaining candidates on March 21, saying he thinks "we had enough of debates." 
+
+The Ohio governor will participate if Trump changes his mind.
+
+
+### Source:
+
+1. [Deseret News](http://www.deseretnews.com/article/865650178/Trump-wont-participate-in-SLC-debate-giving-speech-instead.html)
+2. [Newsmax](http://www.newsmax.com/Headline/Donald-Trump-Fox-News-debate/2016/03/16/id/719324/)
+3. [The Hill](http://thehill.com/blogs/ballot-box/presidential-races/273226-kasich-skipping-debate-after-trump-bails)
+4. [The Salt Lake Tribune](http://www.sltrib.com/news/3669839-155/debate-scrapped-after-donald-trump-says)
+
+### Related:
+
+1. [The eleventh Republican Party presidential debate of the election cycle takes place at the Fox Theatre in downtown Detroit, Michigan, airing live on Fox News Channel. The debate features four Republican candidates, Donald Trump, Ted Cruz, Marco Rubio and John Kasich. Ben Carson was also invited to the debate but he said that he would not be attending. An estimated 16.9 million viewers watched the debate, 5.5 million of them adults aged 25-54, making it the most watched debate since December 2015. ](/news/2016/03/3/the-eleventh-republican-party-presidential-debate-of-the-election-cycle-takes-place-at-the-fox-theatre-in-downtown-detroit-michigan-airing.md) _Context: Donald Trump, Fox News_
+2. [The seventh Republican Party presidential debate, the second hosted by Fox News, and the final debate before voting begins with the Iowa caucuses on February 1, is held in Des Moines, Iowa. The seven candidates featuring in the primetime debate were Jeb Bush, Ben Carson, Chris Christie, Ted Cruz, John Kasich, Rand Paul and Marco Rubio. Donald Trump, the current front-runner in the polls, was also invited to the primetime debate but opted to boycott the debate and instead hosted a town hall with charitable proceeds going to veterans groups. ](/news/2016/01/28/the-seventh-republican-party-presidential-debate-the-second-hosted-by-fox-news-and-the-final-debate-before-voting-begins-with-the-iowa-cau.md) _Context: Donald Trump, Fox News_
+3. [Five transgender United States military personnel sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/five-transgender-united-states-military-personnel-sue-president-donald-trump-and-top-pentagon-officials-over-the-president-s-policy-change-a.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump promises "fire and fury like the world has never seen" if North Korea threatens the United States. ](/news/2017/08/8/u-s-president-donald-trump-promises-fire-and-fury-like-the-world-has-never-seen-if-north-korea-threatens-the-united-states.md) _Context: Donald Trump_
+5. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Donald Trump_
+6. [Two transcripts of telephone conversations between U.S. President Donald Trump and foreign leaders are leaked. Trump was shown to disagree with Mexican President Enrique Pena Nieto on 27 January over the proposed border wall, and with Australian Prime Minister Malcolm Turnbull the next day over the resettlement deal of refugees in Nauru and Manus. ](/news/2017/08/3/two-transcripts-of-telephone-conversations-between-u-s-president-donald-trump-and-foreign-leaders-are-leaked-trump-was-shown-to-disagree-w.md) _Context: Donald Trump_
+7. [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md) _Context: Donald Trump_
+8. [Donald Trump supporters and thousands of counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. ](/news/2017/08/27/donald-trump-supporters-and-thousands-of-counter-protesters-clash-in-berkeley-california-leading-to-the-arrest-of-at-least-14-people.md) _Context: Donald Trump_
+9. [U.S. President Donald Trump pardons former sheriff of Maricopa County, Arizona, Joe Arpaio. ](/news/2017/08/25/u-s-president-donald-trump-pardons-former-sheriff-of-maricopa-county-arizona-joe-arpaio.md) _Context: Donald Trump_
+10. [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-would-if-passe.md) _Context: Donald Trump_

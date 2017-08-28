@@ -1,9 +1,9 @@
 ## [2014-08-27](/news/2014/08/27/index.md)
 
-### [War in Donbass:: Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/war-in-donbass-russian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-we.md)
+### [Russian journalists say they have been attacked at a cemetery in Pskov while investigating reports that Russian soldiers were secretly buried after being killed in Ukraine. ](/news/2014/08/27/russian-journalists-say-they-have-been-attacked-at-a-cemetery-in-pskov-while-investigating-reports-that-russian-soldiers-were-secretly-burie.md)
 Journalists say they were attacked while investigating reports of the burial of Russian soldiers believed killed in fighting in Ukraine.
 
-### [Syrian Civil War:: The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/syrian-civil-war-the-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-cri.md)
+### [The UN Human Rights Council issues a report accusing both IS militants and Syrian government forces of committing war crimes in Syria. ](/news/2014/08/27/the-un-human-rights-council-issues-a-report-accusing-both-is-militants-and-syrian-government-forces-of-committing-war-crimes-in-syria.md)
 The UN accuses IS militants of war crimes, and the Syrian government of using chemical agents in eight separate incidents in a new report.
 
 ### [An F-15 Eagle from the Massachusetts Air National Guard crashes in Deerfield, Virginia. ](/news/2014/08/27/an-f-15-eagle-from-the-massachusetts-air-national-guard-crashes-in-deerfield-virginia.md)

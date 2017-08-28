@@ -6,10 +6,10 @@ _Context: Ben Bernanke, Chair of the Federal Reserve, Federal Reserve, U.S. Sena
 ### [J. D. Salinger, author of the novel "The Catcher in the Rye", dies at the age of 91. ](/news/2010/01/28/j-d-salinger-author-of-the-novel-the-catcher-in-the-rye-dies-at-the-age-of-91.md)
 _Context: J. D. Salinger, The Catcher in the Rye_
 
-### [Aftermath of the 2010 Haiti earthquake:: The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/aftermath-of-the-2010-haiti-earthquake-the-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devas.md)
+### [The International Monetary Fund loans US$114 million to Haiti following the recent earthquake devastation, with the full amount due to be transferred by the end of the week. ](/news/2010/01/28/the-international-monetary-fund-loans-us-114-million-to-haiti-following-the-recent-earthquake-devastation-with-the-full-amount-due-to-be-tr.md)
 _Context: 2010 Haiti earthquake, Haiti, International Monetary Fund, US$_
 
-### [North Korea:: North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korea-north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
+### [North Korean vessels fire again across the Northern Limit Line maritime boundary with South Korea. ](/news/2010/01/28/north-korean-vessels-fire-again-across-the-northern-limit-line-maritime-boundary-with-south-korea.md)
 State media says unnamed American man detained after trespassing on border with China.
 
 ### [The death toll from yesterday's apartment collapse in Lige reaches nine as the search for bodies is temporarily suspended due to the danger caused by other falling buildings. ](/news/2010/01/28/the-death-toll-from-yesterday-s-apartment-collapse-in-liege-reaches-nine-as-the-search-for-bodies-is-temporarily-suspended-due-to-the-danger.md)

@@ -1,13 +1,13 @@
 ## [2013-10-1](/news/2013/10/1/index.md)
 
-### [Syrian civil war:: A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/syrian-civil-war-a-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad.md)
-_Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War_
+### [A team from the Organisation for the Prohibition of Chemical Weapons enters Syria to begin work on dismantling the Assad regime's stockpile of chemical weapons. ](/news/2013/10/1/a-team-from-the-organisation-for-the-prohibition-of-chemical-weapons-enters-syria-to-begin-work-on-dismantling-the-assad-regime-s-stockpile.md)
+_Context: Organisation for the Prohibition of Chemical Weapons, Syria_
 
-### [United States federal government shutdown of 2013:: U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/united-states-federal-government-shutdown-of-2013-u-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-p.md)
-_Context:  October 2013 federal government shutdown, Barack Obama, Office of Management and Budget, President, United States, United States Congress, United States Senate, White House_
+### [U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/u-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-partial-shutdown-of-government-agencies-after-the-hou.md)
+_Context: Barack Obama, Office of Management and Budget, President, United States, United States Congress, United States Senate, White House_
 
 ### [A Buddhist mob torches more than 70 Muslim homes and stabs a 94-year-old woman to death in Rakhine State, Myanmar. ](/news/2013/10/1/a-buddhist-mob-torches-more-than-70-muslim-homes-and-stabs-a-94-year-old-woman-to-death-in-rakhine-state-myanmar.md)
-_Context: Buddhist, Muslim, Myanmar, Rakhine State_
+_Context: Buddhist, Burmese, Muslim, Rakhine State_
 
 ### [Bangladeshi politician Salahuddin Quader Chowdhury is sentenced to death for war crimes including murder, torture, and genocide for his atrocities in the Bangladesh Liberation War. ](/news/2013/10/1/bangladeshi-politician-salahuddin-quader-chowdhury-is-sentenced-to-death-for-war-crimes-including-murder-torture-and-genocide-for-his-atro.md)
 _Context: Bangladesh, Salahuddin Quader Chowdhury, independence war_

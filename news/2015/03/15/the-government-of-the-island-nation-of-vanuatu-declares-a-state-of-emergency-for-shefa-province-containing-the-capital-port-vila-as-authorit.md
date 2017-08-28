@@ -1,6 +1,6 @@
 ### [2015-03-15](/news/2015/03/15/index.md)
 
-# The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency.  
+# The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency. 
 
 Government says there are fears of widespread destruction and heavy loss of life after several islands were directly hit by eye of category five superstorm
 
@@ -19,7 +19,7 @@ Government says there are fears of widespread destruction and heavy loss of life
 4. [Cyclone Pam causes severe damage in the South Pacific nation of Vanuatu with unconfirmed reports of over 40 deaths. ](/news/2015/03/13/cyclone-pam-causes-severe-damage-in-the-south-pacific-nation-of-vanuatu-with-unconfirmed-reports-of-over-40-deaths.md) _Context: Cyclone Pam, Vanuatu_
 5. [Vanuatu prepares for Tropical Cyclone Pam which is predicted to reach Category 5 on the Australian tropical cyclone intensity scale. ](/news/2015/03/12/vanuatu-prepares-for-tropical-cyclone-pam-which-is-predicted-to-reach-category-5-on-the-australian-tropical-cyclone-intensity-scale.md) _Context: Vanuatu, category 5_
 6. [The 41st annual Pacific Islands Forum Leaders Summit opens in Port Vila, Vanuatu. ](/news/2010/08/3/the-41st-annual-pacific-islands-forum-leaders-summit-opens-in-port-vila-vanuatu.md) _Context: Port Vila, Vanuatu_
-7. [ Vanuatu is struck by an earthquake of 7.2 magnitude southeast of  its capital Port Vila. ](/news/2007/03/25/vanuatu-is-struck-by-an-earthquake-of-7-2-magnitude-southeast-of-its-capital-port-vila.md) _Context: Port Vila, Vanuatu_
+7. [ Vanuatu is struck by an earthquake of 7.2 magnitude southeast of its capital Port Vila. ](/news/2007/03/25/vanuatu-is-struck-by-an-earthquake-of-7-2-magnitude-southeast-of-its-capital-port-vila.md) _Context: Port Vila, Vanuatu_
 8. [Severe Tropical Cyclone Donna is upgraded to a Category Four, and continues to damage houses and infrastructure in the north of Vanuatu, particularly in Torba Province. ](/news/2017/05/6/severe-tropical-cyclone-donna-is-upgraded-to-a-category-four-and-continues-to-damage-houses-and-infrastructure-in-the-north-of-vanuatu-par.md) _Context: Vanuatu_
 9. [The federal government of Brazil informs the World Health Organization that it is ending its state of emergency concerning the Zika virus, following a 95.3% reduction in cases in early 2017 compared to early 2016. ](/news/2017/05/11/the-federal-government-of-brazil-informs-the-world-health-organization-that-it-is-ending-its-state-of-emergency-concerning-the-zika-virus-f.md) _Context: state of emergency_
 10. [Dozens of people in Vanuatu are in shelters as Cyclone Cook hits the island. It is due to pass through New Caledonia tomorrow. ](/news/2017/04/9/dozens-of-people-in-vanuatu-are-in-shelters-as-cyclone-cook-hits-the-island-it-is-due-to-pass-through-new-caledonia-tomorrow.md) _Context: Vanuatu_

@@ -18,8 +18,8 @@ _Context: Movement for the Emancipation of the Niger Delta, Niger River, Nigeria
 ### [ Home rule returns to Northern Ireland. DUP leader Ian Paisley and Sinn Fein's Martin McGuinness take office as First Minister and Deputy First Minister, respectively. ](/news/2007/05/8/home-rule-returns-to-northern-ireland-dup-leader-ian-paisley-and-sinn-fa-c-in-s-martin-mcguinness-take-office-as-first-minister-and-deputy-f.md)
 _Context: Democratic Unionist Party, First Minister, Ian Paisley, Martin McGuinness, Northern Ireland, Sinn Fein, devolution_
 
-### [ War in Iraq:: A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/war-in-iraq-a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md)
-_Context: Iraq, Kufa, Shi'ite, War in Iraq, suicide bomber_
+### [ A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md)
+_Context: Iraq, Kufa, Shi'ite, suicide bomber_
 
 ### [ The U.S. Department of Defense announces plans to deploy 35,000 troops in Iraq starting from August 2007. ](/news/2007/05/8/the-u-s-department-of-defense-announces-plans-to-deploy-35-000-troops-in-iraq-starting-from-august-2007.md)
 _Context: Iraq, U.S., U.S. military_

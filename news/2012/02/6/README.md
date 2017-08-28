@@ -1,6 +1,6 @@
 ## [2012-02-6](/news/2012/02/6/index.md)
 
-### [2011-2012 Syrian uprising: Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/2011-2012-syrian-uprising-syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md)
+### [Syrian government forces continue shelling the city of Homs with at least 17 people dead today. ](/news/2012/02/6/syrian-government-forces-continue-shelling-the-city-of-homs-with-at-least-17-people-dead-today.md)
 The closure of the embassy comes after weeks of concern about the safety of those working there.
 
 ### [Gunmen kill five refugees from the Libyan town of Tawergha in a camp in a Tripoli suburb. ](/news/2012/02/6/gunmen-kill-five-refugees-from-the-libyan-town-of-tawergha-in-a-camp-in-a-tripoli-suburb.md)
@@ -28,7 +28,7 @@ Government will consider introducing temporary regulations before Transport Cana
 The Queen visits a school in Norfolk and there are gun salutes around the UK as she marks the 60th anniversary of her accession to the throne.
 
 ### [Myanmar's Election Commission clears National League for Democracy leader Aung San Suu Kyi to run in a by-election in the seat of Kawhmu. ](/news/2012/02/6/myanmar-s-election-commission-clears-national-league-for-democracy-leader-aung-san-suu-kyi-to-run-in-a-by-election-in-the-seat-of-kawhmu.md)
-_Context: Aung San Suu Kyi, Kawhmu, Myanmar, National League for Democracy, by-elections earlier this month_
+_Context: Aung San Suu Kyi, Burmese, Kawhmu, National League for Democracy, by-elections earlier this month_
 
 ### [Romanian Prime Minister Emil Boc and his entire cabinet resign after major social and political unrest in the country. ](/news/2012/02/6/romanian-prime-minister-emil-boc-and-his-entire-cabinet-resign-after-major-social-and-political-unrest-in-the-country.md)
 _Context: Emil Boc, Prime Minister, Romania, major social and political unrest_

@@ -1,18 +1,18 @@
 ## [2013-08-17](/news/2013/08/17/index.md)
 
-### [Mexican Drug War:: Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/mexican-drug-war-gulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md)
+### [Gulf Cartel leader Mario Ramirez Trevino is arrested in the state of Tamaulipas. ](/news/2013/08/17/gulf-cartel-leader-mario-ramarez-trevia-o-is-arrested-in-the-state-of-tamaulipas.md)
 Mexican security forces on Saturday caught the leader of the cocaine-trafficking Gulf Cartel, local media reported, the second major gang boss capture in just over a month as President Enrique Pena Nieto fights cartel violence.
 
-### [Political violence in Egypt:: Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/political-violence-in-egypt-egyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md)
+### [Egyptian security forces clear a Cairo mosque after a long stand-off with the Muslim Brotherhood. ](/news/2013/08/17/egyptian-security-forces-clear-a-cairo-mosque-after-a-long-stand-off-with-the-muslim-brotherhood.md)
 Egyptian Prime Minister Hazem el-Beblawi has proposed the legal dissolution of the Muslim Brotherhood and the government is studying the idea, a government spokesman said.
 
-### [Syrian civil war:: Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-civil-war-syrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md)
+### [Syrian rebels attack a militia checkpoint in Homs, killing 5 from the NDF militia but 6 civilians nearby as well. ](/news/2013/08/17/syrian-rebels-attack-a-militia-checkpoint-in-homs-killing-5-from-the-ndf-militia-but-6-civilians-nearby-as-well.md)
 Syrian rebels killed at least 11 people, including civilians, in an attack on a checkpoint west of the city of Homs on Saturday that official state media described as a massacre.
 
-### [Nigerian Sharia conflict:: Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md)
+### [Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md)
 Clashes between soldiers and members of Islamist sect Boko Haram have killed 18 people in northeast Nigeria, a military source and officials said on Saturday.
 
-### [War in Afghanistan (2001-present): 10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/war-in-afghanistan-2001-present-10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md)
+### [10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md)
 Nine building contractors and a policeman have been killed by insurgents in an attack on a camp in western Afghanistan, officials say.
 
 ### [The Indian rupee hits new record low against the US dollar. The rupee fell to 62.85 rupees against the dollar. ](/news/2013/08/17/the-indian-rupee-hits-new-record-low-against-the-us-dollar-the-rupee-fell-to-62-85-rupees-against-the-dollar.md)

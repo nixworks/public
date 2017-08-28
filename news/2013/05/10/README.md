@@ -6,12 +6,10 @@ _Context: Benghazi, Libya_
 ### [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md)
 _Context: Albert del Rosario, Filipino, Golan Heights, Philippines, Philippines Foreign Secretary, Syria_
 
-### [Boston Marathon bombings:: Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/boston-marathon-bombings-suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md)
+### [Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md)
 Boston Marathon bombing suspect Tamerlan Tsarnaev has been buried in a Muslim cemetery in Virginia, the head of an Islamic centre says.
 
-### [2013 Savar building collapse:: The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/2013-savar-building-collapse-the-death-toll-reaches-1-042-with-many-people-still-missing.md)
-_Context: 2013 Savar building collapse_
-
+### [The death toll reaches 1,042 with many people still missing. ](/news/2013/05/10/the-death-toll-reaches-1-042-with-many-people-still-missing.md)
 ### [Taiwan demands an apology from the Philippines related to an incident where a Taiwanese fisherman died after a Philippine Coast Guard intercepted his fishing vessel in the disputed waters of the Bashi Channel. ](/news/2013/05/10/taiwan-demands-an-apology-from-the-philippines-related-to-an-incident-where-a-taiwanese-fisherman-died-after-a-philippine-coast-guard-interc.md)
 Taiwan demands an explanation from Manila after a fisherman was shot and killed in disputed waters by the Philippine coastguard.
 

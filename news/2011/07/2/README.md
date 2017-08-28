@@ -1,6 +1,6 @@
 ## [2011-07-2](/news/2011/07/2/index.md)
 
-### [Arab Spring:: 2011 Libyan civil war:: According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/arab-spring-2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeaster.md)
+### [2011 Libyan civil war:According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeastern-town-of-al-kuf.md)
 The Sudanese army has seized a town in southern Libya that is the gateway to oilfields crucial to rebel hopes of establishing financial independence.
 
 ### [Somali and African Union forces make gains against al-Shabaab rebels in Mogadishu. ](/news/2011/07/2/somali-and-african-union-forces-make-gains-against-al-shabaab-rebels-in-mogadishu.md)
@@ -12,7 +12,7 @@ Members of family travelling through Ghazni reportedly killed, a day after a sim
 ### [Albert II, Prince of Monaco marries Charlene Wittstock, the Olympic swimmer, again, this time in a religious ceremony attended by 3,500 guests, including royalty and celebrities. ](/news/2011/07/2/albert-ii-prince-of-monaco-marries-charlene-wittstock-the-olympic-swimmer-again-this-time-in-a-religious-ceremony-attended-by-3-500-gues.md)
 The principality of Monaco celebrates the religious wedding of Prince Albert II to South African Olympic swimmer Charlene Wittstock.
 
-### [European sovereign debt crisis: Eurozone finance ministers agree to give a further -12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md)
+### [European sovereign debt crisis: Eurozone finance ministers agree to give a further EUR12 billion over the next two weeks to Greece as it fights bankruptcy. ](/news/2011/07/2/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-give-a-further-a-12-billion-over-the-next-two-weeks-to-greece-as-it-fig.md)
 Eurozone finance ministers agree to release a further 12bn euros of emergency aid to Greece to help it avoid bankruptcy.
 
 ### [Australia's Civil Aviation Safety Authority grounds all Tiger Airways flights in the country until July 9 due to a range of safety concerns. ](/news/2011/07/2/australia-s-civil-aviation-safety-authority-grounds-all-tiger-airways-flights-in-the-country-until-july-9-due-to-a-range-of-safety-concerns.md)

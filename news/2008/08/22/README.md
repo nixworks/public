@@ -12,13 +12,13 @@ _Context: George Mylonas, Vassilis Paleokostas_
 ### [ More than 60 people are reported to have been killed and 150 wounded during clashes in the Somali port of Kismayo. ](/news/2008/08/22/more-than-60-people-are-reported-to-have-been-killed-and-150-wounded-during-clashes-in-the-somali-port-of-kismayo.md)
 _Context: Kismayo, clashes_
 
-### [ War in Afghanistan: The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/war-in-afghanistan-the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md)
+### [ The United States-led coalition kills 30 Taliban militants in fighting in western Afghanistan. ](/news/2008/08/22/the-united-states-led-coalition-kills-30-taliban-militants-in-fighting-in-western-afghanistan.md)
 _Context: Afghanistan's, Taliban, United States, War in Afghanistan_
 
 ### [ Pakistan will indirectly elect a new President of Pakistan on September 6 to replace Pervez Musharraf. ](/news/2008/08/22/pakistan-will-indirectly-elect-a-new-president-of-pakistan-on-september-6-to-replace-pervez-musharraf.md)
 _Context: Pakistan, Pervez Musharraf, President, September 6_
 
-### [ 2008 South Ossetia war:: Human Rights Watch confirms the use of cluster bombs by Russia during Georgia bombing, urges Russia to keep within the international norms and warns Georgia to take urgent measures to protect the civilian population in Georgian villages from unexploded ordnance left by Russian attacks. ](/news/2008/08/22/2008-south-ossetia-war-human-rights-watch-confirms-the-use-of-cluster-bombs-by-russia-during-georgia-bombing-urges-russia-to-keep-within.md)
+### [ Human Rights Watch confirms the use of cluster bombs by Russia during Georgia bombing, urges Russia to keep within the international norms and warns Georgia to take urgent measures to protect the civilian population in Georgian villages from unexploded ordnance left by Russian attacks. ](/news/2008/08/22/human-rights-watch-confirms-the-use-of-cluster-bombs-by-russia-during-georgia-bombing-urges-russia-to-keep-within-the-international-norms.md)
 * U.S. general says Russian pullback &quot;far too slow&quot; * Russia says to complete partial pullback by end-Friday
 
 ### [ Russia informs Lithuania that Russia is stopping military co-operation with Lithuania. ](/news/2008/08/22/russia-informs-lithuania-that-russia-is-stopping-military-co-operation-with-lithuania.md)

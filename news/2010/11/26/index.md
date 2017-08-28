@@ -15,7 +15,7 @@ Ireland&#039;s banks suffered a string of credit downgrades Friday&mdash;one red
 ### [A third explosion within a week occurs at the Pike River Mine on the South Island of New Zealand, where 29 men are presumed dead. ](/news/2010/11/26/a-third-explosion-within-a-week-occurs-at-the-pike-river-mine-on-the-south-island-of-new-zealand-where-29-men-are-presumed-dead.md)
 There has been a third explosion at the Pike River coal mine in New Zealand, where 29 men are presumed dead underground.
 
-### [Korean peninsula:: North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/korean-peninsula-north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md)
+### [North Korea issues warnings about a planned exercise by South Korea and the United States this weekend. ](/news/2010/11/26/north-korea-issues-warnings-about-a-planned-exercise-by-south-korea-and-the-united-states-this-weekend.md)
 North Korea warns that US-South Korean plans for military maneuvers put peninsula on brink of war; S.Korean official says 20 blasts heard.
 
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)
@@ -45,7 +45,7 @@ A gunman opened fire on a campaign rally near Taipei yesterday, killing one man 
 ### [Kim Kwan-jin becomes the new Minister for Defense in South Korea, replacing Kim Tae-Young who resigned following the shelling of Yeonpyeong. ](/news/2010/11/26/kim-kwan-jin-becomes-the-new-minister-for-defense-in-south-korea-replacing-kim-tae-young-who-resigned-following-the-shelling-of-yeonpyeong.md)
 _Context: Kim Kwan-jin, Kim Tae-Young, South Korea, defense ministry, shelling of Yeonpyeong_
 
-### [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-south-west-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md)
+### [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-southawest-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md)
 Sinn Fein candidate Pearse Doherty is elected to the Irish parliament in the wake of the EU bail-out.
 
 ### [Police in the UK are seeking the power to take down websites they deem "criminal", with critics worried over the lack of judicial oversight. ](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.md)

@@ -12,7 +12,7 @@ _Context: Arkansas, May 1-2, 2008 tornado outbreak, United States, tornado_
 ### [ Over 10,000 people gather in Seoul, South Korea, to protest against the importation of U.S. beef, which is alleged to have a danger of mad cow disease. ](/news/2008/05/2/over-10-000-people-gather-in-seoul-south-korea-to-protest-against-the-importation-of-u-s-beef-which-is-alleged-to-have-a-danger-of-mad.md)
 _Context: Seoul, South Korea, mad cow disease_
 
-### [ Zimbabwean presidential election, 2008: The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. ](/news/2008/05/2/zimbabwean-presidential-election-2008-the-opposition-movement-for-democratic-change-proposes-a-power-sharing-arrangement-with-the-preside.md)
+### [ The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. ](/news/2008/05/2/the-opposition-movement-for-democratic-change-proposes-a-power-sharing-arrangement-with-the-president-of-zimbabwe-robert-mugabe-s-party-th.md)
 _Context: Movement for Democratic Change, President of Zimbabwe, Robert Mugabe, Zimbabwe African National Union, run-off presidential election_
 
 ### [ The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. ](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-united-states-germany-france-russia-and-china-agree-to-make-a-new-offer-to-iran-over-its-nu.md)

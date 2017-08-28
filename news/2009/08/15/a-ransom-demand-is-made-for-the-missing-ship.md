@@ -1,6 +1,6 @@
 ### [2009-08-15](/news/2009/08/15/index.md)
 
-#   A ransom demand is made for the missing ship. 
+#  A ransom demand is made for the missing ship. 
 
 The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
@@ -15,5 +15,5 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ### Related:
 
-1. [ The MV ''Arctic Sea'', a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-of.md) _Context: MV ''Arctic Sea''_
-2. [ The MV ''Arctic Sea'', missing since late July, is reportedly found 400|nmi|km|abbr=on off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _Context: MV ''Arctic Sea''_
+1. [ The MV "Arctic Sea", a cargo ship missing after an apparent hijacking in July off the Swedish coast, is discovered by the Russian Navy off Cape Verde. ](/news/2009/08/17/the-mv-arctic-sea-a-cargo-ship-missing-after-an-apparent-hijacking-in-july-off-the-swedish-coast-is-discovered-by-the-russian-navy-off.md) _Context: MV ''Arctic Sea''_
+2. [ The MV "Arctic Sea", missing since late July, is reportedly found 400|nmi|km|abbr=on off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _Context: MV ''Arctic Sea''_

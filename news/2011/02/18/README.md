@@ -12,28 +12,26 @@ _Context: Afghanistan's, Kunar Province_
 ### [Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedomdate=August 2017 at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. ](/news/2011/02/18/retired-cia-officer-turned-political-activist-ray-mcgovern-is-thrown-out-bloodied-and-arrested-while-protesting-a-speech-given-by-hillary-c.md)
 _Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, Washington, D.C., internet freedom_
 
-### [2011 Bahraini protests:: Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/2011-bahraini-protests-troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announce.md)
-_Context: 2011 Bahraini protests, Manama_
+### [Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md)
+_Context: Manama_
 
-### [2011 Djibouti protests:: Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/2011-djibouti-protests-police-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md)
+### [Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. ](/news/2011/02/18/police-shoot-tear-gas-at-thousands-of-people-demonstrating-against-the-ismail-omar-guelleh-regime-in-djibouti.md)
 Police use tear gas to disperse thousands demonstrating in East African nation to demand Ismail Omar Guelleh step down.
 
-### [2011 Jordanian protests:: At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/2011-jordanian-protests-at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md)
-_Context: 2011 Jordanian protests, Amman_
+### [At least 8 people are injured during an attack on a pro-democracy protest rally in Amman. ](/news/2011/02/18/at-least-8-people-are-injured-during-an-attack-on-a-pro-democracy-protest-rally-in-amman.md)
+_Context: Amman_
 
-### [2011 Libyan civil war:: Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/2011-libyan-civil-war-anti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-r.md)
+### [Anti-regime protests continue overnight after yesterday's "Day of Rage". Funerals of those killed due today. Human Rights Watch lists 24 killed and many wounded. ](/news/2011/02/18/anti-regime-protests-continue-overnight-after-yesterday-s-day-of-rage-funerals-of-those-killed-due-today-human-rights-watch-lists-24-kil.md)
 At least 24 people have died in anti-government protests in Libya over recent days, rights activists say.
 
-### [2011 Iraqi protests:: Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/2011-iraqi-protests-anti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an.md)
+### [Anti-regime protests occur in Baghdad, with demonstrators calling for a larger demonstration next Friday as part of an "Iraqi revolution". ](/news/2011/02/18/anti-regime-protests-occur-in-baghdad-with-demonstrators-calling-for-a-larger-demonstration-next-friday-as-part-of-an-iraqi-revolution.md)
 Reports of deaths as thousands turn out to demand better service delivery and jobs from government.
 
-### [2011 Yemeni protests:: Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/2011-yemeni-protests-anti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md)
-_Context: 2011 Yemeni protests_
-
-### [Egyptian Revolution of 2011:: Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/egyptian-revolution-of-2011-some-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-a.md)
+### [Anti-regime protesters gather for the largest of eight days of demonstrations. ](/news/2011/02/18/anti-regime-protesters-gather-for-the-largest-of-eight-days-of-demonstrations.md)
+### [Some Egyptians march through the streets of Cairo apologising for the way in which Hosni Mubarak was deposed after 30 years in the recent revolution. "Yes to Change, No to Humiliation". ](/news/2011/02/18/some-egyptians-march-through-the-streets-of-cairo-apologising-for-the-way-in-which-hosni-mubarak-was-deposed-after-30-years-in-the-recent-re.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [Other Arab Spring Events:: Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/other-arab-spring-events-former-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to.md)
+### [Former President of Tunisia Zine El Abidine Ben Ali, ousted during the recent popular revolution, is reported to have slipped into a coma following his stroke in Saudi Arabia. ](/news/2011/02/18/former-president-of-tunisia-zine-el-abidine-ben-ali-ousted-during-the-recent-popular-revolution-is-reported-to-have-slipped-into-a-coma-fo.md)
 The 74-year-old ousted Tunisian president, exiled in Saudi Arabia, is said to be in a coma following a stroke.
 
 ### [Tens of thousands of people march peacefully through Tirana urging the Albanian government to resign due to corruption in the Sali Berisha regime. 4 people were killed in a similar demonstration nearly a month ago. ](/news/2011/02/18/tens-of-thousands-of-people-march-peacefully-through-tirana-urging-the-albanian-government-to-resign-due-to-corruption-in-the-sali-berisha-r.md)

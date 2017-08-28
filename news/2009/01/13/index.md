@@ -9,8 +9,8 @@ _Context: Gaza, Hamas, Israel, Israel Defense Forces, fire, militant, urban warf
 ### [ The United States Senate Foreign Relations Committee begins confirmation hearings for Hillary Clinton's nomination as Secretary of State. ](/news/2009/01/13/the-united-states-senate-foreign-relations-committee-begins-confirmation-hearings-for-hillary-clinton-s-nomination-as-secretary-of-state.md)
 _Context: Foreign Relations Committee, Hillary Clinton, United States, United States Secretary of State, United States Senate, confirmation hearings, nomination_
 
-### [ Late 2000s recession:: German Chancellor Angela Merkel announces a -50-billion economic stimulus package. ](/news/2009/01/13/late-2000s-recession-german-chancellor-angela-merkel-announces-a-50-billion-economic-stimulus-package.md)
-_Context: Angela Merkel, Chancellor, EUR, Germany, late 2000s recession_
+### [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md)
+_Context: Angela Merkel, Chancellor, EUR, Germany_
 
 ### [ Yahoo! names Autodesk chairwoman Carol Bartz as its CEO. ](/news/2009/01/13/yahoo-names-autodesk-chairwoman-carol-bartz-as-its-ceo.md)
 _Context: Autodesk, Carol Bartz, Yahoo!, chairman, chief executive officer_

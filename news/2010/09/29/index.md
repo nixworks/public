@@ -6,7 +6,7 @@ Russian forces report killing 14 rebels in the North Caucasus region of Dagestan
 ### [Comedian Greg Giraldo dies at the age of 44 in a New Brunswick, New Jersey, hospital after an accidental drug overdose four days ago. ](/news/2010/09/29/comedian-greg-giraldo-dies-at-the-age-of-44-in-a-new-brunswick-new-jersey-hospital-after-an-accidental-drug-overdose-four-days-ago.md)
 Get the latest news on celebrity scandals, engagements, and divorces! Check out our breaking stories on Hollywood?s hottest stars!
 
-### [Protests and strikes across Europe:: Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/protests-and-strikes-across-europe-tens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-gove.md)
+### [Tens of thousands of workers across Europe protest against austerity measures being taken by their governments. ](/news/2010/09/29/tens-of-thousands-of-workers-across-europe-protest-against-austerity-measures-being-taken-by-their-governments.md)
 Tens of thousands take to the streets of Brussels and other European cities in a day of protests against austerity measures, as a general strike grips Spain.
 
 ### [The United States House of Representatives approves legislation that would lead to trade sanctions against China, which is accused of undervaluing the yuan. ](/news/2010/09/29/the-united-states-house-of-representatives-approves-legislation-that-would-lead-to-trade-sanctions-against-china-which-is-accused-of-underv.md)

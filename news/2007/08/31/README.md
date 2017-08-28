@@ -9,7 +9,7 @@ _Context: Gaston Tong Sang, President, vote of no confidence_
 ### [ A fuel spill pollutes Puerto Rico's southwest coast from the town of Guanica to Guayanilla Bay. ](/news/2007/08/31/a-fuel-spill-pollutes-puerto-rico-s-southwest-coast-from-the-town-of-guanica-to-guayanilla-bay.md)
 _Context: Guanica, Guayanilla Bay, Puerto Rico_
 
-### [ Democratic Republic of the Congo: The United Nations mission to the Democratic Republic of the Congo sends troops to the town of Katale in the Masisi district of North Kivu province due to heavy fighting between the army and supporters of rebel General Laurent Nkunda. ](/news/2007/08/31/democratic-republic-of-the-congo-the-united-nations-mission-to-the-democratic-republic-of-the-congo-sends-troops-to-the-town-of-katale-in.md)
+### [ The United Nations mission to the Democratic Republic of the Congo sends troops to the town of Katale in the Masisi district of North Kivu province due to heavy fighting between the army and supporters of rebel General Laurent Nkunda. ](/news/2007/08/31/the-united-nations-mission-to-the-democratic-republic-of-the-congo-sends-troops-to-the-town-of-katale-in-the-masisi-district-of-north-kivu.md)
 _Context: Democratic Republic of the Congo, Katale, Laurent Nkunda, Masisi, North Kivu, United Nations_
 
 ### [ U.S. Democratic Party fundraiser Norman Hsu surrenders to the San Mateo County sheriff's office on a 15-year-old felony warrant. ](/news/2007/08/31/u-s-democratic-party-fundraiser-norman-hsu-surrenders-to-the-san-mateo-county-sheriff-s-office-on-a-15-year-old-felony-warrant.md)
@@ -78,7 +78,7 @@ _Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spain, V
 ### [ Angry Victorian farmers trap the Premier of Victoria John Brumby and Rural and Regional Development Minister Jacinta Allan as well as advisers and media in a machinery yard outside Colbinabbin, east of Bendigo to raise concerns about the Government's water plans. ](/news/2007/08/31/angry-victorian-farmers-trap-the-premier-of-victoria-john-brumby-and-rural-and-regional-development-minister-jacinta-allan-as-well-as-advis.md)
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_
 
-### [ War in Afghanistan: At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/war-in-afghanistan-at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanist.md)
+### [ At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanistan.md)
 _Context: Afghanistan's, Kabul International Airport, War in Afghanistan, suicide bomb_
 
 ### [ Malaysia celebrates 50 years of independence.](/news/2007/08/31/malaysia-celebrates-50-years-of-independence.md)

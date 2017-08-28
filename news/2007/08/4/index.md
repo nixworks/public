@@ -6,7 +6,7 @@ _Context: Europe, Greek, Middle East, Turkey, natural gas_
 ### [ An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. ](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-england-prompts-the-banning-of-exports-of-british-livestock-and-other-animal-products.md)
 _Context: England, Surrey, foot-and-mouth disease, livestock, outbreak of 2007_
 
-### [Jesse Spielman - a United States Army soldier was given sentences of 110 years in prison in plea deals that spared him the death penalty for his role in the gang-rape and murder of an Iraqi girl and the mass murder of her family. ](/news/2007/08/4/jesse-spielman-a-united-states-army-soldier-was-given-sentences-of-110-years-in-prison-in-plea-deals-that-spared-him-the-death-penalty-f.md)
+### [Jesse Spielman - a United States Army soldier was given sentences of 110 years in prison in plea deals that spared him the death penalty for his role in the gang-rape and murder of an Iraqi girl and the mass murder of her family. ](/news/2007/08/4/jesse-spielman-a-a-united-states-army-soldier-was-given-sentences-of-110-years-in-prison-in-plea-deals-that-spared-him-the-death-penalty-f.md)
 _Context: United States Army, gang rape, plea deals_
 
 ### [ The United States House of Representatives passes the budget for the United States Department of Defense. ](/news/2007/08/4/the-united-states-house-of-representatives-passes-the-budget-for-the-united-states-department-of-defense.md)

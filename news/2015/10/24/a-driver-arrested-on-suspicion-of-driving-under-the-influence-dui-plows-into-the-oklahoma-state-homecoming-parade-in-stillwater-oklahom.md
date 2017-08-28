@@ -1,6 +1,6 @@
 ### [2015-10-24](/news/2015/10/24/index.md)
 
-# A driver, arrested on suspicion of driving under the influence (DUI), plows into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34 with eight in critical condition.  The homecoming game with Kansas was played at 2:30 p.m. CT as scheduled. 
+# A driver, arrested on suspicion of driving under the influence (DUI), plows into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34 with eight in critical condition. The homecoming game with Kansas was played at 2:30 p.m. CT as scheduled. 
 
 More than two dozen injured after the car crashed into a crowd along the route Saturday.
 

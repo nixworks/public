@@ -6,7 +6,7 @@ _Context: International Olympic Committee, Juan Antonio Samaranch_
 ### [52 civilians are killed and 55 others are wounded in renewed tribal clashes in Sudan's South Darfur state. ](/news/2010/04/21/52-civilians-are-killed-and-55-others-are-wounded-in-renewed-tribal-clashes-in-sudan-s-south-darfur-state.md)
 _Context: South Darfur_
 
-### [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-pregnant-woman-and-her-baby-whose-b.md)
+### [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-a-pregnant-woman-and-her-baby-whose-b.md)
 _Context: Pretoria, Rovos Rail, South Africa_
 
 ### [Poland announces the date of its presidential election &mdash; June 20 &mdash; to elect plane crash victim Lech Kaczynski's successor. ](/news/2010/04/21/poland-announces-the-date-of-its-presidential-election-mdash-june-20-mdash-to-elect-plane-crash-victim-lech-kaczyaski-s-successor.md)
@@ -48,7 +48,7 @@ _Context: an earthquake struck on 14 April_
 ### [Nicolas Sarkozy speaks out against the niqab, telling a cabinet meeting it "hurts the dignity of women and is not acceptable in French society", as his government moves to outlaw the garment. ](/news/2010/04/21/nicolas-sarkozy-speaks-out-against-the-niqab-telling-a-cabinet-meeting-it-hurts-the-dignity-of-women-and-is-not-acceptable-in-french-soci.md)
 Nicolas Sarkozy speaks out against niqab as government moves to outlaw garment.
 
-### [The U.S. Obama administration charges that Sudan-s recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly. ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudan-s-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md)
+### [The U.S. Obama administration charges that Sudan's recent election was plagued by "serious irregularities" and says the United States is committed to ensuring that a 2011 Sudanese referendum on southern independence would be conducted fairly. ](/news/2010/04/21/the-u-s-obama-administration-charges-that-sudanas-recent-election-was-plagued-by-serious-irregularities-and-says-the-united-states-is-c.md)
 The White House charged that Sudan’s recent election, the first multiparty vote in more than 20 years, was plagued by ”serious irregularities.”
 
 ### [Algeria, Mali, Mauritania and Niger launch a joint command centre in Tamanrasset to counter al-Qaeda, according to the Algerian defence ministry. ](/news/2010/04/21/algeria-mali-mauritania-and-niger-launch-a-joint-command-centre-in-tamanrasset-to-counter-al-qaeda-according-to-the-algerian-defence-mini.md)

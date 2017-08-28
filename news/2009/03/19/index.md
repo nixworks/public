@@ -12,8 +12,8 @@ Spurred by anger over A.I.G., the House voted 328 to 93 to tax bonuses paid by a
 ### [ Josef Fritzl of Austria is sentenced to life imprisonment on all charges. ](/news/2009/03/19/josef-fritzl-of-austria-is-sentenced-to-life-imprisonment-on-all-charges.md)
 _Context: Austria, Josef Fritzl, life imprisonment_
 
-### [ Malagasy political crisis:: President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/malagasy-political-crisis-president-andry-rajoelina-dissolves-parliament.md)
-_Context: Andry Rajoelina, Madagascar, Parliament, President, parliament's dissolution, political crisis_
+### [ President Andry Rajoelina dissolves Parliament. ](/news/2009/03/19/president-andry-rajoelina-dissolves-parliament.md)
+_Context: Andry Rajoelina, Parliament, President, parliament's dissolution_
 
 ### [ Pope Benedict XVI leads a Roman Catholic Mass in Yaound, Cameroon. ](/news/2009/03/19/pope-benedict-xvi-leads-a-roman-catholic-mass-in-yaounde-cameroon.md)
 _Context: Cameroon, Mass, Pope, Pope Benedict XVI, Roman Catholic Church, Yaounde_

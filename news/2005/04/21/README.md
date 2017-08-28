@@ -1,7 +1,7 @@
 ## [2005-04-21](/news/2005/04/21/index.md)
 
 ### [ 400 Iranian volunteers sign up to sacrifice their lives in "occupied Islamic countries", particularly Israel, after being inspired by a fatwa from a top hardline cleric giving religious backing to suicide missions. ](/news/2005/04/21/400-iranian-volunteers-sign-up-to-sacrifice-their-lives-in-occupied-islamic-countries-particularly-israel-after-being-inspired-by-a-fat.md)
-_Context: Iran, Islam, Israel, cleric, fatwa, suicide bombings_
+_Context: Iran, Israel, Muslims, cleric, fatwa, suicide bombings_
 
 ### [ American, French and Israeli naval forces rescue three Syrian and Egyptian sailors from a North Korean ship that sank in international waters off the coast of Nahariya. ](/news/2005/04/21/american-french-and-israeli-naval-forces-rescue-three-syrian-and-egyptian-sailors-from-a-north-korean-ship-that-sank-in-international-wate.md)
 Sinking ship summons Israeli, American, French forces; three rescued, four still missing
@@ -19,7 +19,7 @@ _Context: ''Columbia'' disaster, Discovery, February 2003, May 22, STS-114_
 _Context: Alfredo Palacio, Brazil, Ecuador, Lucio Gutirrez_
 
 ### [ According to Christian Solidarity Worldwide, the army of Myanmar (Burma) has used chemical weapons against Karen rebels. ](/news/2005/04/21/according-to-christian-solidarity-worldwide-the-army-of-myanmar-burma-has-used-chemical-weapons-against-karen-rebels.md)
-_Context: Burma, Christian Solidarity Worldwide, Karen, Myanmar, chemical weapons_
+_Context: Burma, Burmese, Christian Solidarity Worldwide, Karen, chemical weapons_
 
 ### [ In Zanzibar, an electoral commission accepts Seif Shariff Hamad, secretary general of the opposition party Civic United Front, as a legitimate voter and therefore eligible candidate. ](/news/2005/04/21/in-zanzibar-an-electoral-commission-accepts-seif-shariff-hamad-secretary-general-of-the-opposition-party-civic-united-front-as-a-legitim.md)
 _Context: Civic United Front, Seif Shariff Hamad, Zanzibar, candidate, voter_

@@ -1,9 +1,9 @@
 ## [2013-02-25](/news/2013/02/25/index.md)
 
-### [Terrorism in Thailand:: At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/terrorism-in-thailand-at-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-ma.md)
+### [At least 4 people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. ](/news/2013/02/25/at-least-4-people-are-dead-and-20-injured-after-a-homemade-bomb-is-detonated-at-a-buddhist-festival-in-thailand-s-maha-sarakham-province.md)
 FOUR people have been killed and more than 20 injured when a homemade bomb was detonated during a fight at a Buddhist festival in northeast Thailand.
 
-### [Syrian civil war:: For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/syrian-civil-war-for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-re.md)
+### [For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-rebels-in-hopes-of-a.md)
 The Syrian opposition reverses its decision to boycott international talks in Rome, after the US and the UK promise to increase their support.
 
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)

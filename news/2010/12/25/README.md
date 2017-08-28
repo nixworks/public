@@ -12,14 +12,14 @@ Blasts in Philippines and Nigeria kill at least 38 as church leaders call for pe
 ### [UN: Approximately 14,000 people have fled Cote d'Ivoire and headed to Liberia due to the recent presidential election dispute. ](/news/2010/12/25/un-approximately-14-000-people-have-fled-ca-te-d-ivoire-and-headed-to-liberia-due-to-the-recent-presidential-election-dispute.md)
 _Context: Cote d'Ivoire, Liberia_
 
-### [Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel -ceases to exist-. ](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.md)
+### [Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel "ceases to exist". ](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.md)
 Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, head of its armed wing says Israel will &#39;cease to exist and we will have Palestine. Spokesman: We have something that will worry the occupation
 
 ### [Aurela Gace wins Albania's national selection for the Eurovision Song Contest 2011 with the entry "Kenga ime". ](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.md)
 _Context: Albania's national selection, Aurela Gace, Eurovision Song Contest 2011, Kenga ime_
 
 ### [Leading writers criticise the British government for what they describe as its "repugnant, foolish and pointlessly destructive" decision to axe all funding for a free children's book scheme. ](/news/2010/12/25/leading-writers-criticise-the-british-government-for-what-they-describe-as-its-repugnant-foolish-and-pointlessly-destructive-decision-to.md)
-### [Vietnam-s credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnam-s-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
+### [Vietnam's credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
 _Context: Vietnam, Vinashin, credit rating agencies, inflation, state owned, trade deficit_
 
 ### [A magnitude 7.3 earthquake strikes Vanuatu. A tsunami warning is issued for the region and later cancelled after a minor tsunami was recorded. ](/news/2010/12/25/a-magnitude-7-3-earthquake-strikes-vanuatu-a-tsunami-warning-is-issued-for-the-region-and-later-cancelled-after-a-minor-tsunami-was-recorde.md)

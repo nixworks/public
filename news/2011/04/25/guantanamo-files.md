@@ -21,7 +21,3 @@ Top-secret files detailing the interrogations of more than 700 suspects at the G
 12. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_660921.html)
 13. [The Sydney Morning Herald](http://www.smh.com.au/world/wikileaks-releases-new-guantanamo-files-20110425-1dtne.html)
 14. [WikiLeaks](http://wikileaks.ch/gitmo/)
-
-### Related:
-
-1. [Guantanamo Bay files leak:: Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. ](/news/2011/04/26/guantanamo-bay-files-leak-newly-released-cables-document-an-alleged-al-qaeda-assassin-working-for-the-british-secret-intelligence-servic.md) _Context: Guantanamo Bay files leak_

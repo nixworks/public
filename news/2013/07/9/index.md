@@ -1,9 +1,9 @@
 ## [2013-07-9](/news/2013/07/9/index.md)
 
-### [Syrian civil war:: Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/syrian-civil-war-ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md)
+### [Ban Ki-Moon, the Secretary-General of the United Nations, calls for a ceasefire during Ramadan. ](/news/2013/07/9/ban-ki-moon-the-secretary-general-of-the-united-nations-calls-for-a-ceasefire-during-ramadan.md)
 Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusive eyewitness stories and photos
 
-### [War in Afghanistan (2001-present):: An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/war-in-afghanistan-2001-present-an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md)
+### [An Afghan soldier kills a Slovak soldier and wounds six others. ](/news/2013/07/9/an-afghan-soldier-kills-a-slovak-soldier-and-wounds-six-others.md)
 At least 17 people including women and children are killed by a roadside bomb in in western Afghanistan, officials tell the BBC.
 
 ### [Greece secures an additional 6.2 billion euros from the European Commission, the European Central Bank and the International Monetary Fund despite warnings that the Greek government is moving too slow to reform the government. ](/news/2013/07/9/greece-secures-an-additional-6-2-billion-euros-from-the-european-commission-the-european-central-bank-and-the-international-monetary-fund-d.md)

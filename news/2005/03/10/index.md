@@ -37,7 +37,7 @@ _Context: Darfur, United Nations_
 _Context: Canadian, Edmonton, Mayerthorpe Incident, Royal Canadian Mounted Police, half-mast, memorial, police_
 
 ### [ The Islamic Commission of Spain, that country's largest Muslim group, issues a fatwa against al-Qaeda leader Osama Bin Ladin, ruling that his actions have made him an apostate, that he should not be regarded as a Muslim, and that his claim that the Qur'an justifies his terrorist actions constitutes istihlal, the sin of making up one's own law. It is claimed to be the first fatwa to be pronounced against Bin Ladin, and to have the tacit support of Muslim leaders in several Islamic countries. ](/news/2005/03/10/the-islamic-commission-of-spain-that-country-s-largest-muslim-group-issues-a-fatwa-against-al-qaeda-leader-osama-bin-ladin-ruling-that-h.md)
-_Context: Islam, Osama Bin Ladin, Qur'an, al-Qaeda, apostate, fatwa, istihlal, terrorism_
+_Context: Muslims, Osama Bin Ladin, Qur'an, al-Qaeda, apostate, fatwa, istihlal, terrorism_
 
 ### [ The Mozilla Foundation announces that the development of the Mozilla Internet Suite will no longer be ongoing. SeaMonkey will be the replacement.](/news/2005/03/10/the-mozilla-foundation-announces-that-the-development-of-the-mozilla-internet-suite-will-no-longer-be-ongoing-seamonkey-will-be-the-replac.md)
 _Context: Mozilla, SeaMonkey_

@@ -1,6 +1,6 @@
 ## [2012-07-21](/news/2012/07/21/index.md)
 
-### [Syrian uprising (2011-present):: Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/syrian-uprising-2011-present-heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md)
+### [Heavy fighting continues in the Syrian capital Damascus and the largest city of Aleppo. ](/news/2012/07/21/heavy-fighting-continues-in-the-syrian-capital-damascus-and-the-largest-city-of-aleppo.md)
 Syrian troops clashed with rebels in the city of Aleppo for a second day Saturday, forcing inhabitants to flee to safer areas in some of the fiercest fighting to date in a key bastion of support President Bashar Assad, activists said.
 
 ### [A suicide bomb attack kills at least nine people at the entrance to an anti-Taliban commander's compound in Kurram in northwestern Pakistan. ](/news/2012/07/21/a-suicide-bomb-attack-kills-at-least-nine-people-at-the-entrance-to-an-anti-taliban-commander-s-compound-in-kurram-in-northwestern-pakistan.md)

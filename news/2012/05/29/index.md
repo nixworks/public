@@ -1,12 +1,12 @@
 ## [2012-05-29](/news/2012/05/29/index.md)
 
-### [Syrian uprising:: Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/syrian-uprising-several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md)
+### [Several Arab and Western countries expel Syrian diplomats in response to the Houla massacre. ](/news/2012/05/29/several-arab-and-western-countries-expel-syrian-diplomats-in-response-to-the-houla-massacre.md)
 Japan and Turkey join 11 countries in concerted move over massacre as Annan says country has reached tipping point.
 
 ### [Rebels attack the convoy of Somali president Sheikh Sharif Ahmed during an overland trip; he escaped unharmed. ](/news/2012/05/29/rebels-attack-the-convoy-of-somali-president-sheikh-sharif-ahmed-during-an-overland-trip-he-escaped-unharmed.md)
 _Context: Sheikh Sharif Ahmed, Somalia_
 
-### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudan-sudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
+### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
 _Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudan_
 
 ### [The gallery which exhibited Brett Murray's controversial painting "The Spear" agrees to take down an image of the artwork from its website as thousands of people march in protest through the streets of Johannesburg. ](/news/2012/05/29/the-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-agrees-to-take-down-an-image-of-the-artwork-from-its-website-a.md)
@@ -33,8 +33,8 @@ _Context: North Korea, drought_
 ### [Aung San Suu Kyi, the leader of the National League for Democracy opposition party in Burma and MP for Kawhmu, leaves Yangon for Bangkok, Thailand on her first overseas trip in 22 years. ](/news/2012/05/29/aung-san-suu-kyi-the-leader-of-the-national-league-for-democracy-opposition-party-in-burma-and-mp-for-kawhmu-leaves-yangon-for-bangkok-th.md)
 Myanmar opposition leader arrives in Thailand, leaving country where she was long imprisoned for first time since 1988.
 
-### ["Assange v The Swedish Judicial Authority":: WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/assange-v-the-swedish-judicial-authority-wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-swe.md)
-_Context: Assange v The Swedish Judicial Authority, Julian Assange, WikiLeaks_
+### [WikiLeaks editor Julian Assange learns he will find out tomorrow if he is to be deported to Sweden from the UK. ](/news/2012/05/29/wikileaks-editor-julian-assange-learns-he-will-find-out-tomorrow-if-he-is-to-be-deported-to-sweden-from-the-uk.md)
+_Context: Julian Assange, WikiLeaks_
 
 ### [The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. ](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-justice-of-the-supreme-court-renato-corona-guilty-of-failure-to-disclose-to-the-public-his-ass.md)
 Chief justice Renato Corona effectively removed from office after five-month trial for failing to declare bank accounts.

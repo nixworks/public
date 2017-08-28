@@ -18,8 +18,8 @@ _Context: Associated Press, Egypt, Gush Katif, Hamas, Israel, Israel Defense For
 ### [ Prince Charles marries Camilla Parker Bowles in a 20-minute ceremony at Windsor Guildhall, which is followed by a blessing at St George's Chapel in Windsor Castle. ](/news/2005/04/9/prince-charles-marries-camilla-parker-bowles-in-a-20-minute-ceremony-at-windsor-guildhall-which-is-followed-by-a-blessing-at-st-george-s-c.md)
 _Context: Camilla Parker Bowles, Prince Charles, Windsor, Windsor Castle_
 
-### [ Conflict in Iraq:: 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/conflict-in-iraq-15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md)
-_Context: Conflict in Iraq, Iraq, Latifiya_
+### [ 15 Iraqi soldiers have been killed following an insurgent attack near the town of Latifiya. ](/news/2005/04/9/15-iraqi-soldiers-have-been-killed-following-an-insurgent-attack-near-the-town-of-latifiya.md)
+_Context: Iraq, Latifiya_
 
 ### [ Pakistani President Pervez Musharraf says that despite his plans to go to New Delhi to watch the last Indo-Pak cricket ODI, Kashmir, and not cricket, was on top of his agenda. ](/news/2005/04/9/pakistani-president-pervez-musharraf-says-that-despite-his-plans-to-go-to-new-delhi-to-watch-the-last-indo-pak-cricket-odi-kashmir-and-no.md)
 _Context: Kashmir, New Delhi, One Day International, Pakistan, Pervez Musharraf, President, cricketer_

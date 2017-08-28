@@ -1,12 +1,12 @@
 ## [2014-03-31](/news/2014/03/31/index.md)
 
-### [Korean maritime border incidents:: North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/korean-maritime-border-incidents-north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md)
-_Context: Korean maritime border incidents, North Korea, South Korea_
+### [North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md)
+_Context: North Korea, South Korea_
 
 ### [Explosions kill at least five people and injure several more in the Kenyan capital, Nairobi. ](/news/2014/03/31/explosions-kill-at-least-five-people-and-injure-several-more-in-the-kenyan-capital-nairobi.md)
 _Context: Kenya, Nairobi_
 
-### [Mexican Drug War: The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http://www.milenio.com/policia/Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/mexican-drug-war-the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia.md)
+### [The Mexican Navy kills Knights Templar Cartel high-ranking leader Enrique Plancarte Sols. [http://www.milenio.com/policia/Kike_Plancarte-templarios-lider_de_los_templarios-Enrique_Plancarte_0_272373335.html "(Milenio)"]](/news/2014/03/31/the-mexican-navy-kills-knights-templar-cartel-high-ranking-leader-enrique-plancarte-solis-http-www-milenio-com-policia-kike_plancarte-te.md)
 _Context: Enrique Plancarte Sols, Knights Templar Cartel, Mexican Drug War, Mexican Navy_
 
 ### ["How I Met Your Mother" airs its final episode. ](/news/2014/03/31/how-i-met-your-mother-airs-its-final-episode.md)
@@ -24,7 +24,7 @@ _Context: Abkhazia, Georgian, South Ossetia, Tuvalu, recognition_
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)
 _Context: Pakistan, Pervez Musharraf, President, emergency rule, high treason_
 
-### [French politics: French government and Socialist Party admit major defeat following the French municipal elections, 2014: The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-politics-french-government-and-socialist-party-admit-major-defeat-following-the-french-municipal-elections-2014-the-president-of-f.md)
+### [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md)
 _Context: Francois Hollande, French municipal elections, 2014, Jean-Marc Ayrault, Manuel Valls, Minister of the Interior, PS, President of France, Prime Minister_
 
 ### [The Intergovernmental Panel on Climate Change releases a new report outlining the impact of climate change on the world at the end of a week of meetings in Yokohama, Japan. ](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.md)

@@ -1,6 +1,6 @@
 ## [2011-05-22](/news/2011/05/22/index.md)
 
-### [2011 Yemen protests:: Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/2011-yemen-protests-yemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30.md)
+### [Yemeni President Ali Abdullah Saleh reportedly refuses to sign a Gulf-brokered accord allowing him to resign within 30 days in exchange for immunity; the opposition signed the deal yesterday. ](/news/2011/05/22/yemeni-president-ali-abdullah-saleh-reportedly-refuses-to-sign-a-gulf-brokered-accord-allowing-him-to-resign-within-30-days-in-exchange-for.md)
 Gulf nations suspend mediation efforts after Saleh fails to sign exit pact and warns of civil war.
 
 ### [2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. ](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the-port-of-tripoli-and-the-residence-of-libyan-leader-muammar-gaddafi.md)
@@ -12,7 +12,7 @@ _Context: Afghan government, Afghanistan's, Khost, suicide bomber_
 ### [A series of bomb attacks around the Iraqi capital of Baghdad kills at least 18 people, including 7 policemen. ](/news/2011/05/22/a-series-of-bomb-attacks-around-the-iraqi-capital-of-baghdad-kills-at-least-18-people-including-7-policemen.md)
 More than a dozen bomb attacks in and around Baghdad left 18 people dead and more than 80 wounded.
 
-### [Sudanese seizure of Abyei:: South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/sudanese-seizure-of-abyei-south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md)
+### [South Sudan says the capture of the disputed Abyei region is a "declaration of war". ](/news/2011/05/22/south-sudan-says-the-capture-of-the-disputed-abyei-region-is-a-declaration-of-war.md)
 The United Nations Security Council called on the north Sudanese army to withdraw from positions it has taken in the disputed region of Abyei, it said in a statement on Sunday.
 
 ### [African Union and Somali troops advance on Mogadishu's Bakara market, a rebel-held area, amid intense fighting. ](/news/2011/05/22/african-union-and-somali-troops-advance-on-mogadishu-s-bakara-market-a-rebel-held-area-amid-intense-fighting.md)
@@ -42,7 +42,7 @@ _Context: Jimmy Choo, Labelux_
 ### [The Government of Iceland imposes a flight ban, following the eruption of Iceland's most active volcano, Grmsvtn. ](/news/2011/05/22/the-government-of-iceland-imposes-a-flight-ban-following-the-eruption-of-iceland-s-most-active-volcano-grimsvotn.md)
 _Context: Government of Iceland, Grmsvtn, Iceland, volcanic activity_
 
-### [May 2011 tornado outbreak in the Central United States:: Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/may-2011-tornado-outbreak-in-the-central-united-states-tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killi.md)
+### [Tornados hit the city of Minneapolis, Minnesota, damaging scores of homes and killing at least one person. ](/news/2011/05/22/tornados-hit-the-city-of-minneapolis-minnesota-damaging-scores-of-homes-and-killing-at-least-one-person.md)
 Powerful storm blew into metro, killing 1, injuring 30 and putting North Side under curfew.
 
 ### [The Prime Minister of Japan Naoto Kan, the Premier of China Wen Jiabao and the President of South Korea Lee Myung Bak meet in Japan and agree to improve cooperation on nuclear and economic issues. ](/news/2011/05/22/the-prime-minister-of-japan-naoto-kan-the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-meet-in-japan-and-agre.md)
@@ -69,12 +69,10 @@ _Context: Ali Nikzad, Mahmoud Ahmadinejad, Ministry of Infrastructure, President
 ### [20,000 people attend an anti-nuclear rally in Switzerland. ](/news/2011/05/22/20-000-people-attend-an-anti-nuclear-rally-in-switzerland.md)
 An estimated 20,000 people participated in the biggest anti-nuclear protest in Switzerland for 25 years on Sunday. Chanting and ...
 
-### [2011 Georgian protests:: Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/2011-georgian-protests-approximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president.md)
-_Context: 2011 Georgian protests, Batumi, Mikhail Saakashvili, President of Georgia, Tbilisi_
+### [Approximately 10,000 protesters march in Tbilisi and Batumi calling for early elections and the ouster of President Mikhail Saakashvili. ](/news/2011/05/22/approximately-10-000-protesters-march-in-tbilisi-and-batumi-calling-for-early-elections-and-the-ouster-of-president-mikhail-saakashvili.md)
+_Context: Batumi, Mikhail Saakashvili, President of Georgia, Tbilisi_
 
-### [2011 Spanish protests:: People continue to peacefully protest against cuts and unemployment in cities across Spain as the country votes in regional elections; the number of participants increases despite a government ban on such occurrences. ](/news/2011/05/22/2011-spanish-protests-people-continue-to-peacefully-protest-against-cuts-and-unemployment-in-cities-across-spain-as-the-country-votes-in-r.md)
-_Context: 2011 Spanish protests_
-
+### [People continue to peacefully protest against cuts and unemployment in cities across Spain as the country votes in regional elections; the number of participants increases despite a government ban on such occurrences. ](/news/2011/05/22/people-continue-to-peacefully-protest-against-cuts-and-unemployment-in-cities-across-spain-as-the-country-votes-in-regional-elections-the-n.md)
 ### [Police officers from more than 40 forces unveil plans for protests against funding cuts authorised by the British government, including a "national day of action" in July. ](/news/2011/05/22/police-officers-from-more-than-40-forces-unveil-plans-for-protests-against-funding-cuts-authorised-by-the-british-government-including-a-n.md)
 _Context: British government_
 

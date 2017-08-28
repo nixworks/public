@@ -1,15 +1,15 @@
 ## [2012-02-22](/news/2012/02/22/index.md)
 
-### [Afghanistan Quran protests:: Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/afghanistan-quran-protests-hundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of.md)
+### [Hundreds of Afghans hold violent protests against the alleged burning of Qurans at the Bagram Airbase north of Kabul. ](/news/2012/02/22/hundreds-of-afghans-hold-violent-protests-against-the-alleged-burning-of-qurans-at-the-bagram-airbase-north-of-kabul.md)
 _Context: Afghanistan's, Bagram Airbase, Kabul, Quran_
 
-### [2011-2012 Syrian uprising:: Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the "Sunday Times" and French photographer Remi Ochlik. ](/news/2012/02/22/2011-2012-syrian-uprising-two-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-t.md)
+### [Two Western journalists are killed in the Syrian city of Homs, American Marie Colvin working for the "Sunday Times" and French photographer Remi Ochlik. ](/news/2012/02/22/two-western-journalists-are-killed-in-the-syrian-city-of-homs-american-marie-colvin-working-for-the-sunday-times-and-french-photographer.md)
 American correspondent Marie Colvin and French photographer Remi Ochlik were killed in the besieged Syrian city of Homs on Wednesday when rockets fired by government forces hit the house they were staying in, opposition activists and witnesses said.
 
 ### [Explosions are reported in the northern Nigerian city of Kano. ](/news/2012/02/22/explosions-are-reported-in-the-northern-nigerian-city-of-kano.md)
 _Context: Kano, Nigeria_
 
-### [Somalian Civil War:: Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/somalian-civil-war-operation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md)
+### [Operation Linda Nchi: The al-Shabaab militant base of Baidoa is captured by Ethiopian and Somali forces. ](/news/2012/02/22/operation-linda-nchi-the-al-shabaab-militant-base-of-baidoa-is-captured-by-ethiopian-and-somali-forces.md)
 Ethiopian and Somali troops capture Baidoa, a strategic stronghold of al-Shabab Islamist militants, as the UN approves extra African Union troops for Somalia.
 
 ### [Thousands of people in the New Zealand city of Christchurch commemorate the first anniversary of the earthquake that killed 185 people last year. ](/news/2012/02/22/thousands-of-people-in-the-new-zealand-city-of-christchurch-commemorate-the-first-anniversary-of-the-earthquake-that-killed-185-people-last.md)

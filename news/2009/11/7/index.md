@@ -25,7 +25,7 @@ Dinosaur footprints found in northwest Nelson have given scientists their first 
 _Context: Russia, Tatar Strait_
 
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: 2009 gubernatorial election and runoff, Northern Mariana Islands, Northern Mariana Islands general election, 2009, legislature, municipal_
+_Context: 2009 gubernatorial election and runoff, Northern Mariana Islands, go to the polls, legislature, municipal_
 
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)
 CARACAS: Venezuela is sending 15,000 soldiers to the border with Colombia, saying the military build-up is needed to increase security, combat drug trafficking and root out paramilitary groups.

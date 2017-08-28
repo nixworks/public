@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Canada Day: Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-day-canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _Context: Canada Day_
+1. [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md) _Context: Canada Day_
 2. [A road collapse at a major intersection near the Canadian Parliament in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because of the smell of gas. Power and water are now shut off. ](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the-canadian-parliament-in-ottawa-ontario-forces-evacuation-of-a-mall-a-hotel-the-shaw-conv.md) _Context: Ottawa_
 3. [At least 6 people are dead in Ottawa after a collision between a Via Rail train and a double-decker OC Transpo bus. ](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.md) _Context: Ottawa_
 4. [Ottawa experiences a 5.2 magnitude earthquake. ](/news/2013/05/17/ottawa-experiences-a-5-2-magnitude-earthquake.md) _Context: Ottawa_

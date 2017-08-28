@@ -63,8 +63,8 @@ Jared L. Loughner rejected charges that he tried to kill Representative Gabriell
 ### [One of the operatives on a boat caught in Israel's Gaza flotilla raid suggests Israel's report into the attack is a "PR exercise". ](/news/2011/01/24/one-of-the-operatives-on-a-boat-caught-in-israel-s-gaza-flotilla-raid-suggests-israel-s-report-into-the-attack-is-a-pr-exercise.md)
 _Context: Gaza flotilla raid, Israel_
 
-### [2010-2011 Tunisian protests:: Tunisian officials negotiate the formation of a supervisory council to oversee the country's interim government, in an effort to appease protesters angry at the continued presence in the cabinet of holdovers linked to deposed President Zine El Abidine Ben Ali-sregime. ](/news/2011/01/24/2010-2011-tunisian-protests-tunisian-officials-negotiate-the-formation-of-a-supervisory-council-to-oversee-the-country-s-interim-governm.md)
-_Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali, demonstrations that toppled his regime_
+### [Tunisian officials negotiate the formation of a supervisory council to oversee the country's interim government, in an effort to appease protesters angry at the continued presence in the cabinet of holdovers linked to deposed President Zine El Abidine Ben Ali'sregime. ](/news/2011/01/24/tunisian-officials-negotiate-the-formation-of-a-supervisory-council-to-oversee-the-country-s-interim-government-in-an-effort-to-appease-pro.md)
+_Context: President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
 
 ### [Hezbollah and its allies win support a majority in parliament to nominate their candidate, Najib Mikati, as Prime Minister of Lebanon, giving them the upper hand in attempts to form a government and sparking accusations of a pro-Iranian coup by loyalists of ousted Prime Minister Saad Hariri. ](/news/2011/01/24/hezbollah-and-its-allies-win-support-a-majority-in-parliament-to-nominate-their-candidate-najib-mikati-as-prime-minister-of-lebanon-givin.md)
 _Context: Hezbollah, Iran, Lebanese lawmakers, Najib Mikati, Prime Minister, Saad Hariri, coup_

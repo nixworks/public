@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [2013 Korean crisis:: South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/2013-korean-crisis-south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that.md) _Context: warships_
+1. [South Korea deploys two warships with Aegis missile-defense systems as a precautionary measure, following reports that North Korea had repositioned intermediate-range ballistic missiles to its east coast a day earlier. ](/news/2013/04/5/south-korea-deploys-two-warships-with-aegis-missile-defense-systems-as-a-precautionary-measure-following-reports-that-north-korea-had-repos.md) _Context: warships_
 2. [ An anti-piracy warship destroys a Yemeni fishing vessel in the Red Sea, killing at least two people. ](/news/2009/05/27/an-anti-piracy-warship-destroys-a-yemeni-fishing-vessel-in-the-red-sea-killing-at-least-two-people.md) _Context: warships_
 3. [ The wreck of the British warship HMS "Victory" is discovered in the English Channel. ](/news/2009/02/1/the-wreck-of-the-british-warship-hms-victory-is-discovered-in-the-english-channel.md) _Context: warships_
 4. [ China's People's Liberation Army Navy begins escorting three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to combat piracy in Somalia. ](/news/2008/12/26/china-s-people-s-liberation-army-navy-begins-escorting-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-c.md) _Context: warships_

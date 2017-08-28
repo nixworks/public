@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Presidency of Donald Trump: Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/presidency-of-donald-trump-numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-regist.md) _Context: California, U.S. state_
+1. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: California, U.S. state_
 2. [A federal judge rules the death penalty in California is unconstitutional. ](/news/2014/07/17/a-federal-judge-rules-the-death-penalty-in-california-is-unconstitutional.md) _Context: California, death penalty_
 3. [California becomes the first U.S. state to forbid "conversion therapy" for minors, effective January 1st, 2013. ](/news/2012/10/1/california-becomes-the-first-u-s-state-to-forbid-conversion-therapy-for-minors-effective-january-1st-2013.md) _Context: California, U.S. state_
 4. [Police arrest 75 people outside Oakland City Hall in the U.S. state of California while clearing the campsite of the Occupy Oakland protest. ](/news/2011/10/25/police-arrest-75-people-outside-oakland-city-hall-in-the-u-s-state-of-california-while-clearing-the-campsite-of-the-occupy-oakland-protest.md) _Context: California, U.S. state_

@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Rwandan presidential election, 2017: Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. ](/news/2017/08/4/rwandan-presidential-election-2017-voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred.md) _Context: Democratic Greens, Rwanda_
+1. [Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. ](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-president-paul-kagame-incumbent-since-2000-referred-to-the-election-as-a-formality-despi.md) _Context: Democratic Greens, Rwanda_
 2. [Voters in Rwanda go to the polls for the presidential election. ](/news/2010/08/9/voters-in-rwanda-go-to-the-polls-for-the-presidential-election.md) _Context: Rwanda, presidential election_
 3. [Rwanda prepares for a presidential election, its second since the 1994 Rwandan Genocide. ](/news/2010/08/8/rwanda-prepares-for-a-presidential-election-its-second-since-the-1994-rwandan-genocide.md) _Context: Rwanda, presidential election_
 4. [Rwanda's incumbent President Paul Kagame wins the country's presidential election with 95% of the vote. ](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.md) _Context: Rwanda, presidential election_

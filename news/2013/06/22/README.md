@@ -1,9 +1,9 @@
 ## [2013-06-22](/news/2013/06/22/index.md)
 
-### [2013 protests in Turkey:: Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/2013-protests-in-turkey-police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-squar.md)
-_Context: Istanbul, Taksim Square, anti-government protests, rubber bullet, tear gas, water cannon_
+### [Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. ](/news/2013/06/22/police-use-water-cannon-tear-gas-and-rubber-bullets-on-thousands-of-civilians-gathered-in-istanbul-s-taksim-square-for-a-memorial-to-the-4.md)
+_Context: Istanbul, Taksim Square, rubber bullet, tear gas, water cannon_
 
-### [Syrian Civil War:: The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/syrian-civil-war-the-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md)
+### [The Friends of Syria Group agrees to give urgent assistance to the rebels. ](/news/2013/06/22/the-friends-of-syria-group-agrees-to-give-urgent-assistance-to-the-rebels.md)
 Western and Arab countries opposed to President Bashar al-Assad agreed at talks in Qatar on Saturday to give urgent military support to Syrian rebels fighting for his overthrow, and to channel it through a Western-backed rebel military command.
 
 ### [Mount Fuji is named a World Heritage Site by UNESCO. ](/news/2013/06/22/mount-fuji-is-named-a-world-heritage-site-by-unesco.md)

@@ -19,7 +19,7 @@ _Context: Norway, Oslo, kills, suicide_
 Tata group-owned Jaguar Land Rover (JLR) is planning to raise up to &pound;1 billion by September to keep the cash-starved company afloat without the British government&rsquo;s help, according to British publication The Guardian.
 
 ### [ Guatemalan President Alvaro Colom is accused of ordering the assassination of lawyer Rodrigo Rosenberg. ](/news/2009/05/11/guatemalan-president-alvaro-colom-is-accused-of-ordering-the-assassination-of-lawyer-rodrigo-rosenberg.md)
-_Context: Alvaro Colom, Guatemala, Guatemalan President, Rodrigo Rosenberg Marzano, assassinated, lawyer_
+_Context: Alvaro Colom, Guatemala, President of Guatemala, Rodrigo Rosenberg Marzano, assassinated, lawyer_
 
 ## [Previous Day...](/news/2009/05/10/index.md)
 

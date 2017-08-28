@@ -1,6 +1,6 @@
 ### [2007-12-1](/news/2007/12/1/index.md)
 
-#   Formateur Yves Leterme resigns. 
+#  Formateur Yves Leterme resigns. 
 
 
 

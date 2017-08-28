@@ -1,6 +1,6 @@
 ### [2007-07-25](/news/2007/07/25/index.md)
 
-#   Italian rider Christian Moreni fails a doping test and is led away for questioning by French police 
+#  Italian rider Christian Moreni fails a doping test and is led away for questioning by French police 
 
 
 

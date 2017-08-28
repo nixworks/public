@@ -1,6 +1,6 @@
 ## [2015-01-20](/news/2015/01/20/index.md)
 
-### [Shia insurgency in Yemen: Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/shia-insurgency-in-yemen-houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust.md)
+### [Houthi rebels take over the residence of the President amidst calls by the rebel leader for negotiations to adjust the country's power structure. ](/news/2015/01/20/houthi-rebels-take-over-the-residence-of-the-president-amidst-calls-by-the-rebel-leader-for-negotiations-to-adjust-the-country-s-power-struc.md)
 The Western-allied president&rsquo;s weakened position is likely to spell trouble for Washington.
 
 ### [The Islamic State of Iraq and the Levant threatens to kill two Japanese citizens unless it receives a ransom of $200 million. ](/news/2015/01/20/the-islamic-state-of-iraq-and-the-levant-threatens-to-kill-two-japanese-citizens-unless-it-receives-a-ransom-of-200-million.md)
@@ -24,10 +24,10 @@ The latest spill may have polluted drinking water in Montana but is not expected
 ### [A gunman shoots a cardiovascular surgeon to death at Harvard Medical School's Brigham and Women's Hospital in Boston, Massachusetts, and then commits suicide. ](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-death-at-harvard-medical-school-s-brigham-and-women-s-hospital-in-boston-massachusetts-and-the.md)
 Still not clear why man shot cardiac surgeon, then himself.
 
-### [Zambian presidential election, 2015: Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/zambian-presidential-election-2015-voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumb.md)
+### [Voters in Zambia go to the polls for a presidential election following the October 2014 death of incumbent President Michael Sata. Defence Minister Edgar Lungu (the Patriotic Front) and Hakainde Hichilema (the United Party for National Development) seek the office. ](/news/2015/01/20/voters-in-zambia-go-to-the-polls-for-a-presidential-election-following-the-october-2014-death-of-incumbent-president-michael-sata-defence-m.md)
 Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a close-fought presidential election was under way to replace Michael Sata, who died in office last year. &quot;A number of polling stations will start tomorrow (Wednesday),&quot; elections director Priscilla Isaacs said la...
 
-### [2015 State of the Union Address: The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/2015-state-of-the-union-address-the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states.md)
+### [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md)
 _Context: 2015 State of the Union Address, Barack Obama, President, State of the Union, United States Congress_
 
 ## [Previous Day...](/news/2015/01/19/index.md)

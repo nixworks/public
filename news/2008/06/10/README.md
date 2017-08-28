@@ -1,6 +1,6 @@
 ## [2008-06-10](/news/2008/06/10/index.md)
 
-### [ Two Kenyan ministers - Roads Minister Kipkalya Kones and Assistant Home Affairs Minister Lorna Laboso - die in a plane crash near Narok in western Kenya while traveling to campaign in by-elections. ](/news/2008/06/10/two-kenyan-ministers-roads-minister-kipkalya-kones-and-assistant-home-affairs-minister-lorna-laboso-die-in-a-plane-crash-near-narok.md)
+### [ Two Kenyan ministers - Roads Minister Kipkalya Kones and Assistant Home Affairs Minister Lorna Laboso - die in a plane crash near Narok in western Kenya while traveling to campaign in by-elections. ](/news/2008/06/10/two-kenyan-ministers-a-roads-minister-kipkalya-kones-and-assistant-home-affairs-minister-lorna-laboso-a-die-in-a-plane-crash-near-narok.md)
 _Context: Kenya, Kipkalya Kones, Lorna Laboso, Narok_
 
 ### [ President of Venezuela Hugo Chavez revokes an intelligence law that opposition groups and the Roman Catholic church claim would have forced citizens to become government informants and asks the National Assembly to develop new legislation. ](/news/2008/06/10/president-of-venezuela-hugo-cha-vez-revokes-an-intelligence-law-that-opposition-groups-and-the-roman-catholic-church-claim-would-have-force.md)

@@ -1,10 +1,10 @@
 ## [2007-11-21](/news/2007/11/21/index.md)
 
-### [ 2007 Pakistani state of emergency:: Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/2007-pakistani-state-of-emergency-opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md)
-_Context: 2007 Pakistani state of emergency, Imran Khan, Pakistan Tehreek-e-Insaf, Punjab, opposition, politician_
+### [ Opposition politician and Pakistan Tehreek-e-Insaf leader Imran Khan is released from prison in Punjab. ](/news/2007/11/21/opposition-politician-and-pakistan-tehreek-e-insaf-leader-imran-khan-is-released-from-prison-in-punjab.md)
+_Context: Imran Khan, Pakistan Tehreek-e-Insaf, Punjab, opposition, politician_
 
-### [ November 2007 strikes in France:: Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/november-2007-strikes-in-france-transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consec.md)
-_Context: government, management, pension reform, public-sector strikes, strike, transport, unionize_
+### [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md)
+_Context: government, management, pension reform, strike, transport, unionize_
 
 ### [ United States Secretary of State Condoleezza Rice says the White House wants to broker a permanent deal between Israel and the Palestinian Authority before President George W. Bush leaves office. ](/news/2007/11/21/united-states-secretary-of-state-condoleezza-rice-says-the-white-house-wants-to-broker-a-permanent-deal-between-israel-and-the-palestinian.md)
 _Context: Condoleezza Rice, George W. Bush, Israel, Palestinian Authority, President, United States, United States Secretary of State, White House_

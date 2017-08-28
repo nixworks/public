@@ -1,0 +1,23 @@
+### [2014-02-21](/news/2014/02/21/index.md)
+
+# 22-year-old Venezuelan beauty queen Genesis Carmona is shot in the head and killed while participating in a student protest against Nicolas Maduro's socialist government. 
+
+
+
+
+### Source:
+
+1. [The New York Times](http://thelede.blogs.nytimes.com/2014/02/20/venezuelan-beauty-queen-is-among-protesters-killed)
+
+### Related:
+
+1. [Armed men dressed as soldiers, apparently led by former National Guard captain Juan Carlos Caguaripano, attack a Venezuelan Army base near Valencia, Carabobo, declaring themselves in rebellion against the National Constituent Assembly and President Nicolas Maduro. At least two people are killed. ](/news/2017/08/6/armed-men-dressed-as-soldiers-apparently-led-by-former-national-guard-captain-juan-carlos-caguaripano-attack-a-venezuelan-army-base-near-v.md) _Context: Nicolas Maduro_
+2. [The new Constituent Assembly votes to remove Attorney General Luisa Ortega Diaz, a prominent critic of President Nicolas Maduro, from her post. The move comes hours after troops from the National Guard surrounded her home in Caracas. ](/news/2017/08/5/the-new-constituent-assembly-votes-to-remove-attorney-general-luisa-ortega-daaz-a-prominent-critic-of-president-nicola-s-maduro-from-her.md) _Context: Nicolas Maduro_
+3. [Shortly after Peruvian President Pedro Pablo Kuczynski called Venezuelan President Nicolas Maduro a "dictator" in response to the Venezuelan constitutional crisis, Peru expels Venezuela's ambassador to Peru to protest Venezuela's recent formation of an all-powerful constituent assembly that has been widely condemned as a power grab by Maduro. ](/news/2017/08/11/shortly-after-peruvian-president-pedro-pablo-kuczynski-called-venezuelan-president-nicola-s-maduro-a-dictator-in-response-to-the-venezuela.md) _Context: Nicolas Maduro_
+4. [Venezuelan President Nicolas Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. ](/news/2017/07/7/venezuelan-president-nicola-s-maduro-says-voting-in-his-upcoming-election-on-july-30-is-mandatory-for-all-2-8-million-state-employees-with.md) _Context: Nicolas Maduro_
+5. [The United States sanctions Venezuelan President Nicolas Maduro over the controversial Constitutional Assembly election which critics say is an attempt to establish a dictatorship. ](/news/2017/07/31/the-united-states-sanctions-venezuelan-president-nicola-s-maduro-over-the-controversial-constitutional-assembly-election-which-critics-say-i.md) _Context: Nicolas Maduro_
+6. [Voters in Venezuela participate in an election for members of a new Constitutional Assembly, devised by President Nicolas Maduro to amend the constitution following a legislative takeover in March. Many Venezuelans question the election's legitimacy, resulting in boycotts and ongoing protests. ](/news/2017/07/30/voters-in-venezuela-participate-in-an-election-for-members-of-a-new-constitutional-assembly-devised-by-president-nicola-s-maduro-to-amend-t.md) _Context: Nicolas Maduro_
+7. [The Supreme Court of Venezuela bars Luisa Ortega Diaz, the chief prosecutor and outspoken critic of president Nicolas Maduro, from leaving the country and freezes her assets. ](/news/2017/06/28/the-supreme-court-of-venezuela-bars-luisa-ortega-daaz-the-chief-prosecutor-and-outspoken-critic-of-president-nicola-s-maduro-from-leaving.md) _Context: Nicolas Maduro_
+8. [Armed civilian groups attack the National Assembly building, after a clash between lawmakers and the Bolivarian National Guard (GNB), leaving various legislators and journalists injured. Opposition legislator and President of the Assembly Julio Borges blames President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-national-assembly-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-leavin.md) _Context: Nicolas Maduro_
+9. [The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. ](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecution-of-prosecutor-general-luisa-ortega-daaz-after-she-voiced-criticism-towards-president-ni.md) _Context: Nicolas Maduro_
+10. [A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. Protesters tear down a statue of former President Hugo Chavez in Rosario de Perija. ](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-amid-ongoing-protests-against-the-government-of-nicola-s-maduro-protesters-tear-down-a-stat.md) _Context: Nicolas Maduro_

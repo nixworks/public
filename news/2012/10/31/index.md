@@ -1,6 +1,6 @@
 ## [2012-10-31](/news/2012/10/31/index.md)
 
-### [Syrian civil war:: A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/syrian-civil-war-a-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md)
+### [A Syrian Air Force commander is assassinated by opposition forces in Damascus. ](/news/2012/10/31/a-syrian-air-force-commander-is-assassinated-by-opposition-forces-in-damascus.md)
 The government announced that Gen. Abdullah Mahmud al-Khalidi was killed by “terrorists,” and a rebel coalition claimed responsibility.
 
 ### [The New York Stock Exchange reopens following a two-day closure due to Hurricane Sandy, with stocks trending lower. ](/news/2012/10/31/the-new-york-stock-exchange-reopens-following-a-two-day-closure-due-to-hurricane-sandy-with-stocks-trending-lower.md)
@@ -18,7 +18,7 @@ Cyclone Nilam today swept across north Tamil Nadu coast near Mahabalipuram leavi
 ### [An electrical fire at a Saudi wedding kills 25 people in a courtyard of a home in the village of Al Badr in the Abqaiq region. ](/news/2012/10/31/an-electrical-fire-at-a-saudi-wedding-kills-25-people-in-a-courtyard-of-a-home-in-the-village-of-al-badr-in-the-abqaiq-region.md)
 Twenty-five people have been killed by an electrical fire at a wedding in the Abqaiq region of eastern Saudi Arabia, officials say.
 
-### [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-greene-in-franklin-township-pennsylva.md)
+### [Former Penn State assistant coach Jerry Sandusky is transferred to State Correctional Institution - Greene in Franklin Township, Pennsylvania, to serve his 30-to-60-year sentence on child sexual abuse charges. ](/news/2012/10/31/former-penn-state-assistant-coach-jerry-sandusky-is-transferred-to-state-correctional-institution-a-greene-in-franklin-township-pennsylva.md)
 _Context: Franklin Township, Jerry Sandusky, Penn State, Penn State child sex abuse scandal, Pennsylvania, State Correctional Institution - Greene, sexual abuse_
 
 ### [Two Iranian warships leave Port Sudan on the Red Sea, after a four-day stay. ](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.md)

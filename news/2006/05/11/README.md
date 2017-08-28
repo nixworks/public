@@ -15,8 +15,6 @@ _Context: AT&T, BellSouth Corporation, NSA call database, National Security Agen
 ### [ Ernie Fletcher, Republican governor of the U.S. state of Kentucky, is indicted on three misdemeanor counts of conspiracy, official misconduct and political discrimination for hiring, promoting, demoting and firing state employees based on political loyalties.](/news/2006/05/11/ernie-fletcher-republican-governor-of-the-u-s-state-of-kentucky-is-indicted-on-three-misdemeanor-counts-of-conspiracy-official-miscondu.md)
 _Context: Ernie Fletcher, Kentucky, Republican_
 
-### [ Results for the state election held in Tamil Nadu, India, on May 8 were announced and the DMK and its allies have captured the power.And the AIADMK becoming a stronger opposition in the history of Tamil Nadu.: The State of West Bengal also made a History. "The Communist Party of India (Marxsist) emerged victorius for another 5 years, making its stand of almost 35 years at a stretch"](/news/2006/05/11/results-for-the-state-election-held-in-tamil-nadu-india-on-may-8-were-announced-and-the-dmk-and-its-allies-have-captured-the-power-and-th.md)
-_Context: Dravida Munnetra Kazhagam, India, May 8, Tamil Nadu, state election_
-
+### [ The State of West Bengal also made a History. "The Communist Party of India (Marxsist) emerged victorius for another 5 years, making its stand of almost 35 years at a stretch"](/news/2006/05/11/the-state-of-west-bengal-also-made-a-history-the-communist-party-of-india-marxsist-emerged-victorius-for-another-5-years-making-its-st.md)
 ## [Previous Day...](/news/2006/05/10/index.md)
 

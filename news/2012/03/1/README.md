@@ -1,6 +1,6 @@
 ## [2012-03-1](/news/2012/03/1/index.md)
 
-### [Syria:: Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syria-syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md)
+### [Syrian rebels leave the neighborhood of Bab Amr, Homs following a bloody 26 day bombardment. ](/news/2012/03/1/syrian-rebels-leave-the-neighborhood-of-bab-amr-homs-following-a-bloody-26-day-bombardment.md)
 Defeated Syrian rebels abandoned their shattered stronghold in Homs, giving way to a 26-day army assault on a city that had become a symbol of the year-long revolt against President Bashar al-Assad.
 
 ### [Clashes break out and tear gas is fired by security forces in northern Azerbaijan after protesters torch the home of a local governor. ](/news/2012/03/1/clashes-break-out-and-tear-gas-is-fired-by-security-forces-in-northern-azerbaijan-after-protesters-torch-the-home-of-a-local-governor.md)
@@ -18,7 +18,7 @@ Euro zone joblessnessrose to a new euro-era high while inflation was largely ste
 ### [Brazil announces the continuation of a "currency war" with the European Union and the United States with the extension of a financial transaction tax on foreign borrowings. ](/news/2012/03/1/brazil-announces-the-continuation-of-a-currency-war-with-the-european-union-and-the-united-states-with-the-extension-of-a-financial-transa.md)
 _Context: Brazil, European Union, United States, financial transaction tax_
 
-### [Australian floods:: Heavy rains in the Australian state of New South Wales leads to evacuations or warnings in the towns of Cooma, Goulburn, Queanbeyan and near the town of Kiama. ](/news/2012/03/1/australian-floods-heavy-rains-in-the-australian-state-of-new-south-wales-leads-to-evacuations-or-warnings-in-the-towns-of-cooma-goulburn.md)
+### [Heavy rains in the Australian state of New South Wales leads to evacuations or warnings in the towns of Cooma, Goulburn, Queanbeyan and near the town of Kiama. ](/news/2012/03/1/heavy-rains-in-the-australian-state-of-new-south-wales-leads-to-evacuations-or-warnings-in-the-towns-of-cooma-goulburn-queanbeyan-and-near.md)
 Residents in parts of Goulburn are being ordered to leave their homes and businesses immediately because of flooding.
 
 ### [The stricken liner "Costa Allegra" arrives at the Seychelles after losing power three days ago due to an engine room fire. ](/news/2012/03/1/the-stricken-liner-costa-allegra-arrives-at-the-seychelles-after-losing-power-three-days-ago-due-to-an-engine-room-fire.md)
@@ -30,7 +30,7 @@ _Context: China, South China Sea, Vietnam, Vietnamese, disputed waters_
 ### [Americans working for non-government organisations who had been facing trial in Egypt are allowed to leave. ](/news/2012/03/1/americans-working-for-non-government-organisations-who-had-been-facing-trial-in-egypt-are-allowed-to-leave.md)
 Two United States-financed nonprofit groups paid about $4 million in bail to fly 11 employees out of reach of Egyptian courts.
 
-### [European Union summit:: European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-summit-european-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-presiden.md)
+### [European Union leaders meet to discuss Europe's economic problems and to reappoint Herman Van Rompuy as the President of the European Council. ](/news/2012/03/1/european-union-leaders-meet-to-discuss-europe-s-economic-problems-and-to-reappoint-herman-van-rompuy-as-the-president-of-the-european-counci.md)
 European Union leaders argued on Thursday over the right balance between budget austerity and reviving lost growth at the first summit for two years in which the euro zone debt crisis did not eclipse all else.
 
 ### [The International Criminal Court issues an arrest warrant for the Sudanese defence minister Abdelrahim Mohamed Hussein. ](/news/2012/03/1/the-international-criminal-court-issues-an-arrest-warrant-for-the-sudanese-defence-minister-abdelrahim-mohamed-hussein.md)

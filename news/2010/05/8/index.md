@@ -3,7 +3,7 @@
 ### [2010 Philippine general election](/news/2010/05/8/2010-philippine-general-election.md)
 _Context: 2010 Philippine general election_
 
-### [United Kingdom general election, 2010:: Eligible voters in the United Kingdom general election, 2010 who are living in New Zealand are the latest to be disenfranchised as anger grows over the disfranchisement of citizens living in the UK who were queuing to vote as polls closed. ](/news/2010/05/8/united-kingdom-general-election-2010-eligible-voters-in-the-united-kingdom-general-election-2010-who-are-living-in-new-zealand-are-the-l.md)
+### [Eligible voters in the United Kingdom general election, 2010 who are living in New Zealand are the latest to be disenfranchised as anger grows over the disfranchisement of citizens living in the UK who were queuing to vote as polls closed. ](/news/2010/05/8/eligible-voters-in-the-united-kingdom-general-election-2010-who-are-living-in-new-zealand-are-the-latest-to-be-disenfranchised-as-anger-gro.md)
 _Context: 2010 general election, New Zealand, disenfranchised_
 
 ### [U.S. Senator Bob Bennett, Republican from Utah, is ousted from his party's primary ballot at the state's Republican convention, meaning he will not have a chance for a fourth term. ](/news/2010/05/8/u-s-senator-bob-bennett-republican-from-utah-is-ousted-from-his-party-s-primary-ballot-at-the-state-s-republican-convention-meaning-he-w.md)
@@ -12,7 +12,7 @@ _Context: Bob Bennett, Republican, United States Senate, Utah, primary election_
 ### [Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. ](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.md)
 _Context: Khatlon, Tajikistan_
 
-### [Icelandic volcanic disruption:: Most flights between Europe and North America face delays today. ](/news/2010/05/8/icelandic-volcanic-disruption-most-flights-between-europe-and-north-america-face-delays-today.md)
+### [Most flights between Europe and North America face delays today. ](/news/2010/05/8/most-flights-between-europe-and-north-america-face-delays-today.md)
 Irish airports remained open today, but there is disruption in some parts of southern Europe.
 
 ### [Hundreds of people take part in a two-hour march, "For Equality", in Vilnius at Lithuania's first gay pride, with police shooting tear gas and arresting at least 12 people who threw stones and fireworks at marchers. ](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.md)

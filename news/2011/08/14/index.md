@@ -15,7 +15,7 @@ _Context: Asmaa Mahfouz, human rights_
 ### [Six people are killed in a stabbing incident on the Channel Island of Jersey ](/news/2011/08/14/six-people-are-killed-in-a-stabbing-incident-on-the-channel-island-of-jersey.md)
 _Context: Channel Islands, Jersey_
 
-### [2011 England riots: A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/2011-england-riots-a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md)
+### [A third person is charged with the murder of three men hit by a car in Birmingham. ](/news/2011/08/14/a-third-person-is-charged-with-the-murder-of-three-men-hit-by-a-car-in-birmingham.md)
 A third person is charged with murdering three men who were hit by a car in Birmingham.
 
 ### [Former Governor of Minnesota Tim Pawlenty announces the end of his campaign for the Republican Party nomination in the 2012 United States presidential election following a poor result in the Ames Straw Poll. ](/news/2011/08/14/former-governor-of-minnesota-tim-pawlenty-announces-the-end-of-his-campaign-for-the-republican-party-nomination-in-the-2012-united-states-pr.md)

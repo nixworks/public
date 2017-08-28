@@ -3,7 +3,7 @@
 ### [ Conflict in Iraq: According to U.S. and Iraqi government officials, US Air strikes near the border with Syria have left 56 civilians and over seven insurgents dead. ](/news/2005/08/30/conflict-in-iraq-according-to-u-s-and-iraqi-government-officials-us-air-strikes-near-the-border-with-syria-have-left-56-civilians-and-ov.md)
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Syria, United States, air strike, civilian_
 
-### [ In the aftermath of "'Hurricane Katrina"':: The death toll in Biloxi, Mississippi, may be as high as 80. Mayor A.J. Holloway declares that Katrina "is our tsunami", comparing the catastrophe to the 2004 Indian Ocean Earthquake and Tsunami. ](/news/2005/08/30/in-the-aftermath-of-hurricane-katrina-the-death-toll-in-biloxi-mississippi-may-be-as-high-as-80-mayor-a-j-holloway-declares-that.md)
+### [ The death toll in Biloxi, Mississippi, may be as high as 80. Mayor A.J. Holloway declares that Katrina "is our tsunami", comparing the catastrophe to the 2004 Indian Ocean Earthquake and Tsunami. ](/news/2005/08/30/the-death-toll-in-biloxi-mississippi-may-be-as-high-as-80-mayor-a-j-holloway-declares-that-katrina-is-our-tsunami-comparing-the-cata.md)
 Miss. governor estimates 80 could be dead in one county alone; two levees break in New Orleans, flooding the city.
 
 ### [ Former Prime Minister of Israel, Binyamin Netanyahu, has declared his intention to challenge Ariel Sharon for leadership of the Likud party. ](/news/2005/08/30/former-prime-minister-of-israel-binyamin-netanyahu-has-declared-his-intention-to-challenge-ariel-sharon-for-leadership-of-the-likud-party.md)

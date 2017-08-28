@@ -1,6 +1,6 @@
 ## [2005-11-16](/news/2005/11/16/index.md)
 
-### [ 1 person is killed, and 15 are injured in Hakk-ri, Hakkari Province, Turkey during fighting between Turkish police and Kurdish PKK rebels. ](/news/2005/11/16/1-person-is-killed-and-15-are-injured-in-hakk-ri-hakkari-province-turkey-during-fighting-between-turkish-police-and-kurdish-pkk-rebels.md)
+### [ 1 person is killed, and 15 are injured in Hakkri, Hakkari Province, Turkey during fighting between Turkish police and Kurdish PKK rebels. ](/news/2005/11/16/1-person-is-killed-and-15-are-injured-in-hakkari-hakkari-province-turkey-during-fighting-between-turkish-police-and-kurdish-pkk-rebels.md)
 _Context: Hakkari Province, Hakkri, Kurdish, Kurdistan Workers' Party, Turkey_
 
 ### [ In the 2005 Burkina Faso presidential elections incumbent Blaise Compaor celebrates victory several days ahead of the release of the voting results. International watchdogs and opposition officials allege widespread vote rigging. ](/news/2005/11/16/in-the-2005-burkina-faso-presidential-elections-incumbent-blaise-compaore-celebrates-victory-several-days-ahead-of-the-release-of-the-votin.md)

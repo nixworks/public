@@ -9,7 +9,7 @@ _Context: London, Notting Hill Carnival, last year's riots in London, street fes
 ### [The 2011 MTV Video Music Awards conclude in Los Angeles with Katy Perry winning Video of the Year for Firework. ](/news/2011/08/28/the-2011-mtv-video-music-awards-conclude-in-los-angeles-with-katy-perry-winning-video-of-the-year-for-firework.md)
 _Context: 2011 MTV Video Music Awards, Firework, Katy Perry, Los Angeles, Video of the Year_
 
-### [Hurricane Irene:: A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/hurricane-irene-a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md)
+### [A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md)
 President Obama issued a state of emergency for Maryland on Saturday as the state&#039;s coast began to experience the first of Hurricane Irene&#039;s rain bands and deadly winds.
 
 ### [Typhoon Nanmadol kills eight people in the Philippines and is headed for Taiwan. ](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.md)

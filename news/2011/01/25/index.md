@@ -1,6 +1,6 @@
 ## [2011-01-25](/news/2011/01/25/index.md)
 
-### [War in North-West Pakistan:: At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/war-in-north-west-pakistan-at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an.md)
+### [At least 10 people are killed near a Shia Muslim procession in Lahore, while two other people are killed in an attack in Karachi. ](/news/2011/01/25/at-least-10-people-are-killed-near-a-shia-muslim-procession-in-lahore-while-two-other-people-are-killed-in-an-attack-in-karachi.md)
 At least 10 people killed near Shia Muslim procession in Pakistan city, while four others die in attack in Karachi.
 
 ### [At least three people are killed in a clash between the Sudanese army and rebels in Darfur. ](/news/2011/01/25/at-least-three-people-are-killed-in-a-clash-between-the-sudanese-army-and-rebels-in-darfur.md)
@@ -46,7 +46,7 @@ _Context: Jeffrey Feltman, Zine El Abidine Ben Ali, demonstrations that toppled 
 ### [The head of the African Union travels to Ivory Coast to visit Laurent Gbagbo and Alassane Ouattara who both claim to be the country's president. ](/news/2011/01/25/the-head-of-the-african-union-travels-to-ivory-coast-to-visit-laurent-gbagbo-and-alassane-ouattara-who-both-claim-to-be-the-country-s-presid.md)
 _Context: African Union, Alassane Ouattara, Ivory Coast, Laurent Gbagbo_
 
-### [The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the -primary forum- for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. ](/news/2011/01/25/the-united-states-describes-the-israeli-commission-of-inquiry-into-the-may-2010-gaza-flotilla-raid-as-an-independent-report-credible-and-i.md)
+### [The United States describes the Israeli commission of inquiry into the May 2010 Gaza flotilla raid as "an independent report, credible and impartial and transparent", but says the "primary forum" for examining the event was the international committee operating under the auspices of UN Secretary-General Ban Ki-moon. ](/news/2011/01/25/the-united-states-describes-the-israeli-commission-of-inquiry-into-the-may-2010-gaza-flotilla-raid-as-an-independent-report-credible-and-i.md)
 _Context: Ban Ki-moon, Gaza flotilla raid, Israel's report, UN Secretary General, United States State Department_
 
 ### [A U.S. judge sentences Ahmed Ghailani, the first Guantanamo detainee to have a civilian trial in America, to life imprisonment for conspiracy to destroy government buildings. He was found "not guilty" of 285 other charges filed against him, including 200 counts of murder and dozens of other charges. ](/news/2011/01/25/a-u-s-judge-sentences-ahmed-ghailani-the-first-guantanamo-detainee-to-have-a-civilian-trial-in-america-to-life-imprisonment-for-conspirac.md)
@@ -61,14 +61,14 @@ _Context: Albania, Edi Rama, international community_
 ### [Sarath Fonseka, Sri Lanka's jailed former army chief, loses an appeal to retain his parliamentary seat. ](/news/2011/01/25/sarath-fonseka-sri-lanka-s-jailed-former-army-chief-loses-an-appeal-to-retain-his-parliamentary-seat.md)
 A court martial is part of the legal system, and a conviction by it will attract disqualification like any other court, the Sri Lankan Supreme Court ruled on Tuesday, upholding the disqualification fr
 
-### [2011 Egyptian protests:: Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/2011-egyptian-protests-tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md)
+### [Tens of thousands of people protest against the government in Egypt on a "day of revolt". ](/news/2011/01/25/tens-of-thousands-of-people-protest-against-the-government-in-egypt-on-a-day-of-revolt.md)
 Police fire tear gas at anti-government demonstrators in Cairo as thousands call for ouster of president Hosni Mubarak.
 
-### [2010-2011 Tunisian protests:: Thousands of protesters defy curfew and march in Tunis, camping outside the government's main office complex and demanding that the Prime Minister and the old guard that served under former President Zine El Abidine Ben Ali, step down. ](/news/2011/01/25/2010-2011-tunisian-protests-thousands-of-protesters-defy-curfew-and-march-in-tunis-camping-outside-the-government-s-main-office-complex.md)
-_Context: President of Tunisia, Prime Minister, Tunis, Zine El Abidine Ben Ali, demonstrations that toppled his regime_
+### [Thousands of protesters defy curfew and march in Tunis, camping outside the government's main office complex and demanding that the Prime Minister and the old guard that served under former President Zine El Abidine Ben Ali, step down. ](/news/2011/01/25/thousands-of-protesters-defy-curfew-and-march-in-tunis-camping-outside-the-government-s-main-office-complex-and-demanding-that-the-prime-mi.md)
+_Context: President of Tunisia, Prime Minister, Tunis, Zine El Abidine Ben Ali_
 
-### [Political crisis in Lebanon:: Supporters of Lebanese caretaker Prime Minister Saad Hariri call for a day of protests following Hezbollah's support for Najib Mikati as Prime Minister a new coalition government to replace that of Hariri, and igniting the possibility of clashes in the latest development in the crisis over a United Nations-backed tribunal investigating the 2005 assassination of former Prime Minister Rafic Hariri, Saad Hariri's father. ](/news/2011/01/25/political-crisis-in-lebanon-supporters-of-lebanese-caretaker-prime-minister-saad-hariri-call-for-a-day-of-protests-following-hezbollah-s-s.md)
-_Context: Hariri's assassination, Hezbollah, Lebanon, Najib Mikati, Prime Minister, Saad Hariri, Special Tribunal for Lebanon_
+### [Supporters of Lebanese caretaker Prime Minister Saad Hariri call for a day of protests following Hezbollah's support for Najib Mikati as Prime Minister a new coalition government to replace that of Hariri, and igniting the possibility of clashes in the latest development in the crisis over a United Nations-backed tribunal investigating the 2005 assassination of former Prime Minister Rafic Hariri, Saad Hariri's father. ](/news/2011/01/25/supporters-of-lebanese-caretaker-prime-minister-saad-hariri-call-for-a-day-of-protests-following-hezbollah-s-support-for-najib-mikati-as-pri.md)
+_Context: Hariri's assassination, Hezbollah, Najib Mikati, Prime Minister, Saad Hariri, Special Tribunal for Lebanon_
 
 ## [Previous Day...](/news/2011/01/24/index.md)
 

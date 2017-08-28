@@ -1,12 +1,12 @@
 ## [2015-05-3](/news/2015/05/3/index.md)
 
-### [Yemeni Civil War (2015): Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemeni-civil-war-2015-yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-missio.md)
+### [Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-mission.md)
 _Context: Aden, Yemen, Yemeni Civil War (2015)_
 
-### [Moro insurgency in the Philippines: Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/moro-insurgency-in-the-philippines-fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md)
+### [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md)
 Usman is the other target in the botched police Special Action Force (SAF) operation in Mamasapano, Maguindanao on January 25
 
-### [April 2015 Nepal earthquake: Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/april-2015-nepal-earthquake-kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stan.md)
+### [Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stand-the-strain.md)
 The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with a further 14,123 people injured.
 
 ### [At least eighteen people are killed in a traffic accident in Afghanistan's Badghis Province. ](/news/2015/05/3/at-least-eighteen-people-are-killed-in-a-traffic-accident-in-afghanistan-s-badghis-province.md)
@@ -24,7 +24,7 @@ Two suspects opened fire outside the Curtis Culwell Center during a Muhammad art
 ### [Madison, Wisconsin, becomes one of the first cities in the United States to make discrimination against atheists illegal. ](/news/2015/05/3/madison-wisconsin-becomes-one-of-the-first-cities-in-the-united-states-to-make-discrimination-against-atheists-illegal.md)
 _Context: Madison, Wisconsin, discrimination against atheists_
 
-### [United States presidential election, 2016: Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/united-states-presidential-election-2016-retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-repu.md)
+### [Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-annou.md)
 _Context: 2016 U.S. presidential election, Ben Carson, Detroit, Florida, Republican, neurosurgeon_
 
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)

@@ -1,12 +1,12 @@
 ## [2014-07-15](/news/2014/07/15/index.md)
 
-### [Operation Protective Edge:: A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/operation-protective-edge-a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md)
+### [A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. ](/news/2014/07/15/a-ceasefire-deal-brokered-by-egypt-is-accepted-by-israel-but-rejected-by-hamas.md)
 Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace deal, saying it had not been consulted
 
-### [Taliban insurgency:: A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/taliban-insurgency-a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring.md)
-_Context: Afghanistan's, Paktika, Taliban insurgency, car bomb_
+### [A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring-scores-more-in-one-o.md)
+_Context: Afghanistan's, Paktika, car bomb_
 
-### [2014 pro-Russian unrest in Ukraine:: An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/2014-pro-russian-unrest-in-ukraine-an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md)
+### [An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md)
 Attack adds to the civilian death toll from fighting between government forces and pro-Russian insurgents.
 
 ### [American chemical company Albemarle Corporation announces plans to buy out competitor Rockwood Holdings in a $6.2 billion cash and stock deal. ](/news/2014/07/15/american-chemical-company-albemarle-corporation-announces-plans-to-buy-out-competitor-rockwood-holdings-in-a-6-2-billion-cash-and-stock-dea.md)
@@ -18,7 +18,7 @@ Plans for a cap on interest rates on payday loans from January 2015 are announce
 ### [Nineteen immigrants drown as a boat carrying 80 people capsizes off the coast of Malaysia's Tanjung Piai cape. ](/news/2014/07/15/nineteen-immigrants-drown-as-a-boat-carrying-80-people-capsizes-off-the-coast-of-malaysia-s-tanjung-piai-cape.md)
 _Context: Malaysia, Tanjung Piai_
 
-### [2014 Pacific typhoon season:: The Philippines braces for the impact of Typhoon Rammasun (Glenda) which is expected to pass over the capital Manila causing flooding. Thousands have fled to evacuation centres and ports and airports in the country are closed ](/news/2014/07/15/2014-pacific-typhoon-season-the-philippines-braces-for-the-impact-of-typhoon-rammasun-glenda-which-is-expected-to-pass-over-the-capital.md)
+### [The Philippines braces for the impact of Typhoon Rammasun (Glenda) which is expected to pass over the capital Manila causing flooding. Thousands have fled to evacuation centres and ports and airports in the country are closed ](/news/2014/07/15/the-philippines-braces-for-the-impact-of-typhoon-rammasun-glenda-which-is-expected-to-pass-over-the-capital-manila-causing-flooding-thous.md)
 Thousands are preparing to evacuate Philippines coastal areas as Typhoon Rammasun approaches.
 
 ### [A train derails on the Moscow Metro, killing at least 20 and injuring more than 100 others, 50 of whom seriously. ](/news/2014/07/15/a-train-derails-on-the-moscow-metro-killing-at-least-20-and-injuring-more-than-100-others-50-of-whom-seriously.md)

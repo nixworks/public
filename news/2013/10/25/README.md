@@ -1,6 +1,6 @@
 ## [2013-10-25](/news/2013/10/25/index.md)
 
-### [Islamist insurgency in Nigeria:: Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/islamist-insurgency-in-nigeria-military-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-as.md)
+### [Military officials report that 74 members of Boko Haram have been killed in a combined ground and aerial assault on militant camps in northeastern Borno State. ](/news/2013/10/25/military-officials-report-that-74-members-of-boko-haram-have-been-killed-in-a-combined-ground-and-aerial-assault-on-militant-camps-in-northe.md)
 Nigerian troops killed 74 members of Boko Haram in an air and ground assault, the military said on Friday, a further sign of stepped up operations against the Islamist sect.
 
 ### [Japan's emergency agencies declare a tsunami warning after an earthquake of magnitude 7.3 strikes off the east coast. ](/news/2013/10/25/japan-s-emergency-agencies-declare-a-tsunami-warning-after-an-earthquake-of-magnitude-7-3-strikes-off-the-east-coast.md)

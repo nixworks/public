@@ -3,7 +3,7 @@
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
 _Context: Basilan island, Moro National Liberation Front, Philippines_
 
-### [War in Somalia (2009-present):: A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/war-in-somalia-2009-present-a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
+### [A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
 MOGADISHU, July 12 - At least three people were killed Friday when a car bomb targeting a convoy of African Union troops exploded on a major street in the - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
 ### [Swedish high-quality crystal glassware producer Orrefors closes down. ](/news/2013/07/12/swedish-high-quality-crystal-glassware-producer-orrefors-closes-down.md)
@@ -22,7 +22,7 @@ _Context: Australian, Christmas Island, asylum seeker_
 An Intercity train to Limoges derailed today around 5pm in the municipality of Brétigny-sur-Orge, French newspaper Le Parisien is reporting. Emergency services are attending. Eight people are thought to be dead and many of the wounded are still stuck in the trains. 
 
 ### [A third person, a critically injured unidentified girl, dies at San Francisco General Hospital of injuries she sustained as a result of the Saturday, July 6, 2013 crash-landing of Asiana Airlines Flight 214, a Boeing 777 (180 were injured, 16 remain hospitalized, including two critical adults; autopsy results will take about 3 weeks). ](/news/2013/07/12/a-third-person-a-critically-injured-unidentified-girl-dies-at-san-francisco-general-hospital-of-injuries-she-sustained-as-a-result-of-the.md)
-_Context: 2013 Asiana Airlines accident, Boeing 777, San Francisco General Hospital_
+_Context: Asiana Airlines Flight 214, Boeing 777, San Francisco General Hospital_
 
 ### [An empty Ethiopian Airlines Boeing 787 Dreamliner catches fire eight hours after landing at London Heathrow Airport, closing runways for an hour. Another Boeing 787 Dreamliner (Thomson Airways-owned) was forced to return to Britain's Manchester Airport after an unspecified mechanical problem. ](/news/2013/07/12/an-empty-ethiopian-airlines-boeing-787-dreamliner-catches-fire-eight-hours-after-landing-at-london-heathrow-airport-closing-runways-for-an.md)
 _Context: Boeing 787 Dreamliner, Ethiopian Airlines, London Heathrow Airport, Manchester, Thomson Airways_

@@ -9,11 +9,11 @@ _Context: Argentina, Christian Von Wernich, Dirty War, Roman Catholic, kidnapped
 ### [ The United States Supreme Court dismisses the case of the German citizen Khalid El-Masri who accuses the CIA of abducting him to a secret prison in Afghanistan where he claims he was tortured. The US government had argued that a public trial would reveal state secrets. ](/news/2007/10/9/the-united-states-supreme-court-dismisses-the-case-of-the-german-citizen-khalid-el-masri-who-accuses-the-cia-of-abducting-him-to-a-secret-p.md)
 _Context: Afghanistan's, CIA, Germany, Khalid El-Masri, U.S. Supreme Court_
 
-### [ Pakistan - Battle of Mir Ali:: 20 people are injured in Peshawar, Pakistan, when a bomb rips through a music shop.date=December 2007: At least sixty people are killed as Pakistani aircraft bomb a bazaar in Epi village in North Waziristan. ](/news/2007/10/9/pakistan-battle-of-mir-ali-20-people-are-injured-in-peshawar-pakistan-when-a-bomb-rips-through-a-music-shop-date-december-2007-at-le.md)
-_Context: Battle of Mir Ali, Epi village, North Waziristan, Pakistan, Peshawar, bazaar_
+### [ 20 people are injured in Peshawar, Pakistan, when a bomb rips through a music shop.date=December 2007 At least sixty people are killed as Pakistani aircraft bomb a bazaar in Epi village in North Waziristan. ](/news/2007/10/9/20-people-are-injured-in-peshawar-pakistan-when-a-bomb-rips-through-a-music-shop-date-december-2007-at-least-sixty-people-are-killed-as-p.md)
+_Context: Epi village, North Waziristan, Pakistan, Peshawar, bazaar_
 
-### [ War in Iraq:: Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/war-in-iraq-employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md)
-_Context: Australia, Baghdad, Iraq, Unity Resources Group, War in Iraq_
+### [ Employees of Australian-owned security firm Unity Resources Group open fire on a car in Baghdad killing two Iraqi women.](/news/2007/10/9/employees-of-australian-owned-security-firm-unity-resources-group-open-fire-on-a-car-in-baghdad-killing-two-iraqi-women.md)
+_Context: Australia, Baghdad, Iraq, Unity Resources Group_
 
 ### [ Japan extends sanctions against North Korea, citing a lack of progress in a dispute about the abduction of Japanese nationals. ](/news/2007/10/9/japan-extends-sanctions-against-north-korea-citing-a-lack-of-progress-in-a-dispute-about-the-abduction-of-japanese-nationals.md)
 _Context: Japan, North Korea_

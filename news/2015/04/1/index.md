@@ -12,7 +12,7 @@ _Context: ''Dalniy Vostok'', Kamchatka Peninsula, Russia, sinks_
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
 _Context: California, Jerry Brown, worst drought in California history_
 
-### [Turkish police shoot two attackers outside Istanbul-s central police headquarters, killing one of them. The exchange of fire wounds two officers. ](/news/2015/04/1/turkish-police-shoot-two-attackers-outside-istanbul-s-central-police-headquarters-killing-one-of-them-the-exchange-of-fire-wounds-two-of.md)
+### [Turkish police shoot two attackers outside Istanbul's central police headquarters, killing one of them. The exchange of fire wounds two officers. ](/news/2015/04/1/turkish-police-shoot-two-attackers-outside-istanbulas-central-police-headquarters-killing-one-of-them-the-exchange-of-fire-wounds-two-of.md)
 Attack comes day after Turkish prosecutor taken hostage dies in police shootout alongside hostage takers
 
 ### [An apparent murder and suicide leaves four dead in Tulsa, Oklahoma. ](/news/2015/04/1/an-apparent-murder-and-suicide-leaves-four-dead-in-tulsa-oklahoma.md)

@@ -1,9 +1,9 @@
 ## [2013-09-5](/news/2013/09/5/index.md)
 
-### [Syrian civil war:: According to Turkey, almost all G20 summit leaders support operations against Syria. ](/news/2013/09/5/syrian-civil-war-according-to-turkey-almost-all-g20-summit-leaders-support-operations-against-syria.md)
+### [According to Turkey, almost all G20 summit leaders support operations against Syria. ](/news/2013/09/5/according-to-turkey-almost-all-g20-summit-leaders-support-operations-against-syria.md)
 Turkish Prime Minister Tayyip Erdogan said on Friday almost all leaders at the G20 summit accepted the need for intervention in Syria and repeated that a small coalition could be formed for a joint operation even outside the auspices of the U.N.
 
-### [Political violence in Egypt (July 2013-present):: Egyptian interior minister Mohamed Ibrahim Moustafa survives an assassination attempt as his convoy traveled through the Nasr City district in Cairo. ](/news/2013/09/5/political-violence-in-egypt-july-2013-present-egyptian-interior-minister-mohamed-ibrahim-moustafa-survives-an-assassination-attempt-as.md)
+### [Egyptian interior minister Mohamed Ibrahim Moustafa survives an assassination attempt as his convoy traveled through the Nasr City district in Cairo. ](/news/2013/09/5/egyptian-interior-minister-mohamed-ibrahim-moustafa-survives-an-assassination-attempt-as-his-convoy-traveled-through-the-nasr-city-district.md)
 Mohammed Ibrahim, who is charge of the country&#x27;s police force, targeted as his convoy travelled through Nasr City in Cairo
 
 ### [Bengali writer and Social Worker Sushmita Banerjee, whose book about her escape from Taliban-ruled Afghanistan was made into the Bollywood movie "Escape from Taliban", is shot by suspected Taliban militants. ](/news/2013/09/5/bengali-writer-and-social-worker-sushmita-banerjee-whose-book-about-her-escape-from-taliban-ruled-afghanistan-was-made-into-the-bollywood-m.md)
@@ -18,7 +18,7 @@ Sixty people are injured as more than 130 vehicles are involved in a series of c
 ### [A hunter is blamed for starting the Rim Fire near Yosemite National Park. ](/news/2013/09/5/a-hunter-is-blamed-for-starting-the-rim-fire-near-yosemite-national-park.md)
 _Context: Rim Fire, Yosemite National Park, hunting_
 
-### [Rochus Misch, the last witness to Adolf Hitler-s suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitler-s-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md)
+### [Rochus Misch, the last witness to Adolf Hitler's suicide in the "Fuhrerbunker" dies at the age of 96. ](/news/2013/09/5/rochus-misch-the-last-witness-to-adolf-hitleras-suicide-in-the-fa1-4hrerbunker-dies-at-the-age-of-96.md)
 _Context: Adolf Hitler, Fuhrerbunker, Rochus Misch_
 
 ### [The new Iranian Foreign Minister Mohammad-Javad Zarif says Iran doesn't deny the Holocaust. "The man who was perceived to be denying it is now gone. Happy New Year," he adds. ](/news/2013/09/5/the-new-iranian-foreign-minister-mohammad-javad-zarif-says-iran-doesn-t-deny-the-holocaust-the-man-who-was-perceived-to-be-denying-it-is-n.md)

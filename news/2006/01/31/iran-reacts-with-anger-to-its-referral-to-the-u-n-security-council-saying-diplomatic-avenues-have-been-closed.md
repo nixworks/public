@@ -1,6 +1,6 @@
 ### [2006-01-31](/news/2006/01/31/index.md)
 
-#   Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. 
+#  Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. 
 
 
 
@@ -20,5 +20,5 @@
 6. [ Iran resumes its nuclear programme at its uranium facility near the city of Isfahan. ](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.md) _Context: Iran, Iran's nuclear program_
 7. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran_
 8. [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md) _Context: Iran_
-9. [The United States Navy says the USS ''Thunderbolt'' fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: Iran_
-10. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and  North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-u.md) _Context: Iran_
+9. [The United States Navy says the USS "Thunderbolt" fired a warning shot at an Iranian patrol boat after it came within 150 yards of the U.S. ship. ](/news/2017/07/25/the-united-states-navy-says-the-uss-thunderbolt-fired-a-warning-shot-at-an-iranian-patrol-boat-after-it-came-within-150-yards-of-the-u-s.md) _Context: Iran_
+10. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: Iran_

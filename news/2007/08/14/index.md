@@ -45,7 +45,7 @@ A Belgian man and woman kidnapped in south-eastern Iran at the weekend have been
 ### [ A woman dies and two people are seriously ill from "E. coli" in the Paisley area of Scotland. The Morrisons supermarket chain withdraws cold sliced meats from two of its stores in Paisley. ](/news/2007/08/14/a-woman-dies-and-two-people-are-seriously-ill-from-e-coli-in-the-paisley-area-of-scotland-the-morrisons-supermarket-chain-withdraws-col.md)
 _Context: E. coli, Morrisons, Paisley, Scotland, supermarket chain_
 
-### [ War in Iraq:: 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/war-in-iraq-2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide.md)
+### [ 2007 Kahtaniya bombings: At least 250 people die in bombings in areas near the town of Kahtaniya in northern Iraq as suicide bombers drive fuel tankers into residential compounds of the Yazidi sect. ](/news/2007/08/14/2007-kahtaniya-bombings-at-least-250-people-die-in-bombings-in-areas-near-the-town-of-kahtaniya-in-northern-iraq-as-suicide-bombers-drive.md)
 At least 175 people were killed when three suicide bombers driving fuel tankers attacked residential compounds home to the ancient minority Yazidi sect in northern Iraq on Tuesday, an Iraqi army captain said.
 
 ### [ Bingu wa Mutharika, the President of Malawi, threatens to "close down" the National Assembly of Malawi unless it starts discussing the budget. ](/news/2007/08/14/bingu-wa-mutharika-the-president-of-malawi-threatens-to-close-down-the-national-assembly-of-malawi-unless-it-starts-discussing-the-budg.md)

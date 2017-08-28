@@ -1,6 +1,6 @@
 ## [2013-05-19](/news/2013/05/19/index.md)
 
-### [Syrian civil war:: Heavy fighting is reported in Qusair, Syria, as the Syrian army launches a major counter-offensive against rebel forces. ](/news/2013/05/19/syrian-civil-war-heavy-fighting-is-reported-in-qusair-syria-as-the-syrian-army-launches-a-major-counter-offensive-against-rebel-forces.md)
+### [Heavy fighting is reported in Qusair, Syria, as the Syrian army launches a major counter-offensive against rebel forces. ](/news/2013/05/19/heavy-fighting-is-reported-in-qusair-syria-as-the-syrian-army-launches-a-major-counter-offensive-against-rebel-forces.md)
 Fierce fighting is reported in the strategic Syrian town of Qusair, as rebels and government forces backed by Hezbollah militants fight for control.
 
 ### [Taylor Swift wins eight awards, including top album and top artist, at the Billboard Music Awards. ](/news/2013/05/19/taylor-swift-wins-eight-awards-including-top-album-and-top-artist-at-the-billboard-music-awards.md)

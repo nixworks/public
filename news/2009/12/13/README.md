@@ -6,7 +6,7 @@ Key parts of Tony Blair&#039;s evidence to the Chilcot inquiry into the Iraq War
 ### [ British Prime Minister Gordon Brown makes an unannounced visit to Afghanistan to support British forces deployed as part of the International Security Assistance Force and to hold talks with Afghan President Hamid Karzai. ](/news/2009/12/13/british-prime-minister-gordon-brown-makes-an-unannounced-visit-to-afghanistan-to-support-british-forces-deployed-as-part-of-the-internation.md)
 _Context: Afghanistan President, Afghanistan's, British military personnel, Gordon Brown, Hamid Karzai, International Security Assistance Force, Prime Minister_
 
-### [2009 United Nations Climate Change Conference: Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/2009-united-nations-climate-change-conference-danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demo.md)
+### [ Danish police arrest 200 protesters heading for Copenhagen harbour, on the second day of demonstrations at the United Nations Climate Change Conference. ](/news/2009/12/13/danish-police-arrest-200-protesters-heading-for-copenhagen-harbour-on-the-second-day-of-demonstrations-at-the-united-nations-climate-chang.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Iran's Supreme Leader Ali Khamenei accuses the pro-reform opposition of breaking the law after state television allegedly showed opposition supporters destroying images of founder Ruhollah Khomeini. ](/news/2009/12/13/iran-s-supreme-leader-ali-khamenei-accuses-the-pro-reform-opposition-of-breaking-the-law-after-state-television-allegedly-showed-opposition.md)
@@ -19,9 +19,9 @@ _Context: Cheryl Cole, FremantleMedia, ITV, Joe McElderry, Simon Cowell, Syco TV
 _Context: Chile, parliamentary, presidential election_
 
 ### [ Over 100 suspected Islamic militants break into a prison in the Philippine city of Isabela, freeing at least 31 inmates and killing two, including a prison guard. ](/news/2009/12/13/over-100-suspected-islamic-militants-break-into-a-prison-in-the-philippine-city-of-isabela-freeing-at-least-31-inmates-and-killing-two-in.md)
-_Context: Isabela City, Islam, Philippines_
+_Context: Isabela City, Muslims, Philippines_
 
-### [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstan-china-oil-pipeline-connecting-central-asia-to-china.md)
+### [ Chinese President Hu Jintao opens the Kazakhstan-China oil pipeline connecting central Asia to China. ](/news/2009/12/13/chinese-president-hu-jintao-opens-the-kazakhstanachina-oil-pipeline-connecting-central-asia-to-china.md)
 _Context: China, Hu Jintao, Kazakhstan-China oil pipeline_
 
 ### [ The Sarejevo-Belgrade rail link resumes between Bosnia and Herzegovina and Serbia after 18 years. ](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.md)

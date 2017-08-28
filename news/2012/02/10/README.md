@@ -1,6 +1,6 @@
 ## [2012-02-10](/news/2012/02/10/index.md)
 
-### [Arab Spring:: 2011-2012 Syrian uprising:: The Syrian Army offensive in Homs continues with further heavy fighting expected over the weekend. ](/news/2012/02/10/arab-spring-2011-2012-syrian-uprising-the-syrian-army-offensive-in-homs-continues-with-further-heavy-fighting-expected-over-the-weekend.md)
+### [2011-2012 Syrian uprising:The Syrian Army offensive in Homs continues with further heavy fighting expected over the weekend. ](/news/2012/02/10/2011-2012-syrian-uprising-the-syrian-army-offensive-in-homs-continues-with-further-heavy-fighting-expected-over-the-weekend.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [People in Greece protest against the latest austerity measures imposed on their country, as more senior politicians resign. ](/news/2012/02/10/people-in-greece-protest-against-the-latest-austerity-measures-imposed-on-their-country-as-more-senior-politicians-resign.md)

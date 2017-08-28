@@ -15,7 +15,7 @@ Thousands of people have taken part in a silent march in solidarity with survivo
 ### [ Setanta Sports announce it has stopped taking on new subscriptions in order to "secure the future of the business". ](/news/2009/06/10/setanta-sports-announce-it-has-stopped-taking-on-new-subscriptions-in-order-to-secure-the-future-of-the-business.md)
 The fate of Setanta hangs in the balance, as the stricken broadcaster tries to stave off administration.
 
-### [ Air France Flight 447: French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/air-france-flight-447-french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md)
+### [ French authorities say two passengers on board Air France Flight 447 were linked to Islamic terrorism. ](/news/2009/06/10/french-authorities-say-two-passengers-on-board-air-france-flight-447-were-linked-to-islamic-terrorism.md)
 Search crews have now recovered 41 bodies from an area in the Atlantic where an Air France passenger plane went down over a week ago.
 
 ### [ A car bomb exploded in a crowded market in the town of Bathaa in the southern Iraqi province of Dhiqar, killing up to 35 persons and injuring dozens of others. ](/news/2009/06/10/a-car-bomb-exploded-in-a-crowded-market-in-the-town-of-bathaa-in-the-southern-iraqi-province-of-dhiqar-killing-up-to-35-persons-and-injuri.md)

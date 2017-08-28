@@ -57,8 +57,8 @@ _Context: Malian Army, Second Tuareg Rebellion, Tuareg_
 ### [ New gambling legislation comes into effect in the United Kingdom, relaxing advertising restrictions and extending opening hours. ](/news/2007/09/1/new-gambling-legislation-comes-into-effect-in-the-united-kingdom-relaxing-advertising-restrictions-and-extending-opening-hours.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
-### [ Hurricanes and tropical storms:: 2007 Atlantic hurricane season: Tropical Storm Felix forms over the Windward Islands of the Caribbean and becomes Hurricane Felix. Aruba, Bonaire and Curacao have storm warnings in place and Jamaica has a tropical storm watch. ](/news/2007/09/1/hurricanes-and-tropical-storms-2007-atlantic-hurricane-season-tropical-storm-felix-forms-over-the-windward-islands-of-the-caribbean-and.md)
-_Context: 2007 Atlantic hurricane season, Aruba, Bonaire, Caribbean, Curacao, Hurricane Felix (2007), Jamaica, Windward Islands, hurricane, tropical storm_
+### [ 2007 Atlantic hurricane season: Tropical Storm Felix forms over the Windward Islands of the Caribbean and becomes Hurricane Felix. Aruba, Bonaire and Curacao have storm warnings in place and Jamaica has a tropical storm watch. ](/news/2007/09/1/2007-atlantic-hurricane-season-tropical-storm-felix-forms-over-the-windward-islands-of-the-caribbean-and-becomes-hurricane-felix-aruba-b.md)
+_Context: 2007 Atlantic hurricane season, Aruba, Bonaire, Caribbean, Curacao, Hurricane Felix (2007), Jamaica, Windward Islands_
 
 ### [ A bomb in the Indian state of Assam kills one person and injures 12, with police suspecting the United Liberation Front of Asom. ](/news/2007/09/1/a-bomb-in-the-indian-state-of-assam-kills-one-person-and-injures-12-with-police-suspecting-the-united-liberation-front-of-asom.md)
 _Context: Assam, India, Indian state, United Liberation Front of Asom_

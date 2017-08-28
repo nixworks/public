@@ -1,12 +1,12 @@
 ## [2013-02-1](/news/2013/02/1/index.md)
 
-### [2013 United States embassy bombing in Ankara:: A suicide bombing outside the U.S. embassy in the Turkish capital, Ankara, kills at least two people. ](/news/2013/02/1/2013-united-states-embassy-bombing-in-ankara-a-suicide-bombing-outside-the-u-s-embassy-in-the-turkish-capital-ankara-kills-at-least-two.md)
+### [A suicide bombing outside the U.S. embassy in the Turkish capital, Ankara, kills at least two people. ](/news/2013/02/1/a-suicide-bombing-outside-the-u-s-embassy-in-the-turkish-capital-ankara-kills-at-least-two-people.md)
 A suicide bomber attacks an entrance of the US embassy in the Turkish capital, Ankara, killing a security guard, officials say.
 
-### [Nigerian Sharia conflict:: The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amoun.md)
+### [The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.md)
 The JTF said it lost one of its officials in the attack in Northern Nigeria
 
-### [War in North-West Pakistan:: A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/war-in-north-west-pakistan-a-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md)
+### [A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/a-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md)
 The explosion came as Sunni and Shiite villagers in northwestern Pakistan were leaving nearby mosques. The police said it killed at least 21 people and wounded 33.
 
 ### [Pat Kenny, most recently presenter of "The Frontline", makes his return as host of "The Late Late Show" after the death this week of regular host Ryan Tubridy's father. ](/news/2013/02/1/pat-kenny-most-recently-presenter-of-the-frontline-makes-his-return-as-host-of-the-late-late-show-after-the-death-this-week-of-regular.md)
@@ -42,7 +42,7 @@ _Context: Intelligence Directorate, King, Muqrin bin Abdulaziz Al Saud, Prime Mi
 ### [Steven Chu steps down as United States Secretary of Energy. ](/news/2013/02/1/steven-chu-steps-down-as-united-states-secretary-of-energy.md)
 WASHINGTON -- Energy Secretary Steven Chu said he is leaving the Obama administration, ending a tenure marked by active development of alternative energy that won plaudits from environmentalists and...
 
-### [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainian-russian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md)
+### [A Ukrainian-Russian carrier rocket Zenit-3SL carrying a telecommunications satellite Intelsat 27 fails 40 seconds after the lift-off and plunges into the Pacific Ocean shortly during Sea Launch. ](/news/2013/02/1/a-ukrainianarussian-carrier-rocket-zenit-3sl-carrying-a-telecommunications-satellite-intelsat-27-fails-40-seconds-after-the-lift-off-and-p.md)
 A Ukrainian-Russian Zenit rocket carrying a US-made telecommunications satellite falls into the Pacific Ocean shortly after its launch.
 
 ## [Previous Day...](/news/2013/01/31/index.md)

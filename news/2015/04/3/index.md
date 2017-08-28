@@ -3,13 +3,13 @@
 ### [ Five people die in a helicopter crash in a SGBPo Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbpo-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md)
 _Context: Geraldo Alckmin, Governor, SGBPo Paulo_
 
-### [Germanwings Flight 9525:: Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/germanwings-flight-9525-data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-fr.md)
+### [Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-french-alps.md)
 The pilot at the controls of a Germanwings jet that crashed in the French Alps accelerated the plane into the mountainside, killing all 150 people on board, according to French investigators.
 
-### [Sinai insurgency: About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs. ](/news/2015/04/3/sinai-insurgency-about-15-egyptian-soldiers-and-2-civilians-are-killed-by-a-combination-of-guns-and-car-bombs.md)
+### [ About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs. ](/news/2015/04/3/about-15-egyptian-soldiers-and-2-civilians-are-killed-by-a-combination-of-guns-and-car-bombs.md)
 Egyptian security sources say at least 15 soldiers and two civilians have been killed after gunmen attacked military checkpoints in the Sinai peninsula.
 
-### [Yemeni Crisis (2011-present): Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/yemeni-crisis-2011-present-saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md)
+### [ Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md)
 _Context: Saudi Arabia, Tawahi, Yemeni Crisis (2011-present)_
 
 ### [Israeli Prime Minister Benjamin Netanyahu disagrees with the Iranian nuclear program agreement that the P5+1 Nations offered to Iran, saying it threatens Israel. ](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.md)

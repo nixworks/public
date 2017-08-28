@@ -1,6 +1,6 @@
 ## [2013-07-22](/news/2013/07/22/index.md)
 
-### [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-including-army-officers-and-policemen-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md)
+### [Six people - including army officers and policemen - are killed and another eleven wounded in a series of militant attacks in Egypt's Sinai Peninsula. ](/news/2013/07/22/six-people-a-including-army-officers-and-policemen-a-are-killed-and-another-eleven-wounded-in-a-series-of-militant-attacks-in-egypt-s-si.md)
 _Context: Egypt, Egyptian Army, Sinai, police officers_
 
 ### [At least 37 people are killed in Iraq amid a two-day spate of suicide bombings and armed prison escapes. ](/news/2013/07/22/at-least-37-people-are-killed-in-iraq-amid-a-two-day-spate-of-suicide-bombings-and-armed-prison-escapes.md)

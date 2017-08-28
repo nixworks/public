@@ -1,10 +1,10 @@
 ## [2013-05-14](/news/2013/05/14/index.md)
 
-### [War in Afghanistan (2001-present):: The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/war-in-afghanistan-2001-present-the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md)
+### [The Taliban kills four US soldiers in Kandahar Province, Afghanistan. ](/news/2013/05/14/the-taliban-kills-four-us-soldiers-in-kandahar-province-afghanistan.md)
 Three US soldiers with the Nato-led force in Kandahar province in southern Afghanistan have been killed by a roadside bomb, officials say.
 
-### [Nigerian Sharia conflict:: The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/nigerian-sharia-conflict-the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an.md)
-_Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, Nigerian Sharia conflict, President, Yobe State, state of emergency_
+### [The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an-islamist-insurgency.md)
+_Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, President, Yobe State, state of emergency_
 
 ### [American actress Angelina Jolie announces that she underwent an elective double mastectomy due to her family history of lethal cases of breast cancer. ](/news/2013/05/14/american-actress-angelina-jolie-announces-that-she-underwent-an-elective-double-mastectomy-due-to-her-family-history-of-lethal-cases-of-brea.md)
 _Context: Angelina Jolie, U.S., breast cancer, mastectomy_
@@ -15,11 +15,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Beyonce cancels her Antwerp, Belgium Mrs. Carter Show World Tour date. But reschedules it to May 31, 2013.](/news/2013/05/14/beyonca-c-cancels-her-antwerp-belgium-mrs-carter-show-world-tour-date-but-reschedules-it-to-may-31-2013.md)
 _Context: Antwerp, Belgium, Beyonce, Mrs. Carter Show World Tour_
 
-### [A tunnel collapses at Freeport-McMoRan-s Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoran-s-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md)
+### [A tunnel collapses at Freeport-McMoRan's Grasberg mine in Indonesia's Papua province trapping approximately thirty workers. ](/news/2013/05/14/a-tunnel-collapses-at-freeport-mcmoranas-grasberg-mine-in-indonesia-s-papua-province-trapping-approximately-thirty-workers.md)
 _Context: Freeport-McMoRan, Grasberg mine, Indonesia, Papua_
 
 ### [Several boats carrying over 100 Rohingya Muslims away from an oncoming cyclone capsize off the coast of Myanmar leaving only 42 survivors. ](/news/2013/05/14/several-boats-carrying-over-100-rohingya-muslims-away-from-an-oncoming-cyclone-capsize-off-the-coast-of-myanmar-leaving-only-42-survivors.md)
-_Context: Myanmar, Rohingya_
+_Context: Burmese, Rohingya_
 
 ### [An alleged CIA agent is arrested in Moscow for trying to recruit a Russian intelligence officer. ](/news/2013/05/14/an-alleged-cia-agent-is-arrested-in-moscow-for-trying-to-recruit-a-russian-intelligence-officer.md)
 Russia is expelling a US diplomat briefly detained in Moscow for allegedly trying to recruit a Russian intelligence officer, officials say.

@@ -9,10 +9,10 @@ _Context: United States, Yemen, al-Qaeda_
 ### [5,000 people at a rally in the town of Kotli in Pakistan-administered Kashmir vow to wage a holy war to "liberate" the disputed Himalayan state of Kashmir from India on 70th anniversary of resolution to seek independence separately from India ](/news/2010/03/23/5-000-people-at-a-rally-in-the-town-of-kotli-in-pakistan-administered-kashmir-vow-to-wage-a-holy-war-to-liberate-the-disputed-himalayan-st.md)
 The head of an outlawed Pakistan-based militant group blamed for the 2008 attack on the Indian commercial capital of Mumbai urged supporters on Tuesday to wage holy war against &quot;oppressors&quot;.
 
-### [Middle East:: Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/middle-east-five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-te.md)
+### [Five people are injured by shell fragments resulting from Israeli air raids on a building in the Gaza Strip, in response to ten rockets fired into Israel from the Gaza Strip since Thursday. ](/news/2010/03/23/five-people-are-injured-by-shell-fragments-resulting-from-israeli-air-raids-on-a-building-in-the-gaza-strip-in-response-to-ten-rockets-fire.md)
 The man was shot by fellow soldiers along the Gaza border in an operation aimed at stopping three Palestinians who were thought to be trying to infiltrate the border fence, an army spokesman said.
 
-### [Irish cabinet reshuffle:: Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/irish-cabinet-reshuffle-taoiseach-brian-cowen-reshuffles-his-cabinet.md)
+### [Taoiseach Brian Cowen reshuffles his cabinet. ](/news/2010/03/23/taoiseach-brian-cowen-reshuffles-his-cabinet.md)
 The Taoiseach has promoted two TDs to senior positions and moved four ministers to different portfolios as part of the Cabinet reshuffle.
 
 ### [Nigerian cabinet reshuffle: Acting President Goodluck Jonathan picks new ministers after firing all members of his cabinet last week. ](/news/2010/03/23/nigerian-cabinet-reshuffle-acting-president-goodluck-jonathan-picks-new-ministers-after-firing-all-members-of-his-cabinet-last-week.md)
@@ -22,7 +22,7 @@ _Context: Goodluck Jonathan, President_
 _Context: Omar al-Bashir, President of Sudan, Sudan, post-election protests_
 
 ### [Libya releases 214 Islamist inmates in what is described as "a historic event". ](/news/2010/03/23/libya-releases-214-islamist-inmates-in-what-is-described-as-a-historic-event.md)
-_Context: Islam, Libya_
+_Context: Libya, Muslims_
 
 ### [88-year-old Heinrich Boere, a former member of the Nazi SS, is sentenced to life imprisonment for the 1944 murder of three Dutch civilians after six decades of legal wrangling. ](/news/2010/03/23/88-year-old-heinrich-boere-a-former-member-of-the-nazi-ss-is-sentenced-to-life-imprisonment-for-the-1944-murder-of-three-dutch-civilians-a.md)
 A German court has sentenced an 88-year-old former SS member to life in prison for the murder of three men in the Netherlands in 1944.

@@ -15,7 +15,7 @@ _Context: Charles McArther Emmanuel, Charles Taylor, President of Liberia, civil
 ### [The Group of Seven nations agree to write off Haiti's debts following a conference in Iqaluit, Nunavut. ](/news/2010/02/6/the-group-of-seven-nations-agree-to-write-off-haiti-s-debts-following-a-conference-in-iqaluit-nunavut.md)
 _Context: G7, Haiti, Iqaluit, Nunavut_
 
-### [The Bank of Spain announces that Spain-s economy fell 3.6% in 2009, the most in decades. ](/news/2010/02/6/the-bank-of-spain-announces-that-spain-s-economy-fell-3-6-in-2009-the-most-in-decades.md)
+### [The Bank of Spain announces that Spain's economy fell 3.6% in 2009, the most in decades. ](/news/2010/02/6/the-bank-of-spain-announces-that-spainas-economy-fell-3-6-in-2009-the-most-in-decades.md)
 First the bad news: Spain&#039;s economy contracted by 3.6% in 2009, the most in decades, as domestic demand plummeted according to a Bank of Spain estimate that was in line with government forecasts.
 
 ### [Thousands protest in Togo against a decision by the Confederation of African Football to ban the country from the next two editions of the Africa Cup of Nations. ](/news/2010/02/6/thousands-protest-in-togo-against-a-decision-by-the-confederation-of-african-football-to-ban-the-country-from-the-next-two-editions-of-the-a.md)

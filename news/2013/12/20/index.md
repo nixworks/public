@@ -3,16 +3,16 @@
 ### [A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. ](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy-aquino-international-airport-in-manila-philippines-killing-four-people-including-the-mayo.md)
 _Context: Labangan, Manila, Ninoy Aquino International Airport, Philippines, airport terminal_
 
-### [Sinai insurgency:: Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/sinai-insurgency-two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-penins.md)
+### [Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsula.md)
 A security official in Egypt says clashes between soldiers and wanted al-Qaida-inspired militants in the northern Sinai Peninsula have killed two soldiers and wounded eight.
 
-### [Israeli-Palestinian conflict:: Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeli-palestinian-conflict-israeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violenc.md)
+### [Israeli forces kill a Palestinian and wound four others in three separate incidents of cross-border violence in the Gaza Strip ](/news/2013/12/20/israeli-forces-kill-a-palestinian-and-wound-four-others-in-three-separate-incidents-of-cross-border-violence-in-the-gaza-strip.md)
 One Palestinian was killed and four wounded by IDF fire in several incidents on the Gaza border on Friday.
 
-### [Syrian Civil War:: Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/syrian-civil-war-britain-agrees-to-help-destroy-syria-s-chemical-weapons.md)
+### [Britain agrees to help destroy Syria's chemical weapons ](/news/2013/12/20/britain-agrees-to-help-destroy-syria-s-chemical-weapons.md)
 Britain will help eliminate Syria¿s chemical stockpile by destroying 165 tons of substances that could be used for nerve agents.
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/iraqi-insurgency-post-u-s-withdrawal-two-roadside-bombings-in-iraq-kill-11-people.md)
+### [Two roadside bombings in Iraq kill 11 people ](/news/2013/12/20/two-roadside-bombings-in-iraq-kill-11-people.md)
 Bombings in Iraq, including two in a market and a third at a cemetery where victims of the earlier attack were to be buried, killed 14 people Friday, officials said.
 
 ### [The Dow Jones Industrial Average and S&P 500 hit record highs after the United States ecomomy grew more than expected in the fiscal year. ](/news/2013/12/20/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs-after-the-united-states-ecomomy-grew-more-than-expected-in-the-fiscal-year.md)

@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [Ta-Nehisi Coates wins the National Book Award-s top prize for nonfiction for his bestselling depiction of America-s race problem, "Between the World and Me". Adam Johnson-s "Fortune Smiles" took home the National Book Award for fiction. ](/news/2015/11/18/ta-nehisi-coates-wins-the-national-book-award-s-top-prize-for-nonfiction-for-his-bestselling-depiction-of-america-s-race-problem-betwe.md) _Context: National Book Award's_
+1. [Ta-Nehisi Coates wins the National Book Award's top prize for nonfiction for his bestselling depiction of America's race problem, "Between the World and Me". Adam Johnson's "Fortune Smiles" took home the National Book Award for fiction. ](/news/2015/11/18/ta-nehisi-coates-wins-the-national-book-awardas-top-prize-for-nonfiction-for-his-bestselling-depiction-of-americaas-race-problem-betwe.md) _Context: National Book Award's_
 2. [The shortlist for the United States National Book Award is announced. ](/news/2010/10/14/the-shortlist-for-the-united-states-national-book-award-is-announced.md) _Context: National Book Award's_

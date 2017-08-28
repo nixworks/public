@@ -1,6 +1,6 @@
 ### [2017-02-19](/news/2017/02/19/index.md)
 
-# Voters head to the polls to select the National Assembly and a new president with former vice-president Lenin Moreno facing off against former bank president Guillermo Lasso, and six other opposition candidates. There will be an  April 2 runoff unless the leader receives 40 percent of the votes and is at least 10 percentage points ahead of the others. In addition, there's a tax haven referendum. 
+# Voters head to the polls to select the National Assembly and a new president with former vice-president Lenin Moreno facing off against former bank president Guillermo Lasso, and six other opposition candidates. There will be an April 2 runoff unless the leader receives 40 percent of the votes and is at least 10 percentage points ahead of the others. In addition, there's a tax haven referendum. 
 
 
 

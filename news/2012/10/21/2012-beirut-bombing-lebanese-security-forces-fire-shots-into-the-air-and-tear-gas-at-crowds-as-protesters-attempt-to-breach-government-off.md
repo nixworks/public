@@ -11,4 +11,4 @@ Protesters try to storm offices of Lebanese PM Mikati, demanding his resignation
 
 ### Related:
 
-1. [2011-2012 conflict in Lebanon: The Lebanese Army launches an operation to quell the sectarian violence in Beirut triggered by the assassination of Wissam al-Hassan. ](/news/2012/10/22/2011-2012-conflict-in-lebanon-the-lebanese-army-launches-an-operation-to-quell-the-sectarian-violence-in-beirut-triggered-by-the-assassin.md) _Context: assassination of  Wissam al-Hassan_
+1. [2011-2012 conflict in Lebanon: The Lebanese Army launches an operation to quell the sectarian violence in Beirut triggered by the assassination of Wissam al-Hassan. ](/news/2012/10/22/2011a2012-conflict-in-lebanon-the-lebanese-army-launches-an-operation-to-quell-the-sectarian-violence-in-beirut-triggered-by-the-assassin.md) _Context: assassination of  Wissam al-Hassan_

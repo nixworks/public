@@ -24,14 +24,14 @@ _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
 ### [ China's gross domestic product grew 13&nbsp;percent during 2007, overtaking Germany to become the world's third largest economy. ](/news/2009/01/15/china-s-gross-domestic-product-grew-13-nbsp-percent-during-2007-overtaking-germany-to-become-the-world-s-third-largest-economy.md)
 _Context: China, GDP, Germany, sixth-largest economy_
 
-### [ 2008-2009 Israel-Gaza conflict:: Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/2008-2009-israel-gaza-conflict-hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
-_Context: Gaza Strip, Hamas, United Nations, call, ceasefire, fire_
+### [ Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
+_Context: Gaza Strip, Hamas, United Nations, call, ceasefire_
 
 ### [ Pakistan arrests 124 people in a crackdown on terrorism. ](/news/2009/01/15/pakistan-arrests-124-people-in-a-crackdown-on-terrorism.md)
 _Context: 2008 Mumbai attacks, Pakistan, terrorism_
 
-### [ Late 2000s recession:: Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/late-2000s-recession-japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-th.md)
-_Context: Japan, late 2000s recession, machine orders_
+### [ Japanese machine orders decrease 16.2 percent from October, the largest percentage drop since April 1987 and more than twice the expected rate. ](/news/2009/01/15/japanese-machine-orders-decrease-16-2-percent-from-october-the-largest-percentage-drop-since-april-1987-and-more-than-twice-the-expected-r.md)
+_Context: Japan, machine orders_
 
 ### [ Hawaii becomes the first U.S. state and the second media market after Wilmington, North Carolina, to convert to digital television. ](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.md)
 _Context: Hawaii, North Carolina, U.S. state, Wilmington, digital television, media market, switch from analog_

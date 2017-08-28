@@ -1,6 +1,6 @@
 ## [2005-09-17](/news/2005/09/17/index.md)
 
-### [ Addressing the U.N. General Assembly, Iranian President Mahmoud Ahmadinejad rejects an offer from the European Union to halt its nuclear program: "The most far reaching step outside the requirements of the NPT - in keeping with Iran's inalienable right to have access to a nuclear fuel cycle."](/news/2005/09/17/addressing-the-u-n-general-assembly-iranian-president-mahmoud-ahmadinejad-rejects-an-offer-from-the-european-union-to-halt-its-nuclear-pr.md)
+### [ Addressing the U.N. General Assembly, Iranian President Mahmoud Ahmadinejad rejects an offer from the European Union to halt its nuclear program: "The most far reaching step outside the requirements of the NPT ... in keeping with Iran's inalienable right to have access to a nuclear fuel cycle."](/news/2005/09/17/addressing-the-u-n-general-assembly-iranian-president-mahmoud-ahmadinejad-rejects-an-offer-from-the-european-union-to-halt-its-nuclear-pr.md)
 _Context: European Union, Iran's nuclear program, Iranian President, Mahmoud Ahmadinejad, Nuclear Non-Proliferation Treaty, U.N. General Assembly_
 
 ### [ At least 30 people die following an explosion at a market in the Iraqi capital of Baghdad. ](/news/2005/09/17/at-least-30-people-die-following-an-explosion-at-a-market-in-the-iraqi-capital-of-baghdad.md)

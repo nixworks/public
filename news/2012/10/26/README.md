@@ -3,7 +3,7 @@
 ### [Latest round of sectarian clashes between Buddhists and Rohingya Muslims kill at least 64 people in western Burma; 3,200 Rohingya have been displaced. ](/news/2012/10/26/latest-round-of-sectarian-clashes-between-buddhists-and-rohingya-muslims-kill-at-least-64-people-in-western-burma-3-200-rohingya-have-been.md)
 _Context: Buddhist, Burma, Latest round of sectarian clashes, Rohingya_
 
-### [Syrian civil war:: Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/syrian-civil-war-fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the.md)
+### [Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the-muslim-holiday-of.md)
 Two previous cease-fire attempts failed, and both the Syrian Army and rebels have hedged their commitment to this one.
 
 ### [A suicide bombing at a mosque in Maymana, Afghanistan, kills at least 41 people and wounds up to 50 others. ](/news/2012/10/26/a-suicide-bombing-at-a-mosque-in-maymana-afghanistan-kills-at-least-41-people-and-wounds-up-to-50-others.md)

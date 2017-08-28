@@ -1,15 +1,15 @@
 ## [2013-06-4](/news/2013/06/4/index.md)
 
-### [2013 protests in Turkey:: Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md)
+### [Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md)
 A 22-year-old man died in a hospital after being shot during protests in southern Turkey, as trade unions prepare to strike in support of those on the streets.
 
-### [War in Afghanistan (2001-present):: Three corpses are dug up near a former U.S. military base in Narkh bringing the number of corpses whose deaths locals blame on the presence of United States personnel to 10; people flood the streets of Maidan Shar calling for the U.S. to leave. ](/news/2013/06/4/war-in-afghanistan-2001-present-three-corpses-are-dug-up-near-a-former-u-s-military-base-in-narkh-bringing-the-number-of-corpses-whos.md)
-_Context: Maidan Shar, Narkh, United States, War in Afghanistan (2001-present)_
+### [Three corpses are dug up near a former U.S. military base in Narkh bringing the number of corpses whose deaths locals blame on the presence of United States personnel to 10; people flood the streets of Maidan Shar calling for the U.S. to leave. ](/news/2013/06/4/three-corpses-are-dug-up-near-a-former-u-s-military-base-in-narkh-bringing-the-number-of-corpses-whose-deaths-locals-blame-on-the-presence.md)
+_Context: Maidan Shar, Narkh, United States_
 
 ### [The United States expands its military presence in Jordan, sending a Patriot missile battery and an undeclared number of F-16 fighters to the area. ](/news/2013/06/4/the-united-states-expands-its-military-presence-in-jordan-sending-a-patriot-missile-battery-and-an-undeclared-number-of-f-16-fighters-to-th.md)
 Washington says weapons may remain there after exercise to help Amman deal with threat from conflict in Syria.
 
-### [Syrian Civil War:: A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/syrian-civil-war-a-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in.md)
+### [A United Nations human rights team says there are "reasonable grounds" to believe that chemical weapons have been used in Syria. ](/news/2013/06/4/a-united-nations-human-rights-team-says-there-are-reasonable-grounds-to-believe-that-chemical-weapons-have-been-used-in-syria.md)
 UN investigators say they have reasonable grounds to believe chemical weapons were used in Syria.
 
 ### [Krystian Zimerman, one of the world's leading concert pianists, angrily exits a concert in Essen, North Rhine-Westphalia, over a dispute with YouTube which he says is "destroying music". ](/news/2013/06/4/krystian-zimerman-one-of-the-world-s-leading-concert-pianists-angrily-exits-a-concert-in-essen-north-rhine-westphalia-over-a-dispute-wit.md)
@@ -25,7 +25,7 @@ A wide trade gap can restrain growth because it means Americans are spending mor
 _Context: IBM, SoftLayer Technologies, cloud computing_
 
 ### [German chancellor Angela Merkel pledges 100 million euros of aid to flood victims as the death toll from ongoing flooding hits 11. ](/news/2013/06/4/german-chancellor-angela-merkel-pledges-100-million-euros-of-aid-to-flood-victims-as-the-death-toll-from-ongoing-flooding-hits-11.md)
-_Context: 2013 European floods, Angela Merkel_
+_Context: Angela Merkel, Flooding in Central Europe_
 
 ### [It is determined that the May 31 tornado that hit El Reno, Oklahoma, US, was the widest ever on record and a rare EF5. ](/news/2013/06/4/it-is-determined-that-the-may-31-tornado-that-hit-el-reno-oklahoma-us-was-the-widest-ever-on-record-and-a-rare-ef5.md)
 The weather service says EF5 twister&#39;s 2.6-mile width is the widest ever recorded.
@@ -36,8 +36,8 @@ More than 150 marine scientists call on federal and Qld governments to stop all 
 ### [A Swiss diplomat is arrested in Paris on drunk driving charges after leading police on a high speed chase through the city. ](/news/2013/06/4/a-swiss-diplomat-is-arrested-in-paris-on-drunk-driving-charges-after-leading-police-on-a-high-speed-chase-through-the-city.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### ["United States v. Bradley Manning":: The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/united-states-v-bradley-manning-the-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in.md)
-_Context: Adrian Lamo, Bradley Manning, Fort Meade, Maryland, United States Army, United States v Bradley Manning, WikiLeaks_
+### [The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/the-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in-fort-meade-maryland-former-computer.md)
+_Context: Adrian Lamo, Bradley Manning, Fort Meade, Maryland, United States Army, WikiLeaks_
 
 ### [Lawyers gather outside Britain's Ministry of Justice to demonstrate against GBP220 million of proposed legal aid cuts and removal of the right of defendants to choose their own solicitor. ](/news/2013/06/4/lawyers-gather-outside-britain-s-ministry-of-justice-to-demonstrate-against-agbp220-million-of-proposed-legal-aid-cuts-and-removal-of-the-ri.md)
 ### [South African athlete Oscar Pistorius appears in court charged with the murder of his girlfriend Reeva Steenkamp. ](/news/2013/06/4/south-african-athlete-oscar-pistorius-appears-in-court-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp.md)

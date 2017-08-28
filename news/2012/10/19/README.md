@@ -1,9 +1,9 @@
 ## [2012-10-19](/news/2012/10/19/index.md)
 
-### [2011-2012 conflict in Lebanon:: A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/2011-2012-conflict-in-lebanon-a-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and.md)
+### [A car bomb explodes at Sassine Square in the Lebanese capital of Beirut, killing at least eight people and wounding up to 78 others. ](/news/2012/10/19/a-car-bomb-explodes-at-sassine-square-in-the-lebanese-capital-of-beirut-killing-at-least-eight-people-and-wounding-up-to-78-others.md)
 A huge car bomb has killed at least eight people and injured dozens in the centre of the Lebanese capital, Beirut, officials say.
 
-### [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011-present-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md)
+### [2011-present Libyan factional fighting: The Libyan Army launches a new full-scale assault against the town of Bani Walid, accusing it of being controlled by supporters of the late Muammar Gaddafi. ](/news/2012/10/19/2011apresent-libyan-factional-fighting-the-libyan-army-launches-a-new-full-scale-assault-against-the-town-of-bani-walid-accusing-it-of-b.md)
 _Context: 2011-present Libyan factional fighting, Bani Walid, Libyan National Army, Muammar Gaddafi, full-scale assault_
 
 ### [Lebanese Tourism Minister Faddy Abboud says an episode of the popular U.S. TV series "Homeland" misrepresented Beirut and is set to pursue legal action against its makers due to concerns over damage to image and tourism. ](/news/2012/10/19/lebanese-tourism-minister-faddy-abboud-says-an-episode-of-the-popular-u-s-tv-series-homeland-misrepresented-beirut-and-is-set-to-pursue-l.md)
@@ -15,7 +15,7 @@ _Context: Big Tex, Dallas, State Fair of Texas_
 ### [A tour bus went off the highway and crashed in northwest Arizona late Friday at around 8:00 PM PDT, killing the bus driver (who was believed to have suffered a medical incident), and leaving at least four of the passengers with serious injuries. About 45 other passengers were hurt less seriously, and some were not hospitalized. The bus was northbound on Highway 93 near Willow Beach, Arizona and the Nevada state line, southeast of Las Vegas. ](/news/2012/10/19/a-tour-bus-went-off-the-highway-and-crashed-in-northwest-arizona-late-friday-at-around-8-00-pm-pdt-killing-the-bus-driver-who-was-believed.md)
 A tour bus careened off the road and crashed in northwest Arizona late Friday, killing the driver and leaving at least four passengers with serious injuries, authorities said.
 
-### [Jimmy Savile sexual abuse scandal:: Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/jimmy-savile-sexual-abuse-scandal-scotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-vi.md)
+### [Scotland Yard launches a "formal criminal investigation" into Savile after 200 potential sexual abuse victims come forward. ](/news/2012/10/19/scotland-yard-launches-a-formal-criminal-investigation-into-savile-after-200-potential-sexual-abuse-victims-come-forward.md)
 Scotland Yard launches a formal criminal investigation into the Sir Jimmy Savile sex abuse scandal after a &quot;staggering&quot; 200 potential victims come forward.
 
 ### [Taxicab driver Christopher Halliwell is sentenced to life imprisonment for murdering Sian O'Callaghan who went missing after visiting a nightclub in Swindon in March last year. ](/news/2012/10/19/taxicab-driver-christopher-halliwell-is-sentenced-to-life-imprisonment-for-murdering-sian-o-callaghan-who-went-missing-after-visiting-a-nigh.md)

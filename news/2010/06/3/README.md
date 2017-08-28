@@ -3,10 +3,10 @@
 ### [British Airways issues an apology for a photograph in a staff magazine which implied Osama Bin Laden had a frequent flyer boarding pass for first class. ](/news/2010/06/3/british-airways-issues-an-apology-for-a-photograph-in-a-staff-magazine-which-implied-osama-bin-laden-had-a-frequent-flyer-boarding-pass-for.md)
 _Context: British Airways, Osama bin Laden_
 
-### [Gaza flotilla raid:: United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-i.md)
+### [United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.md)
 South Africa latest country to express anger over Israeli attack on Gaza aid convoy.
 
-### [Somalia:: At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/somalia-at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mog.md)
+### [At least 20 people are killed and 60 injured in heavy fighting between government forces and Islamist militants in the capital Mogadishu. ](/news/2010/06/3/at-least-20-people-are-killed-and-60-injured-in-heavy-fighting-between-government-forces-and-islamist-militants-in-the-capital-mogadishu.md)
 Heavy fighting between government forces and Islamist militants in Mogadishu kills at least 28 leaves scores wounded.
 
 ### [The Chinese newspaper "Southern Metropolitan Daily" publishes a cartoon referring to the Tiananmen Square protests of 1989; the image is later removed. ](/news/2010/06/3/the-chinese-newspaper-southern-metropolitan-daily-publishes-a-cartoon-referring-to-the-tiananmen-square-protests-of-1989-the-image-is-lat.md)

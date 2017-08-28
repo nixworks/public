@@ -1,12 +1,12 @@
 ## [2014-05-20](/news/2014/05/20/index.md)
 
-### [2014 pro-Russian unrest in Ukraine:: Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/2014-pro-russian-unrest-in-ukraine-ukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-prote.md)
+### [Ukrainian billionaire Rinat Akhmetov asks workers to stage a peace rally in the Donetsk region in protest against the self-proclaimed Donetsk People's Republic. ](/news/2014/05/20/ukrainian-billionaire-rinat-akhmetov-asks-workers-to-stage-a-peace-rally-in-the-donetsk-region-in-protest-against-the-self-proclaimed-donets.md)
 Ukrainian businessman Rinat Akhmetov has called for workers of all enterprises in Donetsk region to start at noon on Tuesday a peace rally against the self-proclaimed &#39;Donetsk People&#39;s Republic.&#39;
 
 ### [Two explosions occur near a crowded market in the Nigerian city of Jos killing at least 118 people. ](/news/2014/05/20/two-explosions-occur-near-a-crowded-market-in-the-nigerian-city-of-jos-killing-at-least-118-people.md)
 The bodies of at least 118 people have now been recovered from the sites of twin bombings in the central Nigerian city of Jos, officials say.
 
-### [Shia insurgency in Yemen: At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/shia-insurgency-in-yemen-at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied.md)
+### [At least 16 people are killed in clashes between Shi'ite Muslim tribesmen and Yemeni government forces and allied Sunni tribesmen. ](/news/2014/05/20/at-least-16-people-are-killed-in-clashes-between-shi-ite-muslim-tribesmen-and-yemeni-government-forces-and-allied-sunni-tribesmen.md)
 _Context: Shi'ite, Shia insurgency in Yemen, Sunni, Yemeni government_
 
 ### [American car maker General Motors recalls another 2.4 million vehicles. ](/news/2014/05/20/american-car-maker-general-motors-recalls-another-2-4-million-vehicles.md)
@@ -39,14 +39,14 @@ Actor Michael Jace, who played a Los Angeles police officer in the FX drama The 
 ### [Three female children, ages 2 months to 3 years, are stabbed to death at a home in Torrance, California, U.S. The children's mother is arrested and charged with murder. ](/news/2014/05/20/three-female-children-ages-2-months-to-3-years-are-stabbed-to-death-at-a-home-in-torrance-california-u-s-the-children-s-mother-is-arres.md)
 _Context: California, Torrance_
 
-### [2013-14 Thai political crisis:: The Royal Thai Army declares martial law after six months of political unrest. ](/news/2014/05/20/2013-14-thai-political-crisis-the-royal-thai-army-declares-martial-law-after-six-months-of-political-unrest.md)
+### [The Royal Thai Army declares martial law after six months of political unrest. ](/news/2014/05/20/the-royal-thai-army-declares-martial-law-after-six-months-of-political-unrest.md)
 Military claims it is not part of a coup, coming one day after the caretaker prime minister refused to stand down
 
 ### [Narendra Modi is officially re-elected as the leader of the Bharatiya Janata Party and the National Democratic Alliance ahead of being sworn in as the Prime Minister of India. ](/news/2014/05/20/narendra-modi-is-officially-re-elected-as-the-leader-of-the-bharatiya-janata-party-and-the-national-democratic-alliance-ahead-of-being-sworn.md)
 Modi will meet President Pranab Mukherjee after his election in the first formal step before his swearing-in.
 
-### [Malawian general election:: Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/malawian-general-election-voters-in-malawi-go-to-the-polls-for-a-general-election.md)
-_Context: Malawi, Malawian general election, 2014_
+### [Voters in Malawi go to the polls for a general election. ](/news/2014/05/20/voters-in-malawi-go-to-the-polls-for-a-general-election.md)
+_Context: Malawi_
 
 ## [Previous Day...](/news/2014/05/19/index.md)
 

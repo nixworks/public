@@ -1,6 +1,6 @@
 ## [2011-02-11](/news/2011/02/11/index.md)
 
-### [Egyptian Revolution of 2011 / Downfall of Hosni Mubarak:: Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/egyptian-revolution-of-2011-downfall-of-hosni-mubarak-protests-continue-following-last-night-s-non-resignation-speech-of-president-of-eg.md)
+### [Protests continue following last night's non-resignation speech of President of Egypt Hosni Mubarak. ](/news/2011/02/11/protests-continue-following-last-night-s-non-resignation-speech-of-president-of-egypt-hosni-mubarak.md)
 Egyptian president stands down and hands over power to the Supreme Council for the Armed Forces.
 
 ### [The death toll from clashes between rebels loyal to George Athor and the army in Southern Sudan rises to 100. ](/news/2011/02/11/the-death-toll-from-clashes-between-rebels-loyal-to-george-athor-and-the-army-in-southern-sudan-rises-to-100.md)
@@ -45,7 +45,7 @@ _Context: Indonesia_
 ### [Chinese activist Chen Guangcheng and his wife are reportedly beaten after filming a secret video showing their house arrest. ](/news/2011/02/11/chinese-activist-chen-guangcheng-and-his-wife-are-reportedly-beaten-after-filming-a-secret-video-showing-their-house-arrest.md)
 A human rights organisation says the activist Chen Guangcheng and his wife were beaten after the release of a video showing them under house arrest.
 
-### [Anniversary of Iranian Revolution:: Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/anniversary-of-iranian-revolution-iran-marks-the-32nd-anniversary-of-its-revolution.md)
+### [Iran marks the 32nd anniversary of its Revolution. ](/news/2011/02/11/iran-marks-the-32nd-anniversary-of-its-revolution.md)
 An Iranian opposition leader, Mehdi Karroubi, was placed under house arrest yesterday. Security officers were posted at his door and one of his aides detained after calls for a rally in support of the popular uprisings in Egypt and Tunisia.
 
 ## [Previous Day...](/news/2011/02/10/index.md)

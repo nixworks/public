@@ -1,0 +1,23 @@
+### [2017-06-5](/news/2017/06/5/index.md)
+
+# The Turkish interior ministry announces that 130 people, living outside the country and suspected of militant links, will lose their citizenship unless they return to Turkey within three months and meet government standards. Named suspects include U.S.-based cleric Fethullah Gulen, and Peoples' Democratic Party leaders Faysal Sariyildiz, Tugba Hezer, and Ozdal Ucer. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-turkey-security-citizenship-idUSKBN18W17D)
+
+### Related:
+
+1. [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group." Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because his Turkish passport had been revoked. Kanter says he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md) _Context: Fethullah Gulen_
+2. [ Enes Kanter, a Turkish player with the NBA's Oklahoma City Thunder, returns to the U.S. after having been briefly detained in Bucharest. Kanter alleged that his public opposition to Turkish president Recep Tayyip Erdogan and support of exiled Islamic cleric Fethullah Gulen had led to the cancellation of his Turkish passport. ](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.md) _Context: Fethullah Gulen_
+3. [The Turkish government dismisses more than 4,400 public servants from their jobs in the latest purge within the country following a failed coup attempt last year. ](/news/2017/02/8/the-turkish-government-dismisses-more-than-4-400-public-servants-from-their-jobs-in-the-latest-purge-within-the-country-following-a-failed-c.md) _Context: 2016-17 Turkish purges_
+4. [About 330 people with alleged links to last year's coup attempt stand trial at a prison outside Ankara on charges of murder and attempting to overthrow the government, the largest trial to date. ](/news/2017/02/28/about-330-people-with-alleged-links-to-last-year-s-coup-attempt-stand-trial-at-a-prison-outside-ankara-on-charges-of-murder-and-attempting-t.md) _Context: 2016-17 Turkish purges_
+5. [Turkish police arrest over 800 people with alleged links to the outlawed Kurdistan Workers' Party (PKK). ](/news/2017/02/14/turkish-police-arrest-over-800-people-with-alleged-links-to-the-outlawed-kurdistan-workers-party-pkk.md) _Context: 2016-17 Turkish purges_
+6. [In Ankara, the Turkish government opens the trial of 270 suspects charged in July's failed coup in Ankara. The defendants include, "in absentia", the alleged mastermind Fethullah Gulen, former NATO Chief of Staff Major General Salih Sevil, and other high-ranking military officials. ](/news/2017/01/30/in-ankara-the-turkish-government-opens-the-trial-of-270-suspects-charged-in-july-s-failed-coup-in-ankara-the-defendants-include-in-absen.md) _Context: Fethullah Gulen_
+7. [Turkish security forces begin mass arrests of pro-Kurdish Peoples' Democratic Party (HDP) MPs, including co-leaders Selahattin Demirtas and Figen Yuksekdag. Internet access is reportedly blocked across southeastern Turkey. ](/news/2016/11/4/turkish-security-forces-begin-mass-arrests-of-pro-kurdish-peoples-democratic-party-hdp-mps-including-co-leaders-selahattin-demirtaa-and.md) _Context: Peoples' Democratic Party_
+8. [Turkish authorities detain 55 military and intelligence agency personnel over suspected links to U.S.-based cleric Fethullah Gulen. ](/news/2016/10/5/turkish-authorities-detain-55-military-and-intelligence-agency-personnel-over-suspected-links-to-u-s-based-cleric-fethullah-ga1-4len.md) _Context: Fethullah Gulen_
+9. [Turkey dismisses another 10,000 civil servants and closes 15 more media outlets for alleged ties to terrorist organizations and cleric Fethullah Gulen. ](/news/2016/10/30/turkey-dismisses-another-10-000-civil-servants-and-closes-15-more-media-outlets-for-alleged-ties-to-terrorist-organizations-and-cleric-fethu.md) _Context: Fethullah Gulen_
+10. [Turkish Interior Minister Efkan Ala resigns amid criticism over his handling of a string of ISIL and PKK terror attacks, and is replaced by Suleyman Soylu. ](/news/2016/08/31/turkish-interior-minister-efkan-ala-resigns-amid-criticism-over-his-handling-of-a-string-of-isil-and-pkk-terror-attacks-and-is-replaced-by.md) _Context: Turkish interior ministry_

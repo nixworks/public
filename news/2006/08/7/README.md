@@ -1,12 +1,12 @@
 ## [2006-08-7](/news/2006/08/7/index.md)
 
-### [ Israeli-Palestinian conflict: Israeli troops have detained another Hamas member of Palestinian Parliament during an overnight raid in the West Bank. ](/news/2006/08/7/israeli-palestinian-conflict-israeli-troops-have-detained-another-hamas-member-of-palestinian-parliament-during-an-overnight-raid-in-the-w.md)
+### [ Israeli troops have detained another Hamas member of Palestinian Parliament during an overnight raid in the West Bank. ](/news/2006/08/7/israeli-troops-have-detained-another-hamas-member-of-palestinian-parliament-during-an-overnight-raid-in-the-west-bank.md)
 _Context: Hamas, Israel, Israeli-Palestinian conflict, Palestinian Parliament, West Bank_
 
-### [ Iraq War:: A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/iraq-war-a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-m.md)
-_Context: Iraq War, United States_
+### [ A US military hearing has examined the testimony by one of the accused in an incident where an Iraqi girl and her three family members were allegedly killed by four U.S. soldiers. ](/news/2006/08/7/a-us-military-hearing-has-examined-the-testimony-by-one-of-the-accused-in-an-incident-where-an-iraqi-girl-and-her-three-family-members-were.md)
+_Context: United States_
 
-### [ 2006 Israel-Lebanon conflict:: Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/2006-israel-lebanon-conflict-reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-h.md)
+### [ Reuters has withdrawn 920 photographs by a Lebanese photographer after a review of his work showed that he had changed two images from the 2006 Israel-Lebanon conflict. ](/news/2006/08/7/reuters-has-withdrawn-920-photographs-by-a-lebanese-photographer-after-a-review-of-his-work-showed-that-he-had-changed-two-images-from-the.md)
 News organization withdraws photograph of Israeli fighter jet, admits image was doctored, fires photographer. Reuters pledges &#39;tighter editing procedure for images of the Middle East conflict&#39;
 
 ### [ Oil price futures hit a record high for one blend of crude oil (Brent crude) after BP found corrosion damage to the Alaskan pipeline and cut production in Prudhoe Bay 50%. ](/news/2006/08/7/oil-price-futures-hit-a-record-high-for-one-blend-of-crude-oil-brent-crude-after-bp-found-corrosion-damage-to-the-alaskan-pipeline-and-cu.md)

@@ -6,13 +6,13 @@ _Context: India, Jammu and Kashmir_
 ### [Iraq War: Jeremy Paxman faces being punished by the BBC after being judged to have violated the corporation's strict impartiality rules by writing an article for "The Guardian" in which he stated that Tony Blair's "lies" had led Britain to war with Iraq. ](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.md)
 _Context: BBC, Iraq War, Jeremy Paxman, The Guardian, Tony Blair_
 
-### [2011 Yemeni protests:: People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/2011-yemeni-protests-people-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md)
+### [People in Yemen march on the presidential palace in Sana'a in an attempt to bring down Ali Abdullah Saleh. ](/news/2011/02/13/people-in-yemen-march-on-the-presidential-palace-in-sana-a-in-an-attempt-to-bring-down-ali-abdullah-saleh.md)
 About 2,000 demonstrators clash with police in the Yemeni capital Sanaa in the third consecutive day of anti-government protests.
 
-### [Other Arab Spring:: Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/other-arab-spring-opposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisi.md)
+### [Opposition leaders in Iran call for nationwide anti-government rallies on Monday, in attempts to mimic the recent Tunisian and Egyptian revolutions. ](/news/2011/02/13/opposition-leaders-in-iran-call-for-nationwide-anti-government-rallies-on-monday-in-attempts-to-mimic-the-recent-tunisian-and-egyptian-revo.md)
 Calls said to be made for anti-government rallies apparently inspired by events in Tunisia and Egypt.
 
-### [Women against Berlusconi:: Tens of thousands of women hold nationwide protests in 200 cities against Prime Minister of Italy Silvio Berlusconi, whom they say has damaged the standing of women with his string of sex scandals. ](/news/2011/02/13/women-against-berlusconi-tens-of-thousands-of-women-hold-nationwide-protests-in-200-cities-against-prime-minister-of-italy-silvio-berlusco.md)
+### [Tens of thousands of women hold nationwide protests in 200 cities against Prime Minister of Italy Silvio Berlusconi, whom they say has damaged the standing of women with his string of sex scandals. ](/news/2011/02/13/tens-of-thousands-of-women-hold-nationwide-protests-in-200-cities-against-prime-minister-of-italy-silvio-berlusconi-whom-they-say-has-damag.md)
 Women hold protests in Italy and abroad against embattled Prime Minister Silvio Berlusconi, saying his recent sex scandals have demeaned women.
 
 ### [18 people are injured after a car bomb is detonated in Yala, Thailand. ](/news/2011/02/13/18-people-are-injured-after-a-car-bomb-is-detonated-in-yala-thailand.md)
@@ -27,14 +27,14 @@ _Context: 2011 Egyptian revolution, Egypt, Egyptian Museum, Zahi Hawass_
 ### [A giant Andy Scott sculpture is knocked over in a car accident in Tullibody, Clackmannanshire. ](/news/2011/02/13/a-giant-andy-scott-sculpture-is-knocked-over-in-a-car-accident-in-tullibody-clackmannanshire.md)
 A giant steel sculpture of a striding man by public artist Andy Scott is knocked over in a car accident.
 
-### [Bono Boer controversy:: Irish pop star Bono walks into a "political minefield" in South Africa after apparently endorsing a song with the lyrics: "Shoot the Boer", a song currently appearing before the country's highest court. ](/news/2011/02/13/bono-boer-controversy-irish-pop-star-bono-walks-into-a-political-minefield-in-south-africa-after-apparently-endorsing-a-song-with-the-ly.md)
+### [Irish pop star Bono walks into a "political minefield" in South Africa after apparently endorsing a song with the lyrics: "Shoot the Boer", a song currently appearing before the country's highest court. ](/news/2011/02/13/irish-pop-star-bono-walks-into-a-political-minefield-in-south-africa-after-apparently-endorsing-a-song-with-the-lyrics-shoot-the-boer.md)
 The Irish pop star Bono is criticised in South Africa for apparently endorsing the controversial song Shoot the Boer.
 
 ### ["The King's Speech" wins seven awards at the 64th British Academy Film Awards including best film and Best Actor for Colin Firth. ](/news/2011/02/13/the-king-s-speech-wins-seven-awards-at-the-64th-british-academy-film-awards-including-best-film-and-best-actor-for-colin-firth.md)
 _Context: 64th British Academy Film Awards, Colin Firth, The King's Speech_
 
-### [53rd Grammy Awards:: Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/53rd-grammy-awards-dave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need.md)
-_Context: 53rd Grammy Awards, Charles Kelley, Dave Haywood, Hillary Scott, Josh Kear, Lady Antebellum, Need You Now, Song of the Year_
+### [Dave Haywood, Josh Kear, Charles Kelley and Hillary Scott wins the Grammy Award for Song of the Year for the song "Need You Now" performed by Lady Antebellum. ](/news/2011/02/13/dave-haywood-josh-kear-charles-kelley-and-hillary-scott-wins-the-grammy-award-for-song-of-the-year-for-the-song-need-you-now-performed-b.md)
+_Context: Charles Kelley, Dave Haywood, Hillary Scott, Josh Kear, Lady Antebellum, Need You Now, Song of the Year_
 
 ### [The board of directors of NYSE Euronext meets to discuss a proposed merger with Deutsche Borse, while New York's U.S. Senator, Chuck Schumer tells reporters that he is confident the NYSE would run the merged entity. ](/news/2011/02/13/the-board-of-directors-of-nyse-euronext-meets-to-discuss-a-proposed-merger-with-deutsche-baprse-while-new-york-s-u-s-senator-chuck-schume.md)
 A top lawmaker on Sunday created waves over two key aspects of the proposed merger between Deutsche Boerse and NYSE Euronext -- which management team will run the merged entity and what will be its name.

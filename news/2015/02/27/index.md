@@ -12,7 +12,7 @@ Hardline Islamist groups have long demanded the public execution of atheist blog
 ### [A gunman kills seven people then himself in a series of shootings in Tyrone, Missouri. ](/news/2015/02/27/a-gunman-kills-seven-people-then-himself-in-a-series-of-shootings-in-tyrone-missouri.md)
 Nine people are dead, including the gunman, in a shooting spree across multiple locations in the rural southern Missouri community of Tyrone.
 
-### [Assassination of Boris Nemtsov: In Moscow, an unidentified attacker assassinates leading Russian opposition politician Boris Nemtsov, the former Deputy Chairman of the Government of the Russian Federation and current member of regional parliament of Yaroslavl Oblast. ](/news/2015/02/27/assassination-of-boris-nemtsov-in-moscow-an-unidentified-attacker-assassinates-leading-russian-opposition-politician-boris-nemtsov-the-fo.md)
+### [In Moscow, an unidentified attacker assassinates leading Russian opposition politician Boris Nemtsov, the former Deputy Chairman of the Government of the Russian Federation and current member of regional parliament of Yaroslavl Oblast. ](/news/2015/02/27/in-moscow-an-unidentified-attacker-assassinates-leading-russian-opposition-politician-boris-nemtsov-the-former-deputy-chairman-of-the-gove.md)
 A leading Russian opposition politician Boris Nemtsov has been shot dead in Moscow. According to several Russian news agencies, the 56-year-old
 
 ### [An elderly man shoots and kills three people and then himself in the South Korean city of Hwaseong. ](/news/2015/02/27/an-elderly-man-shoots-and-kills-three-people-and-then-himself-in-the-south-korean-city-of-hwaseong.md)

@@ -12,8 +12,8 @@ _Context: BTK Killer, Dennis Rader_
 ### [ Pope Benedict XVI made his first foreign trip to his homeland Germany, attending the World Youth Day 2005. He was welcomed with cheers and made several speeches to leaders of Germany and to pilgrims at the Rhine banks at a ship as well as in front of the Cologne cathedrale. - ](/news/2005/08/18/pope-benedict-xvi-made-his-first-foreign-trip-to-his-homeland-germany-attending-the-world-youth-day-2005-he-was-welcomed-with-cheers-and.md)
 Pope Benedict XVI returns home this week -- and Germany is warmly embracing its most famous son even as his mission of revitalizing the Roman Catholic Church faces an uncertain fate. &#160;NBC News Andy Eckardt reports from Cologne. 
 
-### [ Conflict in Iraq:: Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/conflict-in-iraq-insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md)
-_Context: Baghdad, Conflict in Iraq, Iraq, Iraqi insurgency, Samarra, US Troops, improvised explosive device_
+### [ Insurgents kill 4 US Troops in an IED explosion in Samarra, north of Baghdad, Iraq. ](/news/2005/08/18/insurgents-kill-4-us-troops-in-an-ied-explosion-in-samarra-north-of-baghdad-iraq.md)
+_Context: Baghdad, Iraq, Iraqi insurgency, Samarra, US Troops, improvised explosive device_
 
 ### [ NASA has decided to push the next shuttle mission STS-121 to March 2006 and reassign it to the Space Shuttle "Discovery" ](/news/2005/08/18/nasa-has-decided-to-push-the-next-shuttle-mission-sts-121-to-march-2006-and-reassign-it-to-the-space-shuttle-discovery.md)
 Because of the repercussions of the shuttle Discovery&#39;s fuel tank problems, NASA is adjusting its plans for the next launch to come in March or later.

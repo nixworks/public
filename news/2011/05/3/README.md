@@ -1,15 +1,15 @@
 ## [2011-05-3](/news/2011/05/3/index.md)
 
-### [Reaction to the death of Osama bin Laden:: White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/reaction-to-the-death-of-osama-bin-laden-white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up.md)
+### [White House Press Secretary Jay Carney reveals that Osama bin Laden was not armed but did put up resistance when U.S. forces entered his compound. ](/news/2011/05/3/white-house-press-secretary-jay-carney-reveals-that-osama-bin-laden-was-not-armed-but-did-put-up-resistance-when-u-s-forces-entered-his-com.md)
 The Pakistani government lashed out at the American raid that killed Osama bin Laden, saying that the United States made “an unauthorized unilateral action” that would be not be tolerated in the future.
 
-### [2011 Libyan civil war: Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/2011-libyan-civil-war-thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besiegi.md)
+### [Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besieging-the-city-shutting-o.md)
 _Context: Libyan Civil War, Yafran_
 
-### [Saudi Arabian protests: Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/saudi-arabian-protests-human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-partic.md)
+### [Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-participating-in-peaceful-demo.md)
 _Context: Human Rights Watch, Saudi Arabia, Saudi Arabian protests, rights activist_
 
-### [Syrian protests: Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-protests-syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-un.md)
+### [Syrian forces and gunmen loyal to President Bashar al-Assad moved into the center of the city of Baniyas, which had been under the control of pro-democracy demonstrators in recent weeks. ](/news/2011/05/3/syrian-forces-and-gunmen-loyal-to-president-bashar-al-assad-moved-into-the-center-of-the-city-of-baniyas-which-had-been-under-the-control-o.md)
 Senior Syrian officials are to face targeted European Union sanctions and travel bans, William Hague said on Tuesday.
 
 ### [At least nineteen people die in northern Kenya in clashes with raiders from Ethiopia. ](/news/2011/05/3/at-least-nineteen-people-die-in-northern-kenya-in-clashes-with-raiders-from-ethiopia.md)
@@ -39,13 +39,13 @@ _Context: Atlantic Ocean, crash of Air France Flight 447, flight recorder_
 ### [The US Army Corps of Engineers blasts a hole in two levees along the Mississippi River, flooding some 200|sqmi|km2 of Missouri farmland in an effort to save the town of Cairo, Illinois further downriver from record-breaking flood waters. ](/news/2011/05/3/the-us-army-corps-of-engineers-blasts-a-hole-in-two-levees-along-the-mississippi-river-flooding-some-200-sqmi-km2-of-missouri-farmland-in-a.md)
 The intentional breach of a levee on the Mississippi River is sending 396,000 cubic feet per second of water onto 200 square miles of fertile Missouri farmland. The U.S. Army Corps of Engineers said the operation is helping to ease unprecedented flood pressure on other areas.
 
-### [The US city of Tuscaloosa, Alabama revises the number of missing there during the April 25-28, 2011 tornado outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-april-25-28-2011-tornado-outbreak-from-340-on-monday-to.md)
+### [The US city of Tuscaloosa, Alabama revises the number of missing there during the April 25-28, 2011 tornado outbreak from 340 on Monday to 80. ](/news/2011/05/3/the-us-city-of-tuscaloosa-alabama-revises-the-number-of-missing-there-during-the-april-25a28-2011-tornado-outbreak-from-340-on-monday-to.md)
 TUSCALOOSA, Alabama -- The city says the number of missing people in Tuscaloosa has dropped to 80. The number had ranged as high as 340 on Monday. 
 
 ### [A mine explosion in San Juan de Sabinas Municipality in the Mexican state of Coahuila kills three people, injures one and leaves another 11 trapped. ](/news/2011/05/3/a-mine-explosion-in-san-juan-de-sabinas-municipality-in-the-mexican-state-of-coahuila-kills-three-people-injures-one-and-leaves-another-11.md)
 _Context: Coahuila, Mexico, San Juan de Sabinas Municipality_
 
-### [Israeli Prime Minister Netanyahu calls on Palestinian Authority President Abbas to choose peace with Israel and not Hamas, saying that the Fatah-Hamas unity government deal would jeopardize the already-stalled peace process because Hamas opposes the existence of Israel; Abbas rejects the call as -unacceptable interference-. ](/news/2011/05/3/israeli-prime-minister-netanyahu-calls-on-palestinian-authority-president-abbas-to-choose-peace-with-israel-and-not-hamas-saying-that-the-f.md)
+### [Israeli Prime Minister Netanyahu calls on Palestinian Authority President Abbas to choose peace with Israel and not Hamas, saying that the Fatah-Hamas unity government deal would jeopardize the already-stalled peace process because Hamas opposes the existence of Israel; Abbas rejects the call as "unacceptable interference". ](/news/2011/05/3/israeli-prime-minister-netanyahu-calls-on-palestinian-authority-president-abbas-to-choose-peace-with-israel-and-not-hamas-saying-that-the-f.md)
 As Palestinian political factions prepared Tuesday to formally sign a political reconciliation agreement in Cairo, Israeli Prime Minister Benjamin Netanyahu called on the Palestinian Authority to pull out of the deal, saying it would jeopardize the already-stalled Middle East peace process.
 
 ### [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md)

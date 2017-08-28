@@ -11,7 +11,7 @@ Another powerful earthquake has struck the Solomon Islands, the second strong te
 
 ### Related:
 
-1. [RAMSI: A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/ramsi-a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _Context: Honiara, Solomon Islands_
+1. [A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _Context: Honiara, Solomon Islands_
 2. [Heavy rainfall from a tropical low causes flooding at Honiara, Solomon Islands, leading to at least 16 deaths and thousands of people being evacuated. ](/news/2014/04/4/heavy-rainfall-from-a-tropical-low-causes-flooding-at-honiara-solomon-islands-leading-to-at-least-16-deaths-and-thousands-of-people-being.md) _Context: Honiara, Solomon Islands_
 3. [ A report commissioned by the Solomon Islands Government is critical of the handling of last year's Honiara riots by the Regional Assistance Mission to the Solomon Islands (RAMSI). ](/news/2007/07/19/a-report-commissioned-by-the-solomon-islands-government-is-critical-of-the-handling-of-last-year-s-honiara-riots-by-the-regional-assistance.md) _Context: Honiara, Solomon Islands_
 4. [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md) _Context: Honiara, Solomon Islands_

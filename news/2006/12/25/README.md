@@ -12,8 +12,8 @@ _Context: Aceh, Indonesia, North Sumatra, flood_
 ### [ The Supreme Council of Kyrgyzstan does not pass amendments proposed by acting Prime Minister Felix Kulov to the Constitution, some of which would alter the make up of the Council by expanding the number of Parliamentarians and electing members by party-line-voting. The Supreme Council may vote again on the amendments over the next week. ](/news/2006/12/25/the-supreme-council-of-kyrgyzstan-does-not-pass-amendments-proposed-by-acting-prime-minister-felix-kulov-to-the-constitution-some-of-which.md)
  Kyrgyzstan was again plunged into crisis on December 19 when President Kurmanbek Bakiyev accepted the resignation of Prime Minister Feliks Kulov and his entire cabinet. As debate rages over how to se
 
-### [ War in Somalia:: Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/war-in-somalia-ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md)
-_Context: Ethiopia, Islamic Courts Union, Somalia, War in Somalia_
+### [ Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md)
+_Context: Ethiopia, Islamic Courts Union, Somalia_
 
 ## [Previous Day...](/news/2006/12/24/index.md)
 

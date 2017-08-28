@@ -1,9 +1,9 @@
 ## [2013-05-7](/news/2013/05/7/index.md)
 
-### [Syrian civil war:: Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/syrian-civil-war-four-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-is.md)
+### [Four Filipino UN peacekeepers are kidnapped by armed men while patrolling the demilitarized area between Syria and the Israeli-annexed Golan Heights. ](/news/2013/05/7/four-filipino-un-peacekeepers-are-kidnapped-by-armed-men-while-patrolling-the-demilitarized-area-between-syria-and-the-israeli-annexed-golan.md)
 Four Filipino UN peacekeepers are seized while patrolling the demilitarised area between Syria and the Israeli-occupied Golan Heights.
 
-### [Nigerian Sharia conflict:: An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/nigerian-sharia-conflict-an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md)
+### [An attack in Nigeria, suspected to be perpetrated by Islamic sect Boko Haram, kills 55 people. ](/news/2013/05/7/an-attack-in-nigeria-suspected-to-be-perpetrated-by-islamic-sect-boko-haram-kills-55-people.md)
 The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly siege on the northeastern town of Bama on Tuesday that left 55 people dead.
 
 ### [American special effects innovator Ray Harryhausen dies at the age of 92. ](/news/2013/05/7/american-special-effects-innovator-ray-harryhausen-dies-at-the-age-of-92.md)
@@ -12,10 +12,10 @@ _Context: Ray Harryhausen, U.S., special effects_
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)
 Metal singer taken into custody Tuesday after allegedly soliciting an undercover cop to have his estranged wife killed.
 
-### [2013 Korean crisis:: The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/2013-korean-crisis-the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile.md)
-_Context: 2013 Korean crisis, Bank of China, North Korea, United States, intercontinental ballistic_
+### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
+_Context: Bank of China, North Korea, United States, intercontinental ballistic_
 
-### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-changes-will-be-available-later-this-year.md)
+### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md)
 _Context: Microsoft, Windows 8, operating system_
 
 ### [The Reserve Bank of Australia cuts its benchmark interest rate to 2.75%, down from 3.00%. ](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.md)

@@ -13,7 +13,7 @@ England have beaten New Zealand twice in World Cup finals in a span of three mon
 The Taoiseach has said a Yes vote on Lisbon would provide Ireland with a better means of dealing with the current economic crisis.
 
 ### [ The Somali government declares a state of emergency. ](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.md)
-_Context: Somalia, War in Somalia (2009-), state of emergency_
+_Context: Somalia, declares, state of emergency_
 
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
 _Context: 2008 referendum, Greenland, Self-rule_
@@ -21,7 +21,7 @@ _Context: 2008 referendum, Greenland, Self-rule_
 ### [ Seven people, including six amusement park employees, are killed in a French rural helicopter crash. ](/news/2009/06/21/seven-people-including-six-amusement-park-employees-are-killed-in-a-french-rural-helicopter-crash.md)
 _Context: France_
 
-### [ 2009 Iranian election protests:: Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/2009-iranian-election-protests-iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md)
+### [ Iranian state television claims at least ten people are dead following protests over the recent election. ](/news/2009/06/21/iranian-state-television-claims-at-least-ten-people-are-dead-following-protests-over-the-recent-election.md)
 Iranian opposition leader Mir-Hossein Mousavi urged his supporters to continue their protests over a disputed presidential election.
 
 ### [ The death toll from the Taza bombing rises to 73. ](/news/2009/06/21/the-death-toll-from-the-taza-bombing-rises-to-73.md)

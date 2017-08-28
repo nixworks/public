@@ -6,10 +6,10 @@ _Context: Ad-Diwaniyah, Iraq, Khalid Hassan, Khalil Jalil Hamza, bomb, major gen
 ### [ An explosion in Pasuruan in the East Java province of Indonesia causes three deaths and another three injuries. ](/news/2007/08/11/an-explosion-in-pasuruan-in-the-east-java-province-of-indonesia-causes-three-deaths-and-another-three-injuries.md)
 _Context: East Java, Indonesia, Pasuruan_
 
-### [ War in Afghanistan:: The Taliban attacks Firebase Anaconda in Uruzgan province for the third time in a week suffering casualties. The Taliban also launches unsuccessful attacks in Helmand and Kandahar provinces. ](/news/2007/08/11/war-in-afghanistan-the-taliban-attacks-firebase-anaconda-in-uruzgan-province-for-the-third-time-in-a-week-suffering-casualties-the-talib.md)
-_Context: Firebase Anaconda, Helmand Province, Kandahar, Taliban, Uruzgan, War in Afghanistan (2001-present)_
+### [ The Taliban attacks Firebase Anaconda in Uruzgan province for the third time in a week suffering casualties. The Taliban also launches unsuccessful attacks in Helmand and Kandahar provinces. ](/news/2007/08/11/the-taliban-attacks-firebase-anaconda-in-uruzgan-province-for-the-third-time-in-a-week-suffering-casualties-the-taliban-also-launches-unsu.md)
+_Context: Firebase Anaconda, Helmand Province, Kandahar, Taliban, Uruzgan_
 
-### [ Three by-elections for the Canadian House of Commons will be held for the ridings of Roberval-Lac-Saint-Jean, Saint-Hyacinthe-Bagot and Outremont on September 17. ](/news/2007/08/11/three-by-elections-for-the-canadian-house-of-commons-will-be-held-for-the-ridings-of-roberval-lac-saint-jean-saint-hyacinthe-bagot-and.md)
+### [ Three by-elections for the Canadian House of Commons will be held for the ridings of Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot and Outremont on September 17. ](/news/2007/08/11/three-by-elections-for-the-canadian-house-of-commons-will-be-held-for-the-ridings-of-robervalalac-saint-jean-saint-hyacintheabagot-and.md)
 _Context: Canadian House of Commons, Outremont, Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot, by-election, ridings_
 
 ### [ The President of Venezuela Hugo Chavez proposes building a gas pipeline between Venezuela and the Caribbean supplying states such as Cuba. ](/news/2007/08/11/the-president-of-venezuela-hugo-chavez-proposes-building-a-gas-pipeline-between-venezuela-and-the-caribbean-supplying-states-such-as-cuba.md)

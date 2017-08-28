@@ -1,6 +1,6 @@
 ## [2009-11-27](/news/2009/11/27/index.md)
 
-### [ A Russian high-speed passenger train traveling on the Moscow - Saint Petersburg Railway derails near Uglovka in a suspected terrorist attack, killing 26 people and injuring more than 100. ](/news/2009/11/27/a-russian-high-speed-passenger-train-traveling-on-the-moscow-saint-petersburg-railway-derails-near-uglovka-in-a-suspected-terrorist-att.md)
+### [ A Russian high-speed passenger train traveling on the Moscow - Saint Petersburg Railway derails near Uglovka in a suspected terrorist attack, killing 26 people and injuring more than 100. ](/news/2009/11/27/a-russian-high-speed-passenger-train-traveling-on-the-moscow-a-saint-petersburg-railway-derails-near-uglovka-in-a-suspected-terrorist-att.md)
 _Context: Moscow - Saint Petersburg Railway, Russia, Uglovka, derails, passenger train_
 
 ### [ Tiger Woods, the world's number one golfer, is hospitalised after sustaining injuries in a car crash in Orlando, Florida, USA. ](/news/2009/11/27/tiger-woods-the-world-s-number-one-golfer-is-hospitalised-after-sustaining-injuries-in-a-car-crash-in-orlando-florida-usa.md)
@@ -24,7 +24,7 @@ Longtime governing party Swapo is expected to win poll contested by 14 parties.
 ### [ At the Khmer Rouge war crimes trial, Kaing Guek Eav, known as Duch, pleads to be released. ](/news/2009/11/27/at-the-khmer-rouge-war-crimes-trial-kaing-guek-eav-known-as-duch-pleads-to-be-released.md)
 _Context: Extraordinary Chambers in the Courts of Cambodia, Kaing Guek Eav, Khmer Rouge_
 
-### [ Great Britain and Ireland floods:: Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/great-britain-and-ireland-floods-prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md)
+### [ Prince Charles visits areas of Cumbria hit by the recent floods. ](/news/2009/11/27/prince-charles-visits-areas-of-cumbria-hit-by-the-recent-floods.md)
 Farmers across the State are today increase efforts to help their colleagues affected by flooding.
 
 ### [ Multibillion-dollar debt problems of Emirati investment company Dubai World, including the possibility of default, upset markets worldwide. ](/news/2009/11/27/multibillion-dollar-debt-problems-of-emirati-investment-company-dubai-world-including-the-possibility-of-default-upset-markets-worldwide.md)

@@ -1,6 +1,6 @@
 ## [2013-02-5](/news/2013/02/5/index.md)
 
-### [Senkaku Islands dispute:: Japanese Defense Minister Itsunori Onodera states that the country has lodged a protest with China after a People's Liberation Army Navy frigate directed weapon-targeting radar at a Japanese Maritime Self-Defense Force destroyer near the disputed Senkaku Islands. ](/news/2013/02/5/senkaku-islands-dispute-japanese-defense-minister-itsunori-onodera-states-that-the-country-has-lodged-a-protest-with-china-after-a-people.md)
+### [Japanese Defense Minister Itsunori Onodera states that the country has lodged a protest with China after a People's Liberation Army Navy frigate directed weapon-targeting radar at a Japanese Maritime Self-Defense Force destroyer near the disputed Senkaku Islands. ](/news/2013/02/5/japanese-defense-minister-itsunori-onodera-states-that-the-country-has-lodged-a-protest-with-china-after-a-people-s-liberation-army-navy-fri.md)
 A Chinese vessel locked its weapon-targeting radar on a Japanese ship near disputed islands, Tokyo says, amid mounting tensions over a territorial row.
 
 ### [Dell announces it will go private after a $24 billion leveraged buyout deal with a consortium led by founder Michael Dell. ](/news/2013/02/5/dell-announces-it-will-go-private-after-a-24-billion-leveraged-buyout-deal-with-a-consortium-led-by-founder-michael-dell.md)

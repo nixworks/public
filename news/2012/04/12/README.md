@@ -1,6 +1,6 @@
 ## [2012-04-12](/news/2012/04/12/index.md)
 
-### [A ceasefire to military operations in the 2011-2012 Syrian uprising comes into effect. ](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011-2012-syrian-uprising-comes-into-effect.md)
+### [A ceasefire to military operations in the 2011-2012 Syrian uprising comes into effect. ](/news/2012/04/12/a-ceasefire-to-military-operations-in-the-2011a2012-syrian-uprising-comes-into-effect.md)
 _Context: 2011-2012 Syrian uprising_
 
 ### [Agence France-Presse reports that the military of Guinea-Bissau have staged a coup against the civilian government. ](/news/2012/04/12/agence-france-presse-reports-that-the-military-of-guinea-bissau-have-staged-a-coup-against-the-civilian-government.md)

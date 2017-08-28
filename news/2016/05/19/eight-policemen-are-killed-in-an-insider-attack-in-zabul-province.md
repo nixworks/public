@@ -1,6 +1,6 @@
 ### [2016-05-19](/news/2016/05/19/index.md)
 
-#   Eight policemen are killed in an insider attack in Zabul Province. 
+#  Eight policemen are killed in an insider attack in Zabul Province. 
 
 Eight Afghan policemen were killed by a colleague who turned his gun on them at a checkpoint in the volatile southern Zabul province in Afghanistan.
 
@@ -16,7 +16,7 @@ Eight Afghan policemen were killed by a colleague who turned his gun on them at 
 3. [Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. ](/news/2017/05/17/four-militants-attack-a-state-television-building-in-jalalabad-killing-at-least-six-people-the-militants-are-also-killed-after-engaging-wi.md) _Context: Afghan police_
 4. [According to a local police chief, at least seven militants are killed by Afghan security forces in Logar Province. ](/news/2017/03/25/according-to-a-local-police-chief-at-least-seven-militants-are-killed-by-afghan-security-forces-in-logar-province.md) _Context: Afghan police_
 5. [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md) _Context: Afghan police_
-6. [Twelve Afghan National Police officers are killed in a  Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md) _Context: Afghan police_
+6. [Twelve Afghan National Police officers are killed in a Taliban "infiltration attack" in the southern Helmand Province. ](/news/2017/02/28/twelve-afghan-national-police-officers-are-killed-in-a-taliban-infiltration-attack-in-the-southern-helmand-province.md) _Context: Afghan police_
 7. [According to officials, at least 11 people, mostly police officers, are killed outside a mosque in Jowzjan Province in an ambush by militants. The Taliban claimed responsibility for the attack. ](/news/2017/02/25/according-to-officials-at-least-11-people-mostly-police-officers-are-killed-outside-a-mosque-in-jowzjan-province-in-an-ambush-by-militant.md) _Context: Afghan police_
 8. [A gunman, reportedly wearing an Afghan police uniform, kills at least 14 people and wounds dozens more in the Shiite Karte Sakhi shrine in Kabul on the beginning of Ashura. Police kill the attacker. ](/news/2016/10/11/a-gunman-reportedly-wearing-an-afghan-police-uniform-kills-at-least-14-people-and-wounds-dozens-more-in-the-shiite-karte-sakhi-shrine-in-k.md) _Context: Afghan police_
 9. [At least 35 people die and 25 are injured after a bus crashes into a fuel tanker in Afghanistan's Zabul province. ](/news/2016/09/4/at-least-35-people-die-and-25-are-injured-after-a-bus-crashes-into-a-fuel-tanker-in-afghanistan-s-zabul-province.md) _Context: Zabul province_

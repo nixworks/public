@@ -1,6 +1,6 @@
 ## [2013-05-21](/news/2013/05/21/index.md)
 
-### [Syrian civil war:: Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/syrian-civil-war-israel-and-syria-exchange-gunfire-on-the-golan-heights.md)
+### [Israel and Syria exchange gunfire on the Golan Heights. ](/news/2013/05/21/israel-and-syria-exchange-gunfire-on-the-golan-heights.md)
 Israeli troops shot at a target across the Syrian frontier on Tuesday in response to gunfire that struck its forces in the Golan Heights, the Israeli military said.
 
 ### [French historian Dominique Venner shoots himself dead inside the Notre Dame Cathedral in Paris. ](/news/2013/05/21/french-historian-dominique-venner-shoots-himself-dead-inside-the-notre-dame-cathedral-in-paris.md)
@@ -21,7 +21,7 @@ Rescuers went building to building in search of victims and thousands of survivo
 ### [Xinhua reports that North Korea has released 16 Chinese fishermen after their boat was seized on May 6. ](/news/2013/05/21/xinhua-reports-that-north-korea-has-released-16-chinese-fishermen-after-their-boat-was-seized-on-may-6.md)
 This after reports that armed assailants had taken the sailors hostage and demanded a ransom. -AFP
 
-### [Criminal investigation of Saab Automobile:: Three former top executives of Swedish car manufacturer Saab Automobile, Jan-Ake Jonsson (President and CEO), Kristina Geers (Chief Counsel), and Karl Lindstrom (CFO), are arrested on suspicion of accounting fraud and tax evasion during the bankruptcy procedure of the company. ](/news/2013/05/21/criminal-investigation-of-saab-automobile-three-former-top-executives-of-swedish-car-manufacturer-saab-automobile-jan-ake-jonsson-presi.md)
+### [Three former top executives of Swedish car manufacturer Saab Automobile, Jan-Ake Jonsson (President and CEO), Kristina Geers (Chief Counsel), and Karl Lindstrom (CFO), are arrested on suspicion of accounting fraud and tax evasion during the bankruptcy procedure of the company. ](/news/2013/05/21/three-former-top-executives-of-swedish-car-manufacturer-saab-automobile-jan-ake-jonsson-president-and-ceo-kristina-geers-chief-counsel.md)
 _Context: Jan-Ake Jonsson, Saab Automobile_
 
 ### [Carl Pistorius, the brother of Paralympian athlete Oscar Pistorius, is acquitted of culpable homicide over the death of a motorcyclist in South Africa. ](/news/2013/05/21/carl-pistorius-the-brother-of-paralympian-athlete-oscar-pistorius-is-acquitted-of-culpable-homicide-over-the-death-of-a-motorcyclist-in-so.md)
@@ -33,8 +33,8 @@ _Context: Brigadier General, Bryan T. Roberts, Commanding General, Fort Jackson,
 ### [MPs in the House of Commons vote 366-161 in favour of the Marriage (Same Sex Couples) Bill taking an important step towards allowing gay marriage in England and Wales. ](/news/2013/05/21/mps-in-the-house-of-commons-vote-366-161-in-favour-of-the-marriage-same-sex-couples-bill-taking-an-important-step-towards-allowing-gay-mar.md)
 _Context: House of Commons, Marriage (Same Sex Couples) Bill, marriage_
 
-### [Iranian presidential election, 2013:: Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/iranian-presidential-election-2013-final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-ha.md)
-_Context: Guardian Council, Hassan Rouhani, Mohammad-Bagher Ghalibaf, Mohsen Rezaei, Saeed Jalili, presidential_
+### [Final list of candidates are announced by Guardian Council. This included Mohammad-Bagher Ghalibaf, Hassan Rouhani, Saeed Jalili, Mohsen Rezaei and four others. ](/news/2013/05/21/final-list-of-candidates-are-announced-by-guardian-council-this-included-mohammad-bagher-ghalibaf-hassan-rouhani-saeed-jalili-mohsen-rez.md)
+_Context: Guardian Council, Hassan Rouhani, Mohammad-Bagher Ghalibaf, Mohsen Rezaei, Saeed Jalili_
 
 ### [The United States Senate Committee on the Judiciary approves immigration reform legislation that would give citizenship to millions living in the country illegally. ](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.md)
 _Context: Senate Judiciary Committee, citizenship_

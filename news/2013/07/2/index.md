@@ -1,16 +1,16 @@
 ## [2013-07-2](/news/2013/07/2/index.md)
 
-### [July 2013 Egyptian protests:: At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/july-2013-egyptian-protests-at-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md)
+### [At least 16 people are killed and over 200 injured in clashes near Cairo University. ](/news/2013/07/2/at-least-16-people-are-killed-and-over-200-injured-in-clashes-near-cairo-university.md)
 An embattled Mohammed Morsi made a last-ditch bid to stay in power last night, telling the Egyptian people he would not step down and calling on them to rally to his defence.
 
 ### [Naxalite-Maoist insurgency: Six policemen in the eastern India state of Jharkhand are killed in an attack by Naxalites. ](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.md)
 Six policemen, including a Superintendent of Police, have been killed in an ambush by Maoists in Dumka, Jharkhand.
 
-### [War in Afghanistan (2001-present):: Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001-present-militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md)
+### [Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md)
 Taliban insurgents including a suicide bomber in a truck killed six people in an attack on a foreign logistics and supply company in Kabul on Tuesday, police said, the latest in a string of daring assaults in the Afghan capital.
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md)
-_Context: Iraqi insurgency (post-U.S. withdrawal), Shi'ite_
+### [A wave of market bomb attacks mostly targeting Shi'ite Muslims kills 46 people ](/news/2013/07/2/a-wave-of-market-bomb-attacks-mostly-targeting-shi-ite-muslims-kills-46-people.md)
+_Context: Shi'ite_
 
 ### [At least seven people are killed in Pakistan after an American drone strike targets a militant compound near the border with Afghanistan. ](/news/2013/07/2/at-least-seven-people-are-killed-in-pakistan-after-an-american-drone-strike-targets-a-militant-compound-near-the-border-with-afghanistan.md)
 _Context: Afghanistan's, Pakistan, drones launch_
@@ -39,7 +39,7 @@ _Context: Edward Snowden, Evo Morales_
 ### [Wales becomes the first country in the UK to adopt a presumed consent system of organ donation after members of its legislative assembly vote in favour of the system. ](/news/2013/07/2/wales-becomes-the-first-country-in-the-uk-to-adopt-a-presumed-consent-system-of-organ-donation-after-members-of-its-legislative-assembly-vot.md)
 A change in the law to bring in an opt-out organ donation system has been voted through by Welsh assembly members.
 
-### [Portuguese political crisis, 2013:: Portuguese Minister of Foreign Affairs Paulo Portas quits after disagreeing with the prime minister's choice for Finance Minister, Maria Luis Albuquerque. The Minister for the Environment and Agriculture and the Minister of Social Security are also set to resign. ](/news/2013/07/2/portuguese-political-crisis-2013-portuguese-minister-of-foreign-affairs-paulo-portas-quits-after-disagreeing-with-the-prime-minister-s-ch.md)
+### [Portuguese Minister of Foreign Affairs Paulo Portas quits after disagreeing with the prime minister's choice for Finance Minister, Maria Luis Albuquerque. The Minister for the Environment and Agriculture and the Minister of Social Security are also set to resign. ](/news/2013/07/2/portuguese-minister-of-foreign-affairs-paulo-portas-quits-after-disagreeing-with-the-prime-minister-s-choice-for-finance-minister-maria-lua.md)
 _Context: Finance Minister, Maria Luis Albuquerque, Minister of Foreign Affairs, Paulo Portas, Portugal, Prime Minister of Portugal_
 
 ### [The Communist Party of Cuba announces a shakeup of its leadership with former President of the National Assembly of People's Power Ricardo Alarcon and several others losing roles on the Central Committee. ](/news/2013/07/2/the-communist-party-of-cuba-announces-a-shakeup-of-its-leadership-with-former-president-of-the-national-assembly-of-people-s-power-ricardo-a.md)

@@ -12,15 +12,15 @@ _Context: Magna Carta, Sotheby's_
 ### [ The Parliament of Lebanon adjourns a session to elect a new President of Lebanon until 23 October 2007. ](/news/2007/09/25/the-parliament-of-lebanon-adjourns-a-session-to-elect-a-new-president-of-lebanon-until-23-october-2007.md)
 _Context: Lebanese lawmakers, President of Lebanon_
 
-### [ 2007 Burmese anti-government protests:: Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. ](/news/2007/09/25/2007-burmese-anti-government-protests-approximately-20-000-people-led-by-2000-buddhist-monks-begin-another-protest-in-yangon-despite-thre.md)
-_Context: 2007 Burmese anti-government protests, Buddhist monk, Burma, Yangon, junta_
+### [ Approximately 20,000 people led by 2000 Buddhist monks begin another protest in Yangon despite threats by the Burmese junta. ](/news/2007/09/25/approximately-20-000-people-led-by-2000-buddhist-monks-begin-another-protest-in-yangon-despite-threats-by-the-burmese-junta.md)
+_Context: Buddhist monk, Burma, Yangon, junta_
 
 ### [ The highly anticipated Halo 3 was released for the Xbox 360.](/news/2007/09/25/the-highly-anticipated-halo-3-was-released-for-the-xbox-360.md)
 _Context: Halo 3, Xbox 360_
 
 ### [ Hundreds of soldiers and riot police enter Yangon in an attempt to end the demonstrations ](/news/2007/09/25/hundreds-of-soldiers-and-riot-police-enter-yangon-in-an-attempt-to-end-the-demonstrations.md)
 ### [ Myanmar's junta places dusk-till-dawn curfews on the country's two largest cities, Yangon and Mandalay. ](/news/2007/09/25/myanmar-s-junta-places-dusk-till-dawn-curfews-on-the-country-s-two-largest-cities-yangon-and-mandalay.md)
-_Context: Mandalay, Myanmar_
+_Context: Burmese, Mandalay_
 
 ### [ The House of Representatives of Japan elects Yasuo Fukuda as the new Prime Minister of Japan. ](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.md)
 _Context: Prime Minister of Japan, Yasuo Fukuda, the Lower House of the Diet_

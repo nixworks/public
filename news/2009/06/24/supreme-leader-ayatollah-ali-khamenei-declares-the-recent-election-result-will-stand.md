@@ -1,6 +1,6 @@
 ### [2009-06-24](/news/2009/06/24/index.md)
 
-#   Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. 
+#  Supreme Leader Ayatollah Ali Khamenei declares the recent election result will stand. 
 
 Ayatollah Ali Khamenei has declared that the disputed Iran election result will stand, despite violent street protests in recent days.
 

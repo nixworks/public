@@ -11,7 +11,7 @@ A man is arrested on suspicion of burglary, trespass and criminal damage after s
 
 ### Related:
 
-1. [2017 Buckingham Palace incident: Two British police officers were assaulted with a machette while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/2017-buckingham-palace-incident-two-british-police-officers-were-assaulted-with-a-machette-while-trying-to-arrest-a-man-outside-buckingham.md) _Context: Buckingham Palace_
+1. [Two British police officers were assaulted with a sword while trying to arrest a man outside Buckingham Palace. ](/news/2017/08/25/two-british-police-officers-were-assaulted-with-a-sword-while-trying-to-arrest-a-man-outside-buckingham-palace.md) _Context: Buckingham Palace_
 2. [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md) _Context: Buckingham Palace_
 3. [Around 10,000 people attend a street party in front of Buckingham Palace to celebrate Queen Elizabeth II's 90th birthday. ](/news/2016/06/12/around-10-000-people-attend-a-street-party-in-front-of-buckingham-palace-to-celebrate-queen-elizabeth-ii-s-90th-birthday.md) _Context: Buckingham Palace_
 4. [A man is arrested after attempting to enter Buckingham Palace, London, while in possession of a knife. ](/news/2013/10/14/a-man-is-arrested-after-attempting-to-enter-buckingham-palace-london-while-in-possession-of-a-knife.md) _Context: Buckingham Palace_

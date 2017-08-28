@@ -1,0 +1,25 @@
+### [2014-05-2](/news/2014/05/2/index.md)
+
+# The Armed Forces of Ukraine launch a military operation against separatists in the city of Sloviansk with claims of many deaths and two Ukrainian Army helicopters downed. In the port city of Odessa, violent clashes kill at least 42 people, as pro-Ukrainians set the pro-Russian headquarters on fire. 
+
+Many rebels have been killed in a government offensive in east Ukraine, acting President Oleksandr Turchynov says, amid heavy clashes in the southern city of Odessa.
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-europe-27259614#)
+2. [CNN](http://edition.cnn.com/2014/05/02/world/europe/ukraine-crisis/index.html)
+3. [Express](http://www.express.co.uk/news/world/473754/Dozens-killed-by-smoke-as-Ukraine-moves-closer-to-civil-war)
+
+### Related:
+
+1. [Separatists capture two Ukrainian Military bases in Luhansk Oblast as fighting continues near the rebel-held town of Sloviansk. ](/news/2014/06/4/separatists-capture-two-ukrainian-military-bases-in-luhansk-oblast-as-fighting-continues-near-the-rebel-held-town-of-sloviansk.md) _Context: Sloviansk, Ukrainian military_
+2. [Heavy fighting between the Ukrainian military and pro-Russian militants takes place in and around the rebel-held eastern city of Sloviansk. ](/news/2014/06/3/heavy-fighting-between-the-ukrainian-military-and-pro-russian-militants-takes-place-in-and-around-the-rebel-held-eastern-city-of-sloviansk.md) _Context: Sloviansk, Ukrainian military_
+3. [A Ukrainian military helicopter patrolling around the eastern city of Sloviansk is shot down; all of the pilots survived and were later rescued. ](/news/2014/05/5/a-ukrainian-military-helicopter-patrolling-around-the-eastern-city-of-sloviansk-is-shot-down-all-of-the-pilots-survived-and-were-later-resc.md) _Context: Siege of Sloviansk, Sloviansk_
+4. [A Ukrainian military Mi-2 transport helicopter crashes after hitting a power line near Kramatorsk, Donetsk Oblast, killing all five people aboard. ](/news/2017/03/26/a-ukrainian-military-mi-2-transport-helicopter-crashes-after-hitting-a-power-line-near-kramatorsk-donetsk-oblast-killing-all-five-people-a.md) _Context: Ukrainian military_
+5. [The Ukrainian military says seven soldiers have been killed by pro-Russian separatists since Sunday. The separatists report over 5 days of artillery attacks on them by the Ukrainian side. ](/news/2017/01/30/the-ukrainian-military-says-seven-soldiers-have-been-killed-by-pro-russian-separatists-since-sunday-the-separatists-report-over-5-days-of-a.md) _Context: Ukrainian military_
+6. [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md) _Context: Ukrainian military_
+7. [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md) _Context: Ukrainian military_
+8. [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md) _Context: Ukrainian military_
+9. [The Ukrainian military retakes control of the strategic village of Shyrokyne. ](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-strategic-village-of-shyrokyne.md) _Context: Ukrainian military_
+10. [Four people are killed after a minibus hit a landmine near a Ukrainian military checkpoint in the Donetsk Oblast. ](/news/2016/02/10/four-people-are-killed-after-a-minibus-hit-a-landmine-near-a-ukrainian-military-checkpoint-in-the-donetsk-oblast.md) _Context: Ukrainian military_

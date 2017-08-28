@@ -1,6 +1,6 @@
 ## [2013-07-27](/news/2013/07/27/index.md)
 
-### [Aftermath of the 2013 Egyptian coup d'tat:: Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/aftermath-of-the-2013-egyptian-coup-d-etat-over-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-i.md)
+### [Over 100 people are killed and around 1,500 injured in a violent crackdown against protesters in the Egyptian capital of Cairo. ](/news/2013/07/27/over-100-people-are-killed-and-around-1-500-injured-in-a-violent-crackdown-against-protesters-in-the-egyptian-capital-of-cairo.md)
 More than 100 people are reported killed in clashes at a protest held by supporters of ousted Egyptian President Mohammed Morsi in Cairo.
 
 ### [At least six people are killed and 37 injured in a bomb blast in Cagayan De Oro City, Philippines. ](/news/2013/07/27/at-least-six-people-are-killed-and-37-injured-in-a-bomb-blast-in-cagayan-de-oro-city-philippines.md)

@@ -40,7 +40,7 @@ _Context: Arlanda Airport, Canada, Karachi, National Task Force, Pakistan, Pakis
 The Obama administration on Saturday urged a federal judge to reject a challenge to a program that targets for killing U.S. citizens like Muslim cleric Anwar al-Awlaki who have joined militant groups and have been tied to terrorism plots.
 
 ### [Campaigning begins in Myanmar ahead of November elections. ](/news/2010/09/25/campaigning-begins-in-myanmar-ahead-of-november-elections.md)
-_Context: Myanmar, general elections_
+_Context: Burmese, general elections_
 
 ### [In the United Kingdom, the Labour Party elects Ed Miliband over his older brother David in the tightest leadership election in history, with Ed coming out on top in only the 4th round of voting. ](/news/2010/09/25/in-the-united-kingdom-the-labour-party-elects-ed-miliband-over-his-older-brother-david-in-the-tightest-leadership-election-in-history-with.md)
 Ed Miliband beats his brother David by a wafer thin margin to be elected leader of the Labour Party.

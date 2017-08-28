@@ -15,7 +15,7 @@ Eight Taliban militants have been killed in an attack on a military outpost near
 ### [A fire kills dozens of animals at a zoo in Karlsruhe, Germany. ](/news/2010/11/13/a-fire-kills-dozens-of-animals-at-a-zoo-in-karlsruhe-germany.md)
 A fire at a zoo in the German city of Karlsruhe leaves 26 animals dead, including Shetland ponies, sheep, goats and a llama.
 
-### [APEC Japan 2010:: Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/apec-japan-2010-leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md)
+### [Leaders from the Asia Pacific Economic Cooperation area attend the APEC Japan 2010 summit in Yokohama. ](/news/2010/11/13/leaders-from-the-asia-pacific-economic-cooperation-area-attend-the-apec-japan-2010-summit-in-yokohama.md)
 _Context: APEC Japan 2010, Asia-Pacific Economic Cooperation, Yokohama_
 
 ### [Former U.S. President Jimmy Carter says that Hamas has agreed to deliver a letter from abducted Israel Defense Forces soldier Gilad Shalit to his family; Carter has mediated between the two sides in the past. ](/news/2010/11/13/former-u-s-president-jimmy-carter-says-that-hamas-has-agreed-to-deliver-a-letter-from-abducted-israel-defense-forces-soldier-gilad-shalit-t.md)

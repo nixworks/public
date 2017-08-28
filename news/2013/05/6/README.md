@@ -1,19 +1,17 @@
 ## [2013-05-6](/news/2013/05/6/index.md)
 
-### [Afghanistan-Pakistan skirmishes:: An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/afghanistan-pakistan-skirmishes-an-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md)
+### [An Afghan border police guard is killed and two Pakistani troops are injured in border violence. ](/news/2013/05/6/an-afghan-border-police-guard-is-killed-and-two-pakistani-troops-are-injured-in-border-violence.md)
 Afghan and Pakistani troops clash for the second time in a week amid tensions over a dispute between the two countries over their shared border.
 
-### [Syrian civil war:: Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/syrian-civil-war-rebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md)
+### [Rebels shoot down a Syrian Military helicopter in Deir ez-Zor Governorate killing all eight soldiers on board. ](/news/2013/05/6/rebels-shoot-down-a-syrian-military-helicopter-in-deir-ez-zor-governorate-killing-all-eight-soldiers-on-board.md)
 United Nations human rights investigators have gathered testimony from casualties of Syria’s civil war and medical workers indicating that rebel forces have used the nerve agent.
 
-### [Iraqi insurgency (post-U.S. withdrawal):: At least 10 people are killed and 26 others injured in attacks across Iraq. ](/news/2013/05/6/iraqi-insurgency-post-u-s-withdrawal-at-least-10-people-are-killed-and-26-others-injured-in-attacks-across-iraq.md)
-_Context: Iraqi insurgency (post-U.S. withdrawal)_
-
+### [At least 10 people are killed and 26 others injured in attacks across Iraq. ](/news/2013/05/6/at-least-10-people-are-killed-and-26-others-injured-in-attacks-across-iraq.md)
 ### [13 people die in clashes between Islamist protesters and Bangladesh Police officers in the Bangladesh capital of Dhaka and the outlying suburb of Kanchpur. ](/news/2013/05/6/13-people-die-in-clashes-between-islamist-protesters-and-bangladesh-police-officers-in-the-bangladesh-capital-of-dhaka-and-the-outlying-subu.md)
 _Context: Dhaka, Islamist, police officers_
 
-### [War in North-West Pakistan:: 15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/war-in-north-west-pakistan-15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema.md)
-_Context: Federally Administered Tribal Areas, Jamiat Ulema-e-Islam, Kurram, Pakistan, War in North-West Pakistan_
+### [15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e-islam-in-kurram-valley-fed.md)
+_Context: Federally Administered Tribal Areas, Jamiat Ulema-e-Islam, Kurram, Pakistan_
 
 ### [Wal-Mart passes ExxonMobil as the largest company by revenue on the annual Fortune 500 list. ](/news/2013/05/6/wal-mart-passes-exxonmobil-as-the-largest-company-by-revenue-on-the-annual-fortune-500-list.md)
 _Context: ExxonMobil Corporation, Fortune 500, Walmart_

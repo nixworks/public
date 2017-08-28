@@ -1,6 +1,6 @@
 ## [2010-07-21](/news/2010/07/21/index.md)
 
-### [Turkey - Kurdistan Workers' Party conflict:: Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/turkey-kurdistan-workers-party-conflict-kurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-s.md)
+### [Kurdistan Workers' Party (PKK) leader Murat Karayilan says the group would disarm under the supervision of the United Nations in return for an end to attacks on Kurdish civilians and arrests of Kurdish politicians in eastern Turkey, as well as additional linguistic and cultural rights. ](/news/2010/07/21/kurdistan-workers-party-pkk-leader-murat-karayilan-says-the-group-would-disarm-under-the-supervision-of-the-united-nations-in-return-for.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ### [Unidentified gunmen on motorcycles fatally shoot Indian civil rights campaigner and environmentalist Amit Jethwa in Ahmedabad, Gujarat. ](/news/2010/07/21/unidentified-gunmen-on-motorcycles-fatally-shoot-indian-civil-rights-campaigner-and-environmentalist-amit-jethwa-in-ahmedabad-gujarat.md)
@@ -111,7 +111,7 @@ UN court back appeal against acquittal over offences allegedly committed during 
 ### [Human Rights Watch calls for an independent investigation in Rwanda into the death of Andre Kagwa Rwisereka, vice president of the opposition Democratic Green Party, who was killed weeks before a presidential election. ](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.md)
 _Context: Andre Kagwa Rwisereka, Democratic Greens, Human Rights Watch, Rwanda, presidential election_
 
-### [Italian police announce 67 arrests, -250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
+### [Italian police announce 67 arrests, EUR250 million worth of property seizures and the "wipe out" of a local clan. ](/news/2010/07/21/italian-police-announce-67-arrests-a-250-million-worth-of-property-seizures-and-the-wipe-out-of-a-local-clan.md)
 _Context: Italian_
 
 ### [Israel tells the United Nations it will limit the use of fatal burning weapon white phosphorus in future conflicts after using it on civilians during its War on Gaza. ](/news/2010/07/21/israel-tells-the-united-nations-it-will-limit-the-use-of-fatal-burning-weapon-white-phosphorus-in-future-conflicts-after-using-it-on-civilia.md)

@@ -1,7 +1,7 @@
 ## [2013-06-14](/news/2013/06/14/index.md)
 
-### [Syrian civil war:: The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/syrian-civil-war-the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemi.md)
-_Context: Syrian Civil War, United States_
+### [The United States offers unspecified military equipment to the rebels after determining that the Syrian regime used chemical weapons against the opposition. ](/news/2013/06/14/the-united-states-offers-unspecified-military-equipment-to-the-rebels-after-determining-that-the-syrian-regime-used-chemical-weapons-against.md)
+_Context: United States_
 
 ### [A search and rescue operation gets underway after a Roll-on/roll-off ferry carrying about 60 people capsizes off the island of Burias in the Philippines Masbate province. So far 34 people have been rescued and at least one death confirmed. ](/news/2013/06/14/a-search-and-rescue-operation-gets-underway-after-a-roll-on-roll-off-ferry-carrying-about-60-people-capsizes-off-the-island-of-burias-in-the.md)
 The search for survivors continues after a ferry carrying more than 50 people capsized off the Philippines coast.
@@ -33,7 +33,7 @@ _Context: Newtown, Connecticut, Sandy Hook massacre_
 ### [Charla Nash, 59, of Stamford, Connecticut, is told she cannot sue the state and its Dept. of Energy for $150 million, after being blinded for life and receiving a full face transplant after receiving a brutal mauling by Travis, an escaped chimpanzee. ](/news/2013/06/14/charla-nash-59-of-stamford-connecticut-is-told-she-cannot-sue-the-state-and-its-dept-of-energy-for-150-million-after-being-blinded-fo.md)
 _Context: Charla Nash, Stamford, Connecticut, Travis_
 
-### [Iranian general election:: Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/iranian-general-election-voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md)
+### [Voters in Iran go to the polls for a presidential and local elections. ](/news/2013/06/14/voters-in-iran-go-to-the-polls-for-a-presidential-and-local-elections.md)
 IRAN-ELECTION/RESULTS:Rohani tops early Iran election results -interior minister
 
 ### [The Airbus A350 XWB makes its maiden flight from Toulouse-Blagnac Airport. ](/news/2013/06/14/the-airbus-a350-xwb-makes-its-maiden-flight-from-toulouse-blagnac-airport.md)

@@ -15,7 +15,7 @@ Dissident republican group the Real IRA says it carried out a car bomb attack in
 ### [A state of emergency in place in Ecuador after the 2010 Ecuador crisis is extended to Friday. ](/news/2010/10/5/a-state-of-emergency-in-place-in-ecuador-after-the-2010-ecuador-crisis-is-extended-to-friday.md)
 _Context: Ecuador, protested against being stripped of their bonuses, state of emergency_
 
-### [TVNZ "Breakfast" race row:: "Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. ](/news/2010/10/5/tvnz-breakfast-race-row-breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial-in.md)
+### ["Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. ](/news/2010/10/5/breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial-interview-with-john-key-the-n.md)
 Paul Henry has been suspended by TVNZ for comments he made yesterday about the Governor-General Sir Anand Satyanand. - New Zealand Herald
 
 ### [Google lines up Internet TV programming partners like TBS, TNT, CNN, HBO, NBA, CNBC. ](/news/2010/10/5/google-lines-up-internet-tv-programming-partners-like-tbs-tnt-cnn-hbo-nba-cnbc.md)

@@ -12,7 +12,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 ### [ Venezuelan President Hugo Chavez announces that China is to invest 16 billion US dollars to boost oil production in the country particularly along the Orinoco River as part of a strategy to reduce dependence on the US market. ](/news/2009/09/16/venezuelan-president-hugo-cha-vez-announces-that-china-is-to-invest-16-billion-us-dollars-to-boost-oil-production-in-the-country-particular.md)
 Venezuelan President Hugo Chavez announced Wednesday that China will invest 16 billion US dollars to boost oil production in the country particularly along the Orinoco River, as part of a strategy to reduce dependence on the US market.
 
-### [ Argentina formally accepts apologies from the Spanish government which admitted having committed a -protocol error- on allowing the presence of a delegation from the Falkland Islands in an international fisheries sustainability conference. ](/news/2009/09/16/argentina-formally-accepts-apologies-from-the-spanish-government-which-admitted-having-committed-a-protocol-error-on-allowing-the-pre.md)
+### [ Argentina formally accepts apologies from the Spanish government which admitted having committed a "protocol error" on allowing the presence of a delegation from the Falkland Islands in an international fisheries sustainability conference. ](/news/2009/09/16/argentina-formally-accepts-apologies-from-the-spanish-government-which-admitted-having-committed-a-aprotocol-errora-on-allowing-the-pre.md)
 Argentina formally accepted Wednesday apologies from the Spanish government which admitted having committed a &ldquo;protocol error&rdquo; on allowing the presence of a delegation from the Falkland Islands in an international fisheries sustainability conference, reports Efe, the Spanish government n...
 
 ### [ Kenya's parliament nullifies President Mwai Kibaki's reappointment of Kenya's anti-corruption chief, Justice Aaron Ringera, who critics say has shown little interest in fighting graft. ](/news/2009/09/16/kenya-s-parliament-nullifies-president-mwai-kibaki-s-reappointment-of-kenya-s-anti-corruption-chief-justice-aaron-ringera-who-critics-say.md)
@@ -28,7 +28,7 @@ _Context: World Meteorological Organisation, hole, ozone layer_
 _Context: China, Xinjiang_
 
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: Al-Shabaab, Islam, Saleh Ali Saleh Nabhan, Somalia, United States_
+_Context: Al-Shabaab, Muslims, Saleh Ali Saleh Nabhan, Somalia, United States_
 
 ### [ Gunmen kill 10 people at a drug rehabilitation clinic in Mexico. ](/news/2009/09/16/gunmen-kill-10-people-at-a-drug-rehabilitation-clinic-in-mexico.md)
 _Context: Mexico_

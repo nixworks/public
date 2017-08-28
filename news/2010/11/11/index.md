@@ -57,7 +57,7 @@ _Context: Environment, NBS, Statistics Canada_
 ### [Iceland opens an inquiry as it emerges that its citizens may be being spied on by the United States embassy. This follows similar investigations into possible illegal U.S. activities in Norway, Denmark, Sweden, and Finland, with possibly hundreds of Norwegians being monitored and Sweden describing the matter as "very serious". ](/news/2010/11/11/iceland-opens-an-inquiry-as-it-emerges-that-its-citizens-may-be-being-spied-on-by-the-united-states-embassy-this-follows-similar-investigat.md)
 Iceland becomes the latest Nordic country to investigate whether its citizens are being spied on by the US embassy.
 
-### [Cuba - United States relations: A Cuban website questions the release of "Call of Duty: Black Ops", an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-whic.md)
+### [Cuba - United States relations: A Cuban website questions the release of "Call of Duty: Black Ops", an American shooter video game in which United States forces try to murder Fidel Castro. ](/news/2010/11/11/cuba-a-united-states-relations-a-cuban-website-questions-the-release-of-call-of-duty-black-ops-an-american-shooter-video-game-in-whic.md)
 Cuba has condemned the release of a new video game in which United States special forces try to kill a young Fidel Castro.
 
 ### [World leaders gather in Seoul, South Korea, for the G-20 summit. ](/news/2010/11/11/world-leaders-gather-in-seoul-south-korea-for-the-g-20-summit.md)

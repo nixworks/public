@@ -1,18 +1,18 @@
 ## [2014-08-3](/news/2014/08/3/index.md)
 
-### [2014 pro-Russian unrest in Ukraine: War in Donbass:: The pro-Russian separatists in Donetsk, who are now in great danger of being encircled by the Ukraine government forces, renew their calls for Russia to send troops and arms to their aid. ](/news/2014/08/3/2014-pro-russian-unrest-in-ukraine-war-in-donbass-the-pro-russian-separatists-in-donetsk-who-are-now-in-great-danger-of-being-encircled.md)
+### [The pro-Russian separatists in Donetsk, who are now in great danger of being encircled by the Ukraine government forces, renew their calls for Russia to send troops and arms to their aid. ](/news/2014/08/3/the-pro-russian-separatists-in-donetsk-who-are-now-in-great-danger-of-being-encircled-by-the-ukraine-government-forces-renew-their-calls-f.md)
 Advances by Ukrainian army lead to intense fighting as separatists renew calls for Moscow to send troops
 
-### [2014 Israel-Gaza conflict: A UNRWA-run school in Rafah is hit by an Israeli air strike. At least seven people are thought to have been killed, and at least 30 injured. ](/news/2014/08/3/2014-israel-gaza-conflict-a-unrwa-run-school-in-rafah-is-hit-by-an-israeli-air-strike-at-least-seven-people-are-thought-to-have-been-kil.md)
+### [A UNRWA-run school in Rafah is hit by an Israeli air strike. At least seven people are thought to have been killed, and at least 30 injured. ](/news/2014/08/3/a-unrwa-run-school-in-rafah-is-hit-by-an-israeli-air-strike-at-least-seven-people-are-thought-to-have-been-killed-and-at-least-30-injured.md)
 There have been renewed clashes between Israeli military and militants in Gaza overnight as witnesses and medics say an Israeli air strike killed at least seven people and wounded about 30 others on Sunday in a UN-run school in the southern Gaza Strip.
 
-### [Nagorno-Karabakh conflict: 2014 Armenian-Azerbaijani clashes: Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/nagorno-karabakh-conflict-2014-armenian-azerbaijani-clashes-four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-n.md)
+### [Four Azerbaijani soldiers are killed in fresh clashes with Armenian groups near the border of the breakaway Nagorno-Karabakh Republic. ](/news/2014/08/3/four-azerbaijani-soldiers-are-killed-in-fresh-clashes-with-armenian-groups-near-the-border-of-the-breakaway-nagorno-karabakh-republic.md)
 _Context: 2014 Armenian-Azerbaijani clashes, Armenian, Azerbaijan, Nagorno-Karabakh, Nagorno-Karabakh conflict_
 
-### [Syrian Civil War: The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/syrian-civil-war-the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md)
+### [The Islamic State loses control of three towns in the area around Al-Asharah to local tribesmen. ](/news/2014/08/3/the-islamic-state-loses-control-of-three-towns-in-the-area-around-al-asharah-to-local-tribesmen.md)
 Villagers in eastern Syria drive out Islamic State militants, in a rare display of local resistance to the group, as fighting rages in neighbouring Iraq.
 
-### [2014 Northern Iraq offensive: The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/2014-northern-iraq-offensive-the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md)
+### [The Islamic State seizes the Yazidi-dominated town of Sinjar. ](/news/2014/08/3/the-islamic-state-seizes-the-yazidi-dominated-town-of-sinjar.md)
 The UN has warned that up to 200,000 people have been forced to flee after Islamic State militants take over more towns in northern Iraq.
 
 ### [The Bank of Portugal takes control of Banco Espirito Santo SA in a 4.9 billion bailout package. ](/news/2014/08/3/the-bank-of-portugal-takes-control-of-banco-espirito-santo-sa-in-a-4-9-billion-bailout-package.md)

@@ -1,7 +1,7 @@
 ## [2010-04-13](/news/2010/04/13/index.md)
 
-### [Nuclear Security Summit:: President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/nuclear-security-summit-president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945.md)
-_Context: Barack Obama, Nuclear Security Summit, President, United States_
+### [President of the United States Barack Obama opening the biggest international meeting hosted by the US since 1945, greets leaders from nearly 50 countries. World leaders at the summit hear dire warnings of the danger of nuclear material falling into the wrong hands. ](/news/2010/04/13/president-of-the-united-states-barack-obama-opening-the-biggest-international-meeting-hosted-by-the-us-since-1945-greets-leaders-from-nearl.md)
+_Context: Barack Obama, President, United States_
 
 ### [A magnitude 6.9 earthquake strikes southeastern Qinghai, China, near the Yangtze River. There were no immediate reports of casualties. ](/news/2010/04/13/a-magnitude-6-9-earthquake-strikes-southeastern-qinghai-china-near-the-yangtze-river-there-were-no-immediate-reports-of-casualties.md)
 _Context: China, Qinghai, Yangtze River_
@@ -36,7 +36,7 @@ _Context: Abu Sayyaf, Isabela City, Philippines_
 ### [At least 73 civilians were killed when an army jet bombed a remote village in Pakistan's tribal region of Khyber, a local official has told the BBC. ](/news/2010/04/13/at-least-73-civilians-were-killed-when-an-army-jet-bombed-a-remote-village-in-pakistan-s-tribal-region-of-khyber-a-local-official-has-told.md)
 _Context: Pakistan_
 
-### [UK General Election countdown: Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/uk-general-election-countdown-conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change.md)
+### [Conservative leader David Cameron launches his party's election manifesto, which he says is a "plan to change Britain for the better". He said the "optimistic" plan would bring a "new kind of government" with less state and more "people power". ](/news/2010/04/13/conservative-leader-david-cameron-launches-his-party-s-election-manifesto-which-he-says-is-a-plan-to-change-britain-for-the-better-he-sa.md)
 _Context: 2010 general election, Britain, Conservative Party, David Cameron_
 
 ### [All 103 passengers and crew escape alive after a Boeing 737-300 overruns the runway at Rendani Airport, Manokwari, Indonesia. ](/news/2010/04/13/all-103-passengers-and-crew-escape-alive-after-a-boeing-737-300-overruns-the-runway-at-rendani-airport-manokwari-indonesia.md)

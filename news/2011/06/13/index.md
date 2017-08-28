@@ -9,8 +9,8 @@ Trial of 48 medical workers accused of attempting to topple the monarchy opens a
 ### [Tunisian revolution: It is announced that the trial of Zine El Abidine Ben Ali, ousted from power during the popular revolution, is to begin on 20 June. ](/news/2011/06/13/tunisian-revolution-it-is-announced-that-the-trial-of-zine-el-abidine-ben-ali-ousted-from-power-during-the-popular-revolution-is-to-begin.md)
 _Context: Jasmine Revolution of 2011, Zine El Abidine Ben Ali_
 
-### [2011 Syrian uprising:: The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/2011-syrian-uprising-the-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and.md)
-_Context: 2011 Syrian uprising, Jisr al-Shughour_
+### [The Syrian regime claims to have retaken Jisr al-Shughour, while residents who fled speak of fighting, divisions and defections among government troops as police and workers arm themselves to defend the town against the army. ](/news/2011/06/13/the-syrian-regime-claims-to-have-retaken-jisr-al-shughour-while-residents-who-fled-speak-of-fighting-divisions-and-defections-among-govern.md)
+_Context: Jisr al-Shughour_
 
 ### [Egyptian officials report the arrest of the 27-year-old Israeli-American Ilan Grapel on suspicion of espionage for Israel. Israeli officials have rejected the Egyptian accusations.](/news/2011/06/13/egyptian-officials-report-the-arrest-of-the-27-year-old-israeli-american-ilan-grapel-on-suspicion-of-espionage-for-israel-israeli-officials.md)
 Israeli officials dismiss Egyptian reports that a suspected Mossad spy has been arrested in Cairo.
@@ -30,7 +30,7 @@ _Context: 2011 Yemeni protests, Abd al-Rab Mansur al-Hadi_
 ### [North and South Sudan agree to demilitarise the disputed Abyei region. ](/news/2011/06/13/north-and-south-sudan-agree-to-demilitarise-the-disputed-abyei-region.md)
 _Context: Abyei, South Sudan, Sudan, demilitarise_
 
-### [Eruption of the Nabro Volcano:: The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/eruption-of-the-nabro-volcano-the-long-dormant-nabro-volcano-erupts-in-eritrea.md)
+### [The long-dormant Nabro Volcano erupts in Eritrea. ](/news/2011/06/13/the-long-dormant-nabro-volcano-erupts-in-eritrea.md)
 The US secretary of state cuts short a three-nation tour of Africa due to a volcanic eruption that threatened to leave her stranded in Ethiopia.
 
 ### [Tens of thousands of people in Christchurch, New Zealand, are left without power as the city is hit by powerful aftershocks of the 2011 Christchurch earthquake. ](/news/2011/06/13/tens-of-thousands-of-people-in-christchurch-new-zealand-are-left-without-power-as-the-city-is-hit-by-powerful-aftershocks-of-the-2011-chri.md)

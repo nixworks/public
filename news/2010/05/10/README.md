@@ -6,13 +6,13 @@ _Context: Basra, Iraq, Iraqi insurgency, Mosul, suicide bombing_
 ### [Prime Minister of the United Kingdom Gordon Brown announces his intention to resign as Leader of the Labour Party, and calls for a leadership election to be completed by September. ](/news/2010/05/10/prime-minister-of-the-united-kingdom-gordon-brown-announces-his-intention-to-resign-as-leader-of-the-labour-party-and-calls-for-a-leadershi.md)
 _Context: Gordon Brown, Leader of the Labour Party, Prime Minister, being elected_
 
-### [Stock markets rise significantly and bond prices fall around the world after investors are reassured by the European Union and International Monetary Fund-s nearly $1 trillion plan to avoid a European debt crisis. ](/news/2010/05/10/stock-markets-rise-significantly-and-bond-prices-fall-around-the-world-after-investors-are-reassured-by-the-european-union-and-international.md)
+### [Stock markets rise significantly and bond prices fall around the world after investors are reassured by the European Union and International Monetary Fund's nearly $1 trillion plan to avoid a European debt crisis. ](/news/2010/05/10/stock-markets-rise-significantly-and-bond-prices-fall-around-the-world-after-investors-are-reassured-by-the-european-union-and-international.md)
 _Context: European Union, International Monetary Fund, economically troubled euro-zone nations, stock market_
 
 ### [President Obama nominates Solicitor General Elena Kagan as the youngest Justice and third woman for the Supreme Court of the United States. ](/news/2010/05/10/president-obama-nominates-solicitor-general-elena-kagan-as-the-youngest-justice-and-third-woman-for-the-supreme-court-of-the-united-states.md)
 _Context: Barack Obama, Elena Kagan, Justice, President, U.S. Supreme Court, United States solicitor general_
 
-### [German Chancellor Angela Merkel-s government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkel-s-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
+### [German Chancellor Angela Merkel's government loses its majority in the upper house of parliament in a state election marked by voter anger over the bailout to avoid the Greek debt crisis. ](/news/2010/05/10/german-chancellor-angela-merkelas-government-loses-its-majority-in-the-upper-house-of-parliament-in-a-state-election-marked-by-voter-anger.md)
 _Context: Angela Merkel, German Chancellor, economically troubled euro-zone nations, upper house of parliament_
 
 ### [BP sprays more chemicals into the main massive undersea oil leak in the Gulf of Mexico using a deep-sea robot in an attempt to thin the oil which is rushing up from the seabed at the rate of about 210,000 gallons (795,000 liters) per day. ](/news/2010/05/10/bp-sprays-more-chemicals-into-the-main-massive-undersea-oil-leak-in-the-gulf-of-mexico-using-a-deep-sea-robot-in-an-attempt-to-thin-the-oil.md)

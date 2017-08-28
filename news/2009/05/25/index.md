@@ -13,7 +13,7 @@ North Korea&#039;s state media has confirmed the communist state has conducted a
 _Context: 4th quarter of 2007 and the second quarter of 2009, Singapore, consumer price index_
 
 ### [ Somali President Sharif Ahmed requests international aid in combating Islamic militants. ](/news/2009/05/25/somali-president-sharif-ahmed-requests-international-aid-in-combating-islamic-militants.md)
-_Context: President, Sharif Ahmed, Somalia, War in Somalia (2009-), international aid, militant, radical Islamists_
+_Context: President, Sharif Ahmed, Somalia, declares, international aid, militant, radical Islamists_
 
 ## [Previous Day...](/news/2009/05/24/index.md)
 

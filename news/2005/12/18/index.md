@@ -30,7 +30,7 @@ _Context: (Wikinews), Ariel Sharon, Gaza Strip, Hadassah Ein Kerem hospital, Isr
 ### [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md)
 _Context: FIFA Club World Championship, Japan, Liverpool, SGBPo Paulo, Yokohama_
 
-### [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq - we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-we.md)
+### [ President George W. Bush defends the Iraq War in a rare primetime Oval Office address. He said, "Not only can we win the war in Iraq -- we are winning the war in Iraq." ](/news/2005/12/18/president-george-w-bush-defends-the-iraq-war-in-a-rare-primetime-oval-office-address-he-said-not-only-can-we-win-the-war-in-iraq-a-we.md)
 _Context: George W. Bush, Iraq War, Oval Office, President_
 
 ## [Previous Day...](/news/2005/12/17/index.md)

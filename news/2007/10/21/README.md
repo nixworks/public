@@ -24,7 +24,7 @@ _Context: China, Fujian, Putian, factory_
 ### [ The Boston Red Sox defeat the Cleveland Indians 11-2 winning the 2007 American League Championship Series and going on to meet the Colorado Rockies, the 2007 National League champions, in the 2007 World Series. ](/news/2007/10/21/the-boston-red-sox-defeat-the-cleveland-indians-11-2-winning-the-2007-american-league-championship-series-and-going-on-to-meet-the-colorado.md)
 Boston charged to its third straight win, completing yet another October comeback by overpowering the Cleveland Indians 11-2 Sunday night in Game 7 of the AL championship series behind a new pair of rookie Sox.
 
-### [ 2007 California fires:: At least nine wildfires burn out of control in Southern California leading to the death of a San Diego man. ](/news/2007/10/21/2007-california-fires-at-least-nine-wildfires-burn-out-of-control-in-southern-california-leading-to-the-death-of-a-san-diego-man.md)
+### [ At least nine wildfires burn out of control in Southern California leading to the death of a San Diego man. ](/news/2007/10/21/at-least-nine-wildfires-burn-out-of-control-in-southern-california-leading-to-the-death-of-a-san-diego-man.md)
 Fast-moving wildfires roared across California on Monday and engulfed large swaths of San Diego County, where 250,000 people were told to evacuate as state officials called in National Guard troops.
 
 ### [ The world's biggest banks endorse a rescue plan, also supported by the United States Treasury, to restore the world's financial system. ](/news/2007/10/21/the-world-s-biggest-banks-endorse-a-rescue-plan-also-supported-by-the-united-states-treasury-to-restore-the-world-s-financial-system.md)

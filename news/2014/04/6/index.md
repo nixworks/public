@@ -1,12 +1,12 @@
 ## [2014-04-6](/news/2014/04/6/index.md)
 
-### [Syrian Civil War:: Mortar fire kills two people near the Damascus Opera House. ](/news/2014/04/6/syrian-civil-war-mortar-fire-kills-two-people-near-the-damascus-opera-house.md)
+### [Mortar fire kills two people near the Damascus Opera House. ](/news/2014/04/6/mortar-fire-kills-two-people-near-the-damascus-opera-house.md)
 DAMASCUS, Syria (AP) — Mortar shells exploded near the Damascus Opera House on Sunday, killing two, state media said, as rebels intensified their shelling of the Syrian capital to relieve pressure on an opposition neighborhood that government forces have been trying to seize.
 
-### [2014 pro-Russian protests in Ukraine:: Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/2014-pro-russian-protests-in-ukraine-pro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donet.md)
+### [Pro-Russian demonstrators seize an administrative headquarters in the eastern Ukrainian city of Donetsk. ](/news/2014/04/6/pro-russian-demonstrators-seize-an-administrative-headquarters-in-the-eastern-ukrainian-city-of-donetsk.md)
 Pro-Russian protesters storm government buildings in three eastern Ukrainian cities, calling for a referendum on independence.
 
-### [2014 Aswan tribal clashes:: Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/2014-aswan-tribal-clashes-two-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md)
+### [Two more people are killed in Egypt's Aswan in a third day of clashes. Death toll rises to 25. ](/news/2014/04/6/two-more-people-are-killed-in-egypt-s-aswan-in-a-third-day-of-clashes-death-toll-rises-to-25.md)
 Two people were killed on Sunday when tribal clashes flared for a third day in the southern city of Aswan, security sources said.
 
 ### ["Captain America: The Winter Soldier" grosses an estimated US$96.2 million domestically during its opening weekend, the most ever for an April opener. ](/news/2014/04/6/captain-america-the-winter-soldier-grosses-an-estimated-us-96-2-million-domestically-during-its-opening-weekend-the-most-ever-for-an-apr.md)
@@ -27,13 +27,13 @@ _Context: Economy of South Africa, Nigeria's economy_
 ### [The Ambassador of Italy to Turkmenistan is charged for alleged child abuse while on holiday in the Philippines. ](/news/2014/04/6/the-ambassador-of-italy-to-turkmenistan-is-charged-for-alleged-child-abuse-while-on-holiday-in-the-philippines.md)
 The Italian ambassador to Turkmenistan has been detained by police in the Philippines, who have accused him of violating laws on the safeguarding of children, the Foreign Ministry in Rome said on Sunday.
 
-### [Costa Rican general election, 2014:: Voters in Costa Rica go to the polls for a general election. Luis Guillermo Sols is the only presidential candidate left in the race following the withdrawal of Johnny Araya. ](/news/2014/04/6/costa-rican-general-election-2014-voters-in-costa-rica-go-to-the-polls-for-a-general-election-luis-guillermo-solis-is-the-only-president.md)
-_Context: Costa Rican general election, 2014, Johnny Araya, Luis Guillermo Sols_
+### [Voters in Costa Rica go to the polls for a general election. Luis Guillermo Sols is the only presidential candidate left in the race following the withdrawal of Johnny Araya. ](/news/2014/04/6/voters-in-costa-rica-go-to-the-polls-for-a-general-election-luis-guillermo-solis-is-the-only-presidential-candidate-left-in-the-race-follow.md)
+_Context: Johnny Araya, Luis Guillermo Sols_
 
-### [Hungarian parliamentary election, 2014:: Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/hungarian-parliamentary-election-2014-voters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-ch.md)
-_Context: Christian Democrats, Fidesz party, Hungarian Prime Minister, Hungarian parliamentary election, 2014, Viktor Orbn_
+### [Voters in Hungary go to the polls, and Prime Minister Viktor Orbn's Fidesz and their allies the Christian Democrats win re-election easily, with 45% of the vote. ](/news/2014/04/6/voters-in-hungary-go-to-the-polls-and-prime-minister-viktor-orban-s-fidesz-and-their-allies-the-christian-democrats-win-re-election-easily.md)
+_Context: Christian Democrats, Fidesz party, Hungarian Prime Minister, Viktor Orbn_
 
-### [Russian municipal elections: Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/russian-municipal-elections-communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-o.md)
+### [Communist Party of the Russian Federation candidate Anatoly Lokot was elected mayor of the third-largest city of Novosibirsk, defeating ruling United Russia party candidate. ](/news/2014/04/6/communist-party-of-the-russian-federation-candidate-anatoly-lokot-was-elected-mayor-of-the-third-largest-city-of-novosibirsk-defeating-ruli.md)
 _Context: Anatoly Lokot, Communist Party, Novosibirsk, United Russia_
 
 ## [Previous Day...](/news/2014/04/5/index.md)

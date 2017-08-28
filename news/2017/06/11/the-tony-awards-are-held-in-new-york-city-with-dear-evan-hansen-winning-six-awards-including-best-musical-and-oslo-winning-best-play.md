@@ -1,6 +1,6 @@
 ### [2017-06-11](/news/2017/06/11/index.md)
 
-# The Tony Awards are held in New York City with ''Dear Evan Hansen'' winning six awards including Best Musical and ''Oslo'' winning best play. 
+# The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. 
 
 The surprise hit musical won a total of six Tonys, including best musical actor for 23 year-old newcomer Ben Platt
 
@@ -20,4 +20,4 @@ The surprise hit musical won a total of six Tonys, including best musical actor 
 7. [Authorities seek three men after they rob $6 million on New Year's Eve from the offices of high-end jewelry designer Gregg Ruth in New York City. ](/news/2017/01/1/authorities-seek-three-men-after-they-rob-6-million-on-new-year-s-eve-from-the-offices-of-high-end-jewelry-designer-gregg-ruth-in-new-york.md) _Context: New York City_
 8. [Protests against American president-elect Donald Trump continue in his hometown New York City. ](/news/2016/11/12/protests-against-american-president-elect-donald-trump-continue-in-his-hometown-new-york-city.md) _Context: New York City_
 9. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: New York City_
-10. [The New York City Metropolitan Opera cancels its Saturday performances as a man,  during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention.  ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentifie.md) _Context: New York City_
+10. [The New York City Metropolitan Opera cancels its Saturday performances as a man, during an afternoon intermission, sprinkled an unidentified powder, suspected to be cremated ashes, into the orchestra pit. One person was exposed and requested medical attention. ](/news/2016/10/29/the-new-york-city-metropolitan-opera-cancels-its-saturday-performances-as-a-man-during-an-afternoon-intermission-sprinkled-an-unidentified.md) _Context: New York City_

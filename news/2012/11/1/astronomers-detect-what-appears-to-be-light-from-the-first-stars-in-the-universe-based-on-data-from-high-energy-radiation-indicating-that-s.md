@@ -1,6 +1,6 @@
 ### [2012-11-1](/news/2012/11/1/index.md)
 
-# Astronomers detect what appears to be light from the first stars in the universe based on data from high-energy radiation, indicating that stars were present at least as early as 500 million years after the -big bang-. 
+# Astronomers detect what appears to be light from the first stars in the universe based on data from high-energy radiation, indicating that stars were present at least as early as 500 million years after the "big bang". 
 
 Spied for the first time through a cosmic &#034;fog,&#034; tell-tale rays may put us closer to illuminating the early universe&#039;s pitch-black period.
 

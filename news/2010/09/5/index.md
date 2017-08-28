@@ -1,6 +1,6 @@
 ## [2010-09-5](/news/2010/09/5/index.md)
 
-### [Israel: Israeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israel-israeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-fo.md)
+### [Israeli F-16 warplanes launch airstrikes on Gaza smuggling tunnels, with one Palestinian dead and several injured, in retaliation for recent Palestinian attacks. ](/news/2010/09/5/israeli-f-16-warplanes-launch-airstrikes-on-gaza-smuggling-tunnels-with-one-palestinian-dead-and-several-injured-in-retaliation-for-recent.md)
 Air force bombs 3 smuggling tunnels in Gaza Strip meant to help kidnap and attack Israelis; Palestinians: One dead, one injured, one missing.
 
 ### [At least five people are killed and 35 injured as a suicide bomber attacks a Russian Army firing range at Buynaksk, Dagestan. ](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-as-a-suicide-bomber-attacks-a-russian-army-firing-range-at-buynaksk-dagestan.md)
@@ -9,7 +9,7 @@ _Context: Buynaksk, Dagestan, Russian Army, firing range, suicide bomber_
 ### [More than 40 people are killed and dozens of others are injured in a clash in Darfur. ](/news/2010/09/5/more-than-40-people-are-killed-and-dozens-of-others-are-injured-in-a-clash-in-darfur.md)
 More than 40 killed in Darfur region by violence blamed on rebel groups and government-backed militia at refugee camps.
 
-### [Iraq: A large explosion hits an Iraqi Ministry of Defence complex in Baghdad. ](/news/2010/09/5/iraq-a-large-explosion-hits-an-iraqi-ministry-of-defence-complex-in-baghdad.md)
+### [A large explosion hits an Iraqi Ministry of Defence complex in Baghdad. ](/news/2010/09/5/a-large-explosion-hits-an-iraqi-ministry-of-defence-complex-in-baghdad.md)
 An explosion has rocked an Iraqi ministry of defence complex that three weeks ago was the site of a suicide bomb attack that killed dozens of army recruits.
 
 ### [The Basque nationalist group ETA announces a ceasefire in its struggle for Basque independence from France and Spain. ](/news/2010/09/5/the-basque-nationalist-group-eta-announces-a-ceasefire-in-its-struggle-for-basque-independence-from-france-and-spain.md)

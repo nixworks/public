@@ -1,6 +1,6 @@
 ## [2017-01-14](/news/2017/01/14/index.md)
 
-### [Battle of Mosul (2016-17): Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/battle-of-mosul-2016-17-iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-mili.md)
+### [Iraqi forces capture parts of Mosul University and several areas along the Tigris River from Islamic State militants. ](/news/2017/01/14/iraqi-forces-capture-parts-of-mosul-university-and-several-areas-along-the-tigris-river-from-islamic-state-militants.md)
 Iraqi special forces drove back Islamic State militants in the Mosul University campus on Saturday, while elite police units took over large areas along the east bank of the Tigris river, military officials said.
 
 ### [ Ringling Bros. and Barnum & Bailey Circus announces it will cease operation in May after 146 years, due to lower attendance, higher operating costs and protests from animal rights activists. ](/news/2017/01/14/ringling-bros-and-barnum-bailey-circus-announces-it-will-cease-operation-in-may-after-146-years-due-to-lower-attendance-higher-operati.md)
@@ -21,10 +21,10 @@ Anas Modamani accuses the social network of failing to take down false posts lin
 ### [German police detain two suspects with over 150kg of pyrotechnic explosives and an IED inscribed with a swastika and SS runes, stating the two may have a connection to a neo-Nazi terrorist group. ](/news/2017/01/14/german-police-detain-two-suspects-with-over-150kg-of-pyrotechnic-explosives-and-an-ied-inscribed-with-a-swastika-and-ss-runes-stating-the-t.md)
 Two suspects detained with 155 kilograms of pyrotechnic explosives may have links to a neo-Nazi terrorist group, German DPA news agency reported, citing a local prosecutor’s office. One reportedly had an explosive device bearing a swastika and SS signs.
 
-### [ Islamophobia in the United States: A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/islamophobia-in-the-united-states-a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md)
+### [ A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. ](/news/2017/01/14/a-suspected-arsonist-is-arrested-after-a-fire-destroys-a-mosque-in-bellevue-washington.md)
 A suspected arson fire badly damaged a Bellevue mosque early Saturday morning. Police arrested one person at the scene.
 
-### [Aftermath of the Gambian presidential election, 2016: President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/aftermath-of-the-gambian-presidential-election-2016-president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-worl.md)
+### [President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-attempts-at-persuad.md)
 Winner of presidential vote heads to Bamako as last-ditch regional attempts to persuade Yahya Jammeh to step down fail.
 
 ### [The Palestinian National Authority prepares to open an embassy in the Vatican City, just one day before a Palestinian peace conference in Paris. ](/news/2017/01/14/the-palestinian-national-authority-prepares-to-open-an-embassy-in-the-vatican-city-just-one-day-before-a-palestinian-peace-conference-in-pa.md)

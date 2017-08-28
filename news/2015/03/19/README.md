@@ -1,9 +1,9 @@
 ## [2015-03-19](/news/2015/03/19/index.md)
 
-### [2014-15 Australian region cyclone season: Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/2014-15-australian-region-cyclone-season-authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cycl.md)
+### [Authorities in the Australian state of Queensland prepare for the impact of Severe Tropical Cyclone Nathan which is forecast to make landfall near Cooktown early tomorrow morning. ](/news/2015/03/19/authorities-in-the-australian-state-of-queensland-prepare-for-the-impact-of-severe-tropical-cyclone-nathan-which-is-forecast-to-make-landfal.md)
 Queensland Premier Annastacia Palaszczuk says preparations are well under way as the state&#039;s far north braces for the arrival of Cyclone Nathan.
 
-### [Cyclone Pam: Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/cyclone-pam-authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md)
+### [Authorities in Vanuatu report that it faces imminent shortages of food and water in the wake of Cyclone Pam. ](/news/2015/03/19/authorities-in-vanuatu-report-that-it-faces-imminent-shortages-of-food-and-water-in-the-wake-of-cyclone-pam.md)
 Vanuatu warns it faces imminent food shortages in the wake of Cyclone Pam that struck the archipelago on Friday night.
 
 ### [A huge boulder falls upon tourists awaiting to board a ship at the scenic Diecai Hill of China's Guilin region killing seven of them. ](/news/2015/03/19/a-huge-boulder-falls-upon-tourists-awaiting-to-board-a-ship-at-the-scenic-diecai-hill-of-china-s-guilin-region-killing-seven-of-them.md)
@@ -16,7 +16,7 @@ Euro zone leaders told Greece on Thursday its leftist-led government must implem
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A stabbing attack from March 17, leaves three dead and three wounded in New Bern, North Carolina, both the 18-year-old attacker and victims were refugees from Myanmar (Burma). ](/news/2015/03/19/a-stabbing-attack-from-march-17-leaves-three-dead-and-three-wounded-in-new-bern-north-carolina-both-the-18-year-old-attacker-and-victims.md)
-_Context: Myanmar, New Bern, North Carolina_
+_Context: Burmese, New Bern, North Carolina_
 
 ### [A March 17 DOS attack occurs on Chinese website GreatFire, reaching 2.5 billion spoof requests per hour. ](/news/2015/03/19/a-march-17-dos-attack-occurs-on-chinese-website-greatfire-reaching-2-5-billion-spoof-requests-per-hour.md)
 Internet freedom organization GreatFire is being hit with large-scale cyberattacks in likely retaliation for challenging the Chinese regime&#039;s censorship.

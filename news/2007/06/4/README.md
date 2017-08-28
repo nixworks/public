@@ -16,7 +16,7 @@ _Context: Nigeria, Pfizer, sues_
 _Context: Israel, cease-fire_
 
 ### [ Fresh clashes break out between protesters and police in Rostock, Germany prior to the 33rd G8 summit. ](/news/2007/06/4/fresh-clashes-break-out-between-protesters-and-police-in-rostock-germany-prior-to-the-33rd-g8-summit.md)
-_Context: 33rd G8 summit, Germany, Rostock, police_
+_Context: 33rd annual G8 summit, Germany, Rostock, police_
 
 ### [ Cyclone Gonu forces the Government of Oman to evacuate 7,000 people from Masirah Island, off the east coast of Oman. ](/news/2007/06/4/cyclone-gonu-forces-the-government-of-oman-to-evacuate-7-000-people-from-masirah-island-off-the-east-coast-of-oman.md)
 _Context: Cyclone Gonu, Masirah Island, Oman_
@@ -30,8 +30,8 @@ _Context: Europe, Russia, Russian President Vladimir Putin, United States, Vladi
 ### [ China publishes its first National Action Plan on Climate Change, expected to cut national carbon emissions by up to 1.5 million metric tons annually by 2010. ](/news/2007/06/4/china-publishes-its-first-national-action-plan-on-climate-change-expected-to-cut-national-carbon-emissions-by-up-to-1-5-million-metric-ton.md)
 _Context: China, National Action Plan on Climate Change, carbon emissions_
 
-### [ "Sri Lankan Civil War:": Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/sri-lankan-civil-war-two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md)
-_Context: Red Cross, Sri Lankan Civil War, aid workers are found dead_
+### [ Two Red Cross aid workers are found dead after being detained for questioning by unknown men claiming to be police. ](/news/2007/06/4/two-red-cross-aid-workers-are-found-dead-after-being-detained-for-questioning-by-unknown-men-claiming-to-be-police.md)
+_Context: Red Cross, aid workers are found dead_
 
 ### [ The war crimes trial of former President of Liberia Charles G. Taylor at the UN-backed Special Court for Sierra Leone begins at The Hague. ](/news/2007/06/4/the-war-crimes-trial-of-former-president-of-liberia-charles-g-taylor-at-the-un-backed-special-court-for-sierra-leone-begins-at-the-hague.md)
 _Context: Charles G. Taylor, President of Liberia, Special Court for Sierra Leone, The Hague, United Nations, war crimes_

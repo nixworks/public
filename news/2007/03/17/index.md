@@ -4,7 +4,7 @@
 Thousands of demonstrators marked the anniversaries of the U.S. invasion of Iraq and the march to protest the Vietnam War.
 
 ### [ 2007 Zimbabwean political crisis: Three activists in the Zimbabwe opposition are arrested as they attempt to leave the country for South Africa including Arthur Mutambara, leader of a faction in the Movement for Democratic Change. Two of the activists were seeking medical treatment after having been arrested a week ago. ](/news/2007/03/17/2007-zimbabwean-political-crisis-three-activists-in-the-zimbabwe-opposition-are-arrested-as-they-attempt-to-leave-the-country-for-south-af.md)
-_Context: Arthur Mutambara, Movement for Democratic Change, South Africa, Zimbabwe, Zimbabwean political crisis_
+_Context: 2007 Zimbabwean political crisis, Arthur Mutambara, Movement for Democratic Change, South Africa, Zimbabwe_
 
 ### [ In major upsets, Bangladesh beats India by 5 wickets in a 2007 Cricket World Cup tie-up, ](/news/2007/03/17/in-major-upsets-bangladesh-beats-india-by-5-wickets-in-a-2007-cricket-world-cup-tie-up.md)
 The Age 404 Page

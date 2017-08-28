@@ -9,10 +9,10 @@ _Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
 _Context: Asia, Corazon Aquino, Philippines, President of the Philippines, first female_
 
-### [ Brazilian President Lula da Silva says his country is -now advising the International Monetary Fund, IMF-. ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-now-advising-the-international-monetary-fund-imf.md)
+### [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md)
 President Lula da Silva said that Brazil is climbing out, and strengthened, from the deep global financial crisis and underlined that &ldquo;Brazil is now advising the International Monetary Fund, IMF&rdquo;.
 
-### [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the -Pinochetistas- in Chile and the -fascist right- in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-pinochetistas-in-chile-and-the-fascist-r.md)
+### [ Bolivian President Evo Morales expresses concern in La Paz about the possibility that the "Pinochetistas" in Chile and the "fascist right" in Argentina could win the general elections in those countries and that it "would be very serious for Latin American democracy and for South America". ](/news/2009/08/5/bolivian-president-evo-morales-expresses-concern-in-la-paz-about-the-possibility-that-the-apinochetistasa-in-chile-and-the-afascist-r.md)
 Bolivian president Evo Morales said he was quite concerned with the possibility that the &ldquo;Pinochetistas&rdquo; in Chile and the &ldquo;fascist right&rdquo; in Argentina could win the general elections in those countries, according to the country&rsquo;s government news agency, ABI.
 
 ### [ Iraq's government announces that all Bremer walls will be removed from Baghdad within forty days. ](/news/2009/08/5/iraq-s-government-announces-that-all-bremer-walls-will-be-removed-from-baghdad-within-forty-days.md)
@@ -64,7 +64,7 @@ The White House has defended its decision to award the highest civilian honour i
 _Context: Austria_
 
 ### [ An anthem sung by FC Schalke 04's fans draws Islamic protests because of its reference to the Prophet Muhammad. ](/news/2009/08/5/an-anthem-sung-by-fc-schalke-04-s-fans-draws-islamic-protests-because-of-its-reference-to-the-prophet-muhammad.md)
-_Context: FC Schalke 04, Islam, Muhammad, Prophet_
+_Context: FC Schalke 04, Muhammad, Muslims, Prophet_
 
 ### [ Romanians who fled Belfast following racist attacks return to Northern Ireland. ](/news/2009/08/5/romanians-who-fled-belfast-following-racist-attacks-return-to-northern-ireland.md)
 A number of Romanians who fled Belfast in the wake of racist attacks have returned to Northern Ireland, it was revealed tonight&hellip;

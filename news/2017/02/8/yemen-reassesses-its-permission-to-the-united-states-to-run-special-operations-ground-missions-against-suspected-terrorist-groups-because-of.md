@@ -1,14 +1,9 @@
 ### [2017-02-8](/news/2017/02/8/index.md)
 
-# Yemen reassesses its permission to the United States to run special operations ground missions against suspected terrorist groups because of the civilian deaths in the January 29 raid. Earlier reports indicated permission had been suspended. 
+# Yemen reassesses its permission to the United States to run special operations ground missions against suspected terrorist groups because of the civilian deaths in the January 29 raid. Earlier reports indicated permission had been suspended. [https://www.nytimes.com/2017/02/07/world/middleeast/yemen-special-operations-missions.html?_r=0 ("The New York Times")] [https://www.nytimes.com/2017/02/08/world/middleeast/yemen-raid-american-military.html ("The New York Times")2]
 
 
 
-
-### Source:
-
-1. [The New York Times](https://www.nytimes.com/2017/02/07/world/middleeast/yemen-special-operations-missions.html?_r=0)
-2. [The New York Times](https://www.nytimes.com/2017/02/08/world/middleeast/yemen-raid-american-military.html)
 
 ### Related:
 
@@ -21,4 +16,4 @@
 7. [At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen. ](/news/2016/03/23/at-least-50-militants-are-reportedly-killed-in-a-u-s-air-strike-on-an-al-qaeda-training-camp-in-southern-yemen.md) _Context: United States, Yemen_
 8. [A U.S. drone strike on a vehicle in Yemen's Shabwah Governorate kills three suspected Al-Qaeda in the Arabian Peninsula (AQAP) militants. ](/news/2016/01/16/a-u-s-drone-strike-on-a-vehicle-in-yemen-s-shabwah-governorate-kills-three-suspected-al-qaeda-in-the-arabian-peninsula-aqap-militants.md) _Context: United States, Yemen_
 9. [A major push by Yemen-based Houthi forces into the kingdom's southern Najran Region kills dozens of Houthi fighters. The Houthi-run Saba News Agency says that Houthi fighters have seized three Saudi military outposts near the city of Najran, destroying several armored vehicles, including two U.S.-made M1 Abrams tanks and three Bradley vehicles. ](/news/2015/12/1/a-major-push-by-yemen-based-houthi-forces-into-the-kingdom-s-southern-najran-region-kills-dozens-of-houthi-fighters-the-houthi-run-saba-new.md) _Context: United States, Yemen_
-10. [The ''Detroit Free Press'' reports, following this week's election, Hamtramck, Michigan, will apparently be the first city in the United States to be governed by Muslims, three of Bangladeshi descent and one Yemeni. Community leader Bill Meyer, who is not Muslim, said the influx of Muslims to Hamtramck has "helped bring stability, security and sobriety while lessening the amount of drugs and crime in the city." ](/news/2015/11/8/the-detroit-free-press-reports-following-this-week-s-election-hamtramck-michigan-will-apparently-be-the-first-city-in-the-united-sta.md) _Context: United States, Yemen_
+10. [The "Detroit Free Press" reports, following this week's election, Hamtramck, Michigan, will apparently be the first city in the United States to be governed by Muslims, three of Bangladeshi descent and one Yemeni. Community leader Bill Meyer, who is not Muslim, said the influx of Muslims to Hamtramck has "helped bring stability, security and sobriety while lessening the amount of drugs and crime in the city." ](/news/2015/11/8/the-detroit-free-press-reports-following-this-week-s-election-hamtramck-michigan-will-apparently-be-the-first-city-in-the-united-state.md) _Context: United States, Yemen_

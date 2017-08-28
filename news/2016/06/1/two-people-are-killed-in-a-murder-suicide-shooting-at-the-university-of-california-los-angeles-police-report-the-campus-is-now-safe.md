@@ -1,6 +1,6 @@
 ### [2016-06-1](/news/2016/06/1/index.md)
 
-#   Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. 
+#  Two people are killed in a murder-suicide shooting at the University of California Los Angeles. Police report the campus is now safe. 
 
 Victim described as popular teacher, devoted family man.
 

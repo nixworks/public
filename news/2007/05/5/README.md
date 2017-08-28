@@ -1,6 +1,6 @@
 ## [2007-05-5](/news/2007/05/5/index.md)
 
-### [ Footage showing seventeen-year-old Kurdish girl Du-a Khalil Aswad being stoned to death for having a relationship with a Sunni boy is posted on YouTube. ](/news/2007/05/5/footage-showing-seventeen-year-old-kurdish-girl-du-a-khalil-aswad-being-stoned-to-death-for-having-a-relationship-with-a-sunni-boy-is-pos.md)
+### [ Footage showing seventeen-year-old Kurdish girl Du'a Khalil Aswad being stoned to death for having a relationship with a Sunni boy is posted on YouTube. ](/news/2007/05/5/footage-showing-seventeen-year-old-kurdish-girl-duaa-khalil-aswad-being-stoned-to-death-for-having-a-relationship-with-a-sunni-boy-is-pos.md)
 A horrifying video showing a 17-year-old Kurdish girl being stoned to death for having a relationship with a Sunni Muslim boy has made its way onto the Web, drawing outrage and condemnation from international human rights groups.
 
 ### [ More than 20 countries including the People's Republic of China, the United States, France, Japan, Chile and South Korea agree to work together to end bottom sea trawling. ](/news/2007/05/5/more-than-20-countries-including-the-people-s-republic-of-china-the-united-states-france-japan-chile-and-south-korea-agree-to-work-toge.md)

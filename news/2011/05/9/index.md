@@ -3,14 +3,14 @@
 ### [2011 Syrian uprising: Heavy shooting is heard in a western suburb of Damascus as the Syrian Army advances against anti-government protesters. ](/news/2011/05/9/2011-syrian-uprising-heavy-shooting-is-heard-in-a-western-suburb-of-damascus-as-the-syrian-army-advances-against-anti-government-protesters.md)
 _Context: 2011 Syrian uprising, Damascus, Syrian Army_
 
-### [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010-2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md)
+### [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010a2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md)
 Forensic experts have unearthed about 68 bodies from another cluster of mass graves in war-torn Ivory Coast, a United Nations spokeswoman said Monday.
 
 ### [Russian President Dmitry Medvedev presides over the Victory Day Parade on Moscow's Red Square. ](/news/2011/05/9/russian-president-dmitry-medvedev-presides-over-the-victory-day-parade-on-moscow-s-red-square.md)
 Not everyone regards Victory Day as a cause for celebration. In Western Ukraine, nationalist party members have violently disrupted a memorial service as veterans paid tribute to those who perished in the war.
 
 ### [Ali Gomaa, the Islamic Grand Mufti of Egypt, warns of the potential of civil war because of "outlaws who want to defy the authority of the state". ](/news/2011/05/9/ali-gomaa-the-islamic-grand-mufti-of-egypt-warns-of-the-potential-of-civil-war-because-of-outlaws-who-want-to-defy-the-authority-of-the-s.md)
-_Context: Ali Gomaa, Egypt, Grand Mufti, Islam_
+_Context: Ali Gomaa, Egypt, Grand Mufti, Muslims_
 
 ### [2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. ](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripoli-in-libya-following-the-heaviest-nato-bombing-offensive-in-a-week.md)
 _Context: Libya, Libyan Civil War, NATO, Tripoli_
@@ -51,7 +51,7 @@ _Context: Assiniboine River, Brandon, Manitoba, Red River of the North, state of
 ### [The "Mainichi Shimbun" reports that Japan and the United States are planning to build a spent nuclear fuel storage facility in Mongolia. ](/news/2011/05/9/the-mainichi-shimbun-reports-that-japan-and-the-united-states-are-planning-to-build-a-spent-nuclear-fuel-storage-facility-in-mongolia.md)
 _Context: Japan, Mainichi Shimbun, Mongolia, United States, nuclear fuel_
 
-### [Death of Osama bin Laden: The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/death-of-osama-bin-laden-the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-in.md)
+### [The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. ](/news/2011/05/9/the-prime-minister-of-pakistan-yusuf-raza-gilani-warns-the-united-states-that-it-will-defend-its-air-space-from-incursions-following-the-rai.md)
 Pakistan&#039;s prime minister will on Monday warn the United States it will defend its air space if American forces mount another raid on terrorists suspected of hiding inside the country.
 
 ### [Indonesia drops some of the key terrorism charges against radical cleric Abu Bakar Bashir, meaning that it is unlikely that he will receive the death penalty. ](/news/2011/05/9/indonesia-drops-some-of-the-key-terrorism-charges-against-radical-cleric-abu-bakar-bashir-meaning-that-it-is-unlikely-that-he-will-receive.md)

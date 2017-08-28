@@ -1,6 +1,6 @@
 ## [2014-06-13](/news/2014/06/13/index.md)
 
-### [2014 pro-Russian conflict in Ukraine: Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/2014-pro-russian-conflict-in-ukraine-arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-por.md)
+### [Arsen Avakov, Ukraine's Minister of the Interior, claims that Ukrainian forces have recaptured the port of Mariupol. ](/news/2014/06/13/arsen-avakov-ukraine-s-minister-of-the-interior-claims-that-ukrainian-forces-have-recaptured-the-port-of-mariupol.md)
 Ukrainian government forces reclaimed the port city of Mariupol from pro-Russian separatists in heavy fighting on Friday and said they had regained control of a long stretch of the border with Russia.
 
 ### [The city council of Pello, Finland, offers 50 euro to each Finnish speaking taxpayer who changes language to Swedish in order to secure the bilingual Finnish-Swedish regime. ](/news/2014/06/13/the-city-council-of-pello-finland-offers-50-euro-to-each-finnish-speaking-taxpayer-who-changes-language-to-swedish-in-order-to-secure-the.md)

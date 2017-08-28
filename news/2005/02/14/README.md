@@ -6,8 +6,8 @@ _Context: Iran, Tehran, kerosene, mosque_
 ### [ Researchers at the University of California, Los Angeles create a modified form of HIV which targets P-glycoproteins on cancer cells. ](/news/2005/02/14/researchers-at-the-university-of-california-los-angeles-create-a-modified-form-of-hiv-which-targets-p-glycoproteins-on-cancer-cells.md)
 _Context: HIV, P-glycoprotein, UCLA, cancer, cells_
 
-### [ Israeli-Palestinian conflict:: IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/israeli-palestinian-conflict-idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year.md)
-_Context: Israel Defense Forces, Israeli-Palestinian conflict, stabbed_
+### [ IDF soldiers shoot dead a Palestinian whom they allege tried to stab one of them. Witnesses deny the 13-year-old was armed. ](/news/2005/02/14/idf-soldiers-shoot-dead-a-palestinian-whom-they-allege-tried-to-stab-one-of-them-witnesses-deny-the-13-year-old-was-armed.md)
+_Context: Israel Defense Forces, stabbed_
 
 ### [ A car bomb explodes in central Beirut, Lebanon killing former Prime Minister Rafiq Hariri and at least 22 others. Approximately 100 further people are injured in the attack. A little known group calling itself "Victory and Jihad in Greater Syria" claim responsibility. ](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-killing-former-prime-minister-rafiq-hariri-and-at-least-22-others-approximately-100-further.md)
 _Context: Beirut, Lebanese Prime Minister, Rafiq Hariri, car bomb_

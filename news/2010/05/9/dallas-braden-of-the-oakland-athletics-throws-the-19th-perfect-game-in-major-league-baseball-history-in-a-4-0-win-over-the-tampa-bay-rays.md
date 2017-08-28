@@ -11,7 +11,7 @@ Dallas Braden threw the 19th perfect game in major league history, leading the O
 
 ### Related:
 
-1. [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1-0-win-over-the-florida-marlins.md) _Context: Major League Baseball, perfect game_
+1. [Roy Halladay pitches the 20th perfect game in Major League Baseball history in the Philadelphia Phillies' 1-0 win over the Florida Marlins. ](/news/2010/05/29/roy-halladay-pitches-the-20th-perfect-game-in-major-league-baseball-history-in-the-philadelphia-phillies-1a0-win-over-the-florida-marlins.md) _Context: Major League Baseball, perfect game_
 2. [ Chicago White Sox pitcher Mark Buehrle completes a perfect game against the Tampa Bay Rays. ](/news/2009/07/23/chicago-white-sox-pitcher-mark-buehrle-completes-a-perfect-game-against-the-tampa-bay-rays.md) _Context: Tampa Bay Rays, perfect game_
 3. [ An 11-judge panel of the U.S. Ninth Circuit Court of Appeals overturns the 2011 conviction of all-time Major League Baseball home run leader Barry Bonds on obstruction of justice charges stemming from the BALCO doping scandal. ](/news/2015/04/22/an-11-judge-panel-of-the-u-s-ninth-circuit-court-of-appeals-overturns-the-2011-conviction-of-all-time-major-league-baseball-home-run-leade.md) _Context: Major League Baseball_
 4. [Former American Major League Baseball player Roger Clemens is acquitted on all charges in a perjury trial. ](/news/2012/06/18/former-american-major-league-baseball-player-roger-clemens-is-acquitted-on-all-charges-in-a-perjury-trial.md) _Context: Major League Baseball_

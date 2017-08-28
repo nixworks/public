@@ -1,13 +1,13 @@
 ## [2014-02-13](/news/2014/02/13/index.md)
 
-### [War in Afghanistan (2001-present):: Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/war-in-afghanistan-2001-present-afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-st.md)
+### [Afghanistan releases 65 prisoners from the Parwan Detention Facility despite concerns by the United States that the men were responsible for attacks on NATO and Afghan forces. ](/news/2014/02/13/afghanistan-releases-65-prisoners-from-the-parwan-detention-facility-despite-concerns-by-the-united-states-that-the-men-were-responsible-for.md)
 Afghan authorities release 65 detainees from the Bagram detention centre, a move the US condemns as &quot;deeply regrettable&quot;.
 
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
 _Context: Karachi, Pakistani police, suicide bomb_
 
-### [South China Sea dispute:: The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/south-china-sea-dispute-the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
-_Context: South China Sea dispute, United States_
+### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
+_Context: United States_
 
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
 _Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
@@ -30,7 +30,7 @@ _Context: Met Office, Winter storms_
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
 _Context: Indonesia, Java, Mount Kelud_
 
-### [Egypt-Russia relations:: During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/egypt-russia-relations-during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-mosc.md)
+### [During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-moscow-and-cairo-have-agreed-to.md)
 Russian leader makes surprise declaration of support for Field Marshal Sisi&#039;s presidential bid - which has not yet been announced
 
 ### [President Barack Obama is set on visiting Japan, South Korea, Malaysia, and the Philippines after previously cancelling his trip in 2013. ](/news/2014/02/13/president-barack-obama-is-set-on-visiting-japan-south-korea-malaysia-and-the-philippines-after-previously-cancelling-his-trip-in-2013.md)

@@ -1,6 +1,6 @@
 ## [2012-04-3](/news/2012/04/3/index.md)
 
-### [Arab Spring:: 2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/arab-spring-2011-2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-se.md)
+### [2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/2011a2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-sentenced-to-lif.md)
 Thousands of protesters in Mauritania hold demonstrations across the capital, Nouakchott, calling for President Mohamed Ould Abdelaziz to resign.
 
 ### [Spanish joblessness levels hit a record high yet again, with youth unemployment running at 50%. ](/news/2012/04/3/spanish-joblessness-levels-hit-a-record-high-yet-again-with-youth-unemployment-running-at-50.md)
@@ -42,7 +42,7 @@ _Context: California, Oakland, California, Oikos University shooting_
 ### [The New York Police Department orders an investigation into the death of French academic Richard Descoings who was found nude in his hotel room. ](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.md)
 _Context: French-born, New York Police Department, Richard Descoings_
 
-### [United States Presidential election:: Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/united-states-presidential-election-voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-repu.md)
+### [Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-republican-primaries-with-mitt-romney-proj.md)
 Mitt Romney wins in the politically significant state of Wisconsin, as well as in Maryland and the District of Columbia
 
 ## [Previous Day...](/news/2012/04/2/index.md)

@@ -36,7 +36,7 @@ _Context: 2011 Syrian uprising, Britain, Europe, France, Germany, Government of 
 ### [South Korean prosecutors send a summons to Park Chul, President of Hankuk University of Foreign Studies, over alleged embezzlement. ](/news/2011/08/2/south-korean-prosecutors-send-a-summons-to-park-chul-president-of-hankuk-university-of-foreign-studies-over-alleged-embezzlement.md)
 _Context: Hankuk University of Foreign Studies, South Korea, embezzlement, summons_
 
-### [News International phone hacking scandal: Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/news-international-phone-hacking-scandal-former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of.md)
+### [Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. ](/news/2011/08/2/former-news-of-the-world-managing-editor-stuart-kuttner-is-arrested-and-later-bailed-as-part-of-the-ongoing-investigation-into-phone-hacki.md)
 A 71-year-old man, thought to be ex-News of the World executive Stuart Kuttner, is bailed by police probing phone hacking and payments to officers.
 
 ### [Around 10,000 Papuan people demonstrate in support of independence from Indonesia in the Papuan capital of Jayapura. ](/news/2011/08/2/around-10-000-papuan-people-demonstrate-in-support-of-independence-from-indonesia-in-the-papuan-capital-of-jayapura.md)

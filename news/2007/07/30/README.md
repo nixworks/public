@@ -28,7 +28,7 @@ _Context: Chief Justice, John G. Roberts, Jr., Maine_
 Prime Minister Gordon Brown of Britain indicated that he mostly shared President Bush’s views on terrorism and the wars in Iraq and Afghanistan.
 
 ### [ Islamic militants occupy a shrine in a tribal area of Pakistan and name it after the Lal Masjid in Islamabad recently stormed by the Pakistan army. ](/news/2007/07/30/islamic-militants-occupy-a-shrine-in-a-tribal-area-of-pakistan-and-name-it-after-the-lal-masjid-in-islamabad-recently-stormed-by-the-pakist.md)
-_Context: Islam, Islamabad, Lal Masjid, Pakistan, shrine, tribal area_
+_Context: Islamabad, Lal Masjid, Muslims, Pakistan, shrine, tribal area_
 
 ### [ A 15th village in the Czech Republic rejects by referendum the US plan to place anti-ballistic missiles at a nearby military base. The vote was 97% against the plan, however, the vote is non-binding on the national government. ](/news/2007/07/30/a-15th-village-in-the-czech-republic-rejects-by-referendum-the-us-plan-to-place-anti-ballistic-missiles-at-a-nearby-military-base-the-vote.md)
 _Context: Czech Republic, US$, ballistic missile_

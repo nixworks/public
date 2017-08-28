@@ -1,6 +1,6 @@
 ### [2003-12-14](/news/2003/12/14/index.md)
 
-# Jason White, quarterback of the University of Oklahoma Sooners, wins the Heisman Trophy, awarded to the best player in college football. [http://sports.yahoo.com/ncaaf/news;_ylc=X3oDMTBpNWZic251BF9TAzI1NjY0ODI1BHNlYwN0aA-?slug=ap-heismantrophy&prov=ap&type=lgns]
+# Jason White, quarterback of the University of Oklahoma Sooners, wins the Heisman Trophy, awarded to the best player in college football. [http://sports.yahoo.com/ncaaf/news;_ylc=X3oDMTBpNWZic251BF9TAzI1NjY0ODI1BHNlYwN0aA--?slug=ap-heismantrophy&prov=ap&type=lgns]
 
 
 

@@ -24,8 +24,8 @@ _Context: Gulf of Aden, India, Indian Navy, Somali pirates_
 ### [ Mohamed Nasheed is sworn in as the new President of the Maldives. ](/news/2008/11/11/mohamed-nasheed-is-sworn-in-as-the-new-president-of-the-maldives.md)
 _Context: Maldives, Mohamed Nasheed, President_
 
-### [ 2008 Russian financial crisis:: Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/2008-russian-financial-crisis-russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6.md)
-_Context: 2008 Russian financial crisis, Moscow Interbank Currency Exchange, Russia_
+### [ Russian regulators halt trading on one of the country's two main stock indexes, the MICEX, after it fell 6.5%, dragged down by commodity and banking shares. ](/news/2008/11/11/russian-regulators-halt-trading-on-one-of-the-country-s-two-main-stock-indexes-the-micex-after-it-fell-6-5-dragged-down-by-commodity-an.md)
+_Context: Moscow Interbank Currency Exchange, Russia_
 
 ## [Previous Day...](/news/2008/11/10/index.md)
 

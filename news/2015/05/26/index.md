@@ -1,15 +1,15 @@
 ## [2015-05-26](/news/2015/05/26/index.md)
 
-### [War in Afghanistan (2015-present): A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/war-in-afghanistan-2015-present-a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan.md)
+### [A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan-wardak-resulting-in-the-deaths-of-tw.md)
 _Context: Maidan Shahr, Maidan Wardak, War in Afghanistan (2015-present), suicide bomber_
 
 ### [Thirteen Kenyan police officers are missing after an Al-Shabaab ambush in Garissa County. ](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.md)
 Police spokesman George Kinoti says 13 police officers are missing and two others wounded after suspected Al shabaab attack in Yumbis, Garissa county. 
 
-### [Yemeni Civil War (2015): Shellfire from Yemen kills two people over the border in Saudi Arabia. ](/news/2015/05/26/yemeni-civil-war-2015-shellfire-from-yemen-kills-two-people-over-the-border-in-saudi-arabia.md)
+### [Shellfire from Yemen kills two people over the border in Saudi Arabia. ](/news/2015/05/26/shellfire-from-yemen-kills-two-people-over-the-border-in-saudi-arabia.md)
 Shellfire from Yemen killed one civilian and a member of the security forces in Saudi Arabia on Tuesday, officials said.
 
-### [Boko Haram: Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md)
+### [Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md)
 _Context: Boko Haram, Borno State, Gubio, Nigeria_
 
 ### [Charter Communications announces plans to merge with Time Warner Cable in a $55.1 billion deal. ](/news/2015/05/26/charter-communications-announces-plans-to-merge-with-time-warner-cable-in-a-55-1-billion-deal.md)
@@ -18,13 +18,13 @@ Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. f
 ### [Police in China catch 175 looters who raided the Niuheliang Neolithic archaeological site in Manchuria. ](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.md)
 _Context: China, Manchuria, Neolithic, Niuheliang_
 
-### [Tornadoes of 2015: Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/tornadoes-of-2015-thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md)
+### [Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md)
 _Context: Ciudad Acuna, Tornadoes of 2015_
 
-### [Texas-Oklahoma floods: Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/texas-oklahoma-floods-flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-an.md)
+### [Flash flood warnings are now in place in eight states with flood waters causing closures of roads, rail services and buses in Houston. ](/news/2015/05/26/flash-flood-warnings-are-now-in-place-in-eight-states-with-flood-waters-causing-closures-of-roads-rail-services-and-buses-in-houston.md)
 An unprecedented downpour of torrential rain triggered &quot;extremely dangerous and potentially life-threatening&quot; flash flooding in Houston early Tuesday.
 
-### [2015 India heat wave: The death toll from the heat wave passes 1100 as the roads in the capital New Delhi are melting in the heat. ](/news/2015/05/26/2015-india-heat-wave-the-death-toll-from-the-heat-wave-passes-1100-as-the-roads-in-the-capital-new-delhi-are-melting-in-the-heat.md)
+### [The death toll from the heat wave passes 1100 as the roads in the capital New Delhi are melting in the heat. ](/news/2015/05/26/the-death-toll-from-the-heat-wave-passes-1100-as-the-roads-in-the-capital-new-delhi-are-melting-in-the-heat.md)
 HYDERABAD, India - At least 800 people have died in a major heatwave that has swept across India, melting roads in New Delhi as temperatures neared 50 degrees Celsius (122 Fahrenheit).Hospitals were on alert to treat victims of heatstroke and authorities advised people to stay indoors with no end in...
 
 ### [A man dies of the rare Lassa fever in the American state of New Jersey after returning from West Africa. ](/news/2015/05/26/a-man-dies-of-the-rare-lassa-fever-in-the-american-state-of-new-jersey-after-returning-from-west-africa.md)

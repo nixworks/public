@@ -57,7 +57,7 @@ _Context: Bangkok, Khon Kaen, Nakhon Ratchasima, Nonthaburi, Pathum Thani, Samut
 ### [President of the United States Barack Obama calls a press conference in the White House to make a "personnel announcement" reported to be related to the departure of his aide Rahm Emanuel. ](/news/2010/10/1/president-of-the-united-states-barack-obama-calls-a-press-conference-in-the-white-house-to-make-a-personnel-announcement-reported-to-be-re.md)
 US President Barack Obama confirms the resignation of his hard-hitting chief of staff Rahm Emanuel, who is poised to run to be mayor of Chicago.
 
-### [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-the-first-digital-tv-service.md)
+### [Sky has launched its 3D Channel, Virgin Media has announced the launch of 3D Movies On Demand - the first digital TV service. ](/news/2010/10/1/sky-has-launched-its-3d-channel-virgin-media-has-announced-the-launch-of-3d-movies-on-demand-a-the-first-digital-tv-service.md)
 _Context: 3D Channel, Sky, TV service, Virgin Media_
 
 ### [The 2010 Ig Nobel Prizes are announced. ](/news/2010/10/1/the-2010-ig-nobel-prizes-are-announced.md)

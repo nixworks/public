@@ -18,7 +18,7 @@ _Context: Canada, Guantanamo Bay Detention Camp, Omar Khadr_
 ### [ At least 13 people have died after a bus-train collision in Iasi County, Romania. ](/news/2009/08/14/at-least-13-people-have-died-after-a-bus-train-collision-in-iaai-county-romania.md)
 Other two people of those injured on Friday in the train-hit van in Iasi, north-eastern Romania, died on the way to the hospital, increasing the death toll to thirteen, including one infant, deputy secretary of state...
 
-### [ Paraguay-s government withdraws a bill approving Venezuela's incorporation to Mercosur, fearing a defeat in Congress could hurt relations between the two countries. ](/news/2009/08/14/paraguay-s-government-withdraws-a-bill-approving-venezuela-s-incorporation-to-mercosur-fearing-a-defeat-in-congress-could-hurt-relations.md)
+### [ Paraguay's government withdraws a bill approving Venezuela's incorporation to Mercosur, fearing a defeat in Congress could hurt relations between the two countries. ](/news/2009/08/14/paraguayas-government-withdraws-a-bill-approving-venezuela-s-incorporation-to-mercosur-fearing-a-defeat-in-congress-could-hurt-relations.md)
 Paraguay&#039;s government withdrew a bill that would approve the incorporation of Venezuela to the Mercosur trade bloc fearing a defeat in Congress that could hurt relations between the two countries.
 
 ### [ In an unexpected move, Sudanese President Omar al-Bashir replaces Salah Gosh, his country's chief of security and intelligence since the mid-1990s, with General Mohamed Atta al-Mawla. ](/news/2009/08/14/in-an-unexpected-move-sudanese-president-omar-al-bashir-replaces-salah-gosh-his-country-s-chief-of-security-and-intelligence-since-the-mi.md)

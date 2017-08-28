@@ -1,6 +1,6 @@
 ## [2008-11-9](/news/2008/11/9/index.md)
 
-### [ A total of -750 million of cocaine is seized off the coast of Ireland, in the largest such seizure in the country's history. ](/news/2008/11/9/a-total-of-750-million-of-cocaine-is-seized-off-the-coast-of-ireland-in-the-largest-such-seizure-in-the-country-s-history.md)
+### [ A total of EUR750 million of cocaine is seized off the coast of Ireland, in the largest such seizure in the country's history. ](/news/2008/11/9/a-total-of-a-750-million-of-cocaine-is-seized-off-the-coast-of-ireland-in-the-largest-such-seizure-in-the-country-s-history.md)
 _Context: EUR, Ireland, cocaine, is seized_
 
 ### [ The Latvian government effectively nationalizes the country's second-largest bank, Parex, acquiring a controlling 51% stake for the symbolic sum of just two lati.](/news/2008/11/9/the-latvian-government-effectively-nationalizes-the-country-s-second-largest-bank-parex-acquiring-a-controlling-51-stake-for-the-symboli.md)

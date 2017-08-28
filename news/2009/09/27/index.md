@@ -12,7 +12,7 @@ Angela Merkel appears to have swept to victory in the German elections, with exi
 ### [ The Socialist Party win the Portuguese legislative election to elect members of the Assembly of the Republic, with 36.6% of the vote. ](/news/2009/09/27/the-socialist-party-win-the-portuguese-legislative-election-to-elect-members-of-the-assembly-of-the-republic-with-36-6-of-the-vote.md)
 With unemployment at its highest level in 20 years, Portugal went to the polls yesterday in an election that could bring greater political uncertainty as the ruling Socialists are expected to win but fall short of an absolute majority.
 
-### [ Second South America-Africa Summit (ASA) on Isla Margarita:: The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/second-south-america-africa-summit-asa-on-isla-margarita-the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call.md)
+### [ The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. ](/news/2009/09/27/the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call-on-the-continents-of-africa-and-south-america-to-unite-to-sec.md)
 South America-Africa summit aims to increase co-operation and trade between continents.
 
 ### [ Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. ](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.md)
@@ -28,7 +28,7 @@ _Context: Tropical Storm Ketsana_
 _Context: England, Nestle Canada Inc., President, Robert Mugabe, Switzerland, The Sunday Telegraph, Zimbabwe_
 
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
-_Context: General, International Security Assistance Force, Stanley McChrystal, United States, War in Afghanistan (2001-present)_
+_Context: General, International Security Assistance Force, Stanley McChrystal, United States, War in Afghanistan_
 
 ### [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md)
 _Context: Family Guy, Legality of cannabis, United States, Venezuela, an episode, marijuana_

@@ -1,12 +1,12 @@
 ## [2013-08-23](/news/2013/08/23/index.md)
 
-### [Syrian civil war:: The United Nations reports that there are a million child refugees. ](/news/2013/08/23/syrian-civil-war-the-united-nations-reports-that-there-are-a-million-child-refugees.md)
+### [The United Nations reports that there are a million child refugees. ](/news/2013/08/23/the-united-nations-reports-that-there-are-a-million-child-refugees.md)
 The longer chemical weapons inspectors wait in a Damascus luxury hotel for permission to drive up the road to the site of what appears to be the worst poison gas attack in a quarter century, the less likely they will be able to get to the bottom of it.
 
 ### [Explosions occur outside mosques in the Lebanese city of Tripoli. Over 50 are reported killed. ](/news/2013/08/23/explosions-occur-outside-mosques-in-the-lebanese-city-of-tripoli-over-50-are-reported-killed.md)
 At least 47 killed and 500 wounded after car bombings target two mosques in Tripoli as worshippers leave prayers.
 
-### [Iraqi insurgency (post-U.S. withdrawal):: 26 people are killed and 55 wounded by a suicide bomber in a park in northern Baghdad ](/news/2013/08/23/iraqi-insurgency-post-u-s-withdrawal-26-people-are-killed-and-55-wounded-by-a-suicide-bomber-in-a-park-in-northern-baghdad.md)
+### [26 people are killed and 55 wounded by a suicide bomber in a park in northern Baghdad ](/news/2013/08/23/26-people-are-killed-and-55-wounded-by-a-suicide-bomber-in-a-park-in-northern-baghdad.md)
 Officials in Iraq say at least 26 people have been killed by a suicide bomber who attacked a park in northern Baghdad.
 
 ### [UN troops in the Democratic Republic of the Congo launch an offensive, shelling positions held by rebels near the eastern city of Goma. ](/news/2013/08/23/un-troops-in-the-democratic-republic-of-the-congo-launch-an-offensive-shelling-positions-held-by-rebels-near-the-eastern-city-of-goma.md)

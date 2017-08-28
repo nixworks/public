@@ -11,7 +11,7 @@ Scientists at Idaho State University map out a new, active seismic fault in the 
 
 ### Related:
 
-1. [Republican Party presidential primaries, 2016: Democratic Party presidential primaries, 2016: Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. ](/news/2016/03/8/republican-party-presidential-primaries-2016-democratic-party-presidential-primaries-2016-voters-in-the-u-s-states-of-mississippi-mich.md) _Context: Idaho_
+1. [Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. ](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan-hawaii-and-idaho-vote-in-primary-elections-and-caucuses.md) _Context: Idaho_
 2. [The U.S. Department of Energy cancels a shipment of 100 pounds of spent nuclear fuel (estimated value $200 million per year) to Idaho after failing to agree on terms that required a waiver to their 1995 agreement. ](/news/2015/10/23/the-u-s-department-of-energy-cancels-a-shipment-of-100-pounds-of-spent-nuclear-fuel-estimated-value-200-million-per-year-to-idaho-after.md) _Context: Idaho_
 3. [The United States Federal Government recognizes same-sex marriage in Alaska, Arizona, Idaho, North Carolina, West Virginia and Wyoming, bringing the total number of states with recognition of gay marriage to 32. ](/news/2014/10/25/the-united-states-federal-government-recognizes-same-sex-marriage-in-alaska-arizona-idaho-north-carolina-west-virginia-and-wyoming-brin.md) _Context: Idaho_
 4. [Residents evacuated from Greenhorn Gulch area in Idaho from the Beaver Creek fire. ](/news/2013/08/17/residents-evacuated-from-greenhorn-gulch-area-in-idaho-from-the-beaver-creek-fire.md) _Context: Idaho_

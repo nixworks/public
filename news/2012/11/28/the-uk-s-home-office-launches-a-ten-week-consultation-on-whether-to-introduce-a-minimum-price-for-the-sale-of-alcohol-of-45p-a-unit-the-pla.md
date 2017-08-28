@@ -11,7 +11,7 @@ Ministers are proposing to set a minimum price of 45p a unit for the sale of alc
 
 ### Related:
 
-1. [Global surveillance disclosures (2013-present): Edward Snowden: NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/global-surveillance-disclosures-2013-present-edward-snowden-nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-figh.md) _Context: UK_
+1. [NSA documents show the US and UK spied on Israeli military drones and fighter jets. ](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israeli-military-drones-and-fighter-jets.md) _Context: UK_
 2. [A UK regulatory agency, the Financial Conduct Authority announces plans to cap the interest rates that can be set by payday lenders, as well as their default charges. ](/news/2014/07/15/a-uk-regulatory-agency-the-financial-conduct-authority-announces-plans-to-cap-the-interest-rates-that-can-be-set-by-payday-lenders-as-well.md) _Context: UK_
 3. [Alan Rusbridger, the editor of "The Guardian", reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-drive.md) _Context: UK_
 4. [UK police announce that they are calling off the search for missing girl April Jones. ](/news/2013/04/22/uk-police-announce-that-they-are-calling-off-the-search-for-missing-girl-april-jones.md) _Context: UK_

@@ -39,7 +39,7 @@ _Context: Barack Obama, Henry E. Hudson, US Eastern District Court of Virginia, 
 ### [An American Catholic nun pleads not guilty to charges of embezzling $850,000 from Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
 _Context:  Catholic nun,  Iona College, embezzled_
 
-### [Palestinian negotiator Saeb Erakat asks the European Union to recognize -two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-two-states-israel-and-palestine-along-the-1967-borders.md)
+### [Palestinian negotiator Saeb Erakat asks the European Union to recognize "two states (Israel and Palestine) along the 1967 borders". ](/news/2010/12/13/palestinian-negotiator-saeb-erakat-asks-the-european-union-to-recognize-atwo-states-israel-and-palestine-along-the-1967-borders.md)
 _Context: European Union, Israel, Palestinian, Saeb Erakat_
 
 ### [Europe reaffirms its readiness to recognise a Palestinian state at an "appropriate" time, stopping short of outright recognition despite mounting pressure to break the Middle East impasse. ](/news/2010/12/13/europe-reaffirms-its-readiness-to-recognise-a-palestinian-state-at-an-appropriate-time-stopping-short-of-outright-recognition-despite-mou.md)

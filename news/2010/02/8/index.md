@@ -30,7 +30,7 @@ _Context: Boeing 747-8, maiden flight_
 ### [A series of avalanches at the Salang tunnel in Afghanistan is presumed to kill 64 people, with at least 400 injuries reported. ](/news/2010/02/8/a-series-of-avalanches-at-the-salang-tunnel-in-afghanistan-is-presumed-to-kill-64-people-with-at-least-400-injuries-reported.md)
 The authorities said a sudden storm with heavy wind and rain set off waves of snow that buried two miles of a highway and left cars trapped in a tunnel.
 
-### [Reform of the banking system was one of the key themes at this year-s World Economic Forum in Davos. European Parliament Vice-President Silvana Koch-Mehrin said "There was general disapproval of the disproportionate self-rewarding in the banking sector". ](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-themes-at-this-year-s-world-economic-forum-in-davos-european-parliament-vice-president-si.md)
+### [Reform of the banking system was one of the key themes at this year's World Economic Forum in Davos. European Parliament Vice-President Silvana Koch-Mehrin said "There was general disapproval of the disproportionate self-rewarding in the banking sector". ](/news/2010/02/8/reform-of-the-banking-system-was-one-of-the-key-themes-at-this-yearas-world-economic-forum-in-davos-european-parliament-vice-president-si.md)
 _Context: Davos, European Parliament Vice-President, Silvana Koch-Mehrin, World Economic Forum_
 
 ## [Previous Day...](/news/2010/02/7/index.md)

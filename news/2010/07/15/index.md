@@ -27,7 +27,7 @@ _Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
 _Context: Robbie Williams, Take That_
 
-### [Shahram Amiri:: Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-retu.md)
+### [Shahram Amiri, the Iranian nuclear scientist who says he was abducted by the United States Central Intelligence Agency, returns to Tehran. ](/news/2010/07/15/shahram-amiri-the-iranian-nuclear-scientist-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-returns-to-tehran.md)
 Shahram Amiri, back in Tehran, vows to reveal details of alleged kidnapping while on Hajj.
 
 ### [10 Russian agents of influence deported from the United States face three weeks of testing to eradicate potential double agents. ](/news/2010/07/15/10-russian-agents-of-influence-deported-from-the-united-states-face-three-weeks-of-testing-to-eradicate-potential-double-agents.md)

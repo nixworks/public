@@ -9,7 +9,7 @@ Sharia court upholds caning sentence of Muslim woman convicted of drinking beer.
 ### [ Former President of Peru Alberto Fujimori pleads guilty to charges of bribery and spying on his old rivals during his presidency. ](/news/2009/09/29/former-president-of-peru-alberto-fujimori-pleads-guilty-to-charges-of-bribery-and-spying-on-his-old-rivals-during-his-presidency.md)
 _Context: Alberto Fujimori, President, bribes, spying_
 
-### [ The European Commission denies accusations that it broke Ireland's laws against using taxpayers' money on referendum spending after an EU office in Dublin paid -150,000 to insert a guide to the Treaty of Lisbon into all Sunday newspapers as the country's second referendum approaches. ](/news/2009/09/29/the-european-commission-denies-accusations-that-it-broke-ireland-s-laws-against-using-taxpayers-money-on-referendum-spending-after-an-eu-o.md)
+### [ The European Commission denies accusations that it broke Ireland's laws against using taxpayers' money on referendum spending after an EU office in Dublin paid EUR150,000 to insert a guide to the Treaty of Lisbon into all Sunday newspapers as the country's second referendum approaches. ](/news/2009/09/29/the-european-commission-denies-accusations-that-it-broke-ireland-s-laws-against-using-taxpayers-money-on-referendum-spending-after-an-eu-o.md)
  FUNDING FROM EUROPE: THE EUROPEAN Commission has rejected suggestions from No campaigners that it broke Irish rules on referendum&hellip;
 
 ### [ At least 87 people die in a crackdown by the Military of Guinea on an opposition rally against the country's leader Moussa Dadis Camara. ](/news/2009/09/29/at-least-87-people-die-in-a-crackdown-by-the-military-of-guinea-on-an-opposition-rally-against-the-country-s-leader-moussa-dadis-camara.md)

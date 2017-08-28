@@ -33,7 +33,7 @@ _Context: Britain, Jamaica_
 ### [ Greek militant group Revolutionary Struggle threatens to attack the "golden boys" it blames for the economic crisis as it claims responsibility for the Athens stock market bombing. ](/news/2009/09/10/greek-militant-group-revolutionary-struggle-threatens-to-attack-the-golden-boys-it-blames-for-the-economic-crisis-as-it-claims-responsibi.md)
 Greek militant group Revolutionary Struggle have threatened to attack the &#39;golden boys&#39; it blames for the economic crisis.
 
-### [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6-2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md)
+### [ In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. ](/news/2009/09/10/in-football-germany-beat-england-6a2-in-the-uefa-women-s-euro-2009-final-claiming-their-seventh-european-title.md)
 _Context: England, European title, Germany, UEFA Women's Euro 2009, association football_
 
 ### [ A boat with over 250 people on board capsizes in a storm off the coast of Sierra Leone, killing at least 8. ](/news/2009/09/10/a-boat-with-over-250-people-on-board-capsizes-in-a-storm-off-the-coast-of-sierra-leone-killing-at-least-8.md)

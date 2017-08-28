@@ -1,12 +1,12 @@
 ## [2013-08-11](/news/2013/08/11/index.md)
 
-### [War in Afghanistan (2001-present):: Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/war-in-afghanistan-2001-present-three-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md)
+### [Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/three-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md)
 Soldiers killed in attack in Paktia province near border with Pakistan.
 
 ### [Suspected Al-Qaeda militants kill five Yemeni soldiers in an attack on a gas terminal in Southern Yemen. ](/news/2013/08/11/suspected-al-qaeda-militants-kill-five-yemeni-soldiers-in-an-attack-on-a-gas-terminal-in-southern-yemen.md)
 Suspected al-Qaeda militants kill five soldiers in an attack on a gas terminal in Yemen, as the US reopens diplomatic missions in the wider region.
 
-### [Syrian civil war: Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-civil-war-syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-a.md)
+### [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md)
 _Context: Latakia, Osama bin Laden, Saudi Arabia, Syrian Civil War, al-Qaeda_
 
 ### [Flash floods in Afgahanistan's Kabul province kill 22 people. ](/news/2013/08/11/flash-floods-in-afgahanistan-s-kabul-province-kill-22-people.md)

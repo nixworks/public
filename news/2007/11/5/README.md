@@ -3,8 +3,8 @@
 ### [ The Hang Seng Index in Hong Kong drops over 1,500 points, or 5%, three days after a previous sizable decline. The Hang Seng registers its largest daily loss since September 2001. ](/news/2007/11/5/the-hang-seng-index-in-hong-kong-drops-over-1-500-points-or-5-three-days-after-a-previous-sizable-decline-the-hang-seng-registers-its-l.md)
 _Context: Hang Seng Index, Hong Kong_
 
-### [ 2007 Pakistani state of emergency:: The Netherlands suspends aid to Pakistan following the imposition of emergency rule.date=December 2007: Several demonstrating lawyers protesting outside the Sindh High Court are arrested.date=December 2007: President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. ](/news/2007/11/5/2007-pakistani-state-of-emergency-the-netherlands-suspends-aid-to-pakistan-following-the-imposition-of-emergency-rule-date-december-2007.md)
-_Context: 2007 Pakistani state of emergency, George W. Bush, Netherlands, Pervez Musharraf, President, President, Sindh, Sindh High Court, arrested, international aid, lawyers, state of emergency_
+### [ The Netherlands suspends aid to Pakistan following the imposition of emergency rule.date=December 2007 Several demonstrating lawyers protesting outside the Sindh High Court are arrested.date=December 2007 President of the United States George W. Bush calls on the President of Pakistan Pervez Musharraf to end the state of emergency and restore civilian rule. ](/news/2007/11/5/the-netherlands-suspends-aid-to-pakistan-following-the-imposition-of-emergency-rule-date-december-2007-several-demonstrating-lawyers-protes.md)
+_Context: George W. Bush, Netherlands, Pervez Musharraf, President, President, Sindh, Sindh High Court, arrested, international aid, lawyers, state of emergency_
 
 ### [ Italian police arrest Sicilian mafia boss Salvatore Lo Piccolo, his son Sandro and two other mafiosi in Carini, Palermo. ](/news/2007/11/5/italian-police-arrest-sicilian-mafia-boss-salvatore-lo-piccolo-his-son-sandro-and-two-other-mafiosi-in-carini-palermo.md)
 _Context: Carini, Italian, Mafia, Palermo, Salvatore Lo Piccolo, Sicily, police_
@@ -16,7 +16,7 @@ _Context: Russia, Tula, fire, retirement home_
 _Context: Hollywood, Screenwriter, Writers Guild of America, residuals_
 
 ### [ lvaro Colom is elected President of Guatemala in the 2007 general election. ](/news/2007/11/5/alvaro-colom-is-elected-president-of-guatemala-in-the-2007-general-election.md)
-_Context: 2007 general election, Alvaro Colom, Guatemala, Guatemalan President_
+_Context: 2007 general election, Alvaro Colom, Guatemala, President of Guatemala_
 
 ### [ Google and the Open Handset Alliance announce the Android operating system, a joint effort in handheld computing. ](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.md)
 _Context: Android devices, Google, Open Handset Alliance, handheld computing_

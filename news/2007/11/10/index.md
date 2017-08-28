@@ -18,7 +18,7 @@ _Context: Battle of Mogadishu (November 2007), Mogadishu, Somalia_
 ### [ 2007 North Sea flood: The German ports of Hamburg and Bremerhaven suffer in the floods. ](/news/2007/11/10/2007-north-sea-flood-the-german-ports-of-hamburg-and-bremerhaven-suffer-in-the-floods.md)
 _Context: 2007 North Sea flood, Bremerhaven, Germany, Hamburg_
 
-### [ 2007 Pakistani state of emergency:: Malik Mohammad Qayyum, the Attorney General of Pakistan predicts that the 2007 Pakistani state of emergency could be lifted within a month. [http://news.bbc.co.uk/2/hi/south_asia/7088346.stm (BBC)]: Benazir Bhutto is to lead a long march against the emergency on 13 November. ](/news/2007/11/10/2007-pakistani-state-of-emergency-malik-mohammad-qayyum-the-attorney-general-of-pakistan-predicts-that-the-2007-pakistani-state-of-emerg.md)
+### [ Malik Mohammad Qayyum, the Attorney General of Pakistan predicts that the 2007 Pakistani state of emergency could be lifted within a month. [http://news.bbc.co.uk/2/hi/south_asia/7088346.stm (BBC)] Benazir Bhutto is to lead a long march against the emergency on 13 November. ](/news/2007/11/10/malik-mohammad-qayyum-the-attorney-general-of-pakistan-predicts-that-the-2007-pakistani-state-of-emergency-could-be-lifted-within-a-month.md)
 _Context: 2007 Pakistani state of emergency, Benazir Bhutto, Malik Mohammad Qayyum, Pakistan_
 
 ### [ Stagehands belonging to the International Alliance of Theatrical Stage Employees go on strike, shutting down most Broadway plays and musicals. ](/news/2007/11/10/stagehands-belonging-to-the-international-alliance-of-theatrical-stage-employees-go-on-strike-shutting-down-most-broadway-plays-and-musica.md)

@@ -3,7 +3,7 @@
 ### [ National People's Assembly Speaker Raimundo Pereira becomes Guinea-Bissau's interim President following the assassination of JoGBPo Bernardo Vieira. ](/news/2009/03/3/national-people-s-assembly-speaker-raimundo-pereira-becomes-guinea-bissau-s-interim-president-following-the-assassination-of-joagbpo-bernar.md)
 * Parliamentary speaker to take oath as interim president * Envoys fly in * Army controls strategic locations in capital * Army says no
 
-### [ The European Court of Human Rights rules that Turkey's government violated the property rights of a Greek Orthodox foundation by seizing its land and fines it -105,000. ](/news/2009/03/3/the-european-court-of-human-rights-rules-that-turkey-s-government-violated-the-property-rights-of-a-greek-orthodox-foundation-by-seizing-it.md)
+### [ The European Court of Human Rights rules that Turkey's government violated the property rights of a Greek Orthodox foundation by seizing its land and fines it EUR105,000. ](/news/2009/03/3/the-european-court-of-human-rights-rules-that-turkey-s-government-violated-the-property-rights-of-a-greek-orthodox-foundation-by-seizing-it.md)
 The European Court of Human Rights Tuesday ruled Turkey had violated the property rights of a Greek Orthodox foundation by seizing its land and ordered the government to pay damages.
 
 ### [ The 11th Chinese People's Political Consultative Conference's National Committee begins its annual session with a focus on the global financial crisis. ](/news/2009/03/3/the-11th-chinese-people-s-political-consultative-conference-s-national-committee-begins-its-annual-session-with-a-focus-on-the-global-finan.md)

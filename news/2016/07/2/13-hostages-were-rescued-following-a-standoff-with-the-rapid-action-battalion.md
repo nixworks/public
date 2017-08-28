@@ -13,4 +13,4 @@ Bangladesh Prime Minister Sheikh Hasina said on Saturday that 13 hostages were r
 ### Related:
 
 1. [Raids by security forces on Jamaat-ul-Mujahideen Bangladesh in Gazipur leave 11 militants dead. ](/news/2016/10/8/raids-by-security-forces-on-jamaat-ul-mujahideen-bangladesh-in-gazipur-leave-11-militants-dead.md) _Context: security forces_
-2. [Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the  Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-of-dhaka-bangladesh.md) _Context: 2016 Gulshan attack_
+2. [Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. ](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-security-and-take-at-least-twenty-hostages-in-the-gulshan-neighborhood-of-dhaka-bangladesh.md) _Context: 2016 Gulshan attack_

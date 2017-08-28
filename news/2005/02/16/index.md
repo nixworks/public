@@ -3,7 +3,7 @@
 ### [ Mohamed ElBaradei, head of the International Atomic Energy Agency (IAEA), states there is no evidence to suggest Iran is developing nuclear weapons. ](/news/2005/02/16/mohamed-elbaradei-head-of-the-international-atomic-energy-agency-iaea-states-there-is-no-evidence-to-suggest-iran-is-developing-nuclear.md)
 _Context: International Atomic Energy Agency, Iran, Mohamed ElBaradei, nuclear warheads_
 
-### [ NHL Commissioner Gary Bettman announces the cancellation of the 2004-05 season because of the ongoing lockout. It is the first time a North American professional sports league has cancelled an entire season due to a labor dispute. ](/news/2005/02/16/nhl-commissioner-gary-bettman-announces-the-cancellation-of-the-2004-05-season-because-of-the-ongoing-lockout-it-is-the-first-time-a-nor.md)
+### [ NHL Commissioner Gary Bettman announces the cancellation of the 2004-05 season because of the ongoing lockout. It is the first time a North American professional sports league has cancelled an entire season due to a labor dispute. ](/news/2005/02/16/nhl-commissioner-gary-bettman-announces-the-cancellation-of-the-2004a05-season-because-of-the-ongoing-lockout-it-is-the-first-time-a-nor.md)
 _Context: 2004-05 season, Gary Bettman, NHL Commissioner, National Hockey League labor dispute, professional sports_
 
 ### [ A large explosion is reported in southwestern Iran, in the province of Bushehr, close to the site of a newly built nuclear power plant. Iranian officials later announce that the explosion was caused by construction work on a dam at Kowsar, near the port city of Deylam. ](/news/2005/02/16/a-large-explosion-is-reported-in-southwestern-iran-in-the-province-of-bushehr-close-to-the-site-of-a-newly-built-nuclear-power-plant-ira.md)

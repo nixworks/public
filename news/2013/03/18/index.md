@@ -1,16 +1,16 @@
 ## [2013-03-18](/news/2013/03/18/index.md)
 
-### [Syrian civil war:: Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/syrian-civil-war-fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)
-_Context: Lebanon, Syrian Air Force, Syrian Civil War_
+### [Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)
+_Context: Lebanon, Syrian Air Force_
 
-### [War in Somalia:: A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/war-in-somalia-a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: Mogadishu, Somalia, War in Somalia (2009-present), car bombing_
+### [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
+_Context: Mogadishu, Somalia, car bombing_
 
-### [Terrorism in Pakistan:: A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/terrorism-in-pakistan-a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least.md)
+### [A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4-people-and-injures-47.md)
 Militants kill at least four people and injure 29 in an attack on a court and prison complex in the north-west Pakistani city of Peshawar.
 
-### [Nigerian Sharia conflict:: A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/nigerian-sharia-conflict-a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md)
-_Context: Kano, Nigeria, Nigerian Sharia conflict, bus park_
+### [A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md)
+_Context: Kano, Nigeria, bus park_
 
 ### [Seven U.S. Marines are killed and seven others are injured when a mortar explodes during a training exercise in the Hawthorne Army Depot in Hawthorne, Nevada, United States. ](/news/2013/03/18/seven-u-s-marines-are-killed-and-seven-others-are-injured-when-a-mortar-explodes-during-a-training-exercise-in-the-hawthorne-army-depot-in.md)
 A deadly explosion at a military ammunition storage facility in Nevada during a training exercise Monday prompted the U.S. Marine Corps to issue a blanket suspension of 60-millimeter mortars and associated tubes pending a review of the accident.

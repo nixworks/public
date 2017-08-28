@@ -6,7 +6,7 @@ Get the latest news on celebrity scandals, engagements, and divorces! Check out 
 ### [ Farrah Fawcett dies at approximately 9:28 a.m. in the intensive care unit of Saint John's Health Center in Santa Monica, California, with Ryan O'Neal and Alana Stewart by her side. ](/news/2009/06/25/farrah-fawcett-dies-at-approximately-9-28-a-m-in-the-intensive-care-unit-of-saint-john-s-health-center-in-santa-monica-california-with-r.md)
 Farrah Fawcett , who soared to fame as a national sex symbol in the late 1970s on television&apos;s campy &quot;Charlie&apos;s Angels&quot; and in a swimsuit poster that showcased her feathery mane and made her a generation&apos;s favorite pinup, died Thursday. She was 62.
 
-### [ Iran: A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/iran-a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md)
+### [ A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md)
 A mourning ceremony for protestors who have died in Iran&#39;s post-election turmoil has been called off.
 
 ### [ Campaigning begins for a legislative election in Iraqi Kurdistan. ](/news/2009/06/25/campaigning-begins-for-a-legislative-election-in-iraqi-kurdistan.md)
@@ -18,7 +18,7 @@ Venezuela and the United States said yesterday they will restore their ambassado
 ### [ A roadside bomb kills five Iraqi policemen in the western city of Fallujah. ](/news/2009/06/25/a-roadside-bomb-kills-five-iraqi-policemen-in-the-western-city-of-fallujah.md)
 A roadside bomb killed five Iraqi policemen today in the once turbulent but recently secure western city of Falluja, police said&hellip;
 
-### [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008-09-volvo-ocean-race-gets-underway-in-stockholm.md)
+### [ The last leg of the 2008-09 Volvo Ocean Race gets underway in Stockholm. ](/news/2009/06/25/the-last-leg-of-the-2008a09-volvo-ocean-race-gets-underway-in-stockholm.md)
 _Context: 2008-09, Stockholm, Volvo Ocean Race_
 
 ### [ The Russian Supreme Court orders a retrial for three men on charges related to the murder of journalist Anna Politkovskaya. ](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.md)

@@ -1,12 +1,12 @@
 ## [2015-04-10](/news/2015/04/10/index.md)
 
-### [Yemeni Civil War (2015): The Pakistani parliament votes not to join the Saudi led coalition in Yemen. ](/news/2015/04/10/yemeni-civil-war-2015-the-pakistani-parliament-votes-not-to-join-the-saudi-led-coalition-in-yemen.md)
+### [The Pakistani parliament votes not to join the Saudi led coalition in Yemen. ](/news/2015/04/10/the-pakistani-parliament-votes-not-to-join-the-saudi-led-coalition-in-yemen.md)
 Vote indicates country will not join Saudi-led military coalition but will &quot;stand shoulder to shoulder&quot; with kingdom.
 
-### [Iraqi insurgency: A car bomb blast in Baghdad kills at least three people and injures 12. ](/news/2015/04/10/iraqi-insurgency-a-car-bomb-blast-in-baghdad-kills-at-least-three-people-and-injures-12.md)
+### [A car bomb blast in Baghdad kills at least three people and injures 12. ](/news/2015/04/10/a-car-bomb-blast-in-baghdad-kills-at-least-three-people-and-injures-12.md)
 _Context: Baghdad, Iraqi insurgency, car bomb_
 
-### [Balochistan conflict: Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/balochistan-conflict-gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md)
+### [Gunmen kill 20 laborers at a dam construction in Pakistan's Balochistan province. ](/news/2015/04/10/gunmen-kill-20-laborers-at-a-dam-construction-in-pakistan-s-balochistan-province.md)
 Gunmen kill 20 construction workers in Pakistan&#039;s restive south-western province of Baluchistan, shooting them at point blank range.
 
 ### [The U.S. Environmental Protection Agency reaches an agreement with two petroleum industry groups about biofuel blending targets. ](/news/2015/04/10/the-u-s-environmental-protection-agency-reaches-an-agreement-with-two-petroleum-industry-groups-about-biofuel-blending-targets.md)

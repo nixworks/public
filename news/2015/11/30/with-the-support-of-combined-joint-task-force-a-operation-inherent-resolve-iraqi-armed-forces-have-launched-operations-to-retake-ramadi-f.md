@@ -1,0 +1,23 @@
+### [2015-11-30](/news/2015/11/30/index.md)
+
+# With the support of Combined Joint Task Force - Operation Inherent Resolve, Iraqi Armed Forces have launched operations to retake Ramadi from ISIL. 
+
+Iraqi forces have launched an offensive to retake Ramadi from Islamic State militants, U.S. officials said Thursday.
+
+
+### Source:
+
+1. [The Military Times](http://www.militarytimes.com/story/breaking-news/2015/11/26/iraqis-offensive-retake-ramadi-islamic-state-isis-isil/76411738/)
+
+### Related:
+
+1. [The Iraqi government, via state TV, requests all civilians leave the ISIL-held city of Ramadi in Anbar province, after several days of U.S.-led coalition airstrikes against ISIL. Observers speculate this request precedes major ground operations to retake Ramadi, which fell to ISIL in May. ](/news/2015/12/1/the-iraqi-government-via-state-tv-requests-all-civilians-leave-the-isil-held-city-of-ramadi-in-anbar-province-after-several-days-of-u-s.md) _Context: American-led intervention in Iraq, Military intervention against ISIL, Ramadi_
+2. [Iraqi Armed Forces announce the complete recapture of the city of Ramadi in western Iraq's Anbar Province from the Islamic State, along with the reopening of the Ramadi-Baghdad road. ](/news/2016/02/9/iraqi-armed-forces-announce-the-complete-recapture-of-the-city-of-ramadi-in-western-iraq-s-anbar-province-from-the-islamic-state-along-with.md) _Context: Iraqi and allied forces, Ramadi_
+3. [Iraqi officials say the country's forces have managed to retake large parts of the key city of Ramadi from Islamic State of Iraq and the Levant militants. ](/news/2015/12/8/iraqi-officials-say-the-country-s-forces-have-managed-to-retake-large-parts-of-the-key-city-of-ramadi-from-islamic-state-of-iraq-and-the-lev.md) _Context: Iraqi and allied forces, Ramadi_
+4. [ The Kurdish People's Protection Units (YPG) capture the military base Brigade 93 and enter the town of Ayn Issa, the first defense line of ISIL north of its de facto capital al-Raqqah.ISIL claims it has started the destruction of the ancient complex of Palmyra. ](/news/2015/06/23/the-kurdish-people-s-protection-units-ypg-capture-the-military-base-brigade-93-and-enter-the-town-of-ayn-issa-the-first-defense-line-of.md) _Context: ISIL, Military intervention against ISIL_
+5. [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md) _Context: ISIL, Military intervention against ISIL_
+6. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Military intervention against ISIL_
+7. [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md) _Context: ISIL_
+8. [One policeman has been killed and another has been critically injured after a man opened fire at police officers at the Champs-Elysees in central Paris. The gunman was killed while attempting to escape, and a bystander has been injured. ISIL claims responsibility for the attack although the claim is doubted. The President of France Francois Hollande says that all leads indicate that the attack was of a "terrorist nature". ](/news/2017/04/20/one-policeman-has-been-killed-and-another-has-been-critically-injured-after-a-man-opened-fire-at-police-officers-at-the-champs-alysa-c-es-in.md) _Context: ISIL_
+9. [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md) _Context: ISIL_
+10. [An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. ](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-iraq-kills-ayad-al-jumaili-believed-to-be-isil-s-second-in-command.md) _Context: Military intervention against ISIL_

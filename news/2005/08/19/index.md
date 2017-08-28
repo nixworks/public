@@ -6,8 +6,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Pope Benedict XVI speaks inside a synagogue at World Youth Day 2005 about the Judeo-Christian relationship. He also speaks with Protestant and Orthodox Christians about upcoming challenges within Christianity. ](/news/2005/08/19/pope-benedict-xvi-speaks-inside-a-synagogue-at-world-youth-day-2005-about-the-judeo-christian-relationship-he-also-speaks-with-protestant.md)
 _Context: Eastern Orthodox Church, Judeo-Christian, Pope Benedict XVI, Protestantism, World Youth Day 2005, synagogue_
 
-### [ Conflict in Iraq:: 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/conflict-in-iraq-3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-t.md)
-_Context: Arab, Conflict in Iraq, Iraq, Mosul, Sunni, political party_
+### [ 3 members of the main Sunni Arab political party in Iraq are kidnapped and killed as they put up posters urging people to vote in the upcoming elections in Mosul. ](/news/2005/08/19/3-members-of-the-main-sunni-arab-political-party-in-iraq-are-kidnapped-and-killed-as-they-put-up-posters-urging-people-to-vote-in-the-upcom.md)
+_Context: Arab, Iraq, Mosul, Sunni, political party_
 
 ### [ Pierre Nkurunziza of the National Council for the Defense of Democracy-Forces for the Defense of Democracy, a former rebel leader of the Hutu majority in Burundi, has been elected unopposed as the new President of Burundi by the parliament, the first president chosen through democratic means since the start of the civil war in 1993. He will be sworn in on 27 August. ](/news/2005/08/19/pierre-nkurunziza-of-the-national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy-a-former-rebel-leader-of-the-hu.md)
 _Context: 27 August, Burundi, Burundi Civil War, Hutu, National Council for the Defense of Democracy-Forces for the Defense of Democracy, Parliament of Burundi, Pierre Nkurunziza, President of Burundi, elected unopposed_

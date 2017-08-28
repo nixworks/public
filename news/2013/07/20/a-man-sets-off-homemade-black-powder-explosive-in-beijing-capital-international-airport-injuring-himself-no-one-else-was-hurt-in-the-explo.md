@@ -11,4 +11,4 @@
 
 ### Related:
 
-1. [Asian Dust: A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/asian-dust-a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md) _Context: Beijing Capital International Airport_
+1. [A severe dust storm impacts North China, causing flight cancellations at Beijing Capital International Airport. ](/news/2017/05/4/a-severe-dust-storm-impacts-north-china-causing-flight-cancellations-at-beijing-capital-international-airport.md) _Context: Beijing Capital International Airport_

@@ -6,7 +6,7 @@ _Context: BNP Paribas, Credit Agricole, France, Moody's, Societe Generale, credi
 ### [Stock prices rise at stock exchanges around the world, and some analysts see this as a reaction to a fiscal agreement among the leaders of the eurozone. ](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-world-and-some-analysts-see-this-as-a-reaction-to-a-fiscal-agreement-among-the-leaders-of-t.md)
 _Context: stock exchange_
 
-### [AMRI Hospital fire tragedy: 40 confirmed people die in a fire in the AMRI Hospital in the Indian city of Kolkata. ](/news/2011/12/9/amri-hospital-fire-tragedy-40-confirmed-people-die-in-a-fire-in-the-amri-hospital-in-the-indian-city-of-kolkata.md)
+### [40 confirmed people die in a fire in the AMRI Hospital in the Indian city of Kolkata. ](/news/2011/12/9/40-confirmed-people-die-in-a-fire-in-the-amri-hospital-in-the-indian-city-of-kolkata.md)
 The state government has cancelled the licence of AMRI Hospital. Fire department has lodged an FIR and police have initiated a case under section 304 of IPC.
 
 ### [David Cameron, the Prime Minister of the United Kingdom, refuses to join a European Union financial crisis accord after negotiations in Brussels. ](/news/2011/12/9/david-cameron-the-prime-minister-of-the-united-kingdom-refuses-to-join-a-european-union-financial-crisis-accord-after-negotiations-in-brus.md)

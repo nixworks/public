@@ -21,7 +21,7 @@ _Context: Democratic Republic of the Congo, Kivu conflict, Laurent Nkunda_
 ### [ A bomb explodes on the Rajdhani Express in Assam, India near Chungajan killing five passengers. ](/news/2007/12/13/a-bomb-explodes-on-the-rajdhani-express-in-assam-india-near-chungajan-killing-five-passengers.md)
 _Context: Assam, Chungajan, India, Rajdhani Express_
 
-### [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanu-pf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md)
+### [ ZANU-PF, the ruling party in Zimbabwe, endorses incumbent Robert Mugabe for the 2008 presidential election set for March. ](/news/2007/12/13/zanuapf-the-ruling-party-in-zimbabwe-endorses-incumbent-robert-mugabe-for-the-2008-presidential-election-set-for-march.md)
 _Context: Robert Mugabe, ZANU-PF, Zimbabwe, re-election, run-off presidential election_
 
 ### [ Lucy Kibaki, the wife of Kenyan President Mwai Kibaki, slaps a government official during independence day celebrations after he accidentally referred to her as "Mama Lucy Wambui," widely rumored to be the President's mistress. ](/news/2007/12/13/lucy-kibaki-the-wife-of-kenyan-president-mwai-kibaki-slaps-a-government-official-during-independence-day-celebrations-after-he-accidental.md)

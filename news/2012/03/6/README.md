@@ -51,10 +51,10 @@ _Context: Japan, Olympus Corp, Securities and Exchange Surveillance Commission_
 ### [Law enforcement agencies in the United States, United Kingdom and Ireland arrest alleged senior members of the computer hacking group Lulz Sec, including a member of the FBI. ](/news/2012/03/6/law-enforcement-agencies-in-the-united-states-united-kingdom-and-ireland-arrest-alleged-senior-members-of-the-computer-hacking-group-lulz-s.md)
 Law enforcement agents on two continents swooped in on top members of the computer hacking group LulzSec early Tuesday, acting largely on evidence gathered by infamous organization’s chief, who sources say has been secretly working for the government for months.
 
-### [Cyrenaican bid for semi-autonomy:: Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaican-bid-for-semi-autonomy-cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md)
+### [Cyrenaica, the eastern Libyan region, announces a bid for semi-autonomy. ](/news/2012/03/6/cyrenaica-the-eastern-libyan-region-announces-a-bid-for-semi-autonomy.md)
 _Context: Eastern, Libya_
 
-### [Super Tuesday:: Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/super-tuesday-voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md)
+### [Voters in 10 US states go to the polls for Super Tuesday. ](/news/2012/03/6/voters-in-10-us-states-go-to-the-polls-for-super-tuesday.md)
 For those of us who have never been held hostage, now we know what it feels like: Day after day, looking at the same faces, endlessly discussing the same topics, being fed the same gruel over and over.
 
 ### [Veteran Ohio Congressman Dennis Kucinich is defeated in a Democrat primary in the 9th district by incumbent Marcia C. Kaptur after he was affected by redistricting - Samuel Wurzelbacher aka Joe the Plumber wins the Republican Party primary. ](/news/2012/03/6/veteran-ohio-congressman-dennis-kucinich-is-defeated-in-a-democrat-primary-in-the-9th-district-by-incumbent-marcia-c-kaptur-after-he-was-af.md)
@@ -63,7 +63,7 @@ The incumbents are defeated in dramatic fashion.
 ### [Incumbent Ohio Congresswoman Jean Schmidt is defeated in the Republican primary in the 2nd district by Brad Wenstrup. ](/news/2012/03/6/incumbent-ohio-congresswoman-jean-schmidt-is-defeated-in-the-republican-primary-in-the-2nd-district-by-brad-wenstrup.md)
 Schmidt has represented Ohio&rsquo;s 2nd district since 2005.
 
-### [Indian elections:: Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/indian-elections-counting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md)
+### [Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. ](/news/2012/03/6/counting-begins-in-state-elections-in-the-indian-states-of-uttar-pradesh-punjab-manipur-uttarakhand-and-goa.md)
 Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punjab, Manipur and Goa ends here. Thanks for staying with us and keep reading on WSJ India and India Real Time for more updates.
 
 ### [Hakimullah Mehsud, leader of the Pakistan Taliban, removes his deputy commander Maulvi Faqir Mohammed in a sign of a growing power struggle. ](/news/2012/03/6/hakimullah-mehsud-leader-of-the-pakistan-taliban-removes-his-deputy-commander-maulvi-faqir-mohammed-in-a-sign-of-a-growing-power-struggle.md)

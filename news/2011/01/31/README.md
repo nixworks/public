@@ -1,6 +1,6 @@
 ## [2011-01-31](/news/2011/01/31/index.md)
 
-### [2011 Egyptian protests:: The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/2011-egyptian-protests-the-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md)
+### [The overnight atmosphere among the crowds gathered in Cairo's Tahrir Square is tense with gunfire reported. ](/news/2011/01/31/the-overnight-atmosphere-among-the-crowds-gathered-in-cairo-s-tahrir-square-is-tense-with-gunfire-reported.md)
 Hosni Mubarak ordered his new PM to preserve subsidies, control inflation and provide more jobs.
 
 ### [2011 Sudan protests: A student dies after being attacked by security forces amid anti-government demonstrations in the country. ](/news/2011/01/31/2011-sudan-protests-a-student-dies-after-being-attacked-by-security-forces-amid-anti-government-demonstrations-in-the-country.md)
@@ -39,7 +39,7 @@ _Context: Alexander Lukashenko, Belarus, European Union, United States_
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
 Oman says it has uncovered a UAE spy network in the Gulf Arab state that targeted its government and military.
 
-### [WikiLeaks:: A new biography of Julian Assange reveals details of how the WikiLeaks spokesperson evaded U.S. officers from the Central Intelligence Agency Assange believed were following him, including his use of disguises. ](/news/2011/01/31/wikileaks-a-new-biography-of-julian-assange-reveals-details-of-how-the-wikileaks-spokesperson-evaded-u-s-officers-from-the-central-intell.md)
+### [A new biography of Julian Assange reveals details of how the WikiLeaks spokesperson evaded U.S. officers from the Central Intelligence Agency Assange believed were following him, including his use of disguises. ](/news/2011/01/31/a-new-biography-of-julian-assange-reveals-details-of-how-the-wikileaks-spokesperson-evaded-u-s-officers-from-the-central-intelligence-agenc.md)
 Ministers secretly advised Muammar Gaddafi&rsquo;s Libyan regime how to secure the successful early release of the Lockerbie bomber, documents obtained by The Daily Telegraph have disclosed.
 
 ### [British Defence Secretary Liam Fox says that Iran could have a nuclear weapon by next year and that the assessment of Meir Dagan, outgoing director of the Israeli intelligence agency Mossad, that Iran would not be able to produce a nuclear bomb before 2015 could be overly optimistic; Iran rejects Fox's remarks.](/news/2011/01/31/british-defence-secretary-liam-fox-says-that-iran-could-have-a-nuclear-weapon-by-next-year-and-that-the-assessment-of-meir-dagan-outgoing-d.md)

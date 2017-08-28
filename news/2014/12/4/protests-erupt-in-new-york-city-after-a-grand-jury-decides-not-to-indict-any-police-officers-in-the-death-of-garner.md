@@ -1,0 +1,23 @@
+### [2014-12-4](/news/2014/12/4/index.md)
+
+# Protests erupt in New York City after a grand jury decides not to indict any police officers in the death of Garner. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2014/12/03/justice/new-york-grand-jury-chokehold/)
+
+### Related:
+
+1. [A Federal grand jury indicts eleven members of a firearms trafficking ring based in Columbus, New Mexico including the mayor and police chief. ](/news/2011/03/10/a-federal-grand-jury-indicts-eleven-members-of-a-firearms-trafficking-ring-based-in-columbus-new-mexico-including-the-mayor-and-police-chie.md) _Context: grand jury, indicted_
+2. [ Major League Baseball player Barry Bonds is indicted by a federal grand jury in San Francisco for perjury and obstruction of justice, having allegedly lied under oath about his use of steroids. ](/news/2007/11/15/major-league-baseball-player-barry-bonds-is-indicted-by-a-federal-grand-jury-in-san-francisco-for-perjury-and-obstruction-of-justice-havin.md) _Context: grand jury, indicted_
+3. [ A federal grand jury in Providence, Rhode Island indicts Richard Hatch, winner of "Survivor: Pulau Tiga", for income tax evasion and fraud for allegedly failing to pay taxes on his winnings and misusing charity funds. ](/news/2005/09/9/a-federal-grand-jury-in-providence-rhode-island-indicts-richard-hatch-winner-of-survivor-pulau-tiga-for-income-tax-evasion-and-fraud.md) _Context: grand jury, indicted_
+4. [ Three British men are indicted by a United States court in a 2004 alleged plot to destroy financial institutions in the USA, including such notable landmarks as the New York Stock Exchange in New York City, the Prudential building in New Jersey, and the World Bank and the International Monetary Fund in Washington, D.C.. The U.S. claims that one is a senior Al-Qaeda member. ](/news/2005/04/12/three-british-men-are-indicted-by-a-united-states-court-in-a-2004-alleged-plot-to-destroy-financial-institutions-in-the-usa-including-such.md) _Context: New York City, indicted_
+5. [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md) _Context: New York City_
+6. [Former President of the Philippines Benigno "Noynoy" Aquino III is indicted (among others) by the Office of the Ombudsman for his failure in handling the 2015 Mamasapano clash, which resulted in the deaths of 44 members of the Special Action Forces of the Philippine National Police. Aquino's legal team has vowed to appeal for a motion for reconsideration; as well as the group Volunteers Against Crime and Corruption (representing the victims' families), against what they call a "weak case" (citing Aquino's charges of "graft" & "usurpation of authority", instead of "reckless imprudence resulting in multiple homicide") ](/news/2017/07/14/former-president-of-the-philippines-benigno-noynoy-aquino-iii-is-indicted-among-others-by-the-office-of-the-ombudsman-for-his-failure-in.md) _Context: indicted_
+7. [A doctor thought to be formerly employed with the Bronx-Lebanon Hospital Center kills one and wounds five others at the facility in New York City. ](/news/2017/06/30/a-doctor-thought-to-be-formerly-employed-with-the-bronx-lebanon-hospital-center-kills-one-and-wounds-five-others-at-the-facility-in-new-york.md) _Context: New York City_
+8. [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. [http://www.washingtontimes.com/news/2017/jun/5/brian-stelter-cnn-deny-network-staged-london-anti-/ (Washington Times) ]](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-http-www-washi.md) _Context: protest_
+9. [The Tony Awards are held in New York City with "Dear Evan Hansen" winning six awards including Best Musical and "Oslo" winning best play. ](/news/2017/06/11/the-tony-awards-are-held-in-new-york-city-with-dear-evan-hansen-winning-six-awards-including-best-musical-and-oslo-winning-best-play.md) _Context: New York City_
+10. [An automobile crashes into pedestrians in New York City's Times Square, killing one person and injuring several others. Police are investigating the incident as an accident. ](/news/2017/05/18/an-automobile-crashes-into-pedestrians-in-new-york-city-s-times-square-killing-one-person-and-injuring-several-others-police-are-investiga.md) _Context: New York City_

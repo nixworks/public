@@ -1,6 +1,6 @@
 ### [2016-05-9](/news/2016/05/9/index.md)
 
-#    Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. 
+#   Airstrikes by the Saudi-led coalition kill at least 10 in Yemen. 
 
 
 

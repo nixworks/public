@@ -13,6 +13,6 @@ He may never be commemorated with a statue or have a park named after him, but R
 ### Related:
 
 1. [Mayor of Toronto Rob Ford takes a leave of absence to help with substance abuse, according to his lawyer. ](/news/2014/04/30/mayor-of-toronto-rob-ford-takes-a-leave-of-absence-to-help-with-substance-abuse-according-to-his-lawyer.md) _Context: Rob Ford, mayor_
-2. [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario-s conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontario-s-conflict-of-interest-law-and-orders-him-to-remove-f.md) _Context: Rob Ford, mayor_
+2. [Ontario Superior Court of Justice rules that Toronto mayor Rob Ford breached Ontario's conflict of interest law and orders him to remove from office. ](/news/2012/11/26/ontario-superior-court-of-justice-rules-that-toronto-mayor-rob-ford-breached-ontarioas-conflict-of-interest-law-and-orders-him-to-remove-f.md) _Context: Rob Ford, mayor_
 3. [Toronto Mayor Rob Ford admits that a year-old video does indeed show him smoking crack cocaine, a charge he had previously denied. Ford refused to resign from office and vowed to pursue re-election efforts. ](/news/2013/11/5/toronto-mayor-rob-ford-admits-that-a-year-old-video-does-indeed-show-him-smoking-crack-cocaine-a-charge-he-had-previously-denied-ford-refu.md) _Context: Rob Ford_
 4. [Rob Ford becomes mayor of Toronto. ](/news/2010/12/1/rob-ford-becomes-mayor-of-toronto.md) _Context: Rob Ford_

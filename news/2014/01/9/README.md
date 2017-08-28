@@ -1,10 +1,10 @@
 ## [2014-01-9](/news/2014/01/9/index.md)
 
-### [Syrian Civil War:: A car bomb kills 18 people, including women and children, in Syria's central Hama province, according to the Syrian Observatory for Human Rights organization. ](/news/2014/01/9/syrian-civil-war-a-car-bomb-kills-18-people-including-women-and-children-in-syria-s-central-hama-province-according-to-the-syrian-obser.md)
-_Context: Hama province, Syrian Civil War, Syrian Observatory for Human Rights, car bomb_
+### [A car bomb kills 18 people, including women and children, in Syria's central Hama province, according to the Syrian Observatory for Human Rights organization. ](/news/2014/01/9/a-car-bomb-kills-18-people-including-women-and-children-in-syria-s-central-hama-province-according-to-the-syrian-observatory-for-human-ri.md)
+_Context: Hama province, Syrian Observatory for Human Rights, car bomb_
 
-### [Iraqi insurgency (2011-13):: A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/iraqi-insurgency-2011-13-a-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md)
-_Context: Baghdad, Iraq, Iraqi insurgency (2011-13)_
+### [A suicide bomber kills 23 Iraqi army recruits and wounds 36 in Baghdad. ](/news/2014/01/9/a-suicide-bomber-kills-23-iraqi-army-recruits-and-wounds-36-in-baghdad.md)
+_Context: Baghdad, Iraq_
 
 ### [14-year-old boy Aitizaz Hassan in northern Pakistan is killed stopping a suicide bomber at the main gate of his school but saves the lives of all of his schoolmates gathered for their morning assembly. The Sunni group Lashkar-e-Jhangvi claims responsibility for the attack. ](/news/2014/01/9/14-year-old-boy-aitizaz-hassan-in-northern-pakistan-is-killed-stopping-a-suicide-bomber-at-the-main-gate-of-his-school-but-saves-the-lives-o.md)
 _Context: Aitizaz Hassan, Lashkar-e-Jhangvi, War in North-West Pakistan, suicide bomber_

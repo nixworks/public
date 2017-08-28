@@ -1,6 +1,6 @@
 ## [2012-01-25](/news/2012/01/25/index.md)
 
-### [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011-2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md)
+### [2011-2012 Syrian uprising: 18 protesters are shot dead by Syrian security forces. ](/news/2012/01/25/2011a2012-syrian-uprising-18-protesters-are-shot-dead-by-syrian-security-forces.md)
 Syrian security forces raked the central protest city of Hama with heavy machinegun fire and explosives on Wednesday for the second straight day, as troops killed 18 civilians and six army deserters across the country, activists said. &quot;The Syrian...
 
 ### [A Tibetan monk is shot dead in Sichuan, China, in the second violent clash this week as unrest spreads. ](/news/2012/01/25/a-tibetan-monk-is-shot-dead-in-sichuan-china-in-the-second-violent-clash-this-week-as-unrest-spreads.md)

@@ -1,6 +1,6 @@
 ## [2015-07-25](/news/2015/07/25/index.md)
 
-### [Saudi Arabian-led intervention in Yemen: The Saudi-led military coalition announces that a 5-day humanitarian ceasefire has been agreed to, set to begin just before midnight Sunday. ](/news/2015/07/25/saudi-arabian-led-intervention-in-yemen-the-saudi-led-military-coalition-announces-that-a-5-day-humanitarian-ceasefire-has-been-agreed-to.md)
+### [The Saudi-led military coalition announces that a 5-day humanitarian ceasefire has been agreed to, set to begin just before midnight Sunday. ](/news/2015/07/25/the-saudi-led-military-coalition-announces-that-a-5-day-humanitarian-ceasefire-has-been-agreed-to-set-to-begin-just-before-midnight-sunday.md)
 A Saudi-led military coalition announced a five-day humanitarian cease-fire in Yemen, where it has been carrying out a campaign of airstrikes against the country’s Iran-backed Houthi rebels since March.
 
 ### [Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. ](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-northern-iraq-kill-at-least-12-people.md)

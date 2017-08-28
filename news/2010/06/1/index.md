@@ -6,7 +6,7 @@ _Context: Ahmadis, Friday's attack, Lahore, Pakistan_
 ### [Al-Qaeda's top leader in Afghanistan, and Osama bin Laden's third in command, Mustafa Abu al-Yazid, is reported killed. ](/news/2010/06/1/al-qaeda-s-top-leader-in-afghanistan-and-osama-bin-laden-s-third-in-command-mustafa-abu-al-yazid-is-reported-killed.md)
 _Context: Afghanistan's, Mustafa Abu al-Yazid, Osama bin Laden, al-Qaeda_
 
-### [Israeli-Palestinian conflict: The Israeli Defense Forces kill two Palestinians terrorists in Gaza who were attempting to cross the border fence, after an exchange of gunfire. Israel closes four settlements, Route 323 and schools as a result of the incident. ](/news/2010/06/1/israeli-palestinian-conflict-the-israeli-defense-forces-kill-two-palestinians-terrorists-in-gaza-who-were-attempting-to-cross-the-border.md)
+### [The Israeli Defense Forces kill two Palestinians terrorists in Gaza who were attempting to cross the border fence, after an exchange of gunfire. Israel closes four settlements, Route 323 and schools as a result of the incident. ](/news/2010/06/1/the-israeli-defense-forces-kill-two-palestinians-terrorists-in-gaza-who-were-attempting-to-cross-the-border-fence-after-an-exchange-of-gunf.md)
 Infiltrators shot dead in exchange of fire with IDF soldiers.
 
 ### [The Nanjing Metro opens its Line 2, extending its route length from 22km to 85km, and the number of stations from 16 to 57. ](/news/2010/06/1/the-nanjing-metro-opens-its-line-2-extending-its-route-length-from-22km-to-85km-and-the-number-of-stations-from-16-to-57.md)
@@ -18,7 +18,7 @@ Another sad sign today of the toll that public life can take on families: Former
 ### [Poland publishes the transcript of flight data recorders from the fatal 2010 Polish Air Force Tu-154 crash which killed 96 officials and intellectuals on 10 April. ](/news/2010/06/1/poland-publishes-the-transcript-of-flight-data-recorders-from-the-fatal-2010-polish-air-force-tu-154-crash-which-killed-96-officials-and-int.md)
 Poland publishes a transcript of flight data recorders from the plane crash that killed the Polish president and 95 others.
 
-### [Tropical Storm Agatha: 132 people are killed across Central America in the aftermath of the first named storm of the 2010 Pacific hurricane season. ](/news/2010/06/1/tropical-storm-agatha-132-people-are-killed-across-central-america-in-the-aftermath-of-the-first-named-storm-of-the-2010-pacific-hurricane.md)
+### [132 people are killed across Central America in the aftermath of the first named storm of the 2010 Pacific hurricane season. ](/news/2010/06/1/132-people-are-killed-across-central-america-in-the-aftermath-of-the-first-named-storm-of-the-2010-pacific-hurricane-season.md)
 Collapsed roads and highway bridges complicated rescue efforts in Guatemala on Tuesday after Tropical Storm Agatha drenched Central America, burying homes under mud and killing at least 178 people.
 
 ### [America's Obama administration warns that BP's oil spill in the Gulf of Mexico could continue until August. ](/news/2010/06/1/america-s-obama-administration-warns-that-bp-s-oil-spill-in-the-gulf-of-mexico-could-continue-until-august.md)
@@ -30,7 +30,7 @@ _Context: Baghdad, Iran, Iraq, Kurdish, Tehran_
 ### [The United States insists any Afghan peace deal must ensure women's rights as Afghanistan prepares to open a peace conference aimed at persuading Taliban leaders to put down their weapons. ](/news/2010/06/1/the-united-states-insists-any-afghan-peace-deal-must-ensure-women-s-rights-as-afghanistan-prepares-to-open-a-peace-conference-aimed-at-persu.md)
 _Context: Afghanistan's, Taliban, Women's rights_
 
-### [Aftermath of the Gaza flotilla raid: Survivors of the Israeli assault on the Gaza-bound international aid flotilla return to Greece and Turkey, providing the first eyewitness accounts of the attack. ](/news/2010/06/1/aftermath-of-the-gaza-flotilla-raid-survivors-of-the-israeli-assault-on-the-gaza-bound-international-aid-flotilla-return-to-greece-and-turk.md)
+### [Survivors of the Israeli assault on the Gaza-bound international aid flotilla return to Greece and Turkey, providing the first eyewitness accounts of the attack. ](/news/2010/06/1/survivors-of-the-israeli-assault-on-the-gaza-bound-international-aid-flotilla-return-to-greece-and-turkey-providing-the-first-eyewitness-ac.md)
 Israel has detained 487 pro-Palestinian activists captured in its deadly commando raid on a Gaza-bound aid flotilla and will expel 48 others, public radio reported Tuesday.
 
 ### [Judith Osburn, a Binghamton attorney, discussed same-sex marriage in New York and its complexity. ](/news/2010/06/1/judith-osburn-a-binghamton-attorney-discussed-same-sex-marriage-in-new-york-and-its-complexity.md)

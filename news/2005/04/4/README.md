@@ -21,7 +21,7 @@ _Context: Cuba, Pope, Pope John Paul II_
 ### [ Sudanese officials reject the United Nations resolution to use the International Criminal Court to prosecute the 51 people accused of responsibility for the Darfur atrocities. ](/news/2005/04/4/sudanese-officials-reject-the-united-nations-resolution-to-use-the-international-criminal-court-to-prosecute-the-51-people-accused-of-respo.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Afghanistan:: Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/afghanistan-aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md)
+### [ Aid groups are accused of "squandering" large amounts of Afghan aid money. ](/news/2005/04/4/aid-groups-are-accused-of-squandering-large-amounts-of-afghan-aid-money.md)
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ The Iraqi National Assembly elects Sunni Arab Hajim al-Hassani as its speaker. Shiite Hussain Shahristani and Kurd Aref Taifour are elected as his top deputies. The selections are the result of protracted debates between Iraq's top political parties. ](/news/2005/04/4/the-iraqi-national-assembly-elects-sunni-arab-hajim-al-hassani-as-its-speaker-shiite-hussain-shahristani-and-kurd-aref-taifour-are-elected.md)

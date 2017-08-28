@@ -6,7 +6,7 @@ _Context: Jacques Chirac, Jean-Marie Le Pen, Jean-Pierre Raffarin, Lionel Jospin
 ### [World Wrestling Federation is renamed to World Wrestling Entertainment due to trademark issues with World Wildlife Fund](/news/2002/05/5/world-wrestling-federation-is-renamed-to-world-wrestling-entertainment-due-to-trademark-issues-with-world-wildlife-fund.md)
 _Context: World Wildlife Fund, World Wrestling Entertainment_
 
-### [ Internazionale awkwardly hands over the Serie A Scudetto to their bitter rivals Juventus after losing away to SS Lazio, 4-2.](/news/2002/05/5/internazionale-awkwardly-hands-over-the-serie-a-scudetto-to-their-bitter-rivals-juventus-after-losing-away-to-ss-lazio-4-2.md)
+### [ Internazionale awkwardly hands over the Serie A Scudetto to their bitter rivals Juventus after losing away to SS Lazio, 4-2.](/news/2002/05/5/internazionale-awkwardly-hands-over-the-serie-a-scudetto-to-their-bitter-rivals-juventus-after-losing-away-to-ss-lazio-4a2.md)
 _Context: Internazionale, Juventus, SS Lazio, Scudetto_
 
 ## [Previous Day...](/news/2002/05/4/index.md)

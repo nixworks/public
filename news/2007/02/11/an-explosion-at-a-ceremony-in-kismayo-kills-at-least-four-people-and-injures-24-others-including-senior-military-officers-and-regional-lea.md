@@ -1,0 +1,24 @@
+### [2007-02-11](/news/2007/02/11/index.md)
+
+#  An explosion at a ceremony in Kismayo kills at least four people and injures 24 others, including senior military officers and regional leaders. General Abdi Mahdi, the recently appointed Somali military chief, is among the injured. 
+
+
+
+
+### Source:
+
+1. [Aljazeera](http://english.aljazeera.net/NR/exeres/2FDBD5CB-DE8E-44BD-AB21-1FFAE68C16E2.htm)
+2. [Aljazeera](http://english.aljazeera.net/NR/exeres/B00D82AF-014C-4CD2-A8FA-C8DD93DD8853.htm)
+
+### Related:
+
+1. [In a raid by Somali forces near Kismayo, at least 16 Al-Shabaab militants are killed, including the mastermind of the Garissa University College attack. ](/news/2016/06/2/in-a-raid-by-somali-forces-near-kismayo-at-least-16-al-shabaab-militants-are-killed-including-the-mastermind-of-the-garissa-university-col.md) _Context: Kismayo_
+2. [Charcoal shipments continue in the Somali port of Kismayo under the watch of African Union peacekeepers, despite a national and international ban on such shipments. ](/news/2012/11/6/charcoal-shipments-continue-in-the-somali-port-of-kismayo-under-the-watch-of-african-union-peacekeepers-despite-a-national-and-internationa.md) _Context: Kismayo_
+3. [African Union troops enter the Somali port town of Kismayo following the withdrawal of Al-Shabaab Islamist militants during the Battle of Kismayo. ](/news/2012/10/1/african-union-troops-enter-the-somali-port-town-of-kismayo-following-the-withdrawal-of-al-shabaab-islamist-militants-during-the-battle-of-ki.md) _Context: Kismayo_
+4. [Iranian sources citing Ash-Shabaab say a U.S. drone attack killed eight people in Kismayo, south Somalia. ](/news/2012/09/7/iranian-sources-citing-ash-shabaab-say-a-u-s-drone-attack-killed-eight-people-in-kismayo-south-somalia.md) _Context: Kismayo_
+5. [The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. ](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.md) _Context: Kismayo_
+6. [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coordi.md) _Context: Kismayo_
+7. [Somali and African Union forces launch a coordinated assault on the Somali port city of Kismayo to take back the city from al-Shabaab militants. ](/news/2012/09/28/somali-and-african-union-forces-launch-a-coordinated-assault-on-the-somali-port-city-of-kismayo-to-take-back-the-city-from-al-shabaab-milita.md) _Context: Kismayo_
+8. [Kenyan AMISOM troops, advancing towards the al-Shabaab stronghold of Kismayo, "deliberately" shoot dead seven Somali civilians, according to a Somali Army spokesman. The Hizbul Islam faction announces that it leaves the al-Shabaab. ](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.md) _Context: Kismayo_
+9. [In Somalia, more than fifty Al-Shabaab fighters are killed as African Union Kenyan peacekeepers, and the Somali National Army, continue their march towards the port city of Kismayo. ](/news/2012/09/11/in-somalia-more-than-fifty-al-shabaab-fighters-are-killed-as-african-union-kenyan-peacekeepers-and-the-somali-national-army-continue-thei.md) _Context: Kismayo_
+10. [Somali pirates hijack 8 Indian vessels abducting 120 sailors, biggest abduction count till date, off the coast of Kismayo. ](/news/2010/03/30/somali-pirates-hijack-8-indian-vessels-abducting-120-sailors-biggest-abduction-count-till-date-off-the-coast-of-kismayo.md) _Context: Kismayo_

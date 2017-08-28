@@ -1,24 +1,24 @@
 ## [2014-04-12](/news/2014/04/12/index.md)
 
-### [Palestinian-Israeli conflict: The Palestinian Authority signs 15 UN/Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/palestinian-israeli-conflict-the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-isr.md)
+### [The Palestinian Authority signs 15 UN/Geneva human rights treaties including the Fourth Geneva Convention. Israel responds with sanctions. Peace talks continue. ](/news/2014/04/12/the-palestinian-authority-signs-15-un-geneva-human-rights-treaties-including-the-fourth-geneva-convention-israel-responds-with-sanctions-p.md)
 Israel sets a tax sanction on the Palestinian Authority in the latest retaliatory step for its signing up to join international treaties.
 
-### [Syrian Civil War:: Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/syrian-civil-war-chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md)
-_Context: Hama, Syrian Civil War, chemical weapons_
+### [Chemical weapons are used again in Syria, this time on the town of Kafr Zita, Hama. ](/news/2014/04/12/chemical-weapons-are-used-again-in-syria-this-time-on-the-town-of-kafr-zita-hama.md)
+_Context: Hama, chemical weapons_
 
-### [2014 pro-Russian protests in Ukraine: Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/2014-pro-russian-protests-in-ukraine-gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md)
+### [Gunmen gain control of a police department in the town of Slaviansk in the eastern Ukraine. ](/news/2014/04/12/gunmen-gain-control-of-a-police-department-in-the-town-of-slaviansk-in-the-eastern-ukraine.md)
 Ukraine appealed to Russia to halt &quot;provocative actions&quot; in its eastern regions on Saturday as pro-Russian militants seized two more government buildings and called for autonomy from Kiev.
 
-### [Naxalite-Maoist insurgency/Indian general election, 2014:: Suspected Maoist rebels kill 13 people in a bombing in the eastern Indian state of Chhattisgarh, during the Indian general election, 2014. ](/news/2014/04/12/naxalite-maoist-insurgency-indian-general-election-2014-suspected-maoist-rebels-kill-13-people-in-a-bombing-in-the-eastern-indian-state.md)
+### [Suspected Maoist rebels kill 13 people in a bombing in the eastern Indian state of Chhattisgarh, during the Indian general election, 2014. ](/news/2014/04/12/suspected-maoist-rebels-kill-13-people-in-a-bombing-in-the-eastern-indian-state-of-chhattisgarh-during-the-indian-general-election-2014.md)
 Suspected Maoist rebels set off two bombs in the eastern Indian state of Chhattisgarh on Saturday, killing 13 people, most of them paramilitary soldiers and officials charged with holding elections in the region.
 
-### [War in North-West Pakistan: Gunmen kidnap 100 men from a tribal gathering in North-West Pakistan. ](/news/2014/04/12/war-in-north-west-pakistan-gunmen-kidnap-100-men-from-a-tribal-gathering-in-north-west-pakistan.md)
+### [Gunmen kidnap 100 men from a tribal gathering in North-West Pakistan. ](/news/2014/04/12/gunmen-kidnap-100-men-from-a-tribal-gathering-in-north-west-pakistan.md)
 Gunmen stormed a village gathering in northwestern Pakistan on Saturday and kidnapped around 100 men, Pakistani government officials said.
 
-### [Islamist insurgency in Nigeria: Borno State Senator Ahmed Zannah reports that 135 civilians have been killed in attacks in north west Nigeria since Wednesday. ](/news/2014/04/12/islamist-insurgency-in-nigeria-borno-state-senator-ahmed-zannah-reports-that-135-civilians-have-been-killed-in-attacks-in-north-west-nigeri.md)
+### [Borno State Senator Ahmed Zannah reports that 135 civilians have been killed in attacks in north west Nigeria since Wednesday. ](/news/2014/04/12/borno-state-senator-ahmed-zannah-reports-that-135-civilians-have-been-killed-in-attacks-in-north-west-nigeria-since-wednesday.md)
 A senator from north-east Nigeria tells the BBC that 135 civilians have been killed by gunmen there since Wednesday.
 
-### [Bundy standoff: Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/bundy-standoff-amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md)
+### [Amidst controversy, the Bureau of Land Management accedes to the release of the Bundy family's cattle. ](/news/2014/04/12/amidst-controversy-the-bureau-of-land-management-accedes-to-the-release-of-the-bundy-family-s-cattle.md)
 Federal land managers say escalating tensions led them to release all 400 or so head of cattle rounded up on public land in southern Nevada from a rancher who has refused to recognize their authority.
 
 ### [Researchers announce a new drug, ABT-450, with a 90-95% success rate at treating Hepatitis C. ](/news/2014/04/12/researchers-announce-a-new-drug-abt-450-with-a-90-95-success-rate-at-treating-hepatitis-c.md)

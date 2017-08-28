@@ -1,6 +1,6 @@
 ### [2015-10-19](/news/2015/10/19/index.md)
 
-# Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users- personal information to an advertising firm in China. 
+# Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. 
 
 Apple has banned 256 apps, with an estimated total of 1 million downloads among them, for harboring spyware from a Chinese advertising company.
 
@@ -21,4 +21,4 @@ Apple has banned 256 apps, with an estimated total of 1 million downloads among 
 7. [Apple Inc unveils iPhone 5 and iOS 6. ](/news/2012/09/12/apple-inc-unveils-iphone-5-and-ios-6.md) _Context: Apple Inc., iOS_
 8. [Computer firm Apple removes an application from its App Store that called for a "Third Intifada" against Israel. ](/news/2011/06/23/computer-firm-apple-removes-an-application-from-its-app-store-that-called-for-a-third-intifada-against-israel.md) _Context: App Store, Apple Inc._
 9. [Apple launches a subscription service for magazines, newspapers, videos, and music bought through its App Store. ](/news/2011/02/15/apple-launches-a-subscription-service-for-magazines-newspapers-videos-and-music-bought-through-its-app-store.md) _Context: App Store, Apple Inc._
-10. [2017 Jiuzhaigou earthquake: A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/2017-jiuzhaigou-earthquake-a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-mor.md) _Context: China_
+10. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_

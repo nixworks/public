@@ -3,7 +3,7 @@
 ### [Medecins Sans Frontieres accuses the Democratic Republic of the Congo of not doing enough to prevent war rape after 33 women are raped in Fizi, South Kivu, on New Year's Day. ](/news/2011/01/6/ma-c-decins-sans-frontia-res-accuses-the-democratic-republic-of-the-congo-of-not-doing-enough-to-prevent-war-rape-after-33-women-are-raped-in.md)
 _Context: Democratic Republic of the Congo, Fizi, Medecins Sans Frontieres, South Kivu, rape as a weapon of war_
 
-### [2010-2011 Ivorian crisis:: At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/2010-2011-ivorian-crisis-at-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-e.md)
+### [At least 14 people in Duekoue, Ivory Coast are killed in clashes between opposing sides in the Presidential election crisis. ](/news/2011/01/6/at-least-14-people-in-dua-c-koua-c-ivory-coast-are-killed-in-clashes-between-opposing-sides-in-the-presidential-election-crisis.md)
 At least 14 people have been killed in ethnic clashes in the western Ivory Coast city of Duekoue, a United Nations official said on Thursday declining to make a link with the presidential crisis in Abidjan.
 
 ### [Egyptian police increases security around Coptic churches on the eve of Coptic Christmas, following a bombing in Alexandria on New Year's Day that killed 23 people and sparked protests and riots across the country. ](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.md)

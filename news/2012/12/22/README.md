@@ -1,12 +1,12 @@
 ## [2012-12-22](/news/2012/12/22/index.md)
 
-### [Syrian civil war:: In Damascus, a car bomb kills six people, and a gunman assassinates a state television journalist. ](/news/2012/12/22/syrian-civil-war-in-damascus-a-car-bomb-kills-six-people-and-a-gunman-assassinates-a-state-television-journalist.md)
+### [In Damascus, a car bomb kills six people, and a gunman assassinates a state television journalist. ](/news/2012/12/22/in-damascus-a-car-bomb-kills-six-people-and-a-gunman-assassinates-a-state-television-journalist.md)
 BEIRUT - A car bomb exploded in eastern Damascus on Saturday, an insurgent spokeswoman said, and the Syrian government reported that a gunman killed a state television journalist in the...
 
-### [2012 Delhi gang rape case:: People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/2012-delhi-gang-rape-case-people-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons.md)
+### [People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/people-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons-in-new-delhi-india.md)
 Indian police use tear gas, water cannon and batons to disperse protesters marching over the gang rape of a young woman on a bus last week.
 
-### [War in North-West Pakistan:: A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/war-in-north-west-pakistan-a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md)
+### [A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md)
 A suicide bomber kills at least eight people, including a key provincial minister, at a political rally in the Pakistani city of Peshawar.
 
 ### [Hundreds of people in the Republic of Ireland queue before dawn for Christmas food parcels. ](/news/2012/12/22/hundreds-of-people-in-the-republic-of-ireland-queue-before-dawn-for-christmas-food-parcels.md)

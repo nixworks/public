@@ -21,7 +21,7 @@ _Context: Felipe Caldern, Juarez, Mexico, President_
 ### [A shooting at the University of Alabama in Huntsville, United States, leaves at least three persons dead. ](/news/2010/02/12/a-shooting-at-the-university-of-alabama-in-huntsville-united-states-leaves-at-least-three-persons-dead.md)
 _Context: United States, University of Alabama in Huntsville, shooting_
 
-### [2010 Winter Olympics:: The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/2010-winter-olympics-the-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md)
+### [The XXI Olympic Winter Games competitions begin in Vancouver, British Columbia, Canada. ](/news/2010/02/12/the-xxi-olympic-winter-games-competitions-begin-in-vancouver-british-columbia-canada.md)
 The Winter Olympic Games opening ceremony has been launched in a flurry of ticker-tape in an event dedicated to Georgian luger Nodar Kumaritashvili.
 
 ### [The United States successfully shoots down a launching ballistic missile using the Boeing YAL-1, a military Boeing 747-400F aircraft mounted with a chemical oxygen iodine laser weapon. ](/news/2010/02/12/the-united-states-successfully-shoots-down-a-launching-ballistic-missile-using-the-boeing-yal-1-a-military-boeing-747-400f-aircraft-mounted.md)

@@ -19,5 +19,5 @@
 6. [Cambodian and Thai troops exchange fire for a fourth consecutive day. ](/news/2011/04/25/cambodian-and-thai-troops-exchange-fire-for-a-fourth-consecutive-day.md) _Context: Cambodia, Thailand_
 7. [Cambodia and Thailand clash on their border. ](/news/2011/04/23/cambodia-and-thailand-clash-on-their-border.md) _Context: Cambodia, Thailand_
 8. [Cambodia and Thailand exchange fire across their mutual border; with casualties on both sides. ](/news/2011/04/22/cambodia-and-thailand-exchange-fire-across-their-mutual-border-with-casualties-on-both-sides.md) _Context: Cambodia, Thailand_
-9. [Cambodian-Thai border stand-off: Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/cambodian-thai-border-stand-off-clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _Context: Cambodia, Thailand_
+9. [Clashes occur between Thai and Cambodian forces near the Preah Vihear Temple. ](/news/2011/02/7/clashes-occur-between-thai-and-cambodian-forces-near-the-preah-vihear-temple.md) _Context: Cambodia, Thailand_
 10. [A United Nations World Heritage Site is damaged and collapses due to a dispute between Cambodia and Thailand. ](/news/2011/02/6/a-united-nations-world-heritage-site-is-damaged-and-collapses-due-to-a-dispute-between-cambodia-and-thailand.md) _Context: Cambodia, Thailand_

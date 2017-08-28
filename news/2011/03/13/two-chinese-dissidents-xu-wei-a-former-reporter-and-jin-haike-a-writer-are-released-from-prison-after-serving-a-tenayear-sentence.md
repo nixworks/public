@@ -1,6 +1,6 @@
 ### [2011-03-13](/news/2011/03/13/index.md)
 
-# Two Chinese dissidents Xu Wei, a former reporter, and Jin Haike, a writer, are released from prison after serving a ten-year sentence.  
+# Two Chinese dissidents Xu Wei, a former reporter, and Jin Haike, a writer, are released from prison after serving a ten-year sentence. 
 
 
 

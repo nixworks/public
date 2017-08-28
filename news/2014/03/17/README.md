@@ -12,7 +12,7 @@ _Context: 2014 Crimean crisis, Barack Obama, President, Russia_
 ### [A 6.7 magnitude earthquake strikes off the coast of Chile with officials issuing precautionary tsunami warnings for the nation's coast. ](/news/2014/03/17/a-6-7-magnitude-earthquake-strikes-off-the-coast-of-chile-with-officials-issuing-precautionary-tsunami-warnings-for-the-nation-s-coast.md)
 _Context: Chile, tsunami_
 
-### [Crimean referendum, 2014: The Republic of Crimea is declared. ](/news/2014/03/17/crimean-referendum-2014-the-republic-of-crimea-is-declared.md)
+### [The Republic of Crimea is declared. ](/news/2014/03/17/the-republic-of-crimea-is-declared.md)
 _Context: Crimean referendum, 2014, Russian-controlled Crimea_
 
 ### [Evidence of cosmic inflation from the BICEP2 experiment is announced by the Harvard-Smithsonian Center for Astrophysics. ](/news/2014/03/17/evidence-of-cosmic-inflation-from-the-bicep2-experiment-is-announced-by-the-harvard-smithsonian-center-for-astrophysics.md)

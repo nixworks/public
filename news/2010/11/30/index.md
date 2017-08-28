@@ -1,6 +1,6 @@
 ## [2010-11-30](/news/2010/11/30/index.md)
 
-### [Battle of Mogadishu (2010): Fighting in the Somali capital Mogadishu leaves at least 15 people dead and 25 injured. ](/news/2010/11/30/battle-of-mogadishu-2010-fighting-in-the-somali-capital-mogadishu-leaves-at-least-15-people-dead-and-25-injured.md)
+### [Fighting in the Somali capital Mogadishu leaves at least 15 people dead and 25 injured. ](/news/2010/11/30/fighting-in-the-somali-capital-mogadishu-leaves-at-least-15-people-dead-and-25-injured.md)
 _Context: Battle of Mogadishu (2010), Mogadishu, Somalia_
 
 ### [An explosion occurs outside a stadium in Bishkek, Kyrgyzstan, injuring four people. ](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.md)
@@ -15,7 +15,7 @@ Mexican soldiers uncover 18 bodies buried close to the US border in Chihuahua, t
 ### [Six people are killed in a suicide bombing in the Bannu district in northwestern Pakistan. ](/news/2010/11/30/six-people-are-killed-in-a-suicide-bombing-in-the-bannu-district-in-northwestern-pakistan.md)
 _Context: Bannu District, Pakistan, suicide bombing_
 
-### [A poem written by Nobel laureate Seamus Heaney sells for -4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-4-800-at-auction.md)
+### [A poem written by Nobel laureate Seamus Heaney sells for EUR4,800 at auction. ](/news/2010/11/30/a-poem-written-by-nobel-laureate-seamus-heaney-sells-for-a-4-800-at-auction.md)
 A handwritten poem by Nobel laureate Seamus Heaney has fetched &euro;4,800 at auction in Dublin.
 
 ### [Movember wraps up with over $50 million raised for prostate cancer. ](/news/2010/11/30/movember-wraps-up-with-over-50-million-raised-for-prostate-cancer.md)
@@ -45,7 +45,7 @@ _Context: Ireland_
 ### [Heavy flooding and mudslides claim at least 21 lives in Venezuela, with the President of Venezuela declaring a state of emergency in the state of Falcon. ](/news/2010/11/30/heavy-flooding-and-mudslides-claim-at-least-21-lives-in-venezuela-with-the-president-of-venezuela-declaring-a-state-of-emergency-in-the-sta.md)
 _Context: Falcon, President, Venezuela, mudslide, state of emergency_
 
-### [Korean peninsula:: Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/korean-peninsula-officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
+### [Officials from the United States, South Korea and Japan are to meet in Washington, D.C., to discuss North Korea. ](/news/2010/11/30/officials-from-the-united-states-south-korea-and-japan-are-to-meet-in-washington-d-c-to-discuss-north-korea.md)
 North Korea says it has thousands of centrifuges operating at a previously undetected uranium enrichment facility it revealed earlier this month.
 
 ### [Russian President Dmitry Medvedev warns of an "arms race" if Russia and the West can not agree on a missile defence system for Europe. ](/news/2010/11/30/russian-president-dmitry-medvedev-warns-of-an-arms-race-if-russia-and-the-west-can-not-agree-on-a-missile-defence-system-for-europe.md)
@@ -63,7 +63,7 @@ A row has broken out in the European Parliament over Ireland&#39;s 12.5% corpora
 ### [India's top investigating agency raids 11 locations in connection with alleged financial irregularities in the 2010 Commonwealth Games. ](/news/2010/11/30/india-s-top-investigating-agency-raids-11-locations-in-connection-with-alleged-financial-irregularities-in-the-2010-commonwealth-games.md)
 Indian police raid 11 locations in connection with alleged financial irregularities at the 2010 Commonwealth Games in Delhi.
 
-### [Pakistani government starts securing 36 hacked websites after the -Indian Cyber Army- gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-indian-cyber-army-gained-root-access-to-a-main-server-hosting-import.md)
+### [Pakistani government starts securing 36 hacked websites after the 'Indian Cyber Army' gained root access to a main server hosting important Pakistani government websites. ](/news/2010/11/30/pakistani-government-starts-securing-36-hacked-websites-after-the-aindian-cyber-armya-gained-root-access-to-a-main-server-hosting-import.md)
 _Context: Indian Cyber Army, Pakistan, Pakistani government_
 
 ### [An orderly at a Spanish retirement home admits to killing 11 residents. ](/news/2010/11/30/an-orderly-at-a-spanish-retirement-home-admits-to-killing-11-residents.md)

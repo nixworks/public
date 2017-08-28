@@ -1,12 +1,12 @@
 ## [2014-12-24](/news/2014/12/24/index.md)
 
-### [Iraqi insurgency:: A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/iraqi-insurgency-a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-other.md)
+### [A suicide bombing in Madaen among a group of pro-government Sunni militiamen kills at least 33 people and leaves 55 others wounded. ](/news/2014/12/24/a-suicide-bombing-in-madaen-among-a-group-of-pro-government-sunni-militiamen-kills-at-least-33-people-and-leaves-55-others-wounded.md)
 A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (15 miles) south of Baghdad, on Wednesday, Iraqi police and medical officials said.
 
-### [American-led intervention in Syria:: A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/american-led-intervention-in-syria-a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-th.md)
-_Context: American-led intervention in Syria, Ar-Raqqah, Islamic State of Iraq and the Levant, Jordanian air force, Syria_
+### [A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the-levant-militants-near-the-city-of-a.md)
+_Context: Ar-Raqqah, ISIL, Jordanian air force, Syria_
 
-### [Sony Pictures Entertainment hack: Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-pictures-entertainment-hack-sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)
+### [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)
 _Context: Google Play, Sony Pictures Entertainment hack, The Interview, YouTube_
 
 ### [Russia declares a state of emergency after oil from a Russian oil pipeline spills into the Black Sea near the port of Tuapse. ](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.md)

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P/Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumov-gerasimenko-gets-closer-to.md) _Context: comet_
+1. [The European Space Agency's "Philae" spacecraft wakes up after six months in hibernation as comet 67P/Churyumov-Gerasimenko gets closer to the sun. ](/news/2015/06/14/the-european-space-agency-s-philae-spacecraft-wakes-up-after-six-months-in-hibernation-as-comet-67p-churyumovagerasimenko-gets-closer-to.md) _Context: comet_
 2. [The European Space Agency's "Rosetta" lands the "Philae" probe on the comet 67P/Churyumov-Gerasimenko. ](/news/2014/11/12/the-european-space-agency-s-rosetta-lands-the-philae-probe-on-the-comet-67p-churyumov-gerasimenko.md) _Context: comet_
 3. [At least part of Comet C/2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md) _Context: comet_
 4. [ The impactor of NASA probe Deep Impact successfully strikes comet Tempel 1. ](/news/2005/07/4/the-impactor-of-nasa-probe-deep-impact-successfully-strikes-comet-tempel-1.md) _Context: comet_

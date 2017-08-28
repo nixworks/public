@@ -22,7 +22,7 @@ _Context: Barack Obama, Guantanamo Bay Detention Camp, President, United States,
 _Context: Chechnya, Grozny, Russia, suicide bombing_
 
 ### [ Demonstrators demand the resignation of Guatemalan President Alvaro Colom. ](/news/2009/05/15/demonstrators-demand-the-resignation-of-guatemalan-president-alvaro-colom.md)
-_Context: Alvaro Colom, Guatemala, Guatemalan President, demonstration, resignation_
+_Context: Alvaro Colom, Guatemala, President of Guatemala, demonstration, resignation_
 
 ### [ Sudan accuses Chad of launching two air raids on its territory. ](/news/2009/05/15/sudan-accuses-chad-of-launching-two-air-raids-on-its-territory.md)
 Sudan Friday accused its neighbor Chad of launching two bombing raids on its territory, describing the attacks as &quot;an act of war.&quot;

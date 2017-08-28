@@ -6,7 +6,7 @@ _Context: 2011 Yemeni uprising, Sanaa, Yemen_
 ### [Maple Group, a consortium of Canadian concerns, says it is extending its bid to take over Canada's largest stock market operating company, TMX Group. ](/news/2011/09/29/maple-group-a-consortium-of-canadian-concerns-says-it-is-extending-its-bid-to-take-over-canada-s-largest-stock-market-operating-company-t.md)
 * Offer deadline extended from Sept. 30 to Oct. 31 * Maple says continues to work toward regulatory approvals * TMX shares rise 2.24 pct
 
-### [2011 Pacific typhoon season: The Hong Kong Stock Exchange closes as Typhoon Nesat nears China's Hainan Island with schools, transport services and government offices also closing. ](/news/2011/09/29/2011-pacific-typhoon-season-the-hong-kong-stock-exchange-closes-as-typhoon-nesat-nears-china-s-hainan-island-with-schools-transport-servic.md)
+### [The Hong Kong Stock Exchange closes as Typhoon Nesat nears China's Hainan Island with schools, transport services and government offices also closing. ](/news/2011/09/29/the-hong-kong-stock-exchange-closes-as-typhoon-nesat-nears-china-s-hainan-island-with-schools-transport-services-and-government-offices-als.md)
 _Context: 2011 Pacific typhoon season, China, Hainan Island, Hong Kong Stock Exchange, Typhoon Nesat, government_
 
 ### [Eighteen people are feared dead after a small plane crashes in the Bohorok region of Indonesia's North Sumatra province. ](/news/2011/09/29/eighteen-people-are-feared-dead-after-a-small-plane-crashes-in-the-bohorok-region-of-indonesia-s-north-sumatra-province.md)

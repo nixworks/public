@@ -1,7 +1,7 @@
 ## [2012-06-30](/news/2012/06/30/index.md)
 
-### [Syrian uprising (2011-present):: 83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/syrian-uprising-2011-present-83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are.md)
-_Context: Syria, Syrian uprising (2011-present)_
+### [83 people are killed, mostly civilians, in the violence across Syria. In a single incident, 30 people are killed while attending a funeral in the town of Zamalka, just east of Damascus. ](/news/2012/06/30/83-people-are-killed-mostly-civilians-in-the-violence-across-syria-in-a-single-incident-30-people-are-killed-while-attending-a-funeral-i.md)
+_Context: Syria_
 
 ### [A UNESCO World Heritage site is destroyed by Muslim fighters in Timbuktu. The mausoleum of Sidi Mahmoud Ben Amar is destroyed. The fighters are said to have ties with al-Qaida. ](/news/2012/06/30/a-unesco-world-heritage-site-is-destroyed-by-muslim-fighters-in-timbuktu-the-mausoleum-of-sidi-mahmoud-ben-amar-is-destroyed-the-fighters.md)
 _Context: Al Qaida's, Sidi Mahmoud Ben Amar, Timbuktu, UNESCO_
@@ -12,7 +12,7 @@ A Salvador Dali drawing that was stolen last week from a New York gallery is ret
 ### [Mobile photo-sharing service Instagram and others sites are forced offline due to thunderstorms and widespread power outages in the eastern United States. ](/news/2012/06/30/mobile-photo-sharing-service-instagram-and-others-sites-are-forced-offline-due-to-thunderstorms-and-widespread-power-outages-in-the-eastern.md)
 Netflix, Instagram, Pinterest and other sites hosted on Amazon servers were unavailable after power outages.
 
-### [Libor Inter-bank interest rate: The UK government announces an independent review of the workings of the Libor inter-bank lending rate in the wake of the Barclays scandal. ](/news/2012/06/30/libor-inter-bank-interest-rate-the-uk-government-announces-an-independent-review-of-the-workings-of-the-libor-inter-bank-lending-rate-in-th.md)
+### [The UK government announces an independent review of the workings of the Libor inter-bank lending rate in the wake of the Barclays scandal. ](/news/2012/06/30/the-uk-government-announces-an-independent-review-of-the-workings-of-the-libor-inter-bank-lending-rate-in-the-wake-of-the-barclays-scandal.md)
 The government announces an independent review of the workings of the Libor inter-bank lending rate in the wake of the Barclays fine.
 
 ### [Samsung is barred from selling its Galaxy Nexus phone in the United States due to a patent dispute with Apple Inc. ](/news/2012/06/30/samsung-is-barred-from-selling-its-galaxy-nexus-phone-in-the-united-states-due-to-a-patent-dispute-with-apple-inc.md)

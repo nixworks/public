@@ -1,7 +1,7 @@
 ## [2009-05-2](/news/2009/05/2/index.md)
 
 ### [ The racehorse Mine That Bird wins the 135th Kentucky Derby. ](/news/2009/05/2/the-racehorse-mine-that-bird-wins-the-135th-kentucky-derby.md)
-_Context: 135th, Horse racing, Kentucky Derby, Mine That Bird_
+_Context: 135th, Kentucky Derby, Mine That Bird, racehorse_
 
 ### [ The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. ](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.md)
 _Context: Army, Sri Lanka, Sri Lankan Civil War, civilian, hospital, safe zone_

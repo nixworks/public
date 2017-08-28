@@ -1,6 +1,6 @@
 ### [2015-12-12](/news/2015/12/12/index.md)
 
-# All sides in the Yemeni civil war  announce a seven-day ceasefire will start on Monday. 
+# All sides in the Yemeni civil war announce a seven-day ceasefire will start on Monday. 
 
 
 

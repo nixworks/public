@@ -1,7 +1,7 @@
 ## [2009-06-6](/news/2009/06/6/index.md)
 
 ### [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md)
-_Context: Cyprus, Czech Republic, European Parliament, European Union, France, Italian, Latvia, Malta, Overseas departments and territories of France, Slovakia's, elections_
+_Context: Cyprus, Czech Republic, European Parliament, European Union, France, Italian, Latvia, Malta, Overseas departments and territories of France, Slovakia's, election_
 
 ### [ The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. [http://www.google.com/hostednews/afp/article/ALeqM5h9bdX_cBP3lsk7qq2_nyz78o6GOg (AFP)] [http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8086868.stm (BBC)] [http://www.timesonline.co.uk/tol/news/world/ireland/article6446680.ece "(The Times)"]](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significant-losses-in-ireland-s-local-elections-and-parliamentary-by-elections-in-dublin-central-and.md)
 _Context: Dublin Central, Dublin South, Fianna Fail, Ireland, by-election, local elections, parliament, ruling party_
@@ -22,7 +22,7 @@ A fast-moving fire killed 31 children in a day care center in northern Mexico de
 _Context: Amazon, Peru, Peruvian Army, deadly clashes, indigenous Amazon groups_
 
 ### [ At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. ](/news/2009/06/6/at-least-36-people-die-during-combat-between-the-transitional-federal-government-and-islamist-militants-in-webho-somalia.md)
-_Context: Somalia, Transitional Federal Government, War in Somalia (2009-), militant, radical Islamists_
+_Context: Somalia, Transitional Federal Government, declares, militant, radical Islamists_
 
 ### [ Two male bodies and several luggage items are recovered from Air France Flight 447 in the Atlantic Ocean. ](/news/2009/06/6/two-male-bodies-and-several-luggage-items-are-recovered-from-air-france-flight-447-in-the-atlantic-ocean.md)
 _Context: Air France, Atlantic Ocean, crash of Air France Flight 447_

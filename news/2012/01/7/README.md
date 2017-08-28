@@ -1,7 +1,7 @@
 ## [2012-01-7](/news/2012/01/7/index.md)
 
 ### [At least 37 people are killed in two days of attacks in northeastern Nigeria, after radical Islamic group Boko Haram issues an ultimatum for all Christians to leave the north. ](/news/2012/01/7/at-least-37-people-are-killed-in-two-days-of-attacks-in-northeastern-nigeria-after-radical-islamic-group-boko-haram-issues-an-ultimatum-for.md)
-_Context: Boko Haram, Christian, Islam, Nigeria, two days of attacks_
+_Context: Boko Haram, Christian, Muslims, Nigeria, two days of attacks_
 
 ### [Iran praises the United States Navy after American sailors rescued Iranian fishermen from armed pirates in the Arabian Sea. ](/news/2012/01/7/iran-praises-the-united-states-navy-after-american-sailors-rescued-iranian-fishermen-from-armed-pirates-in-the-arabian-sea.md)
 _Context: Arabian Sea, Iran, Pirate, United States Navy_

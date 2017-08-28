@@ -1,7 +1,7 @@
 ## [2008-11-21](/news/2008/11/21/index.md)
 
-### [ Global and Russian financial crises:: Construction of several skyscraper buildings in Russia (Norman Foster's Russia Tower, Gazprom's Okhta Center) are canceled due to lack of credit available during the global financial crisis. ](/news/2008/11/21/global-and-russian-financial-crises-construction-of-several-skyscraper-buildings-in-russia-norman-foster-s-russia-tower-gazprom-s-okhta.md)
-_Context: 2008 Russian financial crisis, Gazprom, Global financial crisis of 2008, Norman Foster, Okhta Center, Russia, Russia Tower, residential apartment_
+### [ Construction of several skyscraper buildings in Russia (Norman Foster's Russia Tower, Gazprom's Okhta Center) are canceled due to lack of credit available during the global financial crisis. ](/news/2008/11/21/construction-of-several-skyscraper-buildings-in-russia-norman-foster-s-russia-tower-gazprom-s-okhta-center-are-canceled-due-to-lack-of-c.md)
+_Context: Gazprom, Norman Foster, Okhta Center, Russia, Russia Tower, residential apartment_
 
 ### [ Burmese comedian Zarganar is sentenced to 45 years in prison for organising relief for victims of Cyclone Nargis. ](/news/2008/11/21/burmese-comedian-zarganar-is-sentenced-to-45-years-in-prison-for-organising-relief-for-victims-of-cyclone-nargis.md)
 _Context: Burma, Cyclone Nargis, Zarganar_

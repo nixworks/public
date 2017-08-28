@@ -1,6 +1,6 @@
 ### [2015-07-23](/news/2015/07/23/index.md)
 
-#   A majority in the Greek parliament votes to approve a second bailout reform package. 
+#  A majority in the Greek parliament votes to approve a second bailout reform package. 
 
 
 

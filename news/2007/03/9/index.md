@@ -15,8 +15,8 @@ _Context: President, Uganda, Yoweri Museveni_
 ### [ The United States Court of Appeals for the District of Columbia Circuit strikes down the Firearms Control Regulations Act of 1975, a local law in the District of Columbia which banned residents from keeping handguns at home, on Second Amendment grounds. ](/news/2007/03/9/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-strikes-down-the-firearms-control-regulations-act-of-1975-a-local.md)
 _Context: District of Columbia, Firearms Control Regulations Act of 1975, Second Amendment, U.S. Appeals Court Judge, handgun_
 
-### [ Nepal:: The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/nepal-the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md)
-_Context: Nepal, federal state, no sitting national Legislature_
+### [ The Interim legislature of Nepal amends the constitution to turn the country into a federal state. ](/news/2007/03/9/the-interim-legislature-of-nepal-amends-the-constitution-to-turn-the-country-into-a-federal-state.md)
+_Context: federal state, no sitting national Legislature_
 
 ### [ Results from the Northern Ireland Assembly election show the DUP and Sinn Fein making gains, and ensuring that in order for direct rule to cease both parties must agree to cooperate in a powersharing Executive. ](/news/2007/03/9/results-from-the-northern-ireland-assembly-election-show-the-dup-and-sinn-fa-c-in-making-gains-and-ensuring-that-in-order-for-direct-rule-to.md)
 _Context: Assembly election, Democratic Unionist Party, Government of Northern Ireland, Northern Ireland, Sinn Fein, direct rule, powersharing_
@@ -28,7 +28,7 @@ _Context: Cuba, Cuba-United States relations, Cuban exile, Fidel Castro, Florida
 _Context: Australia, Kelvin Thomson, Tony Mokbel, attorney general_
 
 ### [ Iraq War: Abu Omar al-Baghdadi, leader of the insurgency group the Islamic State of Iraq, is captured in Baghdad. ](/news/2007/03/9/iraq-war-abu-omar-al-baghdadi-leader-of-the-insurgency-group-the-islamic-state-of-iraq-is-captured-in-baghdad.md)
-_Context: Abu Omar al-Baghdadi, Baghdad, Iraq Insurgency, Iraq War, Islamic State of Iraq_
+_Context: Abu Omar al-Baghdadi, Baghdad, Iraq War, Islamic State of Iraq, insurgents_
 
 ### [ Dogu Perincek is found guilty of genocide denial by a Swiss district court, making him the first person ever convicted for denial of the Armenian Genocide by a court of law.](/news/2007/03/9/doau-perinassek-is-found-guilty-of-genocide-denial-by-a-swiss-district-court-making-him-the-first-person-ever-convicted-for-denial-of-the.md)
 _Context: Dogu Perincek, denial, denial of the Armenian Genocide_

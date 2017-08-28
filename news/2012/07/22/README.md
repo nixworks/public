@@ -1,6 +1,6 @@
 ## [2012-07-22](/news/2012/07/22/index.md)
 
-### [Syrian uprising (2011-present):: Turkey dispatches reinforcements at its border with Syria as another border crossing is captured by rebels. ](/news/2012/07/22/syrian-uprising-2011-present-turkey-dispatches-reinforcements-at-its-border-with-syria-as-another-border-crossing-is-captured-by-rebel.md)
+### [Turkey dispatches reinforcements at its border with Syria as another border crossing is captured by rebels. ](/news/2012/07/22/turkey-dispatches-reinforcements-at-its-border-with-syria-as-another-border-crossing-is-captured-by-rebels.md)
 Four Syrian refugees and four members of the Turkish security forces were hurt on Sunday when riots broke out at a refugee camp in Turkey near the Syrian border, the Dogan News Agency said.
 
 ### [The Madagascan Army clashes with mutinous soldiers near the airport in the capital Antananarivo. ](/news/2012/07/22/the-madagascan-army-clashes-with-mutinous-soldiers-near-the-airport-in-the-capital-antananarivo.md)

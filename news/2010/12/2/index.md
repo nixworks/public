@@ -27,7 +27,7 @@ A memorial service has taken place in New Zealand for the 29 miners who were kil
 ### [More than 55,000 animals are being culled after a breakout of foot-and-mouth disease at pig farms in South Korea. ](/news/2010/12/2/more-than-55-000-animals-are-being-culled-after-a-breakout-of-foot-and-mouth-disease-at-pig-farms-in-south-korea.md)
 Culling of more than 55,000 animals begins after foot-and-mouth disease confirmed at pig farms.
 
-### [UK and Irish snow: Heavy snowfall in the United Kingdom disrupting travel, with Gatwick Airport remaining closed. ](/news/2010/12/2/uk-and-irish-snow-heavy-snowfall-in-the-united-kingdom-disrupting-travel-with-gatwick-airport-remaining-closed.md)
+### [Heavy snowfall in the United Kingdom disrupting travel, with Gatwick Airport remaining closed. ](/news/2010/12/2/heavy-snowfall-in-the-united-kingdom-disrupting-travel-with-gatwick-airport-remaining-closed.md)
 Gatwick Airport will not reopen today as a continuing onslaught of snow and ice to wreaks havoc on the nation&#039;s airports, railways and roads.
 
 ### [Dublin's main thoroughfare O'Connell Street is shut following an explosion from a gas leak. ](/news/2010/12/2/dublin-s-main-thoroughfare-o-connell-street-is-shut-following-an-explosion-from-a-gas-leak.md)
@@ -36,7 +36,7 @@ _Context: Dublin, O'Connell Street_
 ### [At least 40 people are killed during a forest fire near Haifa in Israel. ](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.md)
 About 40 people - mostly prison guards - are killed in a massive forest fire out of control near Haifa in northern Israel, police say.
 
-### [United States diplomatic cables leak:: Amazon.com cuts off its access to the WikiLeaks website following "heavy political pressure" applied by Joe Lieberman, a senator in the United States. The move is compared to the censorship of Google by China. ](/news/2010/12/2/united-states-diplomatic-cables-leak-amazon-com-cuts-off-its-access-to-the-wikileaks-website-following-heavy-political-pressure-applied.md)
+### [Amazon.com cuts off its access to the WikiLeaks website following "heavy political pressure" applied by Joe Lieberman, a senator in the United States. The move is compared to the censorship of Google by China. ](/news/2010/12/2/amazon-com-cuts-off-its-access-to-the-wikileaks-website-following-heavy-political-pressure-applied-by-joe-lieberman-a-senator-in-the-unit.md)
 Industry&#x20;Minister&#x20;Eric&#x20;Besson&#x20;&#x28;pictured&#x29;&#x20;has&#x20;called&#x20;for&#x20;WikiLeaks&#x20;to&#x20;be&#x20;banned&#x20;from&#x20;French&#x20;servers,&#x20;saying&#x20;hosting&#x20;the&#x20;site&#x20;is&#x20;&quot;unacceptable&quot;.&#x20;The&#x20;site&#x20;launched&#x20...
 
 ### [WikiLeaks spokesperson Julian Assange calls for the resignation of Hillary Clinton "if it can be shown that she was responsible for ordering U.S. diplomatic figures to engage in espionage in the United Nations, in violation of the international covenants to which the U.S. has signed up". ](/news/2010/12/2/wikileaks-spokesperson-julian-assange-calls-for-the-resignation-of-hillary-clinton-if-it-can-be-shown-that-she-was-responsible-for-ordering.md)

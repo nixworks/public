@@ -1,6 +1,6 @@
 ### [2009-09-4](/news/2009/09/4/index.md)
 
-#   Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. 
+#  Another day of protests by Han Chinese occur over a series of hypodermic needle stabbings in rmqi, northwestern China. 
 
 Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions.
 

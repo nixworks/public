@@ -12,7 +12,7 @@ A shipment of fuel has arrived in North Korea - the first part of a deal to halt
 
 ### Related:
 
-1. [2013 Korean crisis:: North Korea announces it will resume activities in the Yongbyon nuclear complex, closed since 2007. ](/news/2013/04/2/2013-korean-crisis-north-korea-announces-it-will-resume-activities-in-the-yongbyon-nuclear-complex-closed-since-2007.md) _Context: North Korea, Yongbyon_
+1. [North Korea announces it will resume activities in the Yongbyon nuclear complex, closed since 2007. ](/news/2013/04/2/north-korea-announces-it-will-resume-activities-in-the-yongbyon-nuclear-complex-closed-since-2007.md) _Context: North Korea, Yongbyon_
 2. [The International Atomic Energy Agency receives an invitation from North Korea to visit. ](/news/2012/03/19/the-international-atomic-energy-agency-receives-an-invitation-from-north-korea-to-visit.md) _Context: International Atomic Energy Agency, North Korea_
 3. [North Korea silences its guns to prevent confrontation with South Korea as the South's "reckless" and ""childish play with fire" military drills continue. North Korea also invites International Atomic Energy Agency inspectors into the country. ](/news/2010/12/21/north-korea-silences-its-guns-to-prevent-confrontation-with-south-korea-as-the-south-s-reckless-and-childish-play-with-fire-military-dr.md) _Context: International Atomic Energy Agency, North Korea_
 4. [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md) _Context: International Atomic Energy Agency, North Korea_

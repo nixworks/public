@@ -1,18 +1,18 @@
 ## [2014-07-7](/news/2014/07/7/index.md)
 
-### [2014 pro-Russian conflict in Ukraine: Minister of Defense of Ukraine Valeriy Heletey says that special forces have retaken the city of Kostiantynivka, Donetsk from armed insurgents. ](/news/2014/07/7/2014-pro-russian-conflict-in-ukraine-minister-of-defense-of-ukraine-valeriy-heletey-says-that-special-forces-have-retaken-the-city-of-kosti.md)
+### [Minister of Defense of Ukraine Valeriy Heletey says that special forces have retaken the city of Kostiantynivka, Donetsk from armed insurgents. ](/news/2014/07/7/minister-of-defense-of-ukraine-valeriy-heletey-says-that-special-forces-have-retaken-the-city-of-kostiantynivka-donetsk-from-armed-insurgen.md)
 Three bridges on roads leading into Donetsk are destroyed ahead of an expected blockade of the city by government forces.
 
-### [Operation Protective Edge: Izz ad-Din al-Qassam Brigades, the military wing of Hamas claims responsibility for the over 80 rockets fired into southern Israel Monday evening; the Israeli Air Force carries out overnight airstrikes killing nine Palestinian militants. In response to escalating rocket fire, the Israel Defense Forces calls up 1,500 reservists as southern towns declare a state of emergency. ](/news/2014/07/7/operation-protective-edge-izz-ad-din-al-qassam-brigades-the-military-wing-of-hamas-claims-responsibility-for-the-over-80-rockets-fired-int.md)
+### [Izz ad-Din al-Qassam Brigades, the military wing of Hamas claims responsibility for the over 80 rockets fired into southern Israel Monday evening; the Israeli Air Force carries out overnight airstrikes killing nine Palestinian militants. In response to escalating rocket fire, the Israel Defense Forces calls up 1,500 reservists as southern towns declare a state of emergency. ](/news/2014/07/7/izz-ad-din-al-qassam-brigades-the-military-wing-of-hamas-claims-responsibility-for-the-over-80-rockets-fired-into-southern-israel-monday-ev.md)
 More than 85 rockets fired on Monday; Hamas claims responsibility for some of launches; IDF to call up 1,500 reserve soldiers.
 
-### [Iraqi insurgency (post-U.S. withdrawal): Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/iraqi-insurgency-post-u-s-withdrawal-sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of.md)
-_Context: Baghdad, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal), Islamic State of Iraq and the Levant_
+### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
+_Context: Baghdad, ISIL, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md)
 A military helicopter has crashed close to the Vietnamese capital of Hanoi, killing 16 people and injuring five others, officials say.
 
-### [2014 Pacific typhoon season: Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/2014-pacific-typhoon-season-japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md)
+### [Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md)
 _Context: 2014 Pacific typhoon season, Japan, Kyushu, Okinawa, Typhoon Neoguri_
 
 ### [A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. ](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.md)
@@ -27,7 +27,7 @@ American Express Co (AXP.N) has hindered price competition in the U.S. credit ca
 ### [Judge Anita B. Brody of the United States District Court for the Eastern District of Pennsylvania approves a preliminary settlement between the National Football League and lawyers for 4,500 former players over damages caused by concussion. ](/news/2014/07/7/judge-anita-b-brody-of-the-united-states-district-court-for-the-eastern-district-of-pennsylvania-approves-a-preliminary-settlement-between.md)
 _Context: Anita B. Brody, National Football League, United States District Court for the Eastern District of Pennsylvania, concussion_
 
-### [Afghan presidential election, 2014: A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/afghan-presidential-election-2014-a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md)
+### [A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md)
 _Context: Afghan presidential election, 2014, Ashraf Ghani_
 
 ### [Senegal's president Macky Sall appoints his close aid Mohammed Ben Abdallah Dionne as the third prime minister in Sall's time in office, following the resignation of Aminata Toure. ](/news/2014/07/7/senegal-s-president-macky-sall-appoints-his-close-aid-mohammed-ben-abdallah-dionne-as-the-third-prime-minister-in-sall-s-time-in-office-fol.md)

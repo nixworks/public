@@ -1,6 +1,6 @@
 ### [2009-06-25](/news/2009/06/25/index.md)
 
-#   A mourning ceremony for protesters who died in the post-election protests is cancelled. 
+#  A mourning ceremony for protesters who died in the post-election protests is cancelled. 
 
 A mourning ceremony for protestors who have died in Iran&#39;s post-election turmoil has been called off.
 

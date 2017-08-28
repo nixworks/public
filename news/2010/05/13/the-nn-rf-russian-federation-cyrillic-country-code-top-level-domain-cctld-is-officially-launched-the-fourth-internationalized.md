@@ -1,6 +1,6 @@
 ### [2010-05-13](/news/2010/05/13/index.md)
 
-# The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on -.rf- are 
+# The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on ".rf" are 
 
 
 

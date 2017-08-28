@@ -15,8 +15,8 @@ _Context: Ayman Nour, Egypt, Hosni Mubarak, first multi-candidate presidential e
 ### [ News Corporation says it will buy IGN Entertainment for $650 million. IGN is one of the largest multimedia sites on the Internet and also owns the GameSpy Network and ](/news/2005/09/8/news-corporation-says-it-will-buy-ign-entertainment-for-650-million-ign-is-one-of-the-largest-multimedia-sites-on-the-internet-and-also-o.md)
 AskMen is the No. 1 site to help men improve their lives—from discovering new products & trends to getting advice on dating, fitness, grooming & more.
 
-### [ Hurricane Katrina:: Emergency officials requisition 25,000 body bags as search and rescue operations continue in Louisiana. A spokesman for the state's department of health and hospitals said: "We don't know what to expect ... It means we are prepared." ](/news/2005/09/8/hurricane-katrina-emergency-officials-requisition-25-000-body-bags-as-search-and-rescue-operations-continue-in-louisiana-a-spokesman-for.md)
-_Context: Hurricane Katrina, Louisiana_
+### [ Emergency officials requisition 25,000 body bags as search and rescue operations continue in Louisiana. A spokesman for the state's department of health and hospitals said: "We don't know what to expect ... It means we are prepared." ](/news/2005/09/8/emergency-officials-requisition-25-000-body-bags-as-search-and-rescue-operations-continue-in-louisiana-a-spokesman-for-the-state-s-departm.md)
+_Context: Louisiana_
 
 ### [ Ukraine President Viktor Yushchenko fires Prime Minister Yulia Tymoshenko and most of his cabinet amid accusations of graft and serious infighting. [http://news.yahoo.com/s/nm/20050908/wl_nm/ukraine_dc (Yahoo! News)] (Link dead as of 00:43, 15 January 2007 (UTC))](/news/2005/09/8/ukraine-president-viktor-yushchenko-fires-prime-minister-yulia-tymoshenko-and-most-of-his-cabinet-amid-accusations-of-graft-and-serious-inf.md)
 _Context: Prime Minister of Ukraine, Ukraine, Ukrainian President, Viktor Yushchenko, Yulia Tymoshenko, anti-corruption, cabinet_

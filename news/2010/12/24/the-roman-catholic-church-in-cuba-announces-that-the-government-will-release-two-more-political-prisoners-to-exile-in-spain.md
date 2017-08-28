@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [Cuba-United States relations: Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-united-states-relations-cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced.md) _Context: Cuba, political prisoner_
+1. [Cuba starts releasing political prisoners as part of an historic agreement with the United States announced last month. ](/news/2015/01/6/cuba-starts-releasing-political-prisoners-as-part-of-an-historic-agreement-with-the-united-states-announced-last-month.md) _Context: Cuba, political prisoner_
 2. [Cuba announces that it will release 2,900 prisoners &ndash; including some political prisoners &ndash; in the next few days. ](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.md) _Context: Cuba, political prisoner_
 3. [Cuba frees Ivan Hernandez, a dissident who refused to go into exile in Spain. ](/news/2011/02/19/cuba-frees-ivan-hernandez-a-dissident-who-refused-to-go-into-exile-in-spain.md) _Context: Cuba, Spain_
 4. [Cuba releases two more political prisoners. ](/news/2011/02/13/cuba-releases-two-more-political-prisoners.md) _Context: Cuba, political prisoner_

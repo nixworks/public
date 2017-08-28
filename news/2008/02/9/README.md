@@ -1,10 +1,10 @@
 ## [2008-02-9](/news/2008/02/9/index.md)
 
-### [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007-present-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md)
+### [ Writers Guild of America strike (2007-present): Hollywood writers reach tentative agreement with the major movie studios. ](/news/2008/02/9/writers-guild-of-america-strike-2007apresent-hollywood-writers-reach-tentative-agreement-with-the-major-movie-studios.md)
 _Context: Hollywood, Writers Guild of America strike (2007-present), movie studio_
 
-### [ United States presidential election, 2008:: Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/united-states-presidential-election-2008-former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louis.md)
-_Context: 2008, Governor of Arkansas, Kansas, Louisiana, Mike Huckabee, Republican, caucus, primary election_
+### [ Former Governor of Arkansas Mike Huckabee wins the Kansas Republican Party caucus and the Louisiana primary. ](/news/2008/02/9/former-governor-of-arkansas-mike-huckabee-wins-the-kansas-republican-party-caucus-and-the-louisiana-primary.md)
+_Context: Governor of Arkansas, Kansas, Louisiana, Mike Huckabee, Republican, caucus, primary election_
 
 ### [ A suicide bomber kills 20 people at an opposition rally in Pakistan. ](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-opposition-rally-in-pakistan.md)
 _Context: Pakistan, kills 20 people, suicide bomber_
@@ -16,7 +16,7 @@ _Context: Camden Market, England, London, London Ambulance Service_
 The vote sets the stage for a showdown with the country’s secular elite over Islam’s place in Turkish society.
 
 ### [ The military government of Myanmar announces a national referendum to pass a new constitution will be held in May, and that democratic multi-party elections will take place in 2010. ](/news/2008/02/9/the-military-government-of-myanmar-announces-a-national-referendum-to-pass-a-new-constitution-will-be-held-in-may-and-that-democratic-mult.md)
-_Context: 2010, Burmese constitutional referendum, 2008, Myanmar, constitution, general elections, military government_
+_Context: 2010, Burmese, Burmese constitutional referendum, 2008, constitution, general elections, military government_
 
 ### [ The February 9th Killer rapes, and strangles Damiana Castillo in West Valley City, Utah, USA.](/news/2008/02/9/the-february-9th-killer-rapes-and-strangles-damiana-castillo-in-west-valley-city-utah-usa.md)
 _Context: February 9th Killer_

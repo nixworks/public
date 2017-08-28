@@ -1,6 +1,6 @@
 ## [2015-03-15](/news/2015/03/15/index.md)
 
-### [Libyan Civil War: Fighting rages near the western Libyan city of Sirte between Islamic State affiliated militants and a local militia alliance. ](/news/2015/03/15/libyan-civil-war-fighting-rages-near-the-western-libyan-city-of-sirte-between-islamic-state-affiliated-militants-and-a-local-militia-allian.md)
+### [Fighting rages near the western Libyan city of Sirte between Islamic State affiliated militants and a local militia alliance. ](/news/2015/03/15/fighting-rages-near-the-western-libyan-city-of-sirte-between-islamic-state-affiliated-militants-and-a-local-militia-alliance.md)
 Fighting rages in Libya between Islamic State fighters and a militia alliance from the west of the country, near the city of Sirte.
 
 ### [The United States embassy and consulates in Saudi Arabia close for Sunday and Monday due to heightened security concerns.](/news/2015/03/15/the-united-states-embassy-and-consulates-in-saudi-arabia-close-for-sunday-and-monday-due-to-heightened-security-concerns.md)
@@ -9,7 +9,7 @@ _Context: Saudi Arabia, United States_
 ### [Two suicide bombers belonging to the Tehreek-i-Taliban Pakistan splinter group Jamaat-ul-Ahrar blow themselves up in twin bomb attacks on two churches in the Pakistani city of Lahore, killing at least fourteen people with 70 more injured. ](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.md)
 At least 14 people dead and dozens wounded in twin bombing targeting two churches in Lahore, police say.
 
-### [Cyclone Pam: The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency. ](/news/2015/03/15/cyclone-pam-the-government-of-the-island-nation-of-vanuatu-declares-a-state-of-emergency-for-shefa-province-containing-the-capital-port-vil.md)
+### [The government of the island nation of Vanuatu declares a state of emergency for Shefa Province containing the capital Port Vila as authorities struggle to assess the full impact of the category 5 storm. Once assessments of the damage have been done in other provinces, authorities are likely to widen the declared area in a state of emergency. ](/news/2015/03/15/the-government-of-the-island-nation-of-vanuatu-declares-a-state-of-emergency-for-shefa-province-containing-the-capital-port-vila-as-authorit.md)
 Government says there are fears of widespread destruction and heavy loss of life after several islands were directly hit by eye of category five superstorm
 
 ### [A car crash kills South African Minister of Public Service and Administration Collins Chabane. ](/news/2015/03/15/a-car-crash-kills-south-african-minister-of-public-service-and-administration-collins-chabane.md)

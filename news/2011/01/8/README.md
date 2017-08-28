@@ -15,10 +15,10 @@ Congresswoman Gabrielle Giffords remains in critical condition, while at least s
 ### [Three academics at Istanbul Bilgi University are fired due to a controversial dissertation project submitted by a student. ](/news/2011/01/8/three-academics-at-istanbul-bilgi-university-are-fired-due-to-a-controversial-dissertation-project-submitted-by-a-student.md)
 _Context: Bilgi University, dissertation_
 
-### [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010-2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md)
+### [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010a2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md)
 Fatalities reported after fresh clashes between demonstrators and security forces across north African nation.
 
-### [Algerian protests against food prices and unemployment:: Government taxes and duties on sugar and cooking oil in Algeria are lowered in response to three days of unrest over increases in unemployment and the cost of living. ](/news/2011/01/8/algerian-protests-against-food-prices-and-unemployment-government-taxes-and-duties-on-sugar-and-cooking-oil-in-algeria-are-lowered-in-resp.md)
+### [Government taxes and duties on sugar and cooking oil in Algeria are lowered in response to three days of unrest over increases in unemployment and the cost of living. ](/news/2011/01/8/government-taxes-and-duties-on-sugar-and-cooking-oil-in-algeria-are-lowered-in-response-to-three-days-of-unrest-over-increases-in-unemployme.md)
 In the wake of deadly protests, the government lowers duties on basic food supplies and cracks down on rioters.
 
 ### [Freezing temperatures in northern India kill at least 22 people. ](/news/2011/01/8/freezing-temperatures-in-northern-india-kill-at-least-22-people.md)
@@ -27,7 +27,7 @@ New Delhi, Jan 8 (IANS) Severe cold and fog Saturday continued to haunt the peop
 ### [North Korea renews its call for unconditional talks with South Korea. ](/news/2011/01/8/north-korea-renews-its-call-for-unconditional-talks-with-south-korea.md)
 South describes proposal for unconditional negotiations as more concrete than previous one.
 
-### [United States govt. attempts to access private information:: It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. ](/news/2011/01/8/united-states-govt-attempts-to-access-private-information-it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-infor.md)
+### [It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. ](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.md)
 The US government has subpoenaed the social networking site Twitter for personal details of people connected to Wikileaks, court documents show.
 
 ### [Iraqi Shia Muslim leader Muqtada al-Sadr urges a rejection of violence and peaceful resistance against the country's "occupiers" in his first public address since his return from exile. ](/news/2011/01/8/iraqi-shia-muslim-leader-muqtada-al-sadr-urges-a-rejection-of-violence-and-peaceful-resistance-against-the-country-s-occupiers-in-his-firs.md)

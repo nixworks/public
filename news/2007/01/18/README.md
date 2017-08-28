@@ -33,8 +33,8 @@ _Context: Hamas, Israel, Palestinian Authority_
 ### [ Speaker of the Liberian Parliament Edwin Snowe is sacked following a vote of no confidence. ](/news/2007/01/18/speaker-of-the-liberian-parliament-edwin-snowe-is-sacked-following-a-vote-of-no-confidence.md)
 _Context: Edwin Snowe, Liberia, vote of no confidence_
 
-### [ Western U.S. Freeze of 2007:: 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/western-u-s-freeze-of-2007-65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u.md)
-_Context: Oklahoma!, Texas, United States, Western U.S. Freeze of 2007, blizzards, freezing-rain, ice storm_
+### [ 65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. ](/news/2007/01/18/65-deaths-have-been-attributed-to-blizzards-ice-storms-and-freezing-rain-since-friday-january-12-in-nine-u-s-states-including-23-in-ok.md)
+_Context: Oklahoma!, Texas, United States, blizzards, freezing-rain, ice storm_
 
 ## [Previous Day...](/news/2007/01/17/index.md)
 

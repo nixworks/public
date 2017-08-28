@@ -1,13 +1,13 @@
 ## [2013-03-1](/news/2013/03/1/index.md)
 
-### [2013 Bangladesh protests:: The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/2013-bangladesh-protests-the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md)
+### [The death toll in Bangladesh rises to 44 as protests continue following the sentencing of Delwar Hossain Sayeedi. ](/news/2013/03/1/the-death-toll-in-bangladesh-rises-to-44-as-protests-continue-following-the-sentencing-of-delwar-hossain-sayeedi.md)
 Violent clashes erupted across Bangladesh on Thursday after a tribunal handed down a death sentence to an Islamic leader for crimes against humanity committed 42 years ago.
 
-### [2013 Lahad Datu standoff:: At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/2013-lahad-datu-standoff-at-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md)
-_Context: 2013 Lahad Datu standoff, Malaysia, Malaysian Armed Forces, Sabah, Sultanate_
+### [At least 14 people die in Malaysia's Sabah province when rebels open fire on government security forces. ](/news/2013/03/1/at-least-14-people-die-in-malaysia-s-sabah-province-when-rebels-open-fire-on-government-security-forces.md)
+_Context: Malaysia, Malaysian Armed Forces, Sabah, Sultanate_
 
-### [Northern Mali conflict:: One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/northern-mali-conflict-one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadia.md)
-_Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, Northern Mali conflict (2012-present), al-Qaeda_
+### [One of Islamist organization al-Qaeda's most feared commanders in Africa, Abdelhamid Abou Zeid, is killed by Chadian forces in Northern Mali. ](/news/2013/03/1/one-of-islamist-organization-al-qaeda-s-most-feared-commanders-in-africa-abdelhamid-abou-zeid-is-killed-by-chadian-forces-in-northern-mali.md)
+_Context: Abdelhamid Abou Zeid, Africa, Azawad, Islamist, Military, al-Qaeda_
 
 ### [China's Purchasing Managers Index declines to 50.1 indicating a possible slowdown in the Chinese economy. [http://www.theaustralian.com.au/business/economics/china-office-pmi-for-february-down-to-501-reignites-slowdown-worry/story-e6frg926-1226588359770 ("The Australian)"]](/news/2013/03/1/china-s-purchasing-managers-index-declines-to-50-1-indicating-a-possible-slowdown-in-the-chinese-economy-http-www-theaustralian-com-au-b.md)
 _Context: China, Economy of the People's Republic of China, Purchasing Managers Index_
@@ -22,7 +22,7 @@ _Context: fishermen, shark_
 Eight South African police officers are arrested over the death of a Mozambican man who was dragged through the streets behind a police vehicle.
 
 ### [Myanmar drug lord and convicted murderer Naw Kham is executed by lethal injection in Kunming, Yunnan Province, China. ](/news/2013/03/1/myanmar-drug-lord-and-convicted-murderer-naw-kham-is-executed-by-lethal-injection-in-kunming-yunnan-province-china.md)
-_Context: China, Kunming, Myanmar, Naw Kham, Yunnan Province, drug kingpin, lethal injection_
+_Context: Burmese, China, Kunming, Naw Kham, Yunnan Province, drug kingpin, lethal injection_
 
 ### [Google wins a copyright case in the German Bundestag over whether they can put news stories on their website without having to pay. ](/news/2013/03/1/google-wins-a-copyright-case-in-the-german-bundestag-over-whether-they-can-put-news-stories-on-their-website-without-having-to-pay.md)
 Google was handed a small victory in Germany this week when lawmakers there approved a bill that will allow the search giant to freely include headlines and snippets from German publishers on services like Google News.

@@ -15,7 +15,7 @@ _Context: United States, extensively drug resistant tuberculosis, quarantine, tr
 ### [ Russia successfully tests its new RS-24 ICBM, purportedly designed to defeat present and future anti-missile systems. ](/news/2007/05/29/russia-successfully-tests-its-new-rs-24-icbm-purportedly-designed-to-defeat-present-and-future-anti-missile-systems.md)
 _Context: ICBM, RS-24, Russia, anti-ballistic missile_
 
-### [ Iraqi insurgency:: At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/iraqi-insurgency-at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md)
+### [ At least 22 people die in a car bombing in central Baghdad. ](/news/2007/05/29/at-least-22-people-die-in-a-car-bombing-in-central-baghdad.md)
 Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the deaths of 10 U.S. soldiers were announced, making May the deadliest month for the U.S. military in more than two years.
 
 ### [ Bashar al-Assad is re-elected as President of Syria in an election in which he was the only candidate. ](/news/2007/05/29/bashar-al-assad-is-re-elected-as-president-of-syria-in-an-election-in-which-he-was-the-only-candidate.md)

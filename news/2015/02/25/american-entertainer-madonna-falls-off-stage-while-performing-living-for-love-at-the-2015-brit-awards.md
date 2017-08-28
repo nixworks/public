@@ -14,7 +14,7 @@ Madonna has suffered an embarrassing fall at the Brit Awards.
 ### Related:
 
 1. [The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. ](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.md) _Context: Madonna_
-2. [Typhoon Haiyan:39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/typhoon-haiyan-p39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber.md) _Context: Madonna_
+2. [39 musicians, including The Beatles, U2, Madonna, Lady Gaga, Beyonce, Katy Perry, Lorde, One Direction, and Justin Bieber, release a charity album to help the victims. ](/news/2013/11/26/39-musicians-including-the-beatles-u2-madonna-lady-gaga-beyonca-c-katy-perry-lorde-one-direction-and-justin-bieber-release-a-charit.md) _Context: Madonna_
 3. [Singer Madonna is accused by the office of Malawi President Joyce Banda of "bullying state officials" after she reportedly exaggerated her charity's contribution and complained about her treatment on a recent visit to the country. ](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.md) _Context: Madonna_
 4. [Madonna exposes her right breast on stage in Istanbul. ](/news/2012/06/11/madonna-exposes-her-right-breast-on-stage-in-istanbul.md) _Context: Madonna_
 5. [Madonna kicks off the MDNA Tour in Tel Aviv, Israel. ](/news/2012/06/1/madonna-kicks-off-the-mdna-tour-in-tel-aviv-israel.md) _Context: Madonna_

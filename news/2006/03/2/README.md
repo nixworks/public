@@ -1,6 +1,6 @@
 ## [2006-03-2](/news/2006/03/2/index.md)
 
-### [ The United States Senate voted 89-10 to renew the USA PATRIOT Act after two extensions. In its vote next week, the United States House of Representatives will likely also vote to renew the Act, analysts say. ](/news/2006/03/2/the-united-states-senate-voted-89-10-to-renew-the-usa-patriot-act-after-two-extensions-in-its-vote-next-week-the-united-states-house-of.md)
+### [ The United States Senate voted 89-10 to renew the USA PATRIOT Act after two extensions. In its vote next week, the United States House of Representatives will likely also vote to renew the Act, analysts say. ](/news/2006/03/2/the-united-states-senate-voted-89a10-to-renew-the-usa-patriot-act-after-two-extensions-in-its-vote-next-week-the-united-states-house-of.md)
 With the Senate voting Thursday to renew the USA Patriot Act on Thursday, the measure moves to the House, which is expected to pass the legislation next week. 
 
 ### [ President George W. Bush, on his first visit to India, issues a joint statement with Indian Prime Minister on their growing strategic partnership, emphasising their agreement on civil nuclear cooperation. An estimated crowd of 100,000 people protest against Bush in Delhi. ](/news/2006/03/2/president-george-w-bush-on-his-first-visit-to-india-issues-a-joint-statement-with-indian-prime-minister-on-their-growing-strategic-partn.md)

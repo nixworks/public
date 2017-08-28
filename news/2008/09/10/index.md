@@ -21,7 +21,7 @@ North Korean leader Kim Jong Il is reported to be in failing health. North Korea
 ### [ CERN successfully circulates a beam through the entire Large Hadron Collider for the first time. ](/news/2008/09/10/cern-successfully-circulates-a-beam-through-the-entire-large-hadron-collider-for-the-first-time.md)
 _Context: CERN, Large Hadron Collider_
 
-### [ 2008 South Ossetia war:: Some members of the United States House Committee on Foreign Affairs have expressed disagreement with Georgia's actions in the war: 'The recent fighting [...] was started by Georgia. The Georgians broke the truce, not the Russians' said Dana Rohrabacher, Senior Republican. ](/news/2008/09/10/2008-south-ossetia-war-some-members-of-the-united-states-house-committee-on-foreign-affairs-have-expressed-disagreement-with-georgia-s-ac.md)
+### [ Some members of the United States House Committee on Foreign Affairs have expressed disagreement with Georgia's actions in the war: 'The recent fighting [...] was started by Georgia. The Georgians broke the truce, not the Russians' said Dana Rohrabacher, Senior Republican. ](/news/2008/09/10/some-members-of-the-united-states-house-committee-on-foreign-affairs-have-expressed-disagreement-with-georgia-s-actions-in-the-war-the-re.md)
 U.S. officials are divided over the recent violence in South Ossetia. The U.S. Senate Committee on Armed Services hearing has cast Moscow as an aggressor but...
 
 ## [Previous Day...](/news/2008/09/9/index.md)

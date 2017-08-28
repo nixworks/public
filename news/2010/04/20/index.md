@@ -1,9 +1,9 @@
 ## [2010-04-20](/news/2010/04/20/index.md)
 
-### [Air travel disruption after the 2010 eruptions of Eyjafjallajkull:: Another plume threatens to cause further disruptions. ](/news/2010/04/20/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajokull-another-plume-threatens-to-cause-further-disruptions.md)
+### [Another plume threatens to cause further disruptions. ](/news/2010/04/20/another-plume-threatens-to-cause-further-disruptions.md)
 More planes began taking off from airports across Europe on Tuesday after days of enforced idleness, but a new cloud of volcanic ash moving toward the continent has thrown into doubt any resumption...
 
-### [Iraq:: Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/iraq-two-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-sai.md)
+### [Two inspection teams from Iraq's ministry of human rights enter a "secret prison" in Baghdad where "serious legal violations" are said to have occurred. ](/news/2010/04/20/two-inspection-teams-from-iraq-s-ministry-of-human-rights-enter-a-secret-prison-in-baghdad-where-serious-legal-violations-are-said-to-ha.md)
 Human rights group urges action after allegations of abuse at Baghdad prison.
 
 ### [The Transocean-owned oil rig Deepwater Horizon explodes, leaking about 4,900,000 barrels of crude oil into the Gulf of Mexico. At least seven people were injured and over a dozen were missing at sea. ](/news/2010/04/20/the-transocean-owned-oil-rig-deepwater-horizon-explodes-leaking-about-4-900-000-barrels-of-crude-oil-into-the-gulf-of-mexico-at-least-seve.md)

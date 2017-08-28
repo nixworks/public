@@ -21,13 +21,13 @@ _Context: China, South Korea_
 ### [Australia and Malaysia sign a pact to exchange asylum seekers in Kuala Lumpur. ](/news/2011/07/25/australia-and-malaysia-sign-a-pact-to-exchange-asylum-seekers-in-kuala-lumpur.md)
 _Context: Australia, Kuala Lumpur, Malaysia, asylum seeker_
 
-### [2011 Norway attacks: Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/2011-norway-attacks-anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md)
+### [Anders Behring Breivik attends court for the first time in connection with the attacks. ](/news/2011/07/25/anders-behring-breivik-attends-court-for-the-first-time-in-connection-with-the-attacks.md)
 Norwegian police revised down the death toll from Friday&#039;s bomb and shooting attack to 76 people from a previous estimate of 93, citing difficulties in gathering information at Utoeya island, where the shooting spree occurred.
 
 ### [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib al-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-al-adly-together-on-charges-relating-to.md)
 _Context: 2011 Egyptian revolution, Egypt, Egyptian President, Habib al-Adly, Hosni Mubarak_
 
-### [2011 US debt ceiling crisis: The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/2011-us-debt-ceiling-crisis-the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md)
+### [The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md)
 President Obama and House Speaker John A. Boehner escalated their battle over the national debt on Monday, pressing their arguments in a pair of prime-time television addresses as Congress remained at a loss over how to keep the United States from defaulting next week for the first time.
 
 ### [Canada's Leader of the Opposition Jack Layton announces that he will take a medical leave of absence and an interim leader of the New Democratic Party will be appointed. ](/news/2011/07/25/canada-s-leader-of-the-opposition-jack-layton-announces-that-he-will-take-a-medical-leave-of-absence-and-an-interim-leader-of-the-new-democr.md)

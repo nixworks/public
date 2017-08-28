@@ -33,7 +33,7 @@ The United Auto Workers and General Motors Corp. said Wednesday they have reache
 ### [ The Can Tho Bridge, a bridge over the Bassac River in Can Tho, Vietnam, collapses during construction, leading to the death of at least 60 workers with about 100 more missing. ](/news/2007/09/26/the-caossn-thae-bridge-a-bridge-over-the-bassac-river-in-caossn-thae-vietnam-collapses-during-construction-leading-to-the-death-of-at-lea.md)
 A section of a bridge under construction in southern Vietnam collapsed Wednesday, killing at least 52 workers and injuring 97 others, officials said.
 
-### [ 2007 Burmese anti-government protests:: Up to five Buddhist monks are killed ](/news/2007/09/26/2007-burmese-anti-government-protests-up-to-five-buddhist-monks-are-killed.md)
+### [ Up to five Buddhist monks are killed ](/news/2007/09/26/up-to-five-buddhist-monks-are-killed.md)
 Police baton-charged a crowd of about 700 anti-junta protesters including students and some Buddhist monks who gathered near a pagoda in Burma&#039;s main city Rangoon in defiance of a ban, witnesses say.
 
 ### [ The India national cricket team starts a victory parade in Mumbai after winning the inaugural 2007 ICC World Twenty20. ](/news/2007/09/26/the-india-national-cricket-team-starts-a-victory-parade-in-mumbai-after-winning-the-inaugural-2007-icc-world-twenty20.md)

@@ -1,6 +1,6 @@
 ### [2017-01-19](/news/2017/01/19/index.md)
 
-# An Italian rescue official says a number of people have been killed by an avalanche, possibly connected to Wednesday's earthquakes, that buried a ski resort on a slope of the  Gran Sasso mountain in Italy's Abruzzo region. About 30 guests and staff  were at the hotel.  The only survivors are two men who had been outside when the disaster struck. 
+# An Italian rescue official says a number of people have been killed by an avalanche, possibly connected to Wednesday's earthquakes, that buried a ski resort on a slope of the Gran Sasso mountain in Italy's Abruzzo region. About 30 guests and staff were at the hotel. The only survivors are two men who had been outside when the disaster struck. 
 
 AN avalanche in Italy has buried a hotel killing up to 35, after a series of earthquakes struck the region, which were followed by 80 aftershocks during the night. 
 
@@ -20,6 +20,6 @@ AN avalanche in Italy has buried a hotel killing up to 35, after a series of ear
 5. [An Italian rescue helicopter, carrying an injured skier from Gran Sasso d'Italia, crashes amid thick fog, killing six people. ](/news/2017/01/24/an-italian-rescue-helicopter-carrying-an-injured-skier-from-gran-sasso-d-italia-crashes-amid-thick-fog-killing-six-people.md) _Context: Gran Sasso d'Italia_
 6. [The bodies of mountaineer Alex Lowe and photographer David Bridges are found on the Himalayan mountain Shishapangma after being buried in an avalanche in 1999. ](/news/2016/05/2/the-bodies-of-mountaineer-alex-lowe-and-photographer-david-bridges-are-found-on-the-himalayan-mountain-shishapangma-after-being-buried-in-an.md) _Context: avalanche_
 7. [An avalanche kills six skiers in the Italian Alps. ](/news/2016/03/12/an-avalanche-kills-six-skiers-in-the-italian-alps.md) _Context: avalanche_
-8. [One Indian soldier, buried in the snow for six days, is rescued from last week's  Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. ](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.md) _Context: avalanche_
+8. [One Indian soldier, buried in the snow for six days, is rescued from last week's Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. ](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.md) _Context: avalanche_
 9. [Five people are killed in an avalanche that buried 17 Czechs in Austria. ](/news/2016/02/6/five-people-are-killed-in-an-avalanche-that-buried-17-czechs-in-austria.md) _Context: avalanche_
 10. [An avalanche near McBride in the Canadian province of British Columbia kills five people. ](/news/2016/01/29/an-avalanche-near-mcbride-in-the-canadian-province-of-british-columbia-kills-five-people.md) _Context: avalanche_

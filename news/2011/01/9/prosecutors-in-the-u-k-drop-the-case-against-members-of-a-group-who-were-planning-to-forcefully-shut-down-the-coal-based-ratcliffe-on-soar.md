@@ -12,4 +12,4 @@ The trial of six green campaigners collapses after an undercover policeman who h
 ### Related:
 
 1. [ The European Commission predicts the U.K., Germany, and Spain 'to fall into recession'; the outlook for rest of the Eurozone is gloomy. ](/news/2008/09/10/the-european-commission-predicts-the-u-k-germany-and-spain-to-fall-into-recession-the-outlook-for-rest-of-the-eurozone-is-gloomy.md) _Context: U.K._
-2. [ Iraq War:: British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/iraq-war-british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end.md) _Context: U.K._
+2. [ British Prime Minister Tony Blair announces that 1,500 British troops will leave Iraq within weeks with another 1,500 by the end of the year. ](/news/2007/02/21/british-prime-minister-tony-blair-announces-that-1-500-british-troops-will-leave-iraq-within-weeks-with-another-1-500-by-the-end-of-the-yea.md) _Context: U.K._

@@ -1,6 +1,6 @@
 ## [2010-01-24](/news/2010/01/24/index.md)
 
-### [Aftermath of the 2010 Haiti earthquake:: Haiti is rocked by another earthquake. ](/news/2010/01/24/aftermath-of-the-2010-haiti-earthquake-haiti-is-rocked-by-another-earthquake.md)
+### [Haiti is rocked by another earthquake. ](/news/2010/01/24/haiti-is-rocked-by-another-earthquake.md)
 An earthquake measuring 4.7 in magnitude hit Haiti on Sunday afternoon, according to the U.S. Geological Survey.
 
 ### [In the National Football League, the Indianapolis Colts and New Orleans Saints win playoff games to advance to Super Bowl XLIV. ](/news/2010/01/24/in-the-national-football-league-the-indianapolis-colts-and-new-orleans-saints-win-playoff-games-to-advance-to-super-bowl-xliv.md)

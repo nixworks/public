@@ -1,6 +1,6 @@
 ## [2012-08-28](/news/2012/08/28/index.md)
 
-### [Syrian civil war:: Twelve people are killed in a twin-blast bomb attack by unknown people at the entrance of a Druze cemetery in the Jaramana district of southeast Damascus. ](/news/2012/08/28/syrian-civil-war-twelve-people-are-killed-in-a-twin-blast-bomb-attack-by-unknown-people-at-the-entrance-of-a-druze-cemetery-in-the-jaraman.md)
+### [Twelve people are killed in a twin-blast bomb attack by unknown people at the entrance of a Druze cemetery in the Jaramana district of southeast Damascus. ](/news/2012/08/28/twelve-people-are-killed-in-a-twin-blast-bomb-attack-by-unknown-people-at-the-entrance-of-a-druze-cemetery-in-the-jaramana-district-of-south.md)
 Twelve people were killed and dozens wounded when a car bomb exploded on Tuesday at a funeral in Damascus, state television reported, in an attack that an activist group said had targeted supporters of President Bashar al-Assad.
 
 ### [At least one person is killed and another four injured in renewed fighting in the Indian city of Kokrajhar in the state of Assam. ](/news/2012/08/28/at-least-one-person-is-killed-and-another-four-injured-in-renewed-fighting-in-the-indian-city-of-kokrajhar-in-the-state-of-assam.md)

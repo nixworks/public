@@ -1,6 +1,6 @@
 ## [2011-07-22](/news/2011/07/22/index.md)
 
-### [2011 Norway attacks: An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. ](/news/2011/07/22/2011-norway-attacks-an-explosion-damages-government-buildings-in-oslo-norway-at-15-25-at-eight-people-are-killed-and-several-are-reported.md)
+### [An explosion damages government buildings in Oslo, Norway at 15:25; at eight people are killed and several are reportedly injured. ](/news/2011/07/22/an-explosion-damages-government-buildings-in-oslo-norway-at-15-25-at-eight-people-are-killed-and-several-are-reportedly-injured.md)
 At least a dozen deaths reported after a massive bomb blast hits central Oslo and a youth camp is fired upon.
 
 ### [2011 Syrian uprising: Hundreds of thousands of people take to the streets after Friday prayers in cities across Syria. ](/news/2011/07/22/2011-syrian-uprising-hundreds-of-thousands-of-people-take-to-the-streets-after-friday-prayers-in-cities-across-syria.md)
@@ -27,10 +27,10 @@ _Context: China, Xinyang_
 ### [Nepalese officials say monsoon rains have swollen two major rivers in the country and have increased the threat of widespread flooding. ](/news/2011/07/22/nepalese-officials-say-monsoon-rains-have-swollen-two-major-rivers-in-the-country-and-have-increased-the-threat-of-widespread-flooding.md)
 _Context: Nepal, monsoon_
 
-### [2011 Horn of Africa famine: The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/2011-horn-of-africa-famine-the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remai.md)
+### [The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remains.md)
 Rejecting UN famine claims, opposition group says it will not allow certain support groups into drought-hit Somalia.
 
-### [ASEAN Regional Forum: South Korea seeks a bilateral meeting with North Korea to discuss nuclear issues at the sidelines of an ASEAN Regional Forum in Bali, Indonesia. ](/news/2011/07/22/asean-regional-forum-south-korea-seeks-a-bilateral-meeting-with-north-korea-to-discuss-nuclear-issues-at-the-sidelines-of-an-asean-regional.md)
+### [South Korea seeks a bilateral meeting with North Korea to discuss nuclear issues at the sidelines of an ASEAN Regional Forum in Bali, Indonesia. ](/news/2011/07/22/south-korea-seeks-a-bilateral-meeting-with-north-korea-to-discuss-nuclear-issues-at-the-sidelines-of-an-asean-regional-forum-in-bali-indone.md)
 _Context: ASEAN Regional Forum, Bali, Indonesia, North Korea, South Korea_
 
 ### [North Korea appoints Ri Yong-ho as its new negotiator in the Six-party talks on the North Korean nuclear weapons program. ](/news/2011/07/22/north-korea-appoints-ri-yong-ho-as-its-new-negotiator-in-the-six-party-talks-on-the-north-korean-nuclear-weapons-program.md)
@@ -42,7 +42,7 @@ The Immigration Department says up to 100 people armed with makeshift weapons ma
 ### [Serbia extradites suspected war criminal Goran Hadzic to The Hague to face trial. ](/news/2011/07/22/serbia-extradites-suspected-war-criminal-goran-hada3-4ia-to-the-hague-to-face-trial.md)
 War crimes suspect Goran Hadzic arrives in the Netherlands after being flown from Serbia to face the UN court at The Hague.
 
-### [News International phone hacking scandal: The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/news-international-phone-hacking-scandal-the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-d.md)
+### [The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-data-protection-in-scotland.md)
 Strathclyde Police are investigating phone hacking and breaches of data protection in Scotland, the Crown Office confirms.
 
 ### [Two Mexican police officers assigned to guard the United States consulate in Monterrey are killed in a drive-by shooting while off duty. ](/news/2011/07/22/two-mexican-police-officers-assigned-to-guard-the-united-states-consulate-in-monterrey-are-killed-in-a-drive-by-shooting-while-off-duty.md)

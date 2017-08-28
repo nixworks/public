@@ -1,0 +1,24 @@
+### [2010-10-14](/news/2010/10/14/index.md)
+
+# The Obama administration asks United States District Court for the Central District of California judge Virginia A. Phillips to stay her ruling in Log Cabin Republicans v. United States of America that the Don't Ask, Don't Tell policy is unconstitutional while it appeals the decision. 
+
+
+
+
+### Source:
+
+1. [KTLA](http://www.kansascw.com/kscw/news/ktla-gays-military,0,5548815.story)
+2. [Reuters](http://www.reuters.com/article/idUSTRE69D5HQ20101014)
+
+### Related:
+
+1. [Judge Virginia A. Phillips of the United States District Court for the Central District of California orders an injunction against the United States military continuing its don't ask don't tell policy against lesbian and gay members. ](/news/2010/10/12/judge-virginia-a-phillips-of-the-united-states-district-court-for-the-central-district-of-california-orders-an-injunction-against-the-unite.md) _Context: U.S. District Judge of California, Virginia A. Phillips, don't ask, don't tell_
+2. [The Ninth U.S. Circuit Court of Appeals orders the Obama administration to cease its enforcement of the ban on gay men and women in the military ("Don't ask, don't tell"). ](/news/2011/07/6/the-ninth-u-s-circuit-court-of-appeals-orders-the-obama-administration-to-cease-its-enforcement-of-the-ban-on-gay-men-and-women-in-the-mili.md) _Context: Obama Administration, don't ask, don't tell_
+3. [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md) _Context: Virginia A. Phillips, don't ask, don't tell_
+4. [Judge Ronald B. Leighton of the United States District Court for the Western District of Washington rules on remand that the discharge of flight nurse Maj. Margaret Witt under the Don't ask, don't tell policy violated her constitutional rights. ](/news/2010/09/24/judge-ronald-b-leighton-of-the-united-states-district-court-for-the-western-district-of-washington-rules-on-remand-that-the-discharge-of-fl.md) _Context: don't ask, don't tell, judge_
+5. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: Obama Administration_
+6. [The Obama administration lifts U.S. sanctions on Myanmar by terminating an emergency order that deemed the policies of the former military government a threat to U.S. national security. ](/news/2016/10/7/the-obama-administration-lifts-u-s-sanctions-on-myanmar-by-terminating-an-emergency-order-that-deemed-the-policies-of-the-former-military-g.md) _Context: Obama Administration_
+7. [The Obama administration formally accuses the Russian government of cyber attacks against the U.S. Democratic Party in influencing presidential election. ](/news/2016/10/7/the-obama-administration-formally-accuses-the-russian-government-of-cyber-attacks-against-the-u-s-democratic-party-in-influencing-president.md) _Context: Obama Administration_
+8. [The Obama administration through the U.S. State Department announces the suspension of bilateral talks with Russia about the cessation of hostilities in Syria, as Russia and the Syrian government continue to pursue a military course despite the ceasefire accord. ](/news/2016/10/3/the-obama-administration-through-the-u-s-state-department-announces-the-suspension-of-bilateral-talks-with-russia-about-the-cessation-of-ho.md) _Context: Obama Administration_
+9. [The Obama administration through the U.S. Department of Justice announces that they will file criminal contempt of court charges against Maricopa County, Arizona sheriff Joe Arpaio for violating a judge's order to stop immigration patrols that led to a court finding of racial profiling. The charges carry a maximum penalty of six months in jail. ](/news/2016/10/11/the-obama-administration-through-the-u-s-department-of-justice-announces-that-they-will-file-criminal-contempt-of-court-charges-against-mar.md) _Context: Obama Administration_
+10. [The Obama administration through the U.S. Defense Department says it will take appropriate action against those responsible for October 9 unsuccessful cruise missile attack, apparently fired from Houthi-controlled territory in Yemen, upon the USS Mason. ](/news/2016/10/11/the-obama-administration-through-the-u-s-defense-department-says-it-will-take-appropriate-action-against-those-responsible-for-october-9-un.md) _Context: Obama Administration_

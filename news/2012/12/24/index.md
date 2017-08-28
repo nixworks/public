@@ -1,9 +1,9 @@
 ## [2012-12-24](/news/2012/12/24/index.md)
 
-### [Syrian civil war:: Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/syrian-civil-war-seven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md)
+### [Seven Syrian rebel fighters are killed and a number of others injured at their base in Homs by toxic gas inhalation. ](/news/2012/12/24/seven-syrian-rebel-fighters-are-killed-and-a-number-of-others-injured-at-their-base-in-homs-by-toxic-gas-inhalation.md)
 Though Moscow maintains that Syria’s chemical weapons are secure, new rumors have recently swept international media: Syrian rebels and government forces have accused each other of using nerve agents that led to fatalities, unconfirmed reports said.
 
-### [War in Afghanistan (2001-present):: A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/war-in-afghanistan-2001-present-a-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen.md)
+### [A NATO adviser is shot dead by a woman in police uniform in Kabul, and at least five Afghan policemen are killed by another officer in northern Afghanistan. ](/news/2012/12/24/a-nato-adviser-is-shot-dead-by-a-woman-in-police-uniform-in-kabul-and-at-least-five-afghan-policemen-are-killed-by-another-officer-in-north.md)
 A Nato adviser is shot dead by a woman police officer in Kabul, as five Afghan policemen are killed in a separate &quot;rogue&quot; attack in the north.
 
 ### [U.S. actor Jack Klugman, who starred in the 1970s hit TV series "The Odd Couple" and "Quincy, M.E.", dies at the age of 90. ](/news/2012/12/24/u-s-actor-jack-klugman-who-starred-in-the-1970s-hit-tv-series-the-odd-couple-and-quincy-m-e-dies-at-the-age-of-90.md)

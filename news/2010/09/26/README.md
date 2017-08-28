@@ -39,7 +39,7 @@ _Context: Peter Mullan, San Sebastian International Film Festival_
 ### [Australian climate change activists close down the world's largest coal port in Newcastle, New South Wales. ](/news/2010/09/26/australian-climate-change-activists-close-down-the-world-s-largest-coal-port-in-newcastle-new-south-wales.md)
 _Context: Australia, Newcastle, climate change, coal_
 
-### [Brandenburg bus crash:: A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/brandenburg-bus-crash-a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least.md)
+### [A tourist bus from Poland hits a bridge pillar on a highway at Schoenefelder Kreuz in Brandenburg, killing at least 12 people and injuring 40. ](/news/2010/09/26/a-tourist-bus-from-poland-hits-a-bridge-pillar-on-a-highway-at-schoenefelder-kreuz-in-brandenburg-killing-at-least-12-people-and-injuring-4.md)
 Twelve people were killed Sunday and six were in a critical condition after a Polish coach crashed into a bridge on a wet motorway south of Berlin, emergency services said.
 
 ### [The People's Republic of China reports an outbreak of the plague in Tibet, with 5 people infected and 1 fatality. ](/news/2010/09/26/the-people-s-republic-of-china-reports-an-outbreak-of-the-plague-in-tibet-with-5-people-infected-and-1-fatality.md)
@@ -51,10 +51,10 @@ Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring
 ### [Towns in the U.S. state of Wisconsin evacuate residents due to flooding of the Wisconsin River. ](/news/2010/09/26/towns-in-the-u-s-state-of-wisconsin-evacuate-residents-due-to-flooding-of-the-wisconsin-river.md)
 _Context: U.S. state, Wisconsin, Wisconsin River_
 
-### ["Irene":: The boat "Irene", carrying a group of Jewish activists from Germany, Israel, the U.S. and UK, sets sail from northern Cyprus aiming to breach Israel's blockade of the Gaza Strip. ](/news/2010/09/26/irene-the-boat-irene-carrying-a-group-of-jewish-activists-from-germany-israel-the-u-s-and-uk-sets-sail-from-northern-cyprus-aimin.md)
+### [The boat "Irene", carrying a group of Jewish activists from Germany, Israel, the U.S. and UK, sets sail from northern Cyprus aiming to breach Israel's blockade of the Gaza Strip. ](/news/2010/09/26/the-boat-irene-carrying-a-group-of-jewish-activists-from-germany-israel-the-u-s-and-uk-sets-sail-from-northern-cyprus-aiming-to-breac.md)
 Aid boat carrying Jewish activists sails to Gaza
 
-### [UNHRC report into the Gaza flotilla raid:: The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-i.md)
+### [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md)
 _Context: Gaza flotilla raid, Human Rights Council, Israel_
 
 ### [Philip Alston, the international law scholar who recently stepped down as the United Nations's senior official on extrajudicial killings, calls for the UN to investigate war crimes in Afghanistan and to convict those responsible. ](/news/2010/09/26/philip-alston-the-international-law-scholar-who-recently-stepped-down-as-the-united-nations-s-senior-official-on-extrajudicial-killings-ca.md)

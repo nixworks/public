@@ -1,9 +1,9 @@
 ## [2014-04-30](/news/2014/04/30/index.md)
 
-### [Al-Qaeda insurgency in Yemen:: At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/al-qaeda-insurgency-in-yemen-at-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md)
+### [At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. ](/news/2014/04/30/at-least-30-people-have-been-killed-in-clashes-between-al-qaeda-and-the-yemen-army.md)
 Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tuesday as the army launched a ground offensive against their remaining strongholds in the south, medical and security sources said.
 
-### [Syrian Civil War: The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school. ](/news/2014/04/30/syrian-civil-war-the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dro.md)
+### [The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school. ](/news/2014/04/30/the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dropped-barrel-bombs.md)
 _Context: Local Coordination Committees of Syria, Syrian Army, Syrian Civil War, barrel bomb_
 
 ### [An explosion in the rmqi Railway Station results in three people killed, with another 79 people injured. [http://online.wsj.com/news/articles/SB10001424052702303948104579533541934838878 "(The Wall Street Journal)"]](/news/2014/04/30/an-explosion-in-the-urumqi-railway-station-results-in-three-people-killed-with-another-79-people-injured-http-online-wsj-com-news-artic.md)
@@ -27,10 +27,10 @@ Sultan launches new penal code that will eventually include stoning, amputation 
 ### [A shooting occurs at a sawmill in Nanaimo, British Columbia, Canada, killing two people and injuring two others. A former employee is arrested. ](/news/2014/04/30/a-shooting-occurs-at-a-sawmill-in-nanaimo-british-columbia-canada-killing-two-people-and-injuring-two-others-a-former-employee-is-arrest.md)
 Kevin Douglas Addison is charged with two counts of first-degree murder and two counts of attempted murder with a firearm following shootings Wednesday morning at a B.C. sawmill where he used to work.
 
-### [Iraqi parliamentary election:: Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/iraqi-parliamentary-election-voters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the.md)
+### [Voters in Iraq go to the polls for parliamentary elections that have already been marred by violence from the Islamic State of Iraq and the Levant. ](/news/2014/04/30/voters-in-iraq-go-to-the-polls-for-parliamentary-elections-that-have-already-been-marred-by-violence-from-the-islamic-state-of-iraq-and-the.md)
 Iraq&#039;s premier says he has enough support to keep his post, but with election results not due for weeks and parties bitterly ivided, forming a government will probably take months.
 
-### [Indian general election: Voting is in progress in 89 constituencies spread across seven states and two union territories.](/news/2014/04/30/indian-general-election-voting-is-in-progress-in-89-constituencies-spread-across-seven-states-and-two-union-territories.md)
+### [Voting is in progress in 89 constituencies spread across seven states and two union territories.](/news/2014/04/30/voting-is-in-progress-in-89-constituencies-spread-across-seven-states-and-two-union-territories.md)
 A total of 13.83 crore people will vote in the 7th phase of LS polls in 7 states and two UTs that will in all elect 89 MPs. Stay with TOI Live Blog for latest news and updates. 
 
 ### [Protesters in the Nigerian capital Abuja hold a "million woman" march over the mass kidnapping of schoolgirls by the Boko Haram terrorist group two weeks ago. ](/news/2014/04/30/protesters-in-the-nigerian-capital-abuja-hold-a-million-woman-march-over-the-mass-kidnapping-of-schoolgirls-by-the-boko-haram-terrorist-gr.md)

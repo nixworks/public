@@ -1,6 +1,6 @@
 ### [2007-08-9](/news/2007/08/9/index.md)
 
-#  BNP Paribas announced that it could not fairly value the underlying assets in three funds as a result of exposure to U.S. subprime mortgage lending markets. Faced with potentially massive (though unquantifiable) exposure, the European Central Bank (ECB) immediately stepped in to ease market worries by opening lines of -96.8 billion (then US$130 billion) in low-interest credit.
+#  BNP Paribas announced that it could not fairly value the underlying assets in three funds as a result of exposure to U.S. subprime mortgage lending markets. Faced with potentially massive (though unquantifiable) exposure, the European Central Bank (ECB) immediately stepped in to ease market worries by opening lines of EUR96.8 billion (then US$130 billion) in low-interest credit.
 
 
 

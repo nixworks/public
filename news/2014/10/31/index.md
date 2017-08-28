@@ -12,7 +12,7 @@ The Bank of Japan shocked global financial markets on Friday by expanding its ma
 ### [One person is dead and another injured after Virgin Galactic's SpaceShipTwo explodes and crashes in California's Mojave Desert during a test flight of the spaceplane. ](/news/2014/10/31/one-person-is-dead-and-another-injured-after-virgin-galactic-s-spaceshiptwo-explodes-and-crashes-in-california-s-mojave-desert-during-a-test.md)
 _Context: California, Mojave Desert, SpaceShipTwo, Virgin Galactic's, explodes and crashes, spaceplane, test flight_
 
-### [Ebola virus disease in the United States: A Maine judge imposes limited restrictions, but rejects state officials' bid to quarantine nurse Kaci Hickox, who returned to the United States last week after treating Ebola patients in Sierra Leone. ](/news/2014/10/31/ebola-virus-disease-in-the-united-states-a-maine-judge-imposes-limited-restrictions-but-rejects-state-officials-bid-to-quarantine-nurse-k.md)
+### [A Maine judge imposes limited restrictions, but rejects state officials' bid to quarantine nurse Kaci Hickox, who returned to the United States last week after treating Ebola patients in Sierra Leone. ](/news/2014/10/31/a-maine-judge-imposes-limited-restrictions-but-rejects-state-officials-bid-to-quarantine-nurse-kaci-hickox-who-returned-to-the-united-sta.md)
 Maine health officials have asked a court to limit the movements of nurse Kaci Hickox, who defied a voluntary quarantine for medical workers who have treated Ebola patients.
 
 ### [Australia and the United States lift sanctions against Fiji following recent democratic elections. ](/news/2014/10/31/australia-and-the-united-states-lift-sanctions-against-fiji-following-recent-democratic-elections.md)

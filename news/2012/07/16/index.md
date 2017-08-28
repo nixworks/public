@@ -3,7 +3,7 @@
 ### [Mexican Drug War: The Mexican Federal Police arrested one of the three ringleaders responsible for the deadly shootout last month in the Mexico City International Airport's busy food court. An anonymous tip-off led police to his whereabouts. ](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.md)
 _Context: Mexican Drug War, Mexican Police, Mexico City International Airport_
 
-### [Syrian uprising (2011-present):: Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/syrian-uprising-2011-present-heavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-doze.md)
+### [Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/heavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-dozens-of-injuries.md)
 Syrian troops backed by armoured vehicles today entered the district of Midan in central Damascus to drive out rebels who have&hellip;
 
 ### [Pakistani Taliban attack an office of the security force's intelligence agency in Bannu and take several hostages. ](/news/2012/07/16/pakistani-taliban-attack-an-office-of-the-security-force-s-intelligence-agency-in-bannu-and-take-several-hostages.md)

@@ -12,10 +12,10 @@ _Context: Yemen, al-Qaeda_
 ### [70 films from 23 countries and territorries will be shown during the first Vietnam International Film Festival opening in Hanoi. ](/news/2010/10/17/70-films-from-23-countries-and-territorries-will-be-shown-during-the-first-vietnam-international-film-festival-opening-in-hanoi.md)
 _Context: Hanoi, Vietnam International Film Festival_
 
-### [Rare German stamps featuring film star Audrey Hepburn smoking fetch -430,000 at a charity auction in Berlin. ](/news/2010/10/17/rare-german-stamps-featuring-film-star-audrey-hepburn-smoking-fetch-430-000-at-a-charity-auction-in-berlin.md)
+### [Rare German stamps featuring film star Audrey Hepburn smoking fetch EUR430,000 at a charity auction in Berlin. ](/news/2010/10/17/rare-german-stamps-featuring-film-star-audrey-hepburn-smoking-fetch-a-430-000-at-a-charity-auction-in-berlin.md)
 A rare sheet of 10 stamps showing film star Audrey Hepburn smoking fetches 430,000 euros (£380,000) at a charity auction in Berlin.
 
-### [Canonization:: Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/canonization-pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in.md)
+### [Pope Benedict XVI canonises Mary MacKillop, the first Australian saint, in front of 50,000 people in Saint Peter's Square in the Vatican City. ](/news/2010/10/17/pope-benedict-xvi-canonises-mary-mackillop-the-first-australian-saint-in-front-of-50-000-people-in-saint-peter-s-square-in-the-vatican-cit.md)
 _Context: Australia, Mary MacKillop, Pope Benedict XVI, Saint Peter's Square, Vatican City, canonize, saints_
 
 ### [GM workers protest a drop in wages, from $58,000/year to $30,000/year, at a new car plant in Michigan that was funded by a $50 billion government bailout and is receiving $770 million in tax incentives. ](/news/2010/10/17/gm-workers-protest-a-drop-in-wages-from-58-000-year-to-30-000-year-at-a-new-car-plant-in-michigan-that-was-funded-by-a-50-billion-gover.md)
@@ -36,7 +36,7 @@ Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German med
 ### [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md)
 Saudi Arabia has warned France it is the target of an imminent al-Qaeda attack, French Interior Minister Brice Hortefeux says.
 
-### [President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5|5+1 group in November, but the Islamic Republic-s previous conditions for holding talks should be met. ](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.md)
+### [President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5|5+1 group in November, but the Islamic Republic's previous conditions for holding talks should be met. ](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.md)
 _Context: Iran, Islamic republic, Mahmoud Ahmadinejad_
 
 ### [A planned summit between Israeli Prime Minister Benjamin Netanyahu, Palestinian president Mahmoud Abbas, and Egyptian President Hosni Mubarak scheduled for October 21 in Paris is postponed amidst Palestinian ojections to a decision by Israel to construct 240 housing units in east Jerusalem](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.md)

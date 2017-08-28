@@ -1,6 +1,6 @@
 ## [2010-03-10](/news/2010/03/10/index.md)
 
-### [Interreligious riots in Jos: Nigeria: Nigerian soldiers open fire on a crowd after curfew in Jos, killing two people, days after Muslim-Christian riots in the area left more than 200 dead including dozens of children ](/news/2010/03/10/interreligious-riots-in-jos-nigeria-nigerian-soldiers-open-fire-on-a-crowd-after-curfew-in-jos-killing-two-people-days-after-muslim-chri.md)
+### [Nigerian soldiers open fire on a crowd after curfew in Jos, killing two people, days after Muslim-Christian riots in the area left more than 200 dead including dozens of children ](/news/2010/03/10/nigerian-soldiers-open-fire-on-a-crowd-after-curfew-in-jos-killing-two-people-days-after-muslim-christian-riots-in-the-area-left-more-than.md)
 _Context: Jos, Nigeria, events earlier this year_
 
 ### [Britain, France and the EU support U.S. Vice President Joe Biden's condemnation of Israeli expansion of settlements in occupied territory. ](/news/2010/03/10/britain-france-and-the-eu-support-u-s-vice-president-joe-biden-s-condemnation-of-israeli-expansion-of-settlements-in-occupied-territory.md)

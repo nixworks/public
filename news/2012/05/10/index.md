@@ -18,7 +18,7 @@ A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheb
 ### [Salman Rushdie, Art Spiegelman and Mario Vargas Llosa are among those to protest against the planned spending of US$300 million on the Fifth Avenue branch of the New York Public Library, saying it is "a misplaced use of funds in a time of great scarcity". A letter signed by more than 700 writers, academics and others is sent to the library. ](/news/2012/05/10/salman-rushdie-art-spiegelman-and-mario-vargas-llosa-are-among-those-to-protest-against-the-planned-spending-of-us-300-million-on-the-fifth.md)
 _Context: Art Spiegelman, Fifth Avenue, Mario Vargas Llosa, New York Public Library, Salman Rushdie_
 
-### [British public sector protests:: As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/british-public-sector-protests-as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-pr.md)
+### [As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-protest-against-planned-pension-cut.md)
 Public sector workers are taking part in a 24-hour UK-wide strike over pensions, but the government insists it has made them a &quot;generous offer&quot;.
 
 ### [An Air India industrial dispute escalates, with over 20 flights cancelled. ](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.md)

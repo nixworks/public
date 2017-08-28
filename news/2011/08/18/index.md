@@ -6,13 +6,13 @@ _Context: Afganistan, Herat Province, minibus_
 ### [Turkey launches an air strike on PKK positions in northern Iraq. ](/news/2011/08/18/turkey-launches-an-air-strike-on-pkk-positions-in-northern-iraq.md)
 _Context: Iraq, Turkey, air strike_
 
-### [Southern Israel attacks: Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/southern-israel-attacks-eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terro.md)
+### [Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.md)
 Four terror attacks near Eilat claim seven lives, leave 31 injured as passenger bus, military patrol and private car targeted; IDF kills seven terrorists. Security forces declare high alert in southern sector
 
 ### [South Korean banks temporarily stop making household loans to stop the growth of household debt. ](/news/2011/08/18/south-korean-banks-temporarily-stop-making-household-loans-to-stop-the-growth-of-household-debt.md)
 _Context: South Korea_
 
-### [August 2011 stock markets fall: The DAX, CAC 40, Nasdaq drop over 5%, the FTSE 100 index by 4.5%, the Dow Jones Industrial Average by 3.7%. ](/news/2011/08/18/august-2011-stock-markets-fall-the-dax-cac-40-nasdaq-drop-over-5-the-ftse-100-index-by-4-5-the-dow-jones-industrial-average-by-3-7.md)
+### [The DAX, CAC 40, Nasdaq drop over 5%, the FTSE 100 index by 4.5%, the Dow Jones Industrial Average by 3.7%. ](/news/2011/08/18/the-dax-cac-40-nasdaq-drop-over-5-the-ftse-100-index-by-4-5-the-dow-jones-industrial-average-by-3-7.md)
 The S.&P. dropped 4.5 percent amid heightened concerns over the impact of the euro zone debt crisis; Asia-Pacific markets fell sharply in early trading on Friday.
 
 ### [More than 60,000 people are homeless after flooding in the southern Pakistani province of Sindh. ](/news/2011/08/18/more-than-60-000-people-are-homeless-after-flooding-in-the-southern-pakistani-province-of-sindh.md)

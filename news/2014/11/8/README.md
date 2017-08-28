@@ -1,9 +1,9 @@
 ## [2014-11-8](/news/2014/11/8/index.md)
 
-### [Military intervention against ISIS: Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/military-intervention-against-isis-abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md)
+### [Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md)
 _Context: Abu Bakr al-Baghdadi, Al Qaim, Military intervention against ISIS_
 
-### [War in Somalia: Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/war-in-somalia-al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md)
+### [Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md)
 Somalia&rsquo;s Al Qaeda linked Al Shabaab militants have taken back strategic Island in Lower Jubba region of southern Somalia...
 
 ### [Japan's Economy Minister, Akira Amari says that a completed Trans-Pacific Partnership agreement by the end of 2014 is unlikely. ](/news/2014/11/8/japan-s-economy-minister-akira-amari-says-that-a-completed-trans-pacific-partnership-agreement-by-the-end-of-2014-is-unlikely.md)

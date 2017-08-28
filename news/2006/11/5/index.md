@@ -3,7 +3,7 @@
 ### [ Operation Autumn Clouds: Israel Defense Forces troops kill two Palestinians in a northern Gaza Strip operation. ](/news/2006/11/5/operation-autumn-clouds-israel-defense-forces-troops-kill-two-palestinians-in-a-northern-gaza-strip-operation.md)
 _Context: Gaza Strip, Israel Defense Forces, Operation Autumn Clouds_
 
-### [ Trial of Saddam Hussein: Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/trial-of-saddam-hussein-sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-ira.md)
+### [ Sweeping curfews go into effect in Baghdad, Iraq, in anticipation of the reading of the verdict by the Supreme Iraqi Criminal Tribunal in the trial of Saddam Hussein. ](/news/2006/11/5/sweeping-curfews-go-into-effect-in-baghdad-iraq-in-anticipation-of-the-reading-of-the-verdict-by-the-supreme-iraqi-criminal-tribunal-in-t.md)
 US President George W Bush has welcomed the death penalty verdict in Saddam Hussein&#39;s trial of crimes against humanity.
 
 ### [ Nicaraguans go to the polls to elect a new President and National Assembly, with the presidential race led by Sandinista Daniel Ortega and conservative Eduardo Montealegre. ](/news/2006/11/5/nicaraguans-go-to-the-polls-to-elect-a-new-president-and-national-assembly-with-the-presidential-race-led-by-sandinista-daniel-ortega-and.md)

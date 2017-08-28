@@ -9,8 +9,8 @@ _Context: Palestinian Islamic Jihad, Sami Al-Arian_
 ### [ Jorge Noguera, former Colombian intelligence chief, is freed from prison following a ruling by an appeals court after having been jailed last month for collaborating with right wing militia. ](/news/2007/03/23/jorge-noguera-former-colombian-intelligence-chief-is-freed-from-prison-following-a-ruling-by-an-appeals-court-after-having-been-jailed-la.md)
 _Context: Colombia, Jorge Noguera, appeals court, militia, prison_
 
-### [ War in Afghanistan (2001-present):: A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/war-in-afghanistan-2001-present-a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afg.md)
-_Context: Afghanistan's, Taliban, War in Afghanistan (2001-present), convoy_
+### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)
+_Context: Afghanistan's, Taliban, convoy_
 
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, United States government, visa-free travel_
@@ -21,8 +21,8 @@ _Context: AMISOM, Mogadishu, missile hits an Ilyushin airplane_
 ### [ The United States Senate votes 52-47 to approve a budget plan that aims to achieve a balanced budget within five years and aims to find offsets for tax cuts passed in President Bush's first term. ](/news/2007/03/23/the-united-states-senate-votes-52-47-to-approve-a-budget-plan-that-aims-to-achieve-a-balanced-budget-within-five-years-and-aims-to-find-off.md)
 _Context: George W. Bush, President, United States Senate, balanced budget, budget, first term, tax cuts passed_
 
-### [ Iraq War:: The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/iraq-war-the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bus.md)
-_Context: 2008, George W. Bush, Iraq War, President, United States House of Representatives, bill into law, troop cut, veto_
+### [ The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bush-promises.md)
+_Context: 2008, George W. Bush, President, United States House of Representatives, bill into law, troop cut, veto_
 
 ### [ 15 Royal Navy servicemen of the HMS "Cornwall" operating in Iraqi waters are seized by Iranian authorities after inspecting a ship suspected of smuggling. ](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-operating-in-iraqi-waters-are-seized-by-iranian-authorities-after-inspecting-a-ship-suspecte.md)
 _Context: HMS ''Cornwall'', Iraq, Royal Navy, held captive by Iran_
@@ -46,7 +46,7 @@ _Context: Australia, Burnley Tunnel, Domain Tunnel, Melbourne_
 _Context: Menu Foods, North America, Veterinarian, aminopterin, pet food, recall_
 
 ### [ 16 people are dead and twelve more missing after a passenger schooner capsized in the Toe River, Myanmar. ](/news/2007/03/23/16-people-are-dead-and-twelve-more-missing-after-a-passenger-schooner-capsized-in-the-toe-river-myanmar.md)
-_Context: Myanmar, Toe River_
+_Context: Burmese, Toe River_
 
 ## [Previous Day...](/news/2007/03/22/index.md)
 

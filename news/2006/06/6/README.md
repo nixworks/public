@@ -3,10 +3,10 @@
 ### [ 2006 Toronto terrorism case: Toronto police uncover an alleged subplot where Steven Vikash Chand, alias Abdul Shakur, intended to lead an invasion of the Parliament of Canada building and assassinate Prime Minister Stephen Harper. ](/news/2006/06/6/2006-toronto-terrorism-case-toronto-police-uncover-an-alleged-subplot-where-steven-vikash-chand-alias-abdul-shakur-intended-to-lead-an-i.md)
 _Context: 2006 Toronto terrorism case, Canadian Prime Minister, Parliament of Canada, Stephen Harper, Steven Vikash Chand, Toronto, assassinated_
 
-### [ Iraqi insurgency: Iraqi Health Ministry figures show 6,025 civilian bodies were delivered to Baghdad's central mortuary in the first five months of this year. [http://news.bbc.co.uk/1/hi/world/middle_east/5053134.stm (BBC)]: The Iraqi administration has asked the United Nations to join the investigations into alleged massacres by American soldiers. [http://www.zaman.com/?bl=international&alt=&trh=20060606&hn=33760 (zaman)]date=January 2014](/news/2006/06/6/iraqi-insurgency-iraqi-health-ministry-figures-show-6-025-civilian-bodies-were-delivered-to-baghdad-s-central-mortuary-in-the-first-five-m.md)
+### [ Iraqi Health Ministry figures show 6,025 civilian bodies were delivered to Baghdad's central mortuary in the first five months of this year. [http://news.bbc.co.uk/1/hi/world/middle_east/5053134.stm (BBC)] The Iraqi administration has asked the United Nations to join the investigations into alleged massacres by American soldiers. [http://www.zaman.com/?bl=international&alt=&trh=20060606&hn=33760 (zaman)]date=January 2014](/news/2006/06/6/iraqi-health-ministry-figures-show-6-025-civilian-bodies-were-delivered-to-baghdad-s-central-mortuary-in-the-first-five-months-of-this-year.md)
 _Context: Iraqi insurgency, United Nations, United States_
 
-### [ Chad-Sudan conflict: The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/chad-sudan-conflict-the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md)
+### [ The Sudanese Janjaweed steal 350 head of cattle from Goz Beida, Chad. ](/news/2006/06/6/the-sudanese-janjaweed-steal-350-head-of-cattle-from-goz-beida-chad.md)
 _Context: Chad, Chad-Sudan conflict, Goz Beida, Janjaweed, Sudan_
 
 ### [ Australia's Howard government commissions Ziggy Switkowski to lead a commission on the introduction of nuclear energy in Australia. ](/news/2006/06/6/australia-s-howard-government-commissions-ziggy-switkowski-to-lead-a-commission-on-the-introduction-of-nuclear-energy-in-australia.md)

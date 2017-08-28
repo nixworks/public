@@ -12,7 +12,7 @@ _Context: International Atomic Energy Agency, Iran, United Nations Security Coun
 ### [ A plot to assassinate President Mikhail Saakashvili of Georgia by shooting down his helicopter has been foiled. ](/news/2006/02/3/a-plot-to-assassinate-president-mikhail-saakashvili-of-georgia-by-shooting-down-his-helicopter-has-been-foiled.md)
 _Context: Georgian, Mikhail Saakashvili, President of Georgia, assassinated, helicopter_
 
-### [ Queues build up at vendors as the EuroMillions lottery offers a jackpot of -180 million after 11 successive rollovers (statistically expected once in 25 years). Some British vendors report a 1200% increase in sales. EuroMillions tickets are sold in Austria, Belgium. France, Ireland, Luxembourg, Portugal, Spain, Switzerland and the United Kingdom. An Irish woman won -115,436,126 last July. ](/news/2006/02/3/queues-build-up-at-vendors-as-the-euromillions-lottery-offers-a-jackpot-of-180-million-after-11-successive-rollovers-statistically-expe.md)
+### [ Queues build up at vendors as the EuroMillions lottery offers a jackpot of EUR180 million after 11 successive rollovers (statistically expected once in 25 years). Some British vendors report a 1200% increase in sales. EuroMillions tickets are sold in Austria, Belgium. France, Ireland, Luxembourg, Portugal, Spain, Switzerland and the United Kingdom. An Irish woman won EUR115,436,126 last July. ](/news/2006/02/3/queues-build-up-at-vendors-as-the-euromillions-lottery-offers-a-jackpot-of-a-180-million-after-11-successive-rollovers-statistically-expe.md)
 _Context: EUR, Euromillions, Luxembourg, lottery_
 
 ### [ Two car bombs explode minutes apart in southern Baghdad, killing at least 16 people and wounding more than 90 others. ](/news/2006/02/3/two-car-bombs-explode-minutes-apart-in-southern-baghdad-killing-at-least-16-people-and-wounding-more-than-90-others.md)
@@ -21,7 +21,7 @@ _Context: Baghdad, car bombs_
 ### [ A strong earthquake registering magnitude 5.9 shakes northeastern Japan, but there is no danger of a tsunami. ](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.md)
 _Context: earthquake, tsunami_
 
-### [ Israeli-Palestinian Conflict:: Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. ](/news/2006/02/3/israeli-palestinian-conflict-hezbollah-fires-some-30-mortar-shells-at-idf-outposts-along-the-northern-israeli-border-lightly-wounding-an.md)
+### [ Hezbollah fires some 30 mortar shells at IDF outposts along the northern Israeli border, lightly wounding an Israeli soldier. In response, Israeli Air Force strikes Hezbollah targets in southern Lebanon. ](/news/2006/02/3/hezbollah-fires-some-30-mortar-shells-at-idf-outposts-along-the-northern-israeli-border-lightly-wounding-an-israeli-soldier-in-response.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The United States Secretary of Defense Donald Rumsfeld likens Venezuela's President Hugo Chavez to Adolf Hitler. In retaliation, Venezuelan Vice President Jose Vicente Rangel refers to the US as the Third Reich. ](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.md)

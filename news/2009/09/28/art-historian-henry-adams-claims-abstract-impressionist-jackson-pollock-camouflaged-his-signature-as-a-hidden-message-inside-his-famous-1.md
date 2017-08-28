@@ -11,4 +11,4 @@ Jackson Pollock hid his signature inside one of his most important and valuable 
 
 ### Related:
 
-1. [ Jackson Pollock-s "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollock-s-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md) _Context: Jackson Pollock_
+1. [ Jackson Pollock's "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollockas-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md) _Context: Jackson Pollock_

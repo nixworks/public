@@ -12,5 +12,4 @@ Creditors of Queensland Nickel — including 800 sacked workers — vote to liqu
 ### Related:
 
 1. [Two weeks after his initial announcement, Bob Day, leader of the Family First Party, confirms his immediate resignation from the Australian Senate due to the liquidation of his business. ](/news/2016/11/1/two-weeks-after-his-initial-announcement-bob-day-leader-of-the-family-first-party-confirms-his-immediate-resignation-from-the-australian.md) _Context: liquidation_
-2. [Liquidation of Irish Bank Resolution Corporation (IBRC):: Plans to liquidate IBRC, formerly Anglo and regarded as "the world's worst bank", are abruptly announced and get underway in dramatic circumstances. ](/news/2013/02/6/liquidation-of-irish-bank-resolution-corporation-ibrc-plans-to-liquidate-ibrc-formerly-anglo-and-regarded-as-the-world-s-worst-bank.md) _Context: liquidation_
-3. [ The Peanut Corporation of America files for Chapter 7 bankruptcy and liquidation. ](/news/2009/02/13/the-peanut-corporation-of-america-files-for-chapter-7-bankruptcy-and-liquidation.md) _Context: liquidation_
+2. [ The Peanut Corporation of America files for Chapter 7 bankruptcy and liquidation. ](/news/2009/02/13/the-peanut-corporation-of-america-files-for-chapter-7-bankruptcy-and-liquidation.md) _Context: liquidation_

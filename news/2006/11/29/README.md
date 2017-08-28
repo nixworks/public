@@ -19,7 +19,7 @@ _Context: George W. Bush administration, Hurricane Katrina, Richard Leon, U.S. f
 _Context: 11 March, 2004 Madrid attacks, Brandon Mayfield, FBI_
 
 ### [ Al-Qaida in Iraq condemns Pope Benedict XVI's visit to Turkey as being part of a "Crusader campaign" against Islam. Vatican officials respond by saying that the comments illustrate the need for religions to fight "violence in the name of God". ](/news/2006/11/29/al-qaida-in-iraq-condemns-pope-benedict-xvi-s-visit-to-turkey-as-being-part-of-a-crusader-campaign-against-islam-vatican-officials-respo.md)
-_Context: Al-Qaida in Iraq, Crusader, God, Holy See, Islam, Pope Benedict XVI, Turkey_
+_Context: Al-Qaida in Iraq, Crusader, God, Holy See, Muslims, Pope Benedict XVI, Turkey_
 
 ### [ Former Prime Minister of Russia Yegor Gaidar is recovering in hospital in Moscow from a mystery illness contracted in Ireland prompting speculation of a connection with the poisoning of Alexander Litvinenko. ](/news/2006/11/29/former-prime-minister-of-russia-yegor-gaidar-is-recovering-in-hospital-in-moscow-from-a-mystery-illness-contracted-in-ireland-prompting-spe.md)
 _Context: Alexander Litvinenko, Ireland, Moscow, Prime Minister of Russia, Yegor Gaidar_

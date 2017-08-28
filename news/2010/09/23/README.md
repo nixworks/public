@@ -1,6 +1,6 @@
 ## [2010-09-23](/news/2010/09/23/index.md)
 
-### [War in Somalia:: Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/war-in-somalia-somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md)
+### [Somali journalists walk out of the GBC radio station seized by Islamist rebels after refusing to take orders. ](/news/2010/09/23/somali-journalists-walk-out-of-the-gbc-radio-station-seized-by-islamist-rebels-after-refusing-to-take-orders.md)
 Somali journalists refuse to obey the editorial orders of an Islamist group which seized their radio station, amid heavy fighting in the capital, Mogadishu.
 
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)

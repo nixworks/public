@@ -1,6 +1,6 @@
 ## [2013-03-17](/news/2013/03/17/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/iraqi-insurgency-post-u-s-withdrawal-a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-peop.md)
+### [A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.md)
 Ten people are killed as a car bomb explodes at a bus station near Basra in southern Iraq, days before the 10th anniversary of the US-led invasion.
 
 ### [Japanese architect Toyo Ito wins the 2013 Pritzker Architecture Prize. ](/news/2013/03/17/japanese-architect-toyo-ito-wins-the-2013-pritzker-architecture-prize.md)

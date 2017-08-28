@@ -1,12 +1,12 @@
 ## [2013-12-26](/news/2013/12/26/index.md)
 
-### [Central African Republic conflict under the Djotodia administration:: Six peacekeepers from Chad are killed in clashes in the Central African Republic. ](/news/2013/12/26/central-african-republic-conflict-under-the-djotodia-administration-six-peacekeepers-from-chad-are-killed-in-clashes-in-the-central-africa.md)
+### [Six peacekeepers from Chad are killed in clashes in the Central African Republic. ](/news/2013/12/26/six-peacekeepers-from-chad-are-killed-in-clashes-in-the-central-african-republic.md)
 Dozens of people are killed, including six peacekeepers from Chad, in the latest violence in the Central African Republic, officials say.
 
-### [Syrian Civil War:: Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-civil-war-syrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-f.md)
+### [Syrian government forces and rebel fighters in a besieged Damascus suburb agree to a 48-hour truce that could result in food being allowed in for residents threatened with starvation. ](/news/2013/12/26/syrian-government-forces-and-rebel-fighters-in-a-besieged-damascus-suburb-agree-to-a-48-hour-truce-that-could-result-in-food-being-allowed-i.md)
 Syrian government forces and rebel fighters in a besieged Damascus suburb have agreed to a 48-hour truce that could result in food being allowed in for residents threatened with starvation, activists said on Thursday.
 
-### [Israeli-Palestinian conflict:: The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/israeli-palestinian-conflict-the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-fro.md)
+### [The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-from-gaza-at-the-eshkol-region-in-so.md)
 One Palestinian reported injured in apparent retaliation for Kassam strike; Netanyahu says Hamas to blame for escalation
 
 ### [Shipping companies United Parcel Service and FedEx apologize for late Christmas package deliveries in the United States, citing high volumes of packages. ](/news/2013/12/26/shipping-companies-united-parcel-service-and-fedex-apologize-for-late-christmas-package-deliveries-in-the-united-states-citing-high-volumes.md)

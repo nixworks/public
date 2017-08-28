@@ -1,9 +1,9 @@
 ## [2012-03-16](/news/2012/03/16/index.md)
 
-### [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011-2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md)
+### [2011-2012 Syrian uprising: Protests referred to by activists as "The Friday for International Military Intervention" spread from the northern city of Aleppo to the central regions of Hama and Homs, and southern province of Daraa. ](/news/2012/03/16/2011a2012-syrian-uprising-protests-referred-to-by-activists-as-the-friday-for-international-military-intervention-spread-from-the-north.md)
 Activists call for foreign intervention as UN-Arab League envoy Kofi Annan prepares to address Security Council.
 
-### [Afghanistan:: At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/afghanistan-at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-th.md)
+### [At least ten people, including a woman and two children, are killed after a Turkish NATO helicopter crashes into a house on the outskirts of the Afghan capital Kabul. ](/news/2012/03/16/at-least-ten-people-including-a-woman-and-two-children-are-killed-after-a-turkish-nato-helicopter-crashes-into-a-house-on-the-outskirts-of.md)
 FOURTEEN people, including two children, are dead after a NATO helicopter crashed into a house and burst into flames on the outskirts of Kabul, officials said.
 
 ### [American actor George Clooney is arrested at a protest outside the Embassy of Sudan in Washington, D.C. together with Nick Clooney, Martin Luther King III, NAACP President Ben Jealous and several congressmen. ](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.md)
@@ -15,7 +15,7 @@ Sports wear company Nike has apologised for a controversy that arose over the na
 ### [Dr. Rowan Williams announces his intention to retire as Archbishop of Canterbury at the end of the year. Having headed the Anglican Church since 2003, he will subsequently take up the role as Master of Magdalene College, Cambridge. ](/news/2012/03/16/dr-rowan-williams-announces-his-intention-to-retire-as-archbishop-of-canterbury-at-the-end-of-the-year-having-headed-the-anglican-church-s.md)
 The Archbishop of Canterbury, Dr Rowan Williams, announces he is to stand down in December and will take up a post at Cambridge University.
 
-### [The Commission of Inquiry into the 2010-11 Queensland floods hands down its report with engineers at the Wivenhoe Dam outside Brisbane to be referred to the Crime and Misconduct Commission. ](/news/2012/03/16/the-commission-of-inquiry-into-the-2010-11-queensland-floods-hands-down-its-report-with-engineers-at-the-wivenhoe-dam-outside-brisbane-to.md)
+### [The Commission of Inquiry into the 2010-11 Queensland floods hands down its report with engineers at the Wivenhoe Dam outside Brisbane to be referred to the Crime and Misconduct Commission. ](/news/2012/03/16/the-commission-of-inquiry-into-the-2010a11-queensland-floods-hands-down-its-report-with-engineers-at-the-wivenhoe-dam-outside-brisbane-to.md)
 Queensland&#039;s floods inquiry has handed down its long-awaited report into last year&#039;s devastating floods.
 
 ### [A tropical cyclone warning is issued for Western Australia's Pilbara and Kimberly regions as Cyclone Lua approaches at Category 3 strength. ](/news/2012/03/16/a-tropical-cyclone-warning-is-issued-for-western-australia-s-pilbara-and-kimberly-regions-as-cyclone-lua-approaches-at-category-3-strength.md)

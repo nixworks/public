@@ -1,6 +1,6 @@
 ### [2016-12-9](/news/2016/12/9/index.md)
 
-# Opposition leader  Nana Akufo-Addo wins the presidency. 
+# Opposition leader Nana Akufo-Addo wins the presidency. 
 
 Civil society urges election commission to quickly release results, as ruling party rejects opposition victory claims.
 

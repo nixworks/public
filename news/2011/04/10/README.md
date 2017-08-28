@@ -3,8 +3,8 @@
 ### [United Nations and French forces open fire on the residence of the President of Cte d'Ivoire Laurent Gbagbo in response to recent attacks. ](/news/2011/04/10/united-nations-and-french-forces-open-fire-on-the-residence-of-the-president-of-cote-d-ivoire-laurent-gbagbo-in-response-to-recent-attacks.md)
 _Context: Cte d'Ivoire, French Army, Laurent Gbagbo, President, United Nations_
 
-### [2011 Syrian protests: Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. ](/news/2011/04/10/2011-syrian-protests-eyewitnesses-claim-that-syrian-security-forces-killed-four-protesters-in-the-coastal-city-of-banias.md)
-_Context: Banias, Syria, Syrian uprising_
+### [Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. ](/news/2011/04/10/eyewitnesses-claim-that-syrian-security-forces-killed-four-protesters-in-the-coastal-city-of-banias.md)
+_Context: Banias, Syria, protestors_
 
 ### [An African Union mission arrives in Libya to negotiate a settlement in the 2011 Libyan civil war between Muammar Gaddafi and his opponents. ](/news/2011/04/10/an-african-union-mission-arrives-in-libya-to-negotiate-a-settlement-in-the-2011-libyan-civil-war-between-muammar-gaddafi-and-his-opponents.md)
 Libya accepts an African Union peace proposal, which will now be put to rebel leaders in Benghazi, says South African President Jacob Zuma.

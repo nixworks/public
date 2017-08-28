@@ -6,7 +6,7 @@ _Context: Barack Obama, Jewish American Heritage Month, President, United States
 ### [ Pope Benedict XVI advocates the creation of a Palestinian state. ](/news/2009/05/13/pope-benedict-xvi-advocates-the-creation-of-a-palestinian-state.md)
 _Context: Palestinian, Palestinian state, Pope, Pope Benedict XVI, resume negotiations_
 
-### [ The European Commission fines Intel Corporation -1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-1-06-billion-for-anti-competitive-practices.md)
+### [ The European Commission fines Intel Corporation EUR1.06 billion for anti-competitive practices. ](/news/2009/05/13/the-european-commission-fines-intel-corporation-a-1-06-billion-for-anti-competitive-practices.md)
 _Context: EUR, European Commission, Intel Corporation, anti-competitive practices, fine_
 
 ### [ The United Nations reports that Somalia is experiencing its worst drought since the 1990s. ](/news/2009/05/13/the-united-nations-reports-that-somalia-is-experiencing-its-worst-drought-since-the-1990s.md)

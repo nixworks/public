@@ -1,6 +1,6 @@
 ## [2013-06-15](/news/2013/06/15/index.md)
 
-### [2011-present Libyan factional fighting:: Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/2011-present-libyan-factional-fighting-clashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six.md)
+### [Clashes between Libyan army forces and armed protesters in the city of Benghazi kill at least six soldiers. ](/news/2013/06/15/clashes-between-libyan-army-forces-and-armed-protesters-in-the-city-of-benghazi-kill-at-least-six-soldiers.md)
 Six soldiers from an elite Libyan army unit are killed by masked gunmen in the restive eastern city of Benghazi.
 
 ### [A bomb explodes on a bus in the Pakistani city of Quetta, killing at least 11 people and wounding 22 others. ](/news/2013/06/15/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-quetta-killing-at-least-11-people-and-wounding-22-others.md)

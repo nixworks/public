@@ -3,7 +3,7 @@
 ### [A series of attacks across Iraq leave at least 60 killed and more than 200 injured. ](/news/2012/02/23/a-series-of-attacks-across-iraq-leave-at-least-60-killed-and-more-than-200-injured.md)
 Suspected al Qaeda militants unleashed a wave of terror across Baghdad and 11 other Iraqi cities on Thursday, killing at least 60 people in a series of attacks on government buildings, security targets, restaurants and a primary school.
 
-### [Afghanistan:: The Taliban urges Afghans to target foreign bases and kill westerners in response to burnings of the Koran at a US base as a third day of violent protests occurs, with six people having been shot dead so far. ](/news/2012/02/23/afghanistan-the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-t.md)
+### [The Taliban urges Afghans to target foreign bases and kill westerners in response to burnings of the Koran at a US base as a third day of violent protests occurs, with six people having been shot dead so far. ](/news/2012/02/23/the-taliban-urges-afghans-to-target-foreign-bases-and-kill-westerners-in-response-to-burnings-of-the-koran-at-a-us-base-as-a-third-day-of-vi.md)
 _Context: Afghan, Koran, Taliban_
 
 ### [The bombardment of Homs continues for the 20th successive day, with water and food supplies quickly dwindling for residents. ](/news/2012/02/23/the-bombardment-of-homs-continues-for-the-20th-successive-day-with-water-and-food-supplies-quickly-dwindling-for-residents.md)

@@ -1,6 +1,6 @@
 ### [2015-09-17](/news/2015/09/17/index.md)
 
-# The death toll rises to five in the Butte and Valley Fires. Most bodies have been found in mandatory evacuation areas. The Calaveras County Sheriff's Office says the majority of missing  persons have been located at shelters or evacuation centers. 
+# The death toll rises to five in the Butte and Valley Fires. Most bodies have been found in mandatory evacuation areas. The Calaveras County Sheriff's Office says the majority of missing persons have been located at shelters or evacuation centers. 
 
 One was a music composer and teacher. Another was a former newspaper reporter who still listened to his police scanners. One was a retired teacher with multiple sclerosis, but still vibrant. Another, a ham radio enthusiast and San Francisco Giants fan who recently posted he was fighting off gophers in his vegetable garden.
 

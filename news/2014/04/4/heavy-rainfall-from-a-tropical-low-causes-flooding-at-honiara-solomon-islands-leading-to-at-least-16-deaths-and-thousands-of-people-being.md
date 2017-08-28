@@ -12,7 +12,7 @@ Government officials have said the death toll from severe flooding in the Solomo
 
 ### Related:
 
-1. [RAMSI: A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/ramsi-a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _Context: Honiara, Solomon Islands_
+1. [A farewell ceremony in Honiara ends the 14 year RAMSI mission in the Solomon Islands. ](/news/2017/06/29/a-farewell-ceremony-in-honiara-ends-the-14-year-ramsi-mission-in-the-solomon-islands.md) _Context: Honiara, Solomon Islands_
 2. [A 7.7 magnitude earthquake strikes 204 miles southeast of Honiara, Solomon Islands with no reported casualties or damage. ](/news/2014/04/13/a-7-7-magnitude-earthquake-strikes-204-miles-southeast-of-honiara-solomon-islands-with-no-reported-casualties-or-damage.md) _Context: Honiara, Solomon Islands_
 3. [ A report commissioned by the Solomon Islands Government is critical of the handling of last year's Honiara riots by the Regional Assistance Mission to the Solomon Islands (RAMSI). ](/news/2007/07/19/a-report-commissioned-by-the-solomon-islands-government-is-critical-of-the-handling-of-last-year-s-honiara-riots-by-the-regional-assistance.md) _Context: Honiara, Solomon Islands_
 4. [ Solomon Islands police and members of the Regional Assistance Mission to the Solomon Islands (RAMSI) raid the office of Prime Minister Manasseh Sogavare in Honiara. ](/news/2006/10/20/solomon-islands-police-and-members-of-the-regional-assistance-mission-to-the-solomon-islands-ramsi-raid-the-office-of-prime-minister-mana.md) _Context: Honiara, Solomon Islands_

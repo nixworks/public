@@ -1,9 +1,9 @@
 ## [2014-07-11](/news/2014/07/11/index.md)
 
-### [2014 pro-Russian unrest in Ukraine: Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurg.md)
+### [Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.md)
 Ukrainian President Petro Poroshenko vowed to &quot;find and destroy&quot; pro-Russian rebels who killed 23 servicemen and wounded nearly 100 in a missile attack on Friday.
 
-### [Iraqi insurgency (post-U.S. withdrawal): Kurdish MPs withdraw from the central government following a dispute with the Prime Minister Nouri al-Maliki with Kurdish forces taking over control of two northern oil fields at Bai Hassan and Kirkuk. ](/news/2014/07/11/iraqi-insurgency-post-u-s-withdrawal-kurdish-mps-withdraw-from-the-central-government-following-a-dispute-with-the-prime-minister-nouri.md)
+### [Kurdish MPs withdraw from the central government following a dispute with the Prime Minister Nouri al-Maliki with Kurdish forces taking over control of two northern oil fields at Bai Hassan and Kirkuk. ](/news/2014/07/11/kurdish-mps-withdraw-from-the-central-government-following-a-dispute-with-the-prime-minister-nouri-al-maliki-with-kurdish-forces-taking-over.md)
 Iraqi Kurdish forces have taken over two oilfields amid a growing dispute with the government in Baghdad, Iraqi and Kurdish sources say.
 
 ### [The aid group Save the Children warns that a cholera outbreak in South Sudan, which has so far killed 60 people, threatens thousands of lives. ](/news/2014/07/11/the-aid-group-save-the-children-warns-that-a-cholera-outbreak-in-south-sudan-which-has-so-far-killed-60-people-threatens-thousands-of-live.md)

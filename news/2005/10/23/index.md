@@ -1,6 +1,6 @@
 ## [2005-10-23](/news/2005/10/23/index.md)
 
-### [ Avian influenza:: The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/avian-influenza-the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined.md)
+### [ The Swedish National Veterinary Institute reports a dead duck discovered near Stockholm was infected with an undetermined strain of avian influenza. ](/news/2005/10/23/the-swedish-national-veterinary-institute-reports-a-dead-duck-discovered-near-stockholm-was-infected-with-an-undetermined-strain-of-avian-i.md)
 _Context: Avian flu virus, Stockholm, Swedish National Veterinary Institute, duck_
 
 ### [ Nigerian airline Bellview Airlines Flight 210 crashed in Oyo State, Nigeria shortly after take-off from Lagos en route to Abuja. The Red Cross reports there are no survivors. ](/news/2005/10/23/nigerian-airline-bellview-airlines-flight-210-crashed-in-oyo-state-nigeria-shortly-after-take-off-from-lagos-en-route-to-abuja-the-red-cr.md)

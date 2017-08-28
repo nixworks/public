@@ -6,7 +6,7 @@ The Chinese government confirmed the test, but said it had no intention of parti
 ### [ Liberal MP Jean Lapierre resigns from the Canadian House of Commons. Justin Trudeau is likely to be the Liberals' candidate in the next election in the Outremont riding. ](/news/2007/01/11/liberal-mp-jean-lapierre-resigns-from-the-canadian-house-of-commons-justin-trudeau-is-likely-to-be-the-liberals-candidate-in-the-next-ele.md)
 _Context: Canada, Canadian House of Commons, Jean Lapierre, Justin Trudeau, Liberal Party's, Outremont riding_
 
-### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006-2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
+### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006a2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
 _Context: Bangladesh, Iajuddin Ahmed, curfew, current political crisis, state of emergency_
 
 ### [ Austria's new government is sworn in under Chancellor Alfred Gusenbauer (SPO) and Vice-Chancellor Wilhelm Molterer (OVP). ](/news/2007/01/11/austria-s-new-government-is-sworn-in-under-chancellor-alfred-gusenbauer-spa-and-vice-chancellor-wilhelm-molterer-avp.md)

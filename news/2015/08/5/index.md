@@ -1,12 +1,12 @@
 ## [2015-08-5](/news/2015/08/5/index.md)
 
-### [2015 Pacific typhoon season: Typhoon Soudelor (Hanna) strengthens to the strongest storm of 2015; it is expected to be equivalent to a Category 3 or Category 4 hurricane when it hits Taiwan. ](/news/2015/08/5/2015-pacific-typhoon-season-typhoon-soudelor-hanna-strengthens-to-the-strongest-storm-of-2015-it-is-expected-to-be-equivalent-to-a-categ.md)
+### [Typhoon Soudelor (Hanna) strengthens to the strongest storm of 2015; it is expected to be equivalent to a Category 3 or Category 4 hurricane when it hits Taiwan. ](/news/2015/08/5/typhoon-soudelor-hanna-strengthens-to-the-strongest-storm-of-2015-it-is-expected-to-be-equivalent-to-a-category-3-or-category-4-hurricane.md)
 Japan, Taiwan and China are preparing for the world’s most powerful storm of the year.
 
-### [Malaysian Airlines Flight 370:: Malaysian Prime Minister Najib Razak confirms that the plane debris recovered from Reunion Island on July 29 is from Flight 370. This is the first direct evidence that the missing March 2014 flight crashed. Australian Prime Minister Tony Abbott says that the search for MH370 will continue. ](/news/2015/08/5/malaysian-airlines-flight-370-malaysian-prime-minister-najib-razak-confirms-that-the-plane-debris-recovered-from-reunion-island-on-july-29.md)
+### [Malaysian Prime Minister Najib Razak confirms that the plane debris recovered from Reunion Island on July 29 is from Flight 370. This is the first direct evidence that the missing March 2014 flight crashed. Australian Prime Minister Tony Abbott says that the search for MH370 will continue. ](/news/2015/08/5/malaysian-prime-minister-najib-razak-confirms-that-the-plane-debris-recovered-from-reunion-island-on-july-29-is-from-flight-370-this-is-the.md)
 An aircraft part found on Reunion Island was from missing Flight MH370, says Malaysia PM Najib Razak, though investigators stopped short of full confirmation.
 
-### [The Italian Corps of the Port Captaincies - Coast Guard and Irish Navy rescue 367 people as a boat carrying migrants founders off the coast of Libya with 25 people dying. ](/news/2015/08/5/the-italian-corps-of-the-port-captaincies-coast-guard-and-irish-navy-rescue-367-people-as-a-boat-carrying-migrants-founders-off-the-coas.md)
+### [The Italian Corps of the Port Captaincies - Coast Guard and Irish Navy rescue 367 people as a boat carrying migrants founders off the coast of Libya with 25 people dying. ](/news/2015/08/5/the-italian-corps-of-the-port-captaincies-a-coast-guard-and-irish-navy-rescue-367-people-as-a-boat-carrying-migrants-founders-off-the-coas.md)
 _Context: Irish Navy, Italian Coast Guard, Libya_
 
 ### [The Gold King Mine waste water spill releases 3 million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado. ](/news/2015/08/5/the-gold-king-mine-waste-water-spill-releases-3-million-gallons-of-heavy-metal-toxin-tailings-and-waste-water-into-the-animas-river-in-color.md)

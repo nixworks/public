@@ -14,7 +14,7 @@ A Christmas goat made of straw has been burned down by vandals in a Swedish city
 
 ### Related:
 
-1. [ Islamic State of Iraq and the Levant:: Syria-s President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/islamic-state-of-iraq-and-the-levant-syria-s-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _Context: Scandinavians_
+1. [Syria's President Bashar al-Assad says that the "most dangerous" leaders of ISIS are Scandinavians. ](/news/2015/04/17/syriaas-president-bashar-al-assad-says-that-the-most-dangerous-leaders-of-isis-are-scandinavians.md) _Context: Scandinavians_
 2. [Heavy snow hits Scandinavia disrupting transport in Norway, Sweden and Denmark. ](/news/2012/12/16/heavy-snow-hits-scandinavia-disrupting-transport-in-norway-sweden-and-denmark.md) _Context: Scandinavians_
 3. [Tens of thousands of people are left without power after one of the biggest storms for 30 years hits Scandinavia. ](/news/2011/12/26/tens-of-thousands-of-people-are-left-without-power-after-one-of-the-biggest-storms-for-30-years-hits-scandinavia.md) _Context: Scandinavians_
 4. [ NASDAQ agrees to buy OMX AB which runs several stock exchanges in Scandinavia and the Baltic States for 25.1 billion Swedish kronor (USD$3.7 billion). ](/news/2007/05/25/nasdaq-agrees-to-buy-omx-ab-which-runs-several-stock-exchanges-in-scandinavia-and-the-baltic-states-for-25-1-billion-swedish-kronor-usd-3.md) _Context: Scandinavians_

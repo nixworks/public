@@ -1,9 +1,9 @@
 ## [2015-03-18](/news/2015/03/18/index.md)
 
-### [Bardo National Museum attack: Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/bardo-national-museum-attack-gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-includi.md)
+### [Gunmen attack Tunisia's Bardo National Museum, adjacent to the parliament building, killing 23 people, including 18 foreign tourists. ](/news/2015/03/18/gunmen-attack-tunisia-s-bardo-national-museum-adjacent-to-the-parliament-building-killing-23-people-including-18-foreign-tourists.md)
 Tourists from Poland and France among those killed, as Tunisian PM says one of gunmen was known to intelligence services before the attack
 
-### [2014-15 Australian region cyclone season: Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/2014-15-australian-region-cyclone-season-cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-t.md)
+### [Cyclone Nathan intensifies to a category 2 tropical cyclone (Australian scale) and is expected to make landfall near the Queensland town of Cooktown on March 19. ](/news/2015/03/18/cyclone-nathan-intensifies-to-a-category-2-tropical-cyclone-australian-scale-and-is-expected-to-make-landfall-near-the-queensland-town-of.md)
 _Context: 2014-15 Australian region cyclone season, Cooktown, Queensland, tropical cyclone_
 
 ### [The United States Department of Defense authorizes the U.S. Army to destroy a large U.S. stockpile of chemical weapons. ](/news/2015/03/18/the-united-states-department-of-defense-authorizes-the-u-s-army-to-destroy-a-large-u-s-stockpile-of-chemical-weapons.md)

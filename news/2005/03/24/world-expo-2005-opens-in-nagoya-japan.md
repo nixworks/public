@@ -14,5 +14,5 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 
 ### Related:
 
-1. [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyo-nagoya-from-2027.md) _Context: Nagoya_
+1. [A rail operator JR Tokai unveil a prototype of high-speed maglev L0 train, which it plans to operate on a route Tokyo-Nagoya from 2027. ](/news/2012/11/23/a-rail-operator-jr-tokai-unveil-a-prototype-of-high-speed-maglev-l0-train-which-it-plans-to-operate-on-a-route-tokyoanagoya-from-2027.md) _Context: Nagoya_
 2. [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-third.md) _Context: Nagoya_

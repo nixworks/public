@@ -1,13 +1,13 @@
 ## [2015-02-10](/news/2015/02/10/index.md)
 
-### [War in Donbass: Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/war-in-donbass-fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramators.md)
+### [Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramatorsk.md)
 _Context: Kramatorsk, Ukraine, War in Donbass_
 
 ### [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md)
 Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot; a top White House official on Tuesday announced a new intelligence unit to coordinate analysis of cyberthreats, modeled on similar U.S. government efforts to fight terrorism.
 
-### [Islamic State of Iraq and the Levant: The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/islamic-state-of-iraq-and-the-levant-the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: Islamic State of Iraq and the Levant, Kayla Mueller, United States_
+### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
+_Context: ISIL, Kayla Mueller, United States_
 
 ### ["NBC Nightly News" suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-personal.md)
 _Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_

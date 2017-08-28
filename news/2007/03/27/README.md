@@ -12,7 +12,7 @@ _Context: Dominican Republic, Haiti, Hispaniola, flood, rain_
 ### [ A 12-km stretch of the Rhine River near Cologne, Germany is closed to shipping following the loss of 31 containers from a container ship with 200 ships backed up. ](/news/2007/03/27/a-12-km-stretch-of-the-rhine-river-near-cologne-germany-is-closed-to-shipping-following-the-loss-of-31-containers-from-a-container-ship-wi.md)
 _Context: Cologne, Germany, Rhine River, container ship, ship_
 
-### [ Iraq War:: Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/iraq-war-suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md)
+### [ Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. ](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-and-injure-120-in-tal-afar.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 ### [ United States District Court Judge Thomas Hogan dismisses a case of alleged torture against former United States Secretary of Defense Donald Rumsfeld brought by nine former prisoners in Iraq and Afghanistan. ](/news/2007/03/27/united-states-district-court-judge-thomas-hogan-dismisses-a-case-of-alleged-torture-against-former-united-states-secretary-of-defense-donal.md)

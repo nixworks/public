@@ -3,7 +3,7 @@
 ### [Eleven people are killed in clashes between the rival al-Shabaab and Ahlu Sunna Waljama'a groups in central Somalia. ](/news/2010/11/19/eleven-people-are-killed-in-clashes-between-the-rival-al-shabaab-and-ahlu-sunna-waljama-a-groups-in-central-somalia.md)
 _Context: Ahlu Sunna Waljama'a, Somalia, al Shabaab militia_
 
-### [A police officer dies in hospital after a suspected militant attack in Russia-s North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russia-s-north-caucasus-republic-of-dagestan.md)
+### [A police officer dies in hospital after a suspected militant attack in Russia's North Caucasus republic of Dagestan. ](/news/2010/11/19/a-police-officer-dies-in-hospital-after-a-suspected-militant-attack-in-russiaas-north-caucasus-republic-of-dagestan.md)
 _Context: Dagestan, North Caucasus, Russia_
 
 ### [A US drone attack kills at least three suspected militants and destroys their vehicle in the North Waziristan district of Pakistan. ](/news/2010/11/19/a-us-drone-attack-kills-at-least-three-suspected-militants-and-destroys-their-vehicle-in-the-north-waziristan-district-of-pakistan.md)
@@ -39,13 +39,13 @@ Paris says its foreign policy will not be dictated by others after al-Qaeda dema
 ### [India summons the Iranian charge d'affaires to protest against remarks by Supreme Leader Ayatollah Ali Khamenei regarding Kashmir. It also abstains on a vote on Iranian human rights for the first time. ](/news/2010/11/19/india-summons-the-iranian-charga-c-d-affaires-to-protest-against-remarks-by-supreme-leader-ayatollah-ali-khamenei-regarding-kashmir-it-also.md)
 Angry at the critical statements by Iranian supreme leader Ayatollah Ali Khamenei on Kashmir, India on Friday summoned the charge d&rsquo;affaires of the Iranian embassy on Friday to lodge a formal protest.
 
-### [NATO summit: NATO members meet in Lisbon, Portugal, to discuss progress in the War in Afghanistan and relations with Russia. ](/news/2010/11/19/nato-summit-nato-members-meet-in-lisbon-portugal-to-discuss-progress-in-the-war-in-afghanistan-and-relations-with-russia.md)
+### [NATO members meet in Lisbon, Portugal, to discuss progress in the War in Afghanistan and relations with Russia. ](/news/2010/11/19/nato-members-meet-in-lisbon-portugal-to-discuss-progress-in-the-war-in-afghanistan-and-relations-with-russia.md)
 Nato members meet in Lisbon for a crucial summit, with a timetable for handing security to Afghan forces topping the agenda.
 
-### [The UN General Assembly's human rights committee criticizes Iran for human rights abuses; Iranian diplomat Mohammad-Javad Larijani calls the UN censure a "politicization- of human rights. ](/news/2010/11/19/the-un-general-assembly-s-human-rights-committee-criticizes-iran-for-human-rights-abuses-iranian-diplomat-mohammad-javad-larijani-calls-the.md)
+### [The UN General Assembly's human rights committee criticizes Iran for human rights abuses; Iranian diplomat Mohammad-Javad Larijani calls the UN censure a "politicization" of human rights. ](/news/2010/11/19/the-un-general-assembly-s-human-rights-committee-criticizes-iran-for-human-rights-abuses-iranian-diplomat-mohammad-javad-larijani-calls-the.md)
 _Context: Human rights, Iran, Iranian human rights, Mohammad-Javad Larijani, UN, United Nations General Assembly_
 
-### [Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority-s requirement of Mandarin as the language of instruction in schools in Tibet. ](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.md)
+### [Tibetan spiritual leader, the Dalai Lama, says that cultural genocide is taking place in Tibet, particularly in light of the Chinese authority's requirement of Mandarin as the language of instruction in schools in Tibet. ](/news/2010/11/19/tibetan-spiritual-leader-the-dalai-lama-says-that-cultural-genocide-is-taking-place-in-tibet-particularly-in-light-of-the-chinese-authori.md)
 _Context: 14th Dalai Lama, Dalai Lama, Mandarin, Tibet, Tibet Autonomous Region, cultural genocide_
 
 ### [Demonstrators outside the Saudi embassy in Jakarta demand justice for migrant workers after a Saudi Arabian employer kills an Indonesian maid and another maid was severely beaten by her Saudi employer; the Indonesian Foreign Minister Marty Natalegawa summons the Saudi Arabian ambassador to protest. ](/news/2010/11/19/demonstrators-outside-the-saudi-embassy-in-jakarta-demand-justice-for-migrant-workers-after-a-saudi-arabian-employer-kills-an-indonesian-mai.md)

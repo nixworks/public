@@ -13,4 +13,4 @@ Cleveland police officer Michael Brelo was acquitted Saturday of manslaughter ch
 
 ### Related:
 
-1. [Shooting of Tamir Rice: A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/shooting-of-tamir-rice-a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timot.md) _Context: Cleveland Police Department_
+1. [A court in the American city of Cleveland, Ohio, finds probable cause that Cleveland Police Department officer Timothy Loehmann should face murder charges in relation to the shooting of Tamar Rice. ](/news/2015/06/11/a-court-in-the-american-city-of-cleveland-ohio-finds-probable-cause-that-cleveland-police-department-officer-timothy-loehmann-should-face.md) _Context: Cleveland Police Department_

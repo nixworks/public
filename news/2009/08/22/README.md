@@ -3,11 +3,11 @@
 ### [ Cardinal Sean Brady, Archbishop of Armagh and Primate of All Ireland, criticises Ireland's Civil Partnership Bill, which gives statutory partnership rights to same-sex couples. ](/news/2009/08/22/cardinal-sea-n-brady-archbishop-of-armagh-and-primate-of-all-ireland-criticises-ireland-s-civil-partnership-bill-which-gives-statutory-p.md)
 The legislation which gives statutory partnership rights to gay and lesbian couples has been criticised by Cardinal Sean Brady.
 
-### [ Argentina's Foreign Affairs Ministry -harshly condemns- the nomination of Ahmad Vahidi to serve as Iran's Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires. ](/news/2009/08/22/argentina-s-foreign-affairs-ministry-harshly-condemns-the-nomination-of-ahmad-vahidi-to-serve-as-iran-s-defence-minister-as-he-is-a-s.md)
+### [ Argentina's Foreign Affairs Ministry "harshly condemns" the nomination of Ahmad Vahidi to serve as Iran's Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires. ](/news/2009/08/22/argentina-s-foreign-affairs-ministry-aharshly-condemnsa-the-nomination-of-ahmad-vahidi-to-serve-as-iran-s-defence-minister-as-he-is-a-s.md)
 Argentina&#039;s Foreign Affairs Ministry &#147;harshly condemns&#148; the nomination of Ahmad Vahidi to serve as Iran&#039;s Defence Minister as he is a suspected international terrorist sought by Interpol in connection with the 1994 attack on AMIA Jewish community centre in Buenos Aires.
 
 ### [ Islamic insurgents attack a government checkpoint in Somalia's capital, Mogadishu, sparking a gunbattle that kills at least five people on the first day of Ramadan. ](/news/2009/08/22/islamic-insurgents-attack-a-government-checkpoint-in-somalia-s-capital-mogadishu-sparking-a-gunbattle-that-kills-at-least-five-people-on.md)
-_Context: Islam, Mogadishu, Ramadan, Somalia_
+_Context: Mogadishu, Muslims, Ramadan, Somalia_
 
 ### [ The militant group Movement for the Emancipation of the Niger Delta hands over hundreds of weapons to the Nigerian government as part of a weapons amnesty. ](/news/2009/08/22/the-militant-group-movement-for-the-emancipation-of-the-niger-delta-hands-over-hundreds-of-weapons-to-the-nigerian-government-as-part-of-a.md)
 _Context: Movement for the Emancipation of the Niger Delta, Nigeria_

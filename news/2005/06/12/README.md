@@ -2,8 +2,8 @@
 
 ### [ Steve Jobs, CEO of Apple Computer and of Pixar Animation Studios, deliveres a Commencement addresses in Stanford University. ](/news/2005/06/12/steve-jobs-ceo-of-apple-computer-and-of-pixar-animation-studios-deliveres-a-commencement-addresses-in-stanford-university.md)
 ### [ French journalist Florence Aubenas and her Iraqi interpreter Hussein Hanoun al-Saadi are freed after five months of captivity in Iraq. ](/news/2005/06/12/french-journalist-florence-aubenas-and-her-iraqi-interpreter-hussein-hanoun-al-saadi-are-freed-after-five-months-of-captivity-in-iraq.md)
-### [ Conflict in Iraq:: 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/conflict-in-iraq-28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md)
-_Context: Arab, Baghdad, Conflict in Iraq, Sunni_
+### [ 28 bodies, believed to mainly be Sunni Arabs, have been found in Baghdad sidestreets. ](/news/2005/06/12/28-bodies-believed-to-mainly-be-sunni-arabs-have-been-found-in-baghdad-sidestreets.md)
+_Context: Arab, Baghdad, Sunni_
 
 ### [ A series of Bombs strike the Iranian cities of Ahwaz and Tehran, leaving 8 people dead and dozens wounded. There has been no claim of responsibility. ](/news/2005/06/12/a-series-of-bombs-strike-the-iranian-cities-of-ahwaz-and-tehran-leaving-8-people-dead-and-dozens-wounded-there-has-been-no-claim-of-respo.md)
 _Context: Ahwaz, Iran, Tehran_

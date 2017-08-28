@@ -9,7 +9,7 @@ A small plane has crashed while carrying an aid team to the Chilean city of Conc
 ### [In response to the assassination of Mahmoud al-Mabhouh, Dubai's police chief states that travelers suspected of being Israeli will not be allowed into the United Arab Emirates even if they arrive with passports issued by other countries. ](/news/2010/03/1/in-response-to-the-assassination-of-mahmoud-al-mabhouh-dubai-s-police-chief-states-that-travelers-suspected-of-being-israeli-will-not-be-al.md)
 &quot;The whole world wants Israeli hi-tech, agricultural and medical products, and that includes in the UAE.&quot;
 
-### [Xynthia:: President of France Nicolas Sarkozy gives -3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/xynthia-president-of-france-nicolas-sarkozy-gives-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the.md)
+### [President of France Nicolas Sarkozy gives EUR3 million to areas devastated by France's worst storm for over a decade, calling the storm a "national disaster". ](/news/2010/03/1/president-of-france-nicolas-sarkozy-gives-a-3-million-to-areas-devastated-by-france-s-worst-storm-for-over-a-decade-calling-the-storm-a-n.md)
 The storms which battered France, leaving nearly 60 people dead, have been declared a &#034;national disaster&#034;, by Nicolas Sarkozy.
 
 ### [Floodwaters in Les Cayes and surrounding areas responsible for the deaths of 8 Haitians recede. ](/news/2010/03/1/floodwaters-in-les-cayes-and-surrounding-areas-responsible-for-the-deaths-of-8-haitians-recede.md)

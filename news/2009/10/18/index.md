@@ -33,7 +33,7 @@ _Context: China, Hubei_
 ### [ Scotland Yard investigates a complaint about an article by Jan Moir in the UK's "Daily Mail" tabloid concerning her views on the death of Boyzone singer Stephen Gately. ](/news/2009/10/18/scotland-yard-investigates-a-complaint-about-an-article-by-jan-moir-in-the-uk-s-daily-mail-tabloid-concerning-her-views-on-the-death-of-b.md)
 Scotland Yard has said that it has received a complaint about an article written by a newspaper columnist about the death of Stephen Gately.
 
-### [ 2009 Pishin bombing:: Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/2009-pishin-bombing-senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of.md)
+### [ Senior commanders of Iran's Revolutionary Guards are among 35 people killed in a suicide bombing in the southeast of the country. ](/news/2009/10/18/senior-commanders-of-iran-s-revolutionary-guards-are-among-35-people-killed-in-a-suicide-bombing-in-the-southeast-of-the-country.md)
 _Context: Iran, Iranian Revolutionary guards, bomb attack_
 
 ### [ Seven people are killed and 20 injured after gunmen open fire in a bar in Puerto Rico. ](/news/2009/10/18/seven-people-are-killed-and-20-injured-after-gunmen-open-fire-in-a-bar-in-puerto-rico.md)

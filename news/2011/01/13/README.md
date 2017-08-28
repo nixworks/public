@@ -1,6 +1,6 @@
 ## [2011-01-13](/news/2011/01/13/index.md)
 
-### [Protests in Tunisia:: At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/protests-in-tunisia-at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md)
+### [At least six people are killed in further clashes: three in Menzel Bourguiba, one in Bizerte and one in Tataouine. ](/news/2011/01/13/at-least-six-people-are-killed-in-further-clashes-three-in-menzel-bourguiba-one-in-bizerte-and-one-in-tataouine.md)
 In bid to placate protesters, Zine El Abidine Ben Ali vows to broaden political freedoms and allow freedom of speech.
 
 ### [Forces loyal to incumbent Ivory Coast President Laurent Gbagbo attack and burn United Nations vehicles. ](/news/2011/01/13/forces-loyal-to-incumbent-ivory-coast-president-laurent-gbagbo-attack-and-burn-united-nations-vehicles.md)
@@ -9,7 +9,7 @@ World body accuses security forces loyal to incumbent president of attacking its
 ### [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md)
 _Context: Britain, Indian Ocean, Somali pirates, Tanzania_
 
-### [Israeli-Lebanese conflict:: Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israeli-lebanese-conflict-israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-governm.md)
+### [Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-government.md)
 BEIRUT: The shepherd abducted by the Israeli Army was returned to Lebanon Thursday following intense lobbying from the United Nations Interim Force in Lebanon (UNIFIL) for his release.
 
 ### [Executives of the troubled U.S. book retailer Borders meet with publishers to appeal for financing. ](/news/2011/01/13/executives-of-the-troubled-u-s-book-retailer-borders-meet-with-publishers-to-appeal-for-financing.md)
@@ -24,13 +24,13 @@ _Context: China, GW, U.S., wind power_
 ### [The U.S. Environmental Protection Agency revokes a permit for a proposed coal mine in West Virginia which would have been one of America's largest citing "destructive and unsustainable mining practices that jeopardize the health of Appalachian communities and clean water". ](/news/2011/01/13/the-u-s-environmental-protection-agency-revokes-a-permit-for-a-proposed-coal-mine-in-west-virginia-which-would-have-been-one-of-america-s-l.md)
 _Context: U.S. Environmental Protection Agency, West Virginia, coal mine_
 
-### [Major credit rating agencies Standard & Poor-s and Moody-s warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-poor-s-and-moody-s-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md)
+### [Major credit rating agencies Standard & Poor's and Moody's warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-pooras-and-moodyas-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md)
 Moody’s and S.& P. warned the United States that it might ruin its triple-A credit rating if the national debt kept increasing.
 
-### [Floods in Rio de Janeiro, Brazil:: The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/floods-in-rio-de-janeiro-brazil-the-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md)
+### [The death toll continues to rise, with over 500 confirmed casualties.](/news/2011/01/13/the-death-toll-continues-to-rise-with-over-500-confirmed-casualties.md)
 More than 500 people have been confirmed dead in mudslides and floods near Rio de Janeiro this week, as officials classed it as the worst disaster in Brazil&#039;s history.
 
-### [Floods in Queensland, Australia:: Flood waters peak in Brisbane, Australia, missing historic levels but still threatening thousands of homes. ](/news/2011/01/13/floods-in-queensland-australia-flood-waters-peak-in-brisbane-australia-missing-historic-levels-but-still-threatening-thousands-of-homes.md)
+### [Flood waters peak in Brisbane, Australia, missing historic levels but still threatening thousands of homes. ](/news/2011/01/13/flood-waters-peak-in-brisbane-australia-missing-historic-levels-but-still-threatening-thousands-of-homes.md)
 Many Brisbane residents have taken the ongoing flood crisis in their stride, even though large parts of the city remain submerged and the death toll continues to rise.
 
 ### [More than one million people are affected by flooding in Sri Lanka, with 21 dead and 270,000 made homeless. ](/news/2011/01/13/more-than-one-million-people-are-affected-by-flooding-in-sri-lanka-with-21-dead-and-270-000-made-homeless.md)

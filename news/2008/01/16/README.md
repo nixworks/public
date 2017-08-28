@@ -9,10 +9,10 @@ _Context: Madagascar, Tahina spectabilis, palm_
 ### [ Three United States Army soldiers are killed and another two wounded by small arms fire in the northern Salahuddin province of Iraq. ](/news/2008/01/16/three-united-states-army-soldiers-are-killed-and-another-two-wounded-by-small-arms-fire-in-the-northern-salahuddin-province-of-iraq.md)
 _Context: Iraq, Salahuddin province, United States Army, small arms_
 
-### [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006-present-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md)
+### [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md)
 _Context: Ethiopian army, Mogadishu, two years of helping_
 
-### [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004-present-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md)
+### [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md)
 _Context: Afghanistan's, Islamic militants, Pakistan, Sararogha Fort raid, War in Pakistan (2004-present), military_
 
 ### [ Avigdor Lieberman, the Israeli Strategic Affairs Minister, resigns from the Cabinet of Prime Minister Ehud Olmert with 10 party colleagues resigning from the government as well. ](/news/2008/01/16/avigdor-lieberman-the-israeli-strategic-affairs-minister-resigns-from-the-cabinet-of-prime-minister-ehud-olmert-with-10-party-colleagues.md)

@@ -18,7 +18,7 @@ A fast-growing wildfire in the mountains of Southern California forced the evacu
 ### [Steam begins to rise at the Fukushima Daiichi Nuclear Power Plant with utility company Tepco saying that it is possibly because of rain and that the levels of radioactivity in the surrounding areas have remained unchanged. ](/news/2013/07/18/steam-begins-to-rise-at-the-fukushima-daiichi-nuclear-power-plant-with-utility-company-tepco-saying-that-it-is-possibly-because-of-rain-and.md)
 _Context: Fukushima Daiichi Nuclear Power Plant, Tokyo Electric Power Company_
 
-### [2012 Kunsthal Art theft:: Romanian investigators find the remains of paint, canvas and nails in the oven of a woman whose son is charged with stealing seven paintings by Picasso, Monet and Matisse from the Kunsthal gallery in October 2012. ](/news/2013/07/18/2012-kunsthal-art-theft-romanian-investigators-find-the-remains-of-paint-canvas-and-nails-in-the-oven-of-a-woman-whose-son-is-charged-wit.md)
+### [Romanian investigators find the remains of paint, canvas and nails in the oven of a woman whose son is charged with stealing seven paintings by Picasso, Monet and Matisse from the Kunsthal gallery in October 2012. ](/news/2013/07/18/romanian-investigators-find-the-remains-of-paint-canvas-and-nails-in-the-oven-of-a-woman-whose-son-is-charged-with-stealing-seven-paintings.md)
 _Context: Kunsthal, Matisse, Monet, Picasso, Romania_
 
 ### [New Zealand police decide not to proceed with manslaughter charges against the managers of the Pike River Mine over the deaths of 29 workers in the 2010 Pike River Mine disaster. ](/news/2013/07/18/new-zealand-police-decide-not-to-proceed-with-manslaughter-charges-against-the-managers-of-the-pike-river-mine-over-the-deaths-of-29-workers.md)

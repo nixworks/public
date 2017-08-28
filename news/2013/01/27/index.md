@@ -1,15 +1,15 @@
 ## [2013-01-27](/news/2013/01/27/index.md)
 
-### [War in Afghanistan (2001-present):: At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/war-in-afghanistan-2001-present-at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-d.md)
-_Context: Afghan police, Kandahar, War in Afghanistan (2001-present)_
+### [At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-day-with-eight-police-officers-killed-i.md)
+_Context: Afghan police, Kandahar_
 
-### [Syrian civil war:: Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/syrian-civil-war-reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
-_Context: Damascus, Darayya, Syria, Syrian Civil War_
+### [Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
+_Context: Damascus, Darayya, Syria_
 
-### [Northern Mali conflict (2012-present):: French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/northern-mali-conflict-2012-present-french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-i.md)
+### [French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-into-mali.md)
 French and Malian forces move on Timbuktu after recapturing other northern towns from rebels, as African states discuss sending more troops.
 
-### [2012-2013 Egyptian protests:: Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/2012-2013-egyptian-protests-seven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port.md)
+### [Seven more people are killed and 630 injured during the funerals for 33 people killed the day before in Port Said. ](/news/2013/01/27/seven-more-people-are-killed-and-630-injured-during-the-funerals-for-33-people-killed-the-day-before-in-port-said.md)
 At least seven people are killed and 630 others injured after violence breaks out at funeral procession in port city.
 
 ### [Kiss nightclub fire: A fire at a nightclub in the southern Brazilian city of Santa Maria kills at least 235 people and injures at least 169 people. ](/news/2013/01/27/kiss-nightclub-fire-a-fire-at-a-nightclub-in-the-southern-brazilian-city-of-santa-maria-kills-at-least-235-people-and-injures-at-least-169.md)

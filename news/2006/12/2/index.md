@@ -16,7 +16,7 @@ _Context: Philippines, Typhoon Durian_
 ### [ London police are examining whether the killers of Alexander Litvinenko also tried to poison Mario Scaramella, an Italian security expert who met the Russian exile on the day that he fell ill. ](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.md)
 News and opinion from The Times &amp; The Sunday Times
 
-### [ War in Chad (2005-present)/Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005-present-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md)
+### [ War in Chad (2005-present)/Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md)
 _Context: Chad, Darfur, Darfur conflict, Guereda, Sudan, War in Chad (2005-present)_
 
 ### [ Police and aid workers recover more than 100 bodies from Malakal in south Sudan resulting from fighting between former rebels and Government forces. ](/news/2006/12/2/police-and-aid-workers-recover-more-than-100-bodies-from-malakal-in-south-sudan-resulting-from-fighting-between-former-rebels-and-governmen.md)

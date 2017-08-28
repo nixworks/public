@@ -15,7 +15,7 @@ _Context: France, commuter, pension, public transport_
 ### [ Ccilia and Nicolas Sarkozy file for divorce. ](/news/2007/10/18/cecilia-and-nicolas-sarkozy-file-for-divorce.md)
 _Context: Ccilia, Nicolas Sarkozy_
 
-### [ Return of Benazir Bhutto:: Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/return-of-benazir-bhutto-former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-cro.md)
+### [ Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-crowd-of-a-million-expected-in.md)
 _Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister of Pakistan_
 
 ## [Previous Day...](/news/2007/10/17/index.md)

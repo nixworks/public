@@ -13,7 +13,7 @@ _Context: 4th quarter of 2007 and the second quarter of 2009, China, export_
 _Context: Britain, British police officers, Liberal Democrats, criminal records_
 
 ### [ At least 15 people are killed in a school shooting in Winnenden, Germany. ](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shooting-in-winnenden-germany.md)
-_Context: Germany, School shooting, Winnenden, killed_
+_Context: Germany, Winnenden, killed, school shooting_
 
 ### [ Former Iraqi Intelligence Service Director Ali Hassan al-Majid and former Deputy Prime Minister Tariq Aziz are sentenced to 15 years in jail for crimes against humanity. ](/news/2009/03/11/former-iraqi-intelligence-service-director-ali-hassan-al-majid-and-former-deputy-prime-minister-tariq-aziz-are-sentenced-to-15-years-in-jai.md)
 _Context: Ali Hassan al-Majid, Deputy Prime Minister, Intelligence Service, Iraq, Tariq Aziz, crimes against humanity_

@@ -1,6 +1,6 @@
 ### [2010-11-17](/news/2010/11/17/index.md)
 
-# Thirty-six minutes of the film ''Harry Potter and the Deathly Hallows - Part 1'' is leaked. 
+# Thirty-six minutes of the film "Harry Potter and the Deathly Hallows - Part 1" is leaked. 
 
 
 

@@ -36,14 +36,14 @@ _Context: Abdelaziz Bouteflika, Algiers, Mahmoud Ahmadinejad, President, Preside
 ### [Iranian human rights activist Shiva Nazar Ahari is convicted of gathering and plotting to commit crimes against the Iranian state, propaganda against the establishment and waging war against God. ](/news/2010/09/18/iranian-human-rights-activist-shiva-nazar-ahari-is-convicted-of-gathering-and-plotting-to-commit-crimes-against-the-iranian-state-propagand.md)
 Shiva Nazar Ahari sentenced to six years in prison for plotting crimes against state and waging war against God.
 
-### [Afghan parliamentary election, 2010:: Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/afghan-parliamentary-election-2010-voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-a.md)
+### [Voters in Afghanistan go to the polls braving threats from the Taliban with voter turnout calculated at 40 per cent. ](/news/2010/09/18/voters-in-afghanistan-go-to-the-polls-braving-threats-from-the-taliban-with-voter-turnout-calculated-at-40-per-cent.md)
 Afghan officials hail a parliamentary vote as a success despite low turnout, attacks that killed 14 people and widespread fraud.
 
 ### [Voters in Slovakia go to the polls to vote on a referendum to reduce the size of the National Council of the Slovak Republic and cut political perks amongst other things. ](/news/2010/09/18/voters-in-slovakia-go-to-the-polls-to-vote-on-a-referendum-to-reduce-the-size-of-the-national-council-of-the-slovak-republic-and-cut-politic.md)
 _Context: National Council of the Slovak Republic, Slovakia's, a referendum_
 
-### [Pope Benedict XVI's visit to the United Kingdom:: Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-s-visit-to-the-united-kingdom-pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-chur.md)
-_Context:  within the church, Pope Benedict XVI, Roman Catholic Church, visit of Pope Benedict XVI_
+### [Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-church-during-his-visit-to-britain.md)
+_Context:  within the church, Pope Benedict XVI, Roman Catholic Church_
 
 ### [A United Nations envoy arrives in Guinea to discuss the suspension of the presidential election. ](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.md)
 _Context: Guinea, November's presidential poll, United Nations_

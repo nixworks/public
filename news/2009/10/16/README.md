@@ -6,10 +6,10 @@ _Context: Botswana, general election_
 ### [ The United States records a budget deficit of $1.42 trillion. ](/news/2009/10/16/the-united-states-records-a-budget-deficit-of-1-42-trillion.md)
 _Context: United States, budget deficits_
 
-### [ Stephen Gately:: The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/stephen-gately-the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md)
+### [ The surviving members of Boyzone fly to Majorca to escort the body of Stephen Gately home to Dublin. ](/news/2009/10/16/the-surviving-members-of-boyzone-fly-to-majorca-to-escort-the-body-of-stephen-gately-home-to-dublin.md)
 Stephen Gately&#39;s body has arrived at the Church of St Laurence O&#39;Toole, accompanied by his family, partner Andrew Cowles and the other members of Boyzone.
 
-### [ Treaty of Lisbon:: Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/treaty-of-lisbon-czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-countr.md)
+### [ Czech Prime Minister Jan Fischer says President Vaclav Klaus's disruption of the Treaty of Lisbon is harming the country's credit. ](/news/2009/10/16/czech-prime-minister-jan-fischer-says-president-va-clav-klaus-s-disruption-of-the-treaty-of-lisbon-is-harming-the-country-s-credit.md)
 Czech President Vaclav Klaus may be the European Union’s bad boy now, but generally pro-E.U. Czechs have recently thrown their support behind him.
 
 ### [ A strong earthquake hits Indonesia, causing mass panic and evacuations in Jakarta. ](/news/2009/10/16/a-strong-earthquake-hits-indonesia-causing-mass-panic-and-evacuations-in-jakarta.md)
@@ -24,7 +24,7 @@ _Context: 2005 Sydney terrorism plot, Australia, Sydney_
 ### [ One part of Movement for the Emancipation of the Niger Delta (MEND) ends a three-month ceasefire and resumes attacks on the oil industry in Nigeria. ](/news/2009/10/16/one-part-of-movement-for-the-emancipation-of-the-niger-delta-mend-ends-a-three-month-ceasefire-and-resumes-attacks-on-the-oil-industry-in.md)
 _Context: Movement for the Emancipation of the Niger Delta, Nigeria_
 
-### [ Guinea: Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdo.md)
+### [ Guinea's civil service minister Alpha Diallo resigns after a massacre of opposition supporters, following agriculture minister Abdourahmane Sanoh who resigned days earlier. ](/news/2009/10/16/guinea-s-civil-service-minister-alpha-diallo-resigns-after-a-massacre-of-opposition-supporters-following-agriculture-minister-abdourahmane.md)
 _Context: Abdourahmane Sanoh, Alpha Diallo, Guinea, massacre of opposition protesters_
 
 ### [ Australian pop singer, songwriter, and actress Kylie Minogue makes her Hindi cinema debut in "Blue", thought to be the most expensive Bollywood production ever. ](/news/2009/10/16/australian-pop-singer-songwriter-and-actress-kylie-minogue-makes-her-hindi-cinema-debut-in-blue-thought-to-be-the-most-expensive-bolly.md)
@@ -36,7 +36,7 @@ _Context: Australia, Blue, Bollywood, Kylie Minogue, pop_
 ### [ In Berlin, the reconstructed Neues Museum officially reopens after 70 years. ](/news/2009/10/16/in-berlin-the-reconstructed-neues-museum-officially-reopens-after-70-years.md)
 _Context: Berlin, Neues Museum_
 
-### [ Zimbabwe:: The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/zimbabwe-the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained.md)
+### [ The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained-on-terrori.md)
 _Context: Movement for Democratic Change, Roy Bennett, Zimbabwe, ruling party, unity_
 
 ### [ North and South Korea fail to agree on further family reunions, after the North linked the prospect with humanitarian aid deliveries. ](/news/2009/10/16/north-and-south-korea-fail-to-agree-on-further-family-reunions-after-the-north-linked-the-prospect-with-humanitarian-aid-deliveries.md)

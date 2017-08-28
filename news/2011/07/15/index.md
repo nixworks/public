@@ -30,10 +30,10 @@ _Context: Royal Dutch Shell, floating liquefied natural gas_
 ### [BHP Billiton buys U.S. based petroleum company Petrohawk for $12 billion. ](/news/2011/07/15/bhp-billiton-buys-u-s-based-petroleum-company-petrohawk-for-12-billion.md)
 BHP Billiton has unveiled a $US12b friendly takeover of US gas producer Petrohawk Energy, marking the miner&#039;s biggest step into the booming shale-gas industry.
 
-### [News International phone hacking scandal:: Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/news-international-phone-hacking-scandal-rebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-internati.md)
+### [Rebekah Brooks resigns as chief executive of News International as a result of the News International phone hacking scandal. ](/news/2011/07/15/rebekah-brooks-resigns-as-chief-executive-of-news-international-as-a-result-of-the-news-international-phone-hacking-scandal.md)
 News&#x20;International&#x20;chief&#x20;Rebekah&#x20;Brooks&#x20;resigned&#x20;Friday&#x20;morning&#x20;amidst&#x20;the&#x20;ongoing&#x20;controversy&#x20;over&#x20;phone&#x20;hacking&#x20;and&#x20;allegations&#x20;of&#x20;police&#x20;bribery&#x20;at&#x20;former&#x20;British&#x20;tabloid&#x20;News&#...
 
-### [2011 Horn of Africa drought:: Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/2011-horn-of-africa-drought-drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md)
+### [Drought fleers located at camps in Mogadishu are struck down by days of killer rain. ](/news/2011/07/15/drought-fleers-located-at-camps-in-mogadishu-are-struck-down-by-days-of-killer-rain.md)
 People who have fled the drought in Somalia to camps near the capital Mogadishu are now being hit by days of cold, heavy rain.
 
 ### [Landslides in two remote Nepalese villages kill six people and injure another ten. ](/news/2011/07/15/landslides-in-two-remote-nepalese-villages-kill-six-people-and-injure-another-ten.md)
@@ -54,7 +54,7 @@ _Context: Hoogersmilde, Netherlands, Zendstation Smilde_
 ### [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md)
 _Context: Dail Eireann, Enda Kenny, Ireland, Joe Higgins, Socialist Party, Taoiseach, sexual abuse scandal in Cloyne diocese_
 
-### [2011 Libyan civil war:: The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/2011-libyan-civil-war-the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya.md)
+### [The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-crisis.md)
 The move gives the rebels access to $30 billion in frozen Libyan assets in the United States and increases pressure on Col. Muammar el-Qaddafi to resign.
 
 ### [U.S. president Barack Obama makes a phone call to the International Space Station (ISS) and jokes with astronauts about pizza. ](/news/2011/07/15/u-s-president-barack-obama-makes-a-phone-call-to-the-international-space-station-iss-and-jokes-with-astronauts-about-pizza.md)

@@ -1,15 +1,15 @@
 ## [2012-05-2](/news/2012/05/2/index.md)
 
-### [Arab Spring:: At least 20 people are killed in Cairo as unidentified attackers unleash rocks, clubs, firebombs and shotguns on a protest near the Egyptian Ministry of Defence. Police and the military intervene after six hours. ](/news/2012/05/2/arab-spring-at-least-20-people-are-killed-in-cairo-as-unidentified-attackers-unleash-rocks-clubs-firebombs-and-shotguns-on-a-protest-nea.md)
+### [At least 20 people are killed in Cairo as unidentified attackers unleash rocks, clubs, firebombs and shotguns on a protest near the Egyptian Ministry of Defence. Police and the military intervene after six hours. ](/news/2012/05/2/at-least-20-people-are-killed-in-cairo-as-unidentified-attackers-unleash-rocks-clubs-firebombs-and-shotguns-on-a-protest-near-the-egyptian.md)
 At least 20 people are killed in Cairo amid an attack on people protesting over the barring of a candidate from presidential polls.
 
-### [2012 South Sudan-Sudan border conflict: The United Nations Security Council passes a resolution threatening sanctions if hostilities do not end within 48 hours. ](/news/2012/05/2/2012-south-sudan-sudan-border-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sanctions-if-hostilities-do-no.md)
+### [2012 South Sudan-Sudan border conflict: The United Nations Security Council passes a resolution threatening sanctions if hostilities do not end within 48 hours. ](/news/2012/05/2/2012-south-sudanasudan-border-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sanctions-if-hostilities-do-no.md)
 Security Council passes resolution that gives Sudan and South Sudan just 48 hours to halt hostilities or face sanctions.
 
 ### [At least six people are killed in a suicide bombing attack on a Kabul suburb popular with westerners. ](/news/2012/05/2/at-least-six-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-suburb-popular-with-westerners.md)
 Suicide bombers attacked a compound housing Westerners in Kabul on Wednesday hours after U.S. President Barack Obama signed a security pact during a short visit to a city that remains vulnerable to a resilient insurgency.
 
-### [Mexican Drug War:: A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/mexican-drug-war-a-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-t.md)
+### [A gunfight between the Mexican Army and suspected gunmen of a drug cartel left 12 dead in the western state of Sinaloa, the homestate of Joaquin Guzman Loera, Mexico's most-wanted drug lord. ](/news/2012/05/2/a-gunfight-between-the-mexican-army-and-suspected-gunmen-of-a-drug-cartel-left-12-dead-in-the-western-state-of-sinaloa-the-homestate-of-joa.md)
 At least 12 people - including two soldiers - are killed in a gunfight between the Mexican army and suspected drug gang members in Sinaloa state.
 
 ### [Imprisoned journalist and blogger Eskinder Nega is awarded the PEN America's "Freedom to Write" annual prize for publishing articles critical of Ethiopia's human rights record. ](/news/2012/05/2/imprisoned-journalist-and-blogger-eskinder-nega-is-awarded-the-pen-america-s-freedom-to-write-annual-prize-for-publishing-articles-critica.md)
@@ -24,7 +24,7 @@ _Context: German, Germany, Mannheim, Microsoft, Motorola Mobility, Windows 7, Xb
 ### [The News Corporation board expresses its "full confidence" in Rupert Murdoch following a UK government media committee's conclusion yesterday that Murdoch is "not a fit person" to run a major international business. ](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.md)
 The News Corporation board says it has &quot;full confidence&quot; in Rupert Murdoch following a highly critical UK parliamentary committee report.
 
-### [Visit to China by Hillary Clinton:: United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/visit-to-china-by-hillary-clinton-united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-govern.md)
+### [United States Secretary of State Hillary Clinton arrives in Beijing for high-level talks with the government of China. She also contacts dissident Chen Guangcheng. ](/news/2012/05/2/united-states-secretary-of-state-hillary-clinton-arrives-in-beijing-for-high-level-talks-with-the-government-of-china-she-also-contacts-dis.md)
 Chinese dissident Chen Guangcheng leaves his refuge in the US embassy in Beijing and will stay in China, amid reports his family had been threatened.
 
 ### [Chinese Vice-Premier Li Keqiang travels to Budapest and holds talks with Hungarian Prime Minister Viktor Orban. ](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.md)

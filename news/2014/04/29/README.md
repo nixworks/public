@@ -1,18 +1,18 @@
 ## [2014-04-29](/news/2014/04/29/index.md)
 
-### [2014 pro-Russian unrest in Ukraine:: Pro-Russian militants in the eastern Ukrainian city of Luhansk seize the regional administration's headquarters, resulting in a tense standoff with the militants and security personnel. ](/news/2014/04/29/2014-pro-russian-unrest-in-ukraine-pro-russian-militants-in-the-eastern-ukrainian-city-of-luhansk-seize-the-regional-administration-s-head.md)
+### [Pro-Russian militants in the eastern Ukrainian city of Luhansk seize the regional administration's headquarters, resulting in a tense standoff with the militants and security personnel. ](/news/2014/04/29/pro-russian-militants-in-the-eastern-ukrainian-city-of-luhansk-seize-the-regional-administration-s-headquarters-resulting-in-a-tense-stando.md)
 Pro-Russia activists seize official buildings in the eastern Ukrainian city of Luhansk, as the US tells Russia to &quot;leave Ukraine in peace&quot;.
 
-### [Syrian Civil War:: At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/syrian-civil-war-at-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md)
+### [At least 37 people are killed and 85 others are injured in multiple explosions in the Syrian city of Homs. ](/news/2014/04/29/at-least-37-people-are-killed-and-85-others-are-injured-in-multiple-explosions-in-the-syrian-city-of-homs.md)
 At least 37 people are killed in explosions in the Syrian city of Homs, after at least 14 die in a mortar attack in Damascus, officials say.
 
 ### [The United States Senate Committee on Banking, Housing, and Urban Affairs approves three of President Barack Obama's nominees to the Federal Reserve, including the nomination of Stanley Fischer to be its vice chairman. ](/news/2014/04/29/the-united-states-senate-committee-on-banking-housing-and-urban-affairs-approves-three-of-president-barack-obama-s-nominees-to-the-federal.md)
 _Context: Barack Obama, Federal Reserve, Stanley Fischer, United States Senate Committee on Banking, Housing, and Urban Affairs_
 
-### [Korean maritime border incidents:: North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/korean-maritime-border-incidents-north-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md)
+### [North Korea warns South Korea that it will conduct live firing near the disputed maritime border. ](/news/2014/04/29/north-korea-warns-south-korea-that-it-will-conduct-live-firing-near-the-disputed-maritime-border.md)
 North Korea conducts a live-fire drill near the disputed maritime border but no shells enter South Korean territory, Seoul officials say.
 
-### [Sinking of the MV "Sewol":: Surveillance video footage captures the captain of MV "Sewol" Lee Joon-seok escaping the vessel and leaving behind his passengers. ](/news/2014/04/29/sinking-of-the-mv-sewol-surveillance-video-footage-captures-the-captain-of-mv-sewol-lee-joon-seok-escaping-the-vessel-and-leaving-behi.md)
+### [Surveillance video footage captures the captain of MV "Sewol" Lee Joon-seok escaping the vessel and leaving behind his passengers. ](/news/2014/04/29/surveillance-video-footage-captures-the-captain-of-mv-sewol-lee-joon-seok-escaping-the-vessel-and-leaving-behind-his-passengers.md)
 South Korean President Park Geun-hye apologises over the ferry disaster, saying the government failed to prevent it and bungled its initial response.
 
 ### [A shooting at a FedEx facility in Kennesaw, Georgia, United States, leaves six injured with the gunman committing suicide. ](/news/2014/04/29/a-shooting-at-a-fedex-facility-in-kennesaw-georgia-united-states-leaves-six-injured-with-the-gunman-committing-suicide.md)

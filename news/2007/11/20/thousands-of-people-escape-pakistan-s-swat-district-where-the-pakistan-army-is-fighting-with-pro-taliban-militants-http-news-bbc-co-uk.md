@@ -1,0 +1,19 @@
+### [2007-11-20](/news/2007/11/20/index.md)
+
+#  Thousands of people escape Pakistan's Swat district, where the Pakistan Army is fighting with pro-Taliban militants. [http://news.bbc.co.uk/2/hi/south_asia/7104331.stm (BBC)] More than 100 journalists are arrested for protesting against the state of emergency and media restrictions. [http://news.bbc.co.uk/2/hi/south_asia/7103538.stm (BBC)] The Government of Pakistan releases 3,400 people who were jailed during the state of emergency. [http://news.bbc.co.uk/2/hi/south_asia/7103266.stm (BBC)] Pakistan Chief Election Commissioner Justice (retired) Qazi Mohammad Farooq announces the next general elections will be held on January 8, 2008.date=December 2007
+
+
+
+
+### Related:
+
+1. [ The Taliban scraps the truce offered in February by the Pakistani government, killing approximately 30 Pakistani soldiers shortly after making the announcement. ](/news/2009/06/30/the-taliban-scraps-the-truce-offered-in-february-by-the-pakistani-government-killing-approximately-30-pakistani-soldiers-shortly-after-mak.md) _Context: Pakistan, Pakistan army, Taliban, government_
+2. [ The Pakistani Army kills 55 Taliban militants in Swat, Pakistan. ](/news/2009/05/9/the-pakistani-army-kills-55-taliban-militants-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, militant_
+3. [ At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. ](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.md) _Context: Pakistan, Swat, Pakistan, Taliban, government_
+4. [ Ten Army soldiers are killed and 22 others injured during combat with the Taliban in Swat, Pakistan. ](/news/2009/05/7/ten-army-soldiers-are-killed-and-22-others-injured-during-combat-with-the-taliban-in-swat-pakistan.md) _Context: Pakistan, Pakistan army, Swat, Pakistan, Taliban_
+5. [ The Army and the Taliban battle in Mingora, Swat, Pakistan. ](/news/2009/05/23/the-army-and-the-taliban-battle-in-mingora-swat-pakistan.md) _Context: Pakistan, Pakistan army, Swat, Pakistan, Taliban_
+6. [ Two Army soldiers and 13 Taliban militants are killed during a raid in Mohmand Agency, Pakistan. ](/news/2009/05/2/two-army-soldiers-and-13-taliban-militants-are-killed-during-a-raid-in-mohmand-agency-pakistan.md) _Context: Pakistan, Pakistan army, Taliban, militant_
+7. [ The Army raids a Taliban military base in Swat, Pakistan. ](/news/2009/05/12/the-army-raids-a-taliban-military-base-in-swat-pakistan.md) _Context: Pakistan, Pakistan army, Swat, Pakistan, Taliban_
+8. [ The Pakistani Army kills approximately 60 Taliban militants during Operation Black Thunder. ](/news/2009/05/1/the-pakistani-army-kills-approximately-60-taliban-militants-during-operation-black-thunder.md) _Context: Pakistan, Pakistan army, Taliban, militant_
+9. [ Pakistan Army renews air attacks in the Swat valley targeting extremists positions.date=December 2007 Foreign ministers of the Commonwealth of Nations meet in London to discuss the issue of Pakistan. They demand that President Pervez Musharraf lift the state of emergency, release political prisoners and step down as army chief by November 22, or otherwise the country will be "suspended from the Councils of the Commonwealth." ](/news/2007/11/12/pakistan-army-renews-air-attacks-in-the-swat-valley-targeting-extremists-positions-date-december-2007-foreign-ministers-of-the-commonwealth.md) _Context: Pakistan, Pakistan army, Swat, Pakistan, state of emergency_
+10. [Thirty-five militants and one soldier are killed in fighting in the Khyber Agency tribal region of northwest Pakistan in an operation. ](/news/2013/06/9/thirty-five-militants-and-one-soldier-are-killed-in-fighting-in-the-khyber-agency-tribal-region-of-northwest-pakistan-in-an-operation.md) _Context: Pakistan, Pakistan army, Taliban_

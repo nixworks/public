@@ -36,8 +36,8 @@ At least 20 people were killed in Nigeria on Saturday when a cable fell onto a b
 ### [Viktor Yanukovych is officially named winner of the Ukraine presidential election. ](/news/2010/02/14/viktor-yanukovych-is-officially-named-winner-of-the-ukraine-presidential-election.md)
 _Context: Ukrainian presidential election, Viktor Yanukovych_
 
-### [2010 Winter Olympics in Vancouver:: Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/2010-winter-olympics-in-vancouver-alexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever.md)
-_Context: 2010 Winter Olympics, Alexandre Bilodeau, Canada, Vancouver_
+### [Alexandre Bilodeau scores first place in the men's freestyle skiing moguls, winning Canada's first ever Olympic gold medal on home soil. ](/news/2010/02/14/alexandre-bilodeau-scores-first-place-in-the-men-s-freestyle-skiing-moguls-winning-canada-s-first-ever-olympic-gold-medal-on-home-soil.md)
+_Context: Alexandre Bilodeau, Canada_
 
 ## [Previous Day...](/news/2010/02/13/index.md)
 

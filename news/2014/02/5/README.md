@@ -1,9 +1,9 @@
 ## [2014-02-5](/news/2014/02/5/index.md)
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md)
+### [A wave of bombings hits central Baghdad with at least 16 people dead. ](/news/2014/02/5/a-wave-of-bombings-hits-central-baghdad-with-at-least-16-people-dead.md)
 BAGHDAD -- Multiple explosions rocked Baghdad on Wednesday, killing at least 32 people in a brazen reminder of the ability of insurgents to penetrate the heart of the Iraqi capital.
 
-### [Post-civil war violence in Libya:: At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/post-civil-war-violence-in-libya-at-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md)
+### [At least 12 people are injured in a grenade attack on a school in Benghazi. ](/news/2014/02/5/at-least-12-people-are-injured-in-a-grenade-attack-on-a-school-in-benghazi.md)
 At least 12 children are injured in a grenade attack at a school in the Libyan city of Benghazi, officials say.
 
 ### [Archaeologists decrypt the jtunvillur runic code found on 13th century tablets. ](/news/2014/02/5/archaeologists-decrypt-the-jotunvillur-runic-code-found-on-13th-century-tablets.md)
@@ -21,7 +21,7 @@ _Context: David Cameron, Prime Minister_
 ### [North Korea and South Korea hold meetings to discuss visitation reunions of families separated by the Korean War. ](/news/2014/02/5/north-korea-and-south-korea-hold-meetings-to-discuss-visitation-reunions-of-families-separated-by-the-korean-war.md)
 North and South Korea agree to hold reunions for families separated after the Korean War, in what could be the first such meetings since 2010.
 
-### [Spratly Islands dispute:: Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/spratly-islands-dispute-philippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s.md)
+### [Philippine President Benigno Aquino III compares China's territory claims in the South China Sea to Nazi Germany's invasion of Czechoslovakia. ](/news/2014/02/5/philippine-president-benigno-aquino-iii-compares-china-s-territory-claims-in-the-south-china-sea-to-nazi-germany-s-invasion-of-czechoslovaki.md)
 Benigno Aquino warns West must not attempt to appease China as it did Hitler but presidential palace later says comments were not intended to &#039;offend&#039; Beijing
 
 ## [Previous Day...](/news/2014/02/4/index.md)

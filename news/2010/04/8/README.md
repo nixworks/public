@@ -1,6 +1,6 @@
 ## [2010-04-8](/news/2010/04/8/index.md)
 
-### [2010 Kyrgyzstan riots:: 100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/2010-kyrgyzstan-riots-100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md)
+### [100 people die in anti-government protests in Kyrgyzstan, according to opposition activist Toktoim Umetalieva. ](/news/2010/04/8/100-people-die-in-anti-government-protests-in-kyrgyzstan-according-to-opposition-activist-toktoim-umetalieva.md)
 OPPONENTS of President Kurmanbek Bakiyev took control overnight of Kyrgyzstan after a day of spectacular violence that ended with Mr Bakiyev fleeing the capital of the strategic Central Asian state.
 
 ### [Sri Lankans vote in the country's 2010 parliamentary election. ](/news/2010/04/8/sri-lankans-vote-in-the-country-s-2010-parliamentary-election.md)
@@ -48,7 +48,7 @@ Malcolm McLaren, the former manager of the Sex Pistols and impresario, has died 
 ### [14 people die of dengue fever in Dominican Republic. 2,000 cases of dengue fever have been registered. A total of 52 died of the disease last year. ](/news/2010/04/8/14-people-die-of-dengue-fever-in-dominican-republic-2-000-cases-of-dengue-fever-have-been-registered-a-total-of-52-died-of-the-disease-las.md)
 _Context: Dominican Republic, dengue_
 
-### [Dublin's Glasnevin Cemetery, which holds 1.5 million corpses, is reopened with a new museum after an -11 million redevelopment. ](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-million-corpses-is-reopened-with-a-new-museum-after-an-11-million-redevelopment.md)
+### [Dublin's Glasnevin Cemetery, which holds 1.5 million corpses, is reopened with a new museum after an EUR11 million redevelopment. ](/news/2010/04/8/dublin-s-glasnevin-cemetery-which-holds-1-5-million-corpses-is-reopened-with-a-new-museum-after-an-a-11-million-redevelopment.md)
 _Context: Dublin, Glasnevin Cemetery_
 
 ## [Previous Day...](/news/2010/04/7/index.md)

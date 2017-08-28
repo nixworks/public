@@ -22,7 +22,7 @@ _Context: Gnassingb Eyadma, Lom, Togo_
 Get the latest breaking news and top news headlines at Reuters.com
 
 ### [ Muslim religious scholars in Pakistan announce a fatwa that decrees that heroin use is un-Islamic. The "fatwa" is pronounced in a seminar in Baluchistan. ](/news/2005/03/13/muslim-religious-scholars-in-pakistan-announce-a-fatwa-that-decrees-that-heroin-use-is-un-islamic-the-fatwa-is-pronounced-in-a-seminar-i.md)
-_Context: Balochistan, Islam, Muslim, Pakistan, fatwa, heroin_
+_Context: Balochistan, Muslim, Muslims, Pakistan, fatwa, heroin_
 
 ### [ In Turkey, authorities close down the Bosphorus shipping channel after a cargo ship that carried liquiefied petroleum gas sinks due to bad weather. It takes hours for the shipping authorities to collect gas tanks. ](/news/2005/03/13/in-turkey-authorities-close-down-the-bosphorus-shipping-channel-after-a-cargo-ship-that-carried-liquiefied-petroleum-gas-sinks-due-to-bad.md)
 _Context: Bosphorus, Turkey, crude oil_

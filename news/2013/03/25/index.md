@@ -1,12 +1,12 @@
 ## [2013-03-25](/news/2013/03/25/index.md)
 
-### [2012-13 Central African Republic conflict:: Seleka chief Michel Djotodia declares himself President of the Central African Republic and promises to retain power-sharing government as part of peace deal and put end to looting. ](/news/2013/03/25/2012-13-central-african-republic-conflict-seleka-chief-michel-djotodia-declares-himself-president-of-the-central-african-republic-and-pr.md)
+### [Seleka chief Michel Djotodia declares himself President of the Central African Republic and promises to retain power-sharing government as part of peace deal and put end to looting. ](/news/2013/03/25/seleka-chief-michel-djotodia-declares-himself-president-of-the-central-african-republic-and-promises-to-retain-power-sharing-government-as-p.md)
 Presidency confirms ousted leader Francois Bozize has sought temporary refuge after rebels take hold of capital Bangui.
 
-### [Syrian civil war:: Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md)
+### [Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md)
 Officials say National Coalition will represent Syria in upcoming pan-Arab summit, as regional leaders arrive in Doha.
 
-### [2012-2013 Cypriot financial crisis:: Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/2012-2013-cypriot-financial-crisis-cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-europ.md)
+### [Cyprus reportedly reaches an outline bank bailout deal with international lenders including the European Union, the European Central Bank and the International Monetary Fund. ](/news/2013/03/25/cyprus-reportedly-reaches-an-outline-bank-bailout-deal-with-international-lenders-including-the-european-union-the-european-central-bank-an.md)
 Cyprus reached an outline deal with international lenders for a 10 billion euro ($13 billion) bailout that would shut down its second largest bank and inflict heavy losses on uninsured depositors, an EU spokesman said early on Monday.
 
 ### [Thousands of homes in Scotland and Northern Ireland are without electricity and many roads are closed after snowfall and strong winds hit over the weekend. ](/news/2013/03/25/thousands-of-homes-in-scotland-and-northern-ireland-are-without-electricity-and-many-roads-are-closed-after-snowfall-and-strong-winds-hit-ov.md)

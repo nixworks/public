@@ -21,7 +21,7 @@ _Context: Democratic Party, Hong Kong, Martin Lee, assassinated, chairman_
 ### [ At least 44 inmates escape from a prison in Bagua Grande, Peru. ](/news/2009/05/31/at-least-44-inmates-escape-from-a-prison-in-bagua-grande-peru.md)
 _Context: Bagua Grande, Peru, prison, prison escape_
 
-### [ A man steals -6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-6-million-in-jewellery-from-chopard-in-paris-france.md)
+### [ A man steals EUR6 million in jewellery from Chopard in Paris, France. ](/news/2009/05/31/a-man-steals-a-6-million-in-jewellery-from-chopard-in-paris-france.md)
 _Context: Chopard, EUR, France, Paris, jewellery_
 
 ### [ Thousands of demonstrators gather in Hong Kong to commemorate the upcoming anniversary of the Tiananmen Square massacre of June 4, 1989. ](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-to-commemorate-the-upcoming-anniversary-of-the-tiananmen-square-massacre-of-june-4-1989.md)

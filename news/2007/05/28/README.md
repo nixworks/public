@@ -15,11 +15,11 @@ _Context: Baghdad, Iraqi insurgency_
 ### [ Officials from Iran and the United States hold their first talks since 1980 with the topic being the future of Iraq. ](/news/2007/05/28/officials-from-iran-and-the-united-states-hold-their-first-talks-since-1980-with-the-topic-being-the-future-of-iraq.md)
 _Context: 1980, Iran, Iraq, United States_
 
-### [ Japan:: Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/japan-minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md)
-_Context: Japan, Minister of Agriculture, Toshikatsu Matsuoka_
+### [ Minister of Agriculture Toshikatsu Matsuoka commits suicide, apparently over a financial scandal. ](/news/2007/05/28/minister-of-agriculture-toshikatsu-matsuoka-commits-suicide-apparently-over-a-financial-scandal.md)
+_Context: Minister of Agriculture, Toshikatsu Matsuoka_
 
-### [ Venezuela:: Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/venezuela-government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md)
-_Context: Government-owned, Radio Caracas Television, TVes, Venezuela, television_
+### [ Government-owned TV Station TVes begins broadcasting in place of Radio Caracas Television. ](/news/2007/05/28/government-owned-tv-station-tves-begins-broadcasting-in-place-of-radio-caracas-television.md)
+_Context: Government-owned, Radio Caracas Television, TVes, television_
 
 ### [ Canada: Voters in Prince Edward Island go to the polls for provincial elections. ](/news/2007/05/28/canada-voters-in-prince-edward-island-go-to-the-polls-for-provincial-elections.md)
 _Context: Canada, Prince Edward Island_

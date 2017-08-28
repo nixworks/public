@@ -48,7 +48,7 @@ A drill reaches the 33 men trapped in a Chilean mine since early August, but it 
 ### [A large storm hits New Zealand with severe weather warnings in place for both the North and South Island for several days. ](/news/2010/09/17/a-large-storm-hits-new-zealand-with-severe-weather-warnings-in-place-for-both-the-north-and-south-island-for-several-days.md)
 _Context: New Zealand, North Island, South Island, weather warnings_
 
-### [2010 Atlantic hurricane season:: Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/2010-atlantic-hurricane-season-hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-p.md)
+### [Hurricane Karl reaches Category 3 strength prior to making landfall in Mexico just north of Veracruz. Two people are killed in a mudslide. ](/news/2010/09/17/hurricane-karl-reaches-category-3-strength-prior-to-making-landfall-in-mexico-just-north-of-veracruz-two-people-are-killed-in-a-mudslide.md)
 * Flash flooding, mudslides possible in Veracruz state * Karl weakens to Category 1 hurricane * Mexico oil industry spared big d
 
 ### [BP starts pumping cement into the Deepwater Horizon oil well in the Gulf of Mexico at the culmination of cleanup efforts for the Deepwater Horizon oil spill. ](/news/2010/09/17/bp-starts-pumping-cement-into-the-deepwater-horizon-oil-well-in-the-gulf-of-mexico-at-the-culmination-of-cleanup-efforts-for-the-deepwater-h.md)

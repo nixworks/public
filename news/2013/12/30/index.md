@@ -1,10 +1,10 @@
 ## [2013-12-30](/news/2013/12/30/index.md)
 
-### [Volgograd bombings:: A bomb blast rips a trolleybus apart in Volgograd, Russia, killing at least 15 people in the second deadly attack in the southern city in less than 24 hours. ](/news/2013/12/30/volgograd-bombings-a-bomb-blast-rips-a-trolleybus-apart-in-volgograd-russia-killing-at-least-15-people-in-the-second-deadly-attack-in-th.md)
+### [A bomb blast rips a trolleybus apart in Volgograd, Russia, killing at least 15 people in the second deadly attack in the southern city in less than 24 hours. ](/news/2013/12/30/a-bomb-blast-rips-a-trolleybus-apart-in-volgograd-russia-killing-at-least-15-people-in-the-second-deadly-attack-in-the-southern-city-in-le.md)
 At least 14 people are killed in a blast in the Russian city of Volgograd, in what officials say is the second suicide attack there in two days.
 
 ### [An attack on an army base in south Yemen by gunmen with rifles and antitank rockets killed at least five government soldiers and three militants. Four soldiers also went missing. ](/news/2013/12/30/an-attack-on-an-army-base-in-south-yemen-by-gunmen-with-rifles-and-antitank-rockets-killed-at-least-five-government-soldiers-and-three-milit.md)
-### [Syrian Civil War:: The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/syrian-civil-war-the-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md)
+### [The Lebanese army fires on Syrian warplanes after they violate its airspace for the first time in the conflict. ](/news/2013/12/30/the-lebanese-army-fires-on-syrian-warplanes-after-they-violate-its-airspace-for-the-first-time-in-the-conflict.md)
 The Lebanese Army fires on a Syrian warplane over the northeast border town of Arsal, in a rare military response to Syrian violation of Lebanese airspace.
 
 ### [The Congolese army regains control after multiple attacks by around 40 gunmen across the capital at the airport and state television headquarters. ](/news/2013/12/30/the-congolese-army-regains-control-after-multiple-attacks-by-around-40-gunmen-across-the-capital-at-the-airport-and-state-television-headqua.md)

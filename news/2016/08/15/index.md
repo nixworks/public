@@ -1,9 +1,9 @@
 ## [2016-08-15](/news/2016/08/15/index.md)
 
-### [Yemeni Civil War: An air strike by the Saudi-led coalition which hit a hospital in northern Yemen run by Medecins Sans Frontieres (Doctors Without Borders) kills at least 11 people. ](/news/2016/08/15/yemeni-civil-war-an-air-strike-by-the-saudi-led-coalition-which-hit-a-hospital-in-northern-yemen-run-by-ma-c-decins-sans-frontia-res-doctors.md)
+### [An air strike by the Saudi-led coalition which hit a hospital in northern Yemen run by Medecins Sans Frontieres (Doctors Without Borders) kills at least 11 people. ](/news/2016/08/15/an-air-strike-by-the-saudi-led-coalition-which-hit-a-hospital-in-northern-yemen-run-by-ma-c-decins-sans-frontia-res-doctors-without-borders.md)
 An air strike hits a hospital run by Medecins Sans Frontieres (MSF) in northern Yemen, killing at least 11 people, the medical charity says.
 
-### [2016 Louisiana floods: At least seven people have died and thousands have been rescued in the American state of Louisiana. President of the United States Barack Obama has declared a federal emergency in the state. ](/news/2016/08/15/2016-louisiana-floods-at-least-seven-people-have-died-and-thousands-have-been-rescued-in-the-american-state-of-louisiana-president-of-the.md)
+### [At least seven people have died and thousands have been rescued in the American state of Louisiana. President of the United States Barack Obama has declared a federal emergency in the state. ](/news/2016/08/15/at-least-seven-people-have-died-and-thousands-have-been-rescued-in-the-american-state-of-louisiana-president-of-the-united-states-barack-ob.md)
 At least five people die and thousands are rescued as &quot;historic&quot; flooding swamps the US state of Louisiana.
 
 ### [An Olympics aerial camera and its cables fall sixty-five feet, injuring seven people. ](/news/2016/08/15/an-olympics-aerial-camera-and-its-cables-fall-sixty-five-feet-injuring-seven-people.md)

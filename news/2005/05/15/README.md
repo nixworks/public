@@ -1,6 +1,6 @@
 ## [2005-05-15](/news/2005/05/15/index.md)
 
-### [ Israeli-Palestinian conflict:: Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/israeli-palestinian-conflict-shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md)
+### [ Shin Bet head Avi Dichter finishes his 5-year term and Yuval Diskin is appointed as his replacement. ](/news/2005/05/15/shin-bet-head-avi-dichter-finishes-his-5-year-term-and-yuval-diskin-is-appointed-as-his-replacement.md)
 About 20 right-wing activists initiate unlimited hunger strike to protest upcoming settlement evacuation
 
 ### [ Amid continuing unrest In Uzbekistan, the city of Andijan is sealed. British Foreign Secretary Jack Straw says there has been "a clear abuse of human rights" in Uzbekistan. ](/news/2005/05/15/amid-continuing-unrest-in-uzbekistan-the-city-of-andijan-is-sealed-british-foreign-secretary-jack-straw-says-there-has-been-a-clear-abus.md)

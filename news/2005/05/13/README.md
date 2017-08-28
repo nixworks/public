@@ -12,7 +12,7 @@ _Context: 1969, February 8, Star Trek Enterprise, These are the Voyages..., UPN_
 ### [ The Vatican announced that the late Pope, John Paul II, is to be beatified. This is the first step to becoming a saint. ](/news/2005/05/13/the-vatican-announced-that-the-late-pope-john-paul-ii-is-to-be-beatified-this-is-the-first-step-to-becoming-a-saint.md)
 _Context: Holy See, Pope, Pope John Paul II, beatified, saints_
 
-### [ Unrest In Uzbekistan:: Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/unrest-in-uzbekistan-thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the.md)
+### [ Thousands of Uzbeks take over a high security jail in Andijan, freeing thousands of prisoners in protest against the jail sentence of 23 businessmen who were accused of being Islamic extremists. ](/news/2005/05/13/thousands-of-uzbeks-take-over-a-high-security-jail-in-andijan-freeing-thousands-of-prisoners-in-protest-against-the-jail-sentence-of-23-bu.md)
 Thousands of protesters surge through an eastern Uzbekistani city, enraged by the incarceration of 23 Muslim businessmen.
 
 ### [ Michael Ross becomes the first person executed in the U.S. state of Connecticut since 1960. He was convicted in 1987 of the murder of four girls and young women. He confessed to having committed four more killings. ](/news/2005/05/13/michael-ross-becomes-the-first-person-executed-in-the-u-s-state-of-connecticut-since-1960-he-was-convicted-in-1987-of-the-murder-of-four.md)

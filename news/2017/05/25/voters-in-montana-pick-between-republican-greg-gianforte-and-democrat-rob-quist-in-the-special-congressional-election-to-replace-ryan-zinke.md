@@ -1,6 +1,6 @@
 ### [2017-05-25](/news/2017/05/25/index.md)
 
-# Voters in Montana pick between Republican Greg Gianforte and  Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. 
+# Voters in Montana pick between Republican Greg Gianforte and Democrat Rob Quist in the special congressional election to replace Ryan Zinke, who is now President Trump's Secretary of the Interior. 
 
 Greg Gianforte, the Republican candidate for a special House election in Montana, was officially charged with assaulting a journalist — just one day before the election.
 
@@ -16,7 +16,7 @@ Greg Gianforte, the Republican candidate for a special House election in Montana
 
 ### Related:
 
-1. [Republican Greg Gianforte bodyslams a reporter from ''The Guardian'' who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against.md) _Context: Greg Gianforte, Montana's at-large congressional district special election, 2017, Rob Quist_
+1. [Republican Greg Gianforte bodyslams a reporter from "The Guardian" who then reports the situation to police. Gianforte is running against Democrat Rob Quist. ](/news/2017/05/24/republican-greg-gianforte-bodyslams-a-reporter-from-the-guardian-who-then-reports-the-situation-to-police-gianforte-is-running-against-de.md) _Context: Greg Gianforte, Montana's at-large congressional district special election, 2017, Rob Quist_
 2. [Montana congressman Greg Gianforte apologizes to journalist Ben Jacobs for the alleged body slam incident that occurred on May 24, and donates US$50,000 to the Committee to Protect Journalists. ](/news/2017/06/8/montana-congressman-greg-gianforte-apologizes-to-journalist-ben-jacobs-for-the-alleged-body-slam-incident-that-occurred-on-may-24-and-donat.md) _Context: Greg Gianforte, Montana_
 3. [United States Secretary of the Interior Ryan Zinke says that Donald Trump plans to review U.S. national monuments. ](/news/2017/04/25/united-states-secretary-of-the-interior-ryan-zinke-says-that-donald-trump-plans-to-review-u-s-national-monuments.md) _Context: Ryan Zinke_
 4. [U.S. federal health officials are investigating an outbreak of deadly E. coli bacteria that has sickened 19 people in California, Colorado, Missouri, Montana, Utah, Virginia, and Washington. Preliminary evidence suggests that rotisserie chicken salad made and sold in Costco Wholesale stores is the likely source. This follows a totally unrelated outbreak earlier this month connected to Chipotle Mexican Grill restaurants. Those restaurants have been cleaned, new ingredients ordered, and have been reopened. The Costco E. coli 157 strain, which has caused five people to be hospitalized- two of which developed hemolytic uremic syndrome (HUS; which can readily lead to acute renal failure and sepsis), is more dangerous than the Chipotle E. coli 026 strain, though there have been no deaths yet. ](/news/2015/11/24/u-s-federal-health-officials-are-investigating-an-outbreak-of-deadly-e-coli-bacteria-that-has-sickened-19-people-in-california-colorado.md) _Context: Montana_

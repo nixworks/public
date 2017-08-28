@@ -1,6 +1,6 @@
 ## [2010-11-24](/news/2010/11/24/index.md)
 
-### [Shelling of Yeonpyeong:: The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/shelling-of-yeonpyeong-the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md)
+### [The bodies of two civilians killed in the attack are discovered on Yeonpyeong. ](/news/2010/11/24/the-bodies-of-two-civilians-killed-in-the-attack-are-discovered-on-yeonpyeong.md)
 The bodies of two civilians are found on the South Korean island of Yeonpyeong, shelled during the attack by North Korea.
 
 ### [Debut novellist Amy Sackville wins the John Llewellyn Rhys Prize for her novel "The Still Point". ](/news/2010/11/24/debut-novellist-amy-sackville-wins-the-john-llewellyn-rhys-prize-for-her-novel-the-still-point.md)

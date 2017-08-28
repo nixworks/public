@@ -39,13 +39,13 @@ Afghan President Hamid Karzai renewed a call for talks with Taliban insurgents o
 ### [ A landslide in West Bengal, India kills seven people; over 500 houses buried or damaged.](/news/2007/09/9/a-landslide-in-west-bengal-india-kills-seven-people-over-500-houses-buried-or-damaged.md)
 _Context: India, West Bengal, landslide_
 
-### [ Pakistan: Pakistan's airports are placed on the highest alert due to concerns over an imminent terrorist threat. ](/news/2007/09/9/pakistan-pakistan-s-airports-are-placed-on-the-highest-alert-due-to-concerns-over-an-imminent-terrorist-threat.md)
+### [ Pakistan's airports are placed on the highest alert due to concerns over an imminent terrorist threat. ](/news/2007/09/9/pakistan-s-airports-are-placed-on-the-highest-alert-due-to-concerns-over-an-imminent-terrorist-threat.md)
 Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight from London to Islamabad as he headed towards a showdown with President Pervez Musharraf, who has threatened him with arrest.
 
 ### [ Tropical Storm Gabrielle makes landfall near the Cape Lookout National Seashore in North Carolina, United States, and hooks over Cape Hatteras before returning to the Atlantic as a tropical depression, bringing much-needed rain to coastal North Carolina as well as some beach erosion. ](/news/2007/09/9/tropical-storm-gabrielle-makes-landfall-near-the-cape-lookout-national-seashore-in-north-carolina-united-states-and-hooks-over-cape-hatte.md)
 _Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, United States, beach erosion_
 
-### [ APEC Australia 2007:: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md)
+### [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md)
 The APEC summit in Sydney is drawing to a conclusion, with leaders working on their final statement.
 
 ## [Previous Day...](/news/2007/09/8/index.md)

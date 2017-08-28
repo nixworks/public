@@ -1,18 +1,18 @@
 ## [2013-03-26](/news/2013/03/26/index.md)
 
-### [War in Afghanistan:: Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/war-in-afghanistan-australia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-retur.md)
+### [Australia announces that it will be closing its base in Tarinkot in Urozgan Province, with the majority of troops returning home by the end of this year. ](/news/2013/03/26/australia-announces-that-it-will-be-closing-its-base-in-tarinkot-in-urozgan-province-with-the-majority-of-troops-returning-home-by-the-end.md)
 Australia&#039;s main base in Afghanistan will close by the end of the year, with the majority of troops to return home.
 
-### [2012-13 Central African Republic conflict:: After declaring himself President of the Central African Republic, Seleka chief Michel Djotodia says that he has suspended the constitution of the country and dissolved its parliament. ](/news/2013/03/26/2012-13-central-african-republic-conflict-after-declaring-himself-president-of-the-central-african-republic-seleka-chief-michel-djotodi.md)
+### [After declaring himself President of the Central African Republic, Seleka chief Michel Djotodia says that he has suspended the constitution of the country and dissolved its parliament. ](/news/2013/03/26/after-declaring-himself-president-of-the-central-african-republic-seleka-chief-michel-djotodia-says-that-he-has-suspended-the-constitution.md)
 The rebel leader whose fighters seized the capital of the Central African Republic says he is suspending the constitution and dissolving parliament.
 
-### [Syrian civil war:: The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/syrian-civil-war-the-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps.md)
-_Context: Syria, Syrian Civil War, United Nations_
+### [The United Nations prepares to move about half of its international staff in Syria out of the country as violence creeps closer to UN facilities. ](/news/2013/03/26/the-united-nations-prepares-to-move-about-half-of-its-international-staff-in-syria-out-of-the-country-as-violence-creeps-closer-to-un-facili.md)
+_Context: Syria, United Nations_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/iraqi-insurgency-post-u-s-withdrawal-a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in.md)
-_Context:  Saladin Province, Iraq, Iraqi insurgency (post-U.S. withdrawal), Tuz Khormato_
+### [A roadside bombing kills the head of a local town council and a member of a provincial council in Tuz Khormato, Saladin Province, Iraq. ](/news/2013/03/26/a-roadside-bombing-kills-the-head-of-a-local-town-council-and-a-member-of-a-provincial-council-in-tuz-khormato-saladin-province-iraq.md)
+_Context:  Saladin Province, Iraq, Tuz Khormato_
 
-### [2012-2013 Cypriot financial crisis: Cyprus's Ministry of Finance says banks will remain shut until Thursday to give regulators time to guard against a run on deposits, and that big depositors in Cypriot banks can lose up to 40% of their funds, while depositors with less than 100,000 euros in their accounts will not be affected by bailout plans. ](/news/2013/03/26/2012-2013-cypriot-financial-crisis-cyprus-s-ministry-of-finance-says-banks-will-remain-shut-until-thursday-to-give-regulators-time-to-gua.md)
+### [2012-2013 Cypriot financial crisis: Cyprus's Ministry of Finance says banks will remain shut until Thursday to give regulators time to guard against a run on deposits, and that big depositors in Cypriot banks can lose up to 40% of their funds, while depositors with less than 100,000 euros in their accounts will not be affected by bailout plans. ](/news/2013/03/26/2012a2013-cypriot-financial-crisis-cyprus-s-ministry-of-finance-says-banks-will-remain-shut-until-thursday-to-give-regulators-time-to-gua.md)
 _Context: Cyprus, bailout, collapse, deposits, regulators, run_
 
 ### [Leaders of Brazil, Russia, India, China and South Africa meet in Durban for the 2013 BRICS summit. ](/news/2013/03/26/leaders-of-brazil-russia-india-china-and-south-africa-meet-in-durban-for-the-2013-brics-summit.md)

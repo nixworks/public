@@ -1,15 +1,15 @@
 ## [2017-04-13](/news/2017/04/13/index.md)
 
-### [War in Afghanistan (2015-present): April 2017 Nangarhar airstrike: The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield. ](/news/2017/04/13/war-in-afghanistan-2015-present-april-2017-nangarhar-airstrike-the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-bla.md)
+### [The United States Air Force drops the GBU-43/B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield. ](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.md)
 The US has deployed the largest non-nuclear bomb in its inventory on an ISIS target in a remote part of far northeast Afghanistan.
 
-### [2016-17 South Pacific cyclone season: A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/2016-17-south-pacific-cyclone-season-a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cycl.md)
+### [A state of emergency is declared and coastal areas are evacuated in the Coromandel Peninsula as Cyclone Cook sweeps across the North Island of New Zealand. ](/news/2017/04/13/a-state-of-emergency-is-declared-and-coastal-areas-are-evacuated-in-the-coromandel-peninsula-as-cyclone-cook-sweeps-across-the-north-island.md)
 A storm forecast to be the worst in decades leaves floods, power cuts and downed trees in its wake.
 
-### [European migrant crisis: A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/european-migrant-crisis-a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-t.md)
+### [A boat carrying migrants sinks off the coast of Libya, with 97 people reported missing. 23 others were rescued by the Libyan coast guard. ](/news/2017/04/13/a-boat-carrying-migrants-sinks-off-the-coast-of-libya-with-97-people-reported-missing-23-others-were-rescued-by-the-libyan-coast-guard.md)
 Survivors tell authorities 15 women and five children among the missing after boat headed for European shores sinks.
 
-### [North Korea and weapons of mass destruction: North Korea-United States relations: U.S.-based monitoring group 38 North says satellite imagery of North Korea's Punggye-ri Nuclear Test Site indicates that preparation for a sixth nuclear weapons test is underway. ](/news/2017/04/13/north-korea-and-weapons-of-mass-destruction-north-korea-united-states-relations-u-s-based-monitoring-group-38-north-says-satellite-imag.md)
+### [U.S.-based monitoring group 38 North says satellite imagery of North Korea's Punggye-ri Nuclear Test Site indicates that preparation for a sixth nuclear weapons test is underway. ](/news/2017/04/13/u-s-based-monitoring-group-38-north-says-satellite-imagery-of-north-korea-s-punggye-ri-nuclear-test-site-indicates-that-preparation-for-a-s.md)
 North’s Punggye-ri site appears to be ready for what would be the country’s sixth nuclear test since 2006
 
 ### [The Democratic Republic of the Congo suspends its military cooperation with Belgium. ](/news/2017/04/13/the-democratic-republic-of-the-congo-suspends-its-military-cooperation-with-belgium.md)
@@ -21,7 +21,7 @@ _Context: Beslan school siege, EUR, European Court of Human Rights, Russia, Russ
 ### [One student is murdered and another injured in Mardan, Pakistan over alleged blasphemy. The student who died, Mashal Khan, was known on social media for his secular and liberal views. ](/news/2017/04/13/one-student-is-murdered-and-another-injured-in-mardan-pakistan-over-alleged-blasphemy-the-student-who-died-mashal-khan-was-known-on-soci.md)
 The student was brutally murdered by a mob at a university campus in northern Pakistan, police say.
 
-### [2017 Venezuelan constitutional crisis: Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/2017-venezuelan-constitutional-crisis-thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-deat.md)
+### [Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-death-in-the-protests.md)
 _Context: 2017 Venezuelan constitutional crisis, Caracas, Venezuela_
 
 ### [NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. ](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.md)

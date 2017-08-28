@@ -1,15 +1,15 @@
 ## [2013-01-24](/news/2013/01/24/index.md)
 
-### [Insurgency in the North Caucasus:: Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/insurgency-in-the-north-caucasus-russian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fightin.md)
+### [Russian police announces that 13 rebels, including Khuseyn Gakayev and his brother, are killed in fighting in the Vedeno District, Chechnya. ](/news/2013/01/24/russian-police-announces-that-13-rebels-including-khuseyn-gakayev-and-his-brother-are-killed-in-fighting-in-the-vedeno-district-chechnya.md)
 Two of the most wanted Islamist rebels in Chechnya were among 13 killed in a shootout between Russian law enforcement officers and rebels in the volatile mountain province, Interfax news agency said on Thursday.
 
-### [Senkaku Islands dispute:: A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/senkaku-islands-dispute-a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md)
-_Context: Japan Coast Guard, Senkaku Islands, Senkaku Islands dispute, Taiwan, engages_
+### [A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md)
+_Context: Japan Coast Guard, Senkaku Islands, Taiwan, engages_
 
-### [Northern Mali conflict:: The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/northern-mali-conflict-the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islam.md)
+### [The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islamist-controlled-north-of-m.md)
 The Malian army investigates claims that soldiers have carried out summary executions as they fight to recapture the Islamist-controlled north.
 
-### [Libyan factional fighting:: The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/libyan-factional-fighting-the-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due.md)
+### [The Foreign and Commonwealth Office urges British nationals to leave the Libyan city of Benghazi immediately due to a "specific and imminent" threat to Westerners. ](/news/2013/01/24/the-foreign-and-commonwealth-office-urges-british-nationals-to-leave-the-libyan-city-of-benghazi-immediately-due-to-a-specific-and-imminent.md)
 British and other foreign nationals are advised to leave the Libyan city of Benghazi immediately because of an &quot;imminent&quot; threat to Westerners.
 
 ### [The government of Ukraine signs a major $10 billion shale gas deal with Royal Dutch Shell to reduce its dependency on Russian gas imports. ](/news/2013/01/24/the-government-of-ukraine-signs-a-major-10-billion-shale-gas-deal-with-royal-dutch-shell-to-reduce-its-dependency-on-russian-gas-imports.md)

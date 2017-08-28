@@ -13,7 +13,7 @@ _Context: Bob Woolmer, Jamaica Constabulary Force, Pakistan national cricket tea
 _Context: AOL, MSN, NBC, News Limited, Yahoo!, YouTube, video_
 
 ### [ 2007 Zimbabwean political crisis: The Roman Catholic Archbishop of Bulawayo Pius Ncube calls for mass protests to force President Robert Mugabe from power. ](/news/2007/03/22/2007-zimbabwean-political-crisis-the-roman-catholic-archbishop-of-bulawayo-pius-ncube-calls-for-mass-protests-to-force-president-robert-mu.md)
-_Context: Archbishop, Bulawayo, Pius Ncube, President of Zimbabwe, Robert Mugabe, Roman Catholic Church, Zimbabwean political crisis_
+_Context: 2007 Zimbabwean political crisis, Archbishop, Bulawayo, Pius Ncube, President of Zimbabwe, Robert Mugabe, Roman Catholic Church_
 
 ### [ Fighting erupts in Kinshasa, Democratic Republic of Congo, between Government troops and the personal militia of Jean-Pierre Bemba, defeated presidential candidate in 2006 and recently elected Senator. The Spanish embassy is caught in the crossfire, leading to its evacuation under United Nations guard. ](/news/2007/03/22/fighting-erupts-in-kinshasa-democratic-republic-of-congo-between-government-troops-and-the-personal-militia-of-jean-pierre-bemba-defeate.md)
 _Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator, Spain, United Nations, embassies, militia, presidential candidate in 2006, recently elected_
@@ -39,8 +39,8 @@ _Context: Amnesty International, Guantanamo Bay, U.S. military_
 ### [ The ventromedial prefrontal cortex is identified as the part of the human brain that combines logic and emotion in order to make moral decisions. ](/news/2007/03/22/the-ventromedial-prefrontal-cortex-is-identified-as-the-part-of-the-human-brain-that-combines-logic-and-emotion-in-order-to-make-moral-deci.md)
 _Context: cerebral cortex, emotion, human brain, logic, moral, ventromedial prefrontal_
 
-### [ Insurgency in Somalia:: Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/insurgency-in-somalia-clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md)
-_Context:  Insurgency in Somalia, Mogadishu, interim government forces_
+### [ Clashes flare up in Mogadishu between the interim government forces and local militiamen. ](/news/2007/03/22/clashes-flare-up-in-mogadishu-between-the-interim-government-forces-and-local-militiamen.md)
+_Context: Mogadishu, interim government forces_
 
 ## [Previous Day...](/news/2007/03/21/index.md)
 

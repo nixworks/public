@@ -1,6 +1,6 @@
 ## [2006-01-17](/news/2006/01/17/index.md)
 
-### [ The U.S. Supreme Court rules in "Gonzales v. Oregon" by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6-3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assiste.md)
+### [ The U.S. Supreme Court rules in "Gonzales v. Oregon" by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6a3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assiste.md)
 _Context: Controlled Substances Act, Death with Dignity Act, Gonzales v. Oregon, Oregon, U.S. Supreme Court, physician-assisted suicide_
 
 ### [ Kidnappers of journalist Jill Carroll demand that the United States release all female Iraqi prisoners within 72 hours. ](/news/2006/01/17/kidnappers-of-journalist-jill-carroll-demand-that-the-united-states-release-all-female-iraqi-prisoners-within-72-hours.md)

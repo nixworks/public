@@ -9,16 +9,16 @@ _Context: Diyarbakir, Kurdish, Peoples' Democratic Party, election in June_
 ### [Nestl temporarily removes its Maggi noodles product from the shelves in India following a health scare. ](/news/2015/06/5/nestle-temporarily-removes-its-maggi-noodles-product-from-the-shelves-in-india-following-a-health-scare.md)
 Nestle has withdrawn Maggi noodles in India due to &quot;an environment of confusion for consumers&quot;, it said in the early hours of Friday.
 
-### [Sinking of the "Dong Fang Zhi Xing": The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/sinking-of-the-dong-fang-zhi-xing-the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-h.md)
+### [The death toll from the sinking of the ship on the Yangtze River rises to 82 with officials giving up hope of finding more survivors. Only 15 out of over 450 people on the boat were rescued. ](/news/2015/06/5/the-death-toll-from-the-sinking-of-the-ship-on-the-yangtze-river-rises-to-82-with-officials-giving-up-hope-of-finding-more-survivors-only-1.md)
 _Context: Sinking of the ''Dong Fang Zhi Xing'', Yangtze River_
 
 ### [Two bodies have been removed from Borneo's Mount Kinabalu following the 6.1 magnitude earthquake that hit Malaysia's Sabah province Friday morning. Previously-stranded climbers, reported at 137, have descended to the Laban Rata resthouse. ](/news/2015/06/5/two-bodies-have-been-removed-from-borneo-s-mount-kinabalu-following-the-6-1-magnitude-earthquake-that-hit-malaysia-s-sabah-province-friday-m.md)
 PETALING JAYA (THE STAR/ASIA NEWS NETWORK) - The 137 climbers who reached Panar Laban have decided to continue their descent to the Sabah Park headquarters, said state Tourism, Culture and Environment Minister Datuk Seri Masidi Manjun.. Read more at straitstimes.com.
 
-### [2015 Accra explosion: The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/2015-accra-explosion-the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md)
+### [The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md)
  Over 200 people were killed in an explosion at a gas station in Ghana`s capital Accra, even as torrential rains lashed the West African nation, the interior ministry said.
 
-### [2015 Middle East respiratory syndrome coronavirus outbreak in South Korea: Four people have now died of MERS in South Korea with five new cases reported. ](/news/2015/06/5/2015-middle-east-respiratory-syndrome-coronavirus-outbreak-in-south-korea-four-people-have-now-died-of-mers-in-south-korea-with-five-new-ca.md)
+### [Four people have now died of MERS in South Korea with five new cases reported. ](/news/2015/06/5/four-people-have-now-died-of-mers-in-south-korea-with-five-new-cases-reported.md)
 _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, Middle East respiratory syndrome, South Korea_
 
 ### [Benigno Aquino, the President of the Philippines, says that his government will start discussions with Japan about allowing Japan Self-Defense Forces to refuel at Filipino bases allowing the extension of operations into the South China Sea. ](/news/2015/06/5/benigno-aquino-the-president-of-the-philippines-says-that-his-government-will-start-discussions-with-japan-about-allowing-japan-self-defen.md)

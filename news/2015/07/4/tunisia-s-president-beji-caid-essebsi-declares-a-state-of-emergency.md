@@ -1,6 +1,6 @@
 ### [2015-07-4](/news/2015/07/4/index.md)
 
-#   Tunisia's President Beji Caid Essebsi declares a state of emergency. 
+#  Tunisia's President Beji Caid Essebsi declares a state of emergency. 
 
 
 

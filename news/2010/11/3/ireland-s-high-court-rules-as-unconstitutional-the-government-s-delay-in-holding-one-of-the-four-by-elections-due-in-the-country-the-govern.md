@@ -13,4 +13,4 @@ The High Court in Dublin rules that the Irish government has &quot;unreasonably 
 
 ### Related:
 
-1. [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-south-west-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md) _Context: by-election_
+1. [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-southawest-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md) _Context: by-election_

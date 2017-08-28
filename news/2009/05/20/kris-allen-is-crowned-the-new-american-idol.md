@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. ["American Idol" (season 15): Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. ](/news/2016/04/7/american-idol-season-15-trent-harmon-is-declared-as-the-last-winner-of-the-american-singing-competition-series-american-idol-which.md) _Context: American Idol_
+1. [Trent Harmon is declared as the last winner of the American singing competition series, "American Idol", which concluded after 15 seasons. ](/news/2016/04/7/trent-harmon-is-declared-as-the-last-winner-of-the-american-singing-competition-series-american-idol-which-concluded-after-15-seasons.md) _Context: American Idol_
 2. [Jennifer Lopez reveals she is leaving the hit American talent show "American Idol". ](/news/2012/07/13/jennifer-lopez-reveals-she-is-leaving-the-hit-american-talent-show-american-idol.md) _Context: American Idol_
 3. [Georgia-native Phillip Phillips is crowned the eleventh "American Idol". Runner-up Jessica Sanchez is the first contestant of Asian ancestry to advance in the finals. ](/news/2012/05/23/georgia-native-phillip-phillips-is-crowned-the-eleventh-american-idol-runner-up-jessica-sanchez-is-the-first-contestant-of-asian-ancestry.md) _Context: American Idol_
 4. [Scotty McCreery becomes the tenth season winner of "American Idol".](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.md) _Context: American Idol_

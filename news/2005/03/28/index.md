@@ -9,8 +9,8 @@ _Context: Chiang Pin-kun, Chinese Civil War, Guangdong, Guangzhou, Huanghuagang,
 ### [ 2005 Sumatran earthquake: An earthquake of moment magnitude 8.7 is reported off the west coast of North Sumatra, likely an aftershock of the 2004 Indian Ocean earthquake. Concerned about the threat of a tsunami, emergency evacuations begin in Malaysia, Thailand, and Sri Lanka, although no significant tsunami activity is reported. Indonesia's vice-president reports up to 2,000 deaths ](/news/2005/03/28/2005-sumatran-earthquake-an-earthquake-of-moment-magnitude-8-7-is-reported-off-the-west-coast-of-north-sumatra-likely-an-aftershock-of-th.md)
 _Context: 2004 Indian Ocean earthquake, Aftershock, Indonesia, Malaysia, North Sumatra, Sri Lanka, Sumatran earthquake, Thailand, earthquake, evacuation centers, magnitude, tsunami_
 
-### [ Israeli-Palestinian Conflict:: The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/israeli-palestinian-conflict-the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for.md)
-_Context: Israel, Israeli-Palestinian conflict, disengagement plan, parliament in Israel, referendum_
+### [ The Israeli Knesset voted on a referendum bill on the Gaza Disengagement plan. 72 MKs rejected, 39 voted for and 3 abstained. ](/news/2005/03/28/the-israeli-knesset-voted-on-a-referendum-bill-on-the-gaza-disengagement-plan-72-mks-rejected-39-voted-for-and-3-abstained.md)
+_Context: Israel, disengagement plan, parliament in Israel, referendum_
 
 ### [ Lebanese officials state that 2000 Syrian troops have left the country ](/news/2005/03/28/lebanese-officials-state-that-2000-syrian-troops-have-left-the-country.md)
 _Context: Lebanon, Syria_

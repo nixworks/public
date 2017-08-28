@@ -11,4 +11,4 @@ An earthquake rattled central Oklahoma tonight, reportedly damaging multiple bui
 
 ### Related:
 
-1. [In the United States, a swarm of 30  (''and counting'') earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude  4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. ](/news/2016/01/7/in-the-united-states-a-swarm-of-30-and-counting-earthquakes-of-magnitude-2-5-or-greater-struck-oklahoma-from-wednesday-evening-throu.md) _Context: 2009-16 Oklahoma earthquake swarms_
+1. [In the United States, a swarm of 30 ("and counting") earthquakes of magnitude 2.5 or greater struck Oklahoma from Wednesday evening through Thursday mid-afternoon. The biggest, a magnitude 4.8, happened yesterday at 10:27 p.m. CST, 32 kilometers (20 miles) northwest of Fairview, Oklahoma. ](/news/2016/01/7/in-the-united-states-a-swarm-of-30-and-counting-earthquakes-of-magnitude-2-5-or-greater-struck-oklahoma-from-wednesday-evening-through.md) _Context: 2009-16 Oklahoma earthquake swarms_

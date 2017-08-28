@@ -16,9 +16,9 @@ _Context: Orakzai, Pakistan_
 At least 3 people were killed and 22 others sustained severe injuries when a home-made bomb exploded on Friday inside a mosque in Pushta Kharra area of Peshawar. According to the details, the blast occurred shortly after the Juma Prayer killing three people on the spot and causing damages to the mos...
 
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Beled-Hawa, Islam, Kenya, Somalia_
+_Context: Beled-Hawa, Kenya, Muslims, Somalia_
 
-### [2 Iranian films, -Michael- and -When the Light Shines-, win top prizes at Italy's -13th International Religions Today Film Festival- at its closing ceremony. ](/news/2010/10/22/2-iranian-films-michael-and-when-the-light-shines-win-top-prizes-at-italy-s-13th-international-religions-today-film-festiva.md)
+### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
 _Context: International Religions Today Film Festival, Iran, Italian_
 
 ### [Fifty-seventh National Film Awards given away by President Pratibha Patel in New Delhi. ](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.md)
@@ -27,13 +27,13 @@ _Context: National Film Awards, New Delhi, Pratibha Patel_
 ### [Chilean writer and social critic Pablo Huneeus registers the copyright in "Estamos bien en el refugio los 33" on behalf of the man who wrote it. ](/news/2010/10/22/chilean-writer-and-social-critic-pablo-huneeus-registers-the-copyright-in-estamos-bien-en-el-refugio-los-33-on-behalf-of-the-man-who-wrote.md)
 Chilean miner Jose Ojada obtains the copyright for the note he wrote which let the world know &quot;the 33&quot; men trapped in the San Jose mine were safe.
 
-### [2010 strikes in France:: French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/2010-strikes-in-france-french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-t.md)
+### [French riot police take over the Grandpuits Total S.A. oil refinery which had been blockaded by strikers for more than ten days. ](/news/2010/10/22/french-riot-police-take-over-the-grandpuits-total-s-a-oil-refinery-which-had-been-blockaded-by-strikers-for-more-than-ten-days.md)
 Clashes break out outside a major oil refinery in France after riot police move in to clear strikers who blockaded the terminal for 10 days.
 
 ### [The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. ](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.md)
 _Context: BHP Billiton, Brad Wall, Canadian government, Potash Corporation of Saskatchewan, Premier, takeover_
 
-### [China-s urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/china-s-urban-unemployment-rate-fell-to-4-1-at-september.md)
+### [China's urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-september.md)
 _Context: China, unemployment rate_
 
 ### [Unemployment fell in 23 states and Washington, D.C., rose in 11 states.](/news/2010/10/22/unemployment-fell-in-23-states-and-washington-d-c-rose-in-11-states.md)

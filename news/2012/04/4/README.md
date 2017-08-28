@@ -1,6 +1,6 @@
 ## [2012-04-4](/news/2012/04/4/index.md)
 
-### [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudan-sudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md)
+### [2012 South Sudan-Sudan border conflict: The Sudan People's Liberation Army says it shot down a Sudanese MiG-29 jet fighter in South Sudan's Unity state. ](/news/2012/04/4/2012-south-sudanasudan-border-conflict-the-sudan-people-s-liberation-army-says-it-shot-down-a-sudanese-mig-29-jet-fighter-in-south-sudan.md)
 _Context: 2012 South Sudan-Sudan border conflict_
 
 ### [A suicide bomber kills at least 12 people and injures many more in Afghanistan's Faryab province. ](/news/2012/04/4/a-suicide-bomber-kills-at-least-12-people-and-injures-many-more-in-afghanistan-s-faryab-province.md)
@@ -19,7 +19,7 @@ Thousands of homes and businesses in England are without electricity after gales
 Some 200 US Marines, the first contingent of up to 2,500 to be deployed in northern Australia, arrive in Darwin as the two sides deepen defence ties.
 
 ### [The 20th ASEAN Summit meeting in Phnom Penh, Cambodia, calls for sanctions to be lifted against Myanmar or Burma following recent by-elections. ](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.md)
-_Context: ASEAN Summit, Cambodia, Myanmar, Phnom Penh, by-elections earlier this month, sanctions_
+_Context: ASEAN Summit, Burmese, Cambodia, Phnom Penh, by-elections earlier this month, sanctions_
 
 ### [France arrests ten suspected militant Islamists following 13 people arrested last week. ](/news/2012/04/4/france-arrests-ten-suspected-militant-islamists-following-13-people-arrested-last-week.md)
 _Context: France, Islamist_

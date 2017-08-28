@@ -1,6 +1,6 @@
 ## [2013-02-12](/news/2013/02/12/index.md)
 
-### [2013 North Korean nuclear test:: The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/2013-north-korean-nuclear-test-the-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-th.md)
+### [The South Korean officials report that an "artificial earthquake" has occurred in North Korea suggesting that a nuclear test has occurred. ](/news/2013/02/12/the-south-korean-officials-report-that-an-artificial-earthquake-has-occurred-in-north-korea-suggesting-that-a-nuclear-test-has-occurred.md)
 North Korea conducted its third nuclear test on Tuesday in defiance of U.N. resolutions, drawing condemnation from around the world, including from its only major ally, China, which summoned the North Korean ambassador to protest.
 
 ### [Two people are dead, including the perpetrator and one of his two victims, in a murder-suicide, in a home in College Park, Maryland, United States. The three were student roommates at the University of Maryland, College Park. ](/news/2013/02/12/two-people-are-dead-including-the-perpetrator-and-one-of-his-two-victims-in-a-murder-suicide-in-a-home-in-college-park-maryland-united.md)

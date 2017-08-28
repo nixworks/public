@@ -15,8 +15,8 @@ _Context: Norway, Oslo, cluster bomb, international agreement_
 ### [ Grayrigg rail crash: A Virgin Pendolino train derails in Cumbria, United Kingdom, killing one person and injuring dozens more. ](/news/2007/02/23/grayrigg-rail-crash-a-virgin-pendolino-train-derails-in-cumbria-united-kingdom-killing-one-person-and-injuring-dozens-more.md)
 _Context: Britain, Cumbria, Grayrigg rail crash, Pendolino, Virgin Trains, train_
 
-### [ Iraq War:: Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/iraq-war-democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md)
-_Context: 2002, Democratic, George W. Bush, Iraq War, President, United States Senate, authority_
+### [ Democratic Party members of the United States Senate are planning a challenge to the authority given to President Bush in 2002. ](/news/2007/02/23/democratic-party-members-of-the-united-states-senate-are-planning-a-challenge-to-the-authority-given-to-president-bush-in-2002.md)
+_Context: 2002, Democratic, George W. Bush, President, United States Senate, authority_
 
 ### [ A fire in a nursing home in Alsunga, Latvia, kills at least 26 people. ](/news/2007/02/23/a-fire-in-a-nursing-home-in-alsunga-latvia-kills-at-least-26-people.md)
 _Context: Alsunga, Latvia, nursing home_
@@ -27,8 +27,8 @@ _Context: Pakistan, Shaheen II missile, nuclear warheads_
 ### [ The Sri Lanka Navy sinks two Tamil Tiger boats off the northwest coast killing nine rebels. ](/news/2007/02/23/the-sri-lanka-navy-sinks-two-tamil-tiger-boats-off-the-northwest-coast-killing-nine-rebels.md)
 _Context: Sri Lanka, Sri Lanka Navy, Tamil Tiger_
 
-### [ Australia:: New South Wales, Queensland and South Australia as well as the Australian Capital Territory have agreed to hand over control of the Murray-Darling Basin to the federal government. Negotiations continue with Victoria. ](/news/2007/02/23/australia-new-south-wales-queensland-and-south-australia-as-well-as-the-australian-capital-territory-have-agreed-to-hand-over-control-of.md)
-_Context: Australia, Australia's government, Australian Capital Territory, Murray-Darling basin, New South Wales, Queensland, South Australia, Victoria_
+### [ New South Wales, Queensland and South Australia as well as the Australian Capital Territory have agreed to hand over control of the Murray-Darling Basin to the federal government. Negotiations continue with Victoria. ](/news/2007/02/23/new-south-wales-queensland-and-south-australia-as-well-as-the-australian-capital-territory-have-agreed-to-hand-over-control-of-the-murray.md)
+_Context: Australia's government, Australian Capital Territory, Murray-Darling basin, New South Wales, Queensland, South Australia, Victoria_
 
 ## [Previous Day...](/news/2007/02/22/index.md)
 

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Recognition of same-sex unions in Italy: The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/recognition-of-same-sex-unions-in-italy-the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-cou.md) _Context: same-sex couples_
+1. [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md) _Context: same-sex couples_
 2. [The Church of Scotland votes to allow gay men and lesbians to become ministers. ](/news/2011/05/23/the-church-of-scotland-votes-to-allow-gay-men-and-lesbians-to-become-ministers.md) _Context: Church of Scotland_
 3. [The Presbyterian Church (U.S.A.) votes to approve openly gay and lesbian people in same sex relationships to be ordained. ](/news/2011/05/10/the-presbyterian-church-u-s-a-votes-to-approve-openly-gay-and-lesbian-people-in-same-sex-relationships-to-be-ordained.md) _Context: same-sex couples_
 4. [The same-sex couple, who recently came to international attention when they were convicted of homosexuality under a British colonial law, tell Malawi's "The Nation" that they have separated and that one of them now lives with a woman. ](/news/2010/06/9/the-same-sex-couple-who-recently-came-to-international-attention-when-they-were-convicted-of-homosexuality-under-a-british-colonial-law-te.md) _Context: same-sex couples_

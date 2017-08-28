@@ -39,7 +39,7 @@ Indonesian cleric Abu Bakar Bashir has been found guilty of inciting and organis
 ### [Simon Overland resigns as the Chief Commissioner of Police in the Australian state of Victoria following the release of a damning Ombudsman's report on the release of dodgy crime statistics before the 2010 Victorian election. ](/news/2011/06/16/simon-overland-resigns-as-the-chief-commissioner-of-police-in-the-australian-state-of-victoria-following-the-release-of-a-damning-ombudsman.md)
 _Context: 2010 Victorian election, Australia, Ombudsman, Simon Overland, Victoria, Victoria Police_
 
-### [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010-2011-ivorian-crisis.md)
+### [Authorities in the Ivory Coast set up a national commission to investigate crimes committed during the 2010-2011 Ivorian crisis. ](/news/2011/06/16/authorities-in-the-ivory-coast-set-up-a-national-commission-to-investigate-crimes-committed-during-the-2010a2011-ivorian-crisis.md)
 Authorities in Ivory Coast say they are setting up a national commission to investigate crimes committed during recent months of violence.
 
 ### [A senior aide and consultant to former Governor of the U.S. state of Maryland Bob Ehrlich are indicted in connection to robocalls in the 2010 Maryland gubernatorial election. ](/news/2011/06/16/a-senior-aide-and-consultant-to-former-governor-of-the-u-s-state-of-maryland-bob-ehrlich-are-indicted-in-connection-to-robocalls-in-the-201.md)

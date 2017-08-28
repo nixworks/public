@@ -1,14 +1,12 @@
 ## [2011-04-5](/news/2011/04/5/index.md)
 
-### [2010-2011 Ivorian crisis:: Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/2010-2011-ivorian-crisis-forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)
-_Context: 2010-2011 Ivorian crisis, Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
+### [Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)
+_Context: Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
 
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
 _Context: Afghanistan's, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
 
-### [2011 Syrian protests:: Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/2011-syrian-protests-amid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
-_Context: Syrian uprising_
-
+### [Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/amid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
 ### [The whereabouts of Chinese artist Ai Weiwei remain undetermined 48 hours after his disappearance as the U.S., France, Germany, Britain and Amnesty International ask that he be released immediately. ](/news/2011/04/5/the-whereabouts-of-chinese-artist-ai-weiwei-remain-undetermined-48-hours-after-his-disappearance-as-the-u-s-france-germany-britain-and-a.md)
 _Context: Ai Weiwei_
 
@@ -39,7 +37,7 @@ _Context: National Semiconductor, Texas Instruments, analog chip_
 ### [Cuba and its partners announce plans to drill for oil in Cuban waters in the Gulf of Mexico. ](/news/2011/04/5/cuba-and-its-partners-announce-plans-to-drill-for-oil-in-cuban-waters-in-the-gulf-of-mexico.md)
 _Context: Cuba, Gulf of Mexico, territorial waters_
 
-### [Fukushima I nuclear accidents: Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/fukushima-i-nuclear-accidents-japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-l.md)
+### [Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-level-of-radioactive-iodine-from.md)
 _Context: Fukushima I nuclear accidents, Ibaraki prefecture, Japan, radiation, radioactive iodine_
 
 ### [For over 50 days, the Libyan city of Misrata has been shelled by artillery, tanks, and snipers, and for over 20 days has had its water intentionally shut off by Muammar Gaddafi's forces. As supplies run short, hundreds of thousands are at risk of death. ](/news/2011/04/5/for-over-50-days-the-libyan-city-of-misrata-has-been-shelled-by-artillery-tanks-and-snipers-and-for-over-20-days-has-had-its-water-inten.md)

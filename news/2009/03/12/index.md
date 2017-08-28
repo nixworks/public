@@ -16,7 +16,7 @@ _Context: Holocaust, Holocaust denial, Pope, Pope Benedict XVI, Richard Williams
 _Context: Deputy Agriculture Minister-designate, Politics of Zimbabwe, Roy Bennett, Zimbabwe_
 
 ### [ American businessman Bernard Madoff pleads guilty to 11 charges surrounding his US$65-billion Ponzi scheme. ](/news/2009/03/12/american-businessman-bernard-madoff-pleads-guilty-to-11-charges-surrounding-his-us-65-billion-ponzi-scheme.md)
-_Context: Bernard Madoff, Ponzi scheme, Ponzi scheme, US$, United States_
+_Context: Bernard Madoff, Ponzi scheme, US$, United States, investment fraud_
 
 ### [ Astronauts aboard the International Space Station briefly evacuate to a Russian escape pod as space debris passes. ](/news/2009/03/12/astronauts-aboard-the-international-space-station-briefly-evacuate-to-a-russian-escape-pod-as-space-debris-passes.md)
 _Context: International Space Station, Russia, astronaut, escape pod, space debris_

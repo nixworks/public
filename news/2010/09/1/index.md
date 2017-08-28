@@ -45,10 +45,10 @@ _Context: 2009, Eli Lilly & Co., Federal Circuit, Indiana, Teva Pharmaceuticals,
 ### [57,000 people are made homeless by heavy floods near Aweil, Northern Bahr el Ghazal in southern Sudan. ](/news/2010/09/1/57-000-people-are-made-homeless-by-heavy-floods-near-aweil-northern-bahr-el-ghazal-in-southern-sudan.md)
 Some 57,000 people have been forced from their homes because of dramatic floods in south-western Sudan over the past month, officials say.
 
-### [2010 Pakistan floods:: The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/2010-pakistan-floods-the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md)
+### [The World Bank pledges to loan an additional $100 million to Pakistan. ](/news/2010/09/1/the-world-bank-pledges-to-loan-an-additional-100-million-to-pakistan.md)
 The World Bank has increased funding to help Pakistan cope with catastrophic flooding by $100 million, to a total of $1 billion, the bank said in a statement on Wednesday.
 
-### [2010 Copiap mining accident:: The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/2010-copiapo-mining-accident-the-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days.md)
+### [The 33 miners involved in the 2010 Copiap mining accident in Chile receive their first hot meal in 26 days: it consists of meatballs, chicken and rice through a tube. ](/news/2010/09/1/the-33-miners-involved-in-the-2010-copiapo-mining-accident-in-chile-receive-their-first-hot-meal-in-26-days-it-consists-of-meatballs-chick.md)
 Chilean miners trapped underground receive their first hot meal in 26 days, as Nasa experts arrive at the mine site.
 
 ### [The U.S. state of North Carolina orders the evacuation of Cape Hatteras and Ocracoke Island ahead of Hurricane Earl. ](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.md)

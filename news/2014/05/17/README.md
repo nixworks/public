@@ -9,8 +9,8 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [A landslide in the Dariali Gorge in northeastern Georgia kills at least three people, blocks the Terek River, and disrupts gas supply to Armenia. ](/news/2014/05/17/a-landslide-in-the-dariali-gorge-in-northeastern-georgia-kills-at-least-three-people-blocks-the-terek-river-and-disrupts-gas-supply-to-arm.md)
 _Context: Armenia, Dariali Gorge, Georgian, Terek River_
 
-### [Sinking of the MV Miraj-4:: Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/sinking-of-the-mv-miraj-4-officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-f.md)
-_Context: Bangladesh, Meghna River, Sinking of the MV Miraj-4_
+### [Officials call off rescue operations as 54 dead bodies recovered with an unknown number of people missing in a ferry disaster in the Meghna River of Bangladesh.](/news/2014/05/17/officials-call-off-rescue-operations-as-54-dead-bodies-recovered-with-an-unknown-number-of-people-missing-in-a-ferry-disaster-in-the-meghna.md)
+_Context: Bangladesh, Meghna River_
 
 ### [A pregnant Sudanese woman Mariam Yahia Ibrahim Ishag is set to receive 100 lashes for being married to a Christian man and is sentenced to death for refusing to renounce her Christianity causing international outrage. ](/news/2014/05/17/a-pregnant-sudanese-woman-mariam-yahia-ibrahim-ishag-is-set-to-receive-100-lashes-for-being-married-to-a-christian-man-and-is-sentenced-to-d.md)
 _Context: Mariam Yahia Ibrahim Ishag, Sudanese_

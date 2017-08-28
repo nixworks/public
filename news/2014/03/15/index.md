@@ -9,11 +9,11 @@ _Context: China, Jack Lew, Treasury Secretary, Wang Yang, yuan_
 ### [Voters in the Australian states of Tasmania and South Australia go to the polls for state elections. The Liberal Party led by Will Hodgman have won government in the Tasmanian election while the South Australian election is too close to call. ](/news/2014/03/15/voters-in-the-australian-states-of-tasmania-and-south-australia-go-to-the-polls-for-state-elections-the-liberal-party-led-by-will-hodgman-h.md)
 Voting booths open for state elections in South Australia and Tasmania, with the Liberals tipped to win both contests.
 
-### [Slovak presidential election, 2014: Voters go to the polls in Slovakia with partial results showing that Prime Minister Robert Fico and businessman-turned philanthropist Andrej Kiska are likely to be the two contenders in the second round. ](/news/2014/03/15/slovak-presidential-election-2014-voters-go-to-the-polls-in-slovakia-with-partial-results-showing-that-prime-minister-robert-fico-and-busi.md)
+### [Voters go to the polls in Slovakia with partial results showing that Prime Minister Robert Fico and businessman-turned philanthropist Andrej Kiska are likely to be the two contenders in the second round. ](/news/2014/03/15/voters-go-to-the-polls-in-slovakia-with-partial-results-showing-that-prime-minister-robert-fico-and-businessman-turned-philanthropist-andrej.md)
 _Context: Andrej Kiska, Prime Minister, Robert Fico's, Slovakia's, presidential election_
 
-### [2014 Crimean crisis and 2014 Russian anti-war protests: The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/2014-crimean-crisis-and-2014-russian-anti-war-protests-the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000.md)
-_Context: 2014 Crimean crisis, Crimean referendum, 2014, March of Peace_
+### [The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000-people-participated-in-anti-war-protests-in-moscow.md)
+_Context: Crimean referendum, 2014, March of Peace_
 
 ## [Previous Day...](/news/2014/03/14/index.md)
 

@@ -11,7 +11,7 @@ Two men are killed as a hot air balloon crashes on a bowling green in Somerset.
 
 ### Related:
 
-1. [2016 Lockhart hot air balloon crash: At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/2016-lockhart-hot-air-balloon-crash-at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _Context: hot air balloon_
+1. [At least 16 people are killed after a hot air balloon catches fire and crashes near Lockhart, Texas. ](/news/2016/07/30/at-least-16-people-are-killed-after-a-hot-air-balloon-catches-fire-and-crashes-near-lockhart-texas.md) _Context: hot air balloon_
 2. [Four people are killed after a light aircraft crashes near the village of Churchstanton in Somerset. ](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-crashes-near-the-village-of-churchstanton-in-somerset.md) _Context: Somerset_
 3. [The English Environment Agency issues two severe flood warnings where there is a "danger to life" for Somerset in South West England. ](/news/2014/02/6/the-english-environment-agency-issues-two-severe-flood-warnings-where-there-is-a-danger-to-life-for-somerset-in-south-west-england.md) _Context: Somerset_
 4. [Winter storms will return to the United Kingdom with flood warnings in place for parts of Gloucestershire, Berkshire, Surrey and Somerset. ](/news/2014/02/14/winter-storms-will-return-to-the-united-kingdom-with-flood-warnings-in-place-for-parts-of-gloucestershire-berkshire-surrey-and-somerset.md) _Context: Somerset_

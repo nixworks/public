@@ -1,12 +1,12 @@
 ## [2009-07-31](/news/2009/07/31/index.md)
 
-### [ Nigerian battles: The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/nigerian-battles-the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when.md)
+### [ The commander of the operation against the Boko Haram group claims that Islamic sect leader Mohammed Yusuf was alive when captured. ](/news/2009/07/31/the-commander-of-the-operation-against-the-boko-haram-group-claims-that-islamic-sect-leader-mohammed-yusuf-was-alive-when-captured.md)
 Rights group urges investigation into death of Boko Haram leader blamed for attacks.
 
-### [ Spain: Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
+### [ Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. ](/news/2009/07/31/spain-is-on-red-alert-as-eta-marks-its-50th-anniversary-following-the-bombing-of-burgos-and-the-bombing-of-palma-nova.md)
 Police in Majorca are on heightened alert following yesterday&#39;s car bombing on the holiday island in which two civil guards were killed.
 
-### [ Venezuela: A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/venezuela-a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-pl.md)
+### [ A new media law limiting freedom of speech, under which journalists could be imprisoned for publishing "harmful" material, is placed before the National Assembly. ](/news/2009/07/31/a-new-media-law-limiting-freedom-of-speech-under-which-journalists-could-be-imprisoned-for-publishing-harmful-material-is-placed-before.md)
 _Context: National Assembly, Venezuela, freedom of speech_
 
 ### [ U.S. House of Representatives approves an extra $2 billion to the Car Allowance Rebate System. ](/news/2009/07/31/u-s-house-of-representatives-approves-an-extra-2-billion-to-the-car-allowance-rebate-system.md)
@@ -21,7 +21,7 @@ _Context: Barcelona, Netherlands, bus crash_
 ### [ Patrizia D'Addario, the escort at the centre of Italian Prime Minister Silvio Berlusconi's sex scandal, claims he and his party offered her a seat in the European Parliament until his wife complained. ](/news/2009/07/31/patrizia-d-addario-the-escort-at-the-centre-of-italian-prime-minister-silvio-berlusconi-s-sex-scandal-claims-he-and-his-party-offered-her.md)
 _Context: European Parliament, Italian, Italian Prime Minister, Silvio Berlusconi_
 
-### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalin-khabarovsk-vladivostok-gas-pipeline.md)
+### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinakhabarovskavladivostok-gas-pipeline.md)
 * Gazprom needs 8-10 bcm of gas for new pipeline * Putin says domestic market should take priority * ExxonMobil considering all options fo
 
 ### [ British Airways loses GBP148m in the last three months, the company's first loss since privatisation in 1987. ](/news/2009/07/31/british-airways-loses-agbp148m-in-the-last-three-months-the-company-s-first-loss-since-privatisation-in-1987.md)

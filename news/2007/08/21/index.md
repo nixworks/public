@@ -30,8 +30,8 @@ _Context: Bangladesh, Dhaka University_
 ### [ Saif al-Islam Gaddafi, a son of Libyan leader Muammar Gaddafi, has called for independent institutions in Libya including a central bank, a high court and media. ](/news/2007/08/21/saif-al-islam-gaddafi-a-son-of-libyan-leader-muammar-gaddafi-has-called-for-independent-institutions-in-libya-including-a-central-bank-a.md)
 _Context: Libya, Muammar Gaddafi, Saif al-Islam Gaddafi, Supreme Court, central bank_
 
-### [ Hurricane Dean:: Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-categ.md)
-_Context: Belize, Chetumal, Hurricane Dean, Mexico, Yucatn Peninsula_
+### [ Hurricane Dean makes landfall on the Yucatn Peninsula in Mexico, just north of Chetumal, near the Belize border, at Category 5 strength.](/news/2007/08/21/hurricane-dean-makes-landfall-on-the-yucatan-peninsula-in-mexico-just-north-of-chetumal-near-the-belize-border-at-category-5-strength.md)
+_Context: Belize, Chetumal, Mexico, Yucatn Peninsula_
 
 ### [ The governments of Angola and the Democratic Republic of the Congo are negotiating over a line demarcating each nation's respective rights to petroleum in the Atlantic Ocean. The DRC is expected to gain exploration rights to billions of untapped barrels worth of oil. ](/news/2007/08/21/the-governments-of-angola-and-the-democratic-republic-of-the-congo-are-negotiating-over-a-line-demarcating-each-nation-s-respective-rights.md)
 _Context: Angola, Atlantic Ocean, Democratic Republic of the Congo_

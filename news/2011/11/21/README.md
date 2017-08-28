@@ -1,6 +1,6 @@
 ## [2011-11-21](/news/2011/11/21/index.md)
 
-### [2011 Egyptian revolution:: At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/2011-egyptian-revolution-at-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahri.md)
+### [At least 11 people are killed in ongoing clashes between Egyptian protesters and security forces in Cairo's Tahrir Square. ](/news/2011/11/21/at-least-11-people-are-killed-in-ongoing-clashes-between-egyptian-protesters-and-security-forces-in-cairo-s-tahrir-square.md)
 Protesters in Cairo demand the resignation of the head of Egypt governing military council amid growing concern that the armed forces do not want to hand over power.
 
 ### [Two people are injured after Syrian soldiers attack buses carrying Turkish citizens returning through Syria from a hajj pilgrimage to Saudi Arabia. ](/news/2011/11/21/two-people-are-injured-after-syrian-soldiers-attack-buses-carrying-turkish-citizens-returning-through-syria-from-a-hajj-pilgrimage-to-saudi.md)

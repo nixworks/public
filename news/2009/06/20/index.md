@@ -1,6 +1,6 @@
 ## [2009-06-20](/news/2009/06/20/index.md)
 
-### [ Iran: Riot police clash with protesters in Tehran. ](/news/2009/06/20/iran-riot-police-clash-with-protesters-in-tehran.md)
+### [ Riot police clash with protesters in Tehran. ](/news/2009/06/20/riot-police-clash-with-protesters-in-tehran.md)
 Tehran: Irans Guardian Council will recount 10 percent of the ballot boxes in last weeks disputed presidential election, the state television reported...
 
 ### [ A sunken ship believed to carry over US$15 million in gold is located in the Magellan Straits off the coast of Argentina. ](/news/2009/06/20/a-sunken-ship-believed-to-carry-over-us-15-million-in-gold-is-located-in-the-magellan-straits-off-the-coast-of-argentina.md)
@@ -18,7 +18,7 @@ _Context: Acropolis Museum, Athens, Greek_
 ### [ The bodies of two British hostages in Iraq are discovered. ](/news/2009/06/20/the-bodies-of-two-british-hostages-in-iraq-are-discovered.md)
 Two British hostages held in Iraq since 2007 are feared dead after two bodies were discovered in Baghdad, the Foreign Office has disclosed.
 
-### [ Attacks on Romanians in Belfast: An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/attacks-on-romanians-in-belfast-an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md)
+### [ An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md)
 Two teenagers have been charged in connection with racist attacks on Romanian families in Belfast.
 
 ### [ "New York Times" reporter David S. Rohde, kidnapped by the Taliban seven months ago, escapes. ](/news/2009/06/20/new-york-times-reporter-david-s-rohde-kidnapped-by-the-taliban-seven-months-ago-escapes.md)

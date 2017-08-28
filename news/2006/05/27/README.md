@@ -4,7 +4,7 @@
 _Context: Acapulco, Mexico, Pacific, Tropical Storm Aletta_
 
 ### [ Myanmar extends the house arrest detention of opposition leader Aung San Suu Kyi for another year, amid continued pressure from the U.N. for her release. ](/news/2006/05/27/myanmar-extends-the-house-arrest-detention-of-opposition-leader-aung-san-suu-kyi-for-another-year-amid-continued-pressure-from-the-u-n-fo.md)
-_Context: Aung San Suu Kyi, Myanmar, United Nations, house arrest_
+_Context: Aung San Suu Kyi, Burmese, United Nations, house arrest_
 
 ### [ Over 70 participants in a banned gay pride parade are detained in Moscow. Amongst them are organizers and members of European Parliament. German parliamentary member Volker Beck is punched in the face and arrested by police. Moscow's mayor, Yuriy Luzhkov banned the march, saying "homosexuality is unnatural." ](/news/2006/05/27/over-70-participants-in-a-banned-gay-pride-parade-are-detained-in-moscow-amongst-them-are-organizers-and-members-of-european-parliament-g.md)
 _Context: Bundestag, European Parliament, Moscow, Volker Beck, Yuriy Luzhkov, gay pride_

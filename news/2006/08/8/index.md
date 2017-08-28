@@ -9,7 +9,7 @@ _Context: Ben Bernanke, U.S. Federal Reserve, United States_
 ### [ As Chadian President Idriss Dby is sworn-in to his third term in office, he hugs Sudanese President Omar al-Bashir, who only a few days ago was overseeing a campaign to overthrow the second Dby administration. ](/news/2006/08/8/as-chadian-president-idriss-deby-is-sworn-in-to-his-third-term-in-office-he-hugs-sudanese-president-omar-al-bashir-who-only-a-few-days-ag.md)
 _Context: Chadian President, Idriss Deby, Omar al-Bashir, Sudanese President, second Dby administration_
 
-### [ 2006 Israel-Lebanon conflict:: Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/2006-israel-lebanon-conflict-lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment.md)
+### [ Lebanon's coastline could take up to 10 years to recover from a massive oil spill, the nation's environment minister has said. ](/news/2006/08/8/lebanon-s-coastline-could-take-up-to-10-years-to-recover-from-a-massive-oil-spill-the-nation-s-environment-minister-has-said.md)
 Foreign Ministry recalls envoy following Venezuelan president&#39;s comments comparing Israel&#39;s operation in Lebanon to Hitler&#39;s actions 
 
 ### [ A strong earthquake of 6.7 magnitude hits near the island of Espiritu Santo in Vanuatu at 9:18 a.m. local time.](/news/2006/08/8/a-strong-earthquake-of-6-7-magnitude-hits-near-the-island-of-espiritu-santo-in-vanuatu-at-9-18-a-m-local-time.md)

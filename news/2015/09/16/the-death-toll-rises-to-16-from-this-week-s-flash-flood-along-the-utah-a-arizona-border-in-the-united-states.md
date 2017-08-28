@@ -1,6 +1,6 @@
 ### [2015-09-16](/news/2015/09/16/index.md)
 
-# The death toll rises to 16 from this week's flash flood along the  Utah - Arizona border in the United States. 
+# The death toll rises to 16 from this week's flash flood along the Utah - Arizona border in the United States. 
 
 
 

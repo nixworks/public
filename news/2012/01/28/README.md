@@ -1,6 +1,6 @@
 ## [2012-01-28](/news/2012/01/28/index.md)
 
-### [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011-2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md)
+### [2011-2012 Syrian uprising: The Arab League suspends its observer mission, citing increased violence. ](/news/2012/01/28/2011a2012-syrian-uprising-the-arab-league-suspends-its-observer-mission-citing-increased-violence.md)
 _Context: 2011-2012 Syrian uprising, Arab League_
 
 ### [Fires rage through Dakar after Senegal's top court rules that President Abdoulaye Wade can run for a third term in office next month and prevents his best-known opponent, Grammy Award-winning musician Youssou N'Dour, from running against him. ](/news/2012/01/28/fires-rage-through-dakar-after-senegal-s-top-court-rules-that-president-abdoulaye-wade-can-run-for-a-third-term-in-office-next-month-and-pre.md)

@@ -66,10 +66,10 @@ US federal agents charge 127 suspected mobsters in the New York region in the la
 ### [The "Daily Nation" publishes a picture of a police officer apparently shooting a male at point-blank range on a main road in Nairobi; Amnesty condemns the incident and three police officers are suspended. ](/news/2011/01/20/the-daily-nation-publishes-a-picture-of-a-police-officer-apparently-shooting-a-male-at-point-blank-range-on-a-main-road-in-nairobi-amnest.md)
 Kenyan authorities suspend three policemen after a newspaper published a picture of an officer apparently shooting a man dead.
 
-### [Situation in Tunisia:: Tunisia's army fires warning shots as citizens protest the current government and wave baguettes in a call for an end to food shortages. ](/news/2011/01/20/situation-in-tunisia-tunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end.md)
+### [Tunisia's army fires warning shots as citizens protest the current government and wave baguettes in a call for an end to food shortages. ](/news/2011/01/20/tunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end-to-food-shortages.md)
 Resignations an attempt to regain credibility in the cabinet but it is unclear if protesters will accept it
 
-### [Situation in Ireland:: Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-k.md)
+### [Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-killeen-all-resign-follo.md)
 Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning from Cabinet.
 
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)

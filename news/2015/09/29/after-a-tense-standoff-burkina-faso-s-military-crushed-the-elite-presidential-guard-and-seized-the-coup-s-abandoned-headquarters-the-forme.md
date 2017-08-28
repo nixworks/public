@@ -1,0 +1,25 @@
+### [2015-09-29](/news/2015/09/29/index.md)
+
+# After a tense standoff, Burkina Faso's military crushed the elite presidential guard and seized the coup's abandoned headquarters. The former head of the guard, Gen. Gilbert Diendere, had called on his men to lay down their weapons to avoid a bloodbath. Diendere told Agence France-Presse (AFP) he feared "many deaths and injuries" in the operation. It is unclear whether there are casualties. 
+
+The short-lived putsch by supporters of former president Blaise Compaoré has ended after their stronghold was reportedly shelled by the military
+
+
+### Source:
+
+1. [BBC](http://www.bbc.com/news/world-africa-34395373)
+2. [The Guardian](http://www.theguardian.com/world/2015/sep/30/burkina-faso-coup-plotters-abandon-barracks-after-army-assault)
+3. [The New York Times](http://www.nytimes.com/2015/09/30/world/africa/burkina-faso.html)
+
+### Related:
+
+1. [Burkina Faso's cabinet dissolves the elite presidential guard behind last week's coup d'tat, creates a commission to investigate these events, and dismisses the minister in charge of security. ](/news/2015/09/25/burkina-faso-s-cabinet-dissolves-the-elite-presidential-guard-behind-last-week-s-coup-d-etat-creates-a-commission-to-investigate-these-even.md) _Context: Burkina Faso, elite presidential guard_
+2. [The coup is reversed. Interim President Michel Kafando and interim Prime Minister Yacouba Isaac Zida are reinstalled, and government soldiers are returned to their stations. Coup leader Gen. Gilbert Diendere apologizes for the coup and the week-long unrest that killed at least 10 people. The Economic Community of West African States (ECOWAS) suggests that elections, originally scheduled for Oct. 11, be held Nov. 22, and that candidate eligibility rules be more inclusive. ](/news/2015/09/24/the-coup-is-reversed-interim-president-michel-kafando-and-interim-prime-minister-yacouba-isaac-zida-are-reinstalled-and-government-soldier.md) _Context: 2015 Burkinabe coup d'etat, Gilbert Diendere_
+3. [The provisional government of Burkina Faso is overthrown in a military coup. ](/news/2015/09/17/the-provisional-government-of-burkina-faso-is-overthrown-in-a-military-coup.md) _Context: 2015 Burkinabe coup d'etat, Burkina Faso_
+4. [Soldiers detain the interim president and prime minister of Burkina Faso, as well as a number of cabinet ministers, sparking fear of a coup d'etat. A joint statement by the United Nations, the African Union, and the Economic Community of West African States states that the presidential guard should immediately release the leaders of the interim government. ](/news/2015/09/16/soldiers-detain-the-interim-president-and-prime-minister-of-burkina-faso-as-well-as-a-number-of-cabinet-ministers-sparking-fear-of-a-coup.md) _Context: 2015 Burkinabe coup d'etat, Burkina Faso_
+5. [At least 17 people, including two Canadians, are reported dead and eight others injured in an attack on a Turkish themed restaurant in Ouagadougou, the capital of Burkina Faso. ](/news/2017/08/13/at-least-17-people-including-two-canadians-are-reported-dead-and-eight-others-injured-in-an-attack-on-a-turkish-themed-restaurant-in-ouaga.md) _Context: Burkina Faso_
+6. [A trial at a court in Ouagadougou, Burkina Faso, opens to try former President Blaise Compaor and members of his cabinet in absentia. Burkina Faso accuses Compaor, who is in exile in the Ivory Coast, of ordering the killing of protesters during the uprising that ousted him in 2014. ](/news/2017/05/15/a-trial-at-a-court-in-ouagadougou-burkina-faso-opens-to-try-former-president-blaise-compaore-and-members-of-his-cabinet-in-absentia-burki.md) _Context: Burkina Faso_
+7. [Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. ](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-relations-with-taiwan-and-recognize-the-one-china-policy-despite-being-offered-aid-from-china.md) _Context: Burkina Faso_
+8. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _Context: Burkina Faso_
+9. [An al Qaeda affiliate has freed Jocelyn Elliott, an Australian woman kidnapped in Burkina Faso along with her husband. ](/news/2016/02/6/an-al-qaeda-affiliate-has-freed-jocelyn-elliott-an-australian-woman-kidnapped-in-burkina-faso-along-with-her-husband.md) _Context: Burkina Faso_
+10. [Burkina Faso security forces storm the Hotel Splendid which had been under attack by Al Qaeda in the Islamic Maghreb militants. Over 126 people have been freed and at least 29 people have died. ](/news/2016/01/16/burkina-faso-security-forces-storm-the-hotel-splendid-which-had-been-under-attack-by-al-qaeda-in-the-islamic-maghreb-militants-over-126-peo.md) _Context: Burkina Faso_

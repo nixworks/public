@@ -7,7 +7,7 @@ _Context: European Union, Mohammed, Osama bin Laden, al-Qaeda_
 _Context: Early elections, Kuwait, Sabah Al-Ahmad Al-Jaber Al-Sabah_
 
 ### [ Bulgaria, Croatia, Hungary and Monaco jointly recognize Kosovo's independence. ](/news/2008/03/19/bulgaria-croatia-hungary-and-monaco-jointly-recognize-kosovo-s-independence.md)
-_Context: Bulgaria, Croatia, Hungary, International reaction to the 2008 Kosovo declaration of independence, Kosovo, Monaco_
+_Context: Bulgaria, Croatia, Hungary, Kosovo, Monaco, recognize_
 
 ### [ Foreign Minister of Russia Sergey Lavrov states that "the Albanians in Macedonia have already made demands that they be granted such autonomy...which could be seen as a move towards independence." The Foreign Ministry also linked the events in Tibet with the declaration of independence by Kosovo, showing a growing movement of groups seeking independence. ](/news/2008/03/19/foreign-minister-of-russia-sergey-lavrov-states-that-the-albanians-in-macedonia-have-already-made-demands-that-they-be-granted-such-autono.md)
 _Context: 2008 unrest in Tibet, Foreign Minister of Russia, Sergey Lavrov, autonomy, ethnic Albanian_

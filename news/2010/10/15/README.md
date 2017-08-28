@@ -42,7 +42,7 @@ _Context: Ajka, Hungary, Veszprem County, accident earlier this month, alumina_
 ### [Four miners are trapped underground in southern Ecuador. ](/news/2010/10/15/four-miners-are-trapped-underground-in-southern-ecuador.md)
 _Context: Ecuador_
 
-### [United Nations Security Council:: The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/united-nations-security-council-the-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum.md)
+### [The Council votes to extend the mandate for the mission to Darfur as South Sudan prepares for a referendum on self-determination; China abstains. ](/news/2010/10/15/the-council-votes-to-extend-the-mandate-for-the-mission-to-darfur-as-south-sudan-prepares-for-a-referendum-on-self-determination-china-abst.md)
 The U.N. Security Council voted to extend the mandate for the mission to Darfur as South Sudan gets set for a January vote for self-determination.
 
 ### [Israel unveils preliminary plans for 238 new homes for Jewish settlers in East Jerusalem with Palestinians protesting in response. ](/news/2010/10/15/israel-unveils-preliminary-plans-for-238-new-homes-for-jewish-settlers-in-east-jerusalem-with-palestinians-protesting-in-response.md)

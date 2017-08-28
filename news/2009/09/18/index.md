@@ -9,7 +9,7 @@ At least 12 miners were killed today in a methane explosion at a coal mine in so
 ### [ Hong Kong sentences former Morgan Stanley managing director Du Jun to seven years in prison for his insider trading conviction in its most high-profile case. ](/news/2009/09/18/hong-kong-sentences-former-morgan-stanley-managing-director-du-jun-to-seven-years-in-prison-for-his-insider-trading-conviction-in-its-most.md)
 _Context: Du Jun, Hong Kong, Morgan Stanley, insider trading_
 
-### [ International Quds Day:: Iranian President Mahmoud Ahmadinejad calls The Holocaust a "myth" and says that "the very existence of this regime is an insult to the dignity of the people" in referring to Israel at a Quds Day rally in Tehran. ](/news/2009/09/18/international-quds-day-iranian-president-mahmoud-ahmadinejad-calls-the-holocaust-a-myth-and-says-that-the-very-existence-of-this-regim.md)
+### [ Iranian President Mahmoud Ahmadinejad calls The Holocaust a "myth" and says that "the very existence of this regime is an insult to the dignity of the people" in referring to Israel at a Quds Day rally in Tehran. ](/news/2009/09/18/iranian-president-mahmoud-ahmadinejad-calls-the-holocaust-a-myth-and-says-that-the-very-existence-of-this-regime-is-an-insult-to-the-dig.md)
 Iranian President Mahmoud Ahmadinejad has said the Holocaust was a &#39;myth&#39;, reiterating comments that sparked outrage around the world.
 
 ### [ 30,000 Ivory Coast residents seriously affected by the dumping of toxic waste by Trafigura, which, according to the United Nations, has killed at least 15 people, say an undisclosed compensation deal offered by a London-based oil firm is not enough. ](/news/2009/09/18/30-000-ivory-coast-residents-seriously-affected-by-the-dumping-of-toxic-waste-by-trafigura-which-according-to-the-united-nations-has-kil.md)
@@ -18,7 +18,7 @@ _Context: Ivory Coast, London, United Nations, illegally dumping toxic waste_
 ### [ Solidarity co-founder and former President of Poland Lech Walesa (in favour) and United Kingdom Independence Party (UKIP) leader Nigel Farage (against) arrive in Ireland to campaign over the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/18/solidarity-co-founder-and-former-president-of-poland-lech-waaasa-in-favour-and-united-kingdom-independence-party-ukip-leader-nigel-fa.md)
  LECH WALESA VISIT: THE LISBON Treaty is &ldquo;absolutely essential&rdquo; for Europe, former Polish president and leader of the Solidarity&hellip;
 
-### [ Burma:: Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md)
+### [ Burma begins releasing 7,114 prisoners in an amnesty announced by the government. ](/news/2009/09/18/burma-begins-releasing-7-114-prisoners-in-an-amnesty-announced-by-the-government.md)
 It is not known if political detainees are among the 7,114 prisoners due to be released.
 
 ### [ The first ever Global Irish Economic Forum, modelled on Switzerland's World Economic Forum, begins in Farmleigh in Dublin's Phoenix Park. ](/news/2009/09/18/the-first-ever-global-irish-economic-forum-modelled-on-switzerland-s-world-economic-forum-begins-in-farmleigh-in-dublin-s-phoenix-park.md)

@@ -12,7 +12,7 @@ _Context: Richter scale, earthquake_
 ### [ A gunman kills four at a public housing complex in Bristol, Tennessee, before committing suicide. ](/news/2008/02/27/a-gunman-kills-four-at-a-public-housing-complex-in-bristol-tennessee-before-committing-suicide.md)
 _Context: Bristol, Tennessee_
 
-### [ Microsoft is fined a record -899 million by the EU anti-trust commission. ](/news/2008/02/27/microsoft-is-fined-a-record-899-million-by-the-eu-anti-trust-commission.md)
+### [ Microsoft is fined a record EUR899 million by the EU anti-trust commission. ](/news/2008/02/27/microsoft-is-fined-a-record-a-899-million-by-the-eu-anti-trust-commission.md)
 Regulators issued the company a $1.35 billion fine for failing to comply with a 2004 judgment that it had abused its dominance.
 
 ## [Previous Day...](/news/2008/02/26/index.md)

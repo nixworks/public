@@ -1,12 +1,12 @@
 ## [2013-01-4](/news/2013/01/4/index.md)
 
-### [Israeli-Palestinian conflict:: Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/israeli-palestinian-conflict-hundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-20.md)
+### [Hundreds of thousands of people rally in Gaza in a show of unity between the governing Hamas, elected in 2006, and Fatah, in opposition since then. ](/news/2013/01/4/hundreds-of-thousands-of-people-rally-in-gaza-in-a-show-of-unity-between-the-governing-hamas-elected-in-2006-and-fatah-in-opposition-sinc.md)
 Supporters of Palestinian leader Mahmoud Abbas hold the biggest rally of its kind in Gaza since rivals Hamas came to power there in 2007.
 
-### [Syrian civil war:: 9 people are killed by a car bomb at a petrol station in the Syrian capital of Damascus. The bomb reportedly hit the Barzeh al-Balad district, as large numbers of people were queuing for fuel. ](/news/2013/01/4/syrian-civil-war-9-people-are-killed-by-a-car-bomb-at-a-petrol-station-in-the-syrian-capital-of-damascus-the-bomb-reportedly-hit-the-barz.md)
+### [9 people are killed by a car bomb at a petrol station in the Syrian capital of Damascus. The bomb reportedly hit the Barzeh al-Balad district, as large numbers of people were queuing for fuel. ](/news/2013/01/4/9-people-are-killed-by-a-car-bomb-at-a-petrol-station-in-the-syrian-capital-of-damascus-the-bomb-reportedly-hit-the-barzeh-al-balad-distric.md)
 At least nine people have been killed and many injured by a car bomb at a petrol station in Damascus, say activists.
 
-### [Belfast City Hall flag protests:: Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/belfast-city-hall-flag-protests-police-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md)
+### [Police clash with demonstrators in Belfast over when the Union Flag is to be flown over their city hall. ](/news/2013/01/4/police-clash-with-demonstrators-in-belfast-over-when-the-union-flag-is-to-be-flown-over-their-city-hall.md)
 Ten police officers are injured as trouble breaks out in east Belfast following a loyalist protest against restrictions to the flying of the union flag.
 
 ### [Joblessness in the United States remains constant, with latest official figures showing a modest job creation total of 155,000. ](/news/2013/01/4/joblessness-in-the-united-states-remains-constant-with-latest-official-figures-showing-a-modest-job-creation-total-of-155-000.md)

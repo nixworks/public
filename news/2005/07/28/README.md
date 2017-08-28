@@ -1,8 +1,6 @@
 ## [2005-07-28](/news/2005/07/28/index.md)
 
-### [ Conflict in Iraq:: Two people have died following an explosion which destroyed a train tanker carrying oil, believed to have been caused by a bomb on the tracks. [Death Toll Confirmed]](/news/2005/07/28/conflict-in-iraq-two-people-have-died-following-an-explosion-which-destroyed-a-train-tanker-carrying-oil-believed-to-have-been-caused-by.md)
-_Context: Conflict in Iraq_
-
+### [ Two people have died following an explosion which destroyed a train tanker carrying oil, believed to have been caused by a bomb on the tracks. [Death Toll Confirmed]](/news/2005/07/28/two-people-have-died-following-an-explosion-which-destroyed-a-train-tanker-carrying-oil-believed-to-have-been-caused-by-a-bomb-on-the-trac.md)
 ### [ Israeli-Palestinian Conflict: A Palestinian man has been shot dead by Israeli soldiers, who had suspected him of involvement in a Suicide bombing. ](/news/2005/07/28/israeli-palestinian-conflict-a-palestinian-man-has-been-shot-dead-by-israeli-soldiers-who-had-suspected-him-of-involvement-in-a-suicide-b.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, suicide bomb_
 

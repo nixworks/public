@@ -12,7 +12,7 @@ _Context: Boko Haram_
 ### [Israeli-Palestinian clashes subside as a truce between Israel and Palestinians militants in the Gaza Strip comes into effect. ](/news/2012/03/13/israeli-palestinian-clashes-subside-as-a-truce-between-israel-and-palestinians-militants-in-the-gaza-strip-comes-into-effect.md)
 A truce mediated by Egypt has been agreed between Israel and Palestinian militants in Gaza after four days of deadly clashes.
 
-### [Afghanistan:: Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/afghanistan-students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md)
+### [Students in Afghanistan hold protests in response to the Kandahar massacre by a member of the United States Army. ](/news/2012/03/13/students-in-afghanistan-hold-protests-in-response-to-the-kandahar-massacre-by-a-member-of-the-united-states-army.md)
 Gunmen in Afghanistan have launched an attack on a government delegation at a memorial service for 16 villagers who were killed by a US soldier.
 
 ### ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md)
@@ -48,7 +48,7 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 ### [Minister for Foreign Affairs Bob Carr is sworn in as a member of the Senate of Australia, replacing Mark Arbib, representing New South Wales.](/news/2012/03/13/minister-for-foreign-affairs-bob-carr-is-sworn-in-as-a-member-of-the-senate-of-australia-replacing-mark-arbib-representing-new-south-wales.md)
 _Context: Australian Foreign Minister, Bob Carr, Mark Arbib, New South Wales, Senate of Australia_
 
-### [Republican Party presidential primaries:: Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/republican-party-presidential-primaries-voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santo.md)
+### [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md)
 Rick Santorum won the Alabama and Mississippi primaries, holding off stiff challenges from Newt Gingrich and Mitt Romney.
 
 ### [A research study conducted by Harvard Medical School shows that red meat increases the risk of death and has other negative health implications. ](/news/2012/03/13/a-research-study-conducted-by-harvard-medical-school-shows-that-red-meat-increases-the-risk-of-death-and-has-other-negative-health-implicati.md)

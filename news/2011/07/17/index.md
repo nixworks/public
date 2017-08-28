@@ -1,9 +1,9 @@
 ## [2011-07-17](/news/2011/07/17/index.md)
 
-### [Arab Spring: 2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. ](/news/2011/07/17/arab-spring-2011-egyptian-revolution-ousted-egyptian-leader-hosni-mubarak-suffers-stroke-falls-into-coma.md)
+### [2011 Egyptian revolution: Ousted Egyptian leader Hosni Mubarak suffers stroke, falls into coma. ](/news/2011/07/17/2011-egyptian-revolution-ousted-egyptian-leader-hosni-mubarak-suffers-stroke-falls-into-coma.md)
 Hosni Mubarak&#039;s lawyer says the former Egyptian president is in a coma just weeks before he is due to stand trial on charges of corruption and murder.
 
-### [Warner Bros. has reported that "Harry Potter and the Deathly Hallows - Part 2", the final instalment of the "Harry Potter" film series has broken box office records, taking $92.1m (GBP57m) in North America on Friday, its opening day. ](/news/2011/07/17/warner-bros-has-reported-that-harry-potter-and-the-deathly-hallows-part-2-the-final-instalment-of-the-harry-potter-film-series-has.md)
+### [Warner Bros. has reported that "Harry Potter and the Deathly Hallows - Part 2", the final instalment of the "Harry Potter" film series has broken box office records, taking $92.1m (GBP57m) in North America on Friday, its opening day. ](/news/2011/07/17/warner-bros-has-reported-that-harry-potter-and-the-deathly-hallows-a-part-2-the-final-instalment-of-the-harry-potter-film-series-has.md)
 _Context: ''Harry Potter'' film series, Harry Potter and the Deathly Hallows - Part 2, Warner Bros._
 
 ### [The United Nations delivers aid to parts of Somalia controlled by al-Shabab militants for the first time since they ended the ban on food supplies. ](/news/2011/07/17/the-united-nations-delivers-aid-to-parts-of-somalia-controlled-by-al-shabab-militants-for-the-first-time-since-they-ended-the-ban-on-food-su.md)
@@ -27,7 +27,7 @@ _Context: Ottawa Bluesfest, thunderstorm_
 ### [Crowds gather outside the jail in Orange County, Florida for the release of Casey Anthony who was recently cleared of murdering her daughter Caylee. ](/news/2011/07/17/crowds-gather-outside-the-jail-in-orange-county-florida-for-the-release-of-casey-anthony-who-was-recently-cleared-of-murdering-her-daughter.md)
 Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 
-### [News International phone hacking scandal: British Home Secretary Theresa May will address MPs on Monday following revelations that the Metropolitan Police hired former "News of the World" deputy editor Neil Wallis to give PR advice. ](/news/2011/07/17/news-international-phone-hacking-scandal-british-home-secretary-theresa-may-will-address-mps-on-monday-following-revelations-that-the-metro.md)
+### [British Home Secretary Theresa May will address MPs on Monday following revelations that the Metropolitan Police hired former "News of the World" deputy editor Neil Wallis to give PR advice. ](/news/2011/07/17/british-home-secretary-theresa-may-will-address-mps-on-monday-following-revelations-that-the-metropolitan-police-hired-former-news-of-the-w.md)
 The home secretary is to address MPs following criticism over the closeness of the relationship between News International and the Met Police.
 
 ### [Former Uruguayan dictator Juan Maria Bordaberry dies under house arrest for murders committed during his time in power. ](/news/2011/07/17/former-uruguayan-dictator-juan-maraa-bordaberry-dies-under-house-arrest-for-murders-committed-during-his-time-in-power.md)

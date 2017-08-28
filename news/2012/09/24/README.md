@@ -1,6 +1,6 @@
 ## [2012-09-24](/news/2012/09/24/index.md)
 
-### [Syrian civil war:: At least 24 people are killed in violence across Syria. ](/news/2012/09/24/syrian-civil-war-at-least-24-people-are-killed-in-violence-across-syria.md)
+### [At least 24 people are killed in violence across Syria. ](/news/2012/09/24/at-least-24-people-are-killed-in-violence-across-syria.md)
 Some 24 people died in government shelling attacks in Syria on Monday hours before peace envoy Lakhdar Brahimi was to brief the UN Security Council on his talks with President Bashar al-Assad and the
 
 ### [Kenyan AMISOM troops, advancing towards the al-Shabaab stronghold of Kismayo, "deliberately" shoot dead seven Somali civilians, according to a Somali Army spokesman. The Hizbul Islam faction announces that it leaves the al-Shabaab. ](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.md)
@@ -15,10 +15,10 @@ _Context: Jordan, World Economic Forum, the Middle East and North Africa (MENA)_
 ### [A building collapse in the Indian city of Pune kills at least six people. ](/news/2012/09/24/a-building-collapse-in-the-indian-city-of-pune-kills-at-least-six-people.md)
 At least six people are killed after a building collapses in Pune city in the western Indian state of Maharashtra.
 
-### [Senkaku Islands dispute:: Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/senkaku-islands-dispute-dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-ja.md)
-_Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, Taiwan_
+### [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md)
+_Context: China, Japan, Senkaku Islands, Taiwan_
 
-### [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israel-united-states-relations.md)
+### [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israelaunited-states-relations.md)
 Israeli Prime Minister Benjamin Netanyahu is on the defensive after facing accusations that he was playing politics with U.S.-Israel relations.
 
 ### [Wang Lijun, the former police chief and vice-mayor of Chongqing, China, is sentenced to 15 years in prison for corruption-related charges and defection. ](/news/2012/09/24/wang-lijun-the-former-police-chief-and-vice-mayor-of-chongqing-china-is-sentenced-to-15-years-in-prison-for-corruption-related-charges-an.md)

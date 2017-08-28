@@ -15,4 +15,4 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 
 ### Related:
 
-1. [A boat capsizes near  Lamu Island off the Kenyan coast with at least seven people dead. ](/news/2012/01/1/a-boat-capsizes-near-lamu-island-off-the-kenyan-coast-with-at-least-seven-people-dead.md) _Context: Lamu Island_
+1. [A boat capsizes near Lamu Island off the Kenyan coast with at least seven people dead. ](/news/2012/01/1/a-boat-capsizes-near-lamu-island-off-the-kenyan-coast-with-at-least-seven-people-dead.md) _Context: Lamu Island_

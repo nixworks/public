@@ -1,6 +1,6 @@
 ### [2016-10-5](/news/2016/10/5/index.md)
 
-# Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with  maximum sustained winds of  115 mph (185 km/h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. 
+# Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km/h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. 
 
 Haitian election officials postponed Sunday&rsquo;s rerun presidential and legislative elections indefinitely while they assess the extent of damage from Hurricane Matthew, which left at least 10 dead and hundreds of thousands displaced from their homes. The death toll is expected to rise.
 

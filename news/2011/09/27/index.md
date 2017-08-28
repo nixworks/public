@@ -1,7 +1,7 @@
 ## [2011-09-27](/news/2011/09/27/index.md)
 
-### [North Caucasus insurgency:: One policeman and seven civilians die as a result of car bombing in the Republic of Dagestan, Russia. ](/news/2011/09/27/north-caucasus-insurgency-one-policeman-and-seven-civilians-die-as-a-result-of-car-bombing-in-the-republic-of-dagestan-russia.md)
-_Context: Insurgency in the North Caucasus, Republic of Dagestan, Russia_
+### [One policeman and seven civilians die as a result of car bombing in the Republic of Dagestan, Russia. ](/news/2011/09/27/one-policeman-and-seven-civilians-die-as-a-result-of-car-bombing-in-the-republic-of-dagestan-russia.md)
+_Context: Republic of Dagestan, Russia_
 
 ### [An explosion destroys the Arab Gas Pipeline in Egypt's Sinai Peninsula supplying natural gas to Jordan and Israel. ](/news/2011/09/27/an-explosion-destroys-the-arab-gas-pipeline-in-egypt-s-sinai-peninsula-supplying-natural-gas-to-jordan-and-israel.md)
 An explosion destroyed anEgyptian pipeline in Sinai that supplies Israel and Jordan withgas on Tuesday, security sources and witnesses said.
@@ -9,8 +9,8 @@ An explosion destroyed anEgyptian pipeline in Sinai that supplies Israel and Jor
 ### [Australian Minister for Defence Stephen Smith announces that women will be serving in frontline-combat roles in the Australian military within five years. ](/news/2011/09/27/australian-minister-for-defence-stephen-smith-announces-that-women-will-be-serving-in-frontline-combat-roles-in-the-australian-military-with.md)
 Women will be allowed to serve in frontline combat roles within five years under changes announced today by Defence Minister Stephen Smith.
 
-### [2011 Syrian uprising:: The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/2011-syrian-uprising-the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)
-_Context: 2011 Syrian uprising, Homs, Rastan, Syrian Army_
+### [The Syrian Army launches an attack on the town of Rastan near the city of Homs. ](/news/2011/09/27/the-syrian-army-launches-an-attack-on-the-town-of-rastan-near-the-city-of-homs.md)
+_Context: Homs, Rastan, Syrian Army_
 
 ### [Abu Sayyaf gunmen attack pro-government militia in the township of Sumisip on Basilan Island in the Philippines, with six people reported killed and five wounded. ](/news/2011/09/27/abu-sayyaf-gunmen-attack-pro-government-militia-in-the-township-of-sumisip-on-basilan-island-in-the-philippines-with-six-people-reported-ki.md)
 _Context: Abu Sayyaf, Basilan Island, Philippines, Sumisip_

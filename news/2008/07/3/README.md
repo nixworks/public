@@ -21,7 +21,7 @@ _Context: MESSENGER, Mercury's, NASA_
 ### [ A series of explosions at a depot storing 1,500 tonnes of obsolete munitions forces the evacuation of some 2,000 people in Sofia and the closure of the Bulgarian capital's main airport. ](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.md)
 _Context: Bulgaria, Sofia, main airport, series of explosions_
 
-### [ Olympic athletes including Roger Federer, Yao Ming, Laure Manaudou, Liu Xiang, and Yelena Isinbayeva are among the stars of the International Olympic Committee (IOC)-s latest public service announcement entitled -Heroes-.](/news/2008/07/3/olympic-athletes-including-roger-federer-yao-ming-laure-manaudou-liu-xiang-and-yelena-isinbayeva-are-among-the-stars-of-the-internation.md)
+### [ Olympic athletes including Roger Federer, Yao Ming, Laure Manaudou, Liu Xiang, and Yelena Isinbayeva are among the stars of the International Olympic Committee (IOC)'s latest public service announcement entitled "Heroes".](/news/2008/07/3/olympic-athletes-including-roger-federer-yao-ming-laure-manaudou-liu-xiang-and-yelena-isinbayeva-are-among-the-stars-of-the-internation.md)
 _Context: Laure Manaudou, Liu Xiang, Roger Federer, Yao Ming, Yelena Isinbayeva_
 
 ## [Previous Day...](/news/2008/07/2/index.md)

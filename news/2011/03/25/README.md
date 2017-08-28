@@ -1,9 +1,9 @@
 ## [2011-03-25](/news/2011/03/25/index.md)
 
-### [Arab Spring: Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/arab-spring-libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-e.md)
+### [Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.md)
 Heavy gunfire reported in the southern Syrian city of Daraa as anti-government protesters defy a week-long crackdown.
 
-### [2010-2011 Ivorian crisis: Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/2010-2011-ivorian-crisis-up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
+### [Up to one million people flee Abidjan in southern Cote d'Ivoire amid violence. ](/news/2011/03/25/up-to-one-million-people-flee-abidjan-in-southern-ca-te-d-ivoire-amid-violence.md)
 _Context: 2010-2011 Ivorian crisis, Abidjan, Cote d'Ivoire_
 
 ### [A bomb blast in the Ethiopian capital Addis Ababa injures two people. ](/news/2011/03/25/a-bomb-blast-in-the-ethiopian-capital-addis-ababa-injures-two-people.md)

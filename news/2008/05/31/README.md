@@ -6,7 +6,7 @@ _Context: 100 metres, Icahn Stadium, Jamaica, New York City, Reebok Grand Prix, 
 ### [ In rugby union, the Crusaders defeat the New South Wales Waratahs in the 2008 Super 14 Final. ](/news/2008/05/31/in-rugby-union-the-crusaders-defeat-the-new-south-wales-waratahs-in-the-2008-super-14-final.md)
 _Context: 2008 Super 14 Final, Crusaders, New South Wales Waratahs, rugby union_
 
-### [ China:: Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/china-authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-pr.md)
+### [ Authorities in the People's Republic of China are preparing to evacuate more than a million people from Sichuan Province as they prepare to drain Tangjiashan Lake created by the 2008 Sichuan earthquake. ](/news/2008/05/31/authorities-in-the-people-s-republic-of-china-are-preparing-to-evacuate-more-than-a-million-people-from-sichuan-province-as-they-prepare-to.md)
 Chinese authorities are preparing to drain a &#039;quake lake&#039;.
 
 ### [ STS-124 is launched with a crew of seven and the main module of the Japanese laboratory Kibo. ](/news/2008/05/31/sts-124-is-launched-with-a-crew-of-seven-and-the-main-module-of-the-japanese-laboratory-kiba.md)
@@ -28,7 +28,7 @@ _Context: Adel Abdul-Mahdi, Bernard Kouchner, Iraq_
 _Context: Army, Sri Lanka, Tamil Tigers_
 
 ### [ Robert Gates, the United States Secretary of Defense, states that Myanmar's refusal of international aid for victims of Cyclone Nargis has cost "thousands of lives". ](/news/2008/05/31/robert-gates-the-united-states-secretary-of-defense-states-that-myanmar-s-refusal-of-international-aid-for-victims-of-cyclone-nargis-has.md)
-_Context: Cyclone Nargis, Myanmar, Robert Gates, Secretary of Defense_
+_Context: Burmese, Cyclone Nargis, Robert Gates, Secretary of Defense_
 
 ### [ Suicide bombers in eastern Afghanistan target a military convoy. NATO's International Security Assistance force says the attack took place in Jalalabad, capital of Nangarhar province. ](/news/2008/05/31/suicide-bombers-in-eastern-afghanistan-target-a-military-convoy-nato-s-international-security-assistance-force-says-the-attack-took-place.md)
 _Context: Afghanistan's, ISAF, Jalalabad, Nangarhar Province, Suicide bombers, convoy_

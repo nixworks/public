@@ -39,7 +39,7 @@ _Context: 6-year trial, Joseph Estrada, President of the Philippines, anti-corru
 ### [ Shinzo Abe, the current Prime Minister of Japan, announces his resignation after failing to win popular support in the aftermath of ruling Liberal Democratic Party's defeat in Upper House elections in July. The resignation comes into effect with the election of his successor in an LDP party conference on 19 September 2007. ](/news/2007/09/12/shinzo-abe-the-current-prime-minister-of-japan-announces-his-resignation-after-failing-to-win-popular-support-in-the-aftermath-of-ruling.md)
 _Context: Prime Minister of Japan, Shinzo Abe, with the election of his successor_
 
-### [ 2007 Atlantic hurricane season: Tropical Depression Eight and Tropical Depression Nine form near the Lesser Antilles and Gulf of Mexico respectively. ](/news/2007/09/12/2007-atlantic-hurricane-season-tropical-depression-eight-and-tropical-depression-nine-form-near-the-lesser-antilles-and-gulf-of-mexico-res.md)
+### [ Tropical Depression Eight and Tropical Depression Nine form near the Lesser Antilles and Gulf of Mexico respectively. ](/news/2007/09/12/tropical-depression-eight-and-tropical-depression-nine-form-near-the-lesser-antilles-and-gulf-of-mexico-respectively.md)
 _Context: 2007 Atlantic hurricane season, Gulf of Mexico, Lesser Antilles, Tropical Depression Eight, Tropical Depression Nine_
 
 ### [ The first episode of Linux Outlaws was released](/news/2007/09/12/the-first-episode-of-linux-outlaws-was-released.md)

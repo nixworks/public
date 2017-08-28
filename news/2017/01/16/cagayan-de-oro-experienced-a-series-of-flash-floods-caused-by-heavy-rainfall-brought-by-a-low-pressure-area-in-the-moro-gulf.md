@@ -11,5 +11,5 @@ Cagayan de Oro City is now under “orange alert,” paving the way for preempti
 
 ### Related:
 
-1. [The debate series, ''PiliPinas Debates 2016'', kicks off in Cagayan de Oro. ](/news/2016/02/21/the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _Context: Cagayan de Oro_
+1. [The debate series, "PiliPinas Debates 2016", kicks off in Cagayan de Oro. ](/news/2016/02/21/the-debate-series-pilipinas-debates-2016-kicks-off-in-cagayan-de-oro.md) _Context: Cagayan de Oro_
 2. [At least six people are killed and 37 injured in a bomb blast in Cagayan De Oro City, Philippines. ](/news/2013/07/27/at-least-six-people-are-killed-and-37-injured-in-a-bomb-blast-in-cagayan-de-oro-city-philippines.md) _Context: Cagayan de Oro_

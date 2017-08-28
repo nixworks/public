@@ -24,7 +24,7 @@ _Context: American Idol, Scotty McCreery, tenth season_
 ### [An influential investor and stock trader, David Einhorn, demands the resignation of Steve Ballmer, the CEO of software giant Microsoft, speaking at the Ira W. Sohn Investment Research Conference. ](/news/2011/05/25/an-influential-investor-and-stock-trader-david-einhorn-demands-the-resignation-of-steve-ballmer-the-ceo-of-software-giant-microsoft-spea.md)
 _Context: David Einhorn, Ira W. Sohn Investment Research Conference, Microsoft, Steve Ballmer_
 
-### [Grimsvotn eruption:: Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/gramsvaptn-eruption-germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-e.md)
+### [Germany shuts down part of its airspace as volcanic ash from the eruption of Iceland's Grimsvotn reaches northern Europe. ](/news/2011/05/25/germany-shuts-down-part-of-its-airspace-as-volcanic-ash-from-the-eruption-of-iceland-s-gramsvaptn-reaches-northern-europe.md)
 _Context: Germany, Grimsvotn, Iceland, eruption, northern Europe_
 
 ### [Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. ](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-the-central-united-states-claiming-at-least-10-more-lives-across-arkansas-kansas-and-oklahom.md)

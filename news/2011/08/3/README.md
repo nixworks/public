@@ -1,7 +1,7 @@
 ## [2011-08-3](/news/2011/08/3/index.md)
 
-### [2011 Syrian uprising:: Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/2011-syrian-uprising-syrian-forces-shell-and-advance-on-the-city-of-hama.md)
-_Context: 2011 Syrian uprising, Hama, shell and advance_
+### [Syrian forces shell and advance on the city of Hama. ](/news/2011/08/3/syrian-forces-shell-and-advance-on-the-city-of-hama.md)
+_Context: Hama, shell and advance_
 
 ### [South Africa agrees to loan Swaziland 2.5 billion rand (US$368 million) to ease the latter's economic crisis. ](/news/2011/08/3/south-africa-agrees-to-loan-swaziland-2-5-billion-rand-us-368-million-to-ease-the-latter-s-economic-crisis.md)
 Swaziland has received a R2.4-billion ($350-million) loan from neighbouring South Africa, a desperately needed lifeline for the crisis-hit kingdom.
@@ -24,8 +24,8 @@ The UN and the International Olympic Committee were among those targeted by one 
 ### [The former President of Egypt, Hosni Mubarak, leaves the resort town of Sharm el-Sheikh, Egypt to return to Cairo for his trial. ](/news/2011/08/3/the-former-president-of-egypt-hosni-mubarak-leaves-the-resort-town-of-sharm-el-sheikh-egypt-to-return-to-cairo-for-his-trial.md)
 _Context: Cairo, Egyptian President, Hosni Mubarak, Sharm el-Sheikh, trial_
 
-### [News International phone hacking scandal:: Charity campaigner Heather Mills tells the BBC's "Newsnight" that a senior Mirror Group journalist admitted hacking voicemails left for her by Sir Paul McCartney while they were together. ](/news/2011/08/3/news-international-phone-hacking-scandal-charity-campaigner-heather-mills-tells-the-bbc-s-newsnight-that-a-senior-mirror-group-journalis.md)
-_Context: Heather Mills, Mirror Group, Newsnight, Paul McCartney, conspiracy to hack mobile phones_
+### [Charity campaigner Heather Mills tells the BBC's "Newsnight" that a senior Mirror Group journalist admitted hacking voicemails left for her by Sir Paul McCartney while they were together. ](/news/2011/08/3/charity-campaigner-heather-mills-tells-the-bbc-s-newsnight-that-a-senior-mirror-group-journalist-admitted-hacking-voicemails-left-for-her.md)
+_Context: Heather Mills, Mirror Group, Newsnight, Paul McCartney_
 
 ### [Luke March, who was charged with investigating the United Kingdom Parliamentary expenses scandal, resigns from the Independent Parliamentary Standards Authority after refusing to name those under suspicion. ](/news/2011/08/3/luke-march-who-was-charged-with-investigating-the-united-kingdom-parliamentary-expenses-scandal-resigns-from-the-independent-parliamentary.md)
 _Context: Independent Parliamentary Standards Authority, MPs expenses_

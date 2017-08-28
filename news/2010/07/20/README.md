@@ -64,7 +64,7 @@ Turkish Foreign Minister Ahmet Davutoglu has met with Hamas supremo Khaled Mesha
 _Context: Ban Ki-moon, Secretary General_
 
 ### [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md)
-_Context: ASEAN, East Asia Summit, Hanoi, Myanmar, Russia, United States, Vietnam_
+_Context: ASEAN, Burmese, East Asia Summit, Hanoi, Russia, United States, Vietnam_
 
 ### [Former MI5 head Baroness Manningham-Buller gives evidence in public before the Iraq Inquiry into Iraq's alleged weapons of mass destruction, admitting that the 2003 invasion of Iraq served to "substantially" increase the security threat to the UK. ](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.md)
 The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very limited&quot; threat to the UK - but the war increased the threat from terrorism.
@@ -87,7 +87,7 @@ Two prisoners are on the run after fleeing an Argentine jail which used a dummy 
 ### [Bailiffs and police officers swoop in and evict peace protesters from Democracy Village in Parliament Square, Central London, England ](/news/2010/07/20/bailiffs-and-police-officers-swoop-in-and-evict-peace-protesters-from-democracy-village-in-parliament-square-central-london-england.md)
 Peace protesters are evicted from Parliament Square in London, where they have been camping since May.
 
-### [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillain-barra-c-syndrome-sufferer-in-somerset-england-prompting.md)
+### [A police officer discharges a 50,000-volt Taser gun into the groin of a Guillain-Barre syndrome sufferer in Somerset, England, prompting a possible legal battle; he denies he was acting in an aggressive manner. ](/news/2010/07/20/a-police-officer-discharges-a-50-000-volt-taser-gun-into-the-groin-of-a-guillainabarra-c-syndrome-sufferer-in-somerset-england-prompting.md)
 Police were investigating today after an officer accidentally discharged a 50,000 volt Taser weapon into a man&#039;s groin.
 
 ### [Ly Tong allegedly attacks Dam Vinh Hung with pepper spray during a concert in California, United States, accusing him of being a proponent of Communism. ](/news/2010/07/20/ly-tong-allegedly-attacks-dam-vinh-hung-with-pepper-spray-during-a-concert-in-california-united-states-accusing-him-of-being-a-proponent-o.md)

@@ -1,7 +1,7 @@
 ## [2014-04-25](/news/2014/04/25/index.md)
 
-### [2014 pro-Russian unrest in Ukraine:: A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/2014-pro-russian-unrest-in-ukraine-a-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-ne.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Kramatorsk, rocket-propelled grenades_
+### [A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. ](/news/2014/04/25/a-ukrainian-military-helicopter-is-destroyed-after-being-hit-by-a-rocket-propelled-grenade-at-a-base-near-the-town-of-kramatorsk-in-eastern.md)
+_Context: Kramatorsk, rocket-propelled grenades_
 
 ### [At least 25 people are killed and several injured in a series of bomb blasts targeted at Shi'ite rally in Baghdad, Iraq. The attack comes less than a week before Iraqis are due to head to the polls in parliamentary elections.](/news/2014/04/25/at-least-25-people-are-killed-and-several-injured-in-a-series-of-bomb-blasts-targeted-at-shi-ite-rally-in-baghdad-iraq-the-attack-comes-le.md)
 At least 31 people are killed in a series of blasts targeting a Shia election rally in the Iraqi capital, Baghdad.

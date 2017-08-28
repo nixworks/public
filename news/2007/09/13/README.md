@@ -30,16 +30,16 @@ _Context: ABC News, Alan Greenspan, Alexis Debat, Barack Obama, Rue 89, The Nati
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
 _Context: Netherlands, People's Party for Freedom and Democracy, Rita Verdonk_
 
-### [ Iraq War:: A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/iraq-war-a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
-_Context: Iraq War, Sheikh Sittar_
+### [ A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
+_Context: Sheikh Sittar_
 
-### [ 2007 Atlantic hurricane season:: Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/2007-atlantic-hurricane-season-hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
-_Context: 2007 Atlantic hurricane season, Hurricane Humberto, Louisiana, Texas_
+### [ Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
+_Context: Hurricane Humberto, Louisiana, Texas_
 
 ### [ Shinzo Abe is hospitalised the day after his resignation. ](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.md)
 _Context: Shinzo Abe_
 
-### [ September 2007 Sumatra earthquakes: A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/september-2007-sumatra-earthquakes-a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indon.md)
+### [ A second major earthquake off the coast of Sumatra prompts tsunami warnings for Sri Lanka, India, Indonesia, Christmas Island and the Cocos Islands. ](/news/2007/09/13/a-second-major-earthquake-off-the-coast-of-sumatra-prompts-tsunami-warnings-for-sri-lanka-india-indonesia-christmas-island-and-the-cocos.md)
 A second major earthquake measuring 7.6 off the coast of southern Sumatra in Indonesia has prompted a tsunami warning for Australia&#039;s Cocos and Christmas Islands.
 
 ## [Previous Day...](/news/2007/09/12/index.md)

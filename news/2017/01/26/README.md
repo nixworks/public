@@ -1,6 +1,6 @@
 ## [2017-01-26](/news/2017/01/26/index.md)
 
-### [Libyan Civil War (2014-present): Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/libyan-civil-war-2014-present-forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-bengha.md)
+### [Forces of the Libyan National Army claim to have captured one of the last remaining strongholds of Benghazi from Ansar al-Sharia. ](/news/2017/01/26/forces-of-the-libyan-national-army-claim-to-have-captured-one-of-the-last-remaining-strongholds-of-benghazi-from-ansar-al-sharia.md)
 Forces loyal to renegade Libyan general Haftar claim they have liberated Qanfouda, a stronghold of Ansar al-Sharia.
 
 ### [Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. ](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unable-to-deliver-over-four-million-barrels-of-crude-oil-due-to-venezuela-s-state-owned-oil-and-n.md)
@@ -12,7 +12,7 @@ _Context: Afghanistan's, Jowzjan Province_
 ### [At least 14 Indian Army soldiers and four civilians are killed in a series of avalanches near the Line of Control in Jammu and Kashmir. ](/news/2017/01/26/at-least-14-indian-army-soldiers-and-four-civilians-are-killed-in-a-series-of-avalanches-near-the-line-of-control-in-jammu-and-kashmir.md)
 The troops died in two separate incidents near the Line of Control dividing the disputed territory.
 
-### [2017 Mexico-United States diplomatic crisis: Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/2017-mexico-united-states-diplomatic-crisis-mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-p.md)
+### [Mexican President Enrique Pena Nieto cancels the meeting scheduled for next week with U.S. President Donald Trump, citing his plan to build a border wall between the two countries. ](/news/2017/01/26/mexican-president-enrique-pea-a-nieto-cancels-the-meeting-scheduled-for-next-week-with-u-s-president-donald-trump-citing-his-plan-to-build.md)
 _Context: 2017 Mexico-United States diplomatic crisis, Donald Trump, Enrique Pena Nieto, Mexican President, U.S. President, wall_
 
 ### [The Supreme Court of Greece rejects the extradition of eight soldiers accused by Turkey of involvement in the 2016 Turkish "coup d'etat" attempt. ](/news/2017/01/26/the-supreme-court-of-greece-rejects-the-extradition-of-eight-soldiers-accused-by-turkey-of-involvement-in-the-2016-turkish-coup-d-a-c-tat-at.md)
@@ -24,7 +24,7 @@ Switzerland has detained former Gambian interior minister Ousman Sonko, who is a
 ### [Patrick F. Kennedy, Joyce Anne Barr, Michele Thoren Bond and Gentry O. Smith resign from the United States Department of State, after Victoria Nuland and Gregory B. Starr had declined to stay on in the Donald Trump administration. ](/news/2017/01/26/patrick-f-kennedy-joyce-anne-barr-michele-thoren-bond-and-gentry-o-smith-resign-from-the-united-states-department-of-state-after-victor.md)
 _Context: Donald Trump, Gentry O. Smith, Gregory B. Starr, Joyce Anne Barr, Michele Thoren Bond, Patrick F. Kennedy, United States State Department, Victoria Nuland_
 
-### [2016-2017 Gambian constitutional crisis: Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/2016-2017-gambian-constitutional-crisis-gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal.md)
+### [Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal-bringing-an-end-to-the-country-s-politica.md)
 Return ends anxious wait after crisis sparked by predecessor Yahya Jammeh’s refusal to step down
 
 ### [Ard van der Steur the Minister of Security and Justice of the Netherlands resigns after allegedly misinforming the House of Representatives over the fallout of a payments scandal. ](/news/2017/01/26/ard-van-der-steur-the-minister-of-security-and-justice-of-the-netherlands-resigns-after-allegedly-misinforming-the-house-of-representatives.md)

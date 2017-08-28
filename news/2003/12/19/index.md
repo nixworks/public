@@ -9,8 +9,8 @@ _Context: Libya, Muammar al-Gaddafi, countries, weapons of mass destruction_
 ### [ A revised plan is unveiled for the new Freedom Tower which will be erected on the site of the World Trade Center in New York City. At a symbolic height of 1,776 feet (541 m) (1776 is significant as the year of the United States Declaration of Independence) the projected edifice will be among the tallest buildings in the world. ](/news/2003/12/19/a-revised-plan-is-unveiled-for-the-new-freedom-tower-which-will-be-erected-on-the-site-of-the-world-trade-center-in-new-york-city-at-a-sym.md)
 _Context: 1776, New York City, One World Trade Center, United States Declaration of Independence, predecessor_
 
-### [ Occupation of Iraq:: U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/occupation-of-iraq-u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-decembe.md)
-_Context: December 6, Iraq, L. Paul Bremer, U.S. presence in Iraq, United States_
+### [ U.S.-appointed civil administrator of Iraq, L. Paul Bremer reveals that he survived an attack on his convoy on December 6. ](/news/2003/12/19/u-s-appointed-civil-administrator-of-iraq-l-paul-bremer-reveals-that-he-survived-an-attack-on-his-convoy-on-december-6.md)
+_Context: December 6, Iraq, L. Paul Bremer, United States_
 
 ### [ Flights from Vancouver International Airport bound for the U.S. are delayed following the discovery of an envelope containing suspicious white powder and a threatening note at one of the terminals. [http://www.canada.com/vancouver/story.asp?id=CB66EEAE-4EF9-4542-82EC-654371F49BD1] ](/news/2003/12/19/flights-from-vancouver-international-airport-bound-for-the-u-s-are-delayed-following-the-discovery-of-an-envelope-containing-suspicious-wh.md)
 _Context: Vancouver International Airport_

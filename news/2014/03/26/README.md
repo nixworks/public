@@ -21,7 +21,7 @@ Pyongyang fires two missiles into sea as leaders of South Korea, Japan and the U
 ### ["The Guardian" deputy editor Paul Johnson confirms that British law enforcement agencies have threatened to close the newspaper over its role in publishing global surveillance information obtained from U.S. whistleblower Edward Snowden. ](/news/2014/03/26/the-guardian-deputy-editor-paul-johnson-confirms-that-british-law-enforcement-agencies-have-threatened-to-close-the-newspaper-over-its-rol.md)
 Deputy editor details extent to which intelligence agencies tried to stop newspaper&rsquo;s disclosures 
 
-### [Garda phone tapping scandal in the Republic of Ireland:: Alan Shatter fights for his political survival in front of the Republic's parliament when he faces questions about yesterday's revelations of decades-long nationwide bugging. ](/news/2014/03/26/garda-phone-tapping-scandal-in-the-republic-of-ireland-alan-shatter-fights-for-his-political-survival-in-front-of-the-republic-s-parliamen.md)
+### [Alan Shatter fights for his political survival in front of the Republic's parliament when he faces questions about yesterday's revelations of decades-long nationwide bugging. ](/news/2014/03/26/alan-shatter-fights-for-his-political-survival-in-front-of-the-republic-s-parliament-when-he-faces-questions-about-yesterday-s-revelations-o.md)
 Alan Shatter to be questioned in parliament over claims of bugging in police stations after top police officer steps down
 
 ### [A Turkish court lifts the ban on Twitter imposed by the government after a user spread allegations of corruption. ](/news/2014/03/26/a-turkish-court-lifts-the-ban-on-twitter-imposed-by-the-government-after-a-user-spread-allegations-of-corruption.md)

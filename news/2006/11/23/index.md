@@ -7,7 +7,7 @@ _Context: Baghdad, Iraq War, Sadr City, Sectarian war in Iraq, Shi'a, series of 
 _Context: Halemba, Lech Kaczynski, Polish, President, Ruda Slaska_
 
 ### [ Somali Civil War: Ethiopia has made preparations for a conflict with the Islamic Courts Union, whom control much of southern Somalia, Prime Minister Meles Zenawi has told MPs. ](/news/2006/11/23/somali-civil-war-ethiopia-has-made-preparations-for-a-conflict-with-the-islamic-courts-union-whom-control-much-of-southern-somalia-prime.md)
-_Context: Ethiopia, Islamic Courts Union, Meles Zenawi, Somalia, War in Somalia_
+_Context: Ethiopia, Islamic Courts Union, Meles Zenawi, Somali Civil War, Somalia_
 
 ### [ Hamas claims responsibility for a suicide bombing attack in which a 57-year-old grandmother killed herself. She also admits to the use of women as human shields in order to save militant gunmen, ](/news/2006/11/23/hamas-claims-responsibility-for-a-suicide-bombing-attack-in-which-a-57-year-old-grandmother-killed-herself-she-also-admits-to-the-use-of-w.md)
 _Context: Hamas_

@@ -1,6 +1,6 @@
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-# Leo Varadkar becomes the first gay Taoiseach of the  Republic of Ireland. 
+# Leo Varadkar becomes the first gay Taoiseach of the Republic of Ireland. 
 
 
 

@@ -1,6 +1,6 @@
 ### [2014-12-10](/news/2014/12/10/index.md)
 
-# Medical personnel combating the spread of the  Ebola virus are named Time Person of the Year. 
+# Medical personnel combating the spread of the Ebola virus are named Time Person of the Year. 
 
 
 
@@ -19,5 +19,5 @@
 6. [A Spanish nurse becomes the first person to be infected with the Ebola virus outside West Africa. ](/news/2014/10/6/a-spanish-nurse-becomes-the-first-person-to-be-infected-with-the-ebola-virus-outside-west-africa.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
 7. [Australia issues a blanket ban on issuing visas for residents of Liberia, Guinea and Sierra Leone, the countries worst affected by the Ebola epidemic. ](/news/2014/10/28/australia-issues-a-blanket-ban-on-issuing-visas-for-residents-of-liberia-guinea-and-sierra-leone-the-countries-worst-affected-by-the-ebola.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
 8. [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
-9. [Ebola virus epidemic in West Africa:Three people in Mali, which has had no cases, are injected with an experimental vaccine against the Ebola virus, the first such trial in Africa. ](/news/2014/10/10/ebola-virus-epidemic-in-west-africa-pthree-people-in-mali-which-has-had-no-cases-are-injected-with-an-experimental-vaccine-against-the-ebo.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
-10. [Ebola virus epidemic in West Africa:The official death toll from the Ebola virus outbreak reaches 3,000 with the World Health Organisation warning that the official figures "vastly underestimate the true scale of the epidemic". ](/news/2014/09/27/ebola-virus-epidemic-in-west-africa-pthe-official-death-toll-from-the-ebola-virus-outbreak-reaches-3-000-with-the-world-health-organisation.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
+9. [The World Health Organisation says that the death toll from the Ebola virus is over 2,900. ](/news/2014/09/26/the-world-health-organisation-says-that-the-death-toll-from-the-ebola-virus-is-over-2-900.md) _Context: Ebola virus epidemic in West Africa, ebola virus_
+10. [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md) _Context: ebola virus_

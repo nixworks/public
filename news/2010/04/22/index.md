@@ -1,12 +1,12 @@
 ## [2010-04-22](/news/2010/04/22/index.md)
 
-### [2010 Explosion on "Deepwater Horizon" drilling rig:: Transocean oil platform "Deepwater Horizon" sinks into the Gulf of Mexico off the coast of Louisiana after an explosion two days earlier that injured 7, with 11 still missing. ](/news/2010/04/22/2010-explosion-on-deepwater-horizon-drilling-rig-transocean-oil-platform-deepwater-horizon-sinks-into-the-gulf-of-mexico-off-the-coast.md)
+### [Transocean oil platform "Deepwater Horizon" sinks into the Gulf of Mexico off the coast of Louisiana after an explosion two days earlier that injured 7, with 11 still missing. ](/news/2010/04/22/transocean-oil-platform-deepwater-horizon-sinks-into-the-gulf-of-mexico-off-the-coast-of-louisiana-after-an-explosion-two-days-earlier-tha.md)
 The deepwater oil rig burning off the coast of Louisiana sank into the Gulf of Mexico at 10:20 a.m. Thursday, according to a Coast Guard spokesman.
 
-### [Israeli-Palestinian conflict:: Ahmad Sabah, a Palestinian with a Gaza ID card, claims the new Israeli military order on deportations is behind his release to Gaza instead of the West Bank where he lived before his detainment in 2001. ](/news/2010/04/22/israeli-palestinian-conflict-ahmad-sabah-a-palestinian-with-a-gaza-id-card-claims-the-new-israeli-military-order-on-deportations-is-be.md)
+### [Ahmad Sabah, a Palestinian with a Gaza ID card, claims the new Israeli military order on deportations is behind his release to Gaza instead of the West Bank where he lived before his detainment in 2001. ](/news/2010/04/22/ahmad-sabah-a-palestinian-with-a-gaza-id-card-claims-the-new-israeli-military-order-on-deportations-is-behind-his-release-to-gaza-instead.md)
 Israeli move raises fears of more Palestinians being expelled from Israel and West Bank.
 
-### [Pope Benedict XVI and the child sexual abuse in the Roman Catholic Church:: The Pope accepts the resignation of Bishop of Kildare and Leighlin James Moriarty. ](/news/2010/04/22/pope-benedict-xvi-and-the-child-sexual-abuse-in-the-roman-catholic-church-the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighl.md)
+### [The Pope accepts the resignation of Bishop of Kildare and Leighlin James Moriarty. ](/news/2010/04/22/the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighlin-james-moriarty.md)
 Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leighlin Jim Moriarty.
 
 ### [Pro-Daniel Ortega protesters in Nicaragua injure three opposition politicians while blockading parliament to prevent the overturning of a presidential decree. ](/news/2010/04/22/pro-daniel-ortega-protesters-in-nicaragua-injure-three-opposition-politicians-while-blockading-parliament-to-prevent-the-overturning-of-a-pr.md)
@@ -30,7 +30,7 @@ _Context: Brazil, Minas Gerais, Toyota Corolla_
 ### [Sri Lanka's former army chief Sarath Fonseka requests his freedom from "illegal detention" in his first speech in parliament. ](/news/2010/04/22/sri-lanka-s-former-army-chief-sarath-fonseka-requests-his-freedom-from-illegal-detention-in-his-first-speech-in-parliament.md)
 _Context: Sarath Fonseka, Sri Lanka_
 
-### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-tsvangirai.md)
+### [President of Iran Mahmoud Ahmadinejad arrives in Zimbabwe; Prime Minister Morgan Tsvangirai's Movement for Democratic Change - Tsvangirai objects, labelling Mr Ahmadinejad a "war-monger, a trampler of human rights [and] an executioner". ](/news/2010/04/22/president-of-iran-mahmoud-ahmadinejad-arrives-in-zimbabwe-prime-minister-morgan-tsvangirai-s-movement-for-democratic-change-a-tsvangirai.md)
 _Context: Mahmoud Ahmadinejad, Morgan Tsvangirai, Movement for Democratic Change, President, Prime Minister, Zimbabwe_
 
 ### [A Utrecht court acquits the Dutch arm of the Arab European League of hate crime charges relating to the publication of a cartoon questioning the Holocaust. The publication was intended to highlight double standards after MP Geert Wilders was not put on trial for distributing cartoons of Muhammad. ](/news/2010/04/22/a-utrecht-court-acquits-the-dutch-arm-of-the-arab-european-league-of-hate-crime-charges-relating-to-the-publication-of-a-cartoon-questioning.md)

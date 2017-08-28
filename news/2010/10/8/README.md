@@ -15,7 +15,7 @@ _Context: Europe-wide terror alert, Germany, Islamic terrorism, September 11 att
 ### [A Taiwanese ship initially believed to have been hijacked off the coast of Madagascar is later found safe. ](/news/2010/10/8/a-taiwanese-ship-initially-believed-to-have-been-hijacked-off-the-coast-of-madagascar-is-later-found-safe.md)
 A Taiwanese ship reported to have been seized by pirates east of Madagascar had just &quot;lost touch&quot; with its owner, according to the EU naval force fighting piracy in the Indian Ocean.
 
-### [Israeli-Palestinian conflict:: Two Hamas militants are killed, several others are injured and more are detained in an overnight Israeli military raid on Hebron in the Palestinian territories. A Hamas-affiliated group, the Izz ad-Din al-Qassam Brigades, threatens revenge attacks. ](/news/2010/10/8/israeli-palestinian-conflict-two-hamas-militants-are-killed-several-others-are-injured-and-more-are-detained-in-an-overnight-israeli-mi.md)
+### [Two Hamas militants are killed, several others are injured and more are detained in an overnight Israeli military raid on Hebron in the Palestinian territories. A Hamas-affiliated group, the Izz ad-Din al-Qassam Brigades, threatens revenge attacks. ](/news/2010/10/8/two-hamas-militants-are-killed-several-others-are-injured-and-more-are-detained-in-an-overnight-israeli-military-raid-on-hebron-in-the-pale.md)
 Deaths reported after overnight military operation in West Bank town of Hebron.
 
 ### [Google celebrates the 70th birthday of John Lennon with an animated Google doodle. ](/news/2010/10/8/google-celebrates-the-70th-birthday-of-john-lennon-with-an-animated-google-doodle.md)
@@ -42,7 +42,7 @@ _Context: BlackBerry, United Arab Emirates_
 ### [Premier Wen Jiabao of the People's Republic of China denies reports that China is using its control over minerals crucial to high technology (called "rare earth") as a bargaining chip, especially in a dispute with Japan over Japan's arrest of a Chinese fishing-boat captain ](/news/2010/10/8/premier-wen-jiabao-of-the-people-s-republic-of-china-denies-reports-that-china-is-using-its-control-over-minerals-crucial-to-high-technology.md)
 _Context: China, Japan, Wen Jiabao, rare earth element_
 
-### [Ajka alumina plant accident in Hungary:: 2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/ajka-alumina-plant-accident-in-hungary-2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-or.md)
+### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
 ### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the.md)
@@ -54,8 +54,8 @@ _Context: Tibetan Autonomous Prefecture of Garze_
 ### [Chinese Premier Wen Jiabao holds talks with Turkish Prime Minister Recep Tayyip Erdogan in Ankara. ](/news/2010/10/8/chinese-premier-wen-jiabao-holds-talks-with-turkish-prime-minister-recep-tayyip-erdogan-in-ankara.md)
 _Context: Ankara, Chinese Premier, Recep Tayyip Erdogan, Turkish Prime Minister, Wen Jiabao_
 
-### [2010 Nobel Peace Prize:: Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/2010-nobel-peace-prize-imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet.md)
-_Context: Chinese, Liu Xiaobo, Nobel Peace Prize, blocks mentions, winner_
+### [Imprisoned Chinese dissident Liu Xiaobo is announced as the winner of the Nobel Peace Prize. China blocks internet coverage of the award. ](/news/2010/10/8/imprisoned-chinese-dissident-liu-xiaobo-is-announced-as-the-winner-of-the-nobel-peace-prize-china-blocks-internet-coverage-of-the-award.md)
+_Context: Chinese, Liu Xiaobo, Nobel Peace Prize, blocks mentions_
 
 ### [TVNZ "Breakfast" race row: New Zealand issues an apology to India's External Affairs ministry over the "gratuitous and insulting" behaviour of its now suspended broadcaster Paul Henry, who works for the government-owned corporation television network TVNZ. ](/news/2010/10/8/tvnz-breakfast-race-row-new-zealand-issues-an-apology-to-india-s-external-affairs-ministry-over-the-gratuitous-and-insulting-behaviour.md)
 _Context: Breakfast, India, New Zealand, Paul Henry, TVNZ, government-owned corporation_

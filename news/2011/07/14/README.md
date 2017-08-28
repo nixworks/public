@@ -3,16 +3,16 @@
 ### [2011 Syrian uprising: Several deaths are reported as a security crackdown continues against anti-government protests in Syria. ](/news/2011/07/14/2011-syrian-uprising-several-deaths-are-reported-as-a-security-crackdown-continues-against-anti-government-protests-in-syria.md)
 Activists report deaths in several provinces as Sarkozy calls for tougher sanctions against the Assad government.
 
-### [War in Afghanistan (2001-present):: A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/war-in-afghanistan-2001-present-a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the.md)
-_Context: Afghanistan's, Ahmed Wali Karzai, Kandahar, War in Afghanistan (2001-present), suicide bombing_
+### [A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the-head-of-the-provincial-religious-coun.md)
+_Context: Afghanistan's, Ahmed Wali Karzai, Kandahar, suicide bombing_
 
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
 _Context: Abyan Governorate, Yemen_
 
-### [Kurdish-Turkish conflict:: Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdish-turkish-conflict-kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13.md)
+### [Kurdistan Workers Party fighters ambush the Turkish Army in Diyarbakir Province, resulting in the death of 13 soldiers and five militants. ](/news/2011/07/14/kurdistan-workers-party-fighters-ambush-the-turkish-army-in-diyarbaka-r-province-resulting-in-the-death-of-13-soldiers-and-five-militants.md)
 Kurdish fighters killed 13 Turkish soldiers in an ambush Thursday and seven militants died in the firefight that marked the worst clash since the Kurdistan Workers Party (PKK) ended a cease-fire in February.
 
-### [Libyan Civil War:: Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/libyan-civil-war-mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suic.md)
+### [Mikhail Margelov, the President of Russia's special envoy on the Libyan uprising, claims that Muammar Gaddafi has a "suicidal plan" to destroy Tripoli if the rebels seem likely to capture it. ](/news/2011/07/14/mikhail-margelov-the-president-of-russia-s-special-envoy-on-the-libyan-uprising-claims-that-muammar-gaddafi-has-a-suicidal-plan-to-destr.md)
 _Context: Libyan Civil War, Mikhail Margelov, Muammar Gaddafi, Tripoli_
 
 ### [The Israeli Air Force bombs the Gaza Strip after Hamas militants launch a missile attack on Israel. ](/news/2011/07/14/the-israeli-air-force-bombs-the-gaza-strip-after-hamas-militants-launch-a-missile-attack-on-israel.md)
@@ -48,7 +48,7 @@ American security manufacturer Armor Holdings pays a $16m (£10m) fine to settle
 ### [BBC reporter Urunboy Usmonov is released on bail in Tajikistan but still faces trial. ](/news/2011/07/14/bbc-reporter-urunboy-usmonov-is-released-on-bail-in-tajikistan-but-still-faces-trial.md)
 A BBC reporter held last month in Tajikistan on charges of belonging to a banned Islamist group is being released from custody.
 
-### [News of the World phone hacking scandal:: News Corporation chairman Rupert Murdoch, his son James, and News International chief executive Rebekah Brooks all agree to appear before British MPs next week to answer questions on the News of the World phone hacking affair. ](/news/2011/07/14/news-of-the-world-phone-hacking-scandal-news-corporation-chairman-rupert-murdoch-his-son-james-and-news-international-chief-executive-re.md)
+### [News Corporation chairman Rupert Murdoch, his son James, and News International chief executive Rebekah Brooks all agree to appear before British MPs next week to answer questions on the News of the World phone hacking affair. ](/news/2011/07/14/news-corporation-chairman-rupert-murdoch-his-son-james-and-news-international-chief-executive-rebekah-brooks-all-agree-to-appear-before-br.md)
 The FBI is investigating reports that News Corporation sought to hack the phones of victims of the 9/11 attacks.
 
 ### [U.S. district court judge Reggie Walton declares a mistrial in the perjury trial of former baseball star Roger Clemens after prosecutors present evidence that Walton had previously ruled inadmissible. Walton will hold a hearing on September 2 to determine whether to hold a new trial. ](/news/2011/07/14/u-s-district-court-judge-reggie-walton-declares-a-mistrial-in-the-perjury-trial-of-former-baseball-star-roger-clemens-after-prosecutors-pre.md)

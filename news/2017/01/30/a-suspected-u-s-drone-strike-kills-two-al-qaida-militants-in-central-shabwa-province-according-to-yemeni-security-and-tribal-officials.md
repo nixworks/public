@@ -1,6 +1,6 @@
 ### [2017-01-30](/news/2017/01/30/index.md)
 
-# A suspected U.S. drone strike kills two al-Qaida militants in  central Shabwa province, according to Yemeni security and tribal officials. 
+# A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. 
 
 A suspected U.S. drone strike killed two men believed to be al-Qaeda militants in central Yemen, local officials said early on Monday, hours after American commandos carried out the first military operation authorized by President Donald Trump. 
 
@@ -20,6 +20,6 @@ A suspected U.S. drone strike killed two men believed to be al-Qaeda militants i
 5. [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md) _Context: Yemen, Yemeni Civil War_
 6. [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md) _Context: Yemen, Yemeni Civil War_
 7. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _Context: Yemen, al-Qaida_
-8. [Seven Pakistani crew members on Iranian cargo ship MV ''Joya'', sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s.md) _Context: Yemen, Yemeni Civil War_
+8. [Seven Pakistani crew members on Iranian cargo ship MV "Joya", sailing from Egypt to Dubai, UAE, are killed in a rocket attack off Yemen's coast. ](/news/2016/12/22/seven-pakistani-crew-members-on-iranian-cargo-ship-mv-joya-sailing-from-egypt-to-dubai-uae-are-killed-in-a-rocket-attack-off-yemen-s-co.md) _Context: Yemen, Yemeni Civil War_
 9. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Yemen, Yemeni Civil War_
 10. [The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-23-59-ast-4-59-edt.md) _Context: Yemen, Yemeni Civil War_

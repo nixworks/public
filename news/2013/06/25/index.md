@@ -1,6 +1,6 @@
 ## [2013-06-25](/news/2013/06/25/index.md)
 
-### [War in Afghanistan:: Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/war-in-afghanistan-taliban-forces-attack-near-the-presidential-palace-in-kabul.md)
+### [Taliban forces attack near the Presidential Palace in Kabul. ](/news/2013/06/25/taliban-forces-attack-near-the-presidential-palace-in-kabul.md)
 Afghan security forces fight off militants who launched a gun and bomb attack near the presidential palace, in one of the most secure areas of Kabul.
 
 ### [The "Under the Dome" TV series premieres to 13.5 million viewers in the United States, the largest summertime premiere for a drama since 2007. ](/news/2013/06/25/the-under-the-dome-tv-series-premieres-to-13-5-million-viewers-in-the-united-states-the-largest-summertime-premiere-for-a-drama-since-200.md)

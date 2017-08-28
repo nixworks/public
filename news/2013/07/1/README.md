@@ -1,6 +1,6 @@
 ## [2013-07-1](/news/2013/07/1/index.md)
 
-### [2012-2013 Egyptian protests:: Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/2012-2013-egyptian-protests-demonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptia.md)
+### [Demonstrations across Egypt gather about 15 million people nationwide calling for the resignation of Egyptian President Mohammed Morsi. ](/news/2013/07/1/demonstrations-across-egypt-gather-about-15-million-people-nationwide-calling-for-the-resignation-of-egyptian-president-mohammed-morsi.md)
 The Arab Spring, take two.
 
 ### [At least 47 people are killed and more than 90 wounded in two separate bomb blasts in Pakistan, one in a Shiite suburb of Quetta and the other in an attack on a paramilitary convoy in the northwest of the country; a Sunni extremist group reportedly claims responsibility. ](/news/2013/07/1/at-least-47-people-are-killed-and-more-than-90-wounded-in-two-separate-bomb-blasts-in-pakistan-one-in-a-shiite-suburb-of-quetta-and-the-oth.md)

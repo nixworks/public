@@ -11,7 +11,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [ 2008 Sichuan earthquake:: The death toll from the earthquake reaches 12,000. ](/news/2008/05/13/2008-sichuan-earthquake-the-death-toll-from-the-earthquake-reaches-12-000.md) _Context: death toll_
+1. [ The death toll from the earthquake reaches 12,000. ](/news/2008/05/13/the-death-toll-from-the-earthquake-reaches-12-000.md) _Context: death toll_
 2. [ Residents flee Mogadishu as warlords and Islamist militias battle for control of the Somali capital. The death toll in five days of fighting reaches 120. ](/news/2006/05/11/residents-flee-mogadishu-as-warlords-and-islamist-militias-battle-for-control-of-the-somali-capital-the-death-toll-in-five-days-of-fightin.md) _Context: death toll_
 3. [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md) _Context: death toll_
 4. [ Death toll of Hurricane Stan reaches 166. ](/news/2005/10/6/death-toll-of-hurricane-stan-reaches-166.md) _Context: death toll_

@@ -1,9 +1,9 @@
 ## [2012-01-24](/news/2012/01/24/index.md)
 
-### [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011-2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md)
+### [2011-2012 Syrian uprising: 52 civilians are killed by Syrian security forces, 39 of which were killed in the city of Hama alone. ](/news/2012/01/24/2011a2012-syrian-uprising-52-civilians-are-killed-by-syrian-security-forces-39-of-which-were-killed-in-the-city-of-hama-alone.md)
 Syrian security forces killed 52 people across the country on Tuesday as troops stormed Hama following large protests in the flashpoint central city, activists said. &quot;The Syrian armed forces stormed the neighborhoods of Bab Qubli and al-Jarajmah...
 
-### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011-2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
+### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
 _Context: 2011 Egyptian revolution, Egypt, Field Marshal, Mohamed Hussein Tantawi, governing body, state of emergency_
 
 ### [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md)

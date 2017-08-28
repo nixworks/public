@@ -1,6 +1,6 @@
 ### [2016-12-1](/news/2016/12/1/index.md)
 
-# The Jill Stein-initiated  recounts begin in Wisconsin. 
+# The Jill Stein-initiated recounts begin in Wisconsin. 
 
 
 

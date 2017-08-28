@@ -1,6 +1,6 @@
 ## [2015-03-23](/news/2015/03/23/index.md)
 
-### [Iraqi insurgency (2011-present): Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/iraqi-insurgency-2011-present-multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md)
+### [Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md)
 _Context: Baghdad, Iraq, Iraqi insurgency (2011-present)_
 
 ### [China's biggest state-owned chemical company ChemChina acquires a 26% stake in Italian tire manufacturer Pirelli with an additional offer to buy the remaining outstanding shares. ](/news/2015/03/23/china-s-biggest-state-owned-chemical-company-chemchina-acquires-a-26-stake-in-italian-tire-manufacturer-pirelli-with-an-additional-offer-to.md)
@@ -24,10 +24,10 @@ _Context: U.S. Supreme Court, Wisconsin_
 ### [The U.S. state of Utah reinstates the use of execution by firing squad for situations where lethal injection is not possible. ](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.md)
 _Context: Utah, execution by firing squad, lethal injection_
 
-### [Death of Lee Kuan Yew: Lee Kuan Yew, a founding father of Singapore as well as its first prime minister, dies at the age of 91 after a prolonged illness. ](/news/2015/03/23/death-of-lee-kuan-yew-lee-kuan-yew-a-founding-father-of-singapore-as-well-as-its-first-prime-minister-dies-at-the-age-of-91-after-a-prolo.md)
+### [Lee Kuan Yew, a founding father of Singapore as well as its first prime minister, dies at the age of 91 after a prolonged illness. ](/news/2015/03/23/lee-kuan-yew-a-founding-father-of-singapore-as-well-as-its-first-prime-minister-dies-at-the-age-of-91-after-a-prolonged-illness.md)
 Lee Kuan Yew, the statesman who transformed Singapore from a port city into a wealthy global hub, dies at the age of 91.
 
-### [United States presidential election, 2016: Senator Ted Cruz (R-Texas) announces his intention to run for president. ](/news/2015/03/23/united-states-presidential-election-2016-senator-ted-cruz-r-texas-announces-his-intention-to-run-for-president.md)
+### [Senator Ted Cruz (R-Texas) announces his intention to run for president. ](/news/2015/03/23/senator-ted-cruz-r-texas-announces-his-intention-to-run-for-president.md)
 Texas Sen. Ted Cruz is the first in for 2016.
 
 ## [Previous Day...](/news/2015/03/22/index.md)

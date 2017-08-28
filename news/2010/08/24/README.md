@@ -1,13 +1,13 @@
 ## [2010-08-24](/news/2010/08/24/index.md)
 
-### [Yemeni al-Qaeda crackdown:: 80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/yemeni-al-qaeda-crackdown-80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-governmen.md)
+### [80,000 people flee the southern Yemeni city of Lawdar after clashes between Al-Qaeda linked forces and government troops killed several people. ](/news/2010/08/24/80-000-people-flee-the-southern-yemeni-city-of-lawdar-after-clashes-between-al-qaeda-linked-forces-and-government-troops-killed-several-peop.md)
 Army says it is regaining control of Loder after fighting killed 33 and displaced 80,000.
 
 ### [Two Catalonian aid workers kidnapped in Mauritania by Al-Qaeda Organization in the Islamic Maghreb return home. ](/news/2010/08/24/two-catalonian-aid-workers-kidnapped-in-mauritania-by-al-qaeda-organization-in-the-islamic-maghreb-return-home.md)
 * Back in Barcelona, pair say they were treated well * EU to draft U.N. resolution on aid worker safety * Al Qaeda welcomes Spain cooperation, c
 
-### [Battle of Mogadishu (2010):: Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/battle-of-mogadishu-2010-al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing.md)
-_Context: Battle of Mogadishu (2010), MPs, President, Villa Somalia, al Shabaab militia, storm the Hotel Muna_
+### [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md)
+_Context: MPs, President, Villa Somalia, al Shabaab militia, storm the Hotel Muna_
 
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.

@@ -1,6 +1,6 @@
 ## [2015-01-18](/news/2015/01/18/index.md)
 
-### [Israeli-Lebanese conflict: An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/israeli-lebanese-conflict-an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbol.md)
+### [An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbollah.md)
 _Context: Hezbollah, IRGC, Israeli Defence Forces, Israeli-Lebanese conflict, Syria_
 
 ### [Boko Haram militants kidnap 80 people and kill three others from villages in north Cameroon. ](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.md)
@@ -9,10 +9,10 @@ It is thought around 30 adults and 50 children have been taken by the extremist 
 ### [A clash with Hindu villagers in Sarayian village in India's Bihar state leaves at least three Muslim villagers burned to death. ](/news/2015/01/18/a-clash-with-hindu-villagers-in-sarayian-village-in-india-s-bihar-state-leaves-at-least-three-muslim-villagers-burned-to-death.md)
 _Context: Bihar, Hindu, India, Muslim_
 
-### [Libyan Civil War (2014&ndash;present): State-sponsored army and Islamist-sponsored opposition declare a ceasefire. ](/news/2015/01/18/libyan-civil-war-2014-ndash-present-state-sponsored-army-and-islamist-sponsored-opposition-declare-a-ceasefire.md)
+### [State-sponsored army and Islamist-sponsored opposition declare a ceasefire. ](/news/2015/01/18/state-sponsored-army-and-islamist-sponsored-opposition-declare-a-ceasefire.md)
 _Context: Libyan Civil War (2014&ndash;present)_
 
-### [2015 Papal visit to Sri Lanka and the Philippines: Pope Francis celebrates Holy Mass in Manila to a crowd of 6 to 7 million, the largest papal gathering since 1995 World Youth Day mass celebrated by late Pope John Paul II in the same place, despite pouring rain. ](/news/2015/01/18/2015-papal-visit-to-sri-lanka-and-the-philippines-pope-francis-celebrates-holy-mass-in-manila-to-a-crowd-of-6-to-7-million-the-largest-pap.md)
+### [Pope Francis celebrates Holy Mass in Manila to a crowd of 6 to 7 million, the largest papal gathering since 1995 World Youth Day mass celebrated by late Pope John Paul II in the same place, despite pouring rain. ](/news/2015/01/18/pope-francis-celebrates-holy-mass-in-manila-to-a-crowd-of-6-to-7-million-the-largest-papal-gathering-since-1995-world-youth-day-mass-celebr.md)
 Pope Francis concluded his trip to Asia on Sunday with an open-air Mass for a rain-drenched crowd in Manila that the Vatican and the government said drew up to seven million people, the largest ever for a papal event.
 
 ### [Icy roads from a freezing-rain storm cause at least four deaths in the Philadelphia, Pennsylvania area. ](/news/2015/01/18/icy-roads-from-a-freezing-rain-storm-cause-at-least-four-deaths-in-the-philadelphia-pennsylvania-area.md)

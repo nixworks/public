@@ -11,7 +11,6 @@ International negotiators urge the militant Basque separatist group Eta to lay d
 
 ### Related:
 
-1. [Basque conflict: In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/basque-conflict-in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: Basque conflict_
+1. [In Spain, the Basque separatist group ETA announces that it will fully disarm by April 8, 2017. ](/news/2017/03/17/in-spain-the-basque-separatist-group-eta-announces-that-it-will-fully-disarm-by-april-8-2017.md) _Context: Basque conflict_
 2. [French police arrest the military leader of the Basque separatist group ETA Oroitz Gurruchaga Gogorza and his deputy Xabier Aramburu in the village of Cauna. ](/news/2012/05/27/french-police-arrest-the-military-leader-of-the-basque-separatist-group-eta-oroitz-gurruchaga-gogorza-and-his-deputy-xabier-aramburu-in-the.md) _Context: Basque_
-3. [Basque conflict:: Despite a ceasefire, ETA shoot a French policeman in Valliere, Limousin. Two more shooting incidents follow the first one. ](/news/2011/04/9/basque-conflict-despite-a-ceasefire-eta-shoot-a-french-policeman-in-valliere-limousin-two-more-shooting-incidents-follow-the-first-one.md) _Context: Basque conflict_
-4. [ Spanish police capture two suspected members, Aitzol Etxaburu and Andoni Sarasola, of the Basque-region separatist group ETA. ](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.md) _Context: Basque_
+3. [ Spanish police capture two suspected members, Aitzol Etxaburu and Andoni Sarasola, of the Basque-region separatist group ETA. ](/news/2009/08/19/spanish-police-capture-two-suspected-members-aitzol-etxaburu-and-andoni-sarasola-of-the-basque-region-separatist-group-eta.md) _Context: Basque_

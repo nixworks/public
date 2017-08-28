@@ -1,9 +1,9 @@
 ## [2013-10-16](/news/2013/10/16/index.md)
 
-### [Syrian civil war:: At least 21 civilians are killed when their minibus hits a land mine in southern Syrian town of Nawa, with opposition activists blaming the Syrian army. ](/news/2013/10/16/syrian-civil-war-at-least-21-civilians-are-killed-when-their-minibus-hits-a-land-mine-in-southern-syrian-town-of-nawa-with-opposition-act.md)
+### [At least 21 civilians are killed when their minibus hits a land mine in southern Syrian town of Nawa, with opposition activists blaming the Syrian army. ](/news/2013/10/16/at-least-21-civilians-are-killed-when-their-minibus-hits-a-land-mine-in-southern-syrian-town-of-nawa-with-opposition-activists-blaming-the.md)
 Twenty-one people, including four children and six women, were killed when a minibus hit a mine in the southern Syrian town of Noa on Wednesday, the Syrian Observatory for Human Rights monitoring group said.
 
-### [United States debt-ceiling crisis of 2013:: The United States Senate reaches a bipartisan deal to avoid default and end the 16-day US government shutdown. The House passes the legislation by 285&ndash;144. The bill now goes to the president, who is expected to sign it. ](/news/2013/10/16/united-states-debt-ceiling-crisis-of-2013-the-united-states-senate-reaches-a-bipartisan-deal-to-avoid-default-and-end-the-16-day-us-govern.md)
+### [The United States Senate reaches a bipartisan deal to avoid default and end the 16-day US government shutdown. The House passes the legislation by 285&ndash;144. The bill now goes to the president, who is expected to sign it. ](/news/2013/10/16/the-united-states-senate-reaches-a-bipartisan-deal-to-avoid-default-and-end-the-16-day-us-government-shutdown-the-house-passes-the-legislat.md)
 Republican and Democratic leaders in the US Senate have struck an agreement to end a fiscal impasse, hours before Washington hits its debt limit, a senator says.
 
 ### [Lao Airlines Flight 301 crashes in the Mekong River near Pakse International Airport, killing 44 passengers and 5 crew members. ](/news/2013/10/16/lao-airlines-flight-301-crashes-in-the-mekong-river-near-pakse-international-airport-killing-44-passengers-and-5-crew-members.md)

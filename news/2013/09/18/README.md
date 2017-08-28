@@ -3,8 +3,8 @@
 ### [The United States Federal Reserve announces that it will continue its stimulus program due to concerns about weakening growth. ](/news/2013/09/18/the-united-states-federal-reserve-announces-that-it-will-continue-its-stimulus-program-due-to-concerns-about-weakening-growth.md)
 The Federal Reserve has left its $US85 billion ($91 billion) a month stimulus program in place, against broad expectations that it would reduce it as the economy grows.
 
-### [Hurricane Manuel:: More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/hurricane-manuel-more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-reso.md)
-_Context: Acapulco, Hurricane Manuel, Mexican Army_
+### [More than 2,000 tourists have been airlifted by the Mexican Army after floods caused by Hurricane Manuel isolate the resort city of Acapulco with many tourists and residents stranded. ](/news/2013/09/18/more-than-2-000-tourists-have-been-airlifted-by-the-mexican-army-after-floods-caused-by-hurricane-manuel-isolate-the-resort-city-of-acapulco.md)
+_Context: Acapulco, Mexican Army_
 
 ### [At least 6 people are dead in Ottawa after a collision between a Via Rail train and a double-decker OC Transpo bus. ](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.md)
 An Ottawa city bus slammed into a Via Rail train at a level crossing during Wednesday&rsquo;s morning commute, leaving six people dead and dozens injured.

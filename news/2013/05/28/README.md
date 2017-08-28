@@ -1,9 +1,9 @@
 ## [2013-05-28](/news/2013/05/28/index.md)
 
-### [Syrian civil war:: United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/syrian-civil-war-united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-i.md)
+### [United States Senator John McCain travels to Syria to meet with rebel fighters and discuss with them America's possible involvement in the nation's civil war.](/news/2013/05/28/united-states-senator-john-mccain-travels-to-syria-to-meet-with-rebel-fighters-and-discuss-with-them-america-s-possible-involvement-in-the-n.md)
 _Context: John McCain, Syria, Syrian Civil War, United States Senator, United States of America_
 
-### [War in North-West Pakistan:: Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/war-in-north-west-pakistan-gunmen-kill-one-anti-polio-worker-and-wound-three-others.md)
+### [Gunmen kill one anti-polio worker and wound three others ](/news/2013/05/28/gunmen-kill-one-anti-polio-worker-and-wound-three-others.md)
 Pakistani authorities suspended a four-day polio vaccination program Tuesday after gunmen shot dead a female polio worker and wounded another, officials said, in a blow to the U.N.-backed campaign aimed at eradicating the crippling disease from this violence-torn country.
 
 ### [Sweden's largest music festival, the Peace & Love in Borlnge, files for bankruptcy. ](/news/2013/05/28/sweden-s-largest-music-festival-the-peace-love-in-borlange-files-for-bankruptcy.md)

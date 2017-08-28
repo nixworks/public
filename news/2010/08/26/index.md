@@ -9,7 +9,7 @@ Civil servants plan bigger strikes if pay demands not met, as services are restr
 ### [Two Greek F-16 planes collide mid-air south of Crete; 2 out of 3 pilots are rescued. ](/news/2010/08/26/two-greek-f-16-planes-collide-mid-air-south-of-crete-2-out-of-3-pilots-are-rescued.md)
 Two Greek fighter jets have collided in mid-air, the defence ministry says, with one of the pilots apparently managing to eject safely.
 
-### [2010 Pakistan floods: Pakistan orders nearly half a million people in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/2010-pakistan-floods-pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods.md)
+### [Pakistan orders nearly half a million people in towns including Sujawal, Mirpur Bathoro and Daro threatened by floods to evacuate. ](/news/2010/08/26/pakistan-orders-nearly-half-a-million-people-in-towns-including-sujawal-mirpur-bathoro-and-daro-threatened-by-floods-to-evacuate.md)
 The Pakistan Taliban is planning to kidnap foreign aid workers delivering assistance in the aftermath of devastating floods, according to an American diplomatic official.
 
 ### [South Korea offers emergency aid to North Korea for floods. ](/news/2010/08/26/south-korea-offers-emergency-aid-to-north-korea-for-floods.md)

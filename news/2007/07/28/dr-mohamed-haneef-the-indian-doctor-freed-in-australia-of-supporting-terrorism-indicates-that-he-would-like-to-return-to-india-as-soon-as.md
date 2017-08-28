@@ -12,7 +12,7 @@ An Indian doctor freed from jail after Australia dropped terrorism charges again
 
 ### Related:
 
-1. [2014 Australian terror raids: Australia raises security for its Parliament after conducting raids that arrest dozens of suspected terrorists. ](/news/2014/09/19/2014-australian-terror-raids-australia-raises-security-for-its-parliament-after-conducting-raids-that-arrest-dozens-of-suspected-terrorists.md) _Context: Australia, terrorism_
+1. [Australia raises security for its Parliament after conducting raids that arrest dozens of suspected terrorists. ](/news/2014/09/19/australia-raises-security-for-its-parliament-after-conducting-raids-that-arrest-dozens-of-suspected-terrorists.md) _Context: Australia, terrorism_
 2. [Australia approves exports of uranium to India. ](/news/2011/12/4/australia-approves-exports-of-uranium-to-india.md) _Context: Australia, India_
 3. [Abdul Nacer Benbrika, serving a 15-year jail term in Australia after being found guilty on a number of terrorism-related charged, loses an appeal in the Court of Appeal against conviction of leading a terrorist group. ](/news/2010/10/25/abdul-nacer-benbrika-serving-a-15-year-jail-term-in-australia-after-being-found-guilty-on-a-number-of-terrorism-related-charged-loses-an-a.md) _Context: Australia, terrorism_
 4. [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md) _Context: Australia, India_

@@ -1,6 +1,6 @@
 ### [2017-01-14](/news/2017/01/14/index.md)
 
-#   A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. 
+#  A suspected arsonist is arrested after a fire destroys a mosque in Bellevue, Washington. 
 
 A suspected arson fire badly damaged a Bellevue mosque early Saturday morning. Police arrested one person at the scene.
 

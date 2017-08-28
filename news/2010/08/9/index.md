@@ -6,7 +6,7 @@ JERUSALEM: Israel&#039;s Prime Minister, Benjamin Netanyahu, is expected to assi
 ### [Hezbollah leader Hassan Nasrallah gives a press conference in which he states he has evidence that implicates Israel in the 2005 assassination of then Prime Minister of Lebanon Rafic Hariri, who was killed along with 22 others. ](/news/2010/08/9/hezbollah-leader-hassan-nasrallah-gives-a-press-conference-in-which-he-states-he-has-evidence-that-implicates-israel-in-the-2005-assassinati.md)
 Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Israeli involvement in the murder of ex-Lebanese PM Rafik Hariri.
 
-### [Commemoration of the atomic bombing of Nagasaki:: Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/commemoration-of-the-atomic-bombing-of-nagasaki-japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states.md)
+### [Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.md)
 _Context: Japan, Nagasaki, dropped_
 
 ### [The Turkish government promotes two new generals. ](/news/2010/08/9/the-turkish-government-promotes-two-new-generals.md)
@@ -40,7 +40,7 @@ The death toll from landslides in north-west China rises to 337, with 1,148 peop
 ### [33 miners are still trapped without any contact underground after days of rescue efforts at a collapsed mine near Copiapo in the Atacama Desert. ](/news/2010/08/9/33-miners-are-still-trapped-without-any-contact-underground-after-days-of-rescue-efforts-at-a-collapsed-mine-near-copiapa3-in-the-atacama-de.md)
 Rescuers in Chile drill shafts for oxygen, water and food in a bid to rescue 33 workers who have been trapped since a mine collapse on Thursday.
 
-### [Mumbai oil spill:: An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. ](/news/2010/08/9/mumbai-oil-spill-an-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai-ind.md)
+### [An oil spill becomes more serious three days after two ships, MSC "Chitra" and MV "Khalijia-111" collided off Mumbai, India. ](/news/2010/08/9/an-oil-spill-becomes-more-serious-three-days-after-two-ships-msc-chitra-and-mv-khalijia-111-collided-off-mumbai-india.md)
 Panama ship MSC Chitra, which collided with MSC Khalijia off Mumbai harbour on Saturday, tilted further, spilling oil for the third day.
 
 ### [At least 10 people die and dozens disappear after a passenger boat sinks off the coast of Indonesia. ](/news/2010/08/9/at-least-10-people-die-and-dozens-disappear-after-a-passenger-boat-sinks-off-the-coast-of-indonesia.md)

@@ -1,6 +1,6 @@
 ## [2014-03-10](/news/2014/03/10/index.md)
 
-### [2014 Crimean crisis:: A pro-Russian military force of just about a dozen men take control of the Ukrainian naval base near the town of Bakhchysarai. ](/news/2014/03/10/2014-crimean-crisis-a-pro-russian-military-force-of-just-about-a-dozen-men-take-control-of-the-ukrainian-naval-base-near-the-town-of-bakhc.md)
+### [A pro-Russian military force of just about a dozen men take control of the Ukrainian naval base near the town of Bakhchysarai. ](/news/2014/03/10/a-pro-russian-military-force-of-just-about-a-dozen-men-take-control-of-the-ukrainian-naval-base-near-the-town-of-bakhchysarai.md)
 A pro-Russian force opened fire in seizing a Ukrainian military base in Crimea on Monday and NATO announced reconnaissance flights along its eastern frontiers as confrontation around the Black Sea peninsula showed no sign of easing.
 
 ### [A Jordanian judge is fatally shot by Israeli Border Police after he allegedly attempted to grab one of their rifles. ](/news/2014/03/10/a-jordanian-judge-is-fatally-shot-by-israeli-border-police-after-he-allegedly-attempted-to-grab-one-of-their-rifles.md)
@@ -15,7 +15,7 @@ Pizza chain Sbarro LLC has filed for bankruptcy protection for the second time i
 ### [Troy Buswell resigns as the Treasurer of Western Australia following a mental breakdown and a car accident. ](/news/2014/03/10/troy-buswell-resigns-as-the-treasurer-of-western-australia-following-a-mental-breakdown-and-a-car-accident.md)
 TREASURER Troy Buswell, 47, has suffered a mental health breakdown and has resigned from the WA Cabinet, effectively ending his political career.
 
-### [New Zealand general election, 2014:: John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/new-zealand-general-election-2014-john-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held.md)
+### [John Key, the Prime Minister of New Zealand, announces that the 2014 New Zealand election will be held on 20 September 2014. ](/news/2014/03/10/john-key-the-prime-minister-of-new-zealand-announces-that-the-2014-new-zealand-election-will-be-held-on-20-september-2014.md)
 New Zealand will go to the polls on September 20. - New Zealand Herald
 
 ### [The Prime Minister of Papua New Guinea Peter O'Neill sacks the Treasurer Don Polye and the Minister for Industrial Relations Mark Maipakai. ](/news/2014/03/10/the-prime-minister-of-papua-new-guinea-peter-o-neill-sacks-the-treasurer-don-polye-and-the-minister-for-industrial-relations-mark-maipakai.md)

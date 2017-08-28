@@ -1,12 +1,12 @@
 ## [2014-08-15](/news/2014/08/15/index.md)
 
-### [Islamist insurgency in Nigeria:: Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/islamist-insurgency-in-nigeria-suspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy.md)
-_Context: Boko Haram, Borno State, Doron Baga, Islamist insurgency in Nigeria, Lake Chad_
+### [Suspected Islamist Boko Haram fighters have abducted dozens of boys and men in Doron Baga, a remote, sandy fishing village in the northeast, in Borno State, near Lake Chad. ](/news/2014/08/15/suspected-islamist-boko-haram-fighters-have-abducted-dozens-of-boys-and-men-in-doron-baga-a-remote-sandy-fishing-village-in-the-northeast.md)
+_Context: Boko Haram, Borno State, Doron Baga, Lake Chad_
 
-### [War in Donbass:: A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/war-in-donbass-a-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-f.md)
+### [A column of at least 23 Russian armoured vehicles and military trucks crosses the border from Russia into Ukraine, in the first confirmed sighting of such an incident by Western journalists. ](/news/2014/08/15/a-column-of-at-least-23-russian-armoured-vehicles-and-military-trucks-crosses-the-border-from-russia-into-ukraine-in-the-first-confirmed-si.md)
 Exclusive: Telegraph witnesses Russian armoured vehicles and military trucks cross the border from Russia into Ukraine
 
-### [2014 Israel-Gaza conflict:: An Egyptian newspaper leaks the proposed plan for a long lasting truce compromising 11 articles which is now being reviewed by both sides. ](/news/2014/08/15/2014-israel-gaza-conflict-an-egyptian-newspaper-leaks-the-proposed-plan-for-a-long-lasting-truce-compromising-11-articles-which-is-now-bei.md)
+### [An Egyptian newspaper leaks the proposed plan for a long lasting truce compromising 11 articles which is now being reviewed by both sides. ](/news/2014/08/15/an-egyptian-newspaper-leaks-the-proposed-plan-for-a-long-lasting-truce-compromising-11-articles-which-is-now-being-reviewed-by-both-sides.md)
 Clauses as reported by Egyptian newspaper al-Shorouk
 
 ### [A ceremony is held to commemorate the 100th anniversary of the Panama Canal. ](/news/2014/08/15/a-ceremony-is-held-to-commemorate-the-100th-anniversary-of-the-panama-canal.md)

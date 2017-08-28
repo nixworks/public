@@ -3,7 +3,7 @@
 ### [Insurgency in the North Caucasus: The Chechen rebel leader Doku Umarov orders his subordinates to halt attacks on the civilian population of Russia, while leaving military and security personnel as legitimate targets.](/news/2012/02/3/insurgency-in-the-north-caucasus-the-chechen-rebel-leader-doku-umarov-orders-his-subordinates-to-halt-attacks-on-the-civilian-population-of.md)
 _Context: Chechnya, Doku Umarov, Insurgency in the North Caucasus, Russia_
 
-### [Egyptian protests:: Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-protests-egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-sai.md)
+### [Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. ](/news/2012/02/3/egyptian-police-shoot-and-kill-two-protesters-in-suez-the-first-deaths-to-occur-as-protests-spring-up-over-the-port-said-stadium-clashes.md)
 Two people are shot dead and more than 400 injured in protests across Egypt sparked by the deaths of 74 people after a football match.
 
 ### [Seven Pakistan Army soldiers are killed and three others wounded following a Taliban attack in the Kurram Agency. ](/news/2012/02/3/seven-pakistan-army-soldiers-are-killed-and-three-others-wounded-following-a-taliban-attack-in-the-kurram-agency.md)

@@ -1,12 +1,12 @@
 ## [2013-09-11](/news/2013/09/11/index.md)
 
-### [Syrian civil war:: The UN accuses both the Syrian government and, to a lesser extent, the rebels of war crimes. Out of 9 massacres they investigated, 8 were attributed to the Syrian Army. The remaining massacre was attributed to insurgents. ](/news/2013/09/11/syrian-civil-war-the-un-accuses-both-the-syrian-government-and-to-a-lesser-extent-the-rebels-of-war-crimes-out-of-9-massacres-they-inve.md)
+### [The UN accuses both the Syrian government and, to a lesser extent, the rebels of war crimes. Out of 9 massacres they investigated, 8 were attributed to the Syrian Army. The remaining massacre was attributed to insurgents. ](/news/2013/09/11/the-un-accuses-both-the-syrian-government-and-to-a-lesser-extent-the-rebels-of-war-crimes-out-of-9-massacres-they-investigated-8-were-at.md)
 Investigators say government forces and rebel fighters have killed, tortured and raped on a huge scale.
 
-### [Sinai insurgency:: Two suicide bombers ram a car with explosives. Egyptian military says one hit the local branch of military intelligence, while the other struck an army checkpoint in Rafah killing nine soldiers and wounding 17 others. ](/news/2013/09/11/sinai-insurgency-two-suicide-bombers-ram-a-car-with-explosives-egyptian-military-says-one-hit-the-local-branch-of-military-intelligence.md)
-_Context: Egypt, Egyptian Army, Rafah, Sinai insurgency_
+### [Two suicide bombers ram a car with explosives. Egyptian military says one hit the local branch of military intelligence, while the other struck an army checkpoint in Rafah killing nine soldiers and wounding 17 others. ](/news/2013/09/11/two-suicide-bombers-ram-a-car-with-explosives-egyptian-military-says-one-hit-the-local-branch-of-military-intelligence-while-the-other-str.md)
+_Context: Egypt, Egyptian Army, Rafah_
 
-### [Post-civil war violence in Libya:: On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/post-civil-war-violence-in-libya-on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreig.md)
+### [On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreign-ministry-building-in-the-city.md)
 On the anniversary of the 9/11 bombings on the US, a car bomb causes serious damage to a foreign ministry building in Benghazi.
 
 ### [Protestors and police clash in Chile due to the 40th anniversary of the 1973 Chilean coup d'tat. ](/news/2013/09/11/protestors-and-police-clash-in-chile-due-to-the-40th-anniversary-of-the-1973-chilean-coup-d-etat.md)

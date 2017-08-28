@@ -1,13 +1,9 @@
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-# Armenian voters approve, by 63.35 percent to 32.42 percent, proposed amendments to the Constitution that change the country's form of government to a parliamentary republic. Sunday's election had a 50.51 percent turnout of its registered voters. The opposition alleged wide-spread fraud which the Armenian Revolutionary Federation said didn't happen. 
-
-Armenia’s Electoral Commission on Monday announced that changes to Armenia’s Constitution were adopted in Sunday’s referendum.
+# Armenian voters approve, by 63.35 percent to 32.42 percent, proposed amendments to the Constitution that change the country's form of government to a parliamentary republic. Sunday's election had a 50.51 percent turnout of its registered voters. The opposition alleged wide-spread fraud which the Armenian Revolutionary Federation said didn't happen. [http://asbarez.com/142597/armenia-adopts-new-constitution/ ("Asbarez")] 
 
 
-### Source:
 
-1. [[[Asbarez]]](http://asbarez.com/142597/armenia-adopts-new-constitution/)
 
 ### Related:
 
@@ -19,5 +15,5 @@ Armenia’s Electoral Commission on Monday announced that changes to Armenia’s
 6. [Hovik Abrahamyan resigns as Prime Minister of Armenia citing civil unrest and a sharp economic downturn. ](/news/2016/09/8/hovik-abrahamyan-resigns-as-prime-minister-of-armenia-citing-civil-unrest-and-a-sharp-economic-downturn.md) _Context: Armenia_
 7. [A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. ](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-armenia-after-the-remaining-gunmen-holed-up-in-a-police-station-surrender-to-police-the-na.md) _Context: Armenia_
 8. [At least one person is reportedly killed and others are taken hostage after an armed group seized control of the police headquarters in the Erebuni District of Yerevan, Armenia. The gunmen are demanding the release of jailed opposition figure, Jirair Sefilian, according to Armenia's National Security Service. ](/news/2016/07/17/at-least-one-person-is-reportedly-killed-and-others-are-taken-hostage-after-an-armed-group-seized-control-of-the-police-headquarters-in-the.md) _Context: Armenia_
-9. [Armenia's parliament, by a 102-8 vote, ratifies an  agreement to create an Armenia-Russia joint Air Defense system.  ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md) _Context: Armenia_
+9. [Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. ](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-an-agreement-to-create-an-armenia-russia-joint-air-defense-system.md) _Context: Armenia_
 10. [Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. ](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.md) _Context: Armenia_

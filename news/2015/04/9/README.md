@@ -1,10 +1,10 @@
 ## [2015-04-9](/news/2015/04/9/index.md)
 
-### [War in Afghanistan (2015-present): Gunmen mount an attack on the office of the attorney-general of Afghanistan's Balkh Province in the city of Mazar-e-Sharif. ](/news/2015/04/9/war-in-afghanistan-2015-present-gunmen-mount-an-attack-on-the-office-of-the-attorney-general-of-afghanistan-s-balkh-province-in-the-cit.md)
+### [Gunmen mount an attack on the office of the attorney-general of Afghanistan's Balkh Province in the city of Mazar-e-Sharif. ](/news/2015/04/9/gunmen-mount-an-attack-on-the-office-of-the-attorney-general-of-afghanistan-s-balkh-province-in-the-city-of-mazar-e-sharif.md)
 At least 10 people are killed and more than 65 wounded in the northern Afghan city of Mazar-e-Sharif after gunmen storm a court complex.
 
-### [Islamic State of Iraq and the Levant: Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/islamic-state-of-iraq-and-the-levant-sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostl.md)
-_Context: Anbar province, Iraq, Iraqi police, Islamic State of Iraq and the Levant, Syria_
+### [Sohaib al Rawi, Governor of Al Anbar Governorate in Iraq, claims that ISIL has killed 52 people, mostly police officers on the border with Syria in the past week. ](/news/2015/04/9/sohaib-al-rawi-governor-of-al-anbar-governorate-in-iraq-claims-that-isil-has-killed-52-people-mostly-police-officers-on-the-border-with-s.md)
+_Context: Anbar province, ISIL, Iraq, Iraqi police, Syria_
 
 ### [The regional branch of the Communist Party of China in Tibet demands that Buddhist monasteries display the Chinese flag in an effort to shore up Chinese rule. ](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.md)
 _Context: Buddhists, Chinese flags, Communist Party of China, Tibet_
@@ -15,7 +15,7 @@ _Context: Bangladesh_
 ### [ A ship spills toxic bunker fuel into English Bay, Vancouver. The fuel has washed up on Vancouver's beaches, prompting a warning from city officials. ](/news/2015/04/9/a-ship-spills-toxic-bunker-fuel-into-english-bay-vancouver-the-fuel-has-washed-up-on-vancouver-s-beaches-prompting-a-warning-from-city-o.md)
 _Context: English Bay, Vancouver, Vancouver, bunker fuel_
 
-### [Tornadoes of 2015: A violent storm system spawns at least one tornado killing two people and injuring seven others in the American state of Illinois and causing widespread damage especially in the small towns of Rochelle and Fairdale. ](/news/2015/04/9/tornadoes-of-2015-a-violent-storm-system-spawns-at-least-one-tornado-killing-two-people-and-injuring-seven-others-in-the-american-state-of.md)
+### [A violent storm system spawns at least one tornado killing two people and injuring seven others in the American state of Illinois and causing widespread damage especially in the small towns of Rochelle and Fairdale. ](/news/2015/04/9/a-violent-storm-system-spawns-at-least-one-tornado-killing-two-people-and-injuring-seven-others-in-the-american-state-of-illinois-and-causin.md)
 A storm system threw off tornadoes killed 1 and left a trail of destruction Thursday night as it swept across a 50-mile swath of north central Illinois.
 
 ### [A gunman attacks the Palace of Justice in Milan, killing three people, including a judge. A fourth person found dead at the scene apparently died from a heart attack.](/news/2015/04/9/a-gunman-attacks-the-palace-of-justice-in-milan-killing-three-people-including-a-judge-a-fourth-person-found-dead-at-the-scene-apparently.md)

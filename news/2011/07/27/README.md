@@ -1,10 +1,10 @@
 ## [2011-07-27](/news/2011/07/27/index.md)
 
-### [2011 Norway attacks: Norwegian police start releasing the names of the victims of the 2011 Norway attacks. ](/news/2011/07/27/2011-norway-attacks-norwegian-police-start-releasing-the-names-of-the-victims-of-the-2011-norway-attacks.md)
+### [Norwegian police start releasing the names of the victims of the 2011 Norway attacks. ](/news/2011/07/27/norwegian-police-start-releasing-the-names-of-the-victims-of-the-2011-norway-attacks.md)
 Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20;Wednesday&#x20;he&#x20;would&#x20;set&#x20;up&#x20;an&#x20;independent&#x20;commission&#x20;to&#x20;investigate&#x20;allegations&#x20;of&#x20;a&#x20;slow&#x20;police&#x20;response&#x20;to&#x20;the&#x20;bombing&#x20;and&...
 
-### [War in Afghanistan (2001-present):: Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/war-in-afghanistan-2001-present-ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md)
-_Context: Ghulam Haidar Hameedi, Kandahar, War in Afghanistan (2001-present), suicide bombing_
+### [Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md)
+_Context: Ghulam Haidar Hameedi, Kandahar, suicide bombing_
 
 ### [NATO intervenes in the border clashes between Kosovo and Serbia. ](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.md)
 International concern is raised over a Kosovo police bid to take over border crossings in the ethnic Serb north in which one officer was killed.
@@ -36,7 +36,7 @@ Police were unable to control an unruly crowd of roughly 2,000 people in Hollywo
 ### [Two men are convicted in St John's, Antigua of the 2008 murders of British honeymoon couple Ben and Catherine Mullany. ](/news/2011/07/27/two-men-are-convicted-in-st-john-s-antigua-of-the-2008-murders-of-british-honeymoon-couple-ben-and-catherine-mullany.md)
 Two men have been convicted of murdering British honeymoon couple Ben and Catherine Mullany on the holiday island of Antigua.
 
-### [News International phone hacking scandal: Former "Daily Mirror" editor Piers Morgan says comments he made in 2009 on BBC Radio 4's "Desert Island Discs" do not suggest he printed stories obtained through illegal reporting. In the programme, he had spoken of "running the results" of work by third parties who did "rake through bins... tap people's phones". ](/news/2011/07/27/news-international-phone-hacking-scandal-former-daily-mirror-editor-piers-morgan-says-comments-he-made-in-2009-on-bbc-radio-4-s-desert-i.md)
+### [Former "Daily Mirror" editor Piers Morgan says comments he made in 2009 on BBC Radio 4's "Desert Island Discs" do not suggest he printed stories obtained through illegal reporting. In the programme, he had spoken of "running the results" of work by third parties who did "rake through bins... tap people's phones". ](/news/2011/07/27/former-daily-mirror-editor-piers-morgan-says-comments-he-made-in-2009-on-bbc-radio-4-s-desert-island-discs-do-not-suggest-he-printed-sto.md)
 Ex-Mirror editor Piers Morgan denies that comments he previously made on BBC radio suggest he printed stories obtained through illegal reporting.
 
 ### [An 18 year old man in the Shetland Islands of Scotland is arrested on suspicion of launching multiple distributed denial of service attacks in association with LulzSec and Anonymous. ](/news/2011/07/27/an-18-year-old-man-in-the-shetland-islands-of-scotland-is-arrested-on-suspicion-of-launching-multiple-distributed-denial-of-service-attacks.md)

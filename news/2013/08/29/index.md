@@ -1,10 +1,10 @@
 ## [2013-08-29](/news/2013/08/29/index.md)
 
-### [Syrian civil war:: The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/syrian-civil-war-the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a.md)
+### [The French frigate "Chevalier Paul" leaves the port city of Toulon, though the shipping authorities declined to confirm a media report that it was headed to Syria. ](/news/2013/08/29/the-french-frigate-chevalier-paul-leaves-the-port-city-of-toulon-though-the-shipping-authorities-declined-to-confirm-a-media-report-that.md)
 MPs vote against possible military action against Syria, ruling out involvement in US-led attacks, while France says the vote does not change its resolve to act.
 
-### [Aftermath of the 2013 Korean crisis:: North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/aftermath-of-the-2013-korean-crisis-north-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-stati.md)
-_Context: 2013 Korean crisis, Korean Peninsula, North Korea, South Korea, United States_
+### [North Korea warns against an underway joint military drill by South Korea and the United States, stating that the exercise could jeopardize a recent easing of tension on the Korean Peninsula. ](/news/2013/08/29/north-korea-warns-against-an-underway-joint-military-drill-by-south-korea-and-the-united-states-stating-that-the-exercise-could-jeopardize.md)
+_Context: Korean Peninsula, North Korea, South Korea, United States_
 
 ### [Zurich Insurance Group chairman Josef Ackermann steps down after the CFO Pierre Wauthier committed suicide earlier this week. ](/news/2013/08/29/zurich-insurance-group-chairman-josef-ackermann-steps-down-after-the-cfo-pierre-wauthier-committed-suicide-earlier-this-week.md)
 * Former Deutsche Bank boss steps down as Zurich chairman* Follows apparent suicide of CFO Pierre Wauthier* Several top executives have left

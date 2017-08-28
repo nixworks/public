@@ -1,9 +1,9 @@
 ## [2010-03-27](/news/2010/03/27/index.md)
 
-### [Earth Hour: Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/earth-hour-approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md)
+### [Approximately 4,000 cities around the world dimmed their building lights to commemorate Earth Hour. (](/news/2010/03/27/approximately-4-000-cities-around-the-world-dimmed-their-building-lights-to-commemorate-earth-hour.md)
 Europe&#39;s best known landmarks fall dark,&#160; following Sydney&#39;s Opera House and Beijing&#39;s Forbidden City in joining a global climate change protest.
 
-### [Middle East:: Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/middle-east-israeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-in.md)
+### [Israeli tanks and armoured bulldozers leave Gaza after an incursion near Khan Younis: two Gazans are killed and 12 wounded, including at least one civilian. ](/news/2010/03/27/israeli-tanks-and-armoured-bulldozers-leave-gaza-after-an-incursion-near-khan-younis-two-gazans-are-killed-and-12-wounded-including-at-lea.md)
 Soldier fights for his life in hospital; Barak warns of &quot;ramifications.&quot;
 
 ### [More than 100 people are injured and one death is reported as the Bugandan king visits royal tombs which were recently destroyed by fire. ](/news/2010/03/27/more-than-100-people-are-injured-and-one-death-is-reported-as-the-bugandan-king-visits-royal-tombs-which-were-recently-destroyed-by-fire.md)

@@ -3,7 +3,7 @@
 ### [An air strike intended to target an al Qaeda convoy in Al-Bayda province in central Yemen mistakenly attacks a wedding procession, killing 15 civilians. ](/news/2013/12/12/an-air-strike-intended-to-target-an-al-qaeda-convoy-in-al-bayda-province-in-central-yemen-mistakenly-attacks-a-wedding-procession-killing-1.md)
 Fifteen people on their way to a wedding in Yemen were killed in an air strike after their party was mistaken for an al Qaeda convoy, local security officials said on Thursday.
 
-### [Extrajudicial killings and forced disappearances in the Philippines:: Human Rights Watch and the Committee to Protect Journalists criticize the administration of Philippine President Benigno Aquino III for his failure to protect journalists after the deaths of at least 12 in 2013. ](/news/2013/12/12/extrajudicial-killings-and-forced-disappearances-in-the-philippines-human-rights-watch-and-the-committee-to-protect-journalists-criticize.md)
+### [Human Rights Watch and the Committee to Protect Journalists criticize the administration of Philippine President Benigno Aquino III for his failure to protect journalists after the deaths of at least 12 in 2013. ](/news/2013/12/12/human-rights-watch-and-the-committee-to-protect-journalists-criticize-the-administration-of-philippine-president-benigno-aquino-iii-for-his.md)
 Three reporters killed and one injured in two weeks 
 
 ### [The nominees for the 71st Golden Globe Awards are announced. ](/news/2013/12/12/the-nominees-for-the-71st-golden-globe-awards-are-announced.md)
@@ -42,19 +42,19 @@ _Context: Federal Motor Carrier Safety Administration_
 ### [Tassaduq Hussain Jillani takes the oath as the new chief justice of Pakistan. ](/news/2013/12/12/tassaduq-hussain-jillani-takes-the-oath-as-the-new-chief-justice-of-pakistan.md)
 Says he will take notice of footage of Justice Chaudhry’s retirement reference being leaked to one media group.
 
-### [Euromaidan:: Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/euromaidan-sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md)
+### [Sanctions are being considered by the United States against Ukraine after the recent violent dispersal of protests. ](/news/2013/12/12/sanctions-are-being-considered-by-the-united-states-against-ukraine-after-the-recent-violent-dispersal-of-protests.md)
 The US state department says it is considering all options, including sanctions, towards Ukraine after riot police moved in on protesters.
 
 ### [Republican Speaker John Boehner forcibly responds to attacks by previously-supportive conservative groups, due to their opposition to a bipartisan budget. ](/news/2013/12/12/republican-speaker-john-boehner-forcibly-responds-to-attacks-by-previously-supportive-conservative-groups-due-to-their-opposition-to-a-bipa.md)
 Reflecting confidence in the budget deal, House Speaker John Boehner lets loose on hard-line foes of the bipartisan agreement.
 
-### [Death and state funeral of Nelson Mandela:: The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/death-and-state-funeral-of-nelson-mandela-the-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md)
+### [The body of Nelson Mandela is lain-in-state in the federal government district of Pretoria. ](/news/2013/12/12/the-body-of-nelson-mandela-is-lain-in-state-in-the-federal-government-district-of-pretoria.md)
 After an official send-off ceremony held by the African National Congress in Pretoria, Nelson Mandela&rsquo;s body made one final journey to his home town of Qunu for burial Sunday.
 
-### [2013 Thai political crisis:: Former Prime Minister Abhisit Vejjajiva is charged with murder for his role in the 2010 Thai political protests. ](/news/2013/12/12/2013-thai-political-crisis-former-prime-minister-abhisit-vejjajiva-is-charged-with-murder-for-his-role-in-the-2010-thai-political-protests.md)
+### [Former Prime Minister Abhisit Vejjajiva is charged with murder for his role in the 2010 Thai political protests. ](/news/2013/12/12/former-prime-minister-abhisit-vejjajiva-is-charged-with-murder-for-his-role-in-the-2010-thai-political-protests.md)
 Former Thai PM Abhisit Vejjajiva is formally charged with murder over the 2010 crackdown, as protests continue in Bangkok.
 
-### [Catalan self-determination referendum:: The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/catalan-self-determination-referendum-the-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md)
+### [The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/the-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md)
 Parties in the Spanish region of Catalonia agree to hold a referendum on independence next year - but the Spanish government vows to block it.
 
 ## [Previous Day...](/news/2013/12/11/index.md)

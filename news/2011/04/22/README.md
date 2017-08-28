@@ -6,7 +6,7 @@ Thailand and Cambodia exchanged gunfire along their border on Friday, with each 
 ### [3 people are killed and 3 others are wounded as a result of a blast in a factory in the Gaza Strip. ](/news/2011/04/22/3-people-are-killed-and-3-others-are-wounded-as-a-result-of-a-blast-in-a-factory-in-the-gaza-strip.md)
 _Context: Gaza Strip_
 
-### [Arab Spring: 2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/arab-spring-2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-prot.md)
+### [2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-protests-across-t.md)
 Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welcome to GCC plan to defuse crisis.
 
 ### [Amid a protest against the construction of a new Tesco superstore in the Stokes Croft area of the English city of Bristol, 9 people are arrested and 8 police officers are injured. ](/news/2011/04/22/amid-a-protest-against-the-construction-of-a-new-tesco-superstore-in-the-stokes-croft-area-of-the-english-city-of-bristol-9-people-are-arre.md)
@@ -19,7 +19,7 @@ _Context: Los Pozos, Mexico, Veracruz_
 Christian pilgrims crowd the cobblestone alleyways of Jerusalem&#039;s Old City to mark Good Friday.
 
 ### [24 Filipinos are nailed to crosses in to San Fernando, near Manila, though celebrations are cancelled in Syria due to ongoing incidents there. ](/news/2011/04/22/24-filipinos-are-nailed-to-crosses-in-to-san-fernando-near-manila-though-celebrations-are-cancelled-in-syria-due-to-ongoing-incidents-ther.md)
-_Context: Manila, San Fernando, Syrian uprising_
+_Context: Manila, San Fernando, protestors_
 
 ### [Pope Benedict XVI becomes the first pontiff to take part in a televised question-and-answer session, a pre-recorded programme for Italian television. ](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.md)
 Pope Benedict makes history by taking part in a TV question-and-answer programme that aired on Good Friday.

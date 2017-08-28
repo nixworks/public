@@ -15,8 +15,8 @@ _Context: Discovery, International Space Station, Kennedy Space Center, STS-116_
 ### [ The party of dictator Omar Bongo, the Gabonese Democratic Party, has apparently won a vast majority in the legislative election held on 17 December 2006. ](/news/2006/12/22/the-party-of-dictator-omar-bongo-the-gabonese-democratic-party-has-apparently-won-a-vast-majority-in-the-legislative-election-held-on-17.md)
 _Context: Gabonese Democratic Party, Omar Bongo, legislative election_
 
-### [ Ethiopian war in Somalia:: Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/ethiopian-war-in-somalia-thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-af.md)
-_Context: Ethiopian war in Somalia, Mortar, ordnance_
+### [ Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. ](/news/2006/12/22/thousands-of-somali-civilians-flee-their-homes-as-hundreds-of-troops-and-trucks-move-towards-the-front-lines-after-a-night-of-artillery-an.md)
+_Context: Mortar, ordnance_
 
 ### [ The second part of the fifth round of the six-party talks on North Korea's nuclear weapons program end without any agreement being reached or a date for the next round being set. ](/news/2006/12/22/the-second-part-of-the-fifth-round-of-the-six-party-talks-on-north-korea-s-nuclear-weapons-program-end-without-any-agreement-being-reached.md)
 _Context: North Korea, intercontinental ballistic, six-party talks_

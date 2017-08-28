@@ -25,7 +25,7 @@ _Context: Indonesia, Noordin Mohammed Top_
 _Context: Airlines PNG, Isurava, Papua New Guinea, wreckage_
 
 ### [ Gunmen shoot dead five Pakistani Muslim preachers outside a mosque in Galkayo, Somalia. ](/news/2009/08/12/gunmen-shoot-dead-five-pakistani-muslim-preachers-outside-a-mosque-in-galkayo-somalia.md)
-_Context: Galkayo, Islam, Pakistan, Somalia_
+_Context: Galkayo, Muslims, Pakistan, Somalia_
 
 ### [ Gregoire Ndahimana, a Rwandan fugitive accused of genocide and crimes against humanity, is arrested by a joint Rwandan-Congolese military operation. ](/news/2009/08/12/gregoire-ndahimana-a-rwandan-fugitive-accused-of-genocide-and-crimes-against-humanity-is-arrested-by-a-joint-rwandan-congolese-military-o.md)
 _Context: Democratic Republic of the Congo, Grgoire Ndahimana, Rwanda, genocide_
@@ -33,7 +33,7 @@ _Context: Democratic Republic of the Congo, Grgoire Ndahimana, Rwanda, genocide_
 ### [ An estimated 20,000 people march through Noumea, New Caledonia, to denounce violent clashes by USTKE trade unionists against police. ](/news/2009/08/12/an-estimated-20-000-people-march-through-noumea-new-caledonia-to-denounce-violent-clashes-by-ustke-trade-unionists-against-police.md)
 _Context: New Caledonia, Noumea, police, trade unionists_
 
-### [ Princess Ashika: New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/princess-ashika-new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
+### [ New Zealand Navy divers believe they have located the sunken Princess Ashika a week after the accident. ](/news/2009/08/12/new-zealand-navy-divers-believe-they-have-located-the-sunken-princess-ashika-a-week-after-the-accident.md)
 Tongan Transport Minister Paul Karalus has resigned, six days after the sinking of the Princess Ashika. - New Zealand Herald
 
 ### [ German CDU politician Vera Lengsfeld attracts controversy for displaying a photo of Angela Merkel in a revealing gown without the authorisation of the Chancellor. ](/news/2009/08/12/german-cdu-politician-vera-lengsfeld-attracts-controversy-for-displaying-a-photo-of-angela-merkel-in-a-revealing-gown-without-the-authorisa.md)

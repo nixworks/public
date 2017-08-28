@@ -1,10 +1,10 @@
 ## [2013-02-19](/news/2013/02/19/index.md)
 
-### [Nigerian Sharia conflict:: Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria. President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/nigerian-sharia-conflict-seven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with.md)
+### [Seven French tourists are kidnapped by gunmen near Waza National Park in northern Cameroon, near the border with Nigeria. President of France Francois Hollande states that the Islamist group Boko Haram may be responsible. ](/news/2013/02/19/seven-french-tourists-are-kidnapped-by-gunmen-near-waza-national-park-in-northern-cameroon-near-the-border-with-nigeria-president-of-franc.md)
 Gunmen abduct seven French tourists in northern Cameroon, French President Francois Hollande says, blaming Nigerian-based militants.
 
-### [War in North-West Pakistan:: Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-peopl.md)
-_Context: February 2013 Quetta bombing, Pakistan, Pakistani police, War in North-West Pakistan_
+### [Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people-and-injured-another-190.md)
+_Context: February 2013 Quetta bombing, Pakistan, Pakistani police_
 
 ### [A Yemeni Air Force plane crashes in Sana'a, the capital of Yemen, killing 12 people and injuring 11 others. ](/news/2013/02/19/a-yemeni-air-force-plane-crashes-in-sana-a-the-capital-of-yemen-killing-12-people-and-injuring-11-others.md)
 A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at least 12 people, security sources said.

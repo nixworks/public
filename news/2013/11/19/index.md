@@ -1,12 +1,12 @@
 ## [2013-11-19](/news/2013/11/19/index.md)
 
-### [Syrian civil war spillover in Lebanon: Iranian embassy bombings: Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. ](/news/2013/11/19/syrian-civil-war-spillover-in-lebanon-iranian-embassy-bombings-two-suicide-bombers-target-the-iranian-embassy-in-the-lebanese-capital-beir.md)
+### [Two suicide bombers target the Iranian embassy in the Lebanese capital Beirut killing at least 23 people. ](/news/2013/11/19/two-suicide-bombers-target-the-iranian-embassy-in-the-lebanese-capital-beirut-killing-at-least-23-people.md)
 Twin blasts that killed 23 people near Iran&#039;s embassy in Beirut were suicide bombings, the army says.
 
-### [War in Somalia (2009-present):: An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/war-in-somalia-2009-present-an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19.md)
+### [An African Union base in Beledweyne, Somalia, is stormed by armed attackers, resulting in the deaths of 19 people. ](/news/2013/11/19/an-african-union-base-in-beledweyne-somalia-is-stormed-by-armed-attackers-resulting-in-the-deaths-of-19-people.md)
 At least 19 people are killed in an al-Shabab attack on an African Union base in the strategic Somali town Beledweyne, officials say.
 
-### [Syrian Civil War: Battle of Qalamoun: The Syrian Army captures the town of Qarah. ](/news/2013/11/19/syrian-civil-war-battle-of-qalamoun-the-syrian-army-captures-the-town-of-qarah.md)
+### [The Syrian Army captures the town of Qarah. ](/news/2013/11/19/the-syrian-army-captures-the-town-of-qarah.md)
 Syrian troops captured a key town from rebels near the Lebanese border on Tuesday, days after launching a broad offensive to retake a mountainous western region, state media and activists said. The at
 
 ### [The United States commemorates the 150th anniversary of the Gettysburg Address. ](/news/2013/11/19/the-united-states-commemorates-the-150th-anniversary-of-the-gettysburg-address.md)
@@ -15,16 +15,16 @@ When president Abraham Lincoln dedicated a cemetery on the Gettysburg battlefiel
 ### [Bombardier Aerospace, a Canadian manufacturer, signs a letter of intent to sell Iraq's national carrier five CSeries jets with options for 11 more. ](/news/2013/11/19/bombardier-aerospace-a-canadian-manufacturer-signs-a-letter-of-intent-to-sell-iraq-s-national-carrier-five-cseries-jets-with-options-for-1.md)
 Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliners to Iraqi Airways, the Canadian plane and train maker said on Tuesday.
 
-### [Typhoon Haiyan:: The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/typhoon-haiyan-the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
-_Context: Philippines, Typhoon Haiyan (Yolanda), World Bank_
+### [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
+_Context: Philippines, World Bank_
 
-### [Cyclone Cleopatra:: At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/cyclone-cleopatra-at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md)
+### [At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md)
 At least 18 people are killed in flooding after a cyclone lashes the island of Sardinia, prompting Italy to declare a state of emergency.
 
 ### [An under construction shopping mall collapses in the South African town of Tongaat, KwaZulu-Natal, with 50 people trapped and at least one person dead. ](/news/2013/11/19/an-under-construction-shopping-mall-collapses-in-the-south-african-town-of-tongaat-kwazulu-natal-with-50-people-trapped-and-at-least-one-p.md)
 One person has died and as many as 50 workers are feared trapped after the roof of an under-construction mall collapsed near the South African city of Durban.
 
-### [Fort Lauderdale Air Ambulance crash:: An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/fort-lauderdale-air-ambulance-crash-an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-int.md)
+### [An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-international-airport-on-its-way-to-cozu.md)
 _Context: Air Evac International, Cozumel, Mexico, Fort Lauderdale-Hollywood International Airport, Learjet 35, mayday_
 
 ### [Virginia State Senator Creigh Deeds was stabbed multiple times at his home by his son Austin "Gus" Deeds. His son, Gus was found dead from a self-inflicted gunshot wound in the home. ](/news/2013/11/19/virginia-state-senator-creigh-deeds-was-stabbed-multiple-times-at-his-home-by-his-son-austin-gus-deeds-his-son-gus-was-found-dead-from-a.md)

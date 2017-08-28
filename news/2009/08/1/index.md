@@ -30,7 +30,7 @@ _Context: China, Melbourne International Film Festival, Rebiya Kadeer, Uyghur_
 ### [ North Korea says a South Korean fishing boat it seized "illegally" entered its waters. ](/news/2009/08/1/north-korea-says-a-south-korean-fishing-boat-it-seized-illegally-entered-its-waters.md)
 _Context: North Korea, South Korea_
 
-### [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur-an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-qur-an.md)
+### [ Six Christians are killed in religious unrest in Punjab, Pakistan, after days of tension following an alleged desecration of a Qur'an. ](/news/2009/08/1/six-christians-are-killed-in-religious-unrest-in-punjab-pakistan-after-days-of-tension-following-an-alleged-desecration-of-a-quraan.md)
 _Context: Christian, Pakistan, Punjab, Qur'an_
 
 ### [ Rare Buddhist treasures, buried in the 1930s during Mongolia's Communist purge, are unearthed in the Gobi Desert. ](/news/2009/08/1/rare-buddhist-treasures-buried-in-the-1930s-during-mongolia-s-communist-purge-are-unearthed-in-the-gobi-desert.md)

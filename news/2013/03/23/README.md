@@ -1,15 +1,15 @@
 ## [2013-03-23](/news/2013/03/23/index.md)
 
-### [War on Terror:: Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/war-on-terror-pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md)
-_Context: Pakistan, Pervez Musharraf, President, Taliban, War on Terror_
+### [Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md)
+_Context: Pakistan, Pervez Musharraf, President, Taliban_
 
-### [Northern Mali conflict (2012-present):: France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/northern-mali-conflict-2012-present-france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-th.md)
+### [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md)
 The French presidency confirms &quot;with certainty&quot; reports that Islamist commander Abdelhamid Abou Zeid was killed in fighting in Mali in late February.
 
-### [2012-13 Central African Republic conflict:: All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/2012-13-central-african-republic-conflict-all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-re.md)
+### [All non-essential United Nations staff are removed from Central African Republic, as Seleka rebels move to within 75km of the capital, Bangui. ](/news/2013/03/23/all-non-essential-united-nations-staff-are-removed-from-central-african-republic-as-seleka-rebels-move-to-within-75km-of-the-capital-bangu.md)
 All non-essential UN staff said to be removed from Central African Republic, as Seleka rebels advance closer to Bangui.
 
-### [2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. ](/news/2013/03/23/2012-2013-cypriot-financial-crisis-the-cyprus-parliament-approves-three-bills-that-aim-to-raise-enough-money-to-qualify-the-country-for-a.md)
+### [2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. ](/news/2013/03/23/2012a2013-cypriot-financial-crisis-the-cyprus-parliament-approves-three-bills-that-aim-to-raise-enough-money-to-qualify-the-country-for-a.md)
 _Context: Cyprus, Cyprus Parliament, bailout package, collapse_
 
 ### [Exiled Russian business oligarch Boris Berezovsky is found dead at his home in Surrey, England. ](/news/2013/03/23/exiled-russian-business-oligarch-boris-berezovsky-is-found-dead-at-his-home-in-surrey-england.md)
@@ -19,7 +19,7 @@ _Context: Boris Berezovsky, England, Exile, Russia, Surrey, business oligarch_
 _Context: 2013 Brahmanbaria, Bangladesh tornado, Bangladesh, Brahmanbaria, tornado_
 
 ### [2013 Thailand refugee camp fire: The death toll from a fire in a Thai refugee camp for Karen refugees from Myanmar rises to 37 with more than a hundred injured. ](/news/2013/03/23/2013-thailand-refugee-camp-fire-the-death-toll-from-a-fire-in-a-thai-refugee-camp-for-karen-refugees-from-myanmar-rises-to-37-with-more-tha.md)
-_Context: 2013 Thailand refugee camp fire, Karen, Myanmar, Thai Society, refugee, refugee camp_
+_Context: 2013 Thailand refugee camp fire, Burmese, Karen, Thai Society, refugee, refugee camp_
 
 ### [23 people are killed and 30 injured in a road accident in Pakistan's Punjab province. ](/news/2013/03/23/23-people-are-killed-and-30-injured-in-a-road-accident-in-pakistan-s-punjab-province.md)
 _Context: Pakistan, Punjab_
@@ -39,7 +39,7 @@ _Context: Dominican Republic, drugs, military, police_
 ### [Sudanese President Omar al-Bashir announces he will step down in 2015 after nearly 25 years in power. ](/news/2013/03/23/sudanese-president-omar-al-bashir-announces-he-will-step-down-in-2015-after-nearly-25-years-in-power.md)
 Omar al-Bashir, Sudan&#039;s president and an indicted war criminal, said the people of Sudan need &#034;fresh blood and a new impetus to continue their march&#034; as he announced his intention to retire.
 
-### [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50-49.md)
+### [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.md)
 Senate Democrats neared approval of their first budget proposal in four years on Friday, calling for almost $1 trillion in tax increases over the coming decade while sheltering safety net programs targeted by House Republicans. The Democrats also would reverse automatic spending cuts that are beginn...
 
 ### [Newly elected Pope Francis meets his predecessor, Pope Emeritus Benedict XVI for lunch at the Papal Palace of Castel Gandolfo, the first time the two are meeting since the change of guard. ](/news/2013/03/23/newly-elected-pope-francis-meets-his-predecessor-pope-emeritus-benedict-xvi-for-lunch-at-the-papal-palace-of-castel-gandolfo-the-first-tim.md)

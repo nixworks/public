@@ -1,6 +1,6 @@
 ### [2016-11-18](/news/2016/11/18/index.md)
 
-#   At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. 
+#  At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. 
 
 
 

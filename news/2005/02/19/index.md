@@ -24,8 +24,8 @@ From newly charted astronomical anomalies at the far reaches of the universe to 
 ### [ The UN Secretary General, Kofi Annan, is sending a team of experts to Lebanon to investigate the killing of the former prime minister, Rafik Hariri. ](/news/2005/02/19/the-un-secretary-general-kofi-annan-is-sending-a-team-of-experts-to-lebanon-to-investigate-the-killing-of-the-former-prime-minister-rafi.md)
 _Context: Kofi Annan, Lebanon, Rafik Hariri_
 
-### [ Northern Bank robbery investigation:: Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/northern-bank-robbery-investigation-police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-a.md)
-_Context: Northern Bank, Northern Bank robbery, Police Service of Northern Ireland_
+### [ Police Service of Northern Ireland (PSNI) confirm that GBP50,000 in unused Northern Banknotes found at Newforge Country Club, a facility for off-duty and retired police officers, was part of the GBP26 million stolen in the bank robbery. Police still consider it a diversion. ](/news/2005/02/19/police-service-of-northern-ireland-psni-confirm-that-gbp50-000-in-unused-northern-banknotes-found-at-newforge-country-club-a-facility-fo.md)
+_Context: Northern Bank, Police Service of Northern Ireland_
 
 ### [ The popular Nintendo forum on Zetaboards known as The Nintendo Zone Forums was created by DSFAN121 at 11:21 AM. ](/news/2005/02/19/the-popular-nintendo-forum-on-zetaboards-known-as-the-nintendo-zone-forums-was-created-by-dsfan121-at-11-21-am.md)
 ## [Previous Day...](/news/2005/02/18/index.md)

@@ -15,7 +15,7 @@ Teen star Justin Bieber dominates the American Music Awards winning four prizes 
 ### [North Korea unveils a new uranium enrichment plant. ](/news/2010/11/21/north-korea-unveils-a-new-uranium-enrichment-plant.md)
 North Korea showed an American scientist last week a vast new facility it secretly and rapidly built to enrich uranium.
 
-### [Irish financial crisis: Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/irish-financial-crisis-minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md)
+### [Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md)
 Taoiseach Brian Cowen has confirmed that a major financial assistance plan for Ireland has been agreed with the EU.
 
 ### [A chemical factory explodes in Yushe county, North China's Shanxi province, killing at least three. ](/news/2010/11/21/a-chemical-factory-explodes-in-yushe-county-north-china-s-shanxi-province-killing-at-least-three.md)

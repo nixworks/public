@@ -31,7 +31,7 @@ _Context: Guinea, massacre of opposition protesters_
 _Context: Barack Obama, President, United States, United States military personnel, don't ask, don't tell, gay_
 
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: England, Islam, Manchester, racial bias_
+_Context: England, Manchester, Muslims, racial bias_
 
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)
 More than 200 modifications

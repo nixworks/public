@@ -1,6 +1,6 @@
 ## [2014-12-22](/news/2014/12/22/index.md)
 
-### [War in North-West Pakistan: 2014 Peshawar school attack: Following the December 17 announcement that it would lift its moratorium on terror-related death penalty cases, Pakistan announces that it will execute 500 militants in the coming weeks. ](/news/2014/12/22/war-in-north-west-pakistan-2014-peshawar-school-attack-following-the-december-17-announcement-that-it-would-lift-its-moratorium-on-terror.md)
+### [Following the December 17 announcement that it would lift its moratorium on terror-related death penalty cases, Pakistan announces that it will execute 500 militants in the coming weeks. ](/news/2014/12/22/following-the-december-17-announcement-that-it-would-lift-its-moratorium-on-terror-related-death-penalty-cases-pakistan-announces-that-it-w.md)
 Pakistan plans to execute around 500 militants in coming weeks, officials said Monday, after the government lifted a moratorium on the death penalty in terror cases following a Taliban school massacre.
 
 ### [North Korea experiences severe internet outages. ](/news/2014/12/22/north-korea-experiences-severe-internet-outages.md)
@@ -12,10 +12,10 @@ At least 26 people have been killed in bombings in two major cities in northern 
 ### [An out-of-control dustbin lorry in the Queen Street and George Square areas of Glasgow, Scotland, kills at least six people. ](/news/2014/12/22/an-out-of-control-dustbin-lorry-in-the-queen-street-and-george-square-areas-of-glasgow-scotland-kills-at-least-six-people.md)
 Six people have been killed and eight others injured after an out-of-control bin lorry crashed into pedestrians in central Glasgow.
 
-### [2014 pro-Russian unrest in Ukraine: Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/2014-pro-russian-unrest-in-ukraine-kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-fo.md)
+### [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md)
 _Context: 2014 pro-Russian unrest in Ukraine, Kazakhstan, Kiev, Nursultan Nazarbayev's, Ukraine_
 
-### [Human rights in North Korea: Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. ](/news/2014/12/22/human-rights-in-north-korea-eleven-11-of-15-united-nations-security-council-members-approve-placing-north-korea-s-human-rights-record-on.md)
+### [Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. ](/news/2014/12/22/eleven-11-of-15-united-nations-security-council-members-approve-placing-north-korea-s-human-rights-record-on-the-council-s-agenda-russia.md)
 _Context: Chad, China, Human rights, Nigeria, North Korea, Russia, United Nations Security Council, human rights, the agenda_
 
 ### [The US CFTC fines Deutsche Bank $3 million over customer fund flaws. ](/news/2014/12/22/the-us-cftc-fines-deutsche-bank-3-million-over-customer-fund-flaws.md)

@@ -18,7 +18,7 @@ _Context: Morgan Tsvangirai, Movement for Democratic Change, President, Robert M
 ### [ Fourteen Dravida Munnetra Kazhagam members of the Lok Sabha in the Indian state of Tamil Nadu, including two ministers and five ministers of state, hand in post-dated resignations to party chief M Karunanidhi. ](/news/2008/10/17/fourteen-dravida-munnetra-kazhagam-members-of-the-lok-sabha-in-the-indian-state-of-tamil-nadu-including-two-ministers-and-five-ministers-o.md)
 _Context: Dravida Munnetra Kazhagam, India, Lok Sabha, M Karunanidhi, Tamil Nadu_
 
-### [ The United States Supreme Court overturns a lower court-s order requiring state officials in Ohio to supply information that would have made it easier to challenge prospective voters. ](/news/2008/10/17/the-united-states-supreme-court-overturns-a-lower-court-s-order-requiring-state-officials-in-ohio-to-supply-information-that-would-have-m.md)
+### [ The United States Supreme Court overturns a lower court's order requiring state officials in Ohio to supply information that would have made it easier to challenge prospective voters. ](/news/2008/10/17/the-united-states-supreme-court-overturns-a-lower-courtas-order-requiring-state-officials-in-ohio-to-supply-information-that-would-have-m.md)
 The Supreme Court overturned a lower court’s order that would have made challenging prospective voters easier.
 
 ### [ The United States State Department claims that North Korea has stepped up disablement of its nuclear reactor and allowed surveillance of its nuclear facility to resume. ](/news/2008/10/17/the-united-states-state-department-claims-that-north-korea-has-stepped-up-disablement-of-its-nuclear-reactor-and-allowed-surveillance-of-it.md)
@@ -27,7 +27,7 @@ _Context: North Korea, State Department, nuclear reactor_
 ### [ The National Oceanic and Atmospheric Administration declares that the beluga whale of Alaska's Cook Inlet is an endangered species. ](/news/2008/10/17/the-national-oceanic-and-atmospheric-administration-declares-that-the-beluga-whale-of-alaska-s-cook-inlet-is-an-endangered-species.md)
 _Context: Alaska, Cook Inlet, U.S.  National Oceanic and Atmospheric Administration, beluga whale, endangered animal parts_
 
-### [ Global financial crisis of September-October 2008:: The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/global-financial-crisis-of-september-october-2008-the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md)
+### [ The Parliament of Germany passes a 500 billion euro ($673.8 billion) bank bailout. ](/news/2008/10/17/the-parliament-of-germany-passes-a-500-billion-euro-673-8-billion-bank-bailout.md)
 Measure approved under fast-track procedure as European markets rally.
 
 ### [ Sachin Tendulkar of the India cricket team becomes the highest aggregate run scorer in Test cricket at 0901 hrs(GMT) and the first to pass 12,000 in scoring 88 during the second test against Australia at the Punjab Cricket Association Stadium in Mohali. ](/news/2008/10/17/sachin-tendulkar-of-the-india-cricket-team-becomes-the-highest-aggregate-run-scorer-in-test-cricket-at-0901-hrs-gmt-and-the-first-to-pass.md)

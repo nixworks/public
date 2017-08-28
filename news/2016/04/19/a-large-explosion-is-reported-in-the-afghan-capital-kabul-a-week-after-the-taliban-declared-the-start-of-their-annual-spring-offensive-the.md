@@ -1,6 +1,6 @@
 ### [2016-04-19](/news/2016/04/19/index.md)
 
-# A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured.  
+# A large explosion is reported in the Afghan capital Kabul a week after the Taliban declared the start of their annual spring offensive. The target was an Afghan government security compound with at least 28 people reported killed and more than 200 others injured. 
 
 A loud explosion rocked central Kabul early on Tuesday during rush hour, and a thick plume of black smoke could be seen rising from the vicinity of the sprawling US embassy in the Afghan capital, witnesses told Reuters. No casualties were reported.
 
@@ -14,7 +14,7 @@ A loud explosion rocked central Kabul early on Tuesday during rush hour, and a t
 ### Related:
 
 1. [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md) _Context: April 2016 Kabul attack, Kabul, Taliban_
-2. [A  Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _Context: Kabul, Taliban, War in Afghanistan_
+2. [A Taliban suicide bomb attack on a Turkish government vehicle in Kabul kills at least one person. ](/news/2015/02/26/a-taliban-suicide-bomb-attack-on-a-turkish-government-vehicle-in-kabul-kills-at-least-one-person.md) _Context: Kabul, Taliban, War in Afghanistan_
 3. [According to the Defense Ministry, between 26 and 30 military personnel are dead and over 80 Taliban militants have been either killed or wounded amid intense fighting at a military base in Kandahar Province. ](/news/2017/07/26/according-to-the-defense-ministry-between-26-and-30-military-personnel-are-dead-and-over-80-taliban-militants-have-been-either-killed-or-wo.md) _Context: Taliban, War in Afghanistan_
 4. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _Context: Kabul, War in Afghanistan_
 5. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _Context: Kabul, War in Afghanistan_

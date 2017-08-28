@@ -1,0 +1,24 @@
+### [2006-11-26](/news/2006/11/26/index.md)
+
+#  A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. 
+
+Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes for an end to five months of bloody destruction and a new opening toward peace talks.
+
+
+### Source:
+
+1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061126/ap_on_re_mi_ea/israel_palestinians)
+2. [MSNBC](http://www.msnbc.msn.com/id/15894040/)
+
+### Related:
+
+1. [ Israeli Prime Minister Ehud Olmert declares a unilateral ceasefire beginning January 18 at 2:00 am Israel Standard Time (UTC+2) in its conflict with Hamas. However, Israeli Defense Forces will remain in the Gaza Strip until further notice. ](/news/2009/01/17/israeli-prime-minister-ehud-olmert-declares-a-unilateral-ceasefire-beginning-january-18-at-2-00-am-israel-standard-time-utc-2-in-its-conf.md) _Context: Ehud Olmert, Gaza Strip, Israel, ceasefire_
+2. [ Israeli radio reports that Prime Minister of Israel Ehud Olmert said he plans to meet Palestinian President Mahmoud Abbas in coming days. ](/news/2006/09/28/israeli-radio-reports-that-prime-minister-of-israel-ehud-olmert-said-he-plans-to-meet-palestinian-president-mahmoud-abbas-in-coming-days.md) _Context: Ehud Olmert, Israel, Mahmoud Abbas, Palestinian Authority President_
+3. [ Eight Palestinian militants, including Hamas militants, infiltrate into an army post in Israel using a tunnel. Two Israeli soldiers are killed, one kidnapped and three wounded in the attack, in which at least two Palestinian militants die. Israeli PM vows a fierce military response to the attack once the soldier, Gilad Shalit, is returned. Two infantry brigades and supporting armoured regiments are deployed along the Gaza Strip border, in preparation for a major offensive.](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.md) _Context: Ehud Olmert, Gaza Strip, Israel, Palestinian_
+4. [ Israeli Prime Minister Ehud Olmert and Palestinean President Mahmoud Abbas will attend a common meeting later this week. ](/news/2006/06/20/israeli-prime-minister-ehud-olmert-and-palestinean-president-mahmoud-abbas-will-attend-a-common-meeting-later-this-week.md) _Context: Ehud Olmert, Israel, Mahmoud Abbas, Palestinian Authority President_
+5. [ Israeli-Palestinian conflict: Palestinian leader Mahmoud Abbas travels to the Gaza Strip to persuade militant groups to join the ceasefire announced with Israel three days ago. ](/news/2005/02/11/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-travels-to-the-gaza-strip-to-persuade-militant-groups-to-join-the-ceasefire.md) _Context: Gaza Strip, Israel, Mahmoud Abbas, Palestinian_
+6. [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md) _Context: Gaza Strip, Israel, ceasefire_
+7. [Palestinian rioters set fire to the building containing Joseph's Tomb in the West Bank city of Nablus causing heavy damage to the structure before the fire is put out. Palestinian Authority President Mahmoud Abbas condemns the attack. ](/news/2015/10/16/palestinian-rioters-set-fire-to-the-building-containing-joseph-s-tomb-in-the-west-bank-city-of-nablus-causing-heavy-damage-to-the-structure.md) _Context: Mahmoud Abbas, Palestinian, Palestinian Authority President_
+8. [Israel revokes permits for 500 Palestinians from the Gaza Strip to enter Jerusalem for Friday prayers following a rocket attack on southern Israel. ](/news/2015/06/24/israel-revokes-permits-for-500-palestinians-from-the-gaza-strip-to-enter-jerusalem-for-friday-prayers-following-a-rocket-attack-on-southern.md) _Context: Gaza Strip, Israel, Palestinian_
+9. [United States Secretary of State John Kerry meets Palestinian Authority President Mahmoud Abbas in Ramallah and urges him to restart peace talks, before holding talks with the Israeli Prime Minister Benjamin Netanyahu. ](/news/2013/04/8/united-states-secretary-of-state-john-kerry-meets-palestinian-authority-president-mahmoud-abbas-in-ramallah-and-urges-him-to-restart-peace-t.md) _Context: Israel, Mahmoud Abbas, Palestinian Authority President_
+10. [Israeli air strikes kill at least 20 Palestinians in the Gaza Strip including Islamic Jihad members, while over 130 rockets are fired towards Israel injuring several, amid ceasefire talks in Egypt. ](/news/2012/11/19/israeli-air-strikes-kill-at-least-20-palestinians-in-the-gaza-strip-including-islamic-jihad-members-while-over-130-rockets-are-fired-toward.md) _Context: Gaza Strip, Israel, ceasefire_

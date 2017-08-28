@@ -1,7 +1,7 @@
 ## [2013-10-10](/news/2013/10/10/index.md)
 
-### [Post-civil war violence in Libya:: The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/post-civil-war-violence-in-libya-the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md)
-_Context: Ali Zeidan, Libyan Prime Minister, Post-civil war violence in Libya, Tripoli_
+### [The Prime Minister of Libya Ali Zeidan is kidnapped from a hotel in Tripoli but later released. ](/news/2013/10/10/the-prime-minister-of-libya-ali-zeidan-is-kidnapped-from-a-hotel-in-tripoli-but-later-released.md)
+_Context: Ali Zeidan, Libyan Prime Minister, Tripoli_
 
 ### [The Canadian writer Alice Munro is awarded the 2013 Nobel Prize in Literature. ](/news/2013/10/10/the-canadian-writer-alice-munro-is-awarded-the-2013-nobel-prize-in-literature.md)
 _Context: 2013, Alice Munro, Canadian writer, Nobel Prize in Literature_

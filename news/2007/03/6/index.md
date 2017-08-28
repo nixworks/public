@@ -27,7 +27,7 @@ _Context: India, Islamabad, Pakistan, Samjhauta Express bombings, terrorism_
 ### [ Celebrations in Ghana mark the fiftieth anniversary of its independence. ](/news/2007/03/6/celebrations-in-ghana-mark-the-fiftieth-anniversary-of-its-independence.md)
 _Context: Ghana, its independence_
 
-### [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001-present-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md)
+### [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001apresent-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md)
 _Context: Helmand Province, NATO, Operation Achilles, Taliban, War in Afghanistan (2001-present)_
 
 ## [Previous Day...](/news/2007/03/5/index.md)

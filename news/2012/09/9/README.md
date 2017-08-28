@@ -1,6 +1,6 @@
 ## [2012-09-9](/news/2012/09/9/index.md)
 
-### [Syrian civil war:: A main water supply pipe serving central Aleppo is allegedly struck by a government air strike. Hundreds of thousands of inhabitants are left without drinking water. The Aleppo governor says "sabotage" damaged "two pumps serving three districts" and repair work is ongoing. Food, cooking gas and electricity are reported to be in short supply. ](/news/2012/09/9/syrian-civil-war-a-main-water-supply-pipe-serving-central-aleppo-is-allegedly-struck-by-a-government-air-strike-hundreds-of-thousands-of.md)
+### [A main water supply pipe serving central Aleppo is allegedly struck by a government air strike. Hundreds of thousands of inhabitants are left without drinking water. The Aleppo governor says "sabotage" damaged "two pumps serving three districts" and repair work is ongoing. Food, cooking gas and electricity are reported to be in short supply. ](/news/2012/09/9/a-main-water-supply-pipe-serving-central-aleppo-is-allegedly-struck-by-a-government-air-strike-hundreds-of-thousands-of-inhabitants-are-lef.md)
 Battles between the Syrian military and rebels burst a main pipe that delivered drinking water to hundreds of thousands of residents of Aleppo, opposition groups said Saturday.
 
 ### [A wave of attacks kill more than 100 people and injure 350 others across Iraq on the day the death sentence against Tariq al-Hashimi is made public. ](/news/2012/09/9/a-wave-of-attacks-kill-more-than-100-people-and-injure-350-others-across-iraq-on-the-day-the-death-sentence-against-tariq-al-hashimi-is-made.md)

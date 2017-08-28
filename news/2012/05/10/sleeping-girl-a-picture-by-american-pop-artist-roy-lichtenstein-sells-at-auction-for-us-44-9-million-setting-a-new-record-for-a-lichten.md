@@ -11,4 +11,4 @@ A work by Pop Art icon Roy Lichtenstein sells for a record $45 million at a New 
 
 ### Related:
 
-1. [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting "Nudes in Mirror" with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at -4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-woman.md) _Context: Roy Lichtenstein_
+1. [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting "Nudes in Mirror" with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-woman.md) _Context: Roy Lichtenstein_

@@ -15,7 +15,7 @@ _Context: Gulf of Aden, International Maritime Bureau, Pirate, Somali pirates, S
 ### [ 2008 Cambodian-Thai stand-off: Cambodia claims that Thai forces are grouping near the disputed area with later reports of an exchange of gunfire resulting in the death of two Royal Cambodian Army soldiers. ](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-that-thai-forces-are-grouping-near-the-disputed-area-with-later-reports-of-an-exchange-of-gu.md)
 _Context: Army, Cambodia, Thailand, exchange gunfire_
 
-### [ The Waki Commission releases its report into the 2007-2008 Kenyan crisis which followed the disputed Kenyan presidential election, 2007. The Report found that senior politicians and businessmen-including up to six unnamed current cabinet ministers-had planned, financed and perpetrated the violence. ](/news/2008/10/15/the-waki-commission-releases-its-report-into-the-2007-2008-kenyan-crisis-which-followed-the-disputed-kenyan-presidential-election-2007.md)
+### [ The Waki Commission releases its report into the 2007-2008 Kenyan crisis which followed the disputed Kenyan presidential election, 2007. The Report found that senior politicians and businessmen--including up to six unnamed current cabinet ministers--had planned, financed and perpetrated the violence. ](/news/2008/10/15/the-waki-commission-releases-its-report-into-the-2007a2008-kenyan-crisis-which-followed-the-disputed-kenyan-presidential-election-2007.md)
 _Context: Kenyan presidential election, 2007, Waki Commission, post-election violence_
 
 ## [Previous Day...](/news/2008/10/14/index.md)

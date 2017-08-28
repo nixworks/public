@@ -1,6 +1,6 @@
 ## [2012-03-21](/news/2012/03/21/index.md)
 
-### [Syrian uprising:: Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-uprising-syrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported.md)
+### [Syrian security forces continued to bombard a neighborhood in a neighborhood of Homs and at least 79 people were reported killed across Syria, including 42 in Homs. ](/news/2012/03/21/syrian-security-forces-continued-to-bombard-a-neighborhood-in-a-neighborhood-of-homs-and-at-least-79-people-were-reported-killed-across-syri.md)
 The US warns Syria to comply with a UN-backed peace plan, as government tanks reportedly shell suburbs of Damascus
 
 ### [Rebelling government troops in Mali storm the state broadcaster in the capital Bamako. ](/news/2012/03/21/rebelling-government-troops-in-mali-storm-the-state-broadcaster-in-the-capital-bamako.md)

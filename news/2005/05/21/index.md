@@ -9,7 +9,7 @@ _Context: 50th Annual Eurovision Song Contest, Elena Paparizou, European Broadca
 ### [ "The Sun", the largest selling British tabloid newspaper, publishes more surreptitiously taken pictures of Saddam Hussein, while claiming to condemn the leaking of the first photographs. Other pictures also published show the imprisoned Ali Hassan al-Majid ("Chemical Ali") and Huda Salih Mahdi Ammash ("Mrs Anthrax"). President Bush intervenes to support an investigation into the leaking of the photos. ](/news/2005/05/21/the-sun-the-largest-selling-british-tabloid-newspaper-publishes-more-surreptitiously-taken-pictures-of-saddam-hussein-while-claiming-t.md)
 _Context: Ali Hassan al-Majid, Britain, George W. Bush, Huda Salih Mahdi Ammash, Saddam Hussein, The Sun, tabloid_
 
-### [ The 21st annual National Science Olympiad was held in University of Illinois at Urbana-Champaign.](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-held-in-university-of-illinois-at-urbana-champaign.md)
+### [ The 21st annual National Science Olympiad was held in University of Illinois at Urbana-Champaign.](/news/2005/05/21/the-21st-annual-national-science-olympiad-was-held-in-university-of-illinois-at-urbanaachampaign.md)
 _Context: Science Olympiad, University of Illinois at Urbana-Champaign_
 
 ### [ Kingda Ka the tallest and fastest roller coaster in the world opens at Six Flags Great Adventure.](/news/2005/05/21/kingda-ka-the-tallest-and-fastest-roller-coaster-in-the-world-opens-at-six-flags-great-adventure.md)

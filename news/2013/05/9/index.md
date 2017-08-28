@@ -1,7 +1,7 @@
 ## [2013-05-9](/news/2013/05/9/index.md)
 
-### [War in North-West Pakistan:: Ali Haider Gillani, the son of former Pakistani Prime Minister Yousaf Raza Gillani, is abducted by unidentified gunmen at an election rally in the city of Multan two days before the May 11 general election. ](/news/2013/05/9/war-in-north-west-pakistan-ali-haider-gillani-the-son-of-former-pakistani-prime-minister-yousaf-raza-gillani-is-abducted-by-unidentified.md)
-_Context: 2013 Pakistani general election, Multan, Prime Minister of Pakistan, War in North-West Pakistan, Yousaf Raza Gillani_
+### [Ali Haider Gillani, the son of former Pakistani Prime Minister Yousaf Raza Gillani, is abducted by unidentified gunmen at an election rally in the city of Multan two days before the May 11 general election. ](/news/2013/05/9/ali-haider-gillani-the-son-of-former-pakistani-prime-minister-yousaf-raza-gillani-is-abducted-by-unidentified-gunmen-at-an-election-rally.md)
+_Context: Multan, Prime Minister of Pakistan, Yousaf Raza Gillani, general election_
 
 ### [Indonesian police shoot dead seven terror suspects in raids on the island of Java including some allegedly planning to bomb the Sri Lankan embassy. ](/news/2013/05/9/indonesian-police-shoot-dead-seven-terror-suspects-in-raids-on-the-island-of-java-including-some-allegedly-planning-to-bomb-the-sri-lankan-e.md)
 _Context: Indonesian police, Java, Sri Lanka_
@@ -12,8 +12,8 @@ WWF says that elephants have been killed by poachers at the Dzanga-Ndoki nationa
 ### [A fuel train derails in Russia's Rostov Oblast causing a massive fire with one person missing, 27 injured and 3,000 evacuated. ](/news/2013/05/9/a-fuel-train-derails-in-russia-s-rostov-oblast-causing-a-massive-fire-with-one-person-missing-27-injured-and-3-000-evacuated.md)
 At least 44 people have been injured after a cargo train derailed in Russia’s south with over 50 fuel tanks running off the tracks. One person has been reported missing. Almost 3,000 were evacuated from the nearby area.
 
-### [2013 Savar building collapse:: The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/2013-savar-building-collapse-the-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse.md)
-_Context: 2013 Savar building collapse, Bangladesh, structural collapse_
+### [The death toll rises to 1,006 - Bangladesh's worst industrial accident and the deadliest structural collapse in modern human history. ](/news/2013/05/9/the-death-toll-rises-to-1-006-bangladesh-s-worst-industrial-accident-and-the-deadliest-structural-collapse-in-modern-human-history.md)
+_Context: Bangladesh, structural collapse_
 
 ### [Pakistani militant Sanaullah Haq dies after being assaulted in an Indian jail as a revenge attack following the death of Sarabjit Singh in Pakistan last week. ](/news/2013/05/9/pakistani-militant-sanaullah-haq-dies-after-being-assaulted-in-an-indian-jail-as-a-revenge-attack-following-the-death-of-sarabjit-singh-in-p.md)
 A convicted Pakistani militant jailed in India died on Thursday in hospital after being beaten by another inmate in an apparent revenge attack for the death of an Indian spy prisoner, threatening already fraught relations between the two nations.

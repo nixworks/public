@@ -31,7 +31,7 @@ A spill of around 150,000 litresof diesel oil from a broken pipeline in northwes
 _Context: Croatia, Government of Serbia, Holocaust, International Court of Justice, genocide_
 
 ### [52 unmarried couples in Malaysia face charges of sexual misconduct and possible imprisonment after being caught alone in hotel rooms by the country's Islamic morality police. ](/news/2010/01/4/52-unmarried-couples-in-malaysia-face-charges-of-sexual-misconduct-and-possible-imprisonment-after-being-caught-alone-in-hotel-rooms-by-the.md)
-_Context: Islam, Malaysia_
+_Context: Malaysia, Muslims_
 
 ### [Police search for a mystery man who goes missing after sparking a security alert at Newark Liberty International Airport in the United States, causing the airport to be completely locked down. ](/news/2010/01/4/police-search-for-a-mystery-man-who-goes-missing-after-sparking-a-security-alert-at-newark-liberty-international-airport-in-the-united-state.md)
 _Context: Newark Liberty International Airport, United States_

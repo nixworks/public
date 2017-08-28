@@ -3,7 +3,7 @@
 ### [The shortest living person, He Pingping, dies in Rome due to unknown complications at the age of 21. ](/news/2010/03/13/the-shortest-living-person-he-pingping-dies-in-rome-due-to-unknown-complications-at-the-age-of-21.md)
 _Context: He Pingping, Rome_
 
-### [Catholic sex abuse cases:: Archbishop of Armagh and Primacy of Ireland Cardinal Sean Brady admits for the first time that he represented the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/13/catholic-sex-abuse-cases-archbishop-of-armagh-and-primacy-of-ireland-cardinal-sea-n-brady-admits-for-the-first-time-that-he-represented-th.md)
+### [Archbishop of Armagh and Primacy of Ireland Cardinal Sean Brady admits for the first time that he represented the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/13/archbishop-of-armagh-and-primacy-of-ireland-cardinal-sea-n-brady-admits-for-the-first-time-that-he-represented-the-church-when-two-teenagers.md)
 Cardinal Sean Brady represented the Church at meetings when two victims of Fr Brendan Smyth signed an oath of silence.
 
 ### [Israeli Prime Minister Binyamin Netanyahu launches an inquiry into how plans for hundreds of new homes in East Jerusalem were announced.](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.md)
@@ -19,7 +19,7 @@ A leading member of the conservation group Sea Shepherd, who was detained aboard
 ### [Fighting in Somalia's capital Mogadishu has killed 60 people since March 10. ](/news/2010/03/13/fighting-in-somalia-s-capital-mogadishu-has-killed-60-people-since-march-10.md)
 _Context: Battle of Mogadishu (2010), Mogadishu, Somalia_
 
-### [Afghanistan:: A remotely operated bomb killed 6 people traveling in southern Afghanistan in Tirin Kot, the capital of Afghanistan's Uruzgan province. ](/news/2010/03/13/afghanistan-a-remotely-operated-bomb-killed-6-people-traveling-in-southern-afghanistan-in-tirin-kot-the-capital-of-afghanistan-s-uruzgan.md)
+### [A remotely operated bomb killed 6 people traveling in southern Afghanistan in Tirin Kot, the capital of Afghanistan's Uruzgan province. ](/news/2010/03/13/a-remotely-operated-bomb-killed-6-people-traveling-in-southern-afghanistan-in-tirin-kot-the-capital-of-afghanistan-s-uruzgan-province.md)
 Canadian Soldiers And Afghan Interpreter Die In Roadside Bombing In Kandahar
 
 ### [At least 6 people, including three security personnel, die and more than 16 others are wounded after a suicide bomber tries to enter a government building, is stopped by police and detonates himself in Swat, Pakistan. ](/news/2010/03/13/at-least-6-people-including-three-security-personnel-die-and-more-than-16-others-are-wounded-after-a-suicide-bomber-tries-to-enter-a-gover.md)
@@ -34,7 +34,7 @@ _Context: Alan Garcia, Peru, President, tsunami_
 ### [Taoiseach Brian Cowen begins his state visit to the United States in Chicago, announcing to the world his scheme that will allow senior citizen tourists aged 66 and above to travel free on Iarnrod Eireann in the Republic of Ireland. ](/news/2010/03/13/taoiseach-brian-cowen-begins-his-state-visit-to-the-united-states-in-chicago-announcing-to-the-world-his-scheme-that-will-allow-senior-citi.md)
 The Taoiseach was the guest of honour at today&#39;s St Patrick&#39;s parade in Chicago.
 
-### [Sport:: Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/sport-michael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md)
+### [Michael Schumacher makes his return to Formula One at the age of 41. ](/news/2010/03/13/michael-schumacher-makes-his-return-to-formula-one-at-the-age-of-41.md)
 On a day when the row over McLaren&#039;s new car simmered, sparked occasionally, but ultimately failed to ignite fully, it was the performance of Michael Schumacher that really set parched tongues wagging in the desert.
 
 ### [450,000 are left without power in the Northeastern United States as high winds topple power lines and trees. A crane collapses at the Revel Casino in Atlantic City, New Jersey, injuring one. ](/news/2010/03/13/450-000-are-left-without-power-in-the-northeastern-united-states-as-high-winds-topple-power-lines-and-trees-a-crane-collapses-at-the-revel.md)

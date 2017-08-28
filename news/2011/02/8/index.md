@@ -37,7 +37,7 @@ _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 _Context: China, Lo Hsieh-che, Taiwan, Taiwanese Army, major general_
 
 ### [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md)
-_Context: Andaman Islands, Bangladesh, India, Myanmar, Port Blair, Rohingya, Thai Navy, refugee, repatriation_
+_Context: Andaman Islands, Bangladesh, Burmese, India, Port Blair, Rohingya, Thai Navy, refugee, repatriation_
 
 ### [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md)
 _Context: Charles Taylor, Liberia, President of Liberia_
@@ -48,7 +48,7 @@ _Context: Guatemala, Mexican Army, Mexico, Reynosa_
 ### [The Israeli Knesset approves the "Bishara Bill", which would revoke the pension payments of Knesset members if they fail to appear at criminal proceedings held against them, or if convicted of severe felonies. ](/news/2011/02/8/the-israeli-knesset-approves-the-bishara-bill-which-would-revoke-the-pension-payments-of-knesset-members-if-they-fail-to-appear-at-crimin.md)
 Eight MKs vote in favor of law revoking wages, pension of lawmakers who have failed to report to police or trial. Balad MK calls proposal &#39;political&#39;; Shas MK: Why should we apologize for denouncing traitors? In any Arab country he would be hung the very same day 
 
-### [2011 Egyptian protests: The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/2011-egyptian-protests-the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-cro.md)
+### [The protests continue in Egypt for a fifteenth day, hours after a detained Google executive is released with the crowds the biggest yet. ](/news/2011/02/8/the-protests-continue-in-egypt-for-a-fifteenth-day-hours-after-a-detained-google-executive-is-released-with-the-crowds-the-biggest-yet.md)
 Pro-democracy supporters hold fresh rallies in Cairo, just hours after the release of a detained Google executive.
 
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)

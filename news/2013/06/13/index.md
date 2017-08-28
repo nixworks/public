@@ -1,6 +1,6 @@
 ## [2013-06-13](/news/2013/06/13/index.md)
 
-### [Syrian civil war:: The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/syrian-civil-war-the-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md)
+### [The United Nations estimates that the death toll was just under 93,000 as at the end of April. ](/news/2013/06/13/the-united-nations-estimates-that-the-death-toll-was-just-under-93-000-as-at-the-end-of-april.md)
 Navi Pillay, the United Nations human rights chief, said the figure was probably understated and called for an end to the violence.
 
 ### [Greek unions call for a general strike following the closure of public broadcaster ERT. ](/news/2013/06/13/greek-unions-call-for-a-general-strike-following-the-closure-of-public-broadcaster-ert.md)

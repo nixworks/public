@@ -18,7 +18,7 @@ _Context: Accession of Turkey to the European Union, European Commission, Europe
 ### [ Trevor Berbick's nephew Harold Berbick is charged with his uncle's murder along with another man in Jamaica. ](/news/2006/11/3/trevor-berbick-s-nephew-harold-berbick-is-charged-with-his-uncle-s-murder-along-with-another-man-in-jamaica.md)
 _Context: Jamaica, Trevor Berbick_
 
-### [ Jackson Pollock-s "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollock-s-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md)
+### [ Jackson Pollock's "No. 5, 1948" becomes the world's most expensive work of art, after entertainment mogul David Geffen sells the work for US$140 million. ](/news/2006/11/3/jackson-pollockas-no-5-1948-becomes-the-world-s-most-expensive-work-of-art-after-entertainment-mogul-david-geffen-sells-the-work-for.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Wu Shu-chen, the wife of the President of the Republic of China, is indicted on corruption charges by Taiwan prosecutors. President Chen Shui-bian is not indicted due to presidential immunity, but prosecutors say he will be charged once he is no longer president. ](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-republic-of-china-is-indicted-on-corruption-charges-by-taiwan-prosecutors-president-chen-sh.md)

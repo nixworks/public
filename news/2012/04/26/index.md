@@ -1,9 +1,9 @@
 ## [2012-04-26](/news/2012/04/26/index.md)
 
-### [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011-present-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md)
+### [Syrian uprising (2011-present): Nearly 70 people are killed in rocket attacks by the Syrian army on the city of Hama, including many children. ](/news/2012/04/26/syrian-uprising-2011apresent-nearly-70-people-are-killed-in-rocket-attacks-by-the-syrian-army-on-the-city-of-hama-including-many-child.md)
 Up to 69 people, many of them children, reported to have died in rocket attack on building in flashpoint city.
 
-### [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011-2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md)
+### [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011a2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md)
 _Context: 2011-2012 Bahraini uprising_
 
 ### [Seven people are killed in Nigeria after a suicide bomber detonates a bomb in his car. The attacks took place in Abuja, at the "This Day" newspaper offices. ](/news/2012/04/26/seven-people-are-killed-in-nigeria-after-a-suicide-bomber-detonates-a-bomb-in-his-car-the-attacks-took-place-in-abuja-at-the-this-day-ne.md)

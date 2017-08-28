@@ -1,6 +1,6 @@
 ## [2010-08-27](/news/2010/08/27/index.md)
 
-### [Battle of Mogadishu: The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/battle-of-mogadishu-the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogad.md)
+### [The al-Shabaab rebel group in Somalia says it has called 11 truckloads of reinforcements to take over the capital Mogadishu after a week-long battle. ](/news/2010/08/27/the-al-shabaab-rebel-group-in-somalia-says-it-has-called-11-truckloads-of-reinforcements-to-take-over-the-capital-mogadishu-after-a-week-lon.md)
 Al-Shabab sends 11 truckloads of armed fighters to Mogadishu after declaring final war.
 
 ### [Police in India kill Umakanta Mahato, a top Maoist guerilla wanted in connection with the Gyaneshwari Express train derailment in May. ](/news/2010/08/27/police-in-india-kill-umakanta-mahato-a-top-maoist-guerilla-wanted-in-connection-with-the-gyaneshwari-express-train-derailment-in-may.md)

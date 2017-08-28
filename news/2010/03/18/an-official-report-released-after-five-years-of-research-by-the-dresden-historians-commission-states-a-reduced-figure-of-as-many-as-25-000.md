@@ -13,7 +13,7 @@ A five-year official study of the Allied bombing of Dresden in World War II has 
 
 ### Related:
 
-1. [2016 Bilderberg Conference: The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/2016-bilderberg-conference-the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresd.md) _Context: Dresden_
+1. [The 64th annual conference of the secretive Bilderberg Group takes place at the Taschenbergpalais hotel in Dresden, Germany. ](/news/2016/06/9/the-64th-annual-conference-of-the-secretive-bilderberg-group-takes-place-at-the-taschenbergpalais-hotel-in-dresden-germany.md) _Context: Dresden_
 2. [Lutz Bachmann, the leader of the German far-right and anti-Islam Pegida movement, goes on trial in Dresden on charges of hate speech. ](/news/2016/04/19/lutz-bachmann-the-leader-of-the-german-far-right-and-anti-islam-pegida-movement-goes-on-trial-in-dresden-on-charges-of-hate-speech.md) _Context: Dresden_
 3. [Buses from Poland and Ukraine crash outside the German city of Dresden resulting in at least nine deaths and 40 people injured. ](/news/2014/07/19/buses-from-poland-and-ukraine-crash-outside-the-german-city-of-dresden-resulting-in-at-least-nine-deaths-and-40-people-injured.md) _Context: Dresden_
 4. [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md) _Context: Dresden_

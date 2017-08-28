@@ -1,10 +1,10 @@
 ## [2012-08-29](/news/2012/08/29/index.md)
 
-### [Syrian civil war:: Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/syrian-civil-war-russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
-_Context: Arab League, Russia, Syrian Civil War, United Nations, slaughters_
+### [Russia calls for a joint United Nations-Arab League inquiry on terrorist mass slaughters of civilians. ](/news/2012/08/29/russia-calls-for-a-joint-united-nations-arab-league-inquiry-on-terrorist-mass-slaughters-of-civilians.md)
+_Context: Arab League, Russia, United Nations, slaughters_
 
-### [War in Afghanistan:: Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/war-in-afghanistan-three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-unifo.md)
-_Context: Afghan Army, Oruzgan, War in Afghanistan (2001-present), soldiers_
+### [Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. ](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-another-two-injured-in-a-shooting-by-someone-wearing-an-afghan-army-uniform-in-oruzgan-provinc.md)
+_Context: Afghan Army, Oruzgan, soldiers_
 
 ### [Anonymous officials say the Taliban has attacked a Pakistan Army post in South Waziristan killing nine soldiers. Pakistani Taliban say they killed twelve. ](/news/2012/08/29/anonymous-officials-say-the-taliban-has-attacked-a-pakistan-army-post-in-south-waziristan-killing-nine-soldiers-pakistani-taliban-say-they.md)
 Taliban militants attacked an army post near the Afghan border in Pakistan&#x27;s northwest, killing nine soldiers, a military official said Wednesday.

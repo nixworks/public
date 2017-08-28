@@ -1,9 +1,9 @@
 ## [2011-05-7](/news/2011/05/7/index.md)
 
-### [2011 Syrian uprising: Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/2011-syrian-uprising-sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-preside.md)
+### [Sources claim that the Syrian Army storms into the city of Baniyas attacking Sunni districts that have opposed President Bashar al-Assad during the 2011 Syrian protests. ](/news/2011/05/7/sources-claim-that-the-syrian-army-storms-into-the-city-of-baniyas-attacking-sunni-districts-that-have-opposed-president-bashar-al-assad-dur.md)
 Residents form a human chain in a bid to halt troops from sweeping into the coastal town of Baniyas.
 
-### [2011 Libyan civil war: The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/2011-libyan-civil-war-the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-larg.md)
+### [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md)
 _Context: Libyan Civil War, Misrata, its armed forces_
 
 ### [Sectarian violence in northern Nigeria kills at least 16 people. ](/news/2011/05/7/sectarian-violence-in-northern-nigeria-kills-at-least-16-people.md)
@@ -30,7 +30,7 @@ _Context: PlayStation Network, PlayStation Network outage, Sony_
 ### [A Merpati Nusantara Airlines Xian MA60 passenger plane with 25 passengers crashes into the sea near the Indonesian province of West Papua with no survivors. ](/news/2011/05/7/a-merpati-nusantara-airlines-xian-ma60-passenger-plane-with-25-passengers-crashes-into-the-sea-near-the-indonesian-province-of-west-papua-wi.md)
 There were no survivors from the crash of an Indonesian passenger aircraft into the sea with up to 27 people on board, a navy officer says.
 
-### [Spring 2011 Mississippi River Floods: The Spring 2011 Mississippi River Floods continue, with thousands of homes now ordered evacuated. [http://www.voanews.com/english/news/Thousands-Evacuating-Mississippi-River-Flooding-in-US-121438494.html "(Voice of America)"]: The 1927 Mississippi flooding record expected to be broken. [http://slatest.slate.com/posts/2011/05/07/mississippi_river_flooding_eminent_residents_brace_for_worst.html "(Slate)"]: The floods have disrupted major food and energy distribution in affected states. [http://www.bloomberg.com/news/2011-05-07/mississippi-river-swells-close-to-record-in-tennessee-prompts-evacuations.html "(Bloomberg)"].](/news/2011/05/7/spring-2011-mississippi-river-floods-the-spring-2011-mississippi-river-floods-continue-with-thousands-of-homes-now-ordered-evacuated-htt.md)
+### [The Spring 2011 Mississippi River Floods continue, with thousands of homes now ordered evacuated. [http://www.voanews.com/english/news/Thousands-Evacuating-Mississippi-River-Flooding-in-US-121438494.html "(Voice of America)"]The 1927 Mississippi flooding record expected to be broken. [http://slatest.slate.com/posts/2011/05/07/mississippi_river_flooding_eminent_residents_brace_for_worst.html "(Slate)"]The floods have disrupted major food and energy distribution in affected states. [http://www.bloomberg.com/news/2011-05-07/mississippi-river-swells-close-to-record-in-tennessee-prompts-evacuations.html "(Bloomberg)"].](/news/2011/05/7/the-spring-2011-mississippi-river-floods-continue-with-thousands-of-homes-now-ordered-evacuated-http-www-voanews-com-english-news-thous.md)
 _Context: Spring 2011 Mississippi River Floods_
 
 ### [The wreckage of a plane that crashed in Bolivia on Thursday has been found with four United Nations staff and two pilots dead. ](/news/2011/05/7/the-wreckage-of-a-plane-that-crashed-in-bolivia-on-thursday-has-been-found-with-four-united-nations-staff-and-two-pilots-dead.md)
@@ -45,7 +45,7 @@ _Context: Belarus, Russia_
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
 _Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, Yomiuri_
 
-### [Voters in Singapore go to the polls for a general election.: The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/voters-in-singapore-go-to-the-polls-for-a-general-election-the-ruling-people-s-action-party-retains-control-of-government-winning-81-of-8.md)
+### [The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/the-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87-seats.md)
 Singapore’s long-governing People’s Action Party (PAP) won an absolute parliamentary majority in the early hours of Sunday following Saturday’s general election. Prime Minister Lee Hsien Loong and for
 
 ### [The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. ](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.md)

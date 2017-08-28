@@ -4,7 +4,7 @@
 _Context: Muslim, Sungai Kolok, Thailand, car bomb_
 
 ### [ Irish police arrest four people in Cork and three in Dublin in raids concentrating on the financing of the Provisional IRA. Over 2.3 million pounds sterling were seized in Cork, and GBP60,000 in Northern Bank notes believed to be from the GBP26.5 million robbery in Belfast just before Christmas. Reportedly, among the people arrested are former Sinn Fin councillor Tom Hanlon and someone working in the banking industry. ](/news/2005/02/17/irish-police-arrest-four-people-in-cork-and-three-in-dublin-in-raids-concentrating-on-the-financing-of-the-provisional-ira-over-2-3-millio.md)
-_Context: Belfast, Cork, Dublin, GBP, IRA, Northern Bank, Northern Bank robbery, Sinn Fin, banking, councillor, garda_
+_Context: Belfast, Cork, Dublin, GBP, GBP26.5 million robbery, IRA, Northern Bank, Sinn Fin, banking, councillor, garda_
 
 ### [ Japan's Chubu Centrair International Airport opens on Ise Bay, south of Nagoya. Built on an artificial island, the airport is Japan's third largest international passenger airport, and is intended to replace nearby Nagoya Airport. ](/news/2005/02/17/japan-s-chubu-centrair-international-airport-opens-on-ise-bay-south-of-nagoya-built-on-an-artificial-island-the-airport-is-japan-s-third.md)
 _Context: Chubu Centrair International Airport, Ise Bay, Nagoya, Nagoya Airport, man-made islands_

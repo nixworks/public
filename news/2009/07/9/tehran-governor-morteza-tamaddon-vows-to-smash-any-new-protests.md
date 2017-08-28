@@ -1,6 +1,6 @@
 ### [2009-07-9](/news/2009/07/9/index.md)
 
-#   Tehran Governor Morteza Tamaddon vows to "smash" any new protests. 
+#  Tehran Governor Morteza Tamaddon vows to "smash" any new protests. 
 
 
 
@@ -16,7 +16,7 @@
 
 1. [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md) _Context: Tehran, protests against the regime_
 2. [ Former Iranian President Akbar Hashemi Rafsanjani holds Friday prayers in Tehran and calls for the release of political prisoners from the election protests. ](/news/2009/07/17/former-iranian-president-akbar-hashemi-rafsanjani-holds-friday-prayers-in-tehran-and-calls-for-the-release-of-political-prisoners-from-the.md) _Context: Tehran, protests against the regime_
-3. [  Riot police clash with protesters in Tehran. ](/news/2009/06/20/riot-police-clash-with-protesters-in-tehran.md) _Context: Tehran, protests against the regime_
+3. [ Riot police clash with protesters in Tehran. ](/news/2009/06/20/riot-police-clash-with-protesters-in-tehran.md) _Context: Tehran, protests against the regime_
 4. [ Around 170 people are arrested in Iran in connection with the post-election protests and street riots in Tehran. ](/news/2009/06/14/around-170-people-are-arrested-in-iran-in-connection-with-the-post-election-protests-and-street-riots-in-tehran.md) _Context: Tehran, protests against the regime_
 5. [Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. ](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-and-mausoleum-of-ruhollah-khomeini-in-tehran-iran-eighteen-civilians-are-killed-in-the-att.md) _Context: Tehran_
 6. [Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. ](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first-vice-president-eshaq-jahangiri-submit-their-candidacies-as-registration-closes-the-final-li.md) _Context: Tehran_

@@ -18,7 +18,7 @@ _Context: National Unity Party, election, legislative, northern_
 ### [ The hijacker of CanJet Flight 918 surrenders and releases his six hostages. ](/news/2009/04/20/the-hijacker-of-canjet-flight-918-surrenders-and-releases-his-six-hostages.md)
 _Context: CanJet, Flight 918, aircraft piracy, hostage_
 
-### [ Durban Review Conference:: The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/durban-review-conference-the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md)
+### [ The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md)
 A UN conference on racism is due to open in Geneva today amid controversy over a walkout by Western countries and fears that Iran&#039;s president could launch another verbal onslaught on Israel.
 
 ### [ China's government discovers 3850|km|mi more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-3850-km-mi-more-of-the-great-wall-of-china.md)

@@ -18,8 +18,8 @@ _Context: Tokelau, Tokelau self-determination referendum, 2006, associated state
 ### [ In the United States, it has been revealed that the White House knew of extensive flooding of New Orleans in the hours after Hurricane Katrina struck last August. Michael Brown, the former head of the Federal Emergency Management Agency (FEMA), told a Senate Committee that he informed the White House of the seriousness of the situation at a time when even the media were not fully aware of the extent of the flooding. ](/news/2006/02/11/in-the-united-states-it-has-been-revealed-that-the-white-house-knew-of-extensive-flooding-of-new-orleans-in-the-hours-after-hurricane-katr.md)
 _Context: Federal Emergency Management Agency, Hurricane Katrina, Michael Brown, New Orleans, Senate committees, White House_
 
-### [ "Jyllands-Posten" Muhammad cartoons controversy:: The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/jyllands-posten-muhammad-cartoons-controversy-the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protests.md)
-_Context: Jyllands-Posten Muhammad cartoons controversy, Muhammad_
+### [ The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protests-has-been-placed-on-leave.md)
+_Context: Muhammad_
 
 ## [Previous Day...](/news/2006/02/10/index.md)
 

@@ -1,6 +1,6 @@
 ## [2012-10-9](/news/2012/10/9/index.md)
 
-### [Syrian civil war:: A suicide bomb attack takes place on an intelligence agency building in Damascus, reportedly killing dozens of people. The rebel al-Nusra Front claims responsibility. ](/news/2012/10/9/syrian-civil-war-a-suicide-bomb-attack-takes-place-on-an-intelligence-agency-building-in-damascus-reportedly-killing-dozens-of-people-th.md)
+### [A suicide bomb attack takes place on an intelligence agency building in Damascus, reportedly killing dozens of people. The rebel al-Nusra Front claims responsibility. ](/news/2012/10/9/a-suicide-bomb-attack-takes-place-on-an-intelligence-agency-building-in-damascus-reportedly-killing-dozens-of-people-the-rebel-al-nusra-fr.md)
 Syrian rebels carry out a bomb attack on an intelligence agency complex in Damascus, with one activist group saying dozens of people were killed.
 
 ### [Suspected Islamist insurgents kill 11 people in southern Thailand. ](/news/2012/10/9/suspected-islamist-insurgents-kill-11-people-in-southern-thailand.md)
@@ -18,7 +18,7 @@ German Chancellor Angela Merkel - on a visit to Athens - praises Greece for prog
 ### [Three North Korean soldiers have defected to South Korea through the militarised border since August. ](/news/2012/10/9/three-north-korean-soldiers-have-defected-to-south-korea-through-the-militarised-border-since-august.md)
 _Context: Korean Demilitarized Zone, North Korea, South Korea_
 
-### [Penn State child sex abuse scandal:: An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/penn-state-child-sex-abuse-scandal-an-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md)
+### [An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/an-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md)
 Jerry Sandusky released an audio statement on Penn State radio on the eve of his Tuesday sentencing hearing, reinforcing his innocence and attacking the credibility of his accusers. 
 
 ### [Serge Haroche and David Wineland win the 2012 Nobel Prize in Physics for their work on quantum optics. ](/news/2012/10/9/serge-haroche-and-david-wineland-win-the-2012-nobel-prize-in-physics-for-their-work-on-quantum-optics.md)

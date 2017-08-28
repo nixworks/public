@@ -33,7 +33,7 @@ _Context: Haiti cholera outbreak_
 ### [At least 19 people are killed in a fire at a shopping mall in northeast China's Jilin City. ](/news/2010/11/6/at-least-19-people-are-killed-in-a-fire-at-a-shopping-mall-in-northeast-china-s-jilin-city.md)
 A fire in a shopping centre in northern China kills at least 19 people and leaves 27 more injured, state media reports.
 
-### [2010 eruption of Mount Merapi: Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/2010-eruption-of-mount-merapi-lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises.md)
+### [Lava and ash spew from Mount Merapi in Central Java province in Indonesia before dawn as the death toll rises to 120. ](/news/2010/11/6/lava-and-ash-spew-from-mount-merapi-in-central-java-province-in-indonesia-before-dawn-as-the-death-toll-rises-to-120.md)
 _Context: Indonesia, Java, Mount Merapi volcanic eruption, Mounts Merapi_
 
 ### [Tropical Storm Tomas heads for the Turks and Caicos Islands after killing seven people in Haiti. ](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.md)
@@ -58,12 +58,12 @@ _Context: Petit family home invasion_
 Police say a bomb attack on officers in West Belfast could have ended in &quot;mass murder&quot;.
 
 ### [A judge in Yemen orders the capture of militant Islamic cleric Anwar al-Awlaki to face charges of "forming an armed gang". ](/news/2010/11/6/a-judge-in-yemen-orders-the-capture-of-militant-islamic-cleric-anwar-al-awlaki-to-face-charges-of-forming-an-armed-gang.md)
-_Context: Anwar al-Awlaki, Islam, Yemen_
+_Context: Anwar al-Awlaki, Muslims, Yemen_
 
 ### [Armed attackers attempt to carjack Formula One World Champion Jensen Button in SGBPo Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. ](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-world-champion-jensen-button-in-sagbpo-paulo-as-he-was-returning-from-practice-for-the-brazil.md)
 F1 champion Jenson Button praises the actions of his police driver after armed men attempt to threaten him while driving in Sao Paulo, Brazil.
 
-### [Hamas leader Mahmoud Zahar says -the Jews will soon be expelled from Palestine- in the same way that they were -kicked out- by European countries -because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-the-jews-will-soon-be-expelled-from-palestine-in-the-same-way-that-they-were-kicked-out-by-europ.md)
+### [Hamas leader Mahmoud Zahar says "the Jews will soon be expelled from Palestine" in the same way that they were "kicked out" by European countries "because they betrayed, stole and corrupted these countries." ](/news/2010/11/6/hamas-leader-mahmoud-zahar-says-athe-jews-will-soon-be-expelled-from-palestinea-in-the-same-way-that-they-were-akicked-outa-by-europ.md)
 Hamas leader says Jews were kicked out by France, Britain, Russia and Germany “because they betrayed, stole and corrupted these countries.&quot;
 
 ### [Tens of thousands of people participate in an anti-nuclear demonstration against a waste shipment on its way from France to Germany. ](/news/2010/11/6/tens-of-thousands-of-people-participate-in-an-anti-nuclear-demonstration-against-a-waste-shipment-on-its-way-from-france-to-germany.md)

@@ -1,10 +1,10 @@
 ## [2010-08-3](/news/2010/08/3/index.md)
 
-### [Adaisseh incident:: Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/adaisseh-incident-three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the.md)
+### [Three Lebanese soldiers, one Israeli soldier, and a journalist are killed, and others are wounded, in clashes along the Israel-Lebanon border. ](/news/2010/08/3/three-lebanese-soldiers-one-israeli-soldier-and-a-journalist-are-killed-and-others-are-wounded-in-clashes-along-the-israel-lebanon-borde.md)
 Three Lebanese soldiers, a senior Israeli officer and a journalist are killed in the first serious clash since the 2006 Israel-Hezbollah conflict.
 
-### [Assassination of Raza Haider:: Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/assassination-of-raza-haider-around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow.md)
-_Context: Karachi, Raza Haider_
+### [Around 46 people are killed and more than 100 others are wounded in Karachi during violent scenes that follow the assassination. ](/news/2010/08/3/around-46-people-are-killed-and-more-than-100-others-are-wounded-in-karachi-during-violent-scenes-that-follow-the-assassination.md)
+_Context: Karachi_
 
 ### [Twin explosions kill at least 3 people and injure at least 50 others in a crowded shopping area in Kut, Wasit; women and children are seen bleeding in the streets. ](/news/2010/08/3/twin-explosions-kill-at-least-3-people-and-injure-at-least-50-others-in-a-crowded-shopping-area-in-kut-wasit-women-and-children-are-seen-b.md)
 Twin car bombs kill six in southern Iraq, hours after attacks in Baghdad leave eight police officers dead, officials say.
@@ -39,7 +39,7 @@ A letter which describes how Scottish poet Robert Burns was &quot;reduced and sh
 ### [Tokyo's "oldest woman" cannot be located, casting doubts upon her claim to the title. ](/news/2010/08/3/tokyo-s-oldest-woman-cannot-be-located-casting-doubts-upon-her-claim-to-the-title.md)
 _Context: Tokyo_
 
-### [2010 Khyber Pakhtunkhwa floods:: More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/2010-khyber-pakhtunkhwa-floods-more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the.md)
+### [More than three million people are dislocated and 1,500 are now dead as Pakistan's worst floods flow to the south. ](/news/2010/08/3/more-than-three-million-people-are-dislocated-and-1-500-are-now-dead-as-pakistan-s-worst-floods-flow-to-the-south.md)
 Pakistani rescue teams try to reach tens of thousands of people cut off by devastating floods now estimated to have affected 3m people.
 
 ### [Russian wildfires worsen. ](/news/2010/08/3/russian-wildfires-worsen.md)
@@ -100,7 +100,7 @@ The authorities in Saudi Arabia tell telecoms firms to block the messenger funct
 _Context: Italian Prime Minister, Silvio Berlusconi_
 
 ### [Kenya deploys an additional 18,000 police officers as the country heads to the polls to decide the fate of a potential new constitution. ](/news/2010/08/3/kenya-deploys-an-additional-18-000-police-officers-as-the-country-heads-to-the-polls-to-decide-the-fate-of-a-potential-new-constitution.md)
-_Context: Kenya, Kenyan constitutional referendum, 2010, the new constitution_
+_Context: Kenya, head to the polls, the new constitution_
 
 ### [A top civil service union in Sri Lanka condemns the tying to a tree of an official by a government minister in Colombo, a disagreement related to dengue fever. ](/news/2010/08/3/a-top-civil-service-union-in-sri-lanka-condemns-the-tying-to-a-tree-of-an-official-by-a-government-minister-in-colombo-a-disagreement-relat.md)
 _Context: Colombo, Sri Lanka, dengue fever_

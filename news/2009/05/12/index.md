@@ -10,7 +10,7 @@ _Context: Pakistan, Pakistan army, Swat, Pakistan, Taliban, War in North-West Pa
 _Context: Germany, John Demjanjuk, Munich, Nazi, extermination camp, officer, trial_
 
 ### [ Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. ](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.md)
-_Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Government, War in Somalia (2009-)_
+_Context: Islamic Courts Union, Mogadishu, Somalia, Transitional Federal Government, declares_
 
 ### [ The United States obtains its first seat on the United Nations Human Rights Council. ](/news/2009/05/12/the-united-states-obtains-its-first-seat-on-the-united-nations-human-rights-council.md)
 _Context: Human Rights Council, United Nations, United States_

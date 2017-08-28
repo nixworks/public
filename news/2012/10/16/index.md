@@ -3,7 +3,7 @@
 ### [Senkaku Islands dispute: Seven People's Liberation Army Navy warships are spotted by Japanese helicopters outside Japanese territorial waters near Yonaguni. ](/news/2012/10/16/senkaku-islands-dispute-seven-people-s-liberation-army-navy-warships-are-spotted-by-japanese-helicopters-outside-japanese-territorial-water.md)
 The Japanese government&#8217;s Defense Ministry stated on Tuesday that as many as seven Chinese Navy warships were found just outside of territorial waters not far from Okinawa. Government officia…
 
-### [Saudi Arabia-s official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabia-s-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md)
+### [Saudi Arabia's official news agency reports that a hand grenade explosion at the King Abdulaziz military academy in Riyadh kills one cadet and injures nine. ](/news/2012/10/16/saudi-arabiaas-official-news-agency-reports-that-a-hand-grenade-explosion-at-the-king-abdulaziz-military-academy-in-riyadh-kills-one-cadet.md)
 _Context: Riyadh, Saudi Arabia_
 
 ### [Several structures were set ablaze and as many as 24 militants were killed after suspected bombing Boko Haram attacks rocked the Nigerian city of Maiduguri. ](/news/2012/10/16/several-structures-were-set-ablaze-and-as-many-as-24-militants-were-killed-after-suspected-bombing-boko-haram-attacks-rocked-the-nigerian-ci.md)

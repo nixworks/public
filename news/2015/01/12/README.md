@@ -1,9 +1,9 @@
 ## [2015-01-12](/news/2015/01/12/index.md)
 
-### [Islamic State of Iraq and the Levant: Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/islamic-state-of-iraq-and-the-levant-apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and.md)
+### [Apparent ISIL computer hackers attack the feeds for the United States Central Command for Twitter and YouTube. ](/news/2015/01/12/apparent-isil-computer-hackers-attack-the-feeds-for-the-united-states-central-command-for-twitter-and-youtube.md)
 The Twitter and YouTube accounts for the U.S. military command that oversees operations in the Middle East were hacked on Monday by people claiming to be sympathetic toward the Islamic State militant group being targeted in American bombing raids.
 
-### [Boko Haram: Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/boko-haram-cameroon-kills-143-boko-haram-fighters-in-clashes.md)
+### [Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.md)
 At least 143 Boko Haram fighters were killed in an attack on a military camp in Cameroon on Monday, a minister said, adding that it was the heaviest loss sustained by the Nigerian Islamist group in the country.
 
 ### [The eruption of the Hunga Tonga volcano disrupts flights to and from Tonga. ](/news/2015/01/12/the-eruption-of-the-hunga-tonga-volcano-disrupts-flights-to-and-from-tonga.md)
@@ -22,7 +22,7 @@ _Context: Romania, Rovinari_
 _Context: China, Xinjiang_
 
 ### [A serviceman stationed at the Russian 102nd Military Base, Valeri Permyakov, kills six members of an Armenian family, including a two-year-old child, and, in addition, wounds a six-month-old child, in Gyumri, Armenia, initiating a manhunt by the Armenian security services until his capture. ](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.md)
-_Context: Armenia, Gyumri, Gyumri massacre, Russian 102nd Military Base_
+_Context: Armenia, Gyumri, Russian 102nd Military Base, kills six members_
 
 ### [District Attorney Kari Brandenburg of New Mexico's Second Judicial Circuit federally charges two Albuquerque Police Department officers with murder in the March 16, 2014 shooting death of James Boyd in Albuquerque, New Mexico, U.S. ](/news/2015/01/12/district-attorney-kari-brandenburg-of-new-mexico-s-second-judicial-circuit-federally-charges-two-albuquerque-police-department-officers-with.md)
 _Context: Albuquerque Police Department, Albuquerque, New Mexico, James Boyd_

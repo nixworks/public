@@ -1,15 +1,15 @@
 ## [2015-03-20](/news/2015/03/20/index.md)
 
-### [Islamic State in Iraq and the Levant: Islamic State releases a video showing the execution of three Kurdish peshmerga fighters in northern Iraq with threats to execute dozens more. ](/news/2015/03/20/islamic-state-in-iraq-and-the-levant-islamic-state-releases-a-video-showing-the-execution-of-three-kurdish-peshmerga-fighters-in-northern-i.md)
+### [Islamic State releases a video showing the execution of three Kurdish peshmerga fighters in northern Iraq with threats to execute dozens more. ](/news/2015/03/20/islamic-state-releases-a-video-showing-the-execution-of-three-kurdish-peshmerga-fighters-in-northern-iraq-with-threats-to-execute-dozens-mor.md)
 Islamic State has published a video purporting to show the beheading of three Kurdish peshmerga fighters in northern Iraq by militants who threatened to kill &quot;dozens&quot; more of those being held captive.
 
-### [Yemeni crisis: Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/yemeni-crisis-islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md)
+### [Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md)
 _Context: Sanaa, Shiite, Yemeni Crisis, suicide bombing_
 
 ### [An ambush on Mexican police in Ocotlan, Jalisco state kills ten with none of the gunmen apprehended. ](/news/2015/03/20/an-ambush-on-mexican-police-in-ocotlan-jalisco-state-kills-ten-with-none-of-the-gunmen-apprehended.md)
 Ten people were killed in a gunfight in western Mexico when suspected gang members ambushed a police convoy in one of the deadliest attacks on security forces since Mexican President Enrique Pena Nieto took office in December 2012.
 
-### [2014-15 Australian region cyclone season: Severe Tropical Cyclone Nathan makes landfall on Cape York Peninsula in far North Queensland as a category 4 (Australian system). ](/news/2015/03/20/2014-15-australian-region-cyclone-season-severe-tropical-cyclone-nathan-makes-landfall-on-cape-york-peninsula-in-far-north-queensland-as.md)
+### [Severe Tropical Cyclone Nathan makes landfall on Cape York Peninsula in far North Queensland as a category 4 (Australian system). ](/news/2015/03/20/severe-tropical-cyclone-nathan-makes-landfall-on-cape-york-peninsula-in-far-north-queensland-as-a-category-4-australian-system.md)
 Tropical Cyclone Nathan is downgraded to a category three system after making landfall in far north Queensland earlier today.
 
 ### [The Dehradun-Varanasi Janta Express derails near Bachhrawan Railway Station in Uttar Pradesh northern India resulting in at least 30 deaths and 150 people being injured. ](/news/2015/03/20/the-dehradun-varanasi-janta-express-derails-near-bachhrawan-railway-station-in-uttar-pradesh-northern-india-resulting-in-at-least-30-deaths.md)

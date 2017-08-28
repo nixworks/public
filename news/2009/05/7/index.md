@@ -27,7 +27,7 @@ _Context: China, Sichuan, deadly earthquake_
 ### [ An American man is arrested in Burma for trespassing on National League for Democracy General Secretary Aung San Suu Kyi's property. ](/news/2009/05/7/an-american-man-is-arrested-in-burma-for-trespassing-on-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-property.md)
 _Context: Aung San Suu Kyi, Burma, General Secretary, National League for Democracy, United States, property, trespass_
 
-### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements -60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-60-billion-of-quantitative-easing.md)
+### [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md)
 _Context: EUR, European Central Bank, Eurozone, interest rate, quantitative easing_
 
 ### [ A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. ](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-ten-others-in-dnipropetrovsk-ukraine.md)

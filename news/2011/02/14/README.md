@@ -9,13 +9,13 @@ _Context: ''The Satanic Verses'' controversy, Julian Assange, Salman Rushdie, fa
 ### [The FARC organisation in Colombia releases a fourth hostage in the past week. ](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.md)
 _Context: Colombia, Revolutionary Armed Forces of Colombia_
 
-### [2011 Iranian protests:: Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/2011-iranian-protests-anti-regime-protests-are-due-to-occur-in-iran.md)
+### [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md)
 Calls said to be made for anti-government rallies apparently inspired by events in Tunisia and Egypt.
 
-### [2011 Bahraini protests:: Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-anti-regime-protests-occur-in-bahrain.md)
+### [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md)
 Opposition groups call for protests on Monday as riot police clash with youths in Shia village in the west.
 
-### [Other Arab Spring events:: New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md)
+### [New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md)
 Unrest in Yemen turns ugly as protesters clash with police and government loyalists in Sanaa on a fourth day of rallies.
 
 ### [A British Army soldier from 2nd Battalion, The Parachute Regiment is killed in an explosion in Afghanistan. ](/news/2011/02/14/a-british-army-soldier-from-2nd-battalion-the-parachute-regiment-is-killed-in-an-explosion-in-afghanistan.md)
@@ -36,7 +36,7 @@ An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
 _Context: General Motors, United States, hourly worker, profit_
 
-### [Eurozone finance ministers agree to set up a permanent bail-out fund of -500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-500-billion-the-european-stability-mechanism-esm-this-replac.md)
+### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.
 
 ### [Fourteen people die in a plane crash in Honduras including a deputy minister in the Government of Honduras Rodolfo Robelo and former finance minister Carlos Chahin. ](/news/2011/02/14/fourteen-people-die-in-a-plane-crash-in-honduras-including-a-deputy-minister-in-the-government-of-honduras-rodolfo-robelo-and-former-finance.md)

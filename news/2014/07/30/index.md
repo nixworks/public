@@ -1,12 +1,12 @@
 ## [2014-07-30](/news/2014/07/30/index.md)
 
-### [2014 pro-Russian unrest in Ukraine: War in Donbass:: Fighting intensifies in the east as Ukraine forces recapture control of the strategic town of Avdiivka from pro-Russian insurgents. ](/news/2014/07/30/2014-pro-russian-unrest-in-ukraine-war-in-donbass-fighting-intensifies-in-the-east-as-ukraine-forces-recapture-control-of-the-strategic-t.md)
+### [Fighting intensifies in the east as Ukraine forces recapture control of the strategic town of Avdiivka from pro-Russian insurgents. ](/news/2014/07/30/fighting-intensifies-in-the-east-as-ukraine-forces-recapture-control-of-the-strategic-town-of-avdiivka-from-pro-russian-insurgents.md)
 The Ukrainian army says it has seized the town of Avdiivka, near the rebel stronghold of Donetsk, amid intense fighting in the area around the downed MH17 flight.
 
-### [Post-civil war violence in Libya: Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/post-civil-war-violence-in-libya-islamist-militias-capture-a-special-forces-base-in-benghazi.md)
+### [Islamist militias capture a special forces base in Benghazi. ](/news/2014/07/30/islamist-militias-capture-a-special-forces-base-in-benghazi.md)
 A special forces base in Libya has been seized by militias, the fighters and officials say, as a blaze continues at a fuel depot in the capital Tripoli.
 
-### [2014 Israel-Gaza conflict:: Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/2014-israel-gaza-conflict-israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds.md)
+### [Israeli shelling of a UNRWA school in Jabaliya refugee camp kills at least 19 Palestinian civilians and wounds scores more. ](/news/2014/07/30/israeli-shelling-of-a-unrwa-school-in-jabaliya-refugee-camp-kills-at-least-19-palestinian-civilians-and-wounds-scores-more.md)
 Army death toll rises to 56; 17 Palestinians die in market attack; British PM says war making 2-state solution &#8216;impossible&#8217;; UN, Washington condemn attack on school that kills at least 15
 
 ### [Analysts of Morgan Stanley predict that Russian President Vladimir Putin would soon block the transit of gas through Ukraine to Europe to retaliate against the world for imposing economic sanctions on Russia. ](/news/2014/07/30/analysts-of-morgan-stanley-predict-that-russian-president-vladimir-putin-would-soon-block-the-transit-of-gas-through-ukraine-to-europe-to-re.md)
@@ -24,7 +24,7 @@ A federal judge on Wednesday ordered Bank of America Corp (BAC.N) to pay a $1.27
 ### [A fire broke out on Eastbourne Pier in East Sussex, destroying the arcade. ](/news/2014/07/30/a-fire-broke-out-on-eastbourne-pier-in-east-sussex-destroying-the-arcade.md)
 A devastating fire tears through Eastbourne Pier, leaving the structure an &quot;absolute red, molten, mess of flame and smoke&quot;.
 
-### [2014 West Africa Ebola outbreak: Liberia closes schools and quarantines communities in order to stop the spread of the Ebola virus that has claimed 672 lives in West Africa. ](/news/2014/07/30/2014-west-africa-ebola-outbreak-liberia-closes-schools-and-quarantines-communities-in-order-to-stop-the-spread-of-the-ebola-virus-that-has.md)
+### [Liberia closes schools and quarantines communities in order to stop the spread of the Ebola virus that has claimed 672 lives in West Africa. ](/news/2014/07/30/liberia-closes-schools-and-quarantines-communities-in-order-to-stop-the-spread-of-the-ebola-virus-that-has-claimed-672-lives-in-west-africa.md)
 Liberia quarantines communities and closes schools across the country in a bid to halt the worst outbreak on record.
 
 ## [Previous Day...](/news/2014/07/29/index.md)

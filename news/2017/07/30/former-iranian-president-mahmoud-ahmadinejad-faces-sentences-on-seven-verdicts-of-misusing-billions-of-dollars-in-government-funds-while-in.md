@@ -1,6 +1,6 @@
 ### [2017-07-30](/news/2017/07/30/index.md)
 
-# Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the  Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. 
+# Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. 
 
 
 

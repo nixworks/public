@@ -1,6 +1,6 @@
 ## [2012-04-21](/news/2012/04/21/index.md)
 
-### [Arab Spring:: Bahraini uprising:: Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers.md)
+### [Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.md)
 Anti-government protesters in Bahrain flooded a main highway in a march stretching for miles and security forces fired tear gas in breakaway clashes as the country&#039;s leaders struggle to contain opposition anger ahead of the Grand Prix.
 
 ### [Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. ](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.md)

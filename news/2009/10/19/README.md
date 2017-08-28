@@ -3,7 +3,7 @@
 ### [ Charles Wesley Mumbere is crowned king of the Bakonjo people in the Rwenzururu district of Uganda. ](/news/2009/10/19/charles-wesley-mumbere-is-crowned-king-of-the-bakonjo-people-in-the-rwenzururu-district-of-uganda.md)
 _Context: Bakonjo, Charles Wesley Mumbere, Rwenzururu, Uganda_
 
-### [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nations-backed-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md)
+### [ United Nations-backed electoral fraud investigators throw out a third of President Hamid Karzai's votes leading to a runoff in the presidential election. ](/news/2009/10/19/united-nationsabacked-electoral-fraud-investigators-throw-out-a-third-of-president-hamid-karzai-s-votes-leading-to-a-runoff-in-the-presid.md)
 _Context: Afghanistan President, Hamid Karzai, United Nations, electoral fraud, presidential election_
 
 ### [ Slovak Prime Minister Robert Fico says that he will also demand an opt-out in the Treaty of Lisbon if the Czech Republic is granted one. ](/news/2009/10/19/slovak-prime-minister-robert-fico-says-that-he-will-also-demand-an-opt-out-in-the-treaty-of-lisbon-if-the-czech-republic-is-granted-one.md)

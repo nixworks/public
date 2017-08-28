@@ -1,6 +1,6 @@
 ## [2012-06-25](/news/2012/06/25/index.md)
 
-### [Syrian uprising (2011-present):: At least 33 army officers, including a general, defect to Turkey. ](/news/2012/06/25/syrian-uprising-2011-present-at-least-33-army-officers-including-a-general-defect-to-turkey.md)
+### [At least 33 army officers, including a general, defect to Turkey. ](/news/2012/06/25/at-least-33-army-officers-including-a-general-defect-to-turkey.md)
 Several high-ranking Syrian military figures reportedly defect to Turkey, amid heightened tensions over the downing of a Turkish warplane.
 
 ### [At least 40 people are injured due to a fire attack by protesters on a religious shrine in India. ](/news/2012/06/25/at-least-40-people-are-injured-due-to-a-fire-attack-by-protesters-on-a-religious-shrine-in-india.md)

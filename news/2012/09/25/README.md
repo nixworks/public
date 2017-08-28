@@ -1,6 +1,6 @@
 ## [2012-09-25](/news/2012/09/25/index.md)
 
-### [Syrian civil war:: A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/syrian-civil-war-a-save-the-children-report-details-the-plight-of-children-in-syria.md)
+### [A Save the Children report details the plight of children in Syria. ](/news/2012/09/25/a-save-the-children-report-details-the-plight-of-children-in-syria.md)
 British charity talks to refugees to document alleged atrocities suffered by Syrian children, mostly at hands of Assad regime
 
 ### [An academic report from the United States finds that American drone attacks "terrorize" the civilian population of northern Pakistan, further stating that the benefits of drone attacks for the U.S. are "ambiguous at best". ](/news/2012/09/25/an-academic-report-from-the-united-states-finds-that-american-drone-attacks-terrorize-the-civilian-population-of-northern-pakistan-furthe.md)
@@ -21,8 +21,8 @@ _Context: Baja California Peninsula, magnitude_
 ### [The World Health Organisation announces a global alert and is investigating the case of a novel coronavirus found in a Qatari man returning from Saudi Arabia. ](/news/2012/09/25/the-world-health-organisation-announces-a-global-alert-and-is-investigating-the-case-of-a-novel-coronavirus-found-in-a-qatari-man-returning.md)
 * U.N. health agency gives global guidance on reporting newvirus* Two cases so far, Saudi and Qatari who went to Saudi* WHO working with Sau
 
-### [Senkaku Islands dispute:: Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/senkaku-islands-dispute-over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md)
-_Context: Japan Coast Guard, Senkaku Islands, Senkaku Islands dispute, Taiwan_
+### [Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md)
+_Context: Japan Coast Guard, Senkaku Islands, Taiwan_
 
 ### [South Korea expresses concern over China's plan to monitor the disputed Socotra Rock area with unmanned drones. ](/news/2012/09/25/south-korea-expresses-concern-over-china-s-plan-to-monitor-the-disputed-socotra-rock-area-with-unmanned-drones.md)
 SEOUL, Sept. 25 (Yonhap) -- South Korea is seeking to verify media reports that China plans to use unmanned drones to conduct marine surveillance of a submerged South Korean rocky outcropping in waters south of Jeju Island, officials said Tuesday.

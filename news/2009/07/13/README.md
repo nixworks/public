@@ -1,6 +1,6 @@
 ## [2009-07-13](/news/2009/07/13/index.md)
 
-### [ Twelve European companies launch the -400&nbsp;billion Desertec project to build solar thermal power stations in North Africa. ](/news/2009/07/13/twelve-european-companies-launch-the-400-nbsp-billion-desertec-project-to-build-solar-thermal-power-stations-in-north-africa.md)
+### [ Twelve European companies launch the EUR400&nbsp;billion Desertec project to build solar thermal power stations in North Africa. ](/news/2009/07/13/twelve-european-companies-launch-the-a-400-nbsp-billion-desertec-project-to-build-solar-thermal-power-stations-in-north-africa.md)
 _Context: Desertec project, solar thermal power stations_
 
 ### [ Burma announces it will release an unspecified number of political prisoners to allow them to take part in the 2010 general election. ](/news/2009/07/13/burma-announces-it-will-release-an-unspecified-number-of-political-prisoners-to-allow-them-to-take-part-in-the-2010-general-election.md)

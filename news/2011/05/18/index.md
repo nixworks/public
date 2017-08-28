@@ -3,7 +3,7 @@
 ### [Three Tunisian security officers are killed in a clash with gunmen in the north of the country. ](/news/2011/05/18/three-tunisian-security-officers-are-killed-in-a-clash-with-gunmen-in-the-north-of-the-country.md)
 _Context: Tunisia_
 
-### [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-gr.md)
+### [Forces loyal to Muammar Gaddafi shell towns and villages in the western mountains in an attempt to capture higher ground. ](/news/2011/05/18/forces-loyal-to-muammar-gaddafi-shell-towns-and-villages-in-the-western-mountains-in-an-attempt-to-capture-higher-ground.md)
 Government forces seek to capture high ground as UN official calls for pause in fighting to facilitate humanitarian aid.
 
 ### [Militants attack a checkpoint near the city of Peshawar in northwest Pakistan, resulting in the deaths of two police officers and 15 insurgents. ](/news/2011/05/18/militants-attack-a-checkpoint-near-the-city-of-peshawar-in-northwest-pakistan-resulting-in-the-deaths-of-two-police-officers-and-15-insurge.md)
@@ -58,7 +58,7 @@ _Context: Andrew Fastow, CFO, Enron Corp., Federal Bureau of Prisons, Houston, T
 _Context: 2008 Mumbai attacks, Chicago, Tahawwur Hussain Rana_
 
 ### [The President of Guatemala, Alvaro Colom, claims that Hugo Alvaro Gomez Vasquez, who has been arrested in relation to the killing of 27 cattle ranch workers, is a leader of the Los Zetas drug cartel in the country. ](/news/2011/05/18/the-president-of-guatemala-alvaro-colom-claims-that-hugo-alvaro-gomez-vasquez-who-has-been-arrested-in-relation-to-the-killing-of-27-catt.md)
-_Context: Alvaro Colom, Guatemalan President, Hugo Alvaro Gomez Vasquez, Los Zetas Cartel, cattle ranch_
+_Context: Alvaro Colom, Hugo Alvaro Gomez Vasquez, Los Zetas Cartel, President of Guatemala, cattle ranch_
 
 ### [An Afghan detainee commits suicide at the US run Guantanamo Bay detention camp. ](/news/2011/05/18/an-afghan-detainee-commits-suicide-at-the-us-run-guantanamo-bay-detention-camp.md)
 An Afghan prisoner has died at the Guantanamo detention center in an apparent suicide, the U.S. military says.

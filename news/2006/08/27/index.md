@@ -1,6 +1,6 @@
 ## [2006-08-27](/news/2006/08/27/index.md)
 
-### [ 2006 Israel-Lebanon conflict:: Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/2006-israel-lebanon-conflict-israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-w.md)
+### [ Israel denies that a German-mediated prisoner exchange with Hezbollah is to take place within two or three weeks, as reported earlier in Egyptian state-run daily Al-Ahram. ](/news/2006/08/27/israel-denies-that-a-german-mediated-prisoner-exchange-with-hezbollah-is-to-take-place-within-two-or-three-weeks-as-reported-earlier-in-eg.md)
 DURING THE RECENT month-long war between Hezbollah and Israel, U.N. peacekeeping forces made a startling contribution: They openly published daily real-time intelligence, of obvious usefulness to Hezbollah, on the location, equipment, and force structure of Israeli troops in Lebanon. UNIFIL--the Uni...
 
 ### [ The Games Convention, the largest video game expo on both sides of the Atlantic closes with a record attendance of 183,000 visitors in 4 days of exhibiting. The projected attendance was set at 150,000. There are expansion plans of the expo for 2007 and beyond. ](/news/2006/08/27/the-games-convention-the-largest-video-game-expo-on-both-sides-of-the-atlantic-closes-with-a-record-attendance-of-183-000-visitors-in-4-da.md)
@@ -22,7 +22,7 @@ _Context: Baghdad, Iraq_
 _Context: Balochistan, Nawab Akbar Bugti, Pakistan_
 
 ### [ Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. ](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.md)
-_Context: Fox News, Gaza Strip, Islam, Olaf Wiig, Steve Centanni_
+_Context: Fox News, Gaza Strip, Muslims, Olaf Wiig, Steve Centanni_
 
 ## [Previous Day...](/news/2006/08/26/index.md)
 

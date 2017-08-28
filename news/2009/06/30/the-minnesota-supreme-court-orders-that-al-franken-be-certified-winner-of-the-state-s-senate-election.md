@@ -1,6 +1,6 @@
 ### [2009-06-30](/news/2009/06/30/index.md)
 
-#   The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. 
+#  The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. 
 
 The Minnesota SupremeCourt on Tuesday declared Democrat Al Franken the winner of atight U.S. Senate race over Republican Norm Coleman, whichshould give Democrats the 60-seat majority they need toovercome procedural obstacles and push through their agenda.
 

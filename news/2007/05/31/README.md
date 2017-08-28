@@ -28,7 +28,7 @@ _Context: Nepal, coalition, constitution_
 _Context: Pakistan, Taliban_
 
 ### [ The Malaysian Federal Court rejects the appeal of Christian convert Lina Joy to have the word "Islam" removed from her identity card. ](/news/2007/05/31/the-malaysian-federal-court-rejects-the-appeal-of-christian-convert-lina-joy-to-have-the-word-islam-removed-from-her-identity-card.md)
-_Context: Christian, Islam, Lina Joy, Malaysian Federal Court, convert, identity card_
+_Context: Christian, Lina Joy, Malaysian Federal Court, Muslims, convert, identity card_
 
 ### [ In an unannounced vote, the Philadelphia City Council voted to evict the Cradle of Liberty Council Boy Scouts from the building they have occupied since 1928. ](/news/2007/05/31/in-an-unannounced-vote-the-philadelphia-city-council-voted-to-evict-the-cradle-of-liberty-council-boy-scouts-from-the-building-they-have-o.md)
 _Context: City Council, Cradle of Liberty Council_

@@ -25,7 +25,7 @@ _Context: Russia, Strategic Arms Reduction Treaty, United States, negotiation_
 _Context: ASEAN, Aung San Suu Kyi, General Secretary, National League for Democracy, trial_
 
 ### [ Ethiopia's National Defense Force reenters Somalia. ](/news/2009/05/19/ethiopia-s-national-defense-force-reenters-somalia.md)
-_Context: Ethiopia, Ethiopian Army, Somalia, War in Somalia (2009-)_
+_Context: Ethiopia, Ethiopian Army, Somalia, declares_
 
 ### [ Former Canadian Prime Minister Brian Mulroney testifies about his relationship with arms dealer Karlheinz Schreiber. ](/news/2009/05/19/former-canadian-prime-minister-brian-mulroney-testifies-about-his-relationship-with-arms-dealer-karlheinz-schreiber.md)
 _Context: Brian Mulroney, Canada, Canadian Prime Minister, Karlheinz Schreiber, defense contractor, relationship_

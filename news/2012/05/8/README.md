@@ -1,7 +1,7 @@
 ## [2012-05-8](/news/2012/05/8/index.md)
 
-### [Arab Spring:: Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/arab-spring-syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md)
-_Context: Arab Spring, Syrian uprising (2011-present)_
+### [Syrian uprising: Opposition fighters say they are amassing weapons amid a lull in fighting. ](/news/2012/05/8/syrian-uprising-opposition-fighters-say-they-are-amassing-weapons-amid-a-lull-in-fighting.md)
+_Context: Syrian uprising (2011-present)_
 
 ### [Former Libyan rebels who fought to topple Muammar Gaddafi in 2011 launch an attack on the interim Prime Minister Abdurrahim El-Keib's office in Tripoli, Libya. ](/news/2012/05/8/former-libyan-rebels-who-fought-to-topple-muammar-gaddafi-in-2011-launch-an-attack-on-the-interim-prime-minister-abdurrahim-el-keib-s-office.md)
 The office of Libyan PM Abdurrahim al-Keib is attacked by ex-rebels demanding compensation promised by the government, leaving at least one guard dead.
@@ -42,7 +42,7 @@ Late-night political drama: Early elections averted as Likud, Kadima agree on un
 ### [Burmese opposition leader Aung San Suu Kyi is given a passport for the first time in 24 years. ](/news/2012/05/8/burmese-opposition-leader-aung-san-suu-kyi-is-given-a-passport-for-the-first-time-in-24-years.md)
 _Context: Aung San Suu Kyi, Burma, passport_
 
-### [United States elections: The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/united-states-elections-the-u-s-state-of-north-carolina-bans-same-sex-marriage.md)
+### [The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/the-u-s-state-of-north-carolina-bans-same-sex-marriage.md)
 Residents of North Carolina approve a constitutional ban on gay unions, initial results suggest, making the state the 29th to limit gay marriage rights.
 
 ## [Previous Day...](/news/2012/05/7/index.md)

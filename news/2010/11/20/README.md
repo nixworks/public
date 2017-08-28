@@ -22,7 +22,7 @@ The response to the cholera outbreak in Haiti which has killed nearly 1,200 peop
 Twelve military personnel, including three officers, were killed when their Mi-17 helicopter crashed near Tawang in Arunachal Pradesh on Friday just after noon.
 
 ### [Pope Benedict XVI urges Pakistani authorities to release Aasia Bibi, a Christian woman facing a death sentence on a charge of blasphemy against Islam. ](/news/2010/11/20/pope-benedict-xvi-urges-pakistani-authorities-to-release-aasia-bibi-a-christian-woman-facing-a-death-sentence-on-a-charge-of-blasphemy-agai.md)
-_Context: Aasia Bibi, Christian, Islam, Pakistan, Pope Benedict XVI, blasphemy_
+_Context: Aasia Bibi, Christian, Muslims, Pakistan, Pope Benedict XVI, blasphemy_
 
 ### [China's state-backed church appoints a bishop without the approval of Pope Benedict XVI. ](/news/2010/11/20/china-s-state-backed-church-appoints-a-bishop-without-the-approval-of-pope-benedict-xvi.md)
 _Context: China, Pope Benedict XVI, state-backed church_
@@ -30,7 +30,7 @@ _Context: China, Pope Benedict XVI, state-backed church_
 ### [United Nations Secretary-General Ban Ki-moon is welcoming Iran's invitation for a visit next year by the United Nations' human rights chief, Navi Pillay ](/news/2010/11/20/united-nations-secretary-general-ban-ki-moon-is-welcoming-iran-s-invitation-for-a-visit-next-year-by-the-united-nations-human-rights-chief.md)
 _Context: Ban Ki-moon, Iran, Navi Pillay, OCHR, Secretary General_
 
-### [NATO summit: NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-summit-nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control.md)
+### [NATO nations agree to start handing over Afghanistan's security to the Afghanistan military and give local forces total control by 2014. ](/news/2010/11/20/nato-nations-agree-to-start-handing-over-afghanistan-s-security-to-the-afghanistan-military-and-give-local-forces-total-control-by-2014.md)
 _Context: Afghan military, Afghanistan's, NATO_
 
 ### [The United States Senate settles with a payment of $4.6 billion to black farmers and at least 300,000 Native Americans who objected to government discrimination and cheating in "Cobell v. Salazar". ](/news/2010/11/20/the-united-states-senate-settles-with-a-payment-of-4-6-billion-to-black-farmers-and-at-least-300-000-native-americans-who-objected-to-gover.md)

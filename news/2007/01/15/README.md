@@ -18,7 +18,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ Iran's nuclear program: An Iranian official says that Iran is continuing its nuclear program despite being sanctioned by the United Nations. ](/news/2007/01/15/iran-s-nuclear-program-an-iranian-official-says-that-iran-is-continuing-its-nuclear-program-despite-being-sanctioned-by-the-united-nations.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-### [ Global spread of bird flu:: A new cluster of bird flu infections involving at least two members of a family in Indonesia may indicate a change in the virus's ability to sicken people, researchers studying the disease said. ](/news/2007/01/15/global-spread-of-bird-flu-a-new-cluster-of-bird-flu-infections-involving-at-least-two-members-of-a-family-in-indonesia-may-indicate-a-cha.md)
+### [ A new cluster of bird flu infections involving at least two members of a family in Indonesia may indicate a change in the virus's ability to sicken people, researchers studying the disease said. ](/news/2007/01/15/a-new-cluster-of-bird-flu-infections-involving-at-least-two-members-of-a-family-in-indonesia-may-indicate-a-change-in-the-virus-s-ability-t.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ The trial of six men accused of the 21 July 2005 London bombings begins. ](/news/2007/01/15/the-trial-of-six-men-accused-of-the-21-july-2005-london-bombings-begins.md)

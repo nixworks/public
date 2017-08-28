@@ -42,8 +42,8 @@ _Context:  October 2013 federal government shutdown, China, Federal Election Com
 ### [U.S. Secretary of State John Kerry intends to give the Philippines $40 million in order to boost its maritime security regarding territorial disputes with China. ](/news/2013/12/17/u-s-secretary-of-state-john-kerry-intends-to-give-the-philippines-40-million-in-order-to-boost-its-maritime-security-regarding-territorial.md)
 Americans officials want to rotate more military forces through the country, concerned about mounting pressure from China on its neighbors.
 
-### [Euromaidan:: President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/euromaidan-president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relation.md)
-_Context: Euromaidan, Moscow, Russian President Vladimir Putin, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
+### [President of Ukraine Viktor Yanukovych meets Russian President Vladimir Putin in Moscow amid mass protests against the relationship between the two. ](/news/2013/12/17/president-of-ukraine-viktor-yanukovych-meets-russian-president-vladimir-putin-in-moscow-amid-mass-protests-against-the-relationship-between.md)
+_Context: Moscow, Russian President Vladimir Putin, Ukrainian President, Viktor Yanukovych, Vladimir Putin_
 
 ### [Angela Merkel is elected for a third term as Chancellor of Germany. ](/news/2013/12/17/angela-merkel-is-elected-for-a-third-term-as-chancellor-of-germany.md)
 _Context: Angela Merkel, German Chancellor_

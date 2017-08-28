@@ -1,0 +1,39 @@
+### [2008-08-8](/news/2008/08/8/index.md)
+
+#  Around 0:30 AM (local time), Georgia begins a full-scale attack on the breakaway republic of South Ossetia, using tanks, military aircraft, artillery, and infantry. Major-General Marat Kulakhmetov, the commander of a small force of Russian peacekeepers under CIS mandate in Tskhinvali makes a statement that Georgian 'heavy artillery shelling conducted for several hours' and 'has practically demolished the town' 
+
+Russian forces battled pro-Western Georgian troops in South Ossetia on Friday in an escalating conflict that threatens to engulf a key energy transit route to Western Europe.
+
+
+### Source:
+
+1. [AFP via Google News](http://afp.google.com/article/ALeqM5jp1eLDmQa0nToFoI-0v31t659PkA)
+2. [AGI](http://www.agi.it/world/news/200808081050-pol-ren0015-art.html)
+3. [AP via YouTube](http://www.youtube.com/watch?v=dU5uidyv5OU)
+4. [Alfa](http://www.alfa.lt/straipsnis/193390)
+5. [BBC News via YouTube](http://www.youtube.com/watch?v=fgN6Y8Z3cnU)
+6. [BBC News](http://news.bbc.co.uk/2/hi/europe/7548715.stm)
+7. [CNN via YouTube](http://www.youtube.com/watch?v=oE2cH3uWKjM)
+8. [CNN](http://www.cnn.com/2008/WORLD/europe/08/08/georgia.ossetia/index.html)
+9. [Delfi](http://www.delfi.lt/news/daily/world/article.php?id=17978446)
+10. [Ministry of Foreign Affairs of Georgia](http://www.mfa.gov.ge/index.php?lang_id=ENG&sec_id=459&info_id=7170)
+11. [RIAN](http://en.rian.ru/russia/20080808/115890817.html)
+12. [RIAN](http://rian.ru/defense_safety/20080808/150187374.html)
+13. [Reuters](http://www.reuters.com/article/GCA-Russia/idUSL859348920080808)
+14. [Reuters](http://www.reuters.com/article/topNews/idUSL768040420080808)
+15. [RussiaToday via YouTube](http://www.youtube.com/watch?v=Tg5RYFbKVYc)
+16. [The New York Times](http://www.nytimes.com/2008/08/09/world/europe/09georgia.html)
+17. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article4488803.ece)
+
+### Related:
+
+1. [ Ukrainian President, Viktor Yushchenko may face impeachment on charges of undermining national security, and illegal arms trade with Georgia months before the attack on Tskhinvali, South Ossetia, says Ukrainian Prime Minister Yulia Tymoshenko. Yushchenko earlier said the arms trade charges are "unsubstantiated". ](/news/2008/10/2/ukrainian-president-viktor-yushchenko-may-face-impeachment-on-charges-of-undermining-national-security-and-illegal-arms-trade-with-georgi.md) _Context: Georgian, South Ossetia, Tskhinvali_
+2. [ Russia and Georgia continue to fight in South Ossetia and Georgia. The search for the dead and injured continues after at least 2,000 civilians were killed after two days Georgian offensive. Russia reported 12 peacekeepers killed and 30 wounded in the previous day during the Georgian tank and missile bombardment of Tskhinvali. ](/news/2008/08/9/russia-and-georgia-continue-to-fight-in-south-ossetia-and-georgia-the-search-for-the-dead-and-injured-continues-after-at-least-2-000-civil.md) _Context: Georgian, South Ossetia, Tskhinvali_
+3. [ Human Rights Watch claims both Georgia and Russia violated rights of the civilian population during the conflict. Georgian ground offensive in South Ossetia included shelling of Tskhinvali, capital of South Ossetia, with Grad rocket systems and 'indiscriminate' use of tanks in the city, which caused 'numerous' civilian casualties and 'extensive' destruction. HRW says 'a hospital, apartment buildings, houses, schools, kindergartens, shops, administrative buildings, and the university' in Tskhinvali were 'severely damaged' during Georgian night-long 'uninterrupted' shelling of South Ossetian capital on August 7-8. Russian airforce, HRW reports, carried out bombardments of the two buildings in Georgian village in South Ossetia, 'that could be housing the Georgian military', and attacked presumably civilian convoy of several dozen cars. HRW also confirmed the Russian military's use of cluster bombs in two towns in Georgia, killing at least 11 civilians. ](/news/2008/08/20/human-rights-watch-claims-both-georgia-and-russia-violated-rights-of-the-civilian-population-during-the-conflict-georgian-ground-offensive.md) _Context: Georgian, South Ossetia, Tskhinvali_
+4. [ Georgian troops are forced to withdraw from Tskhinvali, the capital of South Ossetia by Russian army. ](/news/2008/08/10/georgian-troops-are-forced-to-withdraw-from-tskhinvali-the-capital-of-south-ossetia-by-russian-army.md) _Context: Georgian, South Ossetia, Tskhinvali_
+5. [ Georgian forces shell Tskhinvali in South Ossetia. ](/news/2008/07/4/georgian-forces-shell-tskhinvali-in-south-ossetia.md) _Context: Georgian, South Ossetia, Tskhinvali_
+6. [The President of the Georgian breakaway state of South Ossetia Leonid Tibilov announces his plan to hold a referendum on whether to become part of Russia or to keep its "de facto" independence before August of this year. This comes after South Ossetia signed various agreements further integrating the region with Russia. ](/news/2016/04/11/the-president-of-the-georgian-breakaway-state-of-south-ossetia-leonid-tibilov-announces-his-plan-to-hold-a-referendum-on-whether-to-become-p.md) _Context: Georgian, South Ossetia_
+7. [Georgia accuses Russia of cutting off its citizens from their farmland by installing border signposts demarcating the breakaway South Ossetia region, calling on Moscow to refrain from "escalation". ](/news/2015/08/11/georgia-accuses-russia-of-cutting-off-its-citizens-from-their-farmland-by-installing-border-signposts-demarcating-the-breakaway-south-osseti.md) _Context: Georgian, South Ossetia_
+8. [Georgia accuses Russia of violating its sovereignty by placing border markers on the edge of the South Ossetia region, leaving part of an international oil pipeline in territory under Russian control. The area was the site of the Russo-Georgian war in 2008. ](/news/2015/07/13/georgia-accuses-russia-of-violating-its-sovereignty-by-placing-border-markers-on-the-edge-of-the-south-ossetia-region-leaving-part-of-an-in.md) _Context: Georgian, South Ossetia_
+9. [Tuvalu withdraws its recognition of Abkhazia and South Ossetia after re-establishing diplomatic relations with Georgia. ](/news/2014/03/31/tuvalu-withdraws-its-recognition-of-abkhazia-and-south-ossetia-after-re-establishing-diplomatic-relations-with-georgia.md) _Context: Georgian, South Ossetia_
+10. [Voters in South Ossetia, a breakaway region of Georgia, go to the polls for a presidential election and a referendum. ](/news/2011/11/13/voters-in-south-ossetia-a-breakaway-region-of-georgia-go-to-the-polls-for-a-presidential-election-and-a-referendum.md) _Context: Georgian, South Ossetia_

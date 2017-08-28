@@ -1,6 +1,6 @@
 ### [2016-05-24](/news/2016/05/24/index.md)
 
-#   Jaish-e-Mohammed operations chief is killed in a gun battle with police. 
+#  Jaish-e-Mohammed operations chief is killed in a gun battle with police. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
@@ -11,7 +11,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Related:
 
-1. [  Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md) _Context: Insurgency in Jammu and Kashmir, police_
+1. [ Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md) _Context: Insurgency in Jammu and Kashmir, police_
 2. [Four Jaish-e-Mohammed militants attack an Indian Army base near the Pakistan border with at least 17 soldiers and four militants killed. ](/news/2016/09/18/four-jaish-e-mohammed-militants-attack-an-indian-army-base-near-the-pakistan-border-with-at-least-17-soldiers-and-four-militants-killed.md) _Context: Jaish-e-Mohammed_
 3. [At least three people are killed and dozens more are wounded when protesters clash with Indian Army soldiers. The protesters defied an army curfew and took part in the funeral of a top rebel commander of Hizbul Mujahideen. ](/news/2016/07/9/at-least-three-people-are-killed-and-dozens-more-are-wounded-when-protesters-clash-with-indian-army-soldiers-the-protesters-defied-an-army.md) _Context: Insurgency in Jammu and Kashmir_
 4. [The death toll from anti-government protests in the Indian state rises to 36 with over a thousand more being treated for injuries. Chief Minister Mehbooba Mufti has called for calm. ](/news/2016/07/13/the-death-toll-from-anti-government-protests-in-the-indian-state-rises-to-36-with-over-a-thousand-more-being-treated-for-injuries-chief-min.md) _Context: Insurgency in Jammu and Kashmir_
@@ -20,4 +20,4 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 7. [Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. ](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.md) _Context: Insurgency in Jammu and Kashmir_
 8. [Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. ](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-jaish-e-mohammed-attack-an-indian-air-force-base-in-pathankot-punjab-three-security-force.md) _Context: Jaish-e-Mohammed_
 9. [Insurgents attack an Indian Army base in northern Kashmir. At least three attackers are killed. ](/news/2015/11/25/insurgents-attack-an-indian-army-base-in-northern-kashmir-at-least-three-attackers-are-killed.md) _Context: Insurgency in Jammu and Kashmir_
-10. [Kashmir insurgency:An attack on a military camp leaves 11 Indian soldiers and police dead near Uri. Eight militants and two civilians are killed in that and concurrent attacks in the state capital, Srinagar, and a part of southern Kashmir. ](/news/2014/12/5/kashmir-insurgency-pan-attack-on-a-military-camp-leaves-11-indian-soldiers-and-police-dead-near-uri-eight-militants-and-two-civilians-are-k.md) _Context: Insurgency in Jammu and Kashmir_
+10. [ Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. ](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.md) _Context: Insurgency in Jammu and Kashmir_

@@ -10,7 +10,7 @@ _Context: North Korea, United States, six-party talks_
 _Context: Felixstowe, Ipswich murder case, Trimley St. Martin_
 
 ### [ Palestinian Civil Skirmishes increase after Palestinian President Mahmoud Abbas calls early elections and a truce between his forces and the Hamas government appeared close to collapse in the Gaza Strip. ](/news/2006/12/18/palestinian-civil-skirmishes-increase-after-palestinian-president-mahmoud-abbas-calls-early-elections-and-a-truce-between-his-forces-and-th.md)
-_Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian civil skirmishes, early elections_
+_Context: Gaza Strip, Hamas, Mahmoud Abbas, Palestinian Civil Skirmishes, early elections_
 
 ## [Previous Day...](/news/2006/12/17/index.md)
 

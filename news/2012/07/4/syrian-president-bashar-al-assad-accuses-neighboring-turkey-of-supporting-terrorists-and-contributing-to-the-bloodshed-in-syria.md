@@ -1,0 +1,23 @@
+### [2012-07-4](/news/2012/07/4/index.md)
+
+# Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. 
+
+
+
+
+### Source:
+
+1. [Voice of America](http://www.voanews.com/content/assad-accuses-turkey-of-contributing-to-syria-bloodshed/1363171.html)
+
+### Related:
+
+1. [ CHP MP Ozturk Yilmaz says Turkey has expressed its readiness to work with president Assad of Syria. ](/news/2016/12/26/chp-mp-azta1-4rk-ya-lmaz-says-turkey-has-expressed-its-readiness-to-work-with-president-assad-of-syria.md) _Context: Bashar al-Assad, Syria, Turkey_
+2. [Turkey's president Recep Tayyip Erdogan warns Russia not to "play with fire" and says Russia is supporting the "state terrorism" of the Bashar al-Assad regime in Syria that has "killed 380,000 people". Relations between the former Cold War antagonists have been severely damaged after Turkey shot down a Russian Sukhoi Su-24 near the Syria-Turkey border on November 24, 2015. ](/news/2015/11/27/turkey-s-president-recep-tayyip-erdoaan-warns-russia-not-to-play-with-fire-and-says-russia-is-supporting-the-state-terrorism-of-the-bas.md) _Context: Bashar al-Assad, Syria, Turkey_
+3. [Syrian civil war: At least 13 people are killed in a continuing crackdown by security forces in Syria; opposition leaders meeting in Turkey call for President Bashar al-Assad to step down. ](/news/2011/06/2/syrian-civil-war-at-least-13-people-are-killed-in-a-continuing-crackdown-by-security-forces-in-syria-opposition-leaders-meeting-in-turkey.md) _Context: Bashar al-Assad, Syria, Turkey_
+4. [ Iraqi President Jalal Talabani criticizes Syrian President Bashar al-Assad for his support of a possible Turkish attack against Kurdistan Workers Party fighters in the Iraqi Kurdistan. ](/news/2007/10/20/iraqi-president-jalal-talabani-criticizes-syrian-president-bashar-al-assad-for-his-support-of-a-possible-turkish-attack-against-kurdistan-w.md) _Context: Bashar al-Assad, Syria, Turkey_
+5. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Syria, Turkey_
+6. [Israeli Minister of Construction Yoav Galant states that Syrian President Bashar al-Assad should be assassinated. Yesterday, the United States Department of State accused the al-Assad government of using a crematory at Sednaya Prison to cover up the mass murders of thousands of political prisoners. The Syrian government denies the accusations. ](/news/2017/05/16/israeli-minister-of-construction-yoav-galant-states-that-syrian-president-bashar-al-assad-should-be-assassinated-yesterday-the-united-stat.md) _Context: Bashar al-Assad, Syria_
+7. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Syria, Turkey_
+8. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Bashar al-Assad, Syria_
+9. [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md) _Context: Syria, Turkey_
+10. [The United Nations Security Council unanimously votes in favor of the Russian and Turkey-backed ceasefire currently in effect in Syria. ](/news/2017/01/1/the-united-nations-security-council-unanimously-votes-in-favor-of-the-russian-and-turkey-backed-ceasefire-currently-in-effect-in-syria.md) _Context: Syria, Turkey_

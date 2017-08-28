@@ -12,8 +12,8 @@ _Context: George W. Bush, President, Samuel Alito, Third Circuit Court of Appeal
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)
 _Context: Chief Cabinet Secretary, Foreign Minister, Heizo Takenaka, Interior Minister, Japan, Junichiro Koizumi, Liberal Democratic Party, Prime Minister of Japan, Shinzo Abe, Taro Aso_
 
-### [ Conflict in Iraq:: A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/conflict-in-iraq-a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-in.md)
-_Context: 2004, Conflict in Iraq, Iraq, United States military_
+### [ A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-insurgents.md)
+_Context: 2004, Iraq, United States military_
 
 ### [ Israeli-Palestinian Conflict: 3 Palestinian militants die following an Israeli attack in the West Bank city of Jenin. ](/news/2005/10/31/israeli-palestinian-conflict-3-palestinian-militants-die-following-an-israeli-attack-in-the-west-bank-city-of-jenin.md)
 _Context: Israel, Israeli-Palestinian conflict, Jenin, Palestinian, West Bank_

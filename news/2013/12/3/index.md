@@ -9,10 +9,10 @@ Irish police colluded in the IRA murders of two senior Northern Ireland policeme
 ### [A leaked French report on the cause of Yasser Arafat's death says he died of an infection. A Swiss inquiry had said polonium poisoning was most likely. ](/news/2013/12/3/a-leaked-french-report-on-the-cause-of-yasser-arafat-s-death-says-he-died-of-an-infection-a-swiss-inquiry-had-said-polonium-poisoning-was-m.md)
 French scientists say it is most likely that Palestinian leader Yasser Arafat did not die of poisoning, according to leaks from their report.
 
-### [2013 Thai protests:: Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/2013-thai-protests-thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md)
-_Context: 2013 Thai protests, Bangkok, Thai police officers_
+### [Thai police say that they will not resist protesters seizing the Bangkok police headquarters. ](/news/2013/12/3/thai-police-say-that-they-will-not-resist-protesters-seizing-the-bangkok-police-headquarters.md)
+_Context: Bangkok, Thai police officers_
 
-### [2013 Ukraine pro-European Union protests:: The Government of Prime Minister of Ukraine Mykola Azarov easily survives a no-confidence motion amid continuing protest against the decision of Azarov and President Yanukovych to back away from stronger ties with the European Union. However, the Government is in danger of not surviving a similar motion tomorrow. ](/news/2013/12/3/2013-ukraine-pro-european-union-protests-the-government-of-prime-minister-of-ukraine-mykola-azarov-easily-survives-a-no-confidence-motion.md)
+### [The Government of Prime Minister of Ukraine Mykola Azarov easily survives a no-confidence motion amid continuing protest against the decision of Azarov and President Yanukovych to back away from stronger ties with the European Union. However, the Government is in danger of not surviving a similar motion tomorrow. ](/news/2013/12/3/the-government-of-prime-minister-of-ukraine-mykola-azarov-easily-survives-a-no-confidence-motion-amid-continuing-protest-against-the-decisio.md)
 Ukraine’s government survived a no-confidence motion as tens of thousands of protesters surrounded the parliament building in central Kyiv, calling
 
 ### [Romanian President Traian Basescu sparks a new crisis by refusing to sign the country's IMF accord and threatens Prime Minister Victor Ponta's government with rejecting the national budget, blocking important indexations of salaries and pensions for the following year, over an ongoing political feud between the two leaders. ](/news/2013/12/3/romanian-president-traian-basescu-sparks-a-new-crisis-by-refusing-to-sign-the-country-s-imf-accord-and-threatens-prime-minister-victor-pont.md)

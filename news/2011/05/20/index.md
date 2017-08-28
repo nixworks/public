@@ -1,10 +1,10 @@
 ## [2011-05-20](/news/2011/05/20/index.md)
 
-### [2011 Syrian protests:: Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/2011-syrian-protests-syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayer.md)
+### [Syrian security forces fire into crowds of demonstrators, as thousands protest across the country after Friday prayers. ](/news/2011/05/20/syrian-security-forces-fire-into-crowds-of-demonstrators-as-thousands-protest-across-the-country-after-friday-prayers.md)
 Thousands of Syrians took to the streets in what appeared to be a dangerous turn in the uprising. Rights groups said 26 people were killed by security forces.
 
-### [2011 Libyan civil war:: The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot.md)
-_Context: Anton Hammerl, Libya, Libyan Civil War, Muammar Gaddafi, South Africa_
+### [The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.md)
+_Context: Anton Hammerl, Libya, Muammar Gaddafi, South Africa_
 
 ### [At least one person is killed and ten people injured following an explosion in the Pakistani city of Peshawar, with a United States consular convoy targeted by the Pakistani Taliban. ](/news/2011/05/20/at-least-one-person-is-killed-and-ten-people-injured-following-an-explosion-in-the-pakistani-city-of-peshawar-with-a-united-states-consular.md)
 US embassy spokesperson says two American consulate staffers injured in the attack that also killed a passerby.

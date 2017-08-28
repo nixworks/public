@@ -1,6 +1,6 @@
 ## [2011-03-26](/news/2011/03/26/index.md)
 
-### [Arab Spring:: 2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/arab-spring-2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recap.md)
+### [2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recapture-brega.md)
 Five suspected al Qaeda members were killed in a clash with Yemeni forces when they attacked a security checkpoint in the south of the Arabian Peninsula country, a local official said on Saturday.
 
 ### [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md)

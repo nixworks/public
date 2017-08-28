@@ -3,7 +3,7 @@
 ### [A Palestinian man from the West Bank, Hamza Muhammad Hassan Matrouk, illegally crosses into Israel for the express purpose to stab people attacking over a dozen Israelis on a bus in central Tel Aviv. Security forces capture the assailant as he continued to indiscriminately stab people in the street. ](/news/2015/01/21/a-palestinian-man-from-the-west-bank-hamza-muhammad-hassan-matrouk-illegally-crosses-into-israel-for-the-express-purpose-to-stab-people-at.md)
 _Context: Israelis, Palestinian, Tel Aviv, West Bank_
 
-### [2014-15 Russian military intervention in Ukraine:: The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/2014-15-russian-military-intervention-in-ukraine-the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-h.md)
+### [The President of Ukraine Petro Poroshenko accuses Russia of sending 9,000 soldiers to help separatists in eastern Ukraine. ](/news/2015/01/21/the-president-of-ukraine-petro-poroshenko-accuses-russia-of-sending-9-000-soldiers-to-help-separatists-in-eastern-ukraine.md)
 Ukrainian President Petro Poroshenko accused Russia on Wednesday of sending 9,000 troops to back separatist rebels in the east of his country, and the IMF chief said she backed extra financial help for Kiev as the conflict inflicts severe economic damage.
 
 ### [Lutz Bachmann resigns as a leader of PEGIDA, a German anti-Islamist organisation, after controversy was sparked by a headshot photo of himself posing as Adolf Hitler. ](/news/2015/01/21/lutz-bachmann-resigns-as-a-leader-of-pegida-a-german-anti-islamist-organisation-after-controversy-was-sparked-by-a-headshot-photo-of-himse.md)

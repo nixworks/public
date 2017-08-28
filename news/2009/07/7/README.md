@@ -1,6 +1,6 @@
 ## [2009-07-7](/news/2009/07/7/index.md)
 
-### [ July 2009 rmqi riots: Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/july-2009-urumqi-riots-chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md)
+### [ Chinese police arrest 1,434 people over rioting in Xinjiang province. ](/news/2009/07/7/chinese-police-arrest-1-434-people-over-rioting-in-xinjiang-province.md)
 Rival ethnic Uighur and Han Chinese groups take to streets defying security crackdown.
 
 ### [ A public memorial for Michael Jackson takes place at the Staples Center in Los Angeles, California, with over 17,000 viewing in Los Angeles, and millions more viewing around the world. ](/news/2009/07/7/a-public-memorial-for-michael-jackson-takes-place-at-the-staples-center-in-los-angeles-california-with-over-17-000-viewing-in-los-angeles.md)

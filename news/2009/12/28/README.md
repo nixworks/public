@@ -22,7 +22,7 @@ _Context: China, Shanghai_
 _Context: China, Guangdong_
 
 ### [ Clashes between joint military-police forces and an Islamic sect in Bauchi, Nigeria, result in at least 35 deaths. ](/news/2009/12/28/clashes-between-joint-military-police-forces-and-an-islamic-sect-in-bauchi-nigeria-result-in-at-least-35-deaths.md)
-_Context: Bauchi, Islam, Nigeria_
+_Context: Bauchi, Muslims, Nigeria_
 
 ### [ Iran declares martial law in Najafabad following a week of protest and 2 days of violence. ](/news/2009/12/28/iran-declares-martial-law-in-najafabad-following-a-week-of-protest-and-2-days-of-violence.md)
 _Context: Najafabad, martial law, recent demonstrations_
@@ -33,7 +33,7 @@ Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast C
 ### [ 25 dead and dozens injured in a suicide bombing on a Shia procession on the day of Ashura, in Karachi, Pakistan. ](/news/2009/12/28/25-dead-and-dozens-injured-in-a-suicide-bombing-on-a-shia-procession-on-the-day-of-ashura-in-karachi-pakistan.md)
 _Context: Ashura, Karachi, Pakistan, Shia, suicide bombing_
 
-### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-pacific-ocean-oil-pipeline.md)
+### [ Russian Prime Minister Vladimir Putin opens the Eastern Siberia - Pacific Ocean oil pipeline. ](/news/2009/12/28/russian-prime-minister-vladimir-putin-opens-the-eastern-siberia-a-pacific-ocean-oil-pipeline.md)
 _Context: Eastern Siberia - Pacific Ocean oil pipeline, Russia, Vladimir Putin_
 
 ### [ At least 2,000 hectares and 20 homes are destroyed and hundreds of people are evacuated after a suspected arson causes forest fires in Valparaiso, Chile. ](/news/2009/12/28/at-least-2-000-hectares-and-20-homes-are-destroyed-and-hundreds-of-people-are-evacuated-after-a-suspected-arson-causes-forest-fires-in-valp.md)

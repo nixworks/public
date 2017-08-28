@@ -1,6 +1,6 @@
 ## [2011-08-24](/news/2011/08/24/index.md)
 
-### [2011 Battle of Tripoli: National Transitional Council Chairman Mustafa Abdul Jalil announces legislative and presidential elections within eight months, and promises that Muammar Gaddafi will be tried in Libya. ](/news/2011/08/24/2011-battle-of-tripoli-national-transitional-council-chairman-mustafa-abdul-jalil-announces-legislative-and-presidential-elections-within-e.md)
+### [National Transitional Council Chairman Mustafa Abdul Jalil announces legislative and presidential elections within eight months, and promises that Muammar Gaddafi will be tried in Libya. ](/news/2011/08/24/national-transitional-council-chairman-mustafa-abdul-jalil-announces-legislative-and-presidential-elections-within-eight-months-and-promise.md)
 Col Muammar Gaddafi last night reportedly vowed death or victory in the fight against &#034;aggression&#034; after his fortified headquarters in Tripoli were overrun.
 
 ### [Air strikes kill 30 Al-Qaeda linked militants near Zinjibar in Yemen's Abyan Governorate with eight army soldiers killed in fighting. ](/news/2011/08/24/air-strikes-kill-30-al-qaeda-linked-militants-near-zinjibar-in-yemen-s-abyan-governorate-with-eight-army-soldiers-killed-in-fighting.md)
@@ -12,7 +12,7 @@ _Context: Japan, Moody's, credit rating, economic growth, public debt_
 ### [Steve Jobs resigns as the CEO of Apple Inc. Tim Cook took over the CEO position for the company. ](/news/2011/08/24/steve-jobs-resigns-as-the-ceo-of-apple-inc-tim-cook-took-over-the-ceo-position-for-the-company.md)
 _Context: Apple Inc., Steve Jobs, Tim Cook_
 
-### [Hurricane Irene: Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coa.md)
+### [Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coast-of-the-united.md)
 Officials in a popular stretch of coastal North Carolina ordered all visitors to evacuate ahead of Hurricane Irene, which damaged homes in the Bahamas Wednesday as it churned toward the U.S. East Coast.
 
 ### [A 7.0 magnitude earthquake hits near the Amazon region of Peru ](/news/2011/08/24/a-7-0-magnitude-earthquake-hits-near-the-amazon-region-of-peru.md)

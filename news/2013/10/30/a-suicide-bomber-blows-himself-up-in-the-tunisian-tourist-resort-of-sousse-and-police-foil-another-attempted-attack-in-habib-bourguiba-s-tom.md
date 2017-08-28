@@ -11,4 +11,4 @@ A suicide bomber blew himself up in the Tunisian tourist resort of Sousse on Wed
 
 ### Related:
 
-1. [ 2015 Sousse attack: Two hotels in Sousse, Tunisia came under attack from an unknown number of gunmen; at least 37 people have been killed and 36 injured. ](/news/2015/06/26/2015-sousse-attack-two-hotels-in-sousse-tunisia-came-under-attack-from-an-unknown-number-of-gunmen-at-least-37-people-have-been-killed-a.md) _Context: Sousse_
+1. [ Two hotels in Sousse, Tunisia came under attack from an unknown number of gunmen; at least 37 people have been killed and 36 injured. ](/news/2015/06/26/two-hotels-in-sousse-tunisia-came-under-attack-from-an-unknown-number-of-gunmen-at-least-37-people-have-been-killed-and-36-injured.md) _Context: Sousse_

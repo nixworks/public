@@ -1,6 +1,6 @@
 ### [2017-08-8](/news/2017/08/8/index.md)
 
-# President Jacob Zuma survives his eighth no-confidence motion in parliament via a 198-177 secret ballot vote with nine abstentions. The rand fell by 1 percent on the announcement of the outcome.  
+# President Jacob Zuma survives his eighth no-confidence motion in parliament via a 198-177 secret ballot vote with nine abstentions. The rand fell by 1 percent on the announcement of the outcome. 
 
 
 

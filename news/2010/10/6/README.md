@@ -12,7 +12,7 @@ _Context: Bangkok, Thailand, United Front for Democracy Against Dictatorship_
 ### [Gunmen torch up to 40 oil tanker trucks carrying fuel for NATO forces in Afghanistan in Quetta and Nowshera, Pakistan and kill a truck driver. The Tehreek-e-Taliban claimed responsibility for that and other attacks. This was the sixth attack on convoys taking supplies to Afghanistan since Pakistan closed a key border crossing almost a week ago. ](/news/2010/10/6/gunmen-torch-up-to-40-oil-tanker-trucks-carrying-fuel-for-nato-forces-in-afghanistan-in-quetta-and-nowshera-pakistan-and-kill-a-truck-drive.md)
 The U.S. apologized Wednesday for a recent helicopter attack that killed two Pakistani soldiers at an outpost near the Afghan border, saying American pilots mistook the soldiers for insurgents they were pursuing.
 
-### [Yemen attacks: A British embassy car is attacked in Sanaa, the capital of Yemen with three people injured . ](/news/2010/10/6/yemen-attacks-a-british-embassy-car-is-attacked-in-sanaa-the-capital-of-yemen-with-three-people-injured.md)
+### [A British embassy car is attacked in Sanaa, the capital of Yemen with three people injured . ](/news/2010/10/6/a-british-embassy-car-is-attacked-in-sanaa-the-capital-of-yemen-with-three-people-injured.md)
 _Context: Britain, Sanaa, Yemen, embassies_
 
 ### [President of the United States Barack Obama awards a Medal of Honor posthumously to Robert James Miller of the US Army Green Berets for "conspicuous gallantry ... at risk of life above and beyond the call of duty" while fighting in the War in Afghanistan on January 25, 2008. ](/news/2010/10/6/president-of-the-united-states-barack-obama-awards-a-medal-of-honor-posthumously-to-robert-james-miller-of-the-us-army-green-berets-for-con.md)
@@ -39,7 +39,7 @@ _Context: China, Hainan_
 ### [At least 75 people are killed in flash floods in eastern Indonesia. ](/news/2010/10/6/at-least-75-people-are-killed-in-flash-floods-in-eastern-indonesia.md)
 At least 75 people have been killed and many are missing after flash floods and mudslides hit mountainous villages.
 
-### [Ajka alumina plant accident:: Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/ajka-alumina-plant-accident-hungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environ.md)
+### [Hungary expects to take at least a year and tens of millions of dollars to clean up what the country's environment minister describes as its worst chemical accident. ](/news/2010/10/6/hungary-expects-to-take-at-least-a-year-and-tens-of-millions-of-dollars-to-clean-up-what-the-country-s-environment-minister-describes-as-its.md)
 Hungary has opened a criminal investigation into the toxic sludge flood which has been described as one of Europe&rsquo;s worst environmental disasters in the last 20 to 30 years
 
 ### [The death toll from floods in central Vietnam rises to at least forty-nine. ](/news/2010/10/6/the-death-toll-from-floods-in-central-vietnam-rises-to-at-least-forty-nine.md)

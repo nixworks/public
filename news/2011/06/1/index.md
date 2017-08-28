@@ -1,6 +1,6 @@
 ## [2011-06-1](/news/2011/06/1/index.md)
 
-### [Arab Spring:: Syrian civil war:: The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/arab-spring-syrian-civil-war-the-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-peo.md)
+### [Syrian civil war:The torture and eventual killing of a 13-year-old child held in custody causes further outcry among the people of Daraa. ](/news/2011/06/1/syrian-civil-war-the-torture-and-eventual-killing-of-a-13-year-old-child-held-in-custody-causes-further-outcry-among-the-people-of-daraa.md)
 The mutilation and death in custody of a 13-year-old child has sparked further furious protests in Syrian city of Daraa.
 
 ### [Sudan agrees to demilitarize its border with South Sudan. ](/news/2011/06/1/sudan-agrees-to-demilitarize-its-border-with-south-sudan.md)
@@ -25,7 +25,7 @@ _Context: 2011 Joplin tornado, Joplin, Missouri_
 ### [German health officials report 365 new cases of the E. coli outbreak as it continues to spread throughout Europe. ](/news/2011/06/1/german-health-officials-report-365-new-cases-of-the-e-coli-outbreak-as-it-continues-to-spread-throughout-europe.md)
 _Context: E. coli, Europe, German_
 
-### [2011 New England tornado outbreak: One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/2011-new-england-tornado-outbreak-one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-proper.md)
+### [One tornado hits the US city of Springfield, Massachusetts, with injuries reported and significant property damage. ](/news/2011/06/1/one-tornado-hits-the-us-city-of-springfield-massachusetts-with-injuries-reported-and-significant-property-damage.md)
 At least two confirmed tornadoes descended upon towns in western Massachusetts on Wednesday, leaving at least four dead and smashing homes and buildings across a 40-mile stretch, state officials and witnesses reported.
 
 ### [A United Nations report states that there are 2 million adolescents in the world living with HIV with 86 per cent of them living in sub-Saharan Africa. ](/news/2011/06/1/a-united-nations-report-states-that-there-are-2-million-adolescents-in-the-world-living-with-hiv-with-86-per-cent-of-them-living-in-sub-saha.md)

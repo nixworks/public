@@ -6,8 +6,8 @@ _Context: Brazzaville, Chemin de Fer Congo Ocean, Pointe Noire, Republic of the 
 ### [The death toll from floods and mudslides reaches at least 31 people in Alagoas and Pernambuco in northeastern Brazil. ](/news/2010/06/22/the-death-toll-from-floods-and-mudslides-reaches-at-least-31-people-in-alagoas-and-pernambuco-in-northeastern-brazil.md)
 Mudslides and Heavy Rain Force Thousands From Their Hillside Homes
 
-### [Red Sea oil spill disaster:: Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/red-sea-oil-spill-disaster-environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-govern.md)
-_Context: Egypt, Hurghada, Red Sea, Red Sea oil spill disaster, environmentalist, oil, oil spill, sea bird, turtle_
+### [Environmentalists said that an oil spill near Hurghada Egypt in the Red Sea is continuing even after the government said it had been contained, leaving turtles and sea birds covered in oil. ](/news/2010/06/22/environmentalists-said-that-an-oil-spill-near-hurghada-egypt-in-the-red-sea-is-continuing-even-after-the-government-said-it-had-been-contain.md)
+_Context: Egypt, Hurghada, Red Sea, environmentalist, oil, oil spill, sea bird, turtle_
 
 ### [The death toll from unrest in southern Kyrgyzstan riots reaches 251. ](/news/2010/06/22/the-death-toll-from-unrest-in-southern-kyrgyzstan-riots-reaches-251.md)
 _Context: Kyrgyzstan, ethnic riots_

@@ -1,6 +1,6 @@
 ## [2015-03-10](/news/2015/03/10/index.md)
 
-### [Sinai insurgency: A suicide bomber kills one person and injures 24 in an attack on a police station in Egypt's Sinai Peninsula. ](/news/2015/03/10/sinai-insurgency-a-suicide-bomber-kills-one-person-and-injures-24-in-an-attack-on-a-police-station-in-egypt-s-sinai-peninsula.md)
+### [A suicide bomber kills one person and injures 24 in an attack on a police station in Egypt's Sinai Peninsula. ](/news/2015/03/10/a-suicide-bomber-kills-one-person-and-injures-24-in-an-attack-on-a-police-station-in-egypt-s-sinai-peninsula.md)
 Two bombings in Egypt&#x27;s Sinai Peninsula, one of them a suicide attack on a police base, killed a civilian and an army officer Tuesday as an Islamist insurgency showed no let-up, officials said. The Islamic State group&#x27;s Egyptian affiliate, Ansar Beit al-Maqdis (Partisans of Jerusalem), sai...
 
 ### [The family of soul music singer Marvin Gaye wins a $7.3 million lawsuit for copyright infringement against Robin Thicke, Pharrell Williams, and T.I. holding that Thicke's hit "Blurred Lines" resembled Gaye's "Got to Give It Up". ](/news/2015/03/10/the-family-of-soul-music-singer-marvin-gaye-wins-a-7-3-million-lawsuit-for-copyright-infringement-against-robin-thicke-pharrell-williams.md)

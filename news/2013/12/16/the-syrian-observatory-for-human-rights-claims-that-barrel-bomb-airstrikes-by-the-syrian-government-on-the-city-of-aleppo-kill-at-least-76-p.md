@@ -1,0 +1,23 @@
+### [2013-12-16](/news/2013/12/16/index.md)
+
+# The Syrian Observatory for Human Rights claims that barrel bomb airstrikes by the Syrian government on the city of Aleppo kill at least 76 people. 
+
+
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/news/middle-east/1.563813)
+
+### Related:
+
+1. [Turkish jets hit Kurdish-led Syrian Democratic Forces (SDF) militia with 26 airstrikes in three recently-captured-from-ISIL villages west of al-Bab and northeast of Aleppo. The Turkish General Staff says between 160 and 200 have been killed, while the Syrian Observatory for Human Rights reports 11 dead and dozens of people wounded. ](/news/2016/10/20/turkish-jets-hit-kurdish-led-syrian-democratic-forces-sdf-militia-with-26-airstrikes-in-three-recently-captured-from-isil-villages-west-of.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+2. [The Syrian Observatory for Human Rights and a rebel official report that Russian jets have resumed heavy bombing, and, in total, have now killed at least 50 civilians in villages surrounding rebel-held eastern Aleppo. ](/news/2016/10/11/the-syrian-observatory-for-human-rights-and-a-rebel-official-report-that-russian-jets-have-resumed-heavy-bombing-and-in-total-have-now-ki.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+3. [The Syrian Observatory for Human Rights says that at least 51 people have been killed in the Syrian city of Aleppo. ](/news/2016/08/13/the-syrian-observatory-for-human-rights-says-that-at-least-51-people-have-been-killed-in-the-syrian-city-of-aleppo.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+4. [Airstrikes hit Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights. At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+5. [The Britain-based Syrian Observatory for Human Rights reports ISIL militants have kidnapped about 900 Syrian Kurdish civilians from Aleppo over the past three weeks in retaliation for the Kurdish and US-backed Syrian Democratic Forces attack on Manbij. The captives are being forced to build fortifications for the extremists. At least 26 of those abducted reportedly have been killed for refusing to follow ISIL orders. ](/news/2016/06/24/the-britain-based-syrian-observatory-for-human-rights-reports-isil-militants-have-kidnapped-about-900-syrian-kurdish-civilians-from-aleppo-o.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+6. [A rocket attack hits a hospital in the Syrian city of Aleppo, killing three civilians. The Syrian Observatory for Human Rights said the attack was part of a bigger shelling that killed 19 more people. ](/news/2016/05/3/a-rocket-attack-hits-a-hospital-in-the-syrian-city-of-aleppo-killing-three-civilians-the-syrian-observatory-for-human-rights-said-the-atta.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+7. [The Syrian Observatory for Human Rights claims that twenty air strikes have hit the northern areas of Aleppo. Bombardments by both sides have killed nearly 250 people since April 22. ](/news/2016/04/30/the-syrian-observatory-for-human-rights-claims-that-twenty-air-strikes-have-hit-the-northern-areas-of-aleppo-bombardments-by-both-sides-hav.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+8. [The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. ](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+9. [The Syrian Observatory for Human Rights claims that the Al-Nusra Front as well as other insurgents have captured the village of Tel el-Ais in a strategic position overlooking the highway between Aleppo and Damascus. ](/news/2016/04/2/the-syrian-observatory-for-human-rights-claims-that-the-al-nusra-front-as-well-as-other-insurgents-have-captured-the-village-of-tel-el-ais-i.md) _Context: Aleppo, Syrian Observatory for Human Rights_
+10. [The Syrian Observatory for Human Rights reports Russian airstrikes on several rebel-held neighborhoods in the city of Aleppo, kills at least 21 civilians. ](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.md) _Context: Aleppo, Syrian Observatory for Human Rights_

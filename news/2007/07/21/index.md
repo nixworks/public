@@ -18,7 +18,7 @@ _Context: China, flood_
 ### [ NASA mission scientists raise concerns that ongoing prolonged Martian dust storms could disable the Mars Exploration Rovers. ](/news/2007/07/21/nasa-mission-scientists-raise-concerns-that-ongoing-prolonged-martian-dust-storms-could-disable-the-mars-exploration-rovers.md)
 _Context: Mars Exploration Rover, Mars' atmosphere, NASA_
 
-### [ War in Iraq:: United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/war-in-iraq-united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
+### [ United States forces attack an insurgent position in Hussainiya a Shiite suburb north of Baghdad, inflicting casualties. ](/news/2007/07/21/united-states-forces-attack-an-insurgent-position-in-hussainiya-a-shiite-suburb-north-of-baghdad-inflicting-casualties.md)
 The deaths occurred during an American attack on a Shiite area on the outskirts of northern Baghdad late Friday and early Saturday. 
 
 ### [ The United Nations suspends a Moroccan peacekeeping contingent in the Cte d'Ivoire following allegations of widespread sexual abuse. ](/news/2007/07/21/the-united-nations-suspends-a-moroccan-peacekeeping-contingent-in-the-cote-d-ivoire-following-allegations-of-widespread-sexual-abuse.md)

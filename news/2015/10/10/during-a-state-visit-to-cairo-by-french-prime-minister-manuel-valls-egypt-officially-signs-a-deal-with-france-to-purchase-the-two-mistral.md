@@ -1,6 +1,6 @@
 ### [2015-10-10](/news/2015/10/10/index.md)
 
-# During a state visit to Cairo by French prime minister Manuel Valls, Egypt officially signs a deal with France to purchase the two ''Mistral''-class helicopter carriers that were originally destined for Russia but France refused to deliver due to the Ukrainian crisis. Russia will sell Egypt the helicopters originally intended for the ships. 
+# During a state visit to Cairo by French prime minister Manuel Valls, Egypt officially signs a deal with France to purchase the two "Mistral"-class helicopter carriers that were originally destined for Russia but France refused to deliver due to the Ukrainian crisis. Russia will sell Egypt the helicopters originally intended for the ships. 
 
 Egypt signed a contract Saturday to buy two Mistral warships, whose sale to Russia Paris cancelled because of the Ukraine crisis, a delegation member with the visiting French prime minister said.
 

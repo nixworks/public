@@ -1,6 +1,6 @@
 ## [2013-01-9](/news/2013/01/9/index.md)
 
-### [Syrian civil war:: Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/syrian-civil-war-forty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in.md)
+### [Forty-eight Iranians who were kidnapped by Free Syrian Army rebels in the capital Damascus in August 2012 are released in exchange for 2,130 prisoners held by the Syrian government. ](/news/2013/01/9/forty-eight-iranians-who-were-kidnapped-by-free-syrian-army-rebels-in-the-capital-damascus-in-august-2012-are-released-in-exchange-for-2-130.md)
 Forty-eight Iranians held hostage by Syrian rebels since August are freed, reportedly in exchange for 2,130 prisoners held by the Syrian authorities.
 
 ### [James M. Buchanan, who won the Nobel Memorial Prize in Economic Sciences in 1986 for his role in developing public choice theory, dies aged 93 in the American town of Blacksburg, Virginia. ](/news/2013/01/9/james-m-buchanan-who-won-the-nobel-memorial-prize-in-economic-sciences-in-1986-for-his-role-in-developing-public-choice-theory-dies-aged.md)

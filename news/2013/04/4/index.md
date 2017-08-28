@@ -1,15 +1,15 @@
 ## [2013-04-4](/news/2013/04/4/index.md)
 
-### [War in Afghanistan (2001-present):: An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/war-in-afghanistan-2001-present-an-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md)
+### [An airstrike conducted by NATO kills at least five people in the eastern Afghan province of Ghazni. ](/news/2013/04/4/an-airstrike-conducted-by-nato-kills-at-least-five-people-in-the-eastern-afghan-province-of-ghazni.md)
 A Nato air strike in eastern Ghazni province kills four Afghan policemen and a civilian, Afghan officials say.
 
-### [War in North-West Pakistan:: The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/war-in-north-west-pakistan-the-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-office.md)
+### [The Pakistani Taliban claims responsibility for a grenade attack on a vehicle which killed four security officers and wounded seven others in Karachi. ](/news/2013/04/4/the-pakistani-taliban-claims-responsibility-for-a-grenade-attack-on-a-vehicle-which-killed-four-security-officers-and-wounded-seven-others-i.md)
 Pakistan Taliban claim responsibility for attack on vehicle that killed four security officers and wounded seven others.
 
-### [Israeli-Palestinian conflict:: A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/israeli-palestinian-conflict-a-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-wes.md)
+### [A Palestinian, Naji Balbisi, dies from injuries he suffered during a clashes with Israeli forces in the West Bank city of Tulkarem, a day after his cousin, Amer al-Najjar, died in the clashes after they tried to firebomb a checkpoint. ](/news/2013/04/4/a-palestinian-naji-balbisi-dies-from-injuries-he-suffered-during-a-clashes-with-israeli-forces-in-the-west-bank-city-of-tulkarem-a-day-af.md)
 Abbas blames Israel for escalation in West Bank violence after two alleged firebombers are killed in Tulkarem
 
-### [Central African Republic conflict (2012-present):: South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. ](/news/2013/04/4/central-african-republic-conflict-2012-present-south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african.md)
+### [South Africa's President Jacob Zuma announces full withdrawal from the Central African Republic after criticism over death of 13 soldiers during the fall of the government there. ](/news/2013/04/4/south-africa-s-president-jacob-zuma-announces-full-withdrawal-from-the-central-african-republic-after-criticism-over-death-of-13-soldiers-du.md)
 President Jacob Zuma announces full withdrawal from Central African Republic after criticism over death of 13 soldiers.
 
 ### [American Pulitzer Prize-winning film reviewer Roger Ebert dies at the age of 70 following a battle with cancer which initially cost him his voice. ](/news/2013/04/4/american-pulitzer-prize-winning-film-reviewer-roger-ebert-dies-at-the-age-of-70-following-a-battle-with-cancer-which-initially-cost-him-his.md)
@@ -36,7 +36,7 @@ The death toll from a new strain of bird flu rose to six in China on Thursday as
 ### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
 _Context: ''Neuron'', Alzheimer's disease, United States, Washington University, genetic markers_
 
-### [2013 Korean crisis:: South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/2013-korean-crisis-south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-rea.md)
+### [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md)
 John Everard, former UK Ambassador, explains that North Korea &quot;believe that they are the victim, [and] they believe that they are being hounded by the United States.&quot;
 
 ### [Egypt intercepts a Togolese flagged ship carrying a large arsenal of weapons. It is believed the ship was headed to Iran. ](/news/2013/04/4/egypt-intercepts-a-togolese-flagged-ship-carrying-a-large-arsenal-of-weapons-it-is-believed-the-ship-was-headed-to-iran.md)
@@ -58,7 +58,7 @@ Undercover U.S. agents have arrested the former navy chief of Guinea Bissau, wan
 _Context: Jackson, Mississippi, detective, homicide, interview, stabbed_
 
 ### [Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. ](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.md)
-_Context: Aceh, Banda Aceh, Indonesia, Islam, emblem, separatist_
+_Context: Aceh, Banda Aceh, Indonesia, Muslims, emblem, separatist_
 
 ### [The Hubble Space Telescope observes the most distant supernova on record. ](/news/2013/04/4/the-hubble-space-telescope-observes-the-most-distant-supernova-on-record.md)
 Scientists using the Hubble Space Telescope caught sight of Supernova UDS10Wil&#039;s explosion more than 10 billion years ago, making it the most distant supernova yet detected.

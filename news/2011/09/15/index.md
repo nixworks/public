@@ -54,7 +54,7 @@ London police arrest trader Kweku Adoboli after Swiss bank UBS says unauthorised
 ### [The Supreme Court of the United States halts the execution of Duane Buck for double murder in Texas while it reviews his case that the sentence was unfair because of a question asked about race during his trial. ](/news/2011/09/15/the-supreme-court-of-the-united-states-halts-the-execution-of-duane-buck-for-double-murder-in-texas-while-it-reviews-his-case-that-the-sente.md)
 _Context: Texas, U.S. Supreme Court_
 
-### [Danish election:: Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/danish-election-voters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winni.md)
+### [Voters in Denmark go to the polls for parliamentary elections with a left-wing Coalition led by the Social Democrats winning enough seats to form Government. ](/news/2011/09/15/voters-in-denmark-go-to-the-polls-for-parliamentary-elections-with-a-left-wing-coalition-led-by-the-social-democrats-winning-enough-seats-to.md)
 _Context: Denmark, Social Democrat, parliamentary elections_
 
 ### [Australians will now be able to choose "indeterminate" as a gender on their passports together with male and female. ](/news/2011/09/15/australians-will-now-be-able-to-choose-indeterminate-as-a-gender-on-their-passports-together-with-male-and-female.md)

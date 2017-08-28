@@ -3,8 +3,8 @@
 ### [ A six-year-old boy is killed after Southwest Airlines Flight 1248 skids off a runway at Chicago Midway International Airport. ](/news/2005/12/8/a-six-year-old-boy-is-killed-after-southwest-airlines-flight-1248-skids-off-a-runway-at-chicago-midway-international-airport.md)
 _Context: Chicago Midway International Airport, Southwest Airlines Flight 1248_
 
-### [ Israeli-Palestinian Conflict:: Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/israeli-palestinian-conflict-hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel-w.md)
-_Context: Damascus, Hamas, Israel, Israeli-Palestinian conflict, Khaled Mashal, Syria_
+### [ Hamas leader Khaled Mashal declares at a rally in Damascus, Syria that its informal ceasefire with Israel, which expires at the end of the year, will not be renewed. ](/news/2005/12/8/hamas-leader-khaled-mashal-declares-at-a-rally-in-damascus-syria-that-its-informal-ceasefire-with-israel-which-expires-at-the-end-of-the.md)
+_Context: Damascus, Hamas, Israel, Khaled Mashal, Syria_
 
 ### [ President of Iran Mahmoud Ahmadinejad remarks that Israel should be moved to Europe and the "issue will be resolved." His remarks were widely condemned as Holocaust denial by Israeli, European and American politicians, The Secretary General of the United Nations, Kofi Annan, issued a statement indicating that he "was shocked", while Saudi, Turkish and Iranian officials criticized his speech because it undermined a Mecca summit dedicated to showing Islam's moderate face.](/news/2005/12/8/president-of-iran-mahmoud-ahmadinejad-remarks-that-israel-should-be-moved-to-europe-and-the-issue-will-be-resolved-his-remarks-were-wide.md)
 Saudis fumed Friday that Iran&#39;s president marred a Mecca summit dedicated to showing Islam&#39;s moderate face by suggesting the Holocaust might not have taken place and that Israel should be moved to Europe. The remarks by President Mahmoud Ahmadinejad, at a news conference in the holy city of ...

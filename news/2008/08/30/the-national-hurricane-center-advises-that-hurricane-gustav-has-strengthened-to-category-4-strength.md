@@ -1,0 +1,25 @@
+### [2008-08-30](/news/2008/08/30/index.md)
+
+#  The National Hurricane Center advises that Hurricane Gustav has strengthened to Category 4 strength. 
+
+
+
+
+### Source:
+
+1. [AP via ''Minneapolis Star Tribune](http://www.startribune.com/nation/27697534.html)
+2. [AP via Google News](http://ap.google.com/article/ALeqM5g8-DEMtAE9q4i4ySQ0eV_qZefmRQD92SOO2O1)
+3. [New York Daily News](http://www.nydailynews.com/news/us_world/2008/08/30/2008-08-30_new_orleans_begins_evacuating_as_gustav_.html)
+4. [This is London](http://www.thisislondon.co.uk/news/article-23546267-details/Cuba+evacuates+60,000+people+as+Hurricane+Gustav+sweeps+through+and+heads+for+New+Orleans/article.do)
+
+### Related:
+
+1. [In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm makes landfall between Port Aransas and Port O'Connor as a Category 4 hurricane around 11 p.m. EDT (0300 UTC, August 26) as the strongest storm to hit the United States mainland since 2004. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15|-|25|in|cm, and as much as 35|in|cm of rain on some parts of the state. ](/news/2017/08/25/in-anticipation-of-hurricane-harvey-residents-from-corpus-christi-to-galveston-texas-and-workers-from-gulf-of-mexico-oil-platforms-are-ev.md) _Context: National Hurricane Center_
+2. [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km/h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md) _Context: National Hurricane Center_
+3. [The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea, and for the northwest South American coast. ](/news/2016/09/29/the-u-s-national-hurricane-center-issues-a-tropical-storm-watch-for-aruba-bonaire-and-curaassao-islands-in-the-caribbean-sea-and-for-the.md) _Context: National Hurricane Center_
+4. [The National Hurricane Center declares a hurricane watch and tropical storm warning from the Anclote River, north of Tampa, to Destin, Florida, near the Georgia border. Hermine, now at 45 mph (75 km), is expected to reach hurricane strength when it makes landfall Thursday afternoon. Florida Governor Rick Scott, with life-threatening flooding forecast, declares a state of emergency. ](/news/2016/08/31/the-national-hurricane-center-declares-a-hurricane-watch-and-tropical-storm-warning-from-the-anclote-river-north-of-tampa-to-destin-flori.md) _Context: National Hurricane Center_
+5. [The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-the-newly-upgraded-tropical-storm.md) _Context: National Hurricane Center_
+6. [The United States National Hurricane Center issues hurricane warnings for the states of Florida, Alabama, Mississippi and Louisiana. A state of emergency is in effect in these four areas. ](/news/2012/08/26/the-united-states-national-hurricane-center-issues-hurricane-warnings-for-the-states-of-florida-alabama-mississippi-and-louisiana-a-state.md) _Context: National Hurricane Center_
+7. [Tropical Storm Isaac (2012): The U.S. National Hurricane Center lowers its previous hurricane warning threat level for Hispaniola island in the Caribbean Sea to a storm warning and hurricane watch in its 23.00 PM bulletin. ](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.md) _Context: National Hurricane Center_
+8. [The United States National Hurricane Center advises that Hurricane Bud has formed off the Pacific Ocean coast of Mexico and has reached category two strength. ](/news/2012/05/24/the-united-states-national-hurricane-center-advises-that-hurricane-bud-has-formed-off-the-pacific-ocean-coast-of-mexico-and-has-reached-cate.md) _Context: National Hurricane Center_
+9. [ Subtropical Storm Olga forms north of Puerto Rico, ten days after the official end of the 2007 Atlantic hurricane season. The National Hurricane Center forecasts landfall in the Dominican Republic within 24 hours, and Tropical Storm Warnings and Watches have been posted for the northern shore of the nation. ](/news/2007/12/10/subtropical-storm-olga-forms-north-of-puerto-rico-ten-days-after-the-official-end-of-the-2007-atlantic-hurricane-season-the-national-hurr.md) _Context: National Hurricane Center_

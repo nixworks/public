@@ -22,7 +22,7 @@ _Context: East Jerusalem, Israeli police, Israeli-Palestinian conflict, Palestin
 ### [ Rescue workers are still battling to find survivors after the roof of an ice rink collapsed in Bad Reichenhall, southern Germany, leaving at least 10 people dead, some of them children. It is thought many are still trapped under the rubble. ](/news/2006/01/3/rescue-workers-are-still-battling-to-find-survivors-after-the-roof-of-an-ice-rink-collapsed-in-bad-reichenhall-southern-germany-leaving-a.md)
 _Context: Bad Reichenhall, children_
 
-### [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-the-latest-bid-c-4-9-billio.md)
+### [ Bidding continues in an international auction for Canadian steel company Dofasco Inc., Hamilton, Ont.&nbsp;- the latest bid, C$4.9 billion, came Tuesday from German steelmaker ThyssenKrupp AG. ](/news/2006/01/3/bidding-continues-in-an-international-auction-for-canadian-steel-company-dofasco-inc-hamilton-ont-nbsp-a-the-latest-bid-c-4-9-billio.md)
 _Context: Dofasco Inc., Hamilton, Ontario, ThyssenKrupp_
 
 ### [ Four years after defaulting on its external debt, Argentina pays its USD 9.57 billion debt with the International Monetary Fund. ](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt-argentina-pays-its-usd-9-57-billion-debt-with-the-international-monetary-fund.md)

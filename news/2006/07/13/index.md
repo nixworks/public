@@ -27,7 +27,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ A man claiming to represent Al-Qaeda in India claims that they have set up a network in Kashmir and appeals to Indian Muslims to take up jihad. ](/news/2006/07/13/a-man-claiming-to-represent-al-qaeda-in-india-claims-that-they-have-set-up-a-network-in-kashmir-and-appeals-to-indian-muslims-to-take-up-ji.md)
 _Context: India, Kashmir, al-Qaeda, jihad_
 
-### [ 2006 Israel-Lebanon crisis:: Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/2006-israel-lebanon-crisis-haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes.md)
+### [ Haifa city is hit by rocket artillery fired from Lebanon. Israeli Ambassador to the US Daniel Ayalon describes the unprecedented strike on Haifa as a "major, major escalation" by Hezbollah. ](/news/2006/07/13/haifa-city-is-hit-by-rocket-artillery-fired-from-lebanon-israeli-ambassador-to-the-us-daniel-ayalon-describes-the-unprecedented-strike-on.md)
 (VIDEO) Hizbullah missile lands in Haifa, no casualties reported; 6 rockets hit central Nahariya as President Moshe Katsav tours city, 7 people lightly injured in attack. One dead, 18 injured in barrage on Safed
 
 ## [Previous Day...](/news/2006/07/12/index.md)

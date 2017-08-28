@@ -13,7 +13,7 @@ The vote today opened the way for the Sunni coalition that had installed him to 
 _Context: Fujian, Guangdong, Guangxi Zhuang, Guizhou, Hunan, Jiangxi, flooding_
 
 ### [ Majeedah Bolkiah&mdash;daughter of Hassanal Bolkiah, Sultan of Brunei&mdash;marries Khairul Khalil, an official in the office of the Prime Minister in a lavish Islamic wedding ceremony. ](/news/2007/06/11/majeedah-bolkiah-mdash-daughter-of-hassanal-bolkiah-sultan-of-brunei-mdash-marries-khairul-khalil-an-official-in-the-office-of-the-prime.md)
-_Context: Brunei, Hassanal Bolkiah, Islam, Khairul Khalil, Majeedah Bolkiah, Prime Minister, Sultan, wedding_
+_Context: Brunei, Hassanal Bolkiah, Khairul Khalil, Majeedah Bolkiah, Muslims, Prime Minister, Sultan, wedding_
 
 ### [ Newcastle, New South Wales remains on alert for rising floodwaters from the Hunter River as people evacuated from Maitland, New South Wales return to their home. ](/news/2007/06/11/newcastle-new-south-wales-remains-on-alert-for-rising-floodwaters-from-the-hunter-river-as-people-evacuated-from-maitland-new-south-wales.md)
 _Context: Hunter River, Maitland, New South Wales, Newcastle, flood_

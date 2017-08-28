@@ -15,8 +15,8 @@ _Context: China, drought, state of emergency_
 ### [ Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md)
 _Context: Faina, MV, Somali pirates, Somalia, US$, Ukraine, ransom_
 
-### [ Late 2000s recession:: The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/late-2000s-recession-the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md)
-_Context: Bank of England, base rate, interest, late 2000s recession_
+### [ The Bank of England reduces the base rate of interest to a new historic low of 1%. ](/news/2009/02/5/the-bank-of-england-reduces-the-base-rate-of-interest-to-a-new-historic-low-of-1.md)
+_Context: Bank of England, base rate, interest_
 
 ### [ At least 10 people are killed in a Brazilian Federal Police raid in Rio de Janeiro. ](/news/2009/02/5/at-least-10-people-are-killed-in-a-brazilian-federal-police-raid-in-rio-de-janeiro.md)
 _Context: Brazil, Brazilian police, Rio de Janeiro_
@@ -30,7 +30,7 @@ _Context: Japan, Japanese police, Kazutsugi Nami, US$, investment scam_
 ### [ Three members of the State Legislative Assembly in Perak state, Malaysia from the People's Alliance declare themselves independent and pledge support for the National Front, sparking a constitutional crisis. ](/news/2009/02/5/three-members-of-the-state-legislative-assembly-in-perak-state-malaysia-from-the-people-s-alliance-declare-themselves-independent-and-pled.md)
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
-### [ Zimbabwe's House of Assembly allows power-sharing between the African National Union - Patriotic Front and the Movement for Democratic Change. ](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharing-between-the-african-national-union-patriotic-front-and-the-movement-for-democratic-ch.md)
+### [ Zimbabwe's House of Assembly allows power-sharing between the African National Union - Patriotic Front and the Movement for Democratic Change. ](/news/2009/02/5/zimbabwe-s-house-of-assembly-allows-power-sharing-between-the-african-national-union-a-patriotic-front-and-the-movement-for-democratic-ch.md)
 _Context: House of Assembly, Movement for Democratic Change, ZANU-PF, Zimbabwe, allows, power-sharing_
 
 ### [ A suicide bomber kills 24 people and injures at least 40 in Dera Ghazi Khan, Pakistan. ](/news/2009/02/5/a-suicide-bomber-kills-24-people-and-injures-at-least-40-in-dera-ghazi-khan-pakistan.md)

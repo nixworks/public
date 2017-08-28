@@ -12,4 +12,4 @@
 
 ### Related:
 
-1. [2014 Crimean crisis and The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/2014-crimean-crisis-and-the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000-people-participated-in-anti-war.md) _Context: March of Peace_
+1. [The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000-people-participated-in-anti-war-protests-in-moscow.md) _Context: March of Peace_

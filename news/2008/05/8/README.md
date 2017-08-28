@@ -13,7 +13,7 @@ _Context: Barney Frank, US$, United States House of Representatives, United Stat
 _Context: Abu Ayyub al-Masri, Iraq, Iraqi Defense Minister, al-Qaeda in Iraq_
 
 ### [ North Korea hands over thousands of pages about its nuclear program to a visiting diplomat from the United States that will help verify its plutonium holdings. ](/news/2008/05/8/north-korea-hands-over-thousands-of-pages-about-its-nuclear-program-to-a-visiting-diplomat-from-the-united-states-that-will-help-verify-its.md)
-_Context: North Korea, Nuclear program of North Korea, United States, diplomat, plutonium_
+_Context: North Korea, United States, diplomat, nuclear program, plutonium_
 
 ### [ Russia expels two United States military attachs following earlier expulsion of two Russian diplomats from the United States. ](/news/2008/05/8/russia-expels-two-united-states-military-attaches-following-earlier-expulsion-of-two-russian-diplomats-from-the-united-states.md)
 _Context: Russia, United States, military attach_
@@ -27,9 +27,7 @@ _Context: 2008 unrest in Lebanon, Beirut, Hezbollah, Lebanon_
 ### [ The 2008 Summer Olympics torch relay reaches the peak of Mount Everest. ](/news/2008/05/8/the-2008-summer-olympics-torch-relay-reaches-the-peak-of-mount-everest.md)
 _Context: 2008 Summer Olympics torch relay, Mount Everest_
 
-### [ Cyclone Nargis:: An international relief operation begins after cyclone Nargis strikes Burma, with at least 63,500 people reported killed or missing. ](/news/2008/05/8/cyclone-nargis-an-international-relief-operation-begins-after-cyclone-nargis-strikes-burma-with-at-least-63-500-people-reported-killed-o.md)
-_Context: Cyclone Nargis_
-
+### [ An international relief operation begins after cyclone Nargis strikes Burma, with at least 63,500 people reported killed or missing. ](/news/2008/05/8/an-international-relief-operation-begins-after-cyclone-nargis-strikes-burma-with-at-least-63-500-people-reported-killed-or-missing.md)
 ### [ Silvio Berlusconi is sworn in as Prime Minister of Italy for the fourth time. ](/news/2008/05/8/silvio-berlusconi-is-sworn-in-as-prime-minister-of-italy-for-the-fourth-time.md)
 _Context: Italian Prime Minister, Silvio Berlusconi_
 

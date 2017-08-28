@@ -1,6 +1,6 @@
 ## [2013-10-7](/news/2013/10/7/index.md)
 
-### [Islamist protests in Egypt (July 2013-present): Six Egyptian soldiers are killed in an ambush west of Ismailia, close to the Suez Canal. In the South Sinai, a suicide bomber kills 3 and injures 55 others after an attack against security buildings in the provincial capital El-Tor. ](/news/2013/10/7/islamist-protests-in-egypt-july-2013-present-six-egyptian-soldiers-are-killed-in-an-ambush-west-of-ismaa-lia-close-to-the-suez-canal.md)
+### [Six Egyptian soldiers are killed in an ambush west of Ismailia, close to the Suez Canal. In the South Sinai, a suicide bomber kills 3 and injures 55 others after an attack against security buildings in the provincial capital El-Tor. ](/news/2013/10/7/six-egyptian-soldiers-are-killed-in-an-ambush-west-of-ismaa-lia-close-to-the-suez-canal-in-the-south-sinai-a-suicide-bomber-kills-3-and-i.md)
 Suspected militants killed six Egyptian soldiers near the Suez Canal and fired rocket-propelled grenades at a state satellite station in Cairo on Monday, suggesting an Islamist insurgency was gathering pace three months after an army takeover.
 
 ### [Typhoon Fitow makes landfall in the Chinese province of Fujian, bringing heavy rain and killing at least two people. ](/news/2013/10/7/typhoon-fitow-makes-landfall-in-the-chinese-province-of-fujian-bringing-heavy-rain-and-killing-at-least-two-people.md)

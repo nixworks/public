@@ -1,6 +1,6 @@
 ## [2011-07-29](/news/2011/07/29/index.md)
 
-### [2011 Syrian uprising: An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/2011-syrian-uprising-an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md)
+### [An oil pipeline near the city of Homs is blown up by "saboteurs", according to the state news agency. ](/news/2011/07/29/an-oil-pipeline-near-the-city-of-homs-is-blown-up-by-saboteurs-according-to-the-state-news-agency.md)
 Syrian forces shot dead at least 20 civilians in attacks on pro-democracy demonstrations across the country on Friday, the Syrian human rights organization Sawasiah said.
 
 ### [2011 Bahraini uprising: King Hamad bin Isa Al Khalifa approves parliamentary reforms, which are rejected by opposition groups. ](/news/2011/07/29/2011-bahraini-uprising-king-hamad-bin-isa-al-khalifa-approves-parliamentary-reforms-which-are-rejected-by-opposition-groups.md)
@@ -36,7 +36,7 @@ The chief of the Turkish armed forces, Isik Kosaner, resigns along with the head
 ### [Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. ](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.md)
 _Context: 2008 Mumbai terrorist attacks, Ajmal Kasab, India_
 
-### [News International phone hacking scandal: The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/news-international-phone-hacking-scandal-the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-ph.md)
+### [The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". ](/news/2011/07/29/the-legal-team-representing-glenn-mulcaire-the-private-investigator-at-the-centre-of-claims-of-phone-hacking-says-that-he-acted-on-the-in.md)
 Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, &quot;acted on the instructions of others&quot;, his legal team says.
 
 ### [Christopher Jefferies, an early suspect in the investigation into the murder of Joanna Yeates, accepts "substantial" libel damages from eight British newspapers after they published details of his private life. "The Sun" and "Daily Mirror" are also fined for contempt of court in their reporting of the investigation. ](/news/2011/07/29/christopher-jefferies-an-early-suspect-in-the-investigation-into-the-murder-of-joanna-yeates-accepts-substantial-libel-damages-from-eigh.md)

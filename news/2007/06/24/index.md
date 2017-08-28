@@ -12,8 +12,8 @@ _Context: Colombia, Spanish language, UNIFIL, bomb_
 ### [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2007/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md)
 _Context: Karachi, Pakistan, storm_
 
-### [ "Government of the United Kingdom:": Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/government-of-the-united-kingdom-gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-r.md)
-_Context: 27 June, Gordon Brown, Labour, Politics of the United Kingdom, Prime Minister, Tony Blair_
+### [ Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. ](/news/2007/06/24/gordon-brown-becomes-the-leader-of-the-labour-party-replacing-prime-minister-tony-blair-brown-will-replace-blair-on-27-june.md)
+_Context: 27 June, Gordon Brown, Labour, Prime Minister, Tony Blair_
 
 ## [Previous Day...](/news/2007/06/23/index.md)
 

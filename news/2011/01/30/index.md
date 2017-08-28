@@ -1,12 +1,12 @@
 ## [2011-01-30](/news/2011/01/30/index.md)
 
-### [2011 Egyptian protests:: Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/2011-egyptian-protests-demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-conti.md)
+### [Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. ](/news/2011/01/30/demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-continue.md)
 Al Jazeera English is available free-to-air through satellite and cable providers around the world.
 
 ### [2011 Sudan protests: Anti-government demonstrators face off against riot police who fire tear gas and beat up students in Khartoum during protests inspired by those in Egypt and Tunisia. ](/news/2011/01/30/2011-sudan-protests-anti-government-demonstrators-face-off-against-riot-police-who-fire-tear-gas-and-beat-up-students-in-khartoum-during-pr.md)
 Anti-government demonstrators in Khartoum faced riot police in protests inspired by those in Egypt and Tunisia.
 
-### [2010-2011 Tunisian uprising: Rachid Ghannounchi, leader of the once banned Ennahda party, flies back to the country from London after 22 years in exile following the ousting of President Zine El Abidine Ben Ali. ](/news/2011/01/30/2010-2011-tunisian-uprising-rachid-ghannounchi-leader-of-the-once-banned-ennahda-party-flies-back-to-the-country-from-london-after-22-y.md)
+### [2010-2011 Tunisian uprising: Rachid Ghannounchi, leader of the once banned Ennahda party, flies back to the country from London after 22 years in exile following the ousting of President Zine El Abidine Ben Ali. ](/news/2011/01/30/2010a2011-tunisian-uprising-rachid-ghannounchi-leader-of-the-once-banned-ennahda-party-flies-back-to-the-country-from-london-after-22-y.md)
 Rachid Ghannouchi, leader of the previously banned al-Nahda party, returns home after 21 years in the UK.
 
 ### [Thousands of people march in Derry, Northern Ireland, in memory of those killed by British troops in the 1972 Bloody Sunday massacre of civil rights protesters and local bystanders. It is intended to be the final such march after the British government admitted last year that its troops had been responsible for carrying out the Bogside massacre. ](/news/2011/01/30/thousands-of-people-march-in-derry-northern-ireland-in-memory-of-those-killed-by-british-troops-in-the-1972-bloody-sunday-massacre-of-civi.md)
@@ -15,7 +15,7 @@ Thousands of people took part in what is expected to be the final march in Derry
 ### [A fire in an arms depot of the Anonymous Venezuelan Campaign of Military Industries (CAVIM) in Maracy city of Aragua state killed at least one person and forced authorities to evacuate about 10,000 people. ](/news/2011/01/30/a-fire-in-an-arms-depot-of-the-anonymous-venezuelan-campaign-of-military-industries-cavim-in-maracy-city-of-aragua-state-killed-at-least-o.md)
 _Context: Aragua state, CAVIM, Maracy, Venezuela_
 
-### [Screen Actors Guild Awards: The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/screen-actors-guild-awards-the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the.md)
+### [The cast of "The King's Speech" wins the award for Outstanding Performance by a Cast in a Motion Picture at the 17th Screen Actors Guild Awards. ](/news/2011/01/30/the-cast-of-the-king-s-speech-wins-the-award-for-outstanding-performance-by-a-cast-in-a-motion-picture-at-the-17th-screen-actors-guild-awa.md)
 _Context: 17th Screen Actors Guild Awards, Screen Actors Guild Awards, The King's Speech_
 
 ### [Alpha Natural Resources buys out Massey Energy for $7.1billion, making Alpha the second largest U.S. coal mining company by market value.](/news/2011/01/30/alpha-natural-resources-buys-out-massey-energy-for-7-1billion-making-alpha-the-second-largest-u-s-coal-mining-company-by-market-value.md)

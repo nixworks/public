@@ -1,9 +1,9 @@
 ## [2013-01-10](/news/2013/01/10/index.md)
 
-### [January 2013 Pakistan bombings:: Twin bombings at a billiard hall in the southwestern Pakistani city of Quetta kill at least 81 people and wound up to 120 others, hours after a bombing at a market area killed 11 people in the same city. ](/news/2013/01/10/january-2013-pakistan-bombings-twin-bombings-at-a-billiard-hall-in-the-southwestern-pakistani-city-of-quetta-kill-at-least-81-people-and-w.md)
+### [Twin bombings at a billiard hall in the southwestern Pakistani city of Quetta kill at least 81 people and wound up to 120 others, hours after a bombing at a market area killed 11 people in the same city. ](/news/2013/01/10/twin-bombings-at-a-billiard-hall-in-the-southwestern-pakistani-city-of-quetta-kill-at-least-81-people-and-wound-up-to-120-others-hours-afte.md)
 Twin blasts at a snooker hall in the south-western Pakistani city of Quetta kill 81 people, police say, after 11 died in an earlier market bombing.
 
-### [Northern Mali conflict (2012-present):: Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/northern-mali-conflict-2012-present-islamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md)
+### [Islamists capture the town of Konna, previously held by the Malian army. ](/news/2013/01/10/islamists-capture-the-town-of-konna-previously-held-by-the-malian-army.md)
 Islamist rebels drove the Malian army out of the strategic northern town of Konna on Thursday, residents said, in the fiercest fighting since militant groups seized control of northern Mali nine months ago.
 
 ### [2013 Neuhausen am Rheinfall train collision: Two trains collide and derail in Neuhausen am Rheinfall, Switzerland, injuring 17 people. ](/news/2013/01/10/2013-neuhausen-am-rheinfall-train-collision-two-trains-collide-and-derail-in-neuhausen-am-rheinfall-switzerland-injuring-17-people.md)

@@ -12,7 +12,7 @@ Hezbollah hands a tribunal what it claims is evidence of Israeli involvement in 
 ### [A Ugandan lawmaker accuses the army of committing atrocities against civilians in the Karamoja region as part of a disarmament exercise. ](/news/2010/08/17/a-ugandan-lawmaker-accuses-the-army-of-committing-atrocities-against-civilians-in-the-karamoja-region-as-part-of-a-disarmament-exercise.md)
 A Uganda MP accuses soldiers of carrying out torture and killings in a campaign to disarm an area where cattle-rustling is common.
 
-### [Iraq: At least 61 people are killed and over one hundred are injured in a suicide bombing at an Iraqi Army recruiting centre in Baghdad, Iraq. ](/news/2010/08/17/iraq-at-least-61-people-are-killed-and-over-one-hundred-are-injured-in-a-suicide-bombing-at-an-iraqi-army-recruiting-centre-in-baghdad-ira.md)
+### [At least 61 people are killed and over one hundred are injured in a suicide bombing at an Iraqi Army recruiting centre in Baghdad, Iraq. ](/news/2010/08/17/at-least-61-people-are-killed-and-over-one-hundred-are-injured-in-a-suicide-bombing-at-an-iraqi-army-recruiting-centre-in-baghdad-iraq.md)
 Some&#x20;60&#x20;people&#x20;have&#x20;been&#x20;killed&#x20;and&#x20;scores&#x20;more&#x20;injured&#x20;after&#x20;a&#x20;suicide&#x20;attack&#x20;on&#x20;an&#x20;army&#x20;recruitment&#x20;centre&#x20;in&#x20;the&#x20;Iraqi&#x20;capital&#x20;of&#x20;Baghdad,&#x20;officials&#x20;say.
 
 ### [A Palestinian man from Ramallah threatens to blow up the Turkish embassy in Tel Aviv, Israel if not offered asylum, but is shot by security staff. ](/news/2010/08/17/a-palestinian-man-from-ramallah-threatens-to-blow-up-the-turkish-embassy-in-tel-aviv-israel-if-not-offered-asylum-but-is-shot-by-security.md)

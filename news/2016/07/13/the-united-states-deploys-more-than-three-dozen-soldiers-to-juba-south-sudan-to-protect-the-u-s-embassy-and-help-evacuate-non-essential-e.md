@@ -1,6 +1,6 @@
 ### [2016-07-13](/news/2016/07/13/index.md)
 
-# The United States deploys more than three dozen soldiers to Juba, South Sudan, to protect the U.S. embassy and help evacuate non-essential embassy staff due to local clashes.  
+# The United States deploys more than three dozen soldiers to Juba, South Sudan, to protect the U.S. embassy and help evacuate non-essential embassy staff due to local clashes. 
 
 South Sudan: U.S. troops were rushed to evacuate Americans and embassy personnel in the capital amid renewed fighting that is creating a humanitarian crisis.
 

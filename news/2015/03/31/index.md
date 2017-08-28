@@ -6,8 +6,8 @@ At least 15 people have died in landslides following floods in Indian-administer
 ### [Large parts of Turkey experience a power outage affecting public services and infrastructure including air traffic control, trams, and subways in Istanbul. As much as 65% of the country is without power. ](/news/2015/03/31/large-parts-of-turkey-experience-a-power-outage-affecting-public-services-and-infrastructure-including-air-traffic-control-trams-and-subwa.md)
 _Context: Istanbul, Turkey, air traffic control, power outage_
 
-### [Germanwings Flight 9525:: Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-flight-9525-germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lub.md)
-_Context: Germanwings Flight 9525, Lufthansa_
+### [Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubitz-before-the-crash.md)
+_Context: Lufthansa_
 
 ### [The journal Nature Neuroscience publishes research from Columbia University Medical School that finds that wage income of parents correlates with brain complexity in their children. ](/news/2015/03/31/the-journal-nature-neuroscience-publishes-research-from-columbia-university-medical-school-that-finds-that-wage-income-of-parents-correlates.md)
 _Context: Columbia University Medical School, Nature Neuroscience, correlates_
@@ -18,13 +18,13 @@ A Malaysian court finds a local man guilty of murdering two British medical stud
 ### [A prisoner accused of multiple bank robberies escapes from a hospital in Falls Church, Virginia after stealing a guard's gun. Washington, D.C. police capture him. ](/news/2015/03/31/a-prisoner-accused-of-multiple-bank-robberies-escapes-from-a-hospital-in-falls-church-virginia-after-stealing-a-guard-s-gun-washington-d.md)
 _Context: Falls Church, Virginia, Washington, D.C._
 
-### [In a courthouse in Istanbul, the Revolutionary People's Liberation Party-Front of Turkey takes hostage the prosecutor handling the case of a 15-year-old who died in a police gas attack. The situation ends with police killing the gunmen. The prosecutor later dies at a hospital. ](/news/2015/03/31/in-a-courthouse-in-istanbul-the-revolutionary-people-s-liberation-party-front-of-turkey-takes-hostage-the-prosecutor-handling-the-case-of.md)
+### [In a courthouse in Istanbul, the Revolutionary People's Liberation Party-Front of Turkey takes hostage the prosecutor handling the case of a 15-year-old who died in a police gas attack. The situation ends with police killing the gunmen. The prosecutor later dies at a hospital. ](/news/2015/03/31/in-a-courthouse-in-istanbul-the-revolutionary-people-s-liberation-partyafront-of-turkey-takes-hostage-the-prosecutor-handling-the-case-of.md)
 A Turkish prosecutor and two gunmen who took him hostage have been killed after a shootout in Istanbul, officials say.
 
 ### [An incident at a shooting range complex in Bucharest, Romania leaves two people dead. ](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.md)
 _Context: Bucharest, Romania_
 
-### [Nigerian general election, 2015: Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-general-election-2015-nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-al.md)
+### [Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-all-progressives-congress-as-the-ne.md)
 Muhammadu Buhari was elected president of Nigeria, defeating the incumbent Goodluck Jonathan and setting the stage for the first transfer of power from the People&#039;s Democratic Party since the end of military rule 16 years ago.
 
 ## [Previous Day...](/news/2015/03/30/index.md)

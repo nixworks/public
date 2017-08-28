@@ -3,13 +3,13 @@
 ### [3 people killed in Pibor county of Jonglei state of Sudan. ](/news/2010/10/4/3-people-killed-in-pibor-county-of-jonglei-state-of-sudan.md)
 _Context: Jonglei, Pibor, Sudan_
 
-### [Afghanistan and Pakistan: Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/afghanistan-and-pakistan-three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in.md)
+### [Three soldiers with the NATO-led International Security Assistance Force (ISAF) were killed in separate attacks in Afghanistan's restive southern and eastern regions. ](/news/2010/10/4/three-soldiers-with-the-nato-led-international-security-assistance-force-isaf-were-killed-in-separate-attacks-in-afghanistan-s-restive-sou.md)
 Three people were killed on Monday and up to eight others wounded when about 20 NATO oil tankers were attacked and set ablaze near the Pakistani capital, in the second mass torching in days.
 
 ### [Jewish settlers in the West Bank set fire to the Muslim Al-Anbiaa mosque in Beit Fajjar area near the Palestinian city of Bethlehem. Its rug ground and some parts of the Qur'an are burnt and anti-Islamic and anti-Palestinian slogans are written. ](/news/2010/10/4/jewish-settlers-in-the-west-bank-set-fire-to-the-muslim-al-anbiaa-mosque-in-beit-fajjar-area-near-the-palestinian-city-of-bethlehem-its-rug.md)
 Emotions run high after mosque in occupied territory is set ablaze by settlers in early morning attack in Beit Fajjar.
 
-### [War in Iraq: 89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/war-in-iraq-89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-televi.md)
+### [89 people are killed in violence in Baghdad and northern Iraq, including a journalist for a US-funded Al Hurra satellite television station. ](/news/2010/10/4/89-people-are-killed-in-violence-in-baghdad-and-northern-iraq-including-a-journalist-for-a-us-funded-al-hurra-satellite-television-station.md)
 BAGHDAD ·— Ten people were killed in violence in Baghdad and northern Iraq on Monday, including a journalist for a US-funded television station, medical...
 
 ### [5 Tajik policemen are killed in a clash in East Tajikistan. ](/news/2010/10/4/5-tajik-policemen-are-killed-in-a-clash-in-east-tajikistan.md)
@@ -48,7 +48,7 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 ### [Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. ](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.md)
 _Context: Agung Laksono, Indonesia, Wasior, West Papua_
 
-### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University-s faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
+### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
 _Context: Guzelburc, Hatay Province, Mustafa Kemal University_
 
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
@@ -57,10 +57,10 @@ _Context: Netravati Express, Panachuvadu, Punnapra_
 ### [At least 26 are killed and many more left missing after flash floods in eastern Indonesia's Papua province. ](/news/2010/10/4/at-least-26-are-killed-and-many-more-left-missing-after-flash-floods-in-eastern-indonesia-s-papua-province.md)
 _Context: Indonesia, Papua_
 
-### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asia-europe-meeting.md)
+### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
 _Context: Asia-Europe Meeting, Naoto Kan, Wen Jiabao_
 
-### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asia-europe-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
+### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
 _Context: Asia-Europe Meeting_
 
 ### [China's State Councilor Dai Bingguo delivers a speech at the opening session of the United Nations Framework Convention on Climate Change meeting in Tianjin before the U.N. climate summit in Mexico at year's end. ](/news/2010/10/4/china-s-state-councilor-dai-bingguo-delivers-a-speech-at-the-opening-session-of-the-united-nations-framework-convention-on-climate-change-me.md)
@@ -96,7 +96,7 @@ _Context: Gainesville, Florida_
 ### [Tens of thousands of people protest about tree-felling in Stuttgart and are confronted by police wielding water cannon and pepper spray. ](/news/2010/10/4/tens-of-thousands-of-people-protest-about-tree-felling-in-stuttgart-and-are-confronted-by-police-wielding-water-cannon-and-pepper-spray.md)
 Clashes between police and protesters in Stuttgart hit a raw nerve in Germany as railway modernisation involves digging up a park.
 
-### [Brazilian elections:: The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/brazilian-elections-the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md)
+### [The Brazilian presidential election heads for a second round, with Dilma Rousseff polling most votes. ](/news/2010/10/4/the-brazilian-presidential-election-heads-for-a-second-round-with-dilma-rousseff-polling-most-votes.md)
 A Brazilian clown is elected to Congress with more votes than any other candidate, while ex-footballer Romario is also chosen to represent Rio de Janeiro.
 
 ### [A Japanese judicial panel calls for charges against top Democratic Party (DPJ) figure Ichiro Ozawa. ](/news/2010/10/4/a-japanese-judicial-panel-calls-for-charges-against-top-democratic-party-dpj-figure-ichira-ozawa.md)
@@ -108,7 +108,7 @@ _Context: Lima, Susana Villaran_
 ### [The Cuban government considers another large-scale round of political prisoner releases after the release of 52 in July. ](/news/2010/10/4/the-cuban-government-considers-another-large-scale-round-of-political-prisoner-releases-after-the-release-of-52-in-july.md)
 The Cuban government is considering another large-scale release of political prisoners, reports say.
 
-### [Nobel Prize in Physiology or Medicine:: Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/nobel-prize-in-physiology-or-medicine-robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his.md)
+### [Robert Geoffrey Edwards of the United Kingdom wins the Nobel Prize in Physiology or Medicine for his role in developing in vitro fertilisation. ](/news/2010/10/4/robert-geoffrey-edwards-of-the-united-kingdom-wins-the-nobel-prize-in-physiology-or-medicine-for-his-role-in-developing-in-vitro-fertilisati.md)
 The man who devised the fertility treatment IVF is awarded the Nobel prize for medicine.
 
 ### [The first Census of Marine Life (CoML), a 10-year major international project described as the most comprehensive study of its kind, is completed, sparking celebration among scientists. ](/news/2010/10/4/the-first-census-of-marine-life-coml-a-10-year-major-international-project-described-as-the-most-comprehensive-study-of-its-kind-is-comp.md)

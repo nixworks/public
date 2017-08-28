@@ -15,13 +15,13 @@ _Context: Alabama, Kentucky, Middle, Mississippi, Nashville, Tennessee_
 ### [Thai Prime Minister Abhisit Vejjajiva proposes to hold elections on 14 November to end the political crisis in the country. ](/news/2010/05/3/thai-prime-minister-abhisit-vejjajiva-proposes-to-hold-elections-on-14-november-to-end-the-political-crisis-in-the-country.md)
 _Context: Abhisit Vejjajiva, Thailand, political crisis_
 
-### [World Press Freedom Day:: Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/world-press-freedom-day-journalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaoun.md)
-_Context: Bibi Ngota, Cameroon, World Press Freedom Day, Yaounde_
+### [Journalists protesting against the prison death of Cameroon newspaper editor Bibi Ngota clash with police in Yaounde as hundreds are prevented from staging a sit-in at the office of the prime minister. ](/news/2010/05/3/journalists-protesting-against-the-prison-death-of-cameroon-newspaper-editor-bibi-ngota-clash-with-police-in-yaounda-c-as-hundreds-are-preven.md)
+_Context: Bibi Ngota, Cameroon, Yaounde_
 
 ### [The Irish Aviation Authority closes Donegal Airport, cancels at least two flights and announces the closure of all airspace in Ireland on Monday due to Icelandic volcanic ash, while British Airports, including some in Scotland, may also be affected due to continued eruptions of Eyjafjallajokull volcano. ](/news/2010/05/3/the-irish-aviation-authority-closes-donegal-airport-cancels-at-least-two-flights-and-announces-the-closure-of-all-airspace-in-ireland-on-mo.md)
 Irish airspace will close from 7am tomorrow because of an ash cloud drifting down from Iceland.
 
-### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other-s countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-other-s-countries-nu.md)
+### [Iranian President Mahmoud Ahmadinejad and United States Secretary of State Hillary Clinton exchange criticism of each other's countries nuclear policies at the opening of the Nuclear Non-proliferation Treaty Review Conference at the United Nations Headquarters in New York. ](/news/2010/05/3/iranian-president-mahmoud-ahmadinejad-and-united-states-secretary-of-state-hillary-clinton-exchange-criticism-of-each-otheras-countries-nu.md)
 _Context: Hillary Clinton, Mahmoud Ahmadinejad, New York City, Nuclear Non-Proliferation Treaty, President, Review Conference, United Nations Headquarters, United States Secretary of State_
 
 ### [Australian mining stocks plummet after the government passes a new 40% profit tax on the industry. International mining companies warn that many new mining projects may be canceled. ](/news/2010/05/3/australian-mining-stocks-plummet-after-the-government-passes-a-new-40-profit-tax-on-the-industry-international-mining-companies-warn-that.md)

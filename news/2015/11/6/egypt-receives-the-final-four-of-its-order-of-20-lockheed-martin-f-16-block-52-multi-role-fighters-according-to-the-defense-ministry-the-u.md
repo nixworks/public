@@ -1,6 +1,6 @@
 ### [2015-11-6](/news/2015/11/6/index.md)
 
-# Egypt receives the final four of its order of 20 Lockheed Martin F-16 Block 52 multi-role fighters, according to the Defense Ministry. The United States had delayed delivery   following the 2013 coup d'etat. 
+# Egypt receives the final four of its order of 20 Lockheed Martin F-16 Block 52 multi-role fighters, according to the Defense Ministry. The United States had delayed delivery following the 2013 coup d'etat. 
 
 
 

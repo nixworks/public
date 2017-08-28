@@ -24,7 +24,7 @@ _Context: Baghdad, Iraq, United States, al-Qaeda, civilian_
 ### [ 2008 submarine cable disruption: the Egyptian transport ministry reports that footage of the areas where cables were snapped or damaged shows no maritime traffic. ](/news/2008/02/4/2008-submarine-cable-disruption-the-egyptian-transport-ministry-reports-that-footage-of-the-areas-where-cables-were-snapped-or-damaged-sho.md)
 _Context: Egypt, break, maritime_
 
-### [ U.S. President George W. Bush introduces a Federal budget of $3.1 trillion and a near-record deficit just ahead - $410 billion. ](/news/2008/02/4/u-s-president-george-w-bush-introduces-a-federal-budget-of-3-1-trillion-and-a-near-record-deficit-just-ahead-410-billion.md)
+### [ U.S. President George W. Bush introduces a Federal budget of $3.1 trillion and a near-record deficit just ahead -- $410 billion. ](/news/2008/02/4/u-s-president-george-w-bush-introduces-a-federal-budget-of-3-1-trillion-and-a-near-record-deficit-just-ahead-a-410-billion.md)
 The president’s budget plan, which foresees near-record deficits just ahead, is sure to meet resistance in the Democratic Congress.
 
 ## [Previous Day...](/news/2008/02/3/index.md)

@@ -6,16 +6,16 @@ _Context: Kamla Persad-Bissessar, Prime Minister, Trinidad and Tobago, United Na
 ### [The death toll as a result of severe flooding in Poland reaches 15 as Interior Minister Jerzy Miller says "The situation is worse than expected". ](/news/2010/05/24/the-death-toll-as-a-result-of-severe-flooding-in-poland-reaches-15-as-interior-minister-jerzy-miller-says-the-situation-is-worse-than-expec.md)
 THE DEATH toll from Poland&rsquo;s worst flooding in a century rose to 15 yesterday, as swollen rivers flowing north to the Baltic &hellip;
 
-### [Hamas announces that it will boycott Palestinian municipal elections, saying said that the elections were being held under the supervision of Prime Minister Salam Fayyad-s -unconstitutional government- and would lack fairness and credibility. ](/news/2010/05/24/hamas-announces-that-it-will-boycott-palestinian-municipal-elections-saying-said-that-the-elections-were-being-held-under-the-supervision-o.md)
+### [Hamas announces that it will boycott Palestinian municipal elections, saying said that the elections were being held under the supervision of Prime Minister Salam Fayyad's "unconstitutional government" and would lack fairness and credibility. ](/news/2010/05/24/hamas-announces-that-it-will-boycott-palestinian-municipal-elections-saying-said-that-the-elections-were-being-held-under-the-supervision-o.md)
 Islamist movements say elections &quot;illegal,&quot; designed to favor Fatah.
 
-### [Israel:: President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/israel-president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md)
+### [President of Israel Shimon Peres denies a claims that there was an alleged nuclear pact between Israel and South Africa. ](/news/2010/05/24/president-of-israel-shimon-peres-denies-a-claims-that-there-was-an-alleged-nuclear-pact-between-israel-and-south-africa.md)
 Australia expels an Israel diplomat after a probe blames Israel for the use of forged passports in the murder of a Hamas man.
 
-### [Operation Herrick:: Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/operation-herrick-colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about.md)
+### [Colonel Bob Seddon resigns as principal ammunition technical officer of the Royal Logistic Corps citing concerns about "the pressures on his team operating in Afghanistan". ](/news/2010/05/24/colonel-bob-seddon-resigns-as-principal-ammunition-technical-officer-of-the-royal-logistic-corps-citing-concerns-about-the-pressures-on-his.md)
 Colonel Bob Seddon, Britain&rsquo;s senior bomb disposal officer, has resigned his post after raising concerns for the welfare of his men.
 
-### [Sinking of the ROKS "Cheonan":: South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/sinking-of-the-roks-cheonan-south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed.md)
+### [South Korea cuts off trade with North Korea and announces that North Korean ships will no longer be allowed to use South Korean waters. The government demands an apology over the sinking. ](/news/2010/05/24/south-korea-cuts-off-trade-with-north-korea-and-announces-that-north-korean-ships-will-no-longer-be-allowed-to-use-south-korean-waters-the.md)
 The US announces joint naval exercises with Seoul after a report blamed N Korea for the sinking of a Southern warship.
 
 ### [Two police officers are killed and six others are wounded by gunmen during unrest in Jamaica's capital, Kingston. ](/news/2010/05/24/two-police-officers-are-killed-and-six-others-are-wounded-by-gunmen-during-unrest-in-jamaica-s-capital-kingston.md)
@@ -24,7 +24,7 @@ Fierce fighting erupts as Jamaican security forces hunting an alleged drugs lord
 ### [The first China-Europe High-Level Political Party Forum convenes in Beijing. ](/news/2010/05/24/the-first-china-europe-high-level-political-party-forum-convenes-in-beijing.md)
 _Context: Beijing_
 
-### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-china-strategic-and-economic-dialogue-begins-in-beijing-china.md)
+### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md)
 _Context: Beijing, China, U.S.-China Strategic and Economic Dialogue_
 
 ### [The assassination of Bashar al-Ageidi from the election-winning Iraqiya bloc of Ayad Allawi takes place outside his house in Mosul. ](/news/2010/05/24/the-assassination-of-bashar-al-ageidi-from-the-election-winning-iraqiya-bloc-of-ayad-allawi-takes-place-outside-his-house-in-mosul.md)

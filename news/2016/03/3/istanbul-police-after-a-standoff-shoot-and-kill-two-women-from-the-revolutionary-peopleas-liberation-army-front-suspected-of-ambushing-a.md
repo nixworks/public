@@ -1,6 +1,6 @@
 ### [2016-03-3](/news/2016/03/3/index.md)
 
-# Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People's Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city's European side. Two policemen were injured.  
+# Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People's Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city's European side. Two policemen were injured. 
 
 
 

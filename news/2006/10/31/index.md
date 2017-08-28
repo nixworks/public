@@ -1,6 +1,6 @@
 ## [2006-10-31](/news/2006/10/31/index.md)
 
-### [ Esperanza Fire: California authorities arrest a man who is suspected of intentionally starting two wildfires this summer and is considered a person of interest in the Esperanza Fire.: A fifth firefighter dies as a result of injuries obtained fighting the Esperanza Fire near Palm Springs, California started by arson. ](/news/2006/10/31/esperanza-fire-california-authorities-arrest-a-man-who-is-suspected-of-intentionally-starting-two-wildfires-this-summer-and-is-considered.md)
+### [ California authorities arrest a man who is suspected of intentionally starting two wildfires this summer and is considered a person of interest in the Esperanza Fire. A fifth firefighter dies as a result of injuries obtained fighting the Esperanza Fire near Palm Springs, California started by arson. ](/news/2006/10/31/california-authorities-arrest-a-man-who-is-suspected-of-intentionally-starting-two-wildfires-this-summer-and-is-considered-a-person-of-inte.md)
 _Context: California, Esperanza Fire, Palm Springs, California_
 
 ### [ A United States federal appeals court blocks a landmark judgment against the tobacco industry clearing the way for selling "light" and "low tar" cigarettes until industry appeals can be reviewed. ](/news/2006/10/31/a-united-states-federal-appeals-court-blocks-a-landmark-judgment-against-the-tobacco-industry-clearing-the-way-for-selling-light-and-low.md)
@@ -12,7 +12,7 @@ _Context: Hassan Nasrallah, Hezbollah, Israel, Secretary General_
 ### [ Galymzhan Zhakiyanov, a prominent Kazakhstani politician and one of the founders of Democratic Choice of Kazakhstan, says the Government of Kazakhstan should "look at other circumstances that have harmed Kazakhstan's image" instead of "fighting Borat." ](/news/2006/10/31/galymzhan-zhakiyanov-a-prominent-kazakhstani-politician-and-one-of-the-founders-of-democratic-choice-of-kazakhstan-says-the-government-of.md)
 _Context: Borat, Democratic Choice of Kazakhstan, Galymzhan Zhakiyanov, Government of Kazakhstan, Kazakhstan_
 
-### [ The Prince of Wales-s controversial visit today to a madrassa in the Pakistani town of Peshawar, bordering Afghanistan has been cancelled over fears for his safety, after calls by Islamic leaders for revenge for a Pakistani airstrike that destroyed another religious school about 60 miles away. ](/news/2006/10/31/the-prince-of-wales-s-controversial-visit-today-to-a-madrassa-in-the-pakistani-town-of-peshawar-bordering-afghanistan-has-been-cancelled.md)
+### [ The Prince of Wales's controversial visit today to a madrassa in the Pakistani town of Peshawar, bordering Afghanistan has been cancelled over fears for his safety, after calls by Islamic leaders for revenge for a Pakistani airstrike that destroyed another religious school about 60 miles away. ](/news/2006/10/31/the-prince-of-walesas-controversial-visit-today-to-a-madrassa-in-the-pakistani-town-of-peshawar-bordering-afghanistan-has-been-cancelled.md)
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ The Lebanese army issued a statement saying its gunners fired anti-aircraft artillery at Israel Air Force warplanes as they flew over south Lebanon. ](/news/2006/10/31/the-lebanese-army-issued-a-statement-saying-its-gunners-fired-anti-aircraft-artillery-at-israel-air-force-warplanes-as-they-flew-over-south.md)

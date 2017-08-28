@@ -3,8 +3,8 @@
 ### [2011 Libyan civil war: Rebels retake the town of Yafran in the west of the country. ](/news/2011/06/6/2011-libyan-civil-war-rebels-retake-the-town-of-yafran-in-the-west-of-the-country.md)
 _Context: Libyan Civil War, Yafran_
 
-### [2011 Syrian uprising:: At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/2011-syrian-uprising-at-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-ac.md)
-_Context: 2011 Syrian uprising, Jisr al-Shughour, Syria_
+### [At least 120 members of the Syrian security forces are killed in clashes in the northern town of Jisr al-Shughour, according to state media. ](/news/2011/06/6/at-least-120-members-of-the-syrian-security-forces-are-killed-in-clashes-in-the-northern-town-of-jisr-al-shughour-according-to-state-media.md)
+_Context: Jisr al-Shughour, Syria_
 
 ### [2011 Bahraini protests: Medical staff who treated anti-government demonstrators are charged with attempting to overthrow the monarchy. ](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.md)
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
@@ -18,7 +18,7 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 ### [Shooting takes place in Kaduqli in Sudan's South Kordofan state, where armed groups allied to South Sudan are based. ](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.md)
 _Context: Kaduqli, South Kordofan, South Sudan, Sudan_
 
-### [2011 Xilinhot incident: Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/2011-xilinhot-incident-around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
+### [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
 _Context: 2011 Xilinhot incident, China, Inner Mongolia_
 
 ### [North Korea is to establish a special economic zone on two islands close to the Chinese border. ](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.md)

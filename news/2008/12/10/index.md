@@ -1,7 +1,7 @@
 ## [2008-12-10](/news/2008/12/10/index.md)
 
 ### [ Talks on North Korea's nuclear program stall in a dispute over verification. ](/news/2008/12/10/talks-on-north-korea-s-nuclear-program-stall-in-a-dispute-over-verification.md)
-_Context: Nuclear program of North Korea_
+_Context: nuclear program_
 
 ### [ Automotive industry crisis of 2008: The White House and U.S. Congress agree on a proposal for a US$15 billion bailout package for three major US automakers. ](/news/2008/12/10/automotive-industry-crisis-of-2008-the-white-house-and-u-s-congress-agree-on-a-proposal-for-a-us-15-billion-bailout-package-for-three-maj.md)
 _Context: U.S. Congress, US$, White House, global crisis_

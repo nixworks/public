@@ -1,6 +1,6 @@
 ### [2008-04-7](/news/2008/04/7/index.md)
 
-#   The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. 
+#  The Olympic torch is extinguished by officials as police are confronted by protesters during the Olympic torch relay through Paris. 
 
 
 

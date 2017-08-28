@@ -1,12 +1,12 @@
 ## [2005-10-10](/news/2005/10/10/index.md)
 
-### [ New Orleans:: Three New Orleans officers accused of near fatally beating Robert Davis and assaulting a cameraman who taped the ordeal, plead not guilty.: Allegations that New Orleans police looted 200 cars (41 Cadillacs) are under investigation by Louisiana police.](/news/2005/10/10/new-orleans-three-new-orleans-officers-accused-of-near-fatally-beating-robert-davis-and-assaulting-a-cameraman-who-taped-the-ordeal-plea.md)
+### [ Three New Orleans officers accused of near fatally beating Robert Davis and assaulting a cameraman who taped the ordeal, plead not guilty. Allegations that New Orleans police looted 200 cars (41 Cadillacs) are under investigation by Louisiana police.](/news/2005/10/10/three-new-orleans-officers-accused-of-near-fatally-beating-robert-davis-and-assaulting-a-cameraman-who-taped-the-ordeal-plead-not-guilty.md)
 _Context: New Orleans, Robert Davis, not guilty_
 
 ### [ The Japan Aerospace Exploration Agency successfully tests a $10 million jet that travels at twice the speed of sound. ](/news/2005/10/10/the-japan-aerospace-exploration-agency-successfully-tests-a-10-million-jet-that-travels-at-twice-the-speed-of-sound.md)
 _Context: Japan Aerospace Exploration Agency, speed of sound_
 
-### [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children-s Village in Muzaffarabad all of the children in their care are believed safe. [http://www.sos-childrensvillages.org/News-and-Media/News/Pages/Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-children-s-village-in-muzaffarabad-all.md)
+### [ 2005 Kashmir earthquake: SOS Children have reported that despite the destruction of much of their Children's Village in Muzaffarabad all of the children in their care are believed safe. [http://www.sos-childrensvillages.org/News-and-Media/News/Pages/Children-in-need-of-shelter-and-protection-South-Asia-Earthquake.aspx]](/news/2005/10/10/2005-kashmir-earthquake-sos-children-have-reported-that-despite-the-destruction-of-much-of-their-childrenas-village-in-muzaffarabad-all.md)
 _Context: 2005 Kashmir earthquake, Muzaffarabad, SOS Children_
 
 ### [ Conflict in Iraq: Insurgent attacks throughout Iraq leave seven Iraqis, two security officials from the Arab league and one U.S. soldier dead. ](/news/2005/10/10/conflict-in-iraq-insurgent-attacks-throughout-iraq-leave-seven-iraqis-two-security-officials-from-the-arab-league-and-one-u-s-soldier-de.md)

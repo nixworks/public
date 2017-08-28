@@ -1,6 +1,6 @@
 ### [2009-07-31](/news/2009/07/31/index.md)
 
-#   Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. 
+#  Spain is on red alert as ETA marks its 50th anniversary following the bombing of Burgos and the bombing of Palma Nova. 
 
 Police in Majorca are on heightened alert following yesterday&#39;s car bombing on the holiday island in which two civil guards were killed.
 

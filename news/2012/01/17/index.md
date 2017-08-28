@@ -3,13 +3,13 @@
 ### [Unknown assailants kill 2 Hungarians, 2 Germans and an Austrian in northeastern Ethiopia. ](/news/2012/01/17/unknown-assailants-kill-2-hungarians-2-germans-and-an-austrian-in-northeastern-ethiopia.md)
 Unknown assailants kill at least five European tourists, and wound and kidnap several others in remote Afar region.
 
-### [2011-2012 Syrian uprising:: Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/2011-2012-syrian-uprising-syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md)
-_Context: 2011-2012 Syrian uprising, Syria_
+### [Syria rejects calls for Arab troops to intervene in the country's conflict. ](/news/2012/01/17/syria-rejects-calls-for-arab-troops-to-intervene-in-the-country-s-conflict.md)
+_Context: Syria_
 
 ### [Officials in Burma order the military to stop offensives in ethnic minority areas. ](/news/2012/01/17/officials-in-burma-order-the-military-to-stop-offensives-in-ethnic-minority-areas.md)
 _Context: Burma, Internal conflict in Burma, Myanmar's military_
 
-### [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011-2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md)
+### [2011-2012 Yemeni uprising: Vice President Abdurabu Hadi says that presidential and parliamentary elections planned for next month will go ahead. ](/news/2012/01/17/2011a2012-yemeni-uprising-vice-president-abdurabu-hadi-says-that-presidential-and-parliamentary-elections-planned-for-next-month-will-go.md)
 _Context: 2011-2012 Yemeni uprising, parliamentary, presidential election_
 
 ### [Yahoo! co-founder Jerry Yang resigns as chief executive officer. [http://www.mercurynews.com/breaking-news/ci_19760292 "(San Jose Mercury News)"]](/news/2012/01/17/yahoo-co-founder-jerry-yang-resigns-as-chief-executive-officer-http-www-mercurynews-com-breaking-news-ci_19760292-san-jose-mercury-ne.md)

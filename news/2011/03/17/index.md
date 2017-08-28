@@ -1,6 +1,6 @@
 ## [2011-03-17](/news/2011/03/17/index.md)
 
-### [United States bombing of civilians in Pakistan:: At least 40 people, most believed to be civilians, are killed near Miranshah after United States drones bomb Pakistan in the deadliest such attack by the United States since 2006. Tribesmen describe a "massacre" as tribal people, elders, local traders and members of the tribal police are killed. ](/news/2011/03/17/united-states-bombing-of-civilians-in-pakistan-at-least-40-people-most-believed-to-be-civilians-are-killed-near-miranshah-after-united-s.md)
+### [At least 40 people, most believed to be civilians, are killed near Miranshah after United States drones bomb Pakistan in the deadliest such attack by the United States since 2006. Tribesmen describe a "massacre" as tribal people, elders, local traders and members of the tribal police are killed. ](/news/2011/03/17/at-least-40-people-most-believed-to-be-civilians-are-killed-near-miranshah-after-united-states-drones-bomb-pakistan-in-the-deadliest-such.md)
 At least 40 people, most of them civilians, have been killed in a US drone strike in the Pakistani tribal region of North Waziristan, officials say.
 
 ### [Thousands of opposition supporters rally in Yerevan, Armenia, demanding the resignation of the government. ](/news/2011/03/17/thousands-of-opposition-supporters-rally-in-yerevan-armenia-demanding-the-resignation-of-the-government.md)
@@ -9,7 +9,7 @@ _Context: Armenia, Yerevan_
 ### [Hundreds of people protest in western China after the self-immolation of a Tibetan monk in Aba, Sichuan. ](/news/2011/03/17/hundreds-of-people-protest-in-western-china-after-the-self-immolation-of-a-tibetan-monk-in-aba-sichuan.md)
 Heightened security and unrest is reported around a Tibetan Buddhist monastery in southwestern China after a monk self-immolates.
 
-### [Arab Spring: Libyan Civil War:: The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/arab-spring-libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing.md)
+### [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md)
 The International Committee of the Red Cross pulls out of the Libyan rebel stronghold of Benghazi fearing an imminent attack.
 
 ### [Dozens of people are killed in nationwide violence in Cote d'Ivoire, as fears of a civil war grow. ](/news/2011/03/17/dozens-of-people-are-killed-in-nationwide-violence-in-ca-te-d-ivoire-as-fears-of-a-civil-war-grow.md)
@@ -36,7 +36,7 @@ The New York Times outlines plans to charge North American users for access to s
 ### [Prince William of Wales visits Christchurch, New Zealand, to inspect relief efforts for the 2011 Christchurch earthquake. ](/news/2011/03/17/prince-william-of-wales-visits-christchurch-new-zealand-to-inspect-relief-efforts-for-the-2011-christchurch-earthquake.md)
 Prince William has touched down in quake-ravaged Christchurch to a rapturous round of applause, taking time out to hold a baby as he passed through the airport.
 
-### [Fukushima I nuclear accidents:: Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/fukushima-i-nuclear-accidents-helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-t.md)
+### [Helicopters drop water on the stricken Fukushima I Nuclear Power Plant to cool overheated fuel rods inside the core. ](/news/2011/03/17/helicopters-drop-water-on-the-stricken-fukushima-i-nuclear-power-plant-to-cool-overheated-fuel-rods-inside-the-core.md)
 CBS News Chicago station reports trace amounts of radiation clinging to flights from country ravaged by earthquake, tsunami
 
 ### [UK Foreign Secretary William Hague is challenged by MP Ann Clwyd over the treatment of Bradley Manning, a former Welsh schoolboy reported to be imprisoned in solitary confinement and stripped naked by the United States. ](/news/2011/03/17/uk-foreign-secretary-william-hague-is-challenged-by-mp-ann-clwyd-over-the-treatment-of-bradley-manning-a-former-welsh-schoolboy-reported-to.md)

@@ -9,7 +9,7 @@ _Context: Kramatorsk, Organization for Security and Cooperation in Europe, Ukrai
 ### [Twin explosions are reported in the city of Mombasa, Kenya, with at least three people killed and several injured. ](/news/2014/05/3/twin-explosions-are-reported-in-the-city-of-mombasa-kenya-with-at-least-three-people-killed-and-several-injured.md)
 At least three people have died and a number are wounded in two explosions in the Kenyan coastal city of Mombasa, police say.
 
-### [The 61st National Film Awards are presented by the President of India to honour the best films of 2013 in Indian cinema.: Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. ](/news/2014/05/3/the-61st-national-film-awards-are-presented-by-the-president-of-india-to-honour-the-best-films-of-2013-in-indian-cinema-gulzar-receives-da.md)
+### [Gulzar receives Dadasaheb Phalke Award while "Ship of Theseus" wins the Best Feature Film award. ](/news/2014/05/3/gulzar-receives-dadasaheb-phalke-award-while-ship-of-theseus-wins-the-best-feature-film-award.md)
 &#8216;Fandry&#8217;, &#8216;Shahid&#8217; also rewarded.
 
 ### [The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. ](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan-rises-to-2-100-with-4-000-people-displaced.md)
@@ -21,7 +21,7 @@ _Context: Middle East respiratory syndrome, Munster, Indiana, Saudi Arabia_
 ### [A gunman shoots and kills 3 people and wounds 4 others in Jonesboro, Arkansas, U.S., and then dies. ](/news/2014/05/3/a-gunman-shoots-and-kills-3-people-and-wounds-4-others-in-jonesboro-arkansas-u-s-and-then-dies.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-### [Murder of Jean McConville and Arrest of Gerry Adams:: A mural of Sinn Fein Leader Gerry Adams is painted on a wall on the Falls Road, Belfast, as police are granted a further 48 hours to question him about the murder of Jean McConville. ](/news/2014/05/3/murder-of-jean-mcconville-and-arrest-of-gerry-adams-a-mural-of-sinn-fein-leader-gerry-adams-is-painted-on-a-wall-on-the-falls-road-belfas.md)
+### [A mural of Sinn Fein Leader Gerry Adams is painted on a wall on the Falls Road, Belfast, as police are granted a further 48 hours to question him about the murder of Jean McConville. ](/news/2014/05/3/a-mural-of-sinn-fein-leader-gerry-adams-is-painted-on-a-wall-on-the-falls-road-belfast-as-police-are-granted-a-further-48-hours-to-questio.md)
 A source close to Gerry Adams tells the BBC the Sinn Fein leader is being questioned for up to 17 hours a day by detectives investigating the murder of Jean McConville.
 
 ## [Previous Day...](/news/2014/05/2/index.md)

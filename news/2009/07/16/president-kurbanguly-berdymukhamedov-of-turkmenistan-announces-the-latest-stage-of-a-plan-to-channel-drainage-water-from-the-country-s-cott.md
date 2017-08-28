@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Turkmenistani presidential election, 2017: Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/turkmenistani-presidential-election-2017-voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimu.md) _Context: Gurbanguly Berdimuhamedow, Turkmenistan, president_
+1. [Voters in Turkmenistan go to the polls for an election, with current president Gurbanguly Berdimuhamedow expected to win another term. ](/news/2017/02/12/voters-in-turkmenistan-go-to-the-polls-for-an-election-with-current-president-gurbanguly-berdimuhamedow-expected-to-win-another-term.md) _Context: Gurbanguly Berdimuhamedow, Turkmenistan, president_
 2. [ Voters in Turkmenistan vote in their first presidential election to select a successor to former President of Turkmenistan Saparmurat Niyazov. Interim leader Gurbanguly Berdimuhamedow is widely expected to win the election. ](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.md) _Context: Gurbanguly Berdimuhamedow, Turkmenistan, president_
 3. [Turkmenistan has a presidential election; incumbent Gurbanguly Berdimuhamedow is re-elected with 97% of the vote. ](/news/2012/02/12/turkmenistan-has-a-presidential-election-incumbent-gurbanguly-berdimuhamedow-is-re-elected-with-97-of-the-vote.md) _Context: Gurbanguly Berdimuhamedow, Turkmenistan_
 4. [ Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. ](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.md) _Context: Gurbanguly Berdimuhamedow, president_
@@ -20,4 +20,4 @@
 7. [The Ambassador of Italy to Turkmenistan is charged for alleged child abuse while on holiday in the Philippines. ](/news/2014/04/6/the-ambassador-of-italy-to-turkmenistan-is-charged-for-alleged-child-abuse-while-on-holiday-in-the-philippines.md) _Context: Turkmenistan_
 8. [A census of population and housing begins today in Turkmenistan. ](/news/2012/12/15/a-census-of-population-and-housing-begins-today-in-turkmenistan.md) _Context: Turkmenistan_
 9. [The president of Turkmenistan, Gurbanguli Berdymukhamedov, wins a new five-year term with 97% of the vote, according to election officials. ](/news/2012/02/13/the-president-of-turkmenistan-gurbanguli-berdymukhamedov-wins-a-new-five-year-term-with-97-of-the-vote-according-to-election-officials.md) _Context: Turkmenistan_
-10. [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md) _Context: Turkmenistan_
+10. [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md) _Context: Turkmenistan_

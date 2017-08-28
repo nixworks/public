@@ -1,6 +1,6 @@
 ## [2013-08-1](/news/2013/08/1/index.md)
 
-### [War in Afghanistan (2001-present):: NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/war-in-afghanistan-2001-present-nato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-fi.md)
+### [NATO forces in Afghanistan launch an investigation after a US airstrike in Nangarhar Province kills five Afghan policemen and injures another two. ](/news/2013/08/1/nato-forces-in-afghanistan-launch-an-investigation-after-a-us-airstrike-in-nangarhar-province-kills-five-afghan-policemen-and-injures-anothe.md)
 Five Afghan policeman die in a US air strike during a battle with insurgents near a police checkpoint.
 
 ### [The Dow Jones Industrial Average and S&P 500 hit record highs. ](/news/2013/08/1/the-dow-jones-industrial-average-and-s-p-500-hit-record-highs.md)
@@ -22,7 +22,7 @@ _Context: Greek, Turkey_
 _Context: Minnesota, Rhode Island, United States, same-sex marriage_
 
 ### [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md)
-_Context: Bangladesh, Bangladesh Jamaat-e-Islami, Dhaka, High Court, Islam_
+_Context: Bangladesh, Bangladesh Jamaat-e-Islami, Dhaka, High Court, Muslims_
 
 ### [The government of Uruguay legalizes the medical usage of marijuana, restricting legal purchases to Uruguayans in that country. ](/news/2013/08/1/the-government-of-uruguay-legalizes-the-medical-usage-of-marijuana-restricting-legal-purchases-to-uruguayans-in-that-country.md)
 Legislators approved the bill, opening the way for the authorities to create one of Latin America’s most ambitious nationwide endeavors in overhauling drug policy.

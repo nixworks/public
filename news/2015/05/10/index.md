@@ -1,21 +1,21 @@
 ## [2015-05-10](/news/2015/05/10/index.md)
 
-### [Yemeni Civil War: Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/yemeni-civil-war-saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md)
+### [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md)
 _Context: Saleh, Sanaa, Saudi Arabia, Yemeni Civil War, Yemeni President_
 
 ### [The People's Bank of China in the People's Republic of China lowers its benchmark interest rate for the third time in half a year. ](/news/2015/05/10/the-people-s-bank-of-china-in-the-people-s-republic-of-china-lowers-its-benchmark-interest-rate-for-the-third-time-in-half-a-year.md)
 _Context: China, People's Bank of China, interest rate_
 
-### [2015 Pacific typhoon season: Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/2015-pacific-typhoon-season-typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of.md)
+### [Typhoon Noul (Dodong) makes landfall in the northern Philippines as a Category&nbsp;5 typhoon with thousands of passengers stranded and warnings of landslides. ](/news/2015/05/10/typhoon-noul-dodong-makes-landfall-in-the-northern-philippines-as-a-category-nbsp-5-typhoon-with-thousands-of-passengers-stranded-and-warn.md)
 Typhoon expected to hit coast on Sunday, as volcano spews ash over central province, forcing evacuation of thousands.
 
-### [2015 Atlantic hurricane season: Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/2015-atlantic-hurricane-season-tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md)
+### [Tropical Storm Ana makes landfall near the city of Myrtle Beach, South Carolina, today. ](/news/2015/05/10/tropical-storm-ana-makes-landfall-near-the-city-of-myrtle-beach-south-carolina-today.md)
 _Context: 2015 Atlantic hurricane season, Myrtle Beach, South Carolina, Tropical Storm Ana_
 
-### [April 2015 Nepal earthquake: The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. ](/news/2015/05/10/april-2015-nepal-earthquake-the-death-toll-from-earthquake-reaches-8000-as-three-earth-tremors-hit-nepal-avalanches-disrupt-rescue-efforts.md)
+### [The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. ](/news/2015/05/10/the-death-toll-from-earthquake-reaches-8000-as-three-earth-tremors-hit-nepal-avalanches-disrupt-rescue-efforts-higher-in-the-mountains.md)
 Three fresh tremors today jolted Nepal, triggering panic among the people already battered by the devastating earthquake and over 150 aftershocks as the death toll crossed 8,000.
 
-### [Tornadoes of 2015: At least 36 people are hospitalised and 30 per cent of the town of Van, Texas is damaged by a tornado. ](/news/2015/05/10/tornadoes-of-2015-at-least-36-people-are-hospitalised-and-30-per-cent-of-the-town-of-van-texas-is-damaged-by-a-tornado.md)
+### [At least 36 people are hospitalised and 30 per cent of the town of Van, Texas is damaged by a tornado. ](/news/2015/05/10/at-least-36-people-are-hospitalised-and-30-per-cent-of-the-town-of-van-texas-is-damaged-by-a-tornado.md)
 Tornadoes and severe thunderstorms killed at least five people in Texas and Arkansas and damaged about 30 percent of a city outside Dallas.
 
 ### [Mexico suspends vaccination of infants and authorises an inquiry after two babies die and 29 injured in the municipality of Simojovel in Chiapas state. ](/news/2015/05/10/mexico-suspends-vaccination-of-infants-and-authorises-an-inquiry-after-two-babies-die-and-29-injured-in-the-municipality-of-simojovel-in-chi.md)
@@ -36,7 +36,7 @@ _Context: Hattiesburg, Mississippi_
 ### [Several people have been shot dead in the Swiss town of Wurenlingen in Aargau canton northwest of Zurich. ](/news/2015/05/10/several-people-have-been-shot-dead-in-the-swiss-town-of-wa1-4renlingen-in-aargau-canton-northwest-of-zurich.md)
 A gunman kills three relatives and a neighbour before turning the gun on himself in the Swiss town of Wuerenlingen, north-west of Zurich, police say.
 
-### [Polish presidential election, 2015: Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/polish-presidential-election-2015-voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-wit.md)
+### [Voters in Poland go to the polls for a presidential election with a second round of voting scheduled with Andrzej Duda of the Law and Justice Party challenging incumbent President Bronislaw Komorowski. ](/news/2015/05/10/voters-in-poland-go-to-the-polls-for-a-presidential-election-with-a-second-round-of-voting-scheduled-with-andrzej-duda-of-the-law-and-justic.md)
 _Context: Andrzej Duda, Bronislaw Komorowski, Law and Justice Party, Polish, Polish presidential election, 2015, President_
 
 ## [Previous Day...](/news/2015/05/9/index.md)

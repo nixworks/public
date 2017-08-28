@@ -6,7 +6,7 @@ _Context: Holy See, Israel, Palestinian, Pope, Pope Benedict XVI, ambassador_
 ### [ Bilateral negotiations have resumed between the US and North Korea. ](/news/2005/07/25/bilateral-negotiations-have-resumed-between-the-us-and-north-korea.md)
 _Context: Bilateral negotiations, North Korea_
 
-### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-afl-cio-announce-their-intentions-to-leave-th.md)
+### [ The Service Employees International Union and the Teamsters, the two largest unions in the AFL-CIO, announce their intentions to leave the labor federation, underscoring a major schism within the U.S. labour movement. ](/news/2005/07/25/the-service-employees-international-union-and-the-teamsters-the-two-largest-unions-in-the-aflacio-announce-their-intentions-to-leave-th.md)
 _Context: AFL-CIO, Service Employees International Union, Teamsters, labour movement_
 
 ### [ Two men, one today, one yesterday, have been arrested in the New Southgate area of London during police investigations into the recent London bombings. ](/news/2005/07/25/two-men-one-today-one-yesterday-have-been-arrested-in-the-new-southgate-area-of-london-during-police-investigations-into-the-recent-lond.md)
@@ -18,8 +18,8 @@ _Context: Ethiopia_
 ### [ A mystery illness spreading through Western China has claimed its 17th victim. Doctors have confirmed the disease is neither bird flu nor SARS ](/news/2005/07/25/a-mystery-illness-spreading-through-western-china-has-claimed-its-17th-victim-doctors-have-confirmed-the-disease-is-neither-bird-flu-nor-s.md)
 _Context: Avian flu virus, SARS_
 
-### [ Conflict in Iraq:: Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/conflict-in-iraq-sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their.md)
-_Context: Conflict in Iraq, Iraqi constitution, Sunni_
+### [ Sunni Arab representatives appointed to the committee tasked with writing up a new Constitution of Iraq have ended their boycott. ](/news/2005/07/25/sunni-arab-representatives-appointed-to-the-committee-tasked-with-writing-up-a-new-constitution-of-iraq-have-ended-their-boycott.md)
+_Context: Iraqi constitution, Sunni_
 
 ### [ The New Zealand general election 2005 is set for Saturday September 17, 2005. ](/news/2005/07/25/the-new-zealand-general-election-2005-is-set-for-saturday-september-17-2005.md)
 New Zealanders will go to the polls on September 17, Prime Minister Helen Clark announced today. - New Zealand Herald

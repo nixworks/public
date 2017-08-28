@@ -3,7 +3,7 @@
 ### [Following the phenomenal success of James Cameron's Avatar, a ceremony marking the start of the shoot of China's first IMAX3D film. ](/news/2010/05/15/following-the-phenomenal-success-of-james-cameron-s-avatar-a-ceremony-marking-the-start-of-the-shoot-of-china-s-first-imax3d-film.md)
 _Context: Avatar, China, IMAX3D, James Cameron_
 
-### [Italy fines Ryanair -3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md)
+### [Italy fines Ryanair EUR3 million for failing to help passengers after cancelling their flights during the Icelandic volcanic crisis as the cloud threatens to wreak more havoc. ](/news/2010/05/15/italy-fines-ryanair-a-3-million-for-failing-to-help-passengers-after-cancelling-their-flights-during-the-icelandic-volcanic-crisis-as-the-c.md)
 Italy has fined Ryanair 3 million euros for failing to help passengers after cancelling their flights during the volcanic ash crisis. Ryanair denies the accusation.
 
 ### [A by-election begins in Hong Kong. ](/news/2010/05/15/a-by-election-begins-in-hong-kong.md)
@@ -27,7 +27,7 @@ _Context: 5.1 magnitude earthquake, Algeria_
 ### [Google admits it has been mistakenly collecting information people have sent over unencrypted wi-fi networks for the past three years and grounds its Street View cars from collecting wi-fi information. ](/news/2010/05/15/google-admits-it-has-been-mistakenly-collecting-information-people-have-sent-over-unencrypted-wi-fi-networks-for-the-past-three-years-and-gr.md)
 _Context: Google, Street View_
 
-### [A fire at the Butantan Institute in SGBPo Paulo, Brazil, destroys its entire collection of preserved snakes-the world's largest-and nearly half a million arachnid specimens, including many novel and yet-unclassified species. ](/news/2010/05/15/a-fire-at-the-butantan-institute-in-sagbpo-paulo-brazil-destroys-its-entire-collection-of-preserved-snakes-the-world-s-largest-and-nea.md)
+### [A fire at the Butantan Institute in SGBPo Paulo, Brazil, destroys its entire collection of preserved snakes--the world's largest--and nearly half a million arachnid specimens, including many novel and yet-unclassified species. ](/news/2010/05/15/a-fire-at-the-butantan-institute-in-sagbpo-paulo-brazil-destroys-its-entire-collection-of-preserved-snakesathe-world-s-largestaand-nea.md)
 _Context: Brazil, Instituto Butantan, SGBPo Paulo, arachnid_
 
 ## [Previous Day...](/news/2010/05/14/index.md)

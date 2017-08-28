@@ -21,13 +21,13 @@ _Context: Airbus A320, Central American Bank for Economic Integration, El Salvad
 ### [ The Texas Department of Family and Protective Services reaches agreement with some of the families of the YFZ Ranch to start returning the children on Monday. ](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.md)
 _Context: Texas Department of Family and Protective Services, YFZ Ranch_
 
-### [ Cyclone Nargis: Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/cyclone-nargis-aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes.md)
+### [ Aid agencies say logistical difficulties hamper Burma aid deliveries; to date, the United Nations reports about 180 planes carrying relief supplies have been unloaded in Rangoon. ](/news/2008/05/30/aid-agencies-say-logistical-difficulties-hamper-burma-aid-deliveries-to-date-the-united-nations-reports-about-180-planes-carrying-relief.md)
 _Context: Burma, Cyclone Nargis, Rangoon, United Nations_
 
 ### [ Fishermen in Spain, Portugal and Italy strike to protest against high fuel prices; Spain's economy minister says his government cannot cut fuel taxes, but is looking into ways to help fishermen. ](/news/2008/05/30/fishermen-in-spain-portugal-and-italy-strike-to-protest-against-high-fuel-prices-spain-s-economy-minister-says-his-government-cannot-cut.md)
 _Context: Italian, Portugal, Spain, fuel prices_
 
-### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-iraq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
+### [ Sadr supporters protest against a planned U.S.-Iraq security agreement to replace the current United Nations mandate for U.S. troops in Iraq, which expires at end of 2008. ](/news/2008/05/30/sadr-supporters-protest-against-a-planned-u-s-airaq-security-agreement-to-replace-the-current-united-nations-mandate-for-u-s-troops-in-i.md)
 _Context: Iraq, Muqtada al-Sadr, U.S._
 
 ### [ Zimbabwe's Morgan Tsvangirai claims ruling party status as the leader of the opposition Movement for Democratic Change, delivers a "state of the nation" address to elected lawmakers from his party, and promises a "new era of opportunity" for Zimbabwe. ](/news/2008/05/30/zimbabwe-s-morgan-tsvangirai-claims-ruling-party-status-as-the-leader-of-the-opposition-movement-for-democratic-change-delivers-a-state-o.md)

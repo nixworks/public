@@ -1,9 +1,9 @@
 ## [2015-02-23](/news/2015/02/23/index.md)
 
-### [War in Donbass: The Ukrainian Army says it cannot withdraw its heavy weapons from the front, as it is still under attack from rebel forces despite the ceasefire. ](/news/2015/02/23/war-in-donbass-the-ukrainian-army-says-it-cannot-withdraw-its-heavy-weapons-from-the-front-as-it-is-still-under-attack-from-rebel-forces-d.md)
+### [The Ukrainian Army says it cannot withdraw its heavy weapons from the front, as it is still under attack from rebel forces despite the ceasefire. ](/news/2015/02/23/the-ukrainian-army-says-it-cannot-withdraw-its-heavy-weapons-from-the-front-as-it-is-still-under-attack-from-rebel-forces-despite-the-cease.md)
 Kiev accused pro-Russian rebels of opening fire with rockets and artillery at villages in southeastern Ukraine on Monday, all but burying a week-old European-brokered ceasefire deal.
 
-### [Second Libyan Civil War (2014-present): The internationally recognized Tobruk-based Parliament of Libya suspends participation in United Nations brokered talks. ](/news/2015/02/23/second-libyan-civil-war-2014-present-the-internationally-recognized-tobruk-based-parliament-of-libya-suspends-participation-in-united-n.md)
+### [The internationally recognized Tobruk-based Parliament of Libya suspends participation in United Nations brokered talks. ](/news/2015/02/23/the-internationally-recognized-tobruk-based-parliament-of-libya-suspends-participation-in-united-nations-brokered-talks.md)
 _Context: Second Libyan Civil War (2014-present), Tobruk, United Nations, internationally-recognized government_
 
 ### [The death toll from the weekend ferry disaster in Bangladesh rises to 70. ](/news/2015/02/23/the-death-toll-from-the-weekend-ferry-disaster-in-bangladesh-rises-to-70.md)

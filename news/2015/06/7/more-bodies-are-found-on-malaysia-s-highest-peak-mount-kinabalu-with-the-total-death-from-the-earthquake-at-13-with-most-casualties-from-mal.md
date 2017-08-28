@@ -12,7 +12,7 @@ Rescuers recovered the bodies of 11 more climbers from Malaysia&#x27;s highest p
 
 ### Related:
 
-1. [The number of people found dead  on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _Context: 2015 Sabah earthquake, Mount Kinabalu, Singapore_
+1. [The number of people found dead on Mount Kinabalu rises to 16 with two Singaporean climbers still missing. ](/news/2015/06/8/the-number-of-people-found-dead-on-mount-kinabalu-rises-to-16-with-two-singaporean-climbers-still-missing.md) _Context: 2015 Sabah earthquake, Mount Kinabalu, Singapore_
 2. [In 2015, more than 100,000 people in Indonesia, Malaysia, and Singapore may have died as a result of forest fires in Southeast Asia. The continued poor air quality also continues to affect the health of more than 42 million Indonesians. ](/news/2016/09/19/in-2015-more-than-100-000-people-in-indonesia-malaysia-and-singapore-may-have-died-as-a-result-of-forest-fires-in-southeast-asia-the-con.md) _Context: Malaysia, Singapore_
 3. [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md) _Context: Malaysia, Singapore_
 4. [Eleven bodies have been recovered from Mount Kinabalu and 8 people remain missing following yesterday's Sabah earthquake. ](/news/2015/06/6/eleven-bodies-have-been-recovered-from-mount-kinabalu-and-8-people-remain-missing-following-yesterday-s-sabah-earthquake.md) _Context: 2015 Sabah earthquake, Mount Kinabalu_

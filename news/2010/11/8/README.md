@@ -42,7 +42,7 @@ _Context: (Wikinews), Chile, Copiapo_
 ### [German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel. ](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.md)
 _Context: Gaza Strip, German Foreign Minister, Gilad Shalit, Guido Westerwelle, Hamas, Israel_
 
-### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of -blood diamond- exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-blood-diamond-exports-from.md)
+### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of "blood diamond" exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-ablood-diamonda-exports-from.md)
 Last week’s four-day annual plenary meeting of the diamond-regulating Kimberley Process (KP)failed to find a solution to the ongoing issue of diamond exports from the Marange region.
 
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)

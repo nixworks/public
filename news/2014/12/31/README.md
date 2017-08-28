@@ -1,12 +1,12 @@
 ## [2014-12-31](/news/2014/12/31/index.md)
 
-### [Terrorism in Yemen: A suicide bombing in Ibb, Yemen, kills at least 26 people. ](/news/2014/12/31/terrorism-in-yemen-a-suicide-bombing-in-ibb-yemen-kills-at-least-26-people.md)
+### [A suicide bombing in Ibb, Yemen, kills at least 26 people. ](/news/2014/12/31/a-suicide-bombing-in-ibb-yemen-kills-at-least-26-people.md)
 _Context: Ibb, Terrorism in Yemen, Yemen, suicide bombing_
 
 ### [The United States stock exchange reports ending on a gain of 7.5%. It was the sixth year of continued advancement. ](/news/2014/12/31/the-united-states-stock-exchange-reports-ending-on-a-gain-of-7-5-it-was-the-sixth-year-of-continued-advancement.md)
 The Dow industrials notched a sixth straight annual gain despite a selloff on Wednesday, as investors piled into stocks amid an expanding U.S. economy, growing corporate profits and persistently low interest rates.
 
-### [Pacific typhoon season: As Tropical Storm Jangmi (Seniang) weakens, the Philippines death toll reaches 53 people. ](/news/2014/12/31/pacific-typhoon-season-as-tropical-storm-jangmi-seniang-weakens-the-philippines-death-toll-reaches-53-people.md)
+### [As Tropical Storm Jangmi (Seniang) weakens, the Philippines death toll reaches 53 people. ](/news/2014/12/31/as-tropical-storm-jangmi-seniang-weakens-the-philippines-death-toll-reaches-53-people.md)
 _Context: Pacific typhoon season, Tropical Storm Jangmi (Seniang)_
 
 ### [Explosions at a factory in the southern Chinese city of Foshan kill 17 people and injure 20. ](/news/2014/12/31/explosions-at-a-factory-in-the-southern-chinese-city-of-foshan-kill-17-people-and-injure-20.md)

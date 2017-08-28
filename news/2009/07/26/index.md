@@ -1,6 +1,6 @@
 ## [2009-07-26](/news/2009/07/26/index.md)
 
-### [ Seven people are killed in hurricane-force winds reaching 130 km/h in Poland and two more are killed by wind in the Czech Republic. Hail falls on 60,000 hectares of crops in Austria, causing damage of at least -20 million. ](/news/2009/07/26/seven-people-are-killed-in-hurricane-force-winds-reaching-130-km-h-in-poland-and-two-more-are-killed-by-wind-in-the-czech-republic-hail-fa.md)
+### [ Seven people are killed in hurricane-force winds reaching 130 km/h in Poland and two more are killed by wind in the Czech Republic. Hail falls on 60,000 hectares of crops in Austria, causing damage of at least EUR20 million. ](/news/2009/07/26/seven-people-are-killed-in-hurricane-force-winds-reaching-130-km-h-in-poland-and-two-more-are-killed-by-wind-in-the-czech-republic-hail-fa.md)
 EXTREME weather has killed and injured dozens of people across Europe, with Spain, France and Italy hit by summer wildfires and parts of central Europe deluged by storms.
 
 ### [ Dozens are killed in clashes between radical Islamists and security forces in Bauchi, Nigeria, following a police station attack by an armed gang in retaliation for the arrests of their leaders. ](/news/2009/07/26/dozens-are-killed-in-clashes-between-radical-islamists-and-security-forces-in-bauchi-nigeria-following-a-police-station-attack-by-an-arme.md)

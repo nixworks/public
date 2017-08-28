@@ -12,4 +12,4 @@
 ### Related:
 
 1. [Albania becomes the 37th member of the European Patent Organisation. ](/news/2010/05/1/albania-becomes-the-37th-member-of-the-european-patent-organisation.md) _Context: European Patent Organisation_
-2. [ The European Patent Office completely revokes Sara Lee-s European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-lee-s-european-patent-on-the-senseo-coffee-pads.md) _Context: European Patent Organisation_
+2. [ The European Patent Office completely revokes Sara Lee's European patent on the Senseo coffee pads. ](/news/2006/08/30/the-european-patent-office-completely-revokes-sara-leeas-european-patent-on-the-senseo-coffee-pads.md) _Context: European Patent Organisation_

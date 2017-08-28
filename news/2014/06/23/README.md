@@ -1,21 +1,21 @@
 ## [2014-06-23](/news/2014/06/23/index.md)
 
-### [War in North-West Pakistan:: Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/war-in-north-west-pakistan-pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md)
-_Context: North Waziristan, Pakistan, War in North-West Pakistan_
+### [Pakistani forces conduct airstrikes on terrorist hideouts in North Waziristan, killing 25 militants. ](/news/2014/06/23/pakistani-forces-conduct-airstrikes-on-terrorist-hideouts-in-north-waziristan-killing-25-militants.md)
+_Context: North Waziristan, Pakistan_
 
-### [Arab-Israeli conflict:: Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/arab-israeli-conflict-israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the.md)
-_Context: Arab-Israeli conflict, Israeli Air Force, Syria_
+### [Israeli Air Force planes carry out a series of air strikes in Syria following an attack on Sunday that caused the death of an Israeli teenager. ](/news/2014/06/23/israeli-air-force-planes-carry-out-a-series-of-air-strikes-in-syria-following-an-attack-on-sunday-that-caused-the-death-of-an-israeli-teenag.md)
+_Context: Israeli Air Force, Syria_
 
-### [Syrian Civil War:: Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syrian-civil-war-syria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-pro.md)
-_Context: Organisation for the Prohibition of Chemical Weapons, Syria, Syrian Civil War, United Nations, chemical weapons_
+### [Syria hands over its remaining 100 tonnes of its declared chemical weapons to the United Nations Organisation for the Prohibition of Chemical Weapons but the organisation cannot declare that the country no longer has any such weapons. ](/news/2014/06/23/syria-hands-over-its-remaining-100-tonnes-of-its-declared-chemical-weapons-to-the-united-nations-organisation-for-the-prohibition-of-chemica.md)
+_Context: Organisation for the Prohibition of Chemical Weapons, Syria, United Nations, chemical weapons_
 
-### [Islamist insurgency in Nigeria:: An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/islamist-insurgency-in-nigeria-an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)
+### [An explosion at a public health school in the city of Kano in northern Nigeria kills at least 12 people. ](/news/2014/06/23/an-explosion-at-a-public-health-school-in-the-city-of-kano-in-northern-nigeria-kills-at-least-12-people.md)
 An explosion hits a college in the northern Nigerian city of Kano, killing at least eight people, police say.
 
-### [War in Somalia (2009-present):: Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/war-in-somalia-2009-present-kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-a.md)
+### [Kenyan Air Force planes attack the al-Qaeda-linked al-Shabab killing 80 of its fighters according to the African Union force in Somalia. ](/news/2014/06/23/kenyan-air-force-planes-attack-the-al-qaeda-linked-al-shabab-killing-80-of-its-fighters-according-to-the-african-union-force-in-somalia.md)
 Kenyan fighter jets bomb the al-Qaeda-linked al-Shabab group in Somalia, killing more than 80 of its fighters, the African Union (AU) says.
 
-### [2014 pro-Russian conflict in Ukraine: Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/2014-pro-russian-conflict-in-ukraine-pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md)
+### [Pro-Russian insurgents agree to a ceasefire proposed by the Government of Ukraine. ](/news/2014/06/23/pro-russian-insurgents-agree-to-a-ceasefire-proposed-by-the-government-of-ukraine.md)
 _Context: 2014 pro-Russian conflict in Ukraine, Kiev_
 
 ### [Denmark proper (not counting Greenland) gets its first natural UNESCO World Heritage Sites, in addition to its three cultural sites, as Stevns Klint and the Danish parts of the Wadden Sea are inscribed on the UNESCO list. ](/news/2014/06/23/denmark-proper-not-counting-greenland-gets-its-first-natural-unesco-world-heritage-sites-in-addition-to-its-three-cultural-sites-as-stev.md)

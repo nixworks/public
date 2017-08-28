@@ -1,9 +1,9 @@
 ## [2013-08-25](/news/2013/08/25/index.md)
 
-### [Syrian civil war:: The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/syrian-civil-war-the-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-d.md)
+### [The Syrian government allows UN inspectors to visit the site of suspect chemical weapons attack outside the outskirt of Damascus. ](/news/2013/08/25/the-syrian-government-allows-un-inspectors-to-visit-the-site-of-suspect-chemical-weapons-attack-outside-the-outskirt-of-damascus.md)
 The Syrian government agrees to allow UN inspectors immediate access to the site of a suspected chemical weapon attack near Damascus.
 
-### [Iraqi insurgency (post-U.S. withdrawal):: A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/iraqi-insurgency-post-u-s-withdrawal-a-wave-of-bomb-attacks-kill-41-people-in-iraq.md)
+### [A wave of bomb attacks kill 41 people in Iraq. ](/news/2013/08/25/a-wave-of-bomb-attacks-kill-41-people-in-iraq.md)
 Bomb attacks across Iraq kill at least 46 people, police and medical sources say, with the deadliest blasts in Baquba and Baghdad.
 
 ### [A bomb explodes in a bus carrying Yemeni Air Force personnel to a base near the capital Sana'a, killing at least one officer and injuring others. ](/news/2013/08/25/a-bomb-explodes-in-a-bus-carrying-yemeni-air-force-personnel-to-a-base-near-the-capital-sana-a-killing-at-least-one-officer-and-injuring-ot.md)

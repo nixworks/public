@@ -11,5 +11,5 @@ Mauritius voters rejected plans to grant more powers to the president by handing
 
 ### Related:
 
-1. [The ruling  Mauritian Labour Party under Prime Minister Navin Ramgoolam wins re-election after the opposition Mauritian Militant Movement concedes the 2010 general election. ](/news/2010/05/6/the-ruling-mauritian-labour-party-under-prime-minister-navin-ramgoolam-wins-re-election-after-the-opposition-mauritian-militant-movement-co.md) _Context: MMM_
+1. [The ruling Mauritian Labour Party under Prime Minister Navin Ramgoolam wins re-election after the opposition Mauritian Militant Movement concedes the 2010 general election. ](/news/2010/05/6/the-ruling-mauritian-labour-party-under-prime-minister-navin-ramgoolam-wins-re-election-after-the-opposition-mauritian-militant-movement-con.md) _Context: MMM_
 2. [ In Mauritius, parliamentary elections begin. The main rivals are prime minister Paul Brenger of the Mauritian Militant Movement and Navin Ramgoolam of the opposition Social Alliance. ](/news/2005/07/3/in-mauritius-parliamentary-elections-begin-the-main-rivals-are-prime-minister-paul-berenger-of-the-mauritian-militant-movement-and-navin.md) _Context: MMM_

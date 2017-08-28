@@ -1,10 +1,10 @@
 ## [2013-11-15](/news/2013/11/15/index.md)
 
-### [Syrian civil war:: North Korea denies giving military aid to Syria. ](/news/2013/11/15/syrian-civil-war-north-korea-denies-giving-military-aid-to-syria.md)
-_Context: North Korea, Syria, Syrian Civil War_
+### [North Korea denies giving military aid to Syria. ](/news/2013/11/15/north-korea-denies-giving-military-aid-to-syria.md)
+_Context: North Korea, Syria_
 
-### [Typhoon Haiyan:: The United Nations tallies the death toll to around 4,400. The Red Cross estimates that around 20,000 are still missing, many of whom are feared dead. This is contrary to a previous estimate by Benigno Aquino III, who put the death toll to a low 2,000. ](/news/2013/11/15/typhoon-haiyan-the-united-nations-tallies-the-death-toll-to-around-4-400-the-red-cross-estimates-that-around-20-000-are-still-missing-ma.md)
-_Context: Red Cross, Typhoon Haiyan (Yolanda), United Nations, his predecessor_
+### [The United Nations tallies the death toll to around 4,400. The Red Cross estimates that around 20,000 are still missing, many of whom are feared dead. This is contrary to a previous estimate by Benigno Aquino III, who put the death toll to a low 2,000. ](/news/2013/11/15/the-united-nations-tallies-the-death-toll-to-around-4-400-the-red-cross-estimates-that-around-20-000-are-still-missing-many-of-whom-are-fe.md)
+_Context: Red Cross, United Nations, his predecessor_
 
 ### [At least five people are killed and 10 injured after four coaches of the Mangala Lakshadweep Express derail near the Indian city of Nashik in Maharashtra state. ](/news/2013/11/15/at-least-five-people-are-killed-and-10-injured-after-four-coaches-of-the-mangala-lakshadweep-express-derail-near-the-indian-city-of-nashik-i.md)
 At least two persons have died and 15 others seriously injured as eight coaches of Hazrat Nizamuddin-Ernakulam Mangala Express derailed this morning, 30 km away from Nashik in Maharashtra.

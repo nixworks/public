@@ -1,15 +1,15 @@
 ## [2010-06-30](/news/2010/06/30/index.md)
 
-### [United States: The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/united-states-the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md)
+### [The United States government is sued by 10 plaintiffs, including an American citizen, challenging the country's no-fly list. ](/news/2010/06/30/the-united-states-government-is-sued-by-10-plaintiffs-including-an-american-citizen-challenging-the-country-s-no-fly-list.md)
 The American Civil Liberties Union plans to sue the US authorities over the &quot;no-fly&quot; list, saying it stops innocent people from travelling.
 
 ### [Protests are held all across India and occupied Kashmir amid curfew restrictions for the past ten days. Ten adolescents are killed by the forces. ](/news/2010/06/30/protests-are-held-all-across-india-and-occupied-kashmir-amid-curfew-restrictions-for-the-past-ten-days-ten-adolescents-are-killed-by-the-fo.md)
 _Context: India, Kashmir_
 
-### [Africa: The Democratic Republic of the Congo marks 50 years of independence with celebrations attended by Secretary-General of the United Nations Ban Ki-moon, the Belgian king and other world leaders, days after the funeral of Floribert Chebeya. ](/news/2010/06/30/africa-the-democratic-republic-of-the-congo-marks-50-years-of-independence-with-celebrations-attended-by-secretary-general-of-the-united-na.md)
+### [The Democratic Republic of the Congo marks 50 years of independence with celebrations attended by Secretary-General of the United Nations Ban Ki-moon, the Belgian king and other world leaders, days after the funeral of Floribert Chebeya. ](/news/2010/06/30/the-democratic-republic-of-the-congo-marks-50-years-of-independence-with-celebrations-attended-by-secretary-general-of-the-united-nations-ba.md)
 The Democratic Republic of Congo marks 50 years of independence Wednesday with UN Secretary General Ban Ki-moon and the Belgian king among a host of world leaders attending the celebrations.
 
-### [Iran:: A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. ](/news/2010/06/30/iran-a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were.md)
+### [A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. ](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-holding.md)
 A man claiming to be an Iranian nuclear scientist kidnapped by the US says he has escaped from custody, in a video shown on Iranian TV.
 
 ### [A man whom the United States considers to be the 11th member of a Russian spy ring goes missing in Cyprus. ](/news/2010/06/30/a-man-whom-the-united-states-considers-to-be-the-11th-member-of-a-russian-spy-ring-goes-missing-in-cyprus.md)
@@ -30,8 +30,8 @@ Finland is now the first country in the world where every citizen is entitled to
 ### [Sudan releases its opposition leader Hassan al-Turabi after a month and a half. ](/news/2010/06/30/sudan-releases-its-opposition-leader-hassan-al-turabi-after-a-month-and-a-half.md)
 Sudanese authorities release Islamist opposition leader Hassan al-Turabi after six weeks in detention, his secretary says.
 
-### [Inauguration of Noynoy Aquino:: Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/inauguration-of-noynoy-aquino-benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th.md)
-_Context: Inauguration of Noynoy Aquino, Jejomar Binay, President of the Philippines, Vice President of the Philippines, his predecessor_
+### [Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-president-of-the-philippines-and-jejomar-binay-is-sworn-the-15th-vice-president-of-the-philippine.md)
+_Context: Jejomar Binay, President of the Philippines, Vice President of the Philippines, his predecessor_
 
 ### [Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. ](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.md)
 _Context: Burundi, Pierre Nkurunziza_

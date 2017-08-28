@@ -1,7 +1,7 @@
 ## [2009-09-19](/news/2009/09/19/index.md)
 
 ### [ A six-nation east African regional bloc consisting of Djibouti, Ethiopia, Kenya, Somalia, Sudan and Uganda urges global sanctions on Eritrea for backing Islamist rebels in neighbouring war-torn Somalia. ](/news/2009/09/19/a-six-nation-east-african-regional-bloc-consisting-of-djibouti-ethiopia-kenya-somalia-sudan-and-uganda-urges-global-sanctions-on-eritre.md)
-_Context: Africa, Djibouti, Eritrea, Ethiopia, Islam, Kenya, Somalia, Sudan, Uganda_
+_Context: Africa, Djibouti, Eritrea, Ethiopia, Kenya, Muslims, Somalia, Sudan, Uganda_
 
 ### [ Two men are arrested in Denver, Colorado, United States, as part of an FBI terror probe. ](/news/2009/09/19/two-men-are-arrested-in-denver-colorado-united-states-as-part-of-an-fbi-terror-probe.md)
 _Context: Colorado, Denver, FBI, United States_
@@ -21,7 +21,7 @@ _Context: Bali, Indonesia, Richter scale, earthquake_
 ### [ DNA tests confirm that Islamist bomber Noordin Mohamed Top is dead. ](/news/2009/09/19/dna-tests-confirm-that-islamist-bomber-noordin-mohamed-top-is-dead.md)
 _Context: DNA, Islamist, Noordin Mohamed Top, bomb_
 
-### [ Treaty of Lisbon:: President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/treaty-of-lisbon-president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-sec.md)
+### [ President of the European Commission Jose Manuel Barroso arrives in Ireland on the campaign trail for the country's second referendum on the Treaty of Lisbon. ](/news/2009/09/19/president-of-the-european-commission-josa-c-manuel-barroso-arrives-in-ireland-on-the-campaign-trail-for-the-country-s-second-referendum-on-t.md)
 European Commission President José Manuel Barroso has said a No vote will affect confidence and will create uncertainty that neither Ireland nor Europe needs at this time.
 
 ### [ Four people are seriously injured in a bear attack in Takayama, Gifu Prefecture, Japan. ](/news/2009/09/19/four-people-are-seriously-injured-in-a-bear-attack-in-takayama-gifu-prefecture-japan.md)

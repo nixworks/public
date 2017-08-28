@@ -3,19 +3,19 @@
 ### [Robert Kiprono Cheruiyot of Kenya wins the 2010 Boston Marathon, setting a new course record. ](/news/2010/04/19/robert-kiprono-cheruiyot-of-kenya-wins-the-2010-boston-marathon-setting-a-new-course-record.md)
 _Context: Boston Marathon, Kenya, Robert Kiprono Cheruiyot_
 
-### [Kyrgyzstan unrest:: Several hundred people armed with sticks and stones clashed with ethnic Russians and Meskhetian Turk landowners in the village of Maevka, before moving toward the capital Bishkek and demanding talks with officials. ](/news/2010/04/19/kyrgyzstan-unrest-several-hundred-people-armed-with-sticks-and-stones-clashed-with-ethnic-russians-and-meskhetian-turk-landowners-in-the-v.md)
-_Context: Bishkek, the recent unrest_
+### [Several hundred people armed with sticks and stones clashed with ethnic Russians and Meskhetian Turk landowners in the village of Maevka, before moving toward the capital Bishkek and demanding talks with officials. ](/news/2010/04/19/several-hundred-people-armed-with-sticks-and-stones-clashed-with-ethnic-russians-and-meskhetian-turk-landowners-in-the-village-of-maevka-be.md)
+_Context: Bishkek_
 
-### [Middle East: UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/middle-east-un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to.md)
+### [UN High Commissioner for Human Rights, Navi Pillay calls for Saudi Arabia and Gulf states to lift restrictions on women and to improve the position of millions of foreign workers in the region. ](/news/2010/04/19/un-high-commissioner-for-human-rights-navi-pillay-calls-for-saudi-arabia-and-gulf-states-to-lift-restrictions-on-women-and-to-improve-the-p.md)
 Gulf Arab countries must end their sponsorship system for migrant workers that leaves labourers beholden to employers and exposed to potential abuse, the U.N. High Commissioner for Human Rights said on Monday.
 
-### [Iraq:: Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraq-iraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md)
+### [Iraqi election officials order a manual recount of votes cast in Baghdad after complaints are raised. ](/news/2010/04/19/iraqi-election-officials-order-a-manual-recount-of-votes-cast-in-baghdad-after-complaints-are-raised.md)
 _Context: Baghdad, Iraq_
 
-### [Israeli-Palestinian conflict:: Hamas executions by firing squad of Palestinians accused of aiding Israel is condemned as murder by France, and the UN High Commissioner for Human Rights, Navi Pillay, urges Hamas to halt plans for further killings. ](/news/2010/04/19/israeli-palestinian-conflict-hamas-executions-by-firing-squad-of-palestinians-accused-of-aiding-israel-is-condemned-as-murder-by-france.md)
+### [Hamas executions by firing squad of Palestinians accused of aiding Israel is condemned as murder by France, and the UN High Commissioner for Human Rights, Navi Pillay, urges Hamas to halt plans for further killings. ](/news/2010/04/19/hamas-executions-by-firing-squad-of-palestinians-accused-of-aiding-israel-is-condemned-as-murder-by-france-and-the-un-high-commissioner-for.md)
 The executions, carried out by a firing squad at dawn, were the first since the Islamic group Hamas seized control of Gaza after routing forces loyal Mahmoud Abbas in 2007.
 
-### [Air travel disruption after the 2010 eruptions of Eyjafjallajokull:: The International Air Transport Association (IATA) criticises European governments, questions their leadership and asks them to reevaluate their decision-making process in the wake of the disaster. ](/news/2010/04/19/air-travel-disruption-after-the-2010-eruptions-of-eyjafjallajapkull-the-international-air-transport-association-iata-criticises-european.md)
+### [The International Air Transport Association (IATA) criticises European governments, questions their leadership and asks them to reevaluate their decision-making process in the wake of the disaster. ](/news/2010/04/19/the-international-air-transport-association-iata-criticises-european-governments-questions-their-leadership-and-asks-them-to-reevaluate-t.md)
 Flights will finally start again in the UK tomorrow after air traffic control company Nats lifted restrictions for Scotland and part of northern England.
 
 ### [A report by the Federation Internationale de Luge de Course (FIL) concludes the track on which Georgian luger Nodar Kumaritashvili died at the 2010 Winter Olympics was faster than it should have been. ](/news/2010/04/19/a-report-by-the-fa-c-da-c-ration-internationale-de-luge-de-course-fil-concludes-the-track-on-which-georgian-luger-nodar-kumaritashvili-died-at.md)
@@ -39,7 +39,7 @@ _Context: Bangkok, Thailand_
 ### [Australian Prime Minister Kevin Rudd shows a two-hour presentation on his health reform plan at a Council of Australian Governments (COAG) meeting in Canberra. ](/news/2010/04/19/australian-prime-minister-kevin-rudd-shows-a-two-hour-presentation-on-his-health-reform-plan-at-a-council-of-australian-governments-coag-m.md)
 Three letters - GST - are standing between Kevin Rudd and the most dramatic overhaul of the health and hospital network since the introduction of Medicare.
 
-### [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country-s capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-country-s-capital-of-mogadishu.md)
+### [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country's capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-countryas-capital-of-mogadishu.md)
 _Context: Angelina Jolie, Mogadishu, Somalia, UN Goodwill Ambassador_
 
 ### [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md)

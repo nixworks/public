@@ -1,16 +1,16 @@
 ## [2013-09-9](/news/2013/09/9/index.md)
 
-### [Aftermath of the Central African Republic conflict (2012-13):: At least 60 people are killed in Central African Republic during clashes between pro-Seleka rebels and forces loyal to ousted President Francois Bozize. ](/news/2013/09/9/aftermath-of-the-central-african-republic-conflict-2012-13-at-least-60-people-are-killed-in-central-african-republic-during-clashes-be.md)
+### [At least 60 people are killed in Central African Republic during clashes between pro-Seleka rebels and forces loyal to ousted President Francois Bozize. ](/news/2013/09/9/at-least-60-people-are-killed-in-central-african-republic-during-clashes-between-pro-sa-c-la-c-ka-rebels-and-forces-loyal-to-ousted-president-fr.md)
 At least 60 people have been killed in the Central African Republic in fighting between former rebels and forces loyal to the president they ousted in March, officials say.
 
-### [Nigerian Sharia conflict:: Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/nigerian-sharia-conflict-fighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md)
-_Context: Boko Haram, Borno State, Nigerian Sharia conflict_
+### [Fighting between Boko Haram and government-backed vigilantes in Borno State leaves 18 dead. ](/news/2013/09/9/fighting-between-boko-haram-and-government-backed-vigilantes-in-borno-state-leaves-18-dead.md)
+_Context: Boko Haram, Borno State_
 
-### [Islamic insurgency in the Philippines:: Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/islamic-insurgency-in-the-philippines-followers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port.md)
+### [Followers of Muslim separatist leader Nur Misuari launch an attack on the southern Philippines port of Zamboanga City, forcing the closure of businesses and schools. ](/news/2013/09/9/followers-of-muslim-separatist-leader-nur-misuari-launch-an-attack-on-the-southern-philippines-port-of-zamboanga-city-forcing-the-closure-o.md)
 An attack by dozens of Muslim rebels shut down the major southern Philippine port city of Zamboanga on Monday, the mayor and military officials said.
 
-### [Political violence in Egypt, 2013:: Mahmoud Badr, the founder of the Tamarod grassroots movement that helped spark the July 2013 Egyptian protests, reportedly survives an assassination attempt. ](/news/2013/09/9/political-violence-in-egypt-2013-mahmoud-badr-the-founder-of-the-tamarod-grassroots-movement-that-helped-spark-the-july-2013-egyptian-pr.md)
-_Context: July 2013 Egyptian protests, Mahmoud Badr, Political violence in Egypt, 2013, Tamarod_
+### [Mahmoud Badr, the founder of the Tamarod grassroots movement that helped spark the July 2013 Egyptian protests, reportedly survives an assassination attempt. ](/news/2013/09/9/mahmoud-badr-the-founder-of-the-tamarod-grassroots-movement-that-helped-spark-the-july-2013-egyptian-protests-reportedly-survives-an-assas.md)
+_Context: July 2013 Egyptian protests, Mahmoud Badr, Tamarod_
 
 ### [A senior Russian diplomat is gunned down in Sukhumi, the capital of Georgia's breakaway region of Abkhazia. ](/news/2013/09/9/a-senior-russian-diplomat-is-gunned-down-in-sukhumi-the-capital-of-georgia-s-breakaway-region-of-abkhazia.md)
 _Context: Abkhazia, Georgian, Russia, Sukhumi_

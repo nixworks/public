@@ -11,4 +11,4 @@ An&nbsp;American&nbsp;in&nbsp;Paris&nbsp;and&nbsp;Fun&nbsp;Home&nbsp;topped&nbsp
 
 ### Related:
 
-1. [69th Tony Awards: The 2015 Tony Awards, which celebrate the best theatrical performances on Broadway, are held at Radio City Music Hall with "The Curious Incident of the Dog in the Night-Time" winning best play and "Fun Home" winning best musical. ](/news/2015/06/7/69th-tony-awards-the-2015-tony-awards-which-celebrate-the-best-theatrical-performances-on-broadway-are-held-at-radio-city-music-hall-with.md) _Context: 69th Tony Awards, Fun Home_
+1. [The 2015 Tony Awards, which celebrate the best theatrical performances on Broadway, are held at Radio City Music Hall with "The Curious Incident of the Dog in the Night-Time" winning best play and "Fun Home" winning best musical. ](/news/2015/06/7/the-2015-tony-awards-which-celebrate-the-best-theatrical-performances-on-broadway-are-held-at-radio-city-music-hall-with-the-curious-inci.md) _Context: 69th Tony Awards, Fun Home_

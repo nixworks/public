@@ -3,8 +3,8 @@
 ### [ The United States Senate confirms Timothy F. Geithner as Secretary of the Treasury. ](/news/2009/01/26/the-united-states-senate-confirms-timothy-f-geithner-as-secretary-of-the-treasury.md)
 _Context: Timothy F. Geithner, Treasury Secretary, United States, United States Senate_
 
-### [ 2008-2009 Israel-Gaza conflict:: An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/2008-2009-israel-gaza-conflict-an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md)
-_Context: Gaza Strip, Israel, Israel Defense Forces, bomb, fire_
+### [ An Israeli soldier is killed and three others injured in a bombing at the Gaza Strip border. ](/news/2009/01/26/an-israeli-soldier-is-killed-and-three-others-injured-in-a-bombing-at-the-gaza-strip-border.md)
+_Context: Gaza Strip, Israel, Israel Defense Forces, bomb_
 
 ### [ Icelandic Prime Minister Geir Haarde announces the collapse of his coalition government in the wake of the country's financial crisis. ](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.md)
 _Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, governing coalition, government_

@@ -3,7 +3,7 @@
 ### [Syrian uprising: The United Nations says both government and opposition forces have violated the ceasefire. ](/news/2012/05/1/syrian-uprising-the-united-nations-says-both-government-and-opposition-forces-have-violated-the-ceasefire.md)
 Peacekeeping chief says artillery and armoured vehicles still in cities, adding that both sides have violated ceasefire.
 
-### [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011-2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md)
+### [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md)
 _Context: 2011-2012 Bahraini uprising, Manama_
 
 ### [An attack by a suicide bomber in a cafe attached to a hotel in Dhusamareb, Somalia, causes an indeterminate number of fatalities, including according to witnesses two MPs, Yusuf Mire Seerar and Abdiweli Sheik Mohamud. ](/news/2012/05/1/an-attack-by-a-suicide-bomber-in-a-cafa-c-attached-to-a-hotel-in-dhusamareb-somalia-causes-an-indeterminate-number-of-fatalities-including.md)
@@ -12,7 +12,7 @@ _Context: Dhusamareb, Somalia_
 ### [2012 Mali counter-coup attempt: Heavy fighting takes place in the Malian capital Bamako between coup supporters and opponents. ](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.md)
 Current military leaders say they retain hold of key locations in Bamako after attempted counter-coup claimed 14 lives.
 
-### [2012 South Sudan-Sudan border conflict: Tensions rise between the two nations as South Sudan accuses Sudan of attacking locations in its territory. ](/news/2012/05/1/2012-south-sudan-sudan-border-conflict-tensions-rise-between-the-two-nations-as-south-sudan-accuses-sudan-of-attacking-locations-in-its-t.md)
+### [2012 South Sudan-Sudan border conflict: Tensions rise between the two nations as South Sudan accuses Sudan of attacking locations in its territory. ](/news/2012/05/1/2012-south-sudanasudan-border-conflict-tensions-rise-between-the-two-nations-as-south-sudan-accuses-sudan-of-attacking-locations-in-its-t.md)
 South Sudan accused Sudan of launching a ground attack in an oil region of the newly independent state on Tuesday and said it was preparing to strike back, in rising tension that shows no sign of abating.
 
 ### [Up to 20 people are arrested amid the investigation about last month's massacre at Zelezarsko lake in the Republic of Macedonia. ](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.md)

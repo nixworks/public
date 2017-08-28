@@ -1,12 +1,12 @@
 ## [2009-06-19](/news/2009/06/19/index.md)
 
-### [ Iran: The Iranian Supreme Leader Grand Ayatollah Ali Khamenei warns against further election protests. ](/news/2009/06/19/iran-the-iranian-supreme-leader-grand-ayatollah-ali-khamenei-warns-against-further-election-protests.md)
+### [ The Iranian Supreme Leader Grand Ayatollah Ali Khamenei warns against further election protests. ](/news/2009/06/19/the-iranian-supreme-leader-grand-ayatollah-ali-khamenei-warns-against-further-election-protests.md)
 Iran’s supreme leader, Ayatollah Ali Khamenei, raised the prospect of violence if the vast, defiant protests of opposition supporters continued.
 
 ### [ As part of an ongoing row between FOTA and the FIA, eight teams declare that they will leave Formula One and set up a new championship for the 2010 season. ](/news/2009/06/19/as-part-of-an-ongoing-row-between-fota-and-the-fia-eight-teams-declare-that-they-will-leave-formula-one-and-set-up-a-new-championship-for.md)
 _Context: FIA, FOTA, Formula One, ongoing row_
 
-### [ Attacks on Romanians in Belfast: Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/attacks-on-romanians-in-belfast-two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md)
+### [ Two teenagers are arrested by police in connection with racist attacks on Romanians in south Belfast. ](/news/2009/06/19/two-teenagers-are-arrested-by-police-in-connection-with-racist-attacks-on-romanians-in-south-belfast.md)
 _Context: Belfast, Police Service of Northern Ireland, Romanians_
 
 ### [ Swine flu is confirmed in Ethiopia and Slovenia. ](/news/2009/06/19/swine-flu-is-confirmed-in-ethiopia-and-slovenia.md)
@@ -51,7 +51,7 @@ _Context: CFTC, Mary Schapiro, SEC_
 ### [ U.S. District Court Judge Samuel B. Kent is impeached by the U.S. House of Representatives on charges of obstruction of justice. ](/news/2009/06/19/u-s-district-court-judge-samuel-b-kent-is-impeached-by-the-u-s-house-of-representatives-on-charges-of-obstruction-of-justice.md)
 _Context: Samuel B. Kent_
 
-### [ The U.S. Treasury Department confirmed that 10 big banks have met the necessary requirements to repay funds that they have received-a total of $58 billion-in the Troubled Asset Relief Program of October 2008. ](/news/2009/06/19/the-u-s-treasury-department-confirmed-that-10-big-banks-have-met-the-necessary-requirements-to-repay-funds-that-they-have-received-a-tot.md)
+### [ The U.S. Treasury Department confirmed that 10 big banks have met the necessary requirements to repay funds that they have received--a total of $58 billion--in the Troubled Asset Relief Program of October 2008. ](/news/2009/06/19/the-u-s-treasury-department-confirmed-that-10-big-banks-have-met-the-necessary-requirements-to-repay-funds-that-they-have-receivedaa-tot.md)
 _Context: October 2008, Troubled Asset Relief Program, U.S. Treasury_
 
 ## [Previous Day...](/news/2009/06/18/index.md)

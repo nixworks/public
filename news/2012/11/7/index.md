@@ -9,7 +9,7 @@ _Context: A gunman opens fire, Moscow_
 ### [An earthquake measuring 7.3 on the Richter scale kills 48 people in northern Guatemala. ](/news/2012/11/7/an-earthquake-measuring-7-3-on-the-richter-scale-kills-48-people-in-northern-guatemala.md)
 _Context: Guatemala, earthquake measuring 7.3, magnitude_
 
-### [United States elections, 2012: Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/united-states-elections-2012-voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage.md)
+### [Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage-while-minnesota-votes-down-an-a.md)
 CLEVELAND - Maryland and Maine appeared poised to become the first states in the nation to back same-sex marriage at the ballot box Tuesday night, and other gay-marriage measures were on the...
 
 ## [Previous Day...](/news/2012/11/6/index.md)

@@ -20,4 +20,4 @@
 7. [Merck agrees to buy "superbug"-fighter Cubist Pharmaceuticals for $9.5 billion. ](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.md) _Context: United States dollars_
 8. [The US CFTC fines Deutsche Bank $3 million over customer fund flaws. ](/news/2014/12/22/the-us-cftc-fines-deutsche-bank-3-million-over-customer-fund-flaws.md) _Context: United States dollars_
 9. [Spanish energy company Repsol acquires Canadian energy producer Talisman Energy for $13 billion including debt. ](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.md) _Context: United States dollars_
-10. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55-60-per-barrel-for-the-first-time-since-2009.md) _Context: United States dollars_
+10. [The price of Brent Crude oil drops to $55-60 per barrel for the first time since 2009. ](/news/2014/12/16/the-price-of-brent-crude-oil-drops-to-55a60-per-barrel-for-the-first-time-since-2009.md) _Context: United States dollars_

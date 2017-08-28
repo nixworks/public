@@ -6,7 +6,7 @@ Iran security forces fire tear gas to break up demonstrations by opposition supp
 ### [2011 Jordanian protests: Relatives of jailed Islamists in Jordan demand their release in a demonstration in the capital Amman. ](/news/2011/03/1/2011-jordanian-protests-relatives-of-jailed-islamists-in-jordan-demand-their-release-in-a-demonstration-in-the-capital-amman.md)
 Amman, March 1 (DPA) Hundreds of relatives protested in Amman Tuesday to press for the release of dozens of Islamists, 27 of whom are currently on hunger...
 
-### [2011 Libyan civil war: Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/2011-libyan-civil-war-al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md)
+### [Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md)
 _Context: Al Jazeera, Libya, Libyan Civil War, Misrata, Muammar Gaddafi_
 
 ### [2011 Omani protests: A fourth day of protests take place, with security forces firing into the air in an attempt to disperse protesters. ](/news/2011/03/1/2011-omani-protests-a-fourth-day-of-protests-take-place-with-security-forces-firing-into-the-air-in-an-attempt-to-disperse-protesters.md)
@@ -30,7 +30,7 @@ A judge temporarily stripped Charlie Sheen of custody of his twin sons Tuesday, 
 ### [Ally Financial, the company formerly known as General Motors Acceptance Corporation, announced in a filing with the Securities and Exchange Commission that the U.S. Treasury Department will be selling some of Ally's preferred securities. This is part of the unwinding of the Treasury's investment in the auto industry as a result of the 2008 financial crisis. ](/news/2011/03/1/ally-financial-the-company-formerly-known-as-general-motors-acceptance-corporation-announced-in-a-filing-with-the-securities-and-exchange.md)
 _Context: Ally Financial, Securities and Exchange Commission, United States Treasury Department_
 
-### [2011 Canterbury earthquake: New Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/2011-canterbury-earthquake-new-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md)
+### [New Zealand holds a two-minute silence in respect for the victims of the 2011 Canterbury earthquake. ](/news/2011/03/1/new-zealand-holds-a-two-minute-silence-in-respect-for-the-victims-of-the-2011-canterbury-earthquake.md)
 The death toll from the Christchurch earthquake is likely to be about 240, police say. - New Zealand Herald
 
 ### [The President of South Korea Lee Myung-bak calls on North Korea to abandon its nuclear and missile programs. ](/news/2011/03/1/the-president-of-south-korea-lee-myung-bak-calls-on-north-korea-to-abandon-its-nuclear-and-missile-programs.md)

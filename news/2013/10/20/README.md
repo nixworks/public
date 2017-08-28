@@ -1,13 +1,13 @@
 ## [2013-10-20](/news/2013/10/20/index.md)
 
-### [Syrian civil war:: A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/syrian-civil-war-a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills.md)
-_Context: Hama, Syria, Syrian Civil War, al-Nusra, al-Qaeda_
+### [A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. ](/news/2013/10/20/a-suicide-truck-bomber-attack-by-the-al-qaeda-linked-al-nusra-front-on-a-government-checkpoint-outside-hama-syria-kills-at-least-30-people.md)
+_Context: Hama, Syria, al-Nusra, al-Qaeda_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/iraqi-insurgency-post-u-s-withdrawal-suicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md)
+### [Suicide bombers targeting police and local officials in Rawa, northwest of Baghdad, kill 15 people. ](/news/2013/10/20/suicide-bombers-targeting-police-and-local-officials-in-rawa-northwest-of-baghdad-kill-15-people.md)
 At least 37 people are killed and more than 40 injured by a suicide bombing at a Baghdad cafe in a mainly Shia district, Iraqi officials say.
 
-### [South Sudan internal conflict (2011-present):: Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/south-sudan-internal-conflict-2011-present-cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leavin.md)
-_Context: David Yau Yau, Jonglei, South Sudan internal conflict (2011-present)_
+### [Cattle raiders believed to be led by David Yau Yau attack villages in Jonglei state, leaving at least 78 dead. ](/news/2013/10/20/cattle-raiders-believed-to-be-led-by-david-yau-yau-attack-villages-in-jonglei-state-leaving-at-least-78-dead.md)
+_Context: David Yau Yau, Jonglei_
 
 ### [Gunmen open fire on a Christian wedding in a Cairo suburb in Egypt, with at least three people killed and nine others injured. [http://www.bbc.co.uk/news/world-middle-east-24605130 (BBC) ]](/news/2013/10/20/gunmen-open-fire-on-a-christian-wedding-in-a-cairo-suburb-in-egypt-with-at-least-three-people-killed-and-nine-others-injured-http-www-b.md)
 _Context: Cairo_

@@ -1,6 +1,6 @@
 ### [2016-04-12](/news/2016/04/12/index.md)
 
-#   A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. 
+#  A French Army soldier is killed and three others are injured after their convoy hit a landmine in northern Mali. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -18,6 +18,6 @@ Get the latest international news and world events from Asia, Europe, the Middle
 5. [ A U.S. member of the OSCE monitoring mission is killed and two others injured after their vehicle drives over a land mine near Luhansk. ](/news/2017/04/23/a-u-s-member-of-the-osce-monitoring-mission-is-killed-and-two-others-injured-after-their-vehicle-drives-over-a-land-mine-near-luhansk.md) _Context: land mine_
 6. [A French Army soldier shoots and wounds a man armed with a knife who was trying to enter an underground shopping area near the Louvre in Paris. The museum was evacuated. ](/news/2017/02/3/a-french-army-soldier-shoots-and-wounds-a-man-armed-with-a-knife-who-was-trying-to-enter-an-underground-shopping-area-near-the-louvre-in-par.md) _Context: French Army_
 7. [A suicide bomber detonates a vehicle full of explosives at a military camp in Gao, Mali, killing at least 76 people and wounding scores more in Mali's deadliest terrorist attack in history. ](/news/2017/01/18/a-suicide-bomber-detonates-a-vehicle-full-of-explosives-at-a-military-camp-in-gao-mali-killing-at-least-76-people-and-wounding-scores-more.md) _Context: Mali_
-8. [Aftermath of the President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/aftermath-of-the-president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-at.md) _Context: Mali_
+8. [President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. ](/news/2017/01/14/president-elect-adama-barrow-travels-to-the-malian-capital-of-bamako-to-meet-with-world-leaders-after-yesterday-s-failed-attempts-at-persuad.md) _Context: Mali_
 9. [Mali returns two people France deported on the same planes they arrived on. ](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-same-planes-they-arrived-on.md) _Context: Mali_
 10. [An attack on a border post near Burkina Faso's border with Mali, leaves at least 12 Burkinabe troops dead and two others missing. ](/news/2016/12/16/an-attack-on-a-border-post-near-burkina-faso-s-border-with-mali-leaves-at-least-12-burkinabe-troops-dead-and-two-others-missing.md) _Context: Mali_

@@ -1,6 +1,6 @@
 ### [2015-07-23](/news/2015/07/23/index.md)
 
-# Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of ''Trainwreck''. 
+# Seven people are wounded, and three are dead (including the shooter) after a 58-year-old gunman opens fire at the Grand 16 Movie Theater in Lafayette, Louisiana during a showing of "Trainwreck". 
 
 
 

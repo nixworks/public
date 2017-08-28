@@ -3,7 +3,7 @@
 ### [ The 2008 Summer Olympics starts with the 2008 Summer Olympics Opening Ceremony at the Beijing National Stadium. ](/news/2008/08/8/the-2008-summer-olympics-starts-with-the-2008-summer-olympics-opening-ceremony-at-the-beijing-national-stadium.md)
 _Context: 2008 Summer Olympics, 2008 Summer Olympics Opening Ceremony, Beijing National Stadium_
 
-### [ 2008 South Ossetia War:: Around 0:30 AM (local time), Georgia begins a full-scale attack on the breakaway republic of South Ossetia, using tanks, military aircraft, artillery, and infantry. Major-General Marat Kulakhmetov, the commander of a small force of Russian peacekeepers under CIS mandate in Tskhinvali makes a statement that Georgian 'heavy artillery shelling conducted for several hours' and 'has practically demolished the town' ](/news/2008/08/8/2008-south-ossetia-war-around-0-30-am-local-time-georgia-begins-a-full-scale-attack-on-the-breakaway-republic-of-south-ossetia-using.md)
+### [ Around 0:30 AM (local time), Georgia begins a full-scale attack on the breakaway republic of South Ossetia, using tanks, military aircraft, artillery, and infantry. Major-General Marat Kulakhmetov, the commander of a small force of Russian peacekeepers under CIS mandate in Tskhinvali makes a statement that Georgian 'heavy artillery shelling conducted for several hours' and 'has practically demolished the town' ](/news/2008/08/8/around-0-30-am-local-time-georgia-begins-a-full-scale-attack-on-the-breakaway-republic-of-south-ossetia-using-tanks-military-aircraft.md)
 Russian forces battled pro-Western Georgian troops in South Ossetia on Friday in an escalating conflict that threatens to engulf a key energy transit route to Western Europe.
 
 ### [ A car bomb in the town of Tal Afar in northern Iraq kills at least 21 people and injures about 70. ](/news/2008/08/8/a-car-bomb-in-the-town-of-tal-afar-in-northern-iraq-kills-at-least-21-people-and-injures-about-70.md)
@@ -21,8 +21,8 @@ A terrorist group seeking an independent Muslim state in western China has relea
 ### [ The President of the United States George W. Bush dedicates a new American embassy in Beijing. ](/news/2008/08/8/the-president-of-the-united-states-george-w-bush-dedicates-a-new-american-embassy-in-beijing.md)
 _Context: George W. Bush, President, United States_
 
-### [ Economic crisis of 2008:: UK home repossessions rise by 48%. ](/news/2008/08/8/economic-crisis-of-2008-uk-home-repossessions-rise-by-48.md)
-_Context: current economic crisis, repossession_
+### [ UK home repossessions rise by 48%. ](/news/2008/08/8/uk-home-repossessions-rise-by-48.md)
+_Context: repossession_
 
 ### [ Former U.S. Senator and Democratic ex-presidential candidate John Edwards admits to an affair with Rielle Hunter after having earlier denied it. ](/news/2008/08/8/former-u-s-senator-and-democratic-ex-presidential-candidate-john-edwards-admits-to-an-affair-with-rielle-hunter-after-having-earlier-denie.md)
 _Context: 2008, Democratic, John Edwards, Rielle Hunter, an affair_

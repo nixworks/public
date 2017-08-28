@@ -11,5 +11,5 @@ Two soldiers died when a military jet crashed in a south-eastern Iranian city wh
 
 ### Related:
 
-1. [Syrian uprising (2011-present):: The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/syrian-uprising-2011-present-the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over.md) _Context: F-4 Phantom II_
+1. [The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. ](/news/2012/06/22/the-syrian-military-shoots-down-a-turkish-f-4-phantom-fighter-jet-after-it-had-entered-syrian-airpsace-over-the-mediterranean-sea.md) _Context: F-4 Phantom II_
 2. [An Islamic Republic of Iran Air Force F4 aircraft crashes in the southern province of Bushehr; both pilots survive. ](/news/2010/08/17/an-islamic-republic-of-iran-air-force-f4-aircraft-crashes-in-the-southern-province-of-bushehr-both-pilots-survive.md) _Context: Iranian Air Force_

@@ -15,7 +15,7 @@ _Context: Boeing 727, Democratic Republic of the Congo, Hewa Bora, crashes_
 ### [The United Nations Security Council discusses sending a peacekeeping force to the Republic of South Sudan when it becomes an independent nation tomorrow. ](/news/2011/07/8/the-united-nations-security-council-discusses-sending-a-peacekeeping-force-to-the-republic-of-south-sudan-when-it-becomes-an-independent-nat.md)
 _Context: South Sudan, United Nations Security Council, independent, peacekeepers_
 
-### ["News of the World":: Former editor of the "News of the World", Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/news-of-the-world-former-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a-ph.md)
+### [Former editor of the "News of the World", Andy Coulson, is arrested for questioning due to alleged involvement in a phone hacking affair. ](/news/2011/07/8/former-editor-of-the-news-of-the-world-andy-coulson-is-arrested-for-questioning-due-to-alleged-involvement-in-a-phone-hacking-affair.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 ### [A large protest with as many as a million people participating is planned for the Egyptian capital Cairo over perceived lack of progress since the 2011 Egyptian revolution. ](/news/2011/07/8/a-large-protest-with-as-many-as-a-million-people-participating-is-planned-for-the-egyptian-capital-cairo-over-perceived-lack-of-progress-sin.md)

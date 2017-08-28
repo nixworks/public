@@ -1,6 +1,6 @@
 ## [2012-08-25](/news/2012/08/25/index.md)
 
-### [Syrian civil war: At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/syrian-civil-war-at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposi.md)
+### [At least 330 people are killed in Syria, marking the highest single-day death toll in the uprising according to the opposition. ](/news/2012/08/25/at-least-330-people-are-killed-in-syria-marking-the-highest-single-day-death-toll-in-the-uprising-according-to-the-opposition.md)
 The bodies of at least 200 people were found in a town close to Damascus on Saturday, according to activists who said most appeared to have been killed by Syrian troops &quot;execution style&quot;.
 
 ### [Libya: Unnamed organized assailants bulldoze a Sufi mosque with graves, in broad daylight in the centre of the Libyan capital Tripoli. It is the second such razing of a Sufi site in two days. De facto head of state Mohamed Yousef el-Magariaf tells reporters: "What is truly regrettable and suspicious is that some of those who took part in these destruction activities are supposed to be of the security forces and from the revolutionaries." ](/news/2012/08/25/libya-unnamed-organized-assailants-bulldoze-a-sufi-mosque-with-graves-in-broad-daylight-in-the-centre-of-the-libyan-capital-tripoli-it-is.md)
@@ -16,7 +16,7 @@ _Context: Balkans, Nis, Russia, Serbia, Wildfire, drought, fire fighting aircraf
 At least 3 dead in Haiti; Forecasters say storm with 60-mph winds will build strength into Category 1 hurricane as it approaches Sunshine State; Florida Gov. Scott declares state of emergency
 
 ### [At least 85,000 people are displaced in Myanmar as weeks of heavy rain contribute to severe flooding in the Irrawaddy Delta. ](/news/2012/08/25/at-least-85-000-people-are-displaced-in-myanmar-as-weeks-of-heavy-rain-contribute-to-severe-flooding-in-the-irrawaddy-delta.md)
-_Context: Irrawaddy Delta, Myanmar_
+_Context: Burmese, Irrawaddy Delta_
 
 ### [A gas-leak blast at the Paraguana Refinery Complex in Amuay, in north Venezuela kills at least 39 people and injures more than 80. ](/news/2012/08/25/a-gas-leak-blast-at-the-paraguana-refinery-complex-in-amuay-in-north-venezuela-kills-at-least-39-people-and-injures-more-than-80.md)
 _Context: Amuay, Paraguana Refinery Complex, Venezuela_

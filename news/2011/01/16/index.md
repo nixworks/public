@@ -1,6 +1,6 @@
 ## [2011-01-16](/news/2011/01/16/index.md)
 
-### [2010-2011 Tunisian protests:: Ali Seriati, the former head of presidential security, is arrested and accused of threatening state security by fomenting violence. ](/news/2011/01/16/2010-2011-tunisian-protests-ali-seriati-the-former-head-of-presidential-security-is-arrested-and-accused-of-threatening-state-security.md)
+### [Ali Seriati, the former head of presidential security, is arrested and accused of threatening state security by fomenting violence. ](/news/2011/01/16/ali-seriati-the-former-head-of-presidential-security-is-arrested-and-accused-of-threatening-state-security-by-fomenting-violence.md)
 Reports of gunshots in the capital Tunis as politicians struggle to restore order and form a government.
 
 ### [Southern Sudanese leader Salva Kiir calls on the people of South Sudan to forgive the north for killings during the civil war. ](/news/2011/01/16/southern-sudanese-leader-salva-kiir-calls-on-the-people-of-south-sudan-to-forgive-the-north-for-killings-during-the-civil-war.md)
@@ -12,7 +12,7 @@ Operations at Israel’s Dimona complex are among the strongest clues that the S
 ### [Nine civilians are killed in Baghlan, Afghanistan on their way to a wedding when they were blown up: 6 civilians are killed and 3 civilians are injured in Helmand after a minibus and a bomb collide. ](/news/2011/01/16/nine-civilians-are-killed-in-baghlan-afghanistan-on-their-way-to-a-wedding-when-they-were-blown-up-6-civilians-are-killed-and-3-civilians.md)
 At least nine Afghans on their way to a wedding in the north are killed by a roadside bomb which destroyed their car, officials say.
 
-### ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md)
+### ["The Social Network" wins Best Motion Picture - Drama, while Colin Firth and Natalie Portman win Best Actor and Best Actress- Drama at the 68th Golden Globe Awards. ](/news/2011/01/16/the-social-network-wins-best-motion-picture-a-drama-while-colin-firth-and-natalie-portman-win-best-actor-and-best-actress-drama-at-the.md)
 _Context: 68th Golden Globe Awards, Colin Firth, Natalie Portman, The Social Network_
 
 ### [A ship carrying 263 migrants sinks off the coast of Greece; 22 are missing. ](/news/2011/01/16/a-ship-carrying-263-migrants-sinks-off-the-coast-of-greece-22-are-missing.md)
@@ -42,7 +42,7 @@ Iran has been developing contacts in more than 30 countries to acquire technolog
 ### [The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. ](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.md)
 _Context: Japan, Naoto Kan, Prime Minister of Japan, Tokyo_
 
-### [Leadership challenge to Taoiseach Brian Cowen:: Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/leadership-challenge-to-taoiseach-brian-cowen-taoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the.md)
+### [Taoiseach Brian Cowen announces his intention to lead the ruling Fianna Fail party into the upcoming general election after spending the past two days consulting his party. He offers his colleagues a secret motion of confidence ballot in his leadership, scheduled for Tuesday. ](/news/2011/01/16/taoiseach-brian-cowen-announces-his-intention-to-lead-the-ruling-fianna-fa-il-party-into-the-upcoming-general-election-after-spending-the-pa.md)
 The Irish prime minister announces he will not be standing down as leader of the ruling Fianna Fail party.
 
 ### [Libyan leader Muammar al-Gaddafi reaches 41 years in power; there are less than 24 months left until he is scheduled to become Africa's longest serving ruler, overtaking former Gabonese President Omar Bongo who died in 2009. ](/news/2011/01/16/libyan-leader-muammar-al-gaddafi-reaches-41-years-in-power-there-are-less-than-24-months-left-until-he-is-scheduled-to-become-africa-s-long.md)

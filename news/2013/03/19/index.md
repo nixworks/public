@@ -1,12 +1,12 @@
 ## [2013-03-19](/news/2013/03/19/index.md)
 
-### [19 March 2013 Iraq attacks:: A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/19-march-2013-iraq-attacks-a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md)
+### [A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. ](/news/2013/03/19/a-series-of-bombings-and-shootings-kills-at-least-98-people-and-injures-240-others-across-iraq.md)
 Up to 60 people are killed and scores are injured in a series of bomb attacks in Baghdad on the 10th anniversary of the US-led invasion of Iraq.
 
-### [Kurdish-Turkish conflict:: Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/kurdish-turkish-conflict-two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-part.md)
-_Context: AK Party, Ankara, Justice Minister, Kurdish-Turkish conflict, Turkey_
+### [Two people are injured in explosions at Turkey's justice ministry and the headquarters of the governing AK Party in Ankara. ](/news/2013/03/19/two-people-are-injured-in-explosions-at-turkey-s-justice-ministry-and-the-headquarters-of-the-governing-ak-party-in-ankara.md)
+_Context: AK Party, Ankara, Justice Minister, Turkey_
 
-### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012-2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ec-ecb-imf-troika-plan-to-tax-all-bank-deposits.md)
+### [2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. ](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawmakers-overwhelmingly-reject-the-ecaecbaimf-troika-plan-to-tax-all-bank-deposits.md)
 Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank deposits.
 
 ### [A bus crash in the Indian state of Maharashtra kills at least 37 people and injures 14 others. ](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-kills-at-least-37-people-and-injures-14-others.md)

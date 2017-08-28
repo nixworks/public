@@ -1,0 +1,24 @@
+### [2008-06-22](/news/2008/06/22/index.md)
+
+#  Zimbabwean opposition leader Morgan Tsvangirai pulls out of the June 27 run-off presidential election after President Robert Mugabe's supporters attacked his rally. 
+
+Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election against President Robert Mugabe on Sunday, saying his supporters would be risking their lives if they voted.
+
+
+### Source:
+
+1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aez5d63T2B.c&refer=home)
+2. [Reuters](http://www.reuters.com/article/newsOne/idUSL2026827820080622)
+
+### Related:
+
+1. [Zimbabwe's top court rules that the general election should be held on July 31 despite an appeal by President Robert Mugabe and his main rival Prime Minister Morgan Tsvangirai. ](/news/2013/07/5/zimbabwe-s-top-court-rules-that-the-general-election-should-be-held-on-july-31-despite-an-appeal-by-president-robert-mugabe-and-his-main-riv.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+2. [The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". ](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+3. [Zimbabwean Prime Minister Morgan Tsvangirai charges his President Robert Mugabe with violating the constitution and unilateral decision-making. Mugabe and his party fail to respond in public. ](/news/2010/10/7/zimbabwean-prime-minister-morgan-tsvangirai-charges-his-president-robert-mugabe-with-violating-the-constitution-and-unilateral-decision-maki.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+4. [Robert Mugabe, Morgan Tsvangirai and Arthur Mutambara, in a rare display of solidarity, call for an end to international sanctions on Zimbabwe and instead request investment. ](/news/2010/05/6/robert-mugabe-morgan-tsvangirai-and-arthur-mutambara-in-a-rare-display-of-solidarity-call-for-an-end-to-international-sanctions-on-zimbab.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+5. [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+6. [ Morgan Tsvangirai of Zimbabwe's Movement for Democratic Change states that power-sharing talks with President Robert Mugabe have failed to reach an agreement. ](/news/2008/10/17/morgan-tsvangirai-of-zimbabwe-s-movement-for-democratic-change-states-that-power-sharing-talks-with-president-robert-mugabe-have-failed-to.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+7. [ A power-sharing agreement between Zimbabwean president Robert Mugabe and opposition leader Morgan Tsvangirai is officially signed, making Tsvangirai Prime Minister of Zimbabwe and chair of cabinet meetings. Mugabe maintains his position as president and remains in control of the country's army. ](/news/2008/09/15/a-power-sharing-agreement-between-zimbabwean-president-robert-mugabe-and-opposition-leader-morgan-tsvangirai-is-officially-signed-making-t.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_
+8. [ Robert Mugabe is sworn in for his sixth term as President of Zimbabwe after a controversial run-off presidential election in which opposition leader Morgan Tsvangirai withdraws his candidacy due to election-related violence. ](/news/2008/06/29/robert-mugabe-is-sworn-in-for-his-sixth-term-as-president-of-zimbabwe-after-a-controversial-run-off-presidential-election-in-which-oppositi.md) _Context: Morgan Tsvangirai, Robert Mugabe, run-off presidential election_
+9. [ Zimbabweans go to the polls for a runoff election with the President of Zimbabwe Robert Mugabe expected to be reelected following the withdrawal of Morgan Tsvangarai of the opposition Movement for Democratic Change. ](/news/2008/06/27/zimbabweans-go-to-the-polls-for-a-runoff-election-with-the-president-of-zimbabwe-robert-mugabe-expected-to-be-reelected-following-the-withd.md) _Context: Robert Mugabe, Zimbabwe, run-off presidential election_
+10. [ Morgan Tsvangirai's Movement for Democratic Change defeats Robert Mugabe's ZANU-PF in the Zimbabean "'parliamentary"' elections. ](/news/2008/04/2/morgan-tsvangirai-s-movement-for-democratic-change-defeats-robert-mugabe-s-zanu-pf-in-the-zimbabean-parliamentary-elections.md) _Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe_

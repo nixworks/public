@@ -3,7 +3,7 @@
 ### [2011 Syrian uprising: Syrian forces mass along the Turkish border near where thousands of refugees are camped. ](/news/2011/06/23/2011-syrian-uprising-syrian-forces-mass-along-the-turkish-border-near-where-thousands-of-refugees-are-camped.md)
 Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,escalating tensions with Ankara as President Bashar al-Assaduses increasing military force to try to crush a popular revolt.
 
-### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010-2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
+### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
@@ -39,7 +39,7 @@ An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate 
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
 _Context: 2011 Pacific typhoon season, China, Guangdong province, tropical storm_
 
-### [2011 Missouri River floods:: U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/2011-missouri-river-floods-u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha.md)
+### [U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha-nebraska-have-protected-crit.md)
 U.S. nuclear regulators say two Nebraska nuclear power plants have protected critical equipment from the rising waters of the Missouri River even though flooding has reached the grounds of one of them.
 
 ### [A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. ](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.md)

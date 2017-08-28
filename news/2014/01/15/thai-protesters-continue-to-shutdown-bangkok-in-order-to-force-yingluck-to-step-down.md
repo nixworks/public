@@ -1,0 +1,23 @@
+### [2014-01-15](/news/2014/01/15/index.md)
+
+# Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. 
+
+Anti-government demonstrations in Thailand continue into a third day, with protesters vowing not to quit until the Thai Government steps aside.
+
+
+### Source:
+
+1. [Australia Network News](http://www.abc.net.au/news/2014-01-15/an-thai-pm-refuses-to-step-down-as-bangkok-shutdown-continues/5200602)
+
+### Related:
+
+1. [Protesters gather in Bangkok to shut down the city centre in an effort to bring down the government of Prime Minister of Thailand Yingluck Shinawatra. ](/news/2014/01/13/protesters-gather-in-bangkok-to-shut-down-the-city-centre-in-an-effort-to-bring-down-the-government-of-prime-minister-of-thailand-yingluck-s.md) _Context: Bangkok, Yingluck Shinawatra_
+2. [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md) _Context: Bangkok, Yingluck Shinawatra_
+3. [Flooding in Thailand reaches the residence of the Prime Minister Yingluck Shinawatra in Bangkok, forcing her to withdraw from the Hawaii APEC summit to deal with the crisis. ](/news/2011/11/8/flooding-in-thailand-reaches-the-residence-of-the-prime-minister-yingluck-shinawatra-in-bangkok-forcing-her-to-withdraw-from-the-hawaii-ape.md) _Context: Bangkok, Yingluck Shinawatra_
+4. [The Prime Minister of Thailand, Yingluck Shinawatra, is hospitalised in Bangkok with suspected food poisoning. ](/news/2011/11/29/the-prime-minister-of-thailand-yingluck-shinawatra-is-hospitalised-in-bangkok-with-suspected-food-poisoning.md) _Context: Bangkok, Yingluck Shinawatra_
+5. [The Prime Minister of Thailand, Yingluck Shinawatra, admits that it is impossible to protect all of the capital Bangkok from ongoing nationwide flooding, describing the floods as a "national crisis". ](/news/2011/10/20/the-prime-minister-of-thailand-yingluck-shinawatra-admits-that-it-is-impossible-to-protect-all-of-the-capital-bangkok-from-ongoing-nationw.md) _Context: Bangkok, Yingluck Shinawatra_
+6. [The Prime Minister of Thailand, Yingluck Shinawatra, reassures residents that the capital, Bangkok, will largely escape from major flooding over the weekend. An estimated 289 people have been killed by flooding in Thailand since July 2011. ](/news/2011/10/14/the-prime-minister-of-thailand-yingluck-shinawatra-reassures-residents-that-the-capital-bangkok-will-largely-escape-from-major-flooding.md) _Context: Bangkok, Yingluck Shinawatra_
+7. [Senior members of the Pheu Thai Party report former Prime Minister Yingluck Shinawatra left Thailand last week ahead of the verdict in her negligence trial. She is in Dubai where her brother, Thaksin Shinawatra, lives. ](/news/2017/08/26/senior-members-of-the-pheu-thai-party-report-former-prime-minister-yingluck-shinawatra-left-thailand-last-week-ahead-of-the-verdict-in-her-n.md) _Context: Yingluck Shinawatra_
+8. [Thailand's Supreme Court issues an arrest warrant for former Prime Minister Yingluck Shinawatra, who didn't appear in court for the verdict in her negligence trial regarding a rice subsidy program for farmers. The court also issued a statement questioning her attorney's report that she is unwell and a potential flight risk, citing the lack of a physician's certificate. The reading of the verdict has been rescheduled to September 27. Sources within Shinawatra's party Pheu Thai Party have said that she has allegedly fled the country, though not saying where to, in response current prime minister Prayuth Chan-ocha has ordered the border checkpoints to be closely monitored to prevent Shinawatra leaving the country if she has not already. ](/news/2017/08/25/thailand-s-supreme-court-issues-an-arrest-warrant-for-former-prime-minister-yingluck-shinawatra-who-didn-t-appear-in-court-for-the-verdict.md) _Context: Yingluck Shinawatra_
+9. [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md) _Context: Bangkok_
+10. [A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. ](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devastating-factory-fire-in-karachi-has-been-arrested-in-bangkok.md) _Context: Bangkok_

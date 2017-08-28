@@ -3,16 +3,16 @@
 ### [Australia celebrates indigenous culture for NAIDOC Week with the 2010 theme 'Unsung Heroes - Closing the Gap by Leading Their Way'.](/news/2010/07/6/australia-celebrates-indigenous-culture-for-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)
 The Tasmanian Aboriginal community are using National Aboriginal Islander Day Observance Committee (NAIDOC) Week to criticise the State Government for failing to recognise heritage values.
 
-### [Somali Civil War: East African leaders call for 20,000 troops to be deployed across Somalia to support the United Nations-backed Transitional Federal Government and for the United Nations to replace the African Union Mission to Somalia. ](/news/2010/07/6/somali-civil-war-east-african-leaders-call-for-20-000-troops-to-be-deployed-across-somalia-to-support-the-united-nations-backed-transitiona.md)
+### [East African leaders call for 20,000 troops to be deployed across Somalia to support the United Nations-backed Transitional Federal Government and for the United Nations to replace the African Union Mission to Somalia. ](/news/2010/07/6/east-african-leaders-call-for-20-000-troops-to-be-deployed-across-somalia-to-support-the-united-nations-backed-transitional-federal-governme.md)
 East African leaders have called for 20,000 troops to be deployed across Somalia to support the country&#39;s besieged transitional federal government.
 
-### [Asia: Ameer Ullah Mehsud, a Taliban commander and one of the founders of the Tehrik-e-Taliban Pakistan, is killed by the Pakistani army. ](/news/2010/07/6/asia-ameer-ullah-mehsud-a-taliban-commander-and-one-of-the-founders-of-the-tehrik-e-taliban-pakistan-is-killed-by-the-pakistani-army.md)
+### [Ameer Ullah Mehsud, a Taliban commander and one of the founders of the Tehrik-e-Taliban Pakistan, is killed by the Pakistani army. ](/news/2010/07/6/ameer-ullah-mehsud-a-taliban-commander-and-one-of-the-founders-of-the-tehrik-e-taliban-pakistan-is-killed-by-the-pakistani-army.md)
 Demonstrators angry over human rights investigation try to break into UN offices.
 
-### [Middle East and Africa: The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/middle-east-and-africa-the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-ga.md)
+### [The Israeli military announces it will charge an army sniper with the killing of two Palestinian women during the Gaza offensive. ](/news/2010/07/6/the-israeli-military-announces-it-will-charge-an-army-sniper-with-the-killing-of-two-palestinian-women-during-the-gaza-offensive.md)
 Army to press charges of manslaughter over deaths of Palestinian women during war.
 
-### [Europe: 3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/europe-3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md)
+### [3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md)
 _Context: Europe, Finland, McDonald_
 
 ### [Bradley Manning is finally charged with leaking the Collateral Murder video to Wikileaks, along with other documents, after spending more than a month detained in Kuwait without charge. ](/news/2010/07/6/bradley-manning-is-finally-charged-with-leaking-the-collateral-murder-video-to-wikileaks-along-with-other-documents-after-spending-more-th.md)

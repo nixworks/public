@@ -1,6 +1,6 @@
 ## [2009-10-21](/news/2009/10/21/index.md)
 
-### [ The Philadelphia Phillies win the 2009 National League Championship Series 4 games to 1 after defeating the Los Angeles Dodgers 10-4. ](/news/2009/10/21/the-philadelphia-phillies-win-the-2009-national-league-championship-series-4-games-to-1-after-defeating-the-los-angeles-dodgers-10-4.md)
+### [ The Philadelphia Phillies win the 2009 National League Championship Series 4 games to 1 after defeating the Los Angeles Dodgers 10-4. ](/news/2009/10/21/the-philadelphia-phillies-win-the-2009-national-league-championship-series-4-games-to-1-after-defeating-the-los-angeles-dodgers-10a4.md)
 _Context: 2009 National League Championship Series, Los Angeles Dodgers, Philadelphia Phillies_
 
 ### [ A report on the discovery of a new species of dinosaur, "Fruitadens haagarorum", measuring around 70cm long, is published in the "Proceedings of the Royal Society". ](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-dinosaur-fruitadens-haagarorum-measuring-around-70cm-long-is-published-in-the-proceedin.md)

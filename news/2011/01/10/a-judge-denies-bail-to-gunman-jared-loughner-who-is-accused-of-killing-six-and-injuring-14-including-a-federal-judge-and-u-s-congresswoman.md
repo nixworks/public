@@ -1,0 +1,24 @@
+### [2011-01-10](/news/2011/01/10/index.md)
+
+# A judge denies bail to gunman Jared Loughner, who is accused of killing six and injuring 14 including a federal judge and U.S. Congresswoman. 
+
+An Arizona judge orders the 22-year-old man accused of killing six people and injuring 14, including a U.S. congresswoman, to be held without bail as he awaits trial on federal charges.
+
+
+### Source:
+
+1. [AP](http://news.yahoo.com/s/ap/us_med_congresswoman_brain_injury;_ylt=A0wNdOlviCtN6X4BkSes0NUE;_ylu=X3oDMTQxaTMzNDllBGFzc2V0A2FwLzIwMTEwMTEwL3VzX21lZF9jb25ncmVzc3dvbWFuX2JyYWluX2luanVyeQRjY29kZQNtb3N0cG9wdWxhcgRjcG9zAzEEcG9zAzIEcHQDaG9tZV9jb2tlBHNlYwN5bl90b3Bfc3RvcnkEc2xrA2NvbmdyZXNzd29tYQ--)
+2. [CBC](http://www.cbc.ca/world/story/2011/01/10/arizona-shooting-court-appearance.html)
+
+### Related:
+
+1. [Former Volkswagen engineer James Liang is sentenced by U.S. District Court Judge Sean Cox to 40 months in prison and a $200,000 fine for his role in the decade-long scheme to cheat on federal emissions tests for diesel-powered cars sold in the United States. He is the first company employee sent to prison in the scandal. ](/news/2017/08/25/former-volkswagen-engineer-james-liang-is-sentenced-by-u-s-district-court-judge-sean-cox-to-40-months-in-prison-and-a-200-000-fine-for-his.md) _Context: U.S. District Court Judge_
+2. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: United States Congress_
+3. [Nearly 200 members of the Democratic Party in the United States Congress file a lawsuit in the federal court, claiming that U.S. President Trump profits from business dealings with foreign governments, in violation of the United States Constitution's emolument clauses. This is the third such suit of its kind, following on the heels of the most recent suit by the Attorneys General of Maryland and the District of Columbia.](/news/2017/06/14/nearly-200-members-of-the-democratic-party-in-the-united-states-congress-file-a-lawsuit-in-the-federal-court-claiming-that-u-s-president-t.md) _Context: United States Congress_
+4. [U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires Friday, May 5. ](/news/2017/04/30/u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that-once-approved-by-both-houses-wil.md) _Context: United States Congress_
+5. [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md) _Context: United States Congress_
+6. [United States federal judge James Robart temporarily blocks the so-called travel ban nationwide pending a legal challenge by the government. ](/news/2017/02/3/united-states-federal-judge-james-robart-temporarily-blocks-the-so-called-travel-ban-nationwide-pending-a-legal-challenge-by-the-government.md) _Context: U.S. District Court Judge_
+7. [John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. ](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.md) _Context: U.S. District Court Judge_
+8. [The United States House of Representatives votes in favor of legislation that approves preliminary budgetary measures for the United States Congress to begin repealing the Patient Protection and Affordable Care Act, colloquially known as Obamacare. ](/news/2017/01/13/the-united-states-house-of-representatives-votes-in-favor-of-legislation-that-approves-preliminary-budgetary-measures-for-the-united-states.md) _Context: United States Congress_
+9. [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md) _Context: United States Congress_
+10. [The United States Congress passes a law allowing families of the victims of the September 11 attacks to sue Saudi Arabia. U.S. president Barack Obama threatens to veto it. ](/news/2016/09/9/the-united-states-congress-passes-a-law-allowing-families-of-the-victims-of-the-september-11-attacks-to-sue-saudi-arabia-u-s-president-bar.md) _Context: United States Congress_

@@ -6,7 +6,7 @@ _Context: B.B. King, Blues_
 ### [In New Zealand's North Island heavy rains cause flooding on the Kapiti Coast in the Wellington Region prompting evacuations and closing road and rail links. ](/news/2015/05/14/in-new-zealand-s-north-island-heavy-rains-cause-flooding-on-the-kapiti-coast-in-the-wellington-region-prompting-evacuations-and-closing-road.md)
 Flooding caused widespread flooding and damage in Kapiti Coast yesterday.
 
-### [2015 Philadelphia train derailment: The death toll from the derailment rises to eight, with 43 of the more than 200 injured remaining hospitalised. ](/news/2015/05/14/2015-philadelphia-train-derailment-the-death-toll-from-the-derailment-rises-to-eight-with-43-of-the-more-than-200-injured-remaining-hospit.md)
+### [The death toll from the derailment rises to eight, with 43 of the more than 200 injured remaining hospitalised. ](/news/2015/05/14/the-death-toll-from-the-derailment-rises-to-eight-with-43-of-the-more-than-200-injured-remaining-hospitalised.md)
 Philadelphia mayor says all 243 passengers and crew accounted for as engineer who drove the train during fatal crash named as Brandon Bostian, 32
 
 ### [U.S. President Barack Obama meets with the Gulf Cooperation Council at the White House with a proposed nuclear deal with Iran top of the agenda.](/news/2015/05/14/u-s-president-barack-obama-meets-with-the-gulf-cooperation-council-at-the-white-house-with-a-proposed-nuclear-deal-with-iran-top-of-the-age.md)

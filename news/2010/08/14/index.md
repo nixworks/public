@@ -42,7 +42,7 @@ _Context: Niger, United Nations_
 ### [China announces a national day of mourning for the victims of mudslides in the northwest of the country, as the death toll rises to 1,239 people. ](/news/2010/08/14/china-announces-a-national-day-of-mourning-for-the-victims-of-mudslides-in-the-northwest-of-the-country-as-the-death-toll-rises-to-1-239-pe.md)
 China holds a national day of mourning on Sunday for victims of mudslides in the northwest, as the death toll rises to 1,239 people.
 
-### [2010 Pakistan floods: Robert Zoellick, the President of the World Bank estimates that the 2010 Pakistan floods have caused $1 billion in damages to crops. ](/news/2010/08/14/2010-pakistan-floods-robert-zoellick-the-president-of-the-world-bank-estimates-that-the-2010-pakistan-floods-have-caused-1-billion-in-dam.md)
+### [Robert Zoellick, the President of the World Bank estimates that the 2010 Pakistan floods have caused $1 billion in damages to crops. ](/news/2010/08/14/robert-zoellick-the-president-of-the-world-bank-estimates-that-the-2010-pakistan-floods-have-caused-1-billion-in-damages-to-crops.md)
 * Six million still need relief * Anger rising * World Bank may redirect $900 million in aid * 500 stranded fuel tanker drivers
 
 ### [Russia announces that it is slowly bringing the 2010 Russian wildfires under control. ](/news/2010/08/14/russia-announces-that-it-is-slowly-bringing-the-2010-russian-wildfires-under-control.md)
@@ -54,7 +54,7 @@ Nine people have been taken to hospital after part of a bridge collapsed in nort
 ### [Eight people are killed and 12 injured as a vehicle runs into a crowd during the California 200 Off-road racing event near Lucerne Valley, California. ](/news/2010/08/14/eight-people-are-killed-and-12-injured-as-a-vehicle-runs-into-a-crowd-during-the-california-200-off-road-racing-event-near-lucerne-valley-c.md)
 _Context: California, California 200, Lucerne Valley, Off-road racing_
 
-### [Release of Uri Brodsky:: Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/release-of-uri-brodsky-officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who.md)
+### [Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who-has-been-linked-with-the.md)
 Uri Brodsky released on bail following his extradition from Poland to Germany on Thursday.
 
 ### [A United Nations delegation arrives in Gaza for three days of following up the United Nations Fact Finding Mission on the Gaza Conflict. ](/news/2010/08/14/a-united-nations-delegation-arrives-in-gaza-for-three-days-of-following-up-the-united-nations-fact-finding-mission-on-the-gaza-conflict.md)
@@ -87,7 +87,7 @@ South Sudan party says disputes in electoral body jeopardises independence refer
 ### [Guido de Marco, former President of Malta, lies in state after his death on Thursday. A state funeral is to be held on Monday. ](/news/2010/08/14/guido-de-marco-former-president-of-malta-lies-in-state-after-his-death-on-thursday-a-state-funeral-is-to-be-held-on-monday.md)
 The Nationalist Party this morning gave an emotional farewell to former President Guido de Marco, its long-serving former deputy leader, as the cortege with his coffin stopped outside party headquarters while on its way from Mater Dei Hospital to the Palace in Valletta. A big banner bearing a...
 
-### [President of the United States Barack Obama:: President of the United States Barack Obama states that America's "commitment to religious freedom must be unshakable" as he declares his support for plans to build a mosque in New York City. ](/news/2010/08/14/president-of-the-united-states-barack-obama-president-of-the-united-states-barack-obama-states-that-america-s-commitment-to-religious-fre.md)
+### [President of the United States Barack Obama states that America's "commitment to religious freedom must be unshakable" as he declares his support for plans to build a mosque in New York City. ](/news/2010/08/14/president-of-the-united-states-barack-obama-states-that-america-s-commitment-to-religious-freedom-must-be-unshakable-as-he-declares-his-su.md)
 President Obama defends controversial plans to build a mosque near Ground Zero site saying commitment to religious freedom &quot;must be unshakeable&quot;.
 
 ### [A Sri Lankan government commission set up to look into the last years of the Sri Lankan Civil War holds a meeting in Vavuniya on the north of the island. ](/news/2010/08/14/a-sri-lankan-government-commission-set-up-to-look-into-the-last-years-of-the-sri-lankan-civil-war-holds-a-meeting-in-vavuniya-on-the-north-o.md)

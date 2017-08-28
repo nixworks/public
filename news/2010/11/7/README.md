@@ -42,10 +42,10 @@ _Context: Dror Feiler, Gaza flotilla raid, Israel, Mehmet Kaplan, Riksdag, Swede
 ### [Sudanese President Omar al-Bashir arrives in Qatar for talks with Sheikh Hamad bin Khalifa Al Thani. ](/news/2010/11/7/sudanese-president-omar-al-bashir-arrives-in-qatar-for-talks-with-sheikh-hamad-bin-khalifa-al-thani.md)
 _Context: Omar al-Bashir, Qatar, Sheikh Hamad bin Khalifa Al Thani_
 
-### [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009-10-malmap-shootin.md)
+### [Swedish police announce that a 38-year-old male had been brought into custody on suspicion of being involved in the 2009-10 Malmo shootings. ](/news/2010/11/7/swedish-police-announce-that-a-38-year-old-male-had-been-brought-into-custody-on-suspicion-of-being-involved-in-the-2009a10-malmap-shootin.md)
 A man is arrested in the Swedish city of Malmo over a series of gun attacks over the past year.
 
-### [Burmese election: Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/burmese-election-voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widesp.md)
+### [Voters in Burma go to the polls for the Burmese general election, the first national election in twenty years, with widespread allegations of intimidation and fraud. ](/news/2010/11/7/voters-in-burma-go-to-the-polls-for-the-burmese-general-election-the-first-national-election-in-twenty-years-with-widespread-allegations-o.md)
 Allegations of fraud and voter intimidation are overshadowing Burma&#039;s first election in 20 years.
 
 ### [Police in Vietnam detain prominent government critic Cu Huy Ha Vu on charges of "propaganda against the state". ](/news/2010/11/7/police-in-vietnam-detain-prominent-government-critic-cu-huy-ha-vu-on-charges-of-propaganda-against-the-state.md)

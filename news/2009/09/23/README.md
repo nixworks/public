@@ -57,7 +57,7 @@ _Context: China, Guangdong, Macau_
 ### [ Human Rights Watch urges world leaders to call on Sri Lanka to free hundreds of thousands of displaced people detained in camps since the island's civil war ended. ](/news/2009/09/23/human-rights-watch-urges-world-leaders-to-call-on-sri-lanka-to-free-hundreds-of-thousands-of-displaced-people-detained-in-camps-since-the-i.md)
 _Context: Human Rights Watch, Sri Lanka_
 
-### [ A Polish court awards -7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md)
+### [ A Polish court awards EUR7,400 damages to Alicja Tysiac, likened to a child killer and Nazi war criminal by Catholic magazine "Gosc Niedzielny" for wanting an abortion. ](/news/2009/09/23/a-polish-court-awards-a-7-400-damages-to-alicja-tysiac-likened-to-a-child-killer-and-nazi-war-criminal-by-catholic-magazine-goaa-nied.md)
 _Context: Alicja Tysiac, Catholic, Gosc Niedzielny, Nazism, Polish, abortion_
 
 ### [ Germany's first nudist hiking trail opens. ](/news/2009/09/23/germany-s-first-nudist-hiking-trail-opens.md)

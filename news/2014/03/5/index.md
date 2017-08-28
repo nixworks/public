@@ -1,6 +1,6 @@
 ## [2014-03-5](/news/2014/03/5/index.md)
 
-### [2014 Crimean crisis:: UN Envoy Robert Serry is ordered to leave Crimea at gunpoint after being threatened by 10-15 armed men. ](/news/2014/03/5/2014-crimean-crisis-un-envoy-robert-serry-is-ordered-to-leave-crimea-at-gunpoint-after-being-threatened-by-10-15-armed-men.md)
+### [UN Envoy Robert Serry is ordered to leave Crimea at gunpoint after being threatened by 10-15 armed men. ](/news/2014/03/5/un-envoy-robert-serry-is-ordered-to-leave-crimea-at-gunpoint-after-being-threatened-by-10a15-armed-men.md)
 US-based Wahl said she could not work for a network that &#x27;whitewashed&#x27; the actions of Russian leader Vladimir Putin
 
 ### [The Israel Defense Forces captures an Iranian ship carrying long-range artillery rockets to Palestinians in the Gaza Strip ](/news/2014/03/5/the-israel-defense-forces-captures-an-iranian-ship-carrying-long-range-artillery-rockets-to-palestinians-in-the-gaza-strip.md)

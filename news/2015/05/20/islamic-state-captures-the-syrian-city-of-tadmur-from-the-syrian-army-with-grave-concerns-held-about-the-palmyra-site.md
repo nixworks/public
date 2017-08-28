@@ -1,6 +1,6 @@
 ### [2015-05-20](/news/2015/05/20/index.md)
 
-# Islamic State captures the Syrian city of Tadmur from the Syrian Army with grave concerns held about the Palmyra site.  
+# Islamic State captures the Syrian city of Tadmur from the Syrian Army with grave concerns held about the Palmyra site. 
 
 Ancient Palmyra is home to 2,000-year-old monuments; Syrian antiquities chief says world must save site; Attack is part of Islamic State’s westward advance.
 

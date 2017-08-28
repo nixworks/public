@@ -3,8 +3,8 @@
 ### [Gunmen attack the home of Tunisia's top security official Lotfi Ben Jeddou resulting in the death of 4 police officers. ](/news/2014/05/28/gunmen-attack-the-home-of-tunisia-s-top-security-official-lotfi-ben-jeddou-resulting-in-the-death-of-4-police-officers.md)
 _Context: Lotfi Ben Jeddou, Tunisia_
 
-### [2014 pro-Russian unrest in Ukraine:: Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/2014-pro-russian-unrest-in-ukraine-ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongs.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Chechen Republic leader, Ramzan Kadyrov, Ukraine_
+### [Ramzan Kadyrov, Head of the Chechen Republic, insists he has not sent troops to Ukraine to fight alongside pro-Russia separatists. ](/news/2014/05/28/ramzan-kadyrov-head-of-the-chechen-republic-insists-he-has-not-sent-troops-to-ukraine-to-fight-alongside-pro-russia-separatists.md)
+_Context: Chechen Republic leader, Ramzan Kadyrov, Ukraine_
 
 ### [A split emerges in the Pakistani Taliban after the Mehsud faction walked out, saying the group leaders' tactics were "un-Islamic". ](/news/2014/05/28/a-split-emerges-in-the-pakistani-taliban-after-the-mehsud-faction-walked-out-saying-the-group-leaders-tactics-were-un-islamic.md)
 A major faction of the Pakistani Taliban announce their split from the organisation, saying its tactics are &quot;un-Islamic&quot;.
@@ -24,8 +24,8 @@ Police in the northern French city of Calais are dismantling camps housing hundr
 ### [Dutch authorities approve the extradition of high-ranking Sinaloa Cartel leader Jos Rodrigo Archiga Gamboa (alias "El Chino ntrax") to the United States. ](/news/2014/05/28/dutch-authorities-approve-the-extradition-of-high-ranking-sinaloa-cartel-leader-jose-rodrigo-arechiga-gamboa-alias-el-chino-antrax-to-th.md)
 _Context: Jos Rodrigo Archiga Gamboa, Sinaloa Cartel_
 
-### [Egyptian presidential election, 2014:: Voting in Egypt continues for an unscheduled third day due to concerns about low turnout. Official results show former military chief Abdul Fattah al-Sisi headed for a massive victory with 92% of the vote. ](/news/2014/05/28/egyptian-presidential-election-2014-voting-in-egypt-continues-for-an-unscheduled-third-day-due-to-concerns-about-low-turnout-official-re.md)
-_Context: Abdul Fattah al-Sisi, Egypt, Egyptian presidential election, 2014_
+### [Voting in Egypt continues for an unscheduled third day due to concerns about low turnout. Official results show former military chief Abdul Fattah al-Sisi headed for a massive victory with 92% of the vote. ](/news/2014/05/28/voting-in-egypt-continues-for-an-unscheduled-third-day-due-to-concerns-about-low-turnout-official-results-show-former-military-chief-abdul.md)
+_Context: Abdul Fattah al-Sisi, Egypt_
 
 ### [US President Barack Obama announces a $5 billion "terrorism partnership fund" to help other countries tackle extremists. ](/news/2014/05/28/us-president-barack-obama-announces-a-5-billion-terrorism-partnership-fund-to-help-other-countries-tackle-extremists.md)
 President Barack Obama promises a US foreign policy based on &quot;collective action&quot; with allies abroad and funds to train allies to fight terrorism.

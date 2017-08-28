@@ -1,6 +1,6 @@
 ### [2008-01-28](/news/2008/01/28/index.md)
 
-#   A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. 
+#  A group of schoolchildren are taken hostage by militants in Bannu, Pakistan, but later released. 
 
 
 
@@ -19,5 +19,5 @@
 6. [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md) _Context: Pakistan, War in North-West Pakistan_
 7. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _Context: Pakistan, War in North-West Pakistan_
 8. [A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. ](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-government-building-in-mardan-pakistan-killing-one-person-and-critically-wounding-three-more.md) _Context: Pakistan, War in North-West Pakistan_
-9. [   A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _Context: Pakistan, War in North-West Pakistan_
+9. [  A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _Context: Pakistan, War in North-West Pakistan_
 10. [Gunmen attack a university in Charsadda, Pakistan. At least 21 people are reportedly killed. ](/news/2016/01/20/gunmen-attack-a-university-in-charsadda-pakistan-at-least-21-people-are-reportedly-killed.md) _Context: Pakistan, War in North-West Pakistan_

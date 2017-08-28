@@ -1,15 +1,15 @@
 ## [2013-12-27](/news/2013/12/27/index.md)
 
-### [Syrian Civil War spillover in Lebanon:: A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/syrian-civil-war-spillover-in-lebanon-a-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the.md)
-_Context: Beirut, Central District, Lebanon, Mohamad Chatah, Syrian Civil War spillover in Lebanon, car bomb, explodes_
+### [A car bomb explodes in the Central District of Beirut, Lebanon, killing eight people, including the former ambassador to the U.S. Mohamad Chatah, and wounding 71 others. ](/news/2013/12/27/a-car-bomb-explodes-in-the-central-district-of-beirut-lebanon-killing-eight-people-including-the-former-ambassador-to-the-u-s-mohamad-ch.md)
+_Context: Beirut, Central District, Lebanon, Mohamad Chatah, car bomb, explodes_
 
-### [War in Somalia (2009-present):: Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/war-in-somalia-2009-present-five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md)
+### [Five soldiers and a military officer are killed in an explosion in the Somali capital Mogadishu. ](/news/2013/12/27/five-soldiers-and-a-military-officer-are-killed-in-an-explosion-in-the-somali-capital-mogadishu.md)
 At least 11 people, including six soldiers, are killed by a remote-controlled bomb in a restaurant in the Somali capital Mogadishu, witnesses say.
 
-### [War in Afghanistan (2001-present):: A suicide bomber attacks a foreign military convoy on the eastern outskirts of the Afghan capital, Kabul, killing at least three foreign soldiers, police and the NATO-led International Security Assistance Force. ](/news/2013/12/27/war-in-afghanistan-2001-present-a-suicide-bomber-attacks-a-foreign-military-convoy-on-the-eastern-outskirts-of-the-afghan-capital-kab.md)
+### [A suicide bomber attacks a foreign military convoy on the eastern outskirts of the Afghan capital, Kabul, killing at least three foreign soldiers, police and the NATO-led International Security Assistance Force. ](/news/2013/12/27/a-suicide-bomber-attacks-a-foreign-military-convoy-on-the-eastern-outskirts-of-the-afghan-capital-kabul-killing-at-least-three-foreign-sol.md)
 A suspected suicide bomber attacked a military convoy on the eastern outskirts of Kabul on Friday, killing at least three foreign soldiers, police and the NATO-led International Security Assistance Force (ISAF) said.
 
-### [Islamist protests in Egypt (July 2013-present):: Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/islamist-protests-in-egypt-july-2013-present-three-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-acros.md)
+### [Three people are killed in clashes between police and Muslim Brotherhood supporters across Egypt. ](/news/2013/12/27/three-people-are-killed-in-clashes-between-police-and-muslim-brotherhood-supporters-across-egypt.md)
 Three people are killed in fresh clashes between Muslim Brotherhood supporters and police across Egypt.
 
 ### [At least 29 people died and four others were seriously injured when a bus went off the Huay Tong Bridge in Phetchabun Province, Thailand. ](/news/2013/12/27/at-least-29-people-died-and-four-others-were-seriously-injured-when-a-bus-went-off-the-huay-tong-bridge-in-phetchabun-province-thailand.md)

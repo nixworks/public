@@ -9,8 +9,8 @@ _Context: 2006, Mahmoud Abbas, Palestinian, President of the Palestinian Authori
 ### [ Israel orders Israeli settlers on the Gaza Strip to leave their settlements or face eviction. ](/news/2005/08/9/israel-orders-israeli-settlers-on-the-gaza-strip-to-leave-their-settlements-or-face-eviction.md)
 _Context: Gaza Strip, Israel, Israeli settlement, evict_
 
-### [ Conflict in Iraq:: The Mayor of Baghdad, Alaa al-Tamimi, has been removed from office after 120 armed men, operating on behalf of the Interim Iraqi Government, stormed his office and installed the provincial governor in his place. ](/news/2005/08/9/conflict-in-iraq-the-mayor-of-baghdad-alaa-al-tamimi-has-been-removed-from-office-after-120-armed-men-operating-on-behalf-of-the-inter.md)
-_Context: Alaa al-Tamimi, Baghdad, Conflict in Iraq, Interim Iraqi Government_
+### [ The Mayor of Baghdad, Alaa al-Tamimi, has been removed from office after 120 armed men, operating on behalf of the Interim Iraqi Government, stormed his office and installed the provincial governor in his place. ](/news/2005/08/9/the-mayor-of-baghdad-alaa-al-tamimi-has-been-removed-from-office-after-120-armed-men-operating-on-behalf-of-the-interim-iraqi-government.md)
+_Context: Alaa al-Tamimi, Baghdad, Interim Iraqi Government_
 
 ### [ Mamadou Tanja, the President of Niger, has denied reports claiming a famine in Niger. ](/news/2005/08/9/mamadou-tanja-the-president-of-niger-has-denied-reports-claiming-a-famine-in-niger.md)
 _Context: Mamadou Tanja, Niger, President of Niger_

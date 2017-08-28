@@ -9,7 +9,7 @@ _Context: (WikiNews), Iran, earthquakes_
 ### [ Portia Simpson Miller is sworn in as Prime Minister of Jamaica, becoming the first woman to lead the Commonwealth of Jamaica.](/news/2006/03/30/portia-simpson-miller-is-sworn-in-as-prime-minister-of-jamaica-becoming-the-first-woman-to-lead-the-commonwealth-of-jamaica.md)
 _Context: Jamaica, Portia Simpson-Miller, Prime Minister of Jamaica_
 
-### [ Janjaweed militias cross over the Chad-Sudan border and attack Chadian villagers in the city of Moudeina, but are beaten back by the Chadian military. ](/news/2006/03/30/janjaweed-militias-cross-over-the-chad-sudan-border-and-attack-chadian-villagers-in-the-city-of-moudeina-but-are-beaten-back-by-the-chad.md)
+### [ Janjaweed militias cross over the Chad-Sudan border and attack Chadian villagers in the city of Moudeina, but are beaten back by the Chadian military. ](/news/2006/03/30/janjaweed-militias-cross-over-the-chadasudan-border-and-attack-chadian-villagers-in-the-city-of-moudeina-but-are-beaten-back-by-the-chad.md)
 _Context: Chad, Chadian military, Janjaweed, Moudeina, Sudan, militia_
 
 ### [ U.S. Secretary of State Condoleezza Rice canceled her visit to a mosque after a protest group threatened to "invade the mosque" during scheduled prayers (see Condoleezza Rice visit to Blackburn and Liverpool). ](/news/2006/03/30/u-s-secretary-of-state-condoleezza-rice-canceled-her-visit-to-a-mosque-after-a-protest-group-threatened-to-invade-the-mosque-during-sche.md)

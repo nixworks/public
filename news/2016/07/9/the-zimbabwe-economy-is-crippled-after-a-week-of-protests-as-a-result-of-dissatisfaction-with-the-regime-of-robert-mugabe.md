@@ -1,6 +1,6 @@
 ### [2016-07-9](/news/2016/07/9/index.md)
 
-# The Zimbabwe economy is crippled after a  week of protests as a result of dissatisfaction with the regime of Robert Mugabe. 
+# The Zimbabwe economy is crippled after a week of protests as a result of dissatisfaction with the regime of Robert Mugabe. 
 
 As their country is sucked into a the depths of a new economic crisis, Zimbabweans are beginning to run out of patience.
 

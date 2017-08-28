@@ -1,6 +1,6 @@
 ## [2010-02-27](/news/2010/02/27/index.md)
 
-### [2010 Chile earthquake and Pacific Ocean tsunamis:: An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md)
+### [An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md)
 One of the biggest earthquakes in recorded history rocked Chile on Saturday, killing more than 300 people, toppling buildings and freeways, and setting off sirens thousands of miles away as...
 
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)

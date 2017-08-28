@@ -1,12 +1,12 @@
 ## [2011-06-3](/news/2011/06/3/index.md)
 
-### [Yemeni uprising:: A rocket attack on the presidential palace in Sana'a during the Battle of Sana'a leaves president Ali Abdullah Saleh lightly injured and seven other top government officials wounded, including Prime Minister Ali Muhammad Mujawar. Four presidential guards and Sheikh Ali Mohsen al-Matari, an imam at the mosque, were killed. ](/news/2011/06/3/yemeni-uprising-a-rocket-attack-on-the-presidential-palace-in-sana-a-during-the-battle-of-sana-a-leaves-president-ali-abdullah-saleh-light.md)
+### [A rocket attack on the presidential palace in Sana'a during the Battle of Sana'a leaves president Ali Abdullah Saleh lightly injured and seven other top government officials wounded, including Prime Minister Ali Muhammad Mujawar. Four presidential guards and Sheikh Ali Mohsen al-Matari, an imam at the mosque, were killed. ](/news/2011/06/3/a-rocket-attack-on-the-presidential-palace-in-sana-a-during-the-battle-of-sana-a-leaves-president-ali-abdullah-saleh-lightly-injured-and-sev.md)
 Hours after surviving the shelling of a mosque at his presidential palace that killed a Muslim preacher and several guards, Yemeni President Ali Abdullah Saleh on Friday insisted he is in good health and blamed &quot;gangsters&quot; for the attack.
 
-### [Syrian uprising:: At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/syrian-uprising-at-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-du.md)
+### [At least 34 more protesters are killed by Syrian security forces in protest marches dedicated to children who have died during the demonstrations. ](/news/2011/06/3/at-least-34-more-protesters-are-killed-by-syrian-security-forces-in-protest-marches-dedicated-to-children-who-have-died-during-the-demonstra.md)
 Dozens of people were killed on Friday as Syrian protesters demonstrated over of the killing of 30 children at the hands of President Bashar al-Assad&#039;s security forces.
 
-### [Libyan Civil War:: At least 150 people drown when an overcrowded boat carrying about 850 refugees fleeing Libya capsized off the Tunisian coast; scores more are still missing as a search for survivors by Tunisian authorities continues. ](/news/2011/06/3/libyan-civil-war-at-least-150-people-drown-when-an-overcrowded-boat-carrying-about-850-refugees-fleeing-libya-capsized-off-the-tunisian-co.md)
+### [At least 150 people drown when an overcrowded boat carrying about 850 refugees fleeing Libya capsized off the Tunisian coast; scores more are still missing as a search for survivors by Tunisian authorities continues. ](/news/2011/06/3/at-least-150-people-drown-when-an-overcrowded-boat-carrying-about-850-refugees-fleeing-libya-capsized-off-the-tunisian-coast-scores-more-ar.md)
 At least 150 people drowned when a boat leaving Libya capsized off the Tunisian coast on Wednesday, the U.N. refugee agency said Friday.
 
 ### [Sudanese government troops and Sudan Liberation Army rebels clash in the western Darfur region; two SLA rebels are reported killed. ](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.md)
@@ -45,7 +45,7 @@ _Context: Ural Mountains, munitions_
 ### [Four people are killed and one seriously injured in an explosion at a Chevron Corporation storage tank at a refinery in western Wales; it is not immediately clear what caused the explosion. ](/news/2011/06/3/four-people-are-killed-and-one-seriously-injured-in-an-explosion-at-a-chevron-corporation-storage-tank-at-a-refinery-in-western-wales-it-is.md)
 _Context: Chevron Corporation, refinery_
 
-### [2011 Missouri River floods: Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/2011-missouri-river-floods-residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md)
+### [Residents in North Dakota and South Dakota evacuate due to flooding of the Missouri River. ](/news/2011/06/3/residents-in-north-dakota-and-south-dakota-evacuate-due-to-flooding-of-the-missouri-river.md)
 Residents evacuated some affluent areas of North Dakota and South Dakota on Friday along the swollen Missouri River as federal officials kicked up water releases to relieve pressure on six Upper Plains reservoirs.
 
 ### [A South Korean report claims that South Korea and the United States sprayed Agent Orange on the Demilitarized Zone in 1968-69 in order to prevent infiltrations from North Korea. ](/news/2011/06/3/a-south-korean-report-claims-that-south-korea-and-the-united-states-sprayed-agent-orange-on-the-demilitarized-zone-in-1968-69-in-order-to-pr.md)

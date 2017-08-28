@@ -12,8 +12,8 @@ _Context: Britain, Old Bailey, Richard Reid, Saajid Badat, United States of Amer
 ### [ Following week-long public protests (in the wake of Rafik Hariri's assassination) and a no confidence vote, the entire government of Lebanon resigns. ](/news/2005/02/28/following-week-long-public-protests-in-the-wake-of-rafik-hariri-s-assassination-and-a-no-confidence-vote-the-entire-government-of-lebano.md)
 The president of Lebanon reappointed Omar Karami as the country&#39;s prime minister on Thursday, 10 days after the staunchly pro-Syrian Karami stepped down amid street protests and international pressure.
 
-### [ Israeli-Palestinian conflict:: Israeli security forces intercept a car bomb in the Araba village near Jenin. The 200 kg explosive device, believed to have been the work of Palestinian Islamic Jihad, is later defused by IDF sappers. ](/news/2005/02/28/israeli-palestinian-conflict-israeli-security-forces-intercept-a-car-bomb-in-the-araba-village-near-jenin-the-200-kg-explosive-device-b.md)
-_Context: Israeli security guard, Israeli-Palestinian conflict, Jenin, Palestinian Islamic Jihad, car bomb, explosive, sapping_
+### [ Israeli security forces intercept a car bomb in the Araba village near Jenin. The 200 kg explosive device, believed to have been the work of Palestinian Islamic Jihad, is later defused by IDF sappers. ](/news/2005/02/28/israeli-security-forces-intercept-a-car-bomb-in-the-araba-village-near-jenin-the-200-kg-explosive-device-believed-to-have-been-the-work-o.md)
+_Context: Israeli security guard, Jenin, Palestinian Islamic Jihad, car bomb, explosive, sapping_
 
 ### [ A suicide car bomb explodes in the Iraqi town of Hilla, 60 kilometres south of Baghdad. 125 people are killed and many injured.](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.md)
 _Context: Baghdad, Hilla, Iraq, suicide car bomb explodes_

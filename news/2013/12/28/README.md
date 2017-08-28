@@ -1,12 +1,12 @@
 ## [2013-12-28](/news/2013/12/28/index.md)
 
-### [Islamist protests in Egypt (July 2013-present): Supporters of the Islamist Muslim Brotherhood clash with police at Al-Azhar University in Cairo, Egypt. One person is killed and two campus buildings are set on fire. ](/news/2013/12/28/islamist-protests-in-egypt-july-2013-present-supporters-of-the-islamist-muslim-brotherhood-clash-with-police-at-al-azhar-university-in.md)
+### [Supporters of the Islamist Muslim Brotherhood clash with police at Al-Azhar University in Cairo, Egypt. One person is killed and two campus buildings are set on fire. ](/news/2013/12/28/supporters-of-the-islamist-muslim-brotherhood-clash-with-police-at-al-azhar-university-in-cairo-egypt-one-person-is-killed-and-two-campus.md)
 _Context: Al-Azhar University, Cairo, Egypt, Islamist protests in Egypt (July 2013-present), Muslim Brotherhood_
 
-### [Syrian Civil War:: A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/syrian-civil-war-a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md)
+### [A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md)
 A Syrian army air strike on a vegetable market in the northern city of Aleppo killed at least 25 people on Saturday, a monitoring group said, continuing a campaign of improvised &quot;barrel bombs&quot; that has drawn international condemnation.
 
-### [2013 Thai political crisis: Unidentified gunmen open fire on peaceful protesters in Thailand, leaving one dead and three wounded. ](/news/2013/12/28/2013-thai-political-crisis-unidentified-gunmen-open-fire-on-peaceful-protesters-in-thailand-leaving-one-dead-and-three-wounded.md)
+### [Unidentified gunmen open fire on peaceful protesters in Thailand, leaving one dead and three wounded. ](/news/2013/12/28/unidentified-gunmen-open-fire-on-peaceful-protesters-in-thailand-leaving-one-dead-and-three-wounded.md)
 _Context: 2013 Thai political crisis, Thailand_
 
 ### [An express train catches fire in India, leaving at least 23 dead. The train was traveling from Bangalore to Nanded in the western state of Maharashtra. ](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.md)

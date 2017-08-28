@@ -1,6 +1,6 @@
 ## [2013-08-24](/news/2013/08/24/index.md)
 
-### [Syrian civil war:: Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/syrian-civil-war-medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md)
+### [Mdecins Sans Frontires report treating 3,600 cases of "neurotoxic symptoms", with 355 fatalities. ](/news/2013/08/24/medecins-sans-frontieres-report-treating-3-600-cases-of-neurotoxic-symptoms-with-355-fatalities.md)
 Medecins Sans Frontieres says hospitals it supports in Syria treated about 3,600 patients with &quot;neurotoxic symptoms&quot; of whom 355 died.
 
 ### [The United States commemorates the fiftieth anniversary of Martin Luther King, Jr.'s I Have a Dream speech. ](/news/2013/08/24/the-united-states-commemorates-the-fiftieth-anniversary-of-martin-luther-king-jr-s-i-have-a-dream-speech.md)

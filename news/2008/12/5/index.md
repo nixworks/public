@@ -7,7 +7,7 @@ _Context: Federated States of Micronesia, Kosovo, officially recognizes_
 This was not the O.J. Simpson of old.His wrists shackled, eyes reddened and husky voice cracking, the fallen football star -- who famously was acquitted of double murder in Los Angeles -- was...
 
 ### [ Global financial crisis of 2008: the United States Department of Labor reports that nonfarm payrolls contracted by 533,000 in November, the worst monthly job loss since 1974. ](/news/2008/12/5/global-financial-crisis-of-2008-the-united-states-department-of-labor-reports-that-nonfarm-payrolls-contracted-by-533-000-in-november-the.md)
-_Context: Global financial crisis of 2008, United States Department of Labor, nonfarm payrolls_
+_Context: United States Department of Labor, financial crisis, nonfarm payrolls_
 
 ### [ Sri Lankan Civil War: the Sri Lankan military enters Alampil, nearing the primary LTTE-held town of Mullaitivu. ](/news/2008/12/5/sri-lankan-civil-war-the-sri-lankan-military-enters-alampil-nearing-the-primary-ltte-held-town-of-mullaitivu.md)
 _Context: LTTE, Mullaitivu, Sri Lanka, Sri Lankan Civil War, Sri Lankan military_

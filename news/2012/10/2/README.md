@@ -3,7 +3,7 @@
 ### [Gunmen kill at least twenty students at a hostel away from the Federal Polytechnic campus in the northeastern Nigerian town of Mubi. ](/news/2012/10/2/gunmen-kill-at-least-twenty-students-at-a-hostel-away-from-the-federal-polytechnic-campus-in-the-northeastern-nigerian-town-of-mubi.md)
 At least 25 people, mostly students, have been killed by unknown gunmen in Mubi, north-eastern Nigeria, police say.
 
-### [A member of the People-s Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-people-s-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md)
+### [A member of the People's Majlis, the parliament of the Maldives, is found stabbed to death near his home. ](/news/2012/10/2/a-member-of-the-peopleas-majlis-the-parliament-of-the-maldives-is-found-stabbed-to-death-near-his-home.md)
 A member of parliament in the Maldives is stabbed to death near his home amid political turmoil in the Indian Ocean nation.
 
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)

@@ -3,13 +3,13 @@
 ### [Iran's Navy of the Army of the Guardians of the Islamic Revolution intercepts a Marshall Islands-flagged commercial cargo vessel, the "Maersk Tigris", in the Strait of Hormuz and diverts it further into Iranian waters. The US dispatches the Farragut|DDG-99|6, an Arleigh Burke|destroyer, to the location of the cargo vessel to observe and monitor the situation. ](/news/2015/04/28/iran-s-navy-of-the-army-of-the-guardians-of-the-islamic-revolution-intercepts-a-marshall-islands-flagged-commercial-cargo-vessel-the-maers.md)
 Iranian Revolutionary Guard Corps ships intercepted a Marshall Islands-flagged commercial cargo vessel in the Strait of Hormuz on Tuesday, forcing it “further into Iranian waters,” the Pentagon said.
 
-### [2015 West African offensive:: Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/2015-west-african-offensive-niger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on.md)
-_Context: 2015 West African offensive, Lake Chad_
+### [Niger states that 46 of its soldiers and 156 Boko Haram fighters were killed in a battle for Karamga Island on Lake Chad. At least 28 civilians lost their lives. ](/news/2015/04/28/niger-states-that-46-of-its-soldiers-and-156-boko-haram-fighters-were-killed-in-a-battle-for-karamga-island-on-lake-chad-at-least-28-civili.md)
+_Context: Lake Chad_
 
 ### [Nominations for the 69th Tony Awards are announced with "An American in Paris" and "Fun Home" leading the nominations. ](/news/2015/04/28/nominations-for-the-69th-tony-awards-are-announced-with-an-american-in-paris-and-fun-home-leading-the-nominations.md)
 An&nbsp;American&nbsp;in&nbsp;Paris&nbsp;and&nbsp;Fun&nbsp;Home&nbsp;topped&nbsp;the&nbsp;nominations&nbsp;for&nbsp;the&nbsp;69th&nbsp;annual&nbsp;Tony&nbsp;Awards&nbsp;on&nbsp;April&nbsp;28,&nbsp;earning&nbsp;12&nbsp;nods&nbsp;each,&nbsp;including&nbsp;...
 
-### [April 2015 Nepal earthquake: The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. ](/news/2015/04/28/april-2015-nepal-earthquake-the-official-death-toll-exceeds-5-000-with-the-united-nations-estimating-that-1-4-million-people-in-the-region.md)
+### [The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. ](/news/2015/04/28/the-official-death-toll-exceeds-5-000-with-the-united-nations-estimating-that-1-4-million-people-in-the-region-need-emergency-food-assistanc.md)
 An official says 250 people are believed missing following a mudslide and avalanche in an isolated village in rural Nepal not far from the epicentre of the weekend’s powerful earthquake. 
 
 ### [Two trains crash in Johannesburg killing a driver and injuring 90 passengers. ](/news/2015/04/28/two-trains-crash-in-johannesburg-killing-a-driver-and-injuring-90-passengers.md)

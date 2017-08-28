@@ -1,21 +1,21 @@
 ## [2011-06-28](/news/2011/06/28/index.md)
 
-### [U.S. drone attacks on North Waziristan:: Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/u-s-drone-attacks-on-north-waziristan-two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-i.md)
+### [Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in-a-late-night-attack-by-the-u-s-on-the.md)
 Two US drone missile attacks kill at least 15 people in the Pakistani tribal region bordering Afghanistan, officials say.
 
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
 _Context: Afghanistan's, NATO, Refugees International_
 
-### [Attack on Kabul InterContinental Hotel:: Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/attack-on-kabul-intercontinental-hotel-afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-me.md)
+### [Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-members-and-five-or-six-hotel-workers-or-gu.md)
 Six bombers said to have stormed the Intercontinental, popular with foreigners and officials, after a firefight outside.
 
-### [2010-2011 Greek protests:: Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/2010-2011-greek-protests-greek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md)
+### [Greek trade unions go on a general strike with transport links including airline flights being cancelled. ](/news/2011/06/28/greek-trade-unions-go-on-a-general-strike-with-transport-links-including-airline-flights-being-cancelled.md)
 Police use tear gas to disperse stone-throwing youths in Athens as a 48-hour general strike is held against a parliamentary vote on austerity measures.
 
 ### [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship "Juliano" are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-hostil.md)
 _Context: Freedom Flotilla II, Palestinian, Piraeus, Saboteurs, Sweden_
 
-### [Arab Spring:: 2011 Libyan civil war:: Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/arab-spring-2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md)
+### [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md)
 Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.
 
 ### [Iran tests 14 surface-to-surface missiles on the second day of war games. ](/news/2011/06/28/iran-tests-14-surface-to-surface-missiles-on-the-second-day-of-war-games.md)

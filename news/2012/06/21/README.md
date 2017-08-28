@@ -1,10 +1,10 @@
 ## [2012-06-21](/news/2012/06/21/index.md)
 
-### [Arab Spring:: Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/arab-spring-syrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern.md)
+### [Syrian uprising: The pilot of a Syrian MiG 21 fighter plane defects to Jordan after landing in a military air base in northern Jordan. ](/news/2012/06/21/syrian-uprising-the-pilot-of-a-syrian-mig-21-fighter-plane-defects-to-jordan-after-landing-in-a-military-air-base-in-northern-jordan.md)
 A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet across the border, as violence stops the Red Cross reaching civilians in Homs.
 
-### [War on Drugs:: Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/war-on-drugs-mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo.md)
-_Context: Jalisco, Joaquin Guzman Loera, Mexican Drug War, War on Drugs, most-wanted drug lords_
+### [Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo-mexico-s-most.md)
+_Context: Jalisco, Joaquin Guzman Loera, Mexican Drug War, most-wanted drug lords_
 
 ### [In Afghanistan, Taliban soldiers invade a hotel in Kabul, kill guests, and hold some hostages. ](/news/2012/06/21/in-afghanistan-taliban-soldiers-invade-a-hotel-in-kabul-kill-guests-and-hold-some-hostages.md)
 Afghan police say 18 people killed during 13-hour assault on hotel in Qargha Lake on the outskirts of the capital.
@@ -48,8 +48,8 @@ Indonesian court finds Umar Patek, accused of assembling explosives for 2002 att
 ### [The father of previous President of Chile Michelle Bachelet was probably tortured to death after the 1973 coup led by Augusto Pinochet, a judge says. ](/news/2012/06/21/the-father-of-previous-president-of-chile-michelle-bachelet-was-probably-tortured-to-death-after-the-1973-coup-led-by-augusto-pinochet-a-ju.md)
 The father of ex-Chilean President Michelle Bachelet probably died as a result of torture after the 1973 coup led by Pinochet, a judge says.
 
-### [Penn State child sex abuse scandal:: The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/penn-state-child-sex-abuse-scandal-the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
-_Context: American football, Jerry Sandusky, Penn State child sex abuse scandal, sexual abuse_
+### [The adopted son of former football coach Jerry Sandusky says that Sandusky molested him. ](/news/2012/06/21/the-adopted-son-of-former-football-coach-jerry-sandusky-says-that-sandusky-molested-him.md)
+_Context: American football, Jerry Sandusky, sexual abuse_
 
 ### [John Bryson resigns as United States Secretary of Commerce following a seizure that led to two car accidents. ](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.md)
 He had been on a medical leave of absence since June 11, following a seizure and two car accidents.

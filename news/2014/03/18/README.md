@@ -15,13 +15,13 @@ _Context: Australia, L'Wren Scott, Mick Jagger, New Zealand, Rolling Stones_
 ### [At least two people are dead and one is in critical condition after a KOMO-TV news helicopter crashes near the Seattle Space Needle in Seattle, Washington. ](/news/2014/03/18/at-least-two-people-are-dead-and-one-is-in-critical-condition-after-a-komo-tv-news-helicopter-crashes-near-the-seattle-space-needle-in-seatt.md)
 The Seattle Fire Department said in addition to the fatalities, a 37-year-old man who managed to free himself from a car at the accident scene was taken to Harborview Medical Center in critical condition. 
 
-### [2014 Crimean crisis - Simferopol Incident: Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/2014-crimean-crisis-simferopol-incident-japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promo.md)
+### [Japan announces it will fall in line with American sanctions against Russia for its role in promoting the secession of Crimea from Ukraine. ](/news/2014/03/18/japan-announces-it-will-fall-in-line-with-american-sanctions-against-russia-for-its-role-in-promoting-the-secession-of-crimea-from-ukraine.md)
 Japan has announced a set of sanctions against Russia for its recognition of Crimea as an independent state.
 
-### [United States-Syria relations:: The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/united-states-syria-relations-the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md)
-_Context: Syrian, United States, United States-Syria relations, Washington, D.C., embassy_
+### [The United States expels all Syrian diplomats and closes the Syrian embassy in Washington D.C. ](/news/2014/03/18/the-united-states-expels-all-syrian-diplomats-and-closes-the-syrian-embassy-in-washington-d-c.md)
+_Context: Syrian, United States, Washington, D.C., embassy_
 
-### [Occupy Taiwan Legislature: Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/occupy-taiwan-legislature-protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces.md)
+### [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md)
 _Context: Kuomintang (Chinese Nationalist Party), Taiwan, continue to occupy, legislative chamber, trade deal_
 
 ## [Previous Day...](/news/2014/03/17/index.md)

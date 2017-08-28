@@ -1,6 +1,6 @@
 ## [2010-05-13](/news/2010/05/13/index.md)
 
-### [2010 Thai political protests:: A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. ](/news/2010/05/13/2010-thai-political-protests-a-general-associated-with-the-national-united-front-of-democracy-against-dictatorship-khattiya-sawasdipol-i.md)
+### [A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. ](/news/2010/05/13/a-general-associated-with-the-national-united-front-of-democracy-against-dictatorship-khattiya-sawasdipol-is-seriously-injured-after-being.md)
 A rogue Thai general leading a militant wing of anti-government protesters was shot in the head and critically wounded on Thursday, and a man was killed when the army used force to blockade a five-week street rally.
 
 ### [5 people are killed and a further 19 injured in two bombings in Baghdad. ](/news/2010/05/13/5-people-are-killed-and-a-further-19-injured-in-two-bombings-in-baghdad.md)
@@ -30,7 +30,7 @@ _Context: Aban Pearl, Venezuela_
 ### [As many as half a million pilgrims from 35 nations, including India, China and Vietnam, attend open-air Mass at Fatima, Portugal, celebrated by Pope Benedict XVI. The Pope criticises abortion and same-sex marriage in a speech. ](/news/2010/05/13/as-many-as-half-a-million-pilgrims-from-35-nations-including-india-china-and-vietnam-attend-open-air-mass-at-fa-tima-portugal-celebrate.md)
 Pope Benedict XVI&#39;s outdoor mass at Fatima has taken place amid heavy rain downpours and low temperatures this afternoon.
 
-### [The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on -.rf- are ](/news/2010/05/13/the-nn-rf-russian-federation-cyrillic-country-code-top-level-domain-cctld-is-officially-launched-the-fourth-internationalized.md)
+### [The ".rf" (".rf" - Russian Federation) Cyrillic country code top-level domain (ccTLD) is officially launched, the fourth internationalized country code. The first two web sites available on ".rf" are ](/news/2010/05/13/the-nn-rf-russian-federation-cyrillic-country-code-top-level-domain-cctld-is-officially-launched-the-fourth-internationalized.md)
 _Context: .rf, Cyrillic, Russian Federation, country code, internationalized country code, top-level domain_
 
 ### [The second case of poliomyelitis in two days is reported in Russia, in Russia's first polio cases in 15 years, with the virus believed to have come from Tajikistan. ](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.md)

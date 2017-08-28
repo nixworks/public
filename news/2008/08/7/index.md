@@ -1,7 +1,7 @@
 ## [2008-08-7](/news/2008/08/7/index.md)
 
-### [ Georgian-Ossetian conflict:: Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-ossetian-conflict-georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding.md)
-_Context: Georgian-Ossetian conflict, Tskhinvali_
+### [ Georgian and separatist South Ossetian forces have exchanged fire again near the town of Tskhinvali, wounding up to 20 people, officials say. ](/news/2008/08/7/georgian-and-separatist-south-ossetian-forces-have-exchanged-fire-again-near-the-town-of-tskhinvali-wounding-up-to-20-people-officials-sa.md)
+_Context: Tskhinvali_
 
 ### [ The New York State Attorney General Andrew Cuomo reaches a $7 billion settlement with Citigroup to buy back auction rate securities from about 40,000 clients throughout the United States. ](/news/2008/08/7/the-new-york-state-attorney-general-andrew-cuomo-reaches-a-7-billion-settlement-with-citigroup-to-buy-back-auction-rate-securities-from-ab.md)
 _Context: Andrew Cuomo, Citigroup, State Attorney General, United States, auction rate securities_

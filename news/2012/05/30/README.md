@@ -1,6 +1,6 @@
 ## [2012-05-30](/news/2012/05/30/index.md)
 
-### [Syrian uprising:: Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/syrian-uprising-several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md)
+### [Several nations, including Turkey, Germany and Canada, expel Syrian diplomats in response to the May 25 Houla massacre. ](/news/2012/05/30/several-nations-including-turkey-germany-and-canada-expel-syrian-diplomats-in-response-to-the-may-25-houla-massacre.md)
 Hopes of a new initiative over Syria suffer a setback as a Russian spokesman rules out any action by the UN Security Council soon.
 
 ### [Romeo Langlois, a freelance journalist from France 24 who was abducted by the Revolutionary Armed Forces of Colombia (FARC) on April 28, is released by FARC in southern Colombia. ](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.md)
@@ -30,7 +30,7 @@ US President Barack Obama has caused an outcry in Poland after referring to a Na
 ### [Enhanced security preparations are reported in the lead-up to the 2012 Bilderberg Conference in Chantilly, Virginia. ](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.md)
 _Context: Bilderberg Group, Chantilly, Virginia_
 
-### ["Assange v The Swedish Judicial Authority":: Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/assange-v-the-swedish-judicial-authority-wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-ag.md)
+### [Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-against-extradition-to-sweden-on-rape-charges.md)
 Wikileaks founder Julian Assange loses his Supreme Court fight against extradition to Sweden to face accusations of sex offences.
 
 ### [The former President of Liberia, Charles Taylor, is sentenced to 50 years' imprisonment by the Special Court for Sierra Leone in The Hague for aiding and abetting war crimes during Sierra Leone's civil war. ](/news/2012/05/30/the-former-president-of-liberia-charles-taylor-is-sentenced-to-50-years-imprisonment-by-the-special-court-for-sierra-leone-in-the-hague-f.md)
@@ -66,7 +66,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 ### [Following the successful sequencing of the tomato genome, scientists state that tastier and more pesticide-resistant tomato varieties can be engineered for commercial use within five years. ](/news/2012/05/30/following-the-successful-sequencing-of-the-tomato-genome-scientists-state-that-tastier-and-more-pesticide-resistant-tomato-varieties-can-be.md)
 Scientists have sequenced the tomato genome and say it will yield tastier fruit as a result.
 
-### [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-erupting-within-just-a-few-hundred-years-of-thei.md)
+### [Scientists report that supervolcanoes can develop much faster than previously suspected - erupting within just a few hundred years of their formation, instead of tens of thousands of years. ](/news/2012/05/30/scientists-report-that-supervolcanoes-can-develop-much-faster-than-previously-suspected-a-erupting-within-just-a-few-hundred-years-of-thei.md)
 _Context: supervolcano_
 
 ## [Previous Day...](/news/2012/05/29/index.md)

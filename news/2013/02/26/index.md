@@ -1,13 +1,13 @@
 ## [2013-02-26](/news/2013/02/26/index.md)
 
-### [Israeli-Palestinian conflict:: A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/israeli-palestinian-conflict-a-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-sign.md)
+### [A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. ](/news/2013/02/26/a-rocket-is-fired-from-the-gaza-strip-into-israel-marking-the-first-such-attack-since-a-ceasefire-was-signed-in-november-2012.md)
 A militant group in Gaza said the first rocket strike in more than three months was conducted in retaliation for the death of a Palestinian prisoner.
 
-### [Mexican Drug War:: Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
-_Context: Ciudad Miguel Aleman, Mexican Drug War, Mexico, Tamaulipas_
+### [Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md)
+_Context: Ciudad Miguel Aleman, Mexico, Tamaulipas_
 
-### [Nigerian Sharia conflict:: Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/nigerian-sharia-conflict-gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
-_Context: Nigeria, Nigerian Sharia conflict, Yobe State_
+### [Gunmen kill seven guards guarding a marketplace in Yobe State, Nigeria. ](/news/2013/02/26/gunmen-kill-seven-guards-guarding-a-marketplace-in-yobe-state-nigeria.md)
+_Context: Nigeria, Yobe State_
 
 ### [Low-lying parts of the Western Australian town of Port Hedland are evacuated with Severe Tropical Cyclone Rusty expected to reach the coast tomorrow. ](/news/2013/02/26/low-lying-parts-of-the-western-australian-town-of-port-hedland-are-evacuated-with-severe-tropical-cyclone-rusty-expected-to-reach-the-coast.md)
 The weather bureau is warning of phenomenal rainfall as a red alert places parts of the Pilbara in lockdown with Tropical Cyclone Rusty bearing down.
@@ -24,7 +24,7 @@ _Context: diabetes, gene, heart disease, obese, sleep loss_
 ### [Pediatric clinical trials of Amgen's Sensipar, used to treat various hyperparathyroidism problems which result in abnormal levels of serum calcium, are halted in the United States after a 14-year-old patient dies. ](/news/2013/02/26/pediatric-clinical-trials-of-amgen-s-sensipar-used-to-treat-various-hyperparathyroidism-problems-which-result-in-abnormal-levels-of-serum-c.md)
 _Context: Amgen, Sensipar, United States, clinical trial, hyperparathyroidism, serum calcium_
 
-### [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-china-france-germany-united-kingdom-russia-and-the-united-states-meet-with-iranian-off.md)
+### [Representatives of six major world powers - China, France, Germany, United Kingdom, Russia and the United States - meet with Iranian officials to discuss the nation's nuclear program. ](/news/2013/02/26/representatives-of-six-major-world-powers-a-china-france-germany-united-kingdom-russia-and-the-united-states-a-meet-with-iranian-off.md)
 _Context: Britain, China, France, Germany, Iran, Russia, United States, nuclear programme_
 
 ### [Mexican teacher's union leader Elba Esther Gordillo is arrested on corruption charges. ](/news/2013/02/26/mexican-teacher-s-union-leader-elba-esther-gordillo-is-arrested-on-corruption-charges.md)

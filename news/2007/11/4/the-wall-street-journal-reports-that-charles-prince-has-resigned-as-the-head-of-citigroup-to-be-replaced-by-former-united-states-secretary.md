@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Cabinet of Donald Trump: The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/cabinet-of-donald-trump-the-united-states-senate-in-a-53-47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _Context: Treasury Secretary_
+1. [The United States Senate, in a 53-47 vote, confirms Steven Mnuchin to be Treasury Secretary. ](/news/2017/02/13/the-united-states-senate-in-a-53a47-vote-confirms-steven-mnuchin-to-be-treasury-secretary.md) _Context: Treasury Secretary_
 2. [German tax authorities are investigating Citigroup over its use of a "dividend stripping" strategy, which allowed both the buyer and seller of a stock to claim the tax credits. ](/news/2016/03/22/german-tax-authorities-are-investigating-citigroup-over-its-use-of-a-dividend-stripping-strategy-which-allowed-both-the-buyer-and-seller.md) _Context: Citigroup_
 3. [U.S. Treasury Secretary Jack Lew announces that the Treasury will supplement Alexander Hamilton's depiction on the U.S. ten-dollar bill with that of a woman, the identity of which is to be chosen after public debate. ](/news/2015/06/17/u-s-treasury-secretary-jack-lew-announces-that-the-treasury-will-supplement-alexander-hamilton-s-depiction-on-the-u-s-ten-dollar-bill-with.md) _Context: Treasury Secretary_
 4. [The "Wall Street Journal" reports that European Union regulators have announced plans to file charges against American Internet company Google following a European Union investigation. ](/news/2015/04/14/the-wall-street-journal-reports-that-european-union-regulators-have-announced-plans-to-file-charges-against-american-internet-company-goog.md) _Context: Wall Street Journal_

@@ -1,6 +1,6 @@
 ## [2009-08-6](/news/2009/08/6/index.md)
 
-### [ 64th anniversary of Hiroshima and Nagasaki atomic bombings: Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. ](/news/2009/08/6/64th-anniversary-of-hiroshima-and-nagasaki-atomic-bombings-japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshi.md)
+### [ Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. ](/news/2009/08/6/japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshima-was-hit-in-the-world-s-first-atomic-bomb-attack.md)
 Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomic bomb attack with a call for a nuclear-weapons-free world.
 
 ### [ Supporters of Iran's opposition leader, Mir-Hossein Mousavi, battle riot police as they hoot horns and take to the streets of Tehran shouting "Death to the dictator". ](/news/2009/08/6/supporters-of-iran-s-opposition-leader-mir-hossein-mousavi-battle-riot-police-as-they-hoot-horns-and-take-to-the-streets-of-tehran-shouti.md)
@@ -12,7 +12,7 @@ Court sentences three people to death for their role in bombings that killed at 
 ### [ Malagasy crisis talks resume between interim leader Andry Rajoelina, ousted president Marc Ravalomanana and former presidents Didier Ratsiraka and Albert Zafy in Maputo, Mozambique. ](/news/2009/08/6/malagasy-crisis-talks-resume-between-interim-leader-andry-rajoelina-ousted-president-marc-ravalomanana-and-former-presidents-didier-ratsir.md)
 _Context: Albert Zafy, Andry Rajoelina, Didier Ratsiraka, Madagascar, Maputo, Marc Ravalomanana, Mozambique_
 
-### [ New Zealand-s Prime Minister John Key says he believes Fiji-s self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealand-s-prime-minister-john-key-says-he-believes-fiji-s-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
+### [ New Zealand's Prime Minister John Key says he believes Fiji's self-appointed Prime Minister Commodore Frank Bainimarama has given up on the Pacific Islands Forum. ](/news/2009/08/6/new-zealandas-prime-minister-john-key-says-he-believes-fijias-self-appointed-prime-minister-commodore-frank-bainimarama-has-given-up-on.md)
 _Context: Commodore, Fiji, John Key, New Zealand, Pacific Islands Forum, Prime Minister, Prime Minister, Voreqe Bainimarama_
 
 ### [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md)
@@ -34,7 +34,7 @@ _Context: South Korea_
 Japan’s first jury trial in more than a half century concluded as a panel of three judges and six lay jurors convicted a Tokyo man of murder and then sentenced him to 15 years in prison.
 
 ### [ Iran bans all pilgrimages to Saudi Arabia during the Islamic holy month of Ramadan in an attempt to contain the spread of swine flu. ](/news/2009/08/6/iran-bans-all-pilgrimages-to-saudi-arabia-during-the-islamic-holy-month-of-ramadan-in-an-attempt-to-contain-the-spread-of-swine-flu.md)
-_Context: Iran, Islam, Ramadan, Saudi Arabia, attempt to contain the spread, swine flu_
+_Context: Iran, Muslims, Ramadan, Saudi Arabia, attempt to contain the spread, swine flu_
 
 ### [ Hundreds of panic-stricken people queue at hospitals in Pune, India, to be tested for swine flu following the first death from the disease in that country. ](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.md)
 _Context: India, Pune, first death from the disease_

@@ -27,7 +27,7 @@ _Context: Baltasar Garzon, Julian Assange, London, Swedish_
 ### [Russia says that it is working closely with the Syrian government to establish guarantees that Assad won't move or use Syria's chemical weapons. ](/news/2012/08/23/russia-says-that-it-is-working-closely-with-the-syrian-government-to-establish-guarantees-that-assad-won-t-move-or-use-syria-s-chemical-weap.md)
 Speaking in an interview to The Associated Press, Deputy Foreign Minister Gennady Gatilov said Russia is working closely with the Assad regime to make sure its arsenal of chemical weapons is secure.
 
-### [Pakistan again officially protests against the U.S. drone strikes, calling them unlawful, against international law and a violation of Pakistan-s sovereignty. Pakistan states emphatically that the attacks are "unacceptable". ](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.md)
+### [Pakistan again officially protests against the U.S. drone strikes, calling them unlawful, against international law and a violation of Pakistan's sovereignty. Pakistan states emphatically that the attacks are "unacceptable". ](/news/2012/08/23/pakistan-again-officially-protests-against-the-u-s-drone-strikes-calling-them-unlawful-against-international-law-and-a-violation-of-pakis.md)
 _Context: Pakistan, drones launch_
 
 ### [Former Polly Peck tycoon Asil Nadir is jailed for 10 years for stealing GBP29m ($46m) from the company. ](/news/2012/08/23/former-polly-peck-tycoon-asil-nadir-is-jailed-for-10-years-for-stealing-agbp29m-46m-from-the-company.md)

@@ -1,6 +1,6 @@
 ## [2015-02-5](/news/2015/02/5/index.md)
 
-### [Syrian Civil War: The United Arab Emirates suspends air strikes against the Islamic State after a video of a Jordanian air force pilot being burned alive is published online. The suspension involves concerns over a lack of coalition search and rescue capabilities in Syria to recover downed pilots. ](/news/2015/02/5/syrian-civil-war-the-united-arab-emirates-suspends-air-strikes-against-the-islamic-state-after-a-video-of-a-jordanian-air-force-pilot-being.md)
+### [The United Arab Emirates suspends air strikes against the Islamic State after a video of a Jordanian air force pilot being burned alive is published online. The suspension involves concerns over a lack of coalition search and rescue capabilities in Syria to recover downed pilots. ](/news/2015/02/5/the-united-arab-emirates-suspends-air-strikes-against-the-islamic-state-after-a-video-of-a-jordanian-air-force-pilot-being-burned-alive-is-p.md)
 The United Arab Emirates stops combat missions over Syria because the U.S. wasn&#x27;t able to rescue a Jordanian pilot burned to death in an ISIS video.
 
 ### [A Paul Gauguin painting, "Nafea Faa Ipoipo" ("When Will You Marry?"), sells to a Qatari buyer for close to $300 million. ](/news/2015/02/5/a-paul-gauguin-painting-nafea-faa-ipoipo-when-will-you-marry-sells-to-a-qatari-buyer-for-close-to-300-million.md)

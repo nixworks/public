@@ -6,10 +6,10 @@ _Context: Denis Mukwege, Hans Herren, Raji Sourani, Right Livelihood Award, Swed
 ### [French artist Laure Prouvost wins the 2013 Turner Prize for a video installation set in a mock tea party. ](/news/2013/12/2/french-artist-laure-prouvost-wins-the-2013-turner-prize-for-a-video-installation-set-in-a-mock-tea-party.md)
 _Context: French-born, Laure Prouvost, Turner Prize, video installation_
 
-### [Typhoon Haiyan:: The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/typhoon-haiyan-the-death-toll-in-the-philippines-is-confirmed-over-5-700.md)
+### [The death toll in the Philippines is confirmed over 5,700. ](/news/2013/12/2/the-death-toll-in-the-philippines-is-confirmed-over-5-700.md)
 MANILA &ndash; The official death toll from super typhoon &quot;Yolanda&quot; is now at 5,670, the National Disaster Risk Reduction and Management Council (NDRRMC) said Monday. 
 
-### [2013 Glasgow helicopter crash:: Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/2013-glasgow-helicopter-crash-nine-people-are-now-confirmed-dead-following-friday-s-crash.md)
+### [Nine people are now confirmed dead following Friday's crash. ](/news/2013/12/2/nine-people-are-now-confirmed-dead-following-friday-s-crash.md)
 Crews pulled a ninth body Sunday from the wreckage of a Glasgow pub reduced to rubble when a police helicopter crashed into it Friday night. 
 
 ### [A five-story building under construction collapses in the Brazilian city of Guarulhos with no casualties. ](/news/2013/12/2/a-five-story-building-under-construction-collapses-in-the-brazilian-city-of-guarulhos-with-no-casualties.md)

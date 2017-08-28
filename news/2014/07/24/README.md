@@ -1,12 +1,12 @@
 ## [2014-07-24](/news/2014/07/24/index.md)
 
-### [2014 pro-Russian unrest in Ukraine:: Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/2014-pro-russian-unrest-in-ukraine-ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Lysychansk_
+### [Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. ](/news/2014/07/24/ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.md)
+_Context: Lysychansk_
 
-### [Iraqi insurgency (2011-present): Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/iraqi-insurgency-2011-present-gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-a.md)
+### [Gunmen attack a prisoner convoy north of Baghdad resulting in the death of 52 prisoners and eight Iraqi Army soldiers. ](/news/2014/07/24/gunmen-attack-a-prisoner-convoy-north-of-baghdad-resulting-in-the-death-of-52-prisoners-and-eight-iraqi-army-soldiers.md)
 Gunmen attacked a prisoner convoy north of Baghdad on Thursday, setting off a gun battle with troops in which 52 prisoners and eight soldiers were killed, officials said.
 
-### [Israel-Gaza conflict: At least 15 Palestinians are killed and 200 injured in a strike on a UNRWA-run school in Beit Hanoun, northern Gaza, crowded with hundreds of displaced civilians. UN condemns the shelling, saying it asked IDF for time to evacuate civilians. ](/news/2014/07/24/israel-gaza-conflict-at-least-15-palestinians-are-killed-and-200-injured-in-a-strike-on-a-unrwa-run-school-in-beit-hanoun-northern-gaza-c.md)
+### [At least 15 Palestinians are killed and 200 injured in a strike on a UNRWA-run school in Beit Hanoun, northern Gaza, crowded with hundreds of displaced civilians. UN condemns the shelling, saying it asked IDF for time to evacuate civilians. ](/news/2014/07/24/at-least-15-palestinians-are-killed-and-200-injured-in-a-strike-on-a-unrwa-run-school-in-beit-hanoun-northern-gaza-crowded-with-hundreds-o.md)
 Shelling of UNRWA school condemned by UN, saying it asked IDF for time to evacuate civilians, which was not given
 
 ### [In Herat, Afghanistan, two Finnish women working for a foreign aid organization are shot and killed. ](/news/2014/07/24/in-herat-afghanistan-two-finnish-women-working-for-a-foreign-aid-organization-are-shot-and-killed.md)

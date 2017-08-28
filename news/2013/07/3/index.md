@@ -1,15 +1,15 @@
 ## [2013-07-3](/news/2013/07/3/index.md)
 
-### [2013 Egyptian coup d'etat:: Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/2013-egyptian-coup-d-etat-egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutio.md)
+### [Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutional-court-as-the-country-s.md)
 Mohamed Morsi rejected a military ultimatum to strike a deal with his opponents tonight and declared himself Egypt’s legitimate leader – despite the eruption in Cairo of deadly gun battles during rallies to shore up his teetering position.
 
-### [U.S. drone attacks on Pakistan:: The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/u-s-drone-attacks-on-pakistan-the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakist.md)
+### [The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. ](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike-on-a-militants-camp-in-the-north-waziristan-area-of-pakistan-rises-to-16.md)
 _Context: North Waziristan, Pakistan, drones launch_
 
 ### [The death toll from a 6.2 magnitude earthquake in Indonesia's Aceh Province rises to 42, with more than 400 injured and thousands of buildings damaged. ](/news/2013/07/3/the-death-toll-from-a-6-2-magnitude-earthquake-in-indonesia-s-aceh-province-rises-to-42-with-more-than-400-injured-and-thousands-of-buildin.md)
 The death toll from a strong 6.1-magnitude earthquake that struck the Indonesian province of Aceh has climbed to 22, a disaster official said.
 
-### [Diversion of Bolivian president Evo Morales' flight:: The presidential jet of Bolivia is denied access to European airspace and forced to land in Vienna amid concerns that Edward Snowden is on board. ](/news/2013/07/3/diversion-of-bolivian-president-evo-morales-flight-the-presidential-jet-of-bolivia-is-denied-access-to-european-airspace-and-forced-to-la.md)
+### [The presidential jet of Bolivia is denied access to European airspace and forced to land in Vienna amid concerns that Edward Snowden is on board. ](/news/2013/07/3/the-presidential-jet-of-bolivia-is-denied-access-to-european-airspace-and-forced-to-land-in-vienna-amid-concerns-that-edward-snowden-is-on-b.md)
 Bolivia accuses European states of &quot;aggression&quot; after its presidential plane was apparently forced to land and searched for Edward Snowden.
 
 ### [Ecuador announces the discovery of a bugging device used to listen in on its embassy in the United Kingdom. Ecuador's foreign minister Ricardo Patio declares it as "another instance of a loss of ethics at the international level in relations between governments". ](/news/2013/07/3/ecuador-announces-the-discovery-of-a-bugging-device-used-to-listen-in-on-its-embassy-in-the-united-kingdom-ecuador-s-foreign-minister-ricar.md)

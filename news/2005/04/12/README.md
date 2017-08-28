@@ -40,7 +40,7 @@ _Context: Guardian Council, Iran, abortion, fetus_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ In Saudi Arabia, Grand Mufti Sheikh Abdul Aziz al-Sheikh rules that forcing women marry against their will is against Islam. ](/news/2005/04/12/in-saudi-arabia-grand-mufti-sheikh-abdul-aziz-al-sheikh-rules-that-forcing-women-marry-against-their-will-is-against-islam.md)
-_Context: Abdul Aziz al-Sheikh, Grand Mufti, Islam, Saudi Arabia, forced marriage_
+_Context: Abdul Aziz al-Sheikh, Grand Mufti, Muslims, Saudi Arabia, forced marriage_
 
 ### [ The Indonesian army promises to give up its businesses within two years. ](/news/2005/04/12/the-indonesian-army-promises-to-give-up-its-businesses-within-two-years.md)
 _Context: Indonesia_

@@ -1,6 +1,6 @@
 ### [2016-07-29](/news/2016/07/29/index.md)
 
-# The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri.  
+# The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri. 
 
 
 

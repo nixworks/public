@@ -10,7 +10,7 @@ U.S. crude oil futures rosemore than $3 a barrel to a record over $120 on Monday
 _Context: Mogadishu, Somalia_
 
 ### [ Media reports the death toll from Cyclone Nargis in Myanmar to have passed 10,000. ](/news/2008/05/5/media-reports-the-death-toll-from-cyclone-nargis-in-myanmar-to-have-passed-10-000.md)
-_Context: Cyclone Nargis, Myanmar_
+_Context: Burmese, Cyclone Nargis_
 
 ### [ Three people are killed and another three injured after an explosion on a bus in Shanghai, China. ](/news/2008/05/5/three-people-are-killed-and-another-three-injured-after-an-explosion-on-a-bus-in-shanghai-china.md)
 _Context: China, Shanghai_

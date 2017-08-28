@@ -12,7 +12,7 @@ Italian anti-terrorist police have arrested two Pakistanis suspected of helping 
 ### [ Archbishop of Canterbury Rowan Williams and Pope Benedict XVI agree to "seek closer relations" in a meeting in Rome. ](/news/2009/11/21/archbishop-of-canterbury-rowan-williams-and-pope-benedict-xvi-agree-to-seek-closer-relations-in-a-meeting-in-rome.md)
 The Archbishop of Canterbury and Pope Benedict XVI took significant steps on Saturday to heal the rift between their respective faiths.
 
-### [ Floods in Great Britain and Ireland:: British Prime Minister Gordon Brown travels to Cumbria to meet victims of the floods that have affected the area. ](/news/2009/11/21/floods-in-great-britain-and-ireland-british-prime-minister-gordon-brown-travels-to-cumbria-to-meet-victims-of-the-floods-that-have-affect.md)
+### [ British Prime Minister Gordon Brown travels to Cumbria to meet victims of the floods that have affected the area. ](/news/2009/11/21/british-prime-minister-gordon-brown-travels-to-cumbria-to-meet-victims-of-the-floods-that-have-affected-the-area.md)
 Parts of the south and west are on high alert this evening as more rain and high winds are forecast.
 
 ### [ U.S. President Barack Obama's job approval rating slips below 50 percent in a daily tracking survey by Gallup poll. ](/news/2009/11/21/u-s-president-barack-obama-s-job-approval-rating-slips-below-50-percent-in-a-daily-tracking-survey-by-gallup-poll.md)

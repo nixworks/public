@@ -1,6 +1,6 @@
 ### [2016-04-23](/news/2016/04/23/index.md)
 
-# Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people,  is holding. 
+# Reuters reports the Friday afternoon truce between Kurdish Asayish forces and pro-Syrian government forces, declared following a three-day outbreak of violence that killed at least 26 people, is holding. 
 
 Regional Kurdish security forces and pro-Syrian government forces have declared a ceasefire in northeastern Syria, the Kurdish side said, calming a three-day outbreak of violence which killed more than 26 people.
 

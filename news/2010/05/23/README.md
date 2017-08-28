@@ -9,7 +9,7 @@ _Context: Jamaica, Kingston, drug kingpin, state of emergency_
 ### [A five-day strike at British Airways is announced to begin tomorrow following a breakdown in talks which were invaded by protesters yesterday. ](/news/2010/05/23/a-five-day-strike-at-british-airways-is-announced-to-begin-tomorrow-following-a-breakdown-in-talks-which-were-invaded-by-protesters-yesterda.md)
 Five-day strike to begin on Monday after union offer is rejected by airline.
 
-### [Ethiopian general election, 2010:: Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/ethiopian-general-election-2010-voters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md)
+### [Voters in Ethiopia go to the polls to elect members of the House of Peoples' Representatives. ](/news/2010/05/23/voters-in-ethiopia-go-to-the-polls-to-elect-members-of-the-house-of-peoples-representatives.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [Voters in Nagorno-Karabakh vote in a parliamentary election as more than 70 international observers watch. ](/news/2010/05/23/voters-in-nagorno-karabakh-vote-in-a-parliamentary-election-as-more-than-70-international-observers-watch.md)
@@ -39,7 +39,7 @@ Japanese Prime Minister Yukio Hatoyama apologises for not keeping his promise to
 ### [Mordechai Vanunu, the Israeli nuclear whistleblower who spent 18 years in prison, goes back to jail for violating the terms of his parole. ](/news/2010/05/23/mordechai-vanunu-the-israeli-nuclear-whistleblower-who-spent-18-years-in-prison-goes-back-to-jail-for-violating-the-terms-of-his-parole.md)
 _Context: Israel, Mordechai Vanunu, nuclear pact, parole, whistleblower_
 
-### [Sinking of the ROKS "Cheonan":: South Korea announces it will take the case of the sinking of the "Cheonan" to the United Nations Security Council. ](/news/2010/05/23/sinking-of-the-roks-cheonan-south-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-security-c.md)
+### [South Korea announces it will take the case of the sinking of the "Cheonan" to the United Nations Security Council. ](/news/2010/05/23/south-korea-announces-it-will-take-the-case-of-the-sinking-of-the-cheonan-to-the-united-nations-security-council.md)
 The South Korean government, which accuses North Korea of sinking one of its warships, is taking its case against Pyongyang to the UN Security Council.
 
 ### [The Cuban government eases jail conditions for political prisoners following talks with Catholic Church leaders and President Ral Castro. ](/news/2010/05/23/the-cuban-government-eases-jail-conditions-for-political-prisoners-following-talks-with-catholic-church-leaders-and-president-raul-castro.md)

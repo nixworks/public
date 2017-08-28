@@ -1,6 +1,6 @@
 ## [2006-02-5](/news/2006/02/5/index.md)
 
-### [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21-10-in-super-bowl-nbsp-xl.md)
+### [ American football: The Pittsburgh Steelers defeat the Seattle Seahawks by a score of 21-10 in Super Bowl&nbsp;XL. ](/news/2006/02/5/american-football-the-pittsburgh-steelers-defeat-the-seattle-seahawks-by-a-score-of-21a10-in-super-bowl-nbsp-xl.md)
 _Context: American football, Pittsburgh Steelers, Seattle Seahawks, Super Bowl&nbsp;XL_
 
 ### [ Iran resumes most of its nuclear program after it was voted to be referred to the United Nations Security Council. However it says that it is still open for renegotiation. ](/news/2006/02/5/iran-resumes-most-of-its-nuclear-program-after-it-was-voted-to-be-referred-to-the-united-nations-security-council-however-it-says-that-it.md)

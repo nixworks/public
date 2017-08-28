@@ -45,10 +45,10 @@ The International Criminal Court (ICC) yesterday charged Sudanese President Omar
 ### [Cuba releases 7 political prisoners and sends them into exile in Spain, the first in a wave of 52. ](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.md)
 _Context: Cuba, Exile, political prisoner_
 
-### [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined -65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-65-000-for-drug-smuggling-between-1991-a.md)
+### [Italian military police general Giampaolo Ganzer is sentenced to 14 years imprisonment and fined EUR65,000 for drug smuggling between 1991 and 1997. ](/news/2010/07/12/italian-military-police-general-giampaolo-ganzer-is-sentenced-to-14-years-imprisonment-and-fined-a-65-000-for-drug-smuggling-between-1991-a.md)
 Italian military police general Giampaolo Ganzer is sentenced to 14 years in prison for drug smuggling
 
-### [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-franco-polish-film-director-roman-polanski-to-face-sentencing-on-charges.md)
+### [Switzerland rejects a request from the United States to extradite Franco-Polish film director Roman Polanski to face sentencing on charges of unlawful sex with a minor in 1977. ](/news/2010/07/12/switzerland-rejects-a-request-from-the-united-states-to-extradite-francoapolish-film-director-roman-polanski-to-face-sentencing-on-charges.md)
 Roman Polanski is free after the Swiss government rejected a US extradition request on a charge that the film director had sexual intercourse in 1977 with a 13-year-old girl.
 
 ### [Two Russian men, Andrei Yerofeyev and Yuri Samodurov, are convicted of inciting hatred for setting up a Forbidden Art exhibition at the Sakharov Museum. ](/news/2010/07/12/two-russian-men-andrei-yerofeyev-and-yuri-samodurov-are-convicted-of-inciting-hatred-for-setting-up-a-forbidden-art-exhibition-at-the-sakh.md)

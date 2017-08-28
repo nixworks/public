@@ -1,12 +1,12 @@
 ## [2013-04-28](/news/2013/04/28/index.md)
 
-### [Syrian civil war:: Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-civil-war-syrian-rebels-capture-three-military-airbases-in-the-north.md)
-_Context: Free Syrian Army, Syria, Syrian Civil War_
+### [Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-rebels-capture-three-military-airbases-in-the-north.md)
+_Context: Free Syrian Army, Syria_
 
 ### [Men in technicals, pickup trucks with anti-aircraft guns, block off and surround the Libyan foreign ministry in the capital Tripoli demanding a ban on Gaddafi-era officials working in the government ](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.md)
 At least 20 vehicles loaded with anti-aircraft guns block road as 200 armed men demand removal of Gaddafi-era staff.
 
-### [War in North-West Pakistan:: At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/war-in-north-west-pakistan-at-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election.md)
+### [At least eight people are dead and dozens injured as a result of Tehrik-i-Taliban Pakistan attacks on election candidates in Kohat and Peshawar. ](/news/2013/04/28/at-least-eight-people-are-dead-and-dozens-injured-as-a-result-of-tehrik-i-taliban-pakistan-attacks-on-election-candidates-in-kohat-and-pesha.md)
 The attacks, mostly by the Taliban, added to a growing toll of militant violence in the run-up to elections scheduled for May 11.
 
 ### [At least three people die and fourteen are injured when an apartment building in the French city of Reims collapses after a suspected gas explosion, leaving people trapped under debris. ](/news/2013/04/28/at-least-three-people-die-and-fourteen-are-injured-when-an-apartment-building-in-the-french-city-of-reims-collapses-after-a-suspected-gas-ex.md)

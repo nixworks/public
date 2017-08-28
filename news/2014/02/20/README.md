@@ -1,10 +1,10 @@
 ## [2014-02-20](/news/2014/02/20/index.md)
 
-### [Euromaidan:: A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/euromaidan-a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-repor.md)
+### [A shaky truce is broken with police and protesters renewing clashes on Kiev's Maidan Nezalezhnosti, with scores of deaths reported. ](/news/2014/02/20/a-shaky-truce-is-broken-with-police-and-protesters-renewing-clashes-on-kiev-s-maidan-nezalezhnosti-with-scores-of-deaths-reported.md)
 The EU agrees to impose sanctions on Ukrainian officials &quot;responsible for violence and excessive force&quot; after the bloodiest day of clashes in Kiev.
 
-### [Sinai insurgency:: Egyptian security officials say army helicopter gunships have rocketed several houses where militants were thought to have gathered in the northern region of the Sinai Peninsula, killing at least 10. ](/news/2014/02/20/sinai-insurgency-egyptian-security-officials-say-army-helicopter-gunships-have-rocketed-several-houses-where-militants-were-thought-to-hav.md)
-_Context: Egypt, Sinai, Sinai insurgency_
+### [Egyptian security officials say army helicopter gunships have rocketed several houses where militants were thought to have gathered in the northern region of the Sinai Peninsula, killing at least 10. ](/news/2014/02/20/egyptian-security-officials-say-army-helicopter-gunships-have-rocketed-several-houses-where-militants-were-thought-to-have-gathered-in-the-n.md)
+_Context: Egypt, Sinai_
 
 ### [A shooter opens fire inside a Native American tribal office in Alturas, California, United States, killing four and wounding two. ](/news/2014/02/20/a-shooter-opens-fire-inside-a-native-american-tribal-office-in-alturas-california-united-states-killing-four-and-wounding-two.md)
 _Context: Alturas, California, Native American_
@@ -18,8 +18,8 @@ _Context: Ismael "El Mayo" Zambada, Jos Rodrigo Archiga Gamboa, Los ntrax, Sinal
 ### [Louie Sanchez and Marvin Norwood are sentenced to eight years in prison for the 2011 beating of Bryan Stow. ](/news/2014/02/20/louie-sanchez-and-marvin-norwood-are-sentenced-to-eight-years-in-prison-for-the-2011-beating-of-bryan-stow.md)
 Two men charged in the beating of a San Francisco Giants fan pleaded guilty Thursday and accepted plea deals in the March 2011 opening day attack.
 
-### [Australian federal election, 2013:: The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/australian-federal-election-2013-the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-m.md)
-_Context: Australian Senate special election in Western Australia, 2014, High Court of Australia, Senate election, Western Australia_
+### [The High Court of Australia rules that the Senate election in the state of Western Australia was void, meaning that a half-Senate election will be held in that state. ](/news/2014/02/20/the-high-court-of-australia-rules-that-the-senate-election-in-the-state-of-western-australia-was-void-meaning-that-a-half-senate-election-w.md)
+_Context: High Court of Australia, Senate election, Western Australia, half-Senate election_
 
 ### [Utah and Colorado have announced that they plan to increase the smoking age to 21. ](/news/2014/02/20/utah-and-colorado-have-announced-that-they-plan-to-increase-the-smoking-age-to-21.md)
 Colorado, Utah move to hike smoking age to 21

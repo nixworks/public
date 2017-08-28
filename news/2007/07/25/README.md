@@ -9,7 +9,7 @@ Nurses in Fiji are holding a national strike over a pay cut forced on them by th
 ### [ A United States federal court judge orders Sudan to pay $8 million in compensation to the victims of the bombing of the USS "Cole". ](/news/2007/07/25/a-united-states-federal-court-judge-orders-sudan-to-pay-8-million-in-compensation-to-the-victims-of-the-bombing-of-the-uss-cole.md)
 _Context: Sudan, US$, USS ''Cole'', United States_
 
-### [ 2007 Tour de France: Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/2007-tour-de-france-italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
+### [ Italian rider Christian Moreni fails a doping test and is led away for questioning by French police ](/news/2007/07/25/italian-rider-christian-moreni-fails-a-doping-test-and-is-led-away-for-questioning-by-french-police.md)
 _Context: 2007 Tour de France, Christian Moreni, Italian, doping_
 
 ### [ The President of Brazil Luiz Incio Lula da Silva removes Defense Minister Waldir Pires, who is responsible for civil aviation, from his Cabinet and replaces him with former Justice Minister Nelson Jobim after two major crashes in ten months. ](/news/2007/07/25/the-president-of-brazil-luiz-inacio-lula-da-silva-removes-defense-minister-waldir-pires-who-is-responsible-for-civil-aviation-from-his-ca.md)

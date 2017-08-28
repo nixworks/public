@@ -21,7 +21,7 @@ Palestinian group says 18-month ceasefire in Gaza and opening of borders within 
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
 _Context: Abraham Lincoln, Ford's Theatre, President, United States, Washington, D.C., assassinated, bicentennial_
 
-### [ Late 2000s recession:: Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/late-2000s-recession-japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md)
+### [ Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md)
 Union pledges to fight to reverse the decision.
 
 ### [ A man is arrested after threatening self-immolation outside the Government Buildings in Dublin, Ireland. ](/news/2009/02/12/a-man-is-arrested-after-threatening-self-immolation-outside-the-government-buildings-in-dublin-ireland.md)
@@ -43,7 +43,7 @@ There has been an armed robbery at the European Parliament in Brussels.
 _Context: India, Moninder Singh Pandher, Surender Koli, convicted, domestic worker, murder_
 
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Britain, Geert Wilders, Islam, MP, Netherlands, Parliament, anti-Islamic_
+_Context: Britain, Geert Wilders, MP, Muslims, Netherlands, Parliament, anti-Islamic_
 
 ### [ Microsoft places a US$250,000 bounty on the Conficker computer worm's creator. ](/news/2009/02/12/microsoft-places-a-us-250-000-bounty-on-the-conficker-computer-worm-s-creator.md)
 Microsoft is offering a $250,000 reward for information leading to the conviction of the Conficker worm&#039;s author.

@@ -3,7 +3,7 @@
 ### [Two drone strikes kill at least seven suspected al-Qaeda militants in the Abyan Governorate of Yemen. ](/news/2013/06/1/two-drone-strikes-kill-at-least-seven-suspected-al-qaeda-militants-in-the-abyan-governorate-of-yemen.md)
 Two drone strikes killed seven suspected al Qaeda militants in southern Yemen on Saturday, a local official said, nine days after U.S. President Barack Obama said he would only use such strikes when a threat was &quot;continuing and imminent&quot;.
 
-### [Iraqi insurgency (post-U.S. withdrawal): Authorities in Iraq say they have uncovered an Al-Qaeda plot to use chemical weapons, as well as to smuggle them to Europe and North America. ](/news/2013/06/1/iraqi-insurgency-post-u-s-withdrawal-authorities-in-iraq-say-they-have-uncovered-an-al-qaeda-plot-to-use-chemical-weapons-as-well-as-to.md)
+### [Authorities in Iraq say they have uncovered an Al-Qaeda plot to use chemical weapons, as well as to smuggle them to Europe and North America. ](/news/2013/06/1/authorities-in-iraq-say-they-have-uncovered-an-al-qaeda-plot-to-use-chemical-weapons-as-well-as-to-smuggle-them-to-europe-and-north-america.md)
 The authorities in Iraq say they have uncovered an al-Qaeda plot to use chemical weapons, as well as to smuggle them to Europe and North America.
 
 ### [Inmates kill two prison guards in a failed Nigerien jailbreak. ](/news/2013/06/1/inmates-kill-two-prison-guards-in-a-failed-nigerien-jailbreak.md)

@@ -1,12 +1,12 @@
 ## [2010-05-25](/news/2010/05/25/index.md)
 
-### [Curfew imposed in central Nepal after clash. Central Nepal district Dolakha-s government issued curfew order on Sunday following clashes between the police and the Communist Party of Nepal (Maoist)-aligned Young Communist League (YCL) activists. ](/news/2010/05/25/curfew-imposed-in-central-nepal-after-clash-central-nepal-district-dolakha-s-government-issued-curfew-order-on-sunday-following-clashes-b.md)
+### [Curfew imposed in central Nepal after clash. Central Nepal district Dolakha's government issued curfew order on Sunday following clashes between the police and the Communist Party of Nepal (Maoist)-aligned Young Communist League (YCL) activists. ](/news/2010/05/25/curfew-imposed-in-central-nepal-after-clash-central-nepal-district-dolakhaas-government-issued-curfew-order-on-sunday-following-clashes-b.md)
 _Context: Communist Party of Nepal, Dolakha, Maoist, Nepal, Young Communist League_
 
 ### [The death toll from the fighting in Kingston, Jamaica's capital, jumps to 27. ](/news/2010/05/25/the-death-toll-from-the-fighting-in-kingston-jamaica-s-capital-jumps-to-27.md)
 At least 27 people, mostly civilians, die in gun battles in Jamaica, as the hunt continues for a suspected drug lord.
 
-### [May 2010 Central European floods:: Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/may-2010-central-european-floods-warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md)
+### [Warsaw residents prepare to flee floodwaters as the Vistula river overflows. ](/news/2010/05/25/warsaw-residents-prepare-to-flee-floodwaters-as-the-vistula-river-overflows.md)
 Poland has earmarked 2 billion zlotys ($590 million) from budget reserves to help victims of floods that have burst riverbanks and submerged homes, Prime Minister Donald Tusk said on Tuesday.
 
 ### [An international operation against a major drug trafficking gang deals "a major blow" as 26 people are arrested in Ireland, Spain and the United Kingdom, including a capo di tutti capi. ](/news/2010/05/25/an-international-operation-against-a-major-drug-trafficking-gang-deals-a-major-blow-as-26-people-are-arrested-in-ireland-spain-and-the-un.md)
@@ -36,7 +36,7 @@ _Context: MT ''Bunga Kelana 3'', Malaysia, Singapore Strait_
 ### [The Supreme Court of Pakistan dismisses a government appeal to detain Hafiz Muhammad Saeed, a Muslim cleric suspected by India to have masterminded the 2008 Mumbai attacks. ](/news/2010/05/25/the-supreme-court-of-pakistan-dismisses-a-government-appeal-to-detain-hafiz-muhammad-saeed-a-muslim-cleric-suspected-by-india-to-have-maste.md)
 _Context: 2008 Mumbai attacks, Hafiz Muhammad Saeed, India, Supreme Court_
 
-### [Italy's cabinet approves an austerity budget to cut its deficit by -24 billion in 2011 and 2012. ](/news/2010/05/25/italy-s-cabinet-approves-an-austerity-budget-to-cut-its-deficit-by-24-billion-in-2011-and-2012.md)
+### [Italy's cabinet approves an austerity budget to cut its deficit by EUR24 billion in 2011 and 2012. ](/news/2010/05/25/italy-s-cabinet-approves-an-austerity-budget-to-cut-its-deficit-by-a-24-billion-in-2011-and-2012.md)
 Italy becomes the latest European country to announce tough austerity measures in an effort to reduce its deficit.
 
 ### [Sicilians react with outrage to an advert for a clothing shop in Palermo featuring Adolf Hitler dressed in pink and a heart instead of a swastika. ](/news/2010/05/25/sicilians-react-with-outrage-to-an-advert-for-a-clothing-shop-in-palermo-featuring-adolf-hitler-dressed-in-pink-and-a-heart-instead-of-a-swa.md)

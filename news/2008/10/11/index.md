@@ -1,6 +1,6 @@
 ## [2008-10-11](/news/2008/10/11/index.md)
 
-### [ Global financial crisis of September-October 2008:](/news/2008/10/11/global-financial-crisis-of-september-october-2008.md)
+### [ Global financial crisis of September-October 2008:](/news/2008/10/11/global-financial-crisis-of-septemberaoctober-2008.md)
 _Context: Global financial crisis of September-October 2008_
 
 ### [United States President George W. Bush commits to collaborative action with G7 finance ministers. ](/news/2008/10/11/united-states-president-george-w-bush-commits-to-collaborative-action-with-g7-finance-ministers.md)

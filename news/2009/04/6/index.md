@@ -15,7 +15,7 @@ _Context: 2009 L'Aquila earthquake, Italian, L'Aquila, magnitude_
 ### [ Afghanistan's government will review a recently approved version of sharia law that legalizes spousal rape. ](/news/2009/04/6/afghanistan-s-government-will-review-a-recently-approved-version-of-sharia-law-that-legalizes-spousal-rape.md)
 _Context: Afghan government's, Afghanistan's, men to rape their wives, sharia law_
 
-### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election. ](/news/2009/04/6/gjorge-ivanov-of-vmro-dpmne-wins-macedonia-s-presidential-election.md)
+### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election. ](/news/2009/04/6/gjorge-ivanov-of-vmroadpmne-wins-macedonia-s-presidential-election.md)
 _Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential_
 
 ### [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md)

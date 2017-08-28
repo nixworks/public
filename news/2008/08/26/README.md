@@ -15,10 +15,10 @@ _Context: Diyala Governorate, Iraq_
 ### [ Malaysian opposition leader Anwar Ibrahim wins a landslide victory in the by-election in Permatang Pauh. ](/news/2008/08/26/malaysian-opposition-leader-anwar-ibrahim-wins-a-landslide-victory-in-the-by-election-in-permatang-pauh.md)
 _Context: Anwar Ibrahim, Malaysia, by-election in Permatang Pauh, landslide_
 
-### [ 2008 South Ossetia war:: Russia recognises the independence of Abkhazia and South Ossetia.](/news/2008/08/26/2008-south-ossetia-war-russia-recognises-the-independence-of-abkhazia-and-south-ossetia.md)
+### [ Russia recognises the independence of Abkhazia and South Ossetia.](/news/2008/08/26/russia-recognises-the-independence-of-abkhazia-and-south-ossetia.md)
 Russia formally recognized the independence of South Ossetia and Abkhazia in a challenge to the West.
 
-### [ Hurricane Gustav: Tropical Storm Gustav becomes Hurricane Gustav as it approaches Haiti. ](/news/2008/08/26/hurricane-gustav-tropical-storm-gustav-becomes-hurricane-gustav-as-it-approaches-haiti.md)
+### [ Tropical Storm Gustav becomes Hurricane Gustav as it approaches Haiti. ](/news/2008/08/26/tropical-storm-gustav-becomes-hurricane-gustav-as-it-approaches-haiti.md)
 _Context: Haiti, Hurricane Gustav, Hurricane Gustav_
 
 ### [ The Koshi River breaks embankment to pick up the course abandoned over 200 years ago causing floods in the Indian state of Bihar and killing 42 people. ](/news/2008/08/26/the-koshi-river-breaks-embankment-to-pick-up-the-course-abandoned-over-200-years-ago-causing-floods-in-the-indian-state-of-bihar-and-killin.md)

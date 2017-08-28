@@ -1,15 +1,15 @@
 ## [2015-02-7](/news/2015/02/7/index.md)
 
-### [North Korea and weapons of mass destruction: North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-and-weapons-of-mass-destruction-north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-dep.md)
+### [North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-deployed-across-its-navy.md)
 _Context: North Korea, intercontinental ballistic, navy_
 
-### [War in Donbass: The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/war-in-donbass-the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshen.md)
+### [The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshenko-on-sunday.md)
 A peace plan drawn up by France and Germany is &quot;one of the last chances&quot; to end the conflict in east Ukraine, French leader Francois Hollande says.
 
-### [Islamic State of Iraq and the Levant: Bombings in Baghdad kill at least 37 people hours before the city's curfew was due to end. ISIL claims responsibility. ](/news/2015/02/7/islamic-state-of-iraq-and-the-levant-bombings-in-baghdad-kill-at-least-37-people-hours-before-the-city-s-curfew-was-due-to-end-isil-claims.md)
+### [Bombings in Baghdad kill at least 37 people hours before the city's curfew was due to end. ISIL claims responsibility. ](/news/2015/02/7/bombings-in-baghdad-kill-at-least-37-people-hours-before-the-city-s-curfew-was-due-to-end-isil-claims-responsibility.md)
 Bombings in the Iraqi capital Saturday killed more than three dozen people hours before the city&apos;s longtime curfew was set to come to an end.
 
-### [Islamist insurgency in Nigeria: Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/islamist-insurgency-in-nigeria-nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-h.md)
+### [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md)
 _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria, Nigerian general election, 2015_
 
 ### [NBC Nightly News anchorman Brian Williams begins a temporary hiatus from broadcasting after he was caught lying about having been on board an underfire helicopter which crashed during the 2003 invasion of Iraq. ](/news/2015/02/7/nbc-nightly-news-anchorman-brian-williams-begins-a-temporary-hiatus-from-broadcasting-after-he-was-caught-lying-about-having-been-on-board-a.md)
@@ -30,7 +30,7 @@ Three people have been hospitalised with gunshot wounds after a 17-year-old male
 ### [Queensland Liberal National Party voters elect Lawrence Springborg as their leader with John-Paul Langbroek as deputy leader. ](/news/2015/02/7/queensland-liberal-national-party-voters-elect-lawrence-springborg-as-their-leader-with-john-paul-langbroek-as-deputy-leader.md)
 Lawrence Springborg has been elected as leader of Qld&#039;s Liberal National Party, with John-Paul Langbroek as deputy leader.
 
-### [Slovak same-sex marriage referendum: Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/slovak-same-sex-marriage-referendum-although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-in.md)
+### [Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-invalid-due-to-a-low-21-voter-turnout.md)
 _Context: Slovak same-sex marriage referendum, Slovakia's_
 
 ## [Previous Day...](/news/2015/02/6/index.md)

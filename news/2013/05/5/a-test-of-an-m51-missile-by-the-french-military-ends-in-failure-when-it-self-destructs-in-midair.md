@@ -11,4 +11,4 @@ A&#x20;ballistic&#x20;missile&#x20;was&#x20;launched&#x20;during&#x20;a&#x20;tri
 
 ### Related:
 
-1. [2010-2011 Ivorian crisis:: United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/2010-2011-ivorian-crisis-united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _Context: French military_
+1. [United Nations and French military helicopters fire on a pro-Laurent Gbagbo military camp. ](/news/2011/04/4/united-nations-and-french-military-helicopters-fire-on-a-pro-laurent-gbagbo-military-camp.md) _Context: French military_

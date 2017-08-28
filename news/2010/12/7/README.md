@@ -6,7 +6,7 @@ _Context: India, Varanasi, bomb blast_
 ### [A copy of John James Audubon's "Birds of America" is sold at auction in London for a record GBP7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-agbp7-3-million-10-3-million.md)
 A new record was set for the world&#039;s most expensive printed book at an auction yesterday. A four-volume copy of John James Audubon&#039;s Birds of America went for £7,321,250 at Sotheby&#039;s in London, surpassing the previous record of £5,565,110 – held by another copy of the same title �...
 
-### [Irish financial crisis:: Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-financial-crisis-irish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md)
+### [Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md)
 The High Court has ordered the release of a man who was placed in custody this morning following a protest outside Leinster House.
 
 ### [U.S. authorities expand their investigation into insider trading among hedge funds and their service providers. John Kinnucan, an independent researcher for hedge funds, told Reuters that he expects the Federal Bureau of Investigation will at some point arrest him, "That's just how they operate." ](/news/2010/12/7/u-s-authorities-expand-their-investigation-into-insider-trading-among-hedge-funds-and-their-service-providers-john-kinnucan-an-independen.md)
@@ -33,7 +33,7 @@ _Context: Cote d'Ivoire, ECOWAS_
 ### [19 countries are to miss the Nobel Peace Prize ceremony for Chinese dissident Liu Xiaobo; 44 are to attend. China described supporters of Liu as "clowns". ](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.md)
 Nineteen countries boycott Nobel Peace Prize ceremony, following what committee says is unprecedented campaign by China.
 
-### [War on WikiLeaks and arrest of Julian Assange:: The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/war-on-wikileaks-and-arrest-of-julian-assange-the-u-s-government-declares-war-on-the-wikileaks-website.md)
+### [The U.S. government "declares war" on the WikiLeaks website. ](/news/2010/12/7/the-u-s-government-declares-war-on-the-wikileaks-website.md)
 The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Founder, But the Information Continues to Flow
 
 ### [A U.S. judge dismisses a lawsuit over the U.S. government putting American citizens on "capture or kill" lists. ](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.md)

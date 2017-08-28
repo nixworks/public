@@ -13,8 +13,8 @@ A suicide bomber on Thursday attacked a police training center in the predominan
 
 ### Related:
 
-1. [Iraqi insurgency (post-U.S. withdrawal): A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/iraqi-insurgency-post-u-s-withdrawal-a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _Context: Baghdad, Iraq, car bomb_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/iraqi-insurgency-post-u-s-withdrawal-a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin.md) _Context: Baghdad, Hilla, Iraq_
+1. [A series of car bombings around the Iraqi capital, Baghdad, kills at least 38 people. ](/news/2013/10/27/a-series-of-car-bombings-around-the-iraqi-capital-baghdad-kills-at-least-38-people.md) _Context: Baghdad, Iraq, car bomb_
+2. [A string of bombings kill at least 29 people and injure 69 others in central Iraq, including twin blasts in Baghdad's Kadhimiya neighborhood, as well as the city of Hilla. ](/news/2013/02/8/a-string-of-bombings-kill-at-least-29-people-and-injure-69-others-in-central-iraq-including-twin-blasts-in-baghdad-s-kadhimiya-neighborhood.md) _Context: Baghdad, Hilla, Iraq_
 3. [A car bomb in Baghdad, Iraq, kills at least 16 people in a cafe with young men watching a football match. ](/news/2011/05/3/a-car-bomb-in-baghdad-iraq-kills-at-least-16-people-in-a-cafe-with-young-men-watching-a-football-match.md) _Context: Baghdad, Iraq, car bomb_
 4. [Car bombs injure at least 37 people in the Iraqi cities of Baghdad and Kirkuk. ](/news/2010/11/6/car-bombs-injure-at-least-37-people-in-the-iraqi-cities-of-baghdad-and-kirkuk.md) _Context: Baghdad, Iraq, car bomb_
 5. [At least 26 people are killed and 53 other are injured during two car bombings in central Baghdad, Iraq. ](/news/2010/06/20/at-least-26-people-are-killed-and-53-other-are-injured-during-two-car-bombings-in-central-baghdad-iraq.md) _Context: Baghdad, Iraq, car bomb_

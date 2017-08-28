@@ -1,6 +1,6 @@
 ### [2016-01-10](/news/2016/01/10/index.md)
 
-# Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by ''Rolling Stone'' magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. 
+# Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by "Rolling Stone" magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. 
 
 
 
@@ -22,5 +22,5 @@
 6. [Mexican drug lord Joaquin "El Chapo" Guzman is extradited to the United States, where he will face charges for his role as leader of the Sinaloa Cartel. ](/news/2017/01/19/mexican-drug-lord-joaquan-el-chapo-guzma-n-is-extradited-to-the-united-states-where-he-will-face-charges-for-his-role-as-leader-of-the-s.md) _Context: Joaquin "El Chapo" Guzman_
 7. [The Attorney General of Mexico issues an arrest warrant for the former Governor of Veracruz, Javier Duarte, for suspected involvement in organized crime and money laundering. ](/news/2016/10/19/the-attorney-general-of-mexico-issues-an-arrest-warrant-for-the-former-governor-of-veracruz-javier-duarte-for-suspected-involvement-in-org.md) _Context: Attorney General of Mexico_
 8. [A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. ](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apatzinga-n-michoaca-n-killing-four-people-the-police-had-been-conducting-an-operation-agains.md) _Context: Mexican Drug War_
-9. [The legal team of Joaquin Guzman (''El Chapo''), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decisio.md) _Context: Joaquin "El Chapo" Guzman_
+9. [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md) _Context: Joaquin "El Chapo" Guzman_
 10. [The Mexican government approves the extradition of drug boss Joaquin Guzman to the United States following assurances that he will not face the death penalty. ](/news/2016/05/20/the-mexican-government-approves-the-extradition-of-drug-boss-joaquan-guzma-n-to-the-united-states-following-assurances-that-he-will-not-fac.md) _Context: Joaquin "El Chapo" Guzman_

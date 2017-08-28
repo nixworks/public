@@ -1,15 +1,15 @@
 ## [2016-05-28](/news/2016/05/28/index.md)
 
-### [Spillover of the Syrian Civil War: Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/spillover-of-the-syrian-civil-war-turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants.md)
+### [Turkey claims that its artillery fire together with U.S. air strikes killed more than 104 ISIL militants after rockets fired from northern Syria killed several people in the Turkish town of Kilis. ](/news/2016/05/28/turkey-claims-that-its-artillery-fire-together-with-u-s-air-strikes-killed-more-than-104-isil-militants-after-rockets-fired-from-northern-s.md)
 _Context: ISIL, Kilis, Spillover of the Syrian Civil War, Syria, Turkey_
 
-### [Conflict in the Niger Delta: The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/conflict-in-the-niger-delta-the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md)
+### [The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. ](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy-gas-and-oil-pipelines-belonging-to-shell-and-agip-in-nigeria.md)
 _Context: Agip, Conflict in the Niger Delta, Niger Delta Avengers, Nigeria, Royal Dutch Shell_
 
 ### [ Lightning strikes across Europe kill one person and injure at least 14 more. ](/news/2016/05/28/lightning-strikes-across-europe-kill-one-person-and-injure-at-least-14-more.md)
 Lightning strikes in France, Germany and Poland cause death and serious injuries, with the victims including children at a birthday party in a Paris park.
 
-### [2016 Atlantic hurricane season: The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/2016-atlantic-hurricane-season-the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-t.md)
+### [The United States National Hurricane Center issues a tropical storm warning for parts of South Carolina as the newly upgraded Tropical Storm Bonnie, at 5 p.m. EDT about 125 miles from Charleston, South Carolina, moves northwest toward the Atlantic Coast. ](/news/2016/05/28/the-united-states-national-hurricane-center-issues-a-tropical-storm-warning-for-parts-of-south-carolina-as-the-newly-upgraded-tropical-storm.md)
 The storm is forecast to bring up to three inches of rain to the Carolinas. In Texas, flooding caused by rains there claimed four lives.
 
 ### [A Rutan VariEze experimental aircraft crashes north of Ventura, California, killing the two people aboard. ](/news/2016/05/28/a-rutan-varieze-experimental-aircraft-crashes-north-of-ventura-california-killing-the-two-people-aboard.md)
@@ -42,7 +42,7 @@ _Context: Anders Fogh Rasmussen, Petro Poroshenko, Russia, Secretary General of 
 ### [Anti-government protests erupt across Papua New Guinea against Prime Minister Peter O'Neill, calling on him to resign. Papua New Guinea has been in a state of political turmoil since 2014 when the Prime Minister was accused of fraud and corruption. ](/news/2016/05/28/anti-government-protests-erupt-across-papua-new-guinea-against-prime-minister-peter-o-neill-calling-on-him-to-resign-papua-new-guinea-has.md)
 Protests against Papua New Guinea&#39;s prime minister are spreading around the country.
 
-### [United States presidential election, 2016: Federal District Judge Gonzalo Curiel unseals documents requested by "The Washington Post" that had been filed with the court in connection with pending civil cases against Trump University, a former business of the Republican Party's presumptive presidential nominee Donald Trump. The judge noted that Trump's candidacy has increased interest in these cases, and that Trump's comments "... (have) placed the integrity of these court proceedings at issue." ](/news/2016/05/28/united-states-presidential-election-2016-federal-district-judge-gonzalo-curiel-unseals-documents-requested-by-the-washington-post-that-h.md)
+### [Federal District Judge Gonzalo Curiel unseals documents requested by "The Washington Post" that had been filed with the court in connection with pending civil cases against Trump University, a former business of the Republican Party's presumptive presidential nominee Donald Trump. The judge noted that Trump's candidacy has increased interest in these cases, and that Trump's comments "... (have) placed the integrity of these court proceedings at issue." ](/news/2016/05/28/federal-district-judge-gonzalo-curiel-unseals-documents-requested-by-the-washington-post-that-had-been-filed-with-the-court-in-connection.md)
 It&#39;s unclear whether he knew of Trump&#39;s latest attacks when issuing the order Friday afternoon.
 
 ## [Previous Day...](/news/2016/05/27/index.md)

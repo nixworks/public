@@ -12,4 +12,4 @@ The county prosecutor charged the 50-year-old man who struck nine bicyclists Tue
 
 ### Related:
 
-1. [2016 Kalamazoo shootings: Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/2016-kalamazoo-shootings-seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-sta.md) _Context: Kalamazoo, Michigan_
+1. [Seven people are killed and another injured in multiple shooting incidents in Kalamazoo County in the American state of Michigan. A 45-year-old man was later arrested in the city of Kalamazoo ](/news/2016/02/20/seven-people-are-killed-and-another-injured-in-multiple-shooting-incidents-in-kalamazoo-county-in-the-american-state-of-michigan-a-45-year.md) _Context: Kalamazoo, Michigan_

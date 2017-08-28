@@ -1,15 +1,9 @@
 ### [2015-03-9](/news/2015/03/9/index.md)
 
-# Two helicopters collide in mid-air in a remote area of northwestern Argentina leaving at least ten dead. Among the dead are a group of French sports stars participating in a reality-television show called ''Dropped'': 
-
-Two helicopters collide in mid-air over northern Argentina, killing 10 people including gold medalist swimmer Camille Muffat and Olympic boxer Alexis Vastine
+# Two helicopters collide in mid-air in a remote area of northwestern Argentina leaving at least ten dead. Among the dead are a group of French sports stars participating in a reality-television show called "Dropped": [http://bigstory.ap.org/article/cecd6a53c4ad45a7bff911bf608ac3a5/2-helicopters-crash-northwest-argentina-10-dead (AP)], [http://www.telegraph.co.uk/news/worldnews/southamerica/argentina/11460541/French-Olympians-filming-reality-TV-survival-show-killed-in-helicopter-crash-in-Argentina.html ("The Telegraph")], [http://www.bbc.com/news/world-latin-america-31809231 (BBC)]Alexis Vastine - a 2008 Summer Olympics bronze medal boxer
 
 
-### Source:
 
-1. [AP](http://bigstory.ap.org/article/cecd6a53c4ad45a7bff911bf608ac3a5/2-helicopters-crash-northwest-argentina-10-dead)
-2. [BBC](http://www.bbc.com/news/world-latin-america-31809231)
-3. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/argentina/11460541/French-Olympians-filming-reality-TV-survival-show-killed-in-helicopter-crash-in-Argentina.html)
 
 ### Related:
 

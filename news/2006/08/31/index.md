@@ -12,7 +12,7 @@ _Context: Germany, Japan, UNCTAD, import_
 ### [ Bristol-Myers Squibb and Sanofi-Aventis win a court ruling in the US banning Apotex from selling a generic version of Plavix, the world's second best-selling medicine. Apotex had won over 50 per cent of all US prescriptions since the sale of the drug began on August 8. ](/news/2006/08/31/bristol-myers-squibb-and-sanofi-aventis-win-a-court-ruling-in-the-us-banning-apotex-from-selling-a-generic-version-of-plavix-the-world-s-s.md)
 _Context: Apotex, August 8, Bristol-Myers Squibb, Plavix, Sanofi-Aventis, generic_
 
-### [ Iraqi insurgency: Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/iraqi-insurgency-multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md)
+### [ Multiple rocket and bomb attacks in Baghdad kill at least 43 people and injure more than 100 others. ](/news/2006/08/31/multiple-rocket-and-bomb-attacks-in-baghdad-kill-at-least-43-people-and-injure-more-than-100-others.md)
 _Context: Baghdad, Iraqi insurgency_
 
 ### [ Warren Jeffs waives his extradition hearing, and will be extradited to Washington County, Utah, where he will first face charges as an accomplice to bigamy and rape in arranging polygamous marriages between older men and underage girls. He also faces similar charges in Arizona, and federal charges in connection with his flight from justice. ](/news/2006/08/31/warren-jeffs-waives-his-extradition-hearing-and-will-be-extradited-to-washington-county-utah-where-he-will-first-face-charges-as-an-acco.md)

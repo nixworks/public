@@ -1,16 +1,16 @@
 ## [2013-01-2](/news/2013/01/2/index.md)
 
-### [Syrian civil war:: An airstrike on a petrol station outside the capital Damascus kills and injures dozens of people. ](/news/2013/01/2/syrian-civil-war-an-airstrike-on-a-petrol-station-outside-the-capital-damascus-kills-and-injures-dozens-of-people.md)
+### [An airstrike on a petrol station outside the capital Damascus kills and injures dozens of people. ](/news/2013/01/2/an-airstrike-on-a-petrol-station-outside-the-capital-damascus-kills-and-injures-dozens-of-people.md)
 Warplane destroys petrol station near Damascus, killing and wounding dozens and igniting huge fire, activists say.
 
-### [2012 Central African Republic rebellion:: Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/2012-central-african-republic-rebellion-rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md)
+### [Rebels halt their advance towards the capital Bangui and agree to peace talks. ](/news/2013/01/2/rebels-halt-their-advance-towards-the-capital-bangui-and-agree-to-peace-talks.md)
 Rebels in Central African Republic said they had halted their advance on the capital on Wednesday and agreed to start peace talks, averting a clash with regionally backed troops in the mineral-rich nation.
 
-### [War in North-West Pakistan:: An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/war-in-north-west-pakistan-an-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the.md)
+### [An airstrike kills Maulvi Nazir, leader of the Pakistani Taliban along with five others in Angoor Ada near the capital of Wana, South Waziristan. ](/news/2013/01/2/an-airstrike-kills-maulvi-nazir-leader-of-the-pakistani-taliban-along-with-five-others-in-angoor-ada-near-the-capital-of-wana-south-waziri.md)
 Senior Pakistani militant leader Mullah Nazir is killed by a US drone strike in the tribal area of north-western Pakistan, local security officials say.
 
-### [Kachin conflict:: Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/kachin-conflict-military-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md)
-_Context: Burma, Kachin State, Kachin conflict_
+### [Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/military-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md)
+_Context: Burma, Kachin State_
 
 ### [Officials in South Korea note a significant decrease in the number of refugees from North Korea reaching the country. ](/news/2013/01/2/officials-in-south-korea-note-a-significant-decrease-in-the-number-of-refugees-from-north-korea-reaching-the-country.md)
 _Context: North Korea, South Korea_
@@ -33,7 +33,7 @@ _Context: Hugo Chavez, Venezuela, inauguration approaches_
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)
 _Context: American Taxpayer Relief Act of 2012, Barack Obama, President, fiscal cliff_
 
-### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyork-presbyterian-hospital-after-being-treated-for-a-blood-clot.md)
+### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
 _Context: Hillary Clinton, NewYork-Presbyterian Hospital, United States Secretary of State, blood clot_
 
 ## [Previous Day...](/news/2013/01/1/index.md)

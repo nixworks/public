@@ -1,6 +1,6 @@
 ## [2010-05-7](/news/2010/05/7/index.md)
 
-### [United Kingdom general election, 2010:: Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/united-kingdom-general-election-2010-caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency.md)
+### [Caroline Lucas becomes the first ever Green Party MP, having won the Brighton Pavilion constituency with a majority of 1,252. ](/news/2010/05/7/caroline-lucas-becomes-the-first-ever-green-party-mp-having-won-the-brighton-pavilion-constituency-with-a-majority-of-1-252.md)
  EAST BELFAST AND STRANGFORD: DEMOCRATIC UNIONIST Party leader and First Minister Peter Robinson sensationally lost the East &hellip;
 
 ### [4 policemen are killed and another seriously injured when militants open fire in Pakistan's Mansehra district of North-West Frontier Province. ](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.md)
@@ -25,7 +25,7 @@ _Context: Lithuania, Vilnius, gay pride, homophobia_
 _Context: Goodluck Jonathan, Nigeria, Umaru Yar'Adua_
 
 ### [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md)
-_Context: India, Islam, Kashmir, gunbattle_
+_Context: India, Kashmir, Muslims, gunbattle_
 
 ### [2 die and 2 are wounded in an attack on an aid vehicle near the village of Dembia in the Central African Republic. ](/news/2010/05/7/2-die-and-2-are-wounded-in-an-attack-on-an-aid-vehicle-near-the-village-of-dembia-in-the-central-african-republic.md)
 _Context: Central African Republic, Dembia_

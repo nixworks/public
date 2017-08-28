@@ -45,7 +45,7 @@ _Context: Christopher R. Hill, North Korea_
 ### [ Peerzada Muhammad Sayeed, the Education Minister of Jammu and Kashmir survives an assassination attempt by Islamist militants near Patandate=April 2012. ](/news/2007/09/2/peerzada-muhammad-sayeed-the-education-minister-of-jammu-and-kashmir-survives-an-assassination-attempt-by-islamist-militants-near-patandat.md)
 _Context: Islamist, Jammu and Kashmir, Patan, Peerzada Muhammad Sayeed, assassinated_
 
-### [ Hurricane Felix: Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md)
+### [ Hurricane Felix becomes a Category 2 hurricane early today as Aruba, Bonaire and Curacao have a hurricane watch in place. ](/news/2007/09/2/hurricane-felix-becomes-a-category-2-hurricane-early-today-as-aruba-bonaire-and-curaassao-have-a-hurricane-watch-in-place.md)
 _Context: Aruba, Bonaire, Curacao, Hurricane Felix, hurricane_
 
 ### [ The Prime Minister of Australia John Howard announces that Justice Ian Callinan will conduct an inquiry into the 2007 Australian equine influenza outbreak. ](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.md)
@@ -57,7 +57,7 @@ _Context: APEC, Greenpeace India's, Newcastle, Sydney_
 ### [ Riot police clash with protesters commemorating the Ungdomshuset in the Norrebro district of Copenhagen with 26 people injured. ](/news/2007/09/2/riot-police-clash-with-protesters-commemorating-the-ungdomshuset-in-the-na-rrebro-district-of-copenhagen-with-26-people-injured.md)
 _Context: Copenhagen, Norrebro, Ungdomshuset, riot police_
 
-### [ 2007 Lebanon conflict:: Fatah al-Islam fighters attempt an escape from the Nahr al-Bared refugee camp north of Tripoli, Lebanon with at least 41 people being killed in fighting and many being injured and captured by the Lebanese army. ](/news/2007/09/2/2007-lebanon-conflict-fatah-al-islam-fighters-attempt-an-escape-from-the-nahr-al-bared-refugee-camp-north-of-tripoli-lebanon-with-at-lea.md)
+### [ Fatah al-Islam fighters attempt an escape from the Nahr al-Bared refugee camp north of Tripoli, Lebanon with at least 41 people being killed in fighting and many being injured and captured by the Lebanese army. ](/news/2007/09/2/fatah-al-islam-fighters-attempt-an-escape-from-the-nahr-al-bared-refugee-camp-north-of-tripoli-lebanon-with-at-least-41-people-being-kille.md)
 BARED, Lebanon (Reuters) - Lebanese troops on Sunday seized control of a Palestinian refugee camp where they had been battling militants for more than three months, killing at least 31 fleeing fighters, security sources said.
 
 ### [ An earthquake with a magnitude of 6.9 strikes in the Pacific Ocean south of Lata, Santa Cruz Islands in the Solomon Islands with a tsunami warning being issued. ](/news/2007/09/2/an-earthquake-with-a-magnitude-of-6-9-strikes-in-the-pacific-ocean-south-of-lata-santa-cruz-islands-in-the-solomon-islands-with-a-tsunami.md)

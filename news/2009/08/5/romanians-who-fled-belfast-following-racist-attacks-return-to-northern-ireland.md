@@ -12,7 +12,7 @@ A number of Romanians who fled Belfast in the wake of racist attacks have return
 
 ### Related:
 
-1. [ Attacks on Romanians in Belfast: An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/attacks-on-romanians-in-belfast-an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _Context: Belfast, Romania, racial bias_
+1. [ An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. ](/news/2009/06/20/an-anti-racism-rally-is-held-in-belfast-following-the-removal-of-100-romanian-people-from-their-homes.md) _Context: Belfast, Romania, racial bias_
 2. [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md) _Context: Belfast, Northern Ireland_
 3. [Britain's Queen Elizabeth II and former IRA commander and Sinn Fein deputy First Minister of Northern Ireland Martin McGuinness shake hands at a historic meeting in Belfast. ](/news/2012/06/27/britain-s-queen-elizabeth-ii-and-former-ira-commander-and-sinn-fa-c-in-deputy-first-minister-of-northern-ireland-martin-mcguinness-shake-hands.md) _Context: Belfast, Northern Ireland_
 4. [A photographer is shot during violence in east Belfast in Northern Ireland. ](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.md) _Context: Belfast, Northern Ireland_

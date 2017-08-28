@@ -1,6 +1,6 @@
 ### [2010-08-30](/news/2010/08/30/index.md)
 
-# The InterAcademy Panel on International Issues issues a report finding that "The IPCC assessment process has been successful overall" but making seven formal recommendations for improving the IPCC's assessment process, and that "-Straying into advocacy can only hurt I.P.C.C.-s credibility.- 
+# The InterAcademy Panel on International Issues issues a report finding that "The IPCC assessment process has been successful overall" but making seven formal recommendations for improving the IPCC's assessment process, and that ""Straying into advocacy can only hurt I.P.C.C.'s credibility." 
 
 The scientists involved in crafting the panel’s climate reports need to be more open to alternative views and more transparent, an independent review said.
 

@@ -21,7 +21,7 @@ _Context: European Court of Justice, Germany, Porsche, Volkswagen, Volkswagen La
 ### [ Carrie Underwood releases her second album, entitled "Carnival Ride".](/news/2007/10/23/carrie-underwood-releases-her-second-album-entitled-carnival-ride.md)
 _Context: Carnival Ride, Carrie Underwood_
 
-### [ California wildfires of October 2007:: President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/california-wildfires-of-october-2007-president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-t.md)
+### [ President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-the-federal-emergency-management-agency.md)
 Towering wildfires burned out of control across Southern California for a third day on Tuesday as 500,000 people fled the San Diego area and firefighters made a desperate stand to save a mountain town ringed by flames.
 
 ### [ The government of Somalia frees Idris Osman, the head of the World Food Programme in Somalia, after six days in detention. ](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.md)

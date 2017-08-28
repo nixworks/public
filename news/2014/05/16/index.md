@@ -1,6 +1,6 @@
 ## [2014-05-16](/news/2014/05/16/index.md)
 
-### [2014 pro-Russian unrest in Ukraine:: Pro-Russian rebels quickly withdraw from Mariupol as dozens of unarmed pro-Ukraine steelworkers with some employed by System Capital Management joined by the police start to patrol the city. ](/news/2014/05/16/2014-pro-russian-unrest-in-ukraine-pro-russian-rebels-quickly-withdraw-from-mariupol-as-dozens-of-unarmed-pro-ukraine-steelworkers-with-so.md)
+### [Pro-Russian rebels quickly withdraw from Mariupol as dozens of unarmed pro-Ukraine steelworkers with some employed by System Capital Management joined by the police start to patrol the city. ](/news/2014/05/16/pro-russian-rebels-quickly-withdraw-from-mariupol-as-dozens-of-unarmed-pro-ukraine-steelworkers-with-some-employed-by-system-capital-managem.md)
 The UN warns of an &quot;alarming deterioration&quot; in the human rights situation in eastern Ukraine where pro-Russian separatists are battling security forces.
 
 ### [10 people are killed in two explosions in the Gikomba market area of the Kenyan capital of Nairobi. ](/news/2014/05/16/10-people-are-killed-in-two-explosions-in-the-gikomba-market-area-of-the-kenyan-capital-of-nairobi.md)
@@ -12,13 +12,13 @@ Brazilian riot police in Sao Paulo and Rio de Janeiro fire tear gas to break up 
 ### [American journalist Barbara Walters retires after a 52 year career. ](/news/2014/05/16/american-journalist-barbara-walters-retires-after-a-52-year-career.md)
 Legendary US broadcaster Barbara Walters is retiring from a 52-year career with a last appearance on her daytime show, The View.
 
-### [2014 General Motors recall:: The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/2014-general-motors-recall-the-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-fau.md)
+### [The United States government fines General Motors $35 million for their delays in recalling small cars with faulty ignition switches. ](/news/2014/05/16/the-united-states-government-fines-general-motors-35-million-for-their-delays-in-recalling-small-cars-with-faulty-ignition-switches.md)
 The US government fines General Motors $35m(£20.8m) for delays in recalling small cars with faulty ignition switches.
 
 ### [Darden Restaurants agrees to sell Red Lobster to Golden Gate Capital for US$2.1 billion. ](/news/2014/05/16/darden-restaurants-agrees-to-sell-red-lobster-to-golden-gate-capital-for-us-2-1-billion.md)
 Darden Restaurants to sell Red Lobster to investment firm Golden Gate Capital for $2.1 billion.
 
-### [Soma mine disaster:: Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/soma-mine-disaster-turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-t.md)
+### [Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-thousands-of-protestor.md)
 Turkish police fire tear gas at thousands of protesters in town of Soma where some 300 miners died on Tuesday.
 
 ### [A Russian Proton-M rocket carrying a communications satellite veers off its intended path and burns up in the atmosphere. ](/news/2014/05/16/a-russian-proton-m-rocket-carrying-a-communications-satellite-veers-off-its-intended-path-and-burns-up-in-the-atmosphere.md)

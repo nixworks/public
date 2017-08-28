@@ -3,13 +3,13 @@
 ### [At least four people are shot dead by security forces during anti-government protests in Syria. ](/news/2011/04/17/at-least-four-people-are-shot-dead-by-security-forces-during-anti-government-protests-in-syria.md)
 Thousands of people waving Syrian flags and shouting &quot;We Want Freedom!&quot; took to the streets in southern Syria, a day after President Bashar Assad promised to end nearly 50 years of emergency rule.
 
-### [2011 Libyan civil war: Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/2011-libyan-civil-war-rebel-forces-in-libya-regain-the-town-of-ajdabiya.md)
+### [Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabiya.md)
 _Context: Ajdabiya, Libya, Libyan Civil War_
 
 ### [NATO announces that eight soldiers from member countries died in fighting in Afghanistan. ](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.md)
 Three more NATO service members were killed in attacks in Afghanistan on Saturday, the international coalition said, making a total of eight killed on one of the deadliest days for NATO troops this year.
 
-### [Fourteen people claimed to be responsible for shooting 52 protestors in Sana-a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sana-a-in-march-are-referred-to-the-state-prosecutor.md)
+### [Fourteen people claimed to be responsible for shooting 52 protestors in Sana'a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sanaaa-in-march-are-referred-to-the-state-prosecutor.md)
 _Context: 2011 Yemeni protests, Sana'a_
 
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)

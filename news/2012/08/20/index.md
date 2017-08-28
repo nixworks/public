@@ -1,10 +1,10 @@
 ## [2012-08-20](/news/2012/08/20/index.md)
 
-### [Syrian civil war:: United Nations observers leave the country as their mandate expires. The total number of casualties over the previous weekend is now estimated at more than 100 deaths. The UN envoy describes the conflict as a civil war. Russia says only the UN should decide on force against Syria. The U.S. claims it has "contingency plans" and threatens to change its "calculus" if it finds Syria moving or using chemical or biological weapons. Fighting continues. ](/news/2012/08/20/syrian-civil-war-united-nations-observers-leave-the-country-as-their-mandate-expires-the-total-number-of-casualties-over-the-previous-wee.md)
+### [United Nations observers leave the country as their mandate expires. The total number of casualties over the previous weekend is now estimated at more than 100 deaths. The UN envoy describes the conflict as a civil war. Russia says only the UN should decide on force against Syria. The U.S. claims it has "contingency plans" and threatens to change its "calculus" if it finds Syria moving or using chemical or biological weapons. Fighting continues. ](/news/2012/08/20/united-nations-observers-leave-the-country-as-their-mandate-expires-the-total-number-of-casualties-over-the-previous-weekend-is-now-estimat.md)
 month mission
 
-### [War on Terror:: Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanista.md)
-_Context: Afghanistan's, John Key, Prime Minister, War in Afghanistan (2001-present), War on Terror_
+### [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md)
+_Context: Afghanistan's, John Key, Prime Minister, War in Afghanistan (2001-present)_
 
 ### [A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. ](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.md)
 _Context: Caracas, Venezuela, riot in the Yare I prison_
@@ -40,7 +40,7 @@ _Context: Indian Patent Office, Novartis, Supreme Court of India, generic_
 _Context: Ethiopia, Meles Zenawi, Prime Minister_
 
 ### [Myanmar announces that it is ending media censorship, as part of the ongoing political reforms in the country. ](/news/2012/08/20/myanmar-announces-that-it-is-ending-media-censorship-as-part-of-the-ongoing-political-reforms-in-the-country.md)
-_Context: Myanmar, media censorship, ongoing political reforms in the country_
+_Context: Burmese, media censorship, ongoing political reforms in the country_
 
 ### [In Somalia, a new parliament is formed, with the new task of electing the country's president. ](/news/2012/08/20/in-somalia-a-new-parliament-is-formed-with-the-new-task-of-electing-the-country-s-president.md)
 _Context: President of Somalia, Somalia_

@@ -11,5 +11,5 @@
 
 ### Related:
 
-1. [2017 Verona bus crash: A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/2017-verona-bus-crash-a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _Context: Hungarian_
+1. [A bus carrying Hungarian students crashes near Verona in northern Italy with at least 18 people dead and 50 injured. ](/news/2017/01/20/a-bus-carrying-hungarian-students-crashes-near-verona-in-northern-italy-with-at-least-18-people-dead-and-50-injured.md) _Context: Hungarian_
 2. [Eleven Hungarian tourists die after a bus overturns near the Egyptian resort of Hurghada. ](/news/2011/11/6/eleven-hungarian-tourists-die-after-a-bus-overturns-near-the-egyptian-resort-of-hurghada.md) _Context: Hungarian_

@@ -3,10 +3,10 @@
 ### [The videogame company Rockstar Games releases its fifth installment of the Grand Theft Auto series Grand Theft Auto V, which nets 800 million U.S. Dollars on its launch day. [http://www.independent.co.uk/life-style/gadgets-and-tech/news/gta-5-takes-500m-in-24-hours-making-it-the-most-successful-entertainment-property-ever-8825856.html]](/news/2013/09/17/the-videogame-company-rockstar-games-releases-its-fifth-installment-of-the-grand-theft-auto-series-grand-theft-auto-v-which-nets-800-millio.md)
 _Context: Grand Theft Auto, Grand Theft Auto V, Rockstar Games_
 
-### [Syrian civil war:: The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/syrian-civil-war-the-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons.md)
+### [The head of a United Nations war crimes tribunal states that it is investigating 14 alleged instances of chemical weapons attacks. ](/news/2013/09/17/the-head-of-a-united-nations-war-crimes-tribunal-states-that-it-is-investigating-14-alleged-instances-of-chemical-weapons-attacks.md)
 Today&#39;s latest news from the civil war in Syria with Al Jazeera’s exclusive eyewitness stories and photos
 
-### [Islamic insurgency in the Philippines:: Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/islamic-insurgency-in-the-philippines-philippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-i.md)
+### [Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. ](/news/2013/09/17/philippine-army-troops-free-dozens-of-prisoners-held-hostage-by-the-moro-national-liberation-front-in-the-battle-of-zamboanga-city-in-the-ci.md)
 Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south are freed as troops gained ground, the military said.
 
 ### [The "Costa Concordia" is pulled completely upright from the place where it sunk in early 2012 off the coast of Tuscany in Italy. ](/news/2013/09/17/the-costa-concordia-is-pulled-completely-upright-from-the-place-where-it-sunk-in-early-2012-off-the-coast-of-tuscany-in-italy.md)

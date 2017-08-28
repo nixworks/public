@@ -1,6 +1,6 @@
 ### [2015-06-13](/news/2015/06/13/index.md)
 
-# Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units  encircle the ISIL-held town of Suluk. 
+# Some 13,000 refugees have crossed into Turkey as Syrian Kurd People's Protection Units encircle the ISIL-held town of Suluk. 
 
 
 

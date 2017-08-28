@@ -3,10 +3,10 @@
 ### [The Chad government announces that it foiled a coup attempt that "had been in preparation for several months." ](/news/2013/05/2/the-chad-government-announces-that-it-foiled-a-coup-attempt-that-had-been-in-preparation-for-several-months.md)
 CHAD-COUP/(URGENT):Chad government says it foils coup attempt
 
-### [Iraqi insurgency (post-U.S. withdrawal):: At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/iraqi-insurgency-post-u-s-withdrawal-at-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md)
+### [At least 14 members of the Sons of Iraq are killed in two separate attacks within Fallujah. ](/news/2013/05/2/at-least-14-members-of-the-sons-of-iraq-are-killed-in-two-separate-attacks-within-fallujah.md)
 At least 14 members of an anti-al-Qaeda Sunni militia are killed in two attacks by militants near the western Iraqi city of Fallujah, officials say.
 
-### [Syrian civil war:: Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/syrian-civil-war-up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md)
+### [Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. ](/news/2013/05/2/up-to-100-people-are-killed-in-a-raid-of-al-bayda-baniyas-by-the-syrian-army.md)
 Fierce clashes between troops and rebels erupted on Thursday for the first time in a Sunni Muslim village in Syria&#39;s Alawite-majority coastal region of Banias, killing dozens, including soldiers, a watchdog said.
 
 ### [U.S. jobless claims fall to their lowest level in five years. ](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.md)

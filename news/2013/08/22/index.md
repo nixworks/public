@@ -1,9 +1,9 @@
 ## [2013-08-22](/news/2013/08/22/index.md)
 
-### [War in North-West Pakistan:: 5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/war-in-north-west-pakistan-5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
-_Context: South Waziristan, Tehrik-i-Taliban Pakistan, War in North-West Pakistan_
+### [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
+_Context: South Waziristan, Tehrik-i-Taliban Pakistan_
 
-### [Iraqi insurgency (post-U.S. withdrawal):: Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/iraqi-insurgency-post-u-s-withdrawal-fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
+### [Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
 A suicide bomber drove a vehicle packed with explosives to a military headquarters in western Iraq and blew himself up outside it on Thursday, killing at least 14 people, police said.
 
 ### [Five civilians are wounded by mortar fire in the Congo city of Goma. ](/news/2013/08/22/five-civilians-are-wounded-by-mortar-fire-in-the-congo-city-of-goma.md)
@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Trading ceased in all Nasdaq-listed securities Thursday after the electronic exchange experienced a technical glitch. Trading resumed at about 3:25 p.m. ET. Nasdaq vowed to take necessary steps to enhance the platform.
 
 ### [Severe tropical storm Trami arrives in southern China after killing seventeen people in the Philippines. ](/news/2013/08/22/severe-tropical-storm-trami-arrives-in-southern-china-after-killing-seventeen-people-in-the-philippines.md)
-_Context: 2013 Pacific typhoon season, China, Philippines_
+_Context: China, Philippines, Typhoon Nari_
 
 ### [At least 50 are injured in bus crash in Monterey Park, California. ](/news/2013/08/22/at-least-50-are-injured-in-bus-crash-in-monterey-park-california.md)
 _Context: Monterey Park, California_

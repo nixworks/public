@@ -1,6 +1,6 @@
 ## [2012-07-15](/news/2012/07/15/index.md)
 
-### [Syrian uprising (2011-present):: The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/syrian-uprising-2011-present-the-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-officia.md)
+### [The Red Cross (ICRC) says the conflict is now in effect a civil war, meaning combatants will now be officially subject to the Geneva Conventions. ](/news/2012/07/15/the-red-cross-icrc-says-the-conflict-is-now-in-effect-a-civil-war-meaning-combatants-will-now-be-officially-subject-to-the-geneva-convent.md)
 Syria is in effect in civil war, the Red Cross says, meaning combatants will now be subject to the Geneva Conventions.
 
 ### [The President of Libya's Olympic committee, Ahmed Nabil al Taher al Alam, is abducted in Tripoli. ](/news/2012/07/15/the-president-of-libya-s-olympic-committee-ahmed-nabil-al-taher-al-alam-is-abducted-in-tripoli.md)

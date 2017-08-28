@@ -1,6 +1,6 @@
 ### [2015-05-15](/news/2015/05/15/index.md)
 
-#   Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. 
+#  Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. 
 
 
 

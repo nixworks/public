@@ -1,6 +1,6 @@
 ## [2010-01-12](/news/2010/01/12/index.md)
 
-### [A bomb blast damages the Mozdok - Makhachkala - Kazi Magomed pipeline in Russia's Republic of Dagestan, leaving eleven towns in the republic without gas supply. ](/news/2010/01/12/a-bomb-blast-damages-the-mozdok-makhachkala-kazi-magomed-pipeline-in-russia-s-republic-of-dagestan-leaving-eleven-towns-in-the-repu.md)
+### [A bomb blast damages the Mozdok - Makhachkala - Kazi Magomed pipeline in Russia's Republic of Dagestan, leaving eleven towns in the republic without gas supply. ](/news/2010/01/12/a-bomb-blast-damages-the-mozdok-a-makhachkala-a-kazi-magomed-pipeline-in-russia-s-republic-of-dagestan-leaving-eleven-towns-in-the-repu.md)
 _Context: Mozdok - Makhachkala - Kazi Magomed pipeline, Republic of Dagestan, Russia_
 
 ### [China's top search engine Baidu is allegedly attacked by Iranian hackers, sparking a retaliatory attack by Chinese hackers on Iranian sites. ](/news/2010/01/12/china-s-top-search-engine-baidu-is-allegedly-attacked-by-iranian-hackers-sparking-a-retaliatory-attack-by-chinese-hackers-on-iranian-sites.md)
@@ -9,8 +9,8 @@ _Context: Baidu, China, Iran_
 ### [Masoud Alimohammadi, an Iranian nuclear physics professor, is killed in a bomb attack in the capital Tehran; Iran state media accuses Israel and the United States of involvement. ](/news/2010/01/12/masoud-alimohammadi-an-iranian-nuclear-physics-professor-is-killed-in-a-bomb-attack-in-the-capital-tehran-iran-state-media-accuses-israel.md)
 _Context: Iran, Israel, Masoud Alimohammadi, Tehran, United States_
 
-### [Mexican Drug War:: Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-drug-war-mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a.md)
-_Context: La Paz, Baja California Sur, Mexican Drug War, Mexico, Teodoro Garcia Simental_
+### [Mexican authorities report the capture of Teodoro Garcia Simental, one of the country's most notorious drug lords, in a raid in La Paz, Baja California Sur. ](/news/2010/01/12/mexican-authorities-report-the-capture-of-teodoro-garcaa-simental-one-of-the-country-s-most-notorious-drug-lords-in-a-raid-in-la-paz-baj.md)
+_Context: La Paz, Baja California Sur, Mexico, Teodoro Garcia Simental_
 
 ### [U.S. talk show host Conan O'Brien announces his intention to quit "The Tonight Show" if NBC goes forward with their plan to move the show from its long standing 11:35pm timeslot to 12:05am in favor of "The Jay Leno Show". ](/news/2010/01/12/u-s-talk-show-host-conan-o-brien-announces-his-intention-to-quit-the-tonight-show-if-nbc-goes-forward-with-their-plan-to-move-the-show-fr.md)
 _Context: Conan O'Brien, NBC, The Jay Leno Show, The Tonight Show_
@@ -27,7 +27,7 @@ _Context: 2010 Haiti earthquake, Caribbean, Haiti, tsunami_
 ### [A United Nations investigation clears Guatemalan President Alvaro Colom in the murder of lawyer Rodrigo Rosenberg Marzano, and rules that Rosenberg plotted his own murder. ](/news/2010/01/12/a-united-nations-investigation-clears-guatemalan-president-alvaro-colom-in-the-murder-of-lawyer-rodrigo-rosenberg-marzano-and-rules-that-r.md)
 Lawyer who blamed Colom for his assassination arranged his own death, probe says.
 
-### [UN Secretary-General Ban Ki-moon is -encouraged- by recent developments in Guinean politics, and states the UN will continue working with the African Union (AU), the Economic Community of West African States (ECOWAS) and other partners. ](/news/2010/01/12/un-secretary-general-ban-ki-moon-is-encouraged-by-recent-developments-in-guinean-politics-and-states-the-un-will-continue-working-wit.md)
+### [UN Secretary-General Ban Ki-moon is 'encouraged' by recent developments in Guinean politics, and states the UN will continue working with the African Union (AU), the Economic Community of West African States (ECOWAS) and other partners. ](/news/2010/01/12/un-secretary-general-ban-ki-moon-is-aencourageda-by-recent-developments-in-guinean-politics-and-states-the-un-will-continue-working-wit.md)
 _Context: African Union, Ban Ki-moon, ECOWAS, Guinean, UN, UN Secretary General_
 
 ### [Chile becomes the first South American country to be admitted to the Organisation for Economic Co-operation and Development. ](/news/2010/01/12/chile-becomes-the-first-south-american-country-to-be-admitted-to-the-organisation-for-economic-co-operation-and-development.md)

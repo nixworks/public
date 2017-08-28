@@ -1,6 +1,6 @@
 ## [2011-06-20](/news/2011/06/20/index.md)
 
-### [Arab Spring:: Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held "in absentia". ](/news/2011/06/20/arab-spring-tunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-pris.md)
+### [Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held "in absentia". ](/news/2011/06/20/tunisian-revolution-ousted-former-president-of-tunisia-zine-al-abidine-ben-ali-and-his-wife-are-sentenced-to-35-years-in-prison-for-misappr.md)
 Ex-Tunisian president and his wife were sentenced in absentia to 35 years in prison for misappropriating public funds.
 
 ### [2011 Spanish protests: The "indignados" launch protest marches intended to culminate in a major rally in Madrid on 24 July. ](/news/2011/06/20/2011-spanish-protests-the-indignados-launch-protest-marches-intended-to-culminate-in-a-major-rally-in-madrid-on-24-july.md)
@@ -30,7 +30,7 @@ London Assembly Member Jenny Jones calls on the Westminster Council to put up a 
 ### [American "Jackass" star Ryan Dunn dies in a high-speed accident on U.S. Route 322 in West Goshen Township, Pennsylvania. ](/news/2011/06/20/american-jackass-star-ryan-dunn-dies-in-a-high-speed-accident-on-u-s-route-322-in-west-goshen-township-pennsylvania.md)
 _Context: Jackass, Pennsylvania, Ryan Dunn, U.S. Route 322, West Goshen Township_
 
-### [European sovereign debt crisis:: Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/european-sovereign-debt-crisis-eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order.md)
+### [Eurozone finance ministers agree to seek a voluntary rollover of Greek debt by private bondholders in order to meet a substantial part of Greek funding needs. ](/news/2011/06/20/eurozone-finance-ministers-agree-to-seek-a-voluntary-rollover-of-greek-debt-by-private-bondholders-in-order-to-meet-a-substantial-part-of-gr.md)
 Euro zone finance ministers gave Greece two weeks from Monday to approve further spending cuts and tax increases in exchange for another 12 billion euros in emergency loans, piling pressure on Athens to get its ragged finances in order.
 
 ### [Afghan finance minister Omar Zakhilwal is reported to be "running out of patience" with the International Monetary Fund (IMF) over the IMF's rejection of a plan to deal with Kabul Bank. Zakhilwal is also reported to have said that further talks with the IMF would be "a waste of time". ](/news/2011/06/20/afghan-finance-minister-omar-zakhilwal-is-reported-to-be-running-out-of-patience-with-the-international-monetary-fund-imf-over-the-imf-s.md)
@@ -58,12 +58,12 @@ _Context: Hurricane Beatriz, Hurricane Jova_
 An index of troubled countries reveals the common threads that lead to suffering around the world.
 
 ### [President of Russia Dmitry Medvedev practically rules out supporting a United Nations Security Council resolution condemning a crackdown by the Government of Syria on protestors. ](/news/2011/06/20/president-of-russia-dmitry-medvedev-practically-rules-out-supporting-a-united-nations-security-council-resolution-condemning-a-crackdown-by.md)
-_Context: Dmitry Medvedev, Government of Syria, Russian President Vladimir Putin, Syrian uprising, United Nations Security Council_
+_Context: Dmitry Medvedev, Government of Syria, Russian President Vladimir Putin, United Nations Security Council, protestors_
 
 ### [France prepares to attempt to extradite Manuel Noriega back to Panama. ](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.md)
 The French authorities say they are preparing to extradite the former Panamanian military ruler, Manuel Noriega, back to Panama.
 
-### [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-british-irish-council-including-talks-with-nick-clegg-the-deputy.md)
+### [Taoiseach Enda Kenny arrives in London for a six-monthly meeting of the British-Irish Council, including talks with Nick Clegg, the deputy prime minister of Britain, and Alex Salmond, the recently victorious Scottish first minister. ](/news/2011/06/20/taoiseach-enda-kenny-arrives-in-london-for-a-six-monthly-meeting-of-the-britishairish-council-including-talks-with-nick-clegg-the-deputy.md)
 Taoiseach Enda Kenny has insisted that a new European Union bailout for Greece, which is being negotiated in Luxembourg today&hellip;
 
 ### [The United States Supreme Court overturned 8-0 a U.S. appeals court ruling against five big power utility companies, brought by U.S. states, New York City, and Land trusts, attempting to force cuts in United States greenhouse gas emissions regarding global warming. The decision gives deference to reasonable interpretations of the United States Clean Air Act by the Environmental Protection Agency. ](/news/2011/06/20/the-united-states-supreme-court-overturned-8-0-a-u-s-appeals-court-ruling-against-five-big-power-utility-companies-brought-by-u-s-states.md)

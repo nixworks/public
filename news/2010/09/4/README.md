@@ -15,7 +15,7 @@ Four people were arrested during minor scuffles between gardaí and anti-war pro
 ### [A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. ](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-christchurch-new-zealand-after-the-2010-canterbury-earthquake.md)
 _Context: 2010 Canterbury earthquake, Christchurch, New Zealand, curfew, state of emergency_
 
-### [Australian floods:: Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/australian-floods-heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-la.md)
+### [Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-landslides-blocking-ro.md)
 Emergency crews are evacuating homes in and around Ballarat, as heavy rain falls across Victoria.
 
 ### [A plane crash near Fox Glacier in the South Island of New Zealand is believed to have killed 9 people. ](/news/2010/09/4/a-plane-crash-near-fox-glacier-in-the-south-island-of-new-zealand-is-believed-to-have-killed-9-people.md)

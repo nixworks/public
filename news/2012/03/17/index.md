@@ -1,6 +1,6 @@
 ## [2012-03-17](/news/2012/03/17/index.md)
 
-### [Syria:: At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/syria-at-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reporte.md)
+### [At least two bombings are reported of government facilities in the Syrian capital Damascus with several police and civilians reported dead. ](/news/2012/03/17/at-least-two-bombings-are-reported-of-government-facilities-in-the-syrian-capital-damascus-with-several-police-and-civilians-reported-dead.md)
 At least 27 people have been killed in two explosions in the Syrian capital Damascus, officials say, describing them as &quot;terrorist attacks&quot;.
 
 ### [A Tibetan monk sets himself on fire in southwest China, in the latest in a series of similar incidents where nearly 30 monks have now self-immolated. ](/news/2012/03/17/a-tibetan-monk-sets-himself-on-fire-in-southwest-china-in-the-latest-in-a-series-of-similar-incidents-where-nearly-30-monks-have-now-self-i.md)

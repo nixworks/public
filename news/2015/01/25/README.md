@@ -1,6 +1,6 @@
 ## [2015-01-25](/news/2015/01/25/index.md)
 
-### [Moro insurgency in the Philippines: Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/moro-insurgency-in-the-philippines-around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberatio.md)
+### [Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.md)
 At least 30 people were killed in heavy fighting between police and Muslim rebels in the Philippines on Sunday, military and local officials said, threatening a year-old peace agreement and shattering a ceasefire that held for three years.
 
 ### [The Miss Universe pageant crowns Miss Colombia Paulina Vega in Miami, Florida. ](/news/2015/01/25/the-miss-universe-pageant-crowns-miss-colombia-paulina-vega-in-miami-florida.md)

@@ -1,6 +1,6 @@
 ## [2006-07-12](/news/2006/07/12/index.md)
 
-### [ Israeli-Palestinian conflict: An Israeli air strike destroys the Palestinian Foreign Ministry Building in Gaza City. ](/news/2006/07/12/israeli-palestinian-conflict-an-israeli-air-strike-destroys-the-palestinian-foreign-ministry-building-in-gaza-city.md)
+### [ An Israeli air strike destroys the Palestinian Foreign Ministry Building in Gaza City. ](/news/2006/07/12/an-israeli-air-strike-destroys-the-palestinian-foreign-ministry-building-in-gaza-city.md)
 Senior wanted Palestinian terror suspect Muhammad Deif, commander of Hamas&#39; military wing, injured in aerial strike on Gaza City building; his condition is unclear. Six Palestinians killed, including civilians. Senior Hamas member involved in kidnapping of Cpl. Gilad Shalit, seriously wounded. I...
 
 ### [ Several thousand protesters march in the Mexican Federal District, protesting alleged vote fraud in last week's presidential election. ](/news/2006/07/12/several-thousand-protesters-march-in-the-mexican-federal-district-protesting-alleged-vote-fraud-in-last-week-s-presidential-election.md)

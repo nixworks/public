@@ -1,6 +1,6 @@
 ### [2016-06-13](/news/2016/06/13/index.md)
 
-# Eleven Turkish-German members of Germany's Parliament, the Bundestag, who voted in support of declaring the Ottoman Turks slaughter of Armenians in 1915 a genocide, are under police protection.  The legislators have faced heavy criticism from Turkish officials, as well as from Turkish Germans. 
+# Eleven Turkish-German members of Germany's Parliament, the Bundestag, who voted in support of declaring the Ottoman Turks slaughter of Armenians in 1915 a genocide, are under police protection. The legislators have faced heavy criticism from Turkish officials, as well as from Turkish Germans. 
 
 Eleven German MPs of Turkish origin are under police protection after declaring the Turkish slaughter of Armenians a century ago a genocide.
 

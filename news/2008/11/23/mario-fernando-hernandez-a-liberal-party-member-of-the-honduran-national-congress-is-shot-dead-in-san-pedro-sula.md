@@ -11,7 +11,7 @@ Police in Honduras say that vice-president of the National Congress, Mario Ferna
 
 ### Related:
 
-1. [Honduran general election, 2013:: Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/honduran-general-election-2013-voters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-rep.md) _Context: Congress, Honduras_
+1. [Voters in Honduras go to the polls to select a new President, Congress, local government officials and representatives in the Central American Parliament. ](/news/2013/11/24/voters-in-honduras-go-to-the-polls-to-select-a-new-president-congress-local-government-officials-and-representatives-in-the-central-americ.md) _Context: Congress, Honduras_
 2. [At least 13 people are killed at the San Pedro Sula prison in Honduras. ](/news/2012/03/29/at-least-13-people-are-killed-at-the-san-pedro-sula-prison-in-honduras.md) _Context: Honduras, San Pedro Sula_
 3. [Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. ](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-soccer-field-in-san-pedro-sula-honduras.md) _Context: Honduras, San Pedro Sula_
 4. [ At least 18 prisoners are killed during a fight in a jail in Tegucigalpa, the capital of Honduras. This follows the recent deaths of nine prisoners in a riot in San Pedro Sula with both riots being blamed on overcrowding and gang rivalry. ](/news/2008/05/3/at-least-18-prisoners-are-killed-during-a-fight-in-a-jail-in-tegucigalpa-the-capital-of-honduras-this-follows-the-recent-deaths-of-nine-p.md) _Context: Honduras, San Pedro Sula_

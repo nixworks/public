@@ -1,15 +1,15 @@
 ## [2011-04-3](/news/2011/04/3/index.md)
 
-### [2011 Bahraini protests:: Authorities ban the publication of the main opposition paper "Al Wasat". ](/news/2011/04/3/2011-bahraini-protests-authorities-ban-the-publication-of-the-main-opposition-paper-al-wasat.md)
-_Context: 2011 Bahraini protests, Al Wasat_
+### [Authorities ban the publication of the main opposition paper "Al Wasat". ](/news/2011/04/3/authorities-ban-the-publication-of-the-main-opposition-paper-al-wasat.md)
+_Context: Al Wasat_
 
-### [2011 Libyan civil war:: Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/2011-libyan-civil-war-forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md)
+### [Forces loyal to Muammar Gaddafi continue to shell the western city of Misrata. ](/news/2011/04/3/forces-loyal-to-muammar-gaddafi-continue-to-shell-the-western-city-of-misrata.md)
 Rebel forces fail to take oil town of Brega after a fourth straight day of fighting, despite overnight air strikes.
 
-### [2011 Syrian protests:: Syria tightens security to crack down on anti-government protests. ](/news/2011/04/3/2011-syrian-protests-syria-tightens-security-to-crack-down-on-anti-government-protests.md)
+### [Syria tightens security to crack down on anti-government protests. ](/news/2011/04/3/syria-tightens-security-to-crack-down-on-anti-government-protests.md)
 President Bashar Assad issued a decree Sunday appointing Adel Safar, the agricultural minister in the resigned government, to form a new Cabinet. 
 
-### [2011 Yemeni protests:: Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/2011-yemeni-protests-anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md)
+### [Anti-government opposition coalition unveils plan to end month-long unrest. ](/news/2011/04/3/anti-government-opposition-coalition-unveils-plan-to-end-month-long-unrest.md)
 _Context: 2011 Yemeni protests_
 
 ### [At least 40 people are dead and 100 injured following a Taliban suicide bomb on a Sufi Muslim shrine in Pakistan. ](/news/2011/04/3/at-least-40-people-are-dead-and-100-injured-following-a-taliban-suicide-bomb-on-a-sufi-muslim-shrine-in-pakistan.md)

@@ -6,8 +6,8 @@ _Context: Fox Broadcasting Company, Super Bowl XLVIII_
 ### [The Dow Jones Industrial Average loses around 326 points while the NASDAQ and S&P 500 drops around 2.3%. [http://www.usatoday.com/story/money/markets/2014/02/02/stocks-monday-after-super-bowl/5171807/ "(USA Today)"]](/news/2014/02/3/the-dow-jones-industrial-average-loses-around-326-points-while-the-nasdaq-and-s-p-500-drops-around-2-3-http-www-usatoday-com-story-mone.md)
 _Context: Dow Jones Industrial Average, Nasdaq, S&P 500_
 
-### [2013-14 Australian region cyclone season:: Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/2013-14-australian-region-cyclone-season-cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpenta.md)
-_Context: 2013-14 Australian region cyclone season, Gulf of Carpentaria, Queensland_
+### [Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpentaria-into-queensland.md)
+_Context: Gulf of Carpentaria, Queensland_
 
 ### [A winter storm hits the Northeastern United States, resulting in at least two deaths and thousands of flights being disrupted. Pennsylvania, New Jersey, and New York are amongst the worst affected. ](/news/2014/02/3/a-winter-storm-hits-the-northeastern-united-states-resulting-in-at-least-two-deaths-and-thousands-of-flights-being-disrupted-pennsylvania.md)
 Sky News Australia has the top stories in news online from Australia and the rest of the World.

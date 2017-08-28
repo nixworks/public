@@ -21,8 +21,8 @@ _Context: Juba, Lord's Resistance Army, Southern Sudan, Uganda, White Nile_
 ### [ Hamas blows a hole through the wall between Egypt and Gaza, allowing free passage for Palestinians to and from Egypt for the first time since 1967. ](/news/2005/09/14/hamas-blows-a-hole-through-the-wall-between-egypt-and-gaza-allowing-free-passage-for-palestinians-to-and-from-egypt-for-the-first-time-sin.md)
 _Context: Egypt, Gaza Strip, Hamas, Palestinians_
 
-### [ Conflict in Iraq:: 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/conflict-in-iraq-114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md)
-_Context: Baghdad, Conflict in Iraq, Kadhimiya, Shia, car bomb_
+### [ 114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. ](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-shia-district-of-baghdad-called-kadhimiya.md)
+_Context: Baghdad, Kadhimiya, Shia, car bomb_
 
 ### [ Frances Newton is executed by lethal injection by the U.S. state of Texas for the murder of her ex-husband and two children. She is the first African American woman executed in Texas since 1858. ](/news/2005/09/14/frances-newton-is-executed-by-lethal-injection-by-the-u-s-state-of-texas-for-the-murder-of-her-ex-husband-and-two-children-she-is-the-fir.md)
 _Context: African-American, Frances Newton, Texas, U.S. state, lethal injection_

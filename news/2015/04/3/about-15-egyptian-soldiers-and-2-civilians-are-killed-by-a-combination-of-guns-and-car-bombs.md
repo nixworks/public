@@ -1,6 +1,6 @@
 ### [2015-04-3](/news/2015/04/3/index.md)
 
-#  About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs.  
+#  About 15 Egyptian soldiers and 2 civilians are killed by a combination of guns and car bombs. 
 
 Egyptian security sources say at least 15 soldiers and two civilians have been killed after gunmen attacked military checkpoints in the Sinai peninsula.
 
@@ -18,7 +18,7 @@ Egyptian security sources say at least 15 soldiers and two civilians have been k
 4. [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md) _Context: Egyptian Army, Sinai insurgency_
 5. [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md) _Context: Egyptian Army, Sinai insurgency_
 6. [At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. ](/news/2016/04/8/at-least-seven-people-are-killed-including-five-egyptian-army-soldiers-a-military-officer-and-a-civilian-woman-in-two-separate-blasts-in-e.md) _Context: Egyptian Army, Sinai insurgency_
-7. [  A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-ira.md) _Context: Egyptian Army, Sinai insurgency_
-8. [Militants kill at least five soldiers in  attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _Context: Egyptian Army, Sinai insurgency_
+7. [ A shell kills a woman and her two children as fighting continues on the Sinai Peninsula between the Egyptian Army and Islamic State of Iraq and the Levant militants. ](/news/2015/07/4/a-shell-kills-a-woman-and-her-two-children-as-fighting-continues-on-the-sinai-peninsula-between-the-egyptian-army-and-islamic-state-of-iraq.md) _Context: Egyptian Army, Sinai insurgency_
+8. [Militants kill at least five soldiers in attacks on two Egyptian Army checkpoints. ](/news/2015/07/18/militants-kill-at-least-five-soldiers-in-attacks-on-two-egyptian-army-checkpoints.md) _Context: Egyptian Army, Sinai insurgency_
 9. [Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md) _Context: Egyptian Army, Sinai insurgency_
 10. [Egypt launches strikes around Sheikh Zuweid in retaliation for the 15 Egyptian soldiers that were killed by ISIL-affiliated groups in the past week, killing about 100 terrorists according to Egyptian military sources. ](/news/2015/04/4/egypt-launches-strikes-around-sheikh-zuweid-in-retaliation-for-the-15-egyptian-soldiers-that-were-killed-by-isil-affiliated-groups-in-the-pa.md) _Context: Egyptian Army, Sinai insurgency_

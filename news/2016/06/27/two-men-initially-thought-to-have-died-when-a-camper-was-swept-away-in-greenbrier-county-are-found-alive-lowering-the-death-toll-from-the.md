@@ -1,6 +1,6 @@
 ### [2016-06-27](/news/2016/06/27/index.md)
 
-#   Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. 
+#  Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. 
 
 Two men who were presumed dead when a camper was swept away in rushing waters during the West Virginia floods were found alive, officials said Monday as more heavy rain fell on already-soaked parts of the state.
 
@@ -11,5 +11,5 @@ Two men who were presumed dead when a camper was swept away in rushing waters du
 
 ### Related:
 
-1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims  were found overnight. It is the third-deadliest flood in West Virginia history.  ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-f.md) _Context: 2016 West Virginia flood_
-2. [West Virginia police report powerful flash floods last night killed at least 26 people and swept away a toddler from Ravenswood. Up to 10 inches (25 cm) of rain fell in White Sulphur Springs in the southern part of the state. A state of emergency had been declared in 44 counties. Almost 500,000 customers are without power including thousands in  Virginia. ](/news/2016/06/24/west-virginia-police-report-powerful-flash-floods-last-night-killed-at-least-26-people-and-swept-away-a-toddler-from-ravenswood-up-to-10-in.md) _Context: 2016 West Virginia flood_
+1. [The Kanawha County sheriff's office reports the death toll is now 26--three more victims were found overnight. It is the third-deadliest flood in West Virginia history. ](/news/2016/06/25/the-kanawha-county-sheriff-s-office-reports-the-death-toll-is-now-26athree-more-victims-were-found-overnight-it-is-the-third-deadliest-fl.md) _Context: 2016 West Virginia flood_
+2. [West Virginia police report powerful flash floods last night killed at least 26 people and swept away a toddler from Ravenswood. Up to 10 inches (25 cm) of rain fell in White Sulphur Springs in the southern part of the state. A state of emergency had been declared in 44 counties. Almost 500,000 customers are without power including thousands in Virginia. ](/news/2016/06/24/west-virginia-police-report-powerful-flash-floods-last-night-killed-at-least-26-people-and-swept-away-a-toddler-from-ravenswood-up-to-10-in.md) _Context: 2016 West Virginia flood_

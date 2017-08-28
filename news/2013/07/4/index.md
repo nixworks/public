@@ -24,7 +24,7 @@ Seven men were killed and at least 42 other people were wounded in shootings thr
 ### [Campaigning gets underway in Japan for the House of Councillors election with voting to start on July 21. ](/news/2013/07/4/campaigning-gets-underway-in-japan-for-the-house-of-councillors-election-with-voting-to-start-on-july-21.md)
 _Context: House of Councillors, House of Councillors (Japan's upper house), Japan_
 
-### [Portuguese political crisis, 2013: A series of talks between Minister of Foreign Affairs and the Prime Minister to solve the question around the former's resignation. After a third round the Prime Minister Passos Coelho is to meet with the President of the Republic Cavaco Silva.](/news/2013/07/4/portuguese-political-crisis-2013-a-series-of-talks-between-minister-of-foreign-affairs-and-the-prime-minister-to-solve-the-question-around.md)
+### [A series of talks between Minister of Foreign Affairs and the Prime Minister to solve the question around the former's resignation. After a third round the Prime Minister Passos Coelho is to meet with the President of the Republic Cavaco Silva.](/news/2013/07/4/a-series-of-talks-between-minister-of-foreign-affairs-and-the-prime-minister-to-solve-the-question-around-the-former-s-resignation-after-a.md)
 _Context: Cavaco Silva, Minister of Foreign Affairs, Passos Coelho, President, Prime Minister of Portugal_
 
 ### [Former South African President Nelson Mandela is now in a "permanent vegetative state" and doctors have advised his family to turn off his life support machine. ](/news/2013/07/4/former-south-african-president-nelson-mandela-is-now-in-a-permanent-vegetative-state-and-doctors-have-advised-his-family-to-turn-off-his-l.md)

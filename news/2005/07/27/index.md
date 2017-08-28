@@ -1,10 +1,10 @@
 ## [2005-07-27](/news/2005/07/27/index.md)
 
-### [ British "Shoot to Kill" Police Policy:: The British Police member who shot an innocent Brazilian man seven times in the head and once in the shoulder has been given a free holiday, paid for by Scotland Yard.[http://news.bbc.co.uk/1/hi/uk/4720979.stm (BBC)]: Sir Ian Blair, Commissioner of the Metropolitan Police has told Channel 4 news that on seven separate occasions British police have come close to killing suspected Suicide Bombers who it transpired were not Suicide Bombers. [http://www.timesonline.co.uk/article/0,,22989-1710202,00.html (The Times)], [http://news.ft.com/cms/s/764f2716-fe3c-11d9-a289-00000e2511c8.html (Financial Times)]](/news/2005/07/27/british-shoot-to-kill-police-policy-the-british-police-member-who-shot-an-innocent-brazilian-man-seven-times-in-the-head-and-once-in-th.md)
-_Context: Brazil, Britain, British Police, Channel 4 news, Commissioner, Financial Times, Metropolitan Police, Scotland Yard, Sir Ian Blair, Times, killed by a police sniper, suicide bomb_
+### [ The British Police member who shot an innocent Brazilian man seven times in the head and once in the shoulder has been given a free holiday, paid for by Scotland Yard.[http://news.bbc.co.uk/1/hi/uk/4720979.stm (BBC)] Sir Ian Blair, Commissioner of the Metropolitan Police has told Channel 4 news that on seven separate occasions British police have come close to killing suspected Suicide Bombers who it transpired were not Suicide Bombers. [http://www.timesonline.co.uk/article/0,,22989-1710202,00.html (The Times)], [http://news.ft.com/cms/s/764f2716-fe3c-11d9-a289-00000e2511c8.html (Financial Times)]](/news/2005/07/27/the-british-police-member-who-shot-an-innocent-brazilian-man-seven-times-in-the-head-and-once-in-the-shoulder-has-been-given-a-free-holiday.md)
+_Context: Brazil, British Police, Channel 4 news, Commissioner, Financial Times, Metropolitan Police, Scotland Yard, Sir Ian Blair, Times, suicide bomb_
 
-### [ Conflict in Iraq:: Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/conflict-in-iraq-two-us-troops-were-killed-following-a-bomb-in-baghdad.md)
-_Context: Baghdad, Conflict in Iraq, US Troops_
+### [ Two US Troops were killed following a bomb in Baghdad. ](/news/2005/07/27/two-us-troops-were-killed-following-a-bomb-in-baghdad.md)
+_Context: Baghdad, US Troops_
 
 ### [ 2005 Maharashtra floods: The death toll from the series of heavy monsoon rains and landslides they have triggered has been raised to at least 418 people in India's western state of Maharashtra.](/news/2005/07/27/2005-maharashtra-floods-the-death-toll-from-the-series-of-heavy-monsoon-rains-and-landslides-they-have-triggered-has-been-raised-to-at-lea.md)
 _Context: Maharashtra, death toll, monsoon, recent floods_

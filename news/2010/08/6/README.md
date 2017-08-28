@@ -3,7 +3,7 @@
 ### [NATO admits it killed "between four and a dozen or more civilians" in Nangarhar Province as a result of air strikes on August 5. ](/news/2010/08/6/nato-admits-it-killed-between-four-and-a-dozen-or-more-civilians-in-nangarhar-province-as-a-result-of-air-strikes-on-august-5.md)
 NATO has admitted killing a number of civilians during military operations in eastern Afghanistan after President Hamid Karzai launched a probe into the case.
 
-### [Germany offers compensation of -3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md)
+### [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md)
 Germany will pay $5,000 each to the families of people killed or injured in an air strike near the Afghan town of Kunduz.
 
 ### [Pakistan's Major-General Tariq Khan urges NATO to do more to control the border with Afghanistan, amid increasing UK and U.S. pressure for Pakistan to deal with it. ](/news/2010/08/6/pakistan-s-major-general-tariq-khan-urges-nato-to-do-more-to-control-the-border-with-afghanistan-amid-increasing-uk-and-u-s-pressure-for-p.md)
@@ -75,10 +75,10 @@ Professor Karol Sikora, who examined Abdelbaset al-Megrahi in jail, insists the 
 ### [Britain's High Commission in Colombo lifts travel advice restrictions on Sri Lanka for the first time in approximately 30 years. ](/news/2010/08/6/britain-s-high-commission-in-colombo-lifts-travel-advice-restrictions-on-sri-lanka-for-the-first-time-in-approximately-30-years.md)
 A security assessment carried out by the UK in Sri Lanka concludes that the whole country is now safe for travellers.
 
-### [Asif Ali Zardari and David Cameron meeting:: After meeting Pakistani President Zardari at Chequers UK Prime Minister Cameron speaks of an "unbreakable" friendship between Britain and Pakistan in his attempts to recover from remarks he made about Pakistan's alleged promotion of terrorism. ](/news/2010/08/6/asif-ali-zardari-and-david-cameron-meeting-after-meeting-pakistani-president-zardari-at-chequers-uk-prime-minister-cameron-speaks-of-an-u.md)
+### [After meeting Pakistani President Zardari at Chequers UK Prime Minister Cameron speaks of an "unbreakable" friendship between Britain and Pakistan in his attempts to recover from remarks he made about Pakistan's alleged promotion of terrorism. ](/news/2010/08/6/after-meeting-pakistani-president-zardari-at-chequers-uk-prime-minister-cameron-speaks-of-an-unbreakable-friendship-between-britain-and-pa.md)
 David Cameron hails the &quot;unbreakable&quot; friendship between Britain and Pakistan after talks with President Asif Ali Zardari.
 
-### [Saudi Arabia Blackberry ban:: Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-blackberry-ban-saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
+### [Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
 A ban on the use of Blackberry phones to send and receive messages is being rolled out in Saudi Arabia, users say.
 
 ### [Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. ](/news/2010/08/6/thousands-of-people-attend-the-public-flagellation-of-5-people-in-aceh-amid-requests-that-the-practice-be-banned.md)

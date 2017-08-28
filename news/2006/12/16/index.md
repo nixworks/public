@@ -1,6 +1,6 @@
 ## [2006-12-16](/news/2006/12/16/index.md)
 
-### [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-as-its-person-of-the-year.md)
+### [ "Time" names "You" - contributors of user-generated content to websites such as YouTube and Wikipedia - as its "Person of the Year". ](/news/2006/12/16/time-names-you-a-contributors-of-user-generated-content-to-websites-such-as-youtube-and-wikipedia-a-as-its-person-of-the-year.md)
 You were named Time magazine &#8220;Person of the Year&#8221; on Saturday for the explosive growth and influence of user-generated Internet content such as blogs, video-file sharing site YouTube and social network MySpace.
 
 ### [ Christopher R. Hill, US Chief negotiator in the six-party talks concerning North Korea's nuclear program, announces plans to meet with North Korea prior to the resumption of the talks on Monday. ](/news/2006/12/16/christopher-r-hill-us-chief-negotiator-in-the-six-party-talks-concerning-north-korea-s-nuclear-program-announces-plans-to-meet-with-nort.md)

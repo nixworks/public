@@ -24,10 +24,10 @@ _Context: Everglades, Florida, US Sugar Corporation_
 ### [ Franz Josef Jung, the German Minister of Defence, announces plans to commit a thousand extra troops to Afghanistan. ](/news/2008/06/24/franz-josef-jung-the-german-minister-of-defence-announces-plans-to-commit-a-thousand-extra-troops-to-afghanistan.md)
 Defence Minister Franz Josef Jung said on Tuesday that Germany planned to increase the number of troops it can send to Afghanistan by 1,000 later this year.
 
-### [ 2008 Pacific typhoon season: Typhoon Fengshen in the Philippines: Divers see bodies in the wreck of the MV "Princess of the Stars" off the coast of the Philippines, but no sign of survivors. ](/news/2008/06/24/2008-pacific-typhoon-season-typhoon-fengshen-in-the-philippines-divers-see-bodies-in-the-wreck-of-the-mv-princess-of-the-stars-off-the.md)
-_Context: 2008 Pacific typhoon season, MV ''Princess of the Stars, Philippines, Typhoon Fengshen_
+### [ Divers see bodies in the wreck of the MV "Princess of the Stars" off the coast of the Philippines, but no sign of survivors. ](/news/2008/06/24/divers-see-bodies-in-the-wreck-of-the-mv-princess-of-the-stars-off-the-coast-of-the-philippines-but-no-sign-of-survivors.md)
+_Context: MV ''Princess of the Stars, Philippines_
 
-### [ Economic crisis of 2008: Ireland's Economic and Social Research Institute (ESRI) says the country is in the grip of a recession for the first time in a quarter of a century. However, it predicts the economy will return to positive growth in 2009 and normal growth by 2010. ](/news/2008/06/24/economic-crisis-of-2008-ireland-s-economic-and-social-research-institute-esri-says-the-country-is-in-the-grip-of-a-recession-for-the-fir.md)
+### [ Ireland's Economic and Social Research Institute (ESRI) says the country is in the grip of a recession for the first time in a quarter of a century. However, it predicts the economy will return to positive growth in 2009 and normal growth by 2010. ](/news/2008/06/24/ireland-s-economic-and-social-research-institute-esri-says-the-country-is-in-the-grip-of-a-recession-for-the-first-time-in-a-quarter-of-a.md)
 Brian Lenihan has said the latest report from the ESRI indicated that there was a serious problem in the economy.
 
 ## [Previous Day...](/news/2008/06/23/index.md)

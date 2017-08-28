@@ -1,6 +1,6 @@
 ### [2010-09-30](/news/2010/09/30/index.md)
 
-# Filipino social activist Carlos Celdran is arrested after staging a protest action which disrupted a mass in Manila Cathedral attended by Manila Mayor Alfredo Lim and Papal Nuncio Edward Joseph Adams, in order to demonstrate against the Catholic Church-s opposition to the Reproductive Health Bill (Philippines). 
+# Filipino social activist Carlos Celdran is arrested after staging a protest action which disrupted a mass in Manila Cathedral attended by Manila Mayor Alfredo Lim and Papal Nuncio Edward Joseph Adams, in order to demonstrate against the Catholic Church's opposition to the Reproductive Health Bill (Philippines). 
 
 
 
