@@ -6,5 +6,11 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 ### [North Korea fires a missile which flies 2,700|km|mi, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 1998 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-missile-which-flies-2-700-km-mi-passing-over-hokkaido-northern-japan-prompting-the-activation-of-the-nationwide-j-ale.md)
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
+### [The coastguard of Libya rescued nearly 500 migrants in three operations on Tuesday, in the seas west of the capital Tripoli. ](/news/2017/08/29/the-coastguard-of-libya-rescued-nearly-500-migrants-in-three-operations-on-tuesday-in-the-seas-west-of-the-capital-tripoli.md)
+_Context: European migrant crisis, Libya, Tripoli_
+
+### [The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. ](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.md)
+A regional parliament has lifted the immunity of the best known politician in the anti-immigration Alternative for Germany (AfD) party, opening the way for prosecutors to pursue possible perjury charges against her.
+
 ## [Previous Day...](/news/2017/08/28/index.md)
 
