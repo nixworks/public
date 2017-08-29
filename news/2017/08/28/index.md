@@ -16,7 +16,10 @@ _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, sam
 Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
 
 ### [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico.md)
-_Context: Clovis, New Mexico, Crime in New Mexico_
+A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library was suicidal, his pastor told a newspaper.
+
+### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)
+_Context: Crime in Mexico, Mexico, Puebla, Tlatlauquitepec_
 
 ## [Previous Day...](/news/2017/08/27/index.md)
 
