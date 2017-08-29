@@ -6,6 +6,9 @@ A suicide bomber blew himself up at a bank close to the heavily protected U.S. e
 ### [Sky UK stops broadcasting Fox News in the United Kingdom after 15 years due to low audience figures. ](/news/2017/08/29/sky-uk-stops-broadcasting-fox-news-in-the-united-kingdom-after-15-years-due-to-low-audience-figures.md)
 21st Century Fox says the channel is being withdrawn because it was not commercially viable.
 
+### [Berkshire Hathaway Inc has become the largest shareholder of Bank of America by exercising its right to acquire 700 million shares at a steep discount, more than tripling an investment it made six years ago. Bank of America on Tuesday announced the exercise of the warrants, which gave Berkshire, controlled by Warren Buffett, the right to buy the bank's shares for about $7.14 each. Bank of America shares closed down 14 cents at $23.58 on the same day. ](/news/2017/08/29/berkshire-hathaway-inc-has-become-the-largest-shareholder-of-bank-of-america-by-exercising-its-right-to-acquire-700-million-shares-at-a-stee.md)
+_Context: Bank of America, Banking in the United States, Berkshire Hathaway Inc, Warren Buffett, shares_
+
 ### [North Korea fires a missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-the-nationwide-j-alert.md)
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
@@ -38,7 +41,7 @@ _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, sam
 ### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while in his care is significantly higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
 Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
 
-### [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico.md)
+### [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico, United States. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico-united-states.md)
 A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library was suicidal, his pastor told a newspaper.
 
 ### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)
