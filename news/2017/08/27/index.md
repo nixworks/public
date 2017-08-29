@@ -30,7 +30,7 @@ _Context: Donald Trump, Pakistan, Pakistan-United States relations, foreign mini
 ### [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md)
 _Context: International Commission against Impunity in Guatemala, Jimmy Morales, Politics of Guatemala, President of Guatemala_
 
-### [Right-wing protesters and thousands of far-left counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. ](/news/2017/08/27/right-wing-protesters-and-thousands-of-far-left-counter-protesters-clash-in-berkeley-california-leading-to-the-arrest-of-at-least-14-peopl.md)
+### [Far-right protesters and thousands of far-left counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. ](/news/2017/08/27/far-right-protesters-and-thousands-of-far-left-counter-protesters-clash-in-berkeley-california-leading-to-the-arrest-of-at-least-14-people.md)
 All eyes turned to Berkeley after a day of large-scale protests, and relative peace, in San Francisco
 
 ## [Previous Day...](/news/2017/08/26/index.md)
