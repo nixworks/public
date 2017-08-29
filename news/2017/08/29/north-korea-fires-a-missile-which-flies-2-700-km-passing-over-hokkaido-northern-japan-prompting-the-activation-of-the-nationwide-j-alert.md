@@ -1,6 +1,6 @@
 ### [2017-08-29](/news/2017/08/29/index.md)
 
-# North Korea fires a missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 1998 that a North Korean missile has passed over Japanese territory. 
+# North Korea fires a missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. 
 
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
@@ -8,7 +8,8 @@ North Korea has test fired a missile over Japan in an unprecedented act that is 
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-usa-haley-idUSKCN1B91Q8?il=0)
-2. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-japan-missile-over-test-launch-kim-jong-un-trump-latest-news-updates-a7917401.html)
+2. [South China Morning Post](http://www.scmp.com/news/china/diplomacy-defence/article/2108697/north-korea-fires-another-missile-over-japan-reports)
+3. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-japan-missile-over-test-launch-kim-jong-un-trump-latest-news-updates-a7917401.html)
 
 ### Related:
 
