@@ -1,6 +1,6 @@
 ## [2017-08-23](/news/2017/08/23/index.md)
 
-### [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md)
+### [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md)
 At least 35 people were killed in air strikes that hit a small hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa on Wednesday, a local medic and Houthi&#039;s television station.
 
 ### [The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. ](/news/2017/08/23/the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weapon-the-replacement-for-the-agm-86b-air.md)
@@ -21,7 +21,7 @@ The Gulf Coast landfall will only be part of the danger.
 ### [A headless dismembered torso found washed ashore in Copenhagen two days ago is identified as Kim Wall. According to a police spokesperson, the body was deliberately mutilated and had metal attached to it so that it would not float. ](/news/2017/08/23/a-headless-dismembered-torso-found-washed-ashore-in-copenhagen-two-days-ago-is-identified-as-kim-wall-according-to-a-police-spokesperson-t.md)
 A Danish inventor is accused of the negligent manslaughter of a Swedish journalist.
 
-### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new President, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
+### [Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new president, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. ](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.md)
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.
 
 ## [Previous Day...](/news/2017/08/22/index.md)

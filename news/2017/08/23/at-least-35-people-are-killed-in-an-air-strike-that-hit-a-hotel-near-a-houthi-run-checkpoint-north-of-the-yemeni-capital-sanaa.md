@@ -1,6 +1,6 @@
 ### [2017-08-23](/news/2017/08/23/index.md)
 
-# At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. 
+# At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. 
 
 At least 35 people were killed in air strikes that hit a small hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa on Wednesday, a local medic and Houthi&#039;s television station.
 
