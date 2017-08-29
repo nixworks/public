@@ -6,6 +6,9 @@ A convoy of Islamic State fighters and their families began to depart the Lebano
 ### [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md)
 Authorities in Houston expect 30,000 people to be housed in shelters as Tropical Storm Harvey continues to cause widespread flooding.
 
+### [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md)
+India and China have agreed to end a months-long military stand-off at a disputed border area in the Himalayas, with Indian troops already beginning to pull out, officials say.
+
 ### [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md)
 _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, same-sex marriage_
 
