@@ -4,7 +4,7 @@
 _Context: Bloc Qubcois, Canada, Conservative Party's, Liberal Party's, New Democratic Party, Stphane Dion, coalition Government, elected_
 
 ### [ A suicide bomb attack kills 10 people, including two policemen, in the southern province in Helmand in Afghanistan. ](/news/2008/12/1/a-suicide-bomb-attack-kills-10-people-including-two-policemen-in-the-southern-province-in-helmand-in-afghanistan.md)
-_Context: Afghanistan's, Helmand, suicide bomb_
+_Context: Afghanistan, Helmand, suicide bomb_
 
 ### [ United States President-elect Barack Obama announces his national security team to his transition advisory board, among them being Senator Hillary Clinton of New York, who was nominated Secretary of State. ](/news/2008/12/1/united-states-president-elect-barack-obama-announces-his-national-security-team-to-his-transition-advisory-board-among-them-being-senator.md)
 _Context: Barack Obama, Hillary Clinton, New York State, United States Secretary of State, transition_

@@ -1,7 +1,7 @@
 ## [2013-03-10](/news/2013/03/10/index.md)
 
 ### [President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-taliban-in-an-effort.md)
-_Context: Afghan Taliban, Afghanistan President, Afghanistan's, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
+_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
 
 ### [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
 _Context: Christian, Christian, Lahore, Pakistan_

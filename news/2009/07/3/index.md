@@ -43,7 +43,7 @@ The death toll in this week&#39;s rail disaster in Italy rose to 21 after a woma
 _Context: Camberwell, England, London, killed after a fire_
 
 ### [ Russia opens a route for the United States to fly arms to Afghanistan. [http://www.nytimes.com/2009/07/04/world/europe/04russia.html?hp ("The New York Times") ]](/news/2009/07/3/russia-opens-a-route-for-the-united-states-to-fly-arms-to-afghanistan-http-www-nytimes-com-2009-07-04-world-europe-04russia-html-hp-t.md)
-_Context: Afghanistan's, Russia, United States_
+_Context: Afghanistan, Russia, United States_
 
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
 _Context: 2008, Alaska, Governor, Sarah Palin, U.S. Vice President, United States_

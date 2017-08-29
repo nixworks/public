@@ -1,7 +1,7 @@
 ## [2001-09-9](/news/2001/09/9/index.md)
 
 ### [ Ahmed Shah Massoud, leader of the Afghan Northern Alliance, is assassinated in Afghanistan.](/news/2001/09/9/ahmed-shah-massoud-leader-of-the-afghan-northern-alliance-is-assassinated-in-afghanistan.md)
-_Context: Afghan Northern Alliance, Afghanistan's, Ahmed Shah Massoud_
+_Context: Afghan Northern Alliance, Afghanistan, Ahmed Shah Massoud_
 
 ### [ The Country Bears concert known as the Country Bear Jamboree closed its doors in Disneyland for the last time. The show continues in Walt Disney World and Tokyo Disneyland.](/news/2001/09/9/the-country-bears-concert-known-as-the-country-bear-jamboree-closed-its-doors-in-disneyland-for-the-last-time-the-show-continues-in-walt-d.md)
 _Context: The Country Bears_

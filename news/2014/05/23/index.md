@@ -4,7 +4,7 @@
 _Context: Egypt, extremist groups_
 
 ### [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
-_Context: Afghanistan's, Herat Province, attack the Indian consulate_
+_Context: Afghanistan, Herat Province, attack the Indian consulate_
 
 ### [Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md)
 _Context: Chinese, Urumqi_

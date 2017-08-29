@@ -22,7 +22,7 @@ _Context: Madonna, bone fracture, horseback riding_
 _Context: British Police, ITN, Jean Charles de Menezes_
 
 ### [ Two Puma helicopters crash near the city of Herat, in western Afghanistan, killing Spanish troops. ](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.md)
-_Context: Afghanistan's, Herat, Puma helicopters, Spain_
+_Context: Afghanistan, Herat, Puma helicopters, Spain_
 
 ### [ West Caribbean Airways Flight 708 from Colombia crashes in a remote region of Venezuela with 160 people on board. ](/news/2005/08/16/west-caribbean-airways-flight-708-from-colombia-crashes-in-a-remote-region-of-venezuela-with-160-people-on-board.md)
 _Context: Colombia, Venezuela, West Caribbean Airways Flight 708_

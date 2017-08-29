@@ -4,7 +4,7 @@
 _Context: 2010 Islamic Solidarity Games, Persian Gulf, Tehran, a dispute regarding the name_
 
 ### [North Korea says sanctions against the country should be lifted before it returns to the six-party talks over its nuclear program. ](/news/2010/01/18/north-korea-says-sanctions-against-the-country-should-be-lifted-before-it-returns-to-the-six-party-talks-over-its-nuclear-program.md)
-_Context: North Korea, intercontinental ballistic, sanctions, six-party talks_
+_Context: North Korea, North Korea and weapons of mass destruction, sanctions, six-party talks_
 
 ### [Indian and Pakistani forces exchange fire over the border. ](/news/2010/01/18/indian-and-pakistani-forces-exchange-fire-over-the-border.md)
 Pakistani security forces said Indian troops fired on their positions near Lahore as border tensions between the two nuclear-armed foes simmer.
@@ -16,7 +16,7 @@ _Context: Mehmet Ali Agca, Pope, Pope John Paul II, Turkey_
 _Context: Al-Amin Kimathi, Kenya, MP, Muslim, Somalia_
 
 ### [Two dozen Afghan Taliban insurgents launch coordinated attacks against the presidential palace and other buildings in central Kabul on the day a new government is to be sworn in. ](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.md)
-_Context: Afghanistan's, Kabul, Taliban_
+_Context: Afghanistan, Kabul, Taliban_
 
 ### [A 3.4 M<sub>w</sub> earthquake hits Guizhou Province, China, and kills seven people. ](/news/2010/01/18/a-3-4-mw-earthquake-hits-guizhou-province-china-and-kills-seven-people.md)
 _Context: China, Guizhou province, earthquake, magnitude_

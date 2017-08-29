@@ -1,7 +1,7 @@
 ## [2008-01-1](/news/2008/01/1/index.md)
 
 ### [ The Taliban threaten to escalate attacks in Afghanistan after a year of record violence. ](/news/2008/01/1/the-taliban-threaten-to-escalate-attacks-in-afghanistan-after-a-year-of-record-violence.md)
-_Context: Afghanistan's, Taliban_
+_Context: Afghanistan, Taliban_
 
 ### [ Venezuela introduces the new Bolivar fuerte currency (ISO 4217, code: VEF) to combat inflation. ](/news/2008/01/1/venezuela-introduces-the-new-bolavar-fuerte-currency-iso-4217-code-vef-to-combat-inflation.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

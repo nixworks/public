@@ -7,7 +7,7 @@ _Context: Borujerd, Iran, Muslim, Shi'ite, Sufi, cleric, mosque_
 A 4,000-year-old temple filled with murals has been unearthed on the northern coast of Peru, making it one of the oldest finds in the Americas, a leading archaeologist said on Saturday.
 
 ### [ Six American forces serving under NATO's International Security Assistance Force are killed in an insurgent ambush while patrolling in eastern Afghanistan. ](/news/2007/11/10/six-american-forces-serving-under-nato-s-international-security-assistance-force-are-killed-in-an-insurgent-ambush-while-patrolling-in-east.md)
-_Context: Afghanistan's, NATO, Taliban insurgency, United States_
+_Context: Afghanistan, NATO, Taliban insurgency, United States_
 
 ### [ 2007 Bersih Rally: Malaysia sees its largest political protest in 10 years. ](/news/2007/11/10/2007-bersih-rally-malaysia-sees-its-largest-political-protest-in-10-years.md)
 _Context: its largest political protest_

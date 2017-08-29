@@ -16,7 +16,7 @@ _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
 _Context: Nawaz Sharif, Pakistan, Prime Minister of Pakistan, Supreme Court, election_
 
 ### [ North Korea tests two more missiles. ](/news/2009/05/26/north-korea-tests-two-more-missiles.md)
-_Context: North Korea, intercontinental ballistic, rocket attacks_
+_Context: North Korea, North Korea and weapons of mass destruction, rocket attacks_
 
 ### [ The National League for Democracy's General Secretary testifies in Burma. ](/news/2009/05/26/the-national-league-for-democracy-s-general-secretary-testifies-in-burma.md)
 Myanmar opposition leader Aung San Suu Kyi denied violating her house arrest on Tuesday as the ruling generals tried to justify her trial, which has drawn condemnation from around the world.
@@ -31,7 +31,7 @@ _Context: Sudan, convoy, killed, people smugglers_
 _Context: Abu Dhabi, France, Nicolas Sarkozy, President of France, United Arab Emirates, military installations_
 
 ### [ A suicide attack kills six people in Kapisa Province, Afghanistan. ](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-province-afghanistan.md)
-_Context: Afghanistan's, Kapisa province, suicide bombing_
+_Context: Afghanistan, Kapisa province, suicide bombing_
 
 ### [ The Swedish Navy arrests seven Somali pirates during the attempted hijacking of a Greek ship. ](/news/2009/05/26/the-swedish-navy-arrests-seven-somali-pirates-during-the-attempted-hijacking-of-a-greek-ship.md)
 _Context: Greek, Navy, Somali pirates, Somalia, Sweden, ship_

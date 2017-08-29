@@ -13,7 +13,7 @@ _Context: Cambodia, Thai passenger jet, machine gun_
 _Context: Maiduguri, Nigeria, mosque, suicide bomber_
 
 ### [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghanistan's, Hanifa Safi_
+_Context: Afghanistan, Hanifa Safi_
 
 ### [Carol Ann Duffy, the Poet Laureate of the United Kingdom, is announced as the winner of the 2012 PEN/Pinter Prize. ](/news/2012/07/13/carol-ann-duffy-the-poet-laureate-of-the-united-kingdom-is-announced-as-the-winner-of-the-2012-pen-pinter-prize.md)
 Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being awarded the 2012 Pen Pinter Prize in memory of the playwright Harold Pinter.

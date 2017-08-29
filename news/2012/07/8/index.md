@@ -10,7 +10,7 @@ Two Nigerian politicians die during an attack by gunmen on a funeral for victims
 _Context: Democratic Republic of the Congo, M23_
 
 ### [Roadside car bombs kill 14 civilians travelling in two vehicles in Afghanistan's Kandahar Province. ](/news/2012/07/8/roadside-car-bombs-kill-14-civilians-travelling-in-two-vehicles-in-afghanistan-s-kandahar-province.md)
-_Context: Afghanistan's, Kandahar Province, car bomb_
+_Context: Afghanistan, Kandahar Province, car bomb_
 
 ### [A roadside bomb kills six NATO soldiers in eastern Afghanistan. ](/news/2012/07/8/a-roadside-bomb-kills-six-nato-soldiers-in-eastern-afghanistan.md)
 Six NATO soldiers were killed by a roadside bomb in eastern Afghanistan on Sunday, after an insurgent attack in the south killed one foreign soldier, coalition statements said.
@@ -28,7 +28,7 @@ Russia holds day of mourning for those killed in the floods that swept large are
 _Context: South China Sea dispute, Spratly Islands, Vietnam, anti-China_
 
 ### [Taliban gunmen shoot a woman accused of adultery to death while men watching the execution cheer, in a village near Kabul, Afghanistan. ](/news/2012/07/8/taliban-gunmen-shoot-a-woman-accused-of-adultery-to-death-while-men-watching-the-execution-cheer-in-a-village-near-kabul-afghanistan.md)
-_Context: Afghanistan's, Kabul, Taliban, woman accused of adultery_
+_Context: Afghanistan, Kabul, Taliban, woman accused of adultery_
 
 ### [In two separate incidents in the current U.S. heat wave involving two different vehicles, both in the Greater Indianapolis area, a baby girl dies in Greenfield, Indiana (in the east of the area), and a toddler from Fishers, Indiana (in the northeast of the area) is left in critical condition after being left in overheated vehicles by their parent caretakers (the internal temperature in one was at 124deg F (51deg C); both have been charged with felony child neglect resulting in death. ](/news/2012/07/8/in-two-separate-incidents-in-the-current-u-s-heat-wave-involving-two-different-vehicles-both-in-the-greater-indianapolis-area-a-baby-girl.md)
 _Context: Fishers, Indiana, Greater Indianapolis, Greenfield, Indiana, child neglect, current U.S. heat wave_

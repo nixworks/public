@@ -31,7 +31,7 @@ _Context: Army, Sri Lanka, Tamil Tigers_
 _Context: Burmese, Cyclone Nargis, Robert Gates, Secretary of Defense_
 
 ### [ Suicide bombers in eastern Afghanistan target a military convoy. NATO's International Security Assistance force says the attack took place in Jalalabad, capital of Nangarhar province. ](/news/2008/05/31/suicide-bombers-in-eastern-afghanistan-target-a-military-convoy-nato-s-international-security-assistance-force-says-the-attack-took-place.md)
-_Context: Afghanistan's, ISAF, Jalalabad, Nangarhar Province, Suicide bombers, convoy_
+_Context: Afghanistan, ISAF, Jalalabad, Nangarhar Province, Suicide bombers, convoy_
 
 ### [ Thai riot police assemble in Bangkok to disperse a rally led by the People's Alliance for Democracy against the government of the Prime Minister of Thailand Samak Sundaravej. ](/news/2008/05/31/thai-riot-police-assemble-in-bangkok-to-disperse-a-rally-led-by-the-people-s-alliance-for-democracy-against-the-government-of-the-prime-min.md)
 _Context: Bangkok, Prime Minister, Samak Sundaravej, Thailand, yellow shirt_

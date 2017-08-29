@@ -1,7 +1,7 @@
 ## [2011-08-4](/news/2011/08/4/index.md)
 
 ### [A senior intelligence officer in Afghanistan's National Directorate of Security, Payenda Khan, is killed in a bombing in Kunduz Province. ](/news/2011/08/4/a-senior-intelligence-officer-in-afghanistan-s-national-directorate-of-security-payenda-khan-is-killed-in-a-bombing-in-kunduz-province.md)
-_Context: Afghanistan's, Kunduz Province, National Directorate of Security, Payenda Khan_
+_Context: Afghanistan, Kunduz Province, National Directorate of Security, Payenda Khan_
 
 ### [Kraft Foods announces that it will split into two operations consisting of its North American grocery business and its global snack foods business. ](/news/2011/08/4/kraft-foods-announces-that-it-will-split-into-two-operations-consisting-of-its-north-american-grocery-business-and-its-global-snack-foods-bu.md)
 _Context: Kraft Foods, North America_

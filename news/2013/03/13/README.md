@@ -4,7 +4,7 @@
 _Context: Bemina, CRPF, India, Kashmir, Srinagar_
 
 ### [A suicide bomber kills 10 spectators, including the district police chief, during a local gaming event in Kunduz province of northern Afghanistan. ](/news/2013/03/13/a-suicide-bomber-kills-10-spectators-including-the-district-police-chief-during-a-local-gaming-event-in-kunduz-province-of-northern-afghan.md)
-_Context: Afghanistan's, Kunduz Province_
+_Context: Afghanistan, Kunduz Province_
 
 ### [Ahmad Shihadeh, a member of the European Union's delegation in Syria, is killed in a rocket attack in a Damascus suburb. ](/news/2013/03/13/ahmad-shihadeh-a-member-of-the-european-union-s-delegation-in-syria-is-killed-in-a-rocket-attack-in-a-damascus-suburb.md)
 _Context: Damascus, European Union, Syria_

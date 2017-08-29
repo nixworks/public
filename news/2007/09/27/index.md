@@ -22,13 +22,13 @@ A teenager accused of assaulting a white schoolmate in a small Louisiana town wa
 _Context: The Global Fund to Fight AIDS, Tuberculosis and Malaria, US$_
 
 ### [ Four employees of the International Red Cross, including two foreigners, are abducted in Afghanistan's Wardak province. ](/news/2007/09/27/four-employees-of-the-international-red-cross-including-two-foreigners-are-abducted-in-afghanistan-s-wardak-province.md)
-_Context: Afghanistan's, International Red Cross, Wardak province_
+_Context: Afghanistan, International Red Cross, Wardak province_
 
 ### [ President of Pakistan Pervez Musharraf files nomination for the upcoming Pakistan Presidential Election to be held on October 6, 2007 election without his army rank. ](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-nomination-for-the-upcoming-pakistan-presidential-election-to-be-held-on-october-6-2007-elect.md)
 _Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, President_
 
 ### [ A new round of talks aimed at ending North Korea's nuclear program starts in Beijing. ](/news/2007/09/27/a-new-round-of-talks-aimed-at-ending-north-korea-s-nuclear-program-starts-in-beijing.md)
-_Context: Beijing, intercontinental ballistic_
+_Context: Beijing, North Korea and weapons of mass destruction_
 
 ### [ According to sources close to the military, Senior General Than Shwe is now directly commanding soldiers after several commanders refused to use force to crack down on protesters. ](/news/2007/09/27/according-to-sources-close-to-the-military-senior-general-than-shwe-is-now-directly-commanding-soldiers-after-several-commanders-refused-t.md)
 _Context: Than Shwe_

@@ -4,7 +4,7 @@
 month mission
 
 ### [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md)
-_Context: Afghanistan's, John Key, Prime Minister, War in Afghanistan (2001-present)_
+_Context: Afghanistan, John Key, Prime Minister, War in Afghanistan (2001-present)_
 
 ### [A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. ](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.md)
 _Context: Caracas, Venezuela, riot in the Yare I prison_

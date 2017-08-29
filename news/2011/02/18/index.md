@@ -7,7 +7,7 @@ At least 1,000 Arabs demonstrate to demand citizenship in Gulf country, leading 
 _Context: Panama_
 
 ### [At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. ](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.md)
-_Context: Afghanistan's, Kunar Province_
+_Context: Afghanistan, Kunar Province_
 
 ### [Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedomdate=August 2017 at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. ](/news/2011/02/18/retired-cia-officer-turned-political-activist-ray-mcgovern-is-thrown-out-bloodied-and-arrested-while-protesting-a-speech-given-by-hillary-c.md)
 _Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, Washington, D.C., internet freedom_

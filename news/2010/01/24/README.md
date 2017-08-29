@@ -22,10 +22,10 @@ _Context: RCTV, Venezuela, cable set-top boxes, government_
 _Context: Detroit, Northwest Airlines Flight 253, Osama bin Laden, USA_
 
 ### [Afghanistan postpones its upcoming parliamentary elections to 18 September due to lack of funds and security concerns. ](/news/2010/01/24/afghanistan-postpones-its-upcoming-parliamentary-elections-to-18-september-due-to-lack-of-funds-and-security-concerns.md)
-_Context: Afghanistan's, parliamentary election_
+_Context: Afghanistan, parliamentary election_
 
 ### [North Korea says any attempt by South Korea to launch pre-emptive strikes against its nuclear facilities will be considered a declaration of war. ](/news/2010/01/24/north-korea-says-any-attempt-by-south-korea-to-launch-pre-emptive-strikes-against-its-nuclear-facilities-will-be-considered-a-declaration-of.md)
-_Context: North Korea, South Korea, declaration of war, intercontinental ballistic, pre-emptive strike_
+_Context: North Korea, North Korea and weapons of mass destruction, South Korea, declaration of war, pre-emptive strike_
 
 ### [At the NRJ Music Awards in Cannes, France, hip hop band Black Eyed Peas are mistakenly presented with an award for best international group which was intended for Tokio Hotel, while Rihanna falls off the stage during a live performance of "Russian Roulette". ](/news/2010/01/24/at-the-nrj-music-awards-in-cannes-france-hip-hop-band-black-eyed-peas-are-mistakenly-presented-with-an-award-for-best-international-group.md)
 _Context: Black Eyed Peas, Cannes, France, NRJ Music Awards, Rihanna, Russian Roulette, Tokio Hotel_

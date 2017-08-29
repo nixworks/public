@@ -10,7 +10,7 @@ _Context: Basra, Conflict in Iraq, Iraq_
 _Context: Iraq, President, Saddam Hussein, lawyer_
 
 ### [ Uzbekistan has reportedly given the United States six months to move out of a key base used for operations in Afghanistan.](/news/2005/07/30/uzbekistan-has-reportedly-given-the-united-states-six-months-to-move-out-of-a-key-base-used-for-operations-in-afghanistan.md)
-_Context: Afghanistan's, United States, Uzbekistan_
+_Context: Afghanistan, United States, Uzbekistan_
 
 ### [ Russia begins to withdraw its troops from the military bases in Georgia ](/news/2005/07/30/russia-begins-to-withdraw-its-troops-from-the-military-bases-in-georgia.md)
 _Context: Georgian, military installations_

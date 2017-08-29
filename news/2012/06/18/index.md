@@ -13,7 +13,7 @@ _Context: Baghdad, Baquba, Shia_
 _Context: Pakistan, Quetta_
 
 ### [Three men in Afghan police uniform kill a NATO soldier in eastern Afghanistan.](/news/2012/06/18/three-men-in-afghan-police-uniform-kill-a-nato-soldier-in-eastern-afghanistan.md)
-_Context: Afghanistan's, NATO_
+_Context: Afghanistan, NATO_
 
 ### [It is disclosed that Jack Osbourne has the incurable neurological condition multiple sclerosis (MS). ](/news/2012/06/18/it-is-disclosed-that-jack-osbourne-has-the-incurable-neurological-condition-multiple-sclerosis-ms.md)
 Ozzy and Sharon Osbourne reveal that son Jack has the incurable neurological condition multiple sclerosis (MS).

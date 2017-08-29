@@ -1,7 +1,7 @@
 ## [2010-10-5](/news/2010/10/5/index.md)
 
 ### [Afghan militant attacks kill 4 civilians, wound 6 in southwestern Farah province's Rusht Rod district. ](/news/2010/10/5/afghan-militant-attacks-kill-4-civilians-wound-6-in-southwestern-farah-province-s-rusht-rod-district.md)
-_Context: Afghanistan's, Farah Province, Rusht Rod_
+_Context: Afghanistan, Farah Province, Rusht Rod_
 
 ### [At least 3 people are killed and 9 others receive wounds during a bomb explosion at an apartment complex in the suburbs of Bangkok. ](/news/2010/10/5/at-least-3-people-are-killed-and-9-others-receive-wounds-during-a-bomb-explosion-at-an-apartment-complex-in-the-suburbs-of-bangkok.md)
 A bomb explosion at an apartment building on the outskirts of the Thai capital of Bangkok has killed at least three people.

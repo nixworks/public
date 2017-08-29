@@ -40,7 +40,7 @@ _Context: 2007 European heat wave_
 _Context: Indonesia, Maluku Islands, North Maluku, earthquake, tsunami_
 
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)
-_Context: Afghanistan's, Helmand Province, United States, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Helmand Province, United States, War in Afghanistan (2001-present)_
 
 ### [ Summer 2007 United Kingdom floods: Flood water levels in the River Thames is expected to rise further as England expects more heavy rain. Two people die in Tewkesbury, Gloucestershire trying to pump water out of a club. ](/news/2007/07/26/summer-2007-united-kingdom-floods-flood-water-levels-in-the-river-thames-is-expected-to-rise-further-as-england-expects-more-heavy-rain-t.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

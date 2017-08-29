@@ -4,7 +4,7 @@
 Military launches campaigns in three provinces as foreign governments reopen embassies.
 
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: Afghanistan's, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
+_Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
 _Context: Facebook, Inc., social network_

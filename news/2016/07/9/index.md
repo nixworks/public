@@ -16,10 +16,10 @@ Power is being restored in parts of Taiwan after a powerful typhoon slammed into
 _Context: China, International reactions to ''Philippines v. China'', Permanent Court of Arbitration's, South China Sea, court decision_
 
 ### [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md)
-_Context: North Korea, South Korea, ballistic missile, intercontinental ballistic_
+_Context: North Korea, North Korea and weapons of mass destruction, South Korea, ballistic missile_
 
 ### [NATO members in Warsaw, Poland, agree to extend their mission in Afghanistan into 2017 and announced that they will continue to fund the Afghan Armed Forces to 2020. ](/news/2016/07/9/nato-members-in-warsaw-poland-agree-to-extend-their-mission-in-afghanistan-into-2017-and-announced-that-they-will-continue-to-fund-the-afg.md)
-_Context: 2016 Warsaw summit, Afghanistan's, NATO, Polish, Resolute Support, Warsaw, military personnel_
+_Context: 2016 Warsaw summit, Afghanistan, NATO, Polish, Resolute Support, Warsaw, military personnel_
 
 ### [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md)
 The Bahamas issues a rare travel advisory for its citizens visiting the US, recommending particular care for young men in cities affected by tensions over police shootings.

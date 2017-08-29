@@ -22,7 +22,7 @@ _Context: Howard University, Jena Six, Jena, Louisiana, NAACP, U.S._
 _Context: CNN, Iran, Kian Tajbakhsh, United States, social scientist_
 
 ### [ Al Qaeda's Deputy Leader Ayman al-Zawahri claims that the United States is being defeated in Iraq, Afghanistan, Somalia and North Africa. ](/news/2007/09/20/al-qaeda-s-deputy-leader-ayman-al-zawahri-claims-that-the-united-states-is-being-defeated-in-iraq-afghanistan-somalia-and-north-africa.md)
-_Context: Afghanistan's, Ayman al-Zawahri, Iraq, North African, Somalia, United States, al-Qaeda_
+_Context: Afghanistan, Ayman al-Zawahri, Iraq, North African, Somalia, United States, al-Qaeda_
 
 ### [ Qian Xun Xue case: Questions are asked in the New Zealand parliament as to why Nai Yin Xue was able to leave the country with his daughter despite a court order. ](/news/2007/09/20/qian-xun-xue-case-questions-are-asked-in-the-new-zealand-parliament-as-to-why-nai-yin-xue-was-able-to-leave-the-country-with-his-daughter.md)
 _Context: New Zealand parliament, Qian Xun Xue case, court order_

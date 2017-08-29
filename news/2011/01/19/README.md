@@ -7,7 +7,7 @@ An army commander in eastern Democratic Republic of Congo has been accused of le
 A suicide bomber driving anambulance killed 12 people and wounded more than 50 in an attackon Wednesday on an Iraqi police training centre in volatileDiyala province, a spokeswoman for the provincial governor said.
 
 ### [A suicide bomber kills at least 13 civilians in Afghanistan's Paktika Province. ](/news/2011/01/19/a-suicide-bomber-kills-at-least-13-civilians-in-afghanistan-s-paktika-province.md)
-_Context: Afghanistan's, Paktika Province, suicide bomber_
+_Context: Afghanistan, Paktika Province, suicide bomber_
 
 ### [China and the United States sign a $45 billion export deal, including 200 Boeing airplanes. ](/news/2011/01/19/china-and-the-united-states-sign-a-45-billion-export-deal-including-200-boeing-airplanes.md)
 China and the US sign a trade deal that includes the $19bn purchase of 200 Boeing aircraft according to a US official.

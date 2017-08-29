@@ -22,7 +22,7 @@ The universe is not empty. The space between stars and between galaxies is perme
 Archeologists have found a mass grave in Mexico City with four dozen human skeletons laid out in neat lines that could reveal clues about the 16th century Spanish conquest that killed millions.
 
 ### [ Twenty-seven people die during a suicide attack in Kabul, Afghanistan. ](/news/2009/02/11/twenty-seven-people-die-during-a-suicide-attack-in-kabul-afghanistan.md)
-_Context: Afghanistan's, Kabul, suicide bombing_
+_Context: Afghanistan, Kabul, suicide bombing_
 
 ### [ Chinese fishing vessels desert the Northern Limit Line, signaling a possible North Korean missile test. ](/news/2009/02/11/chinese-fishing-vessels-desert-the-northern-limit-line-signaling-a-possible-north-korean-missile-test.md)
 Chinese fishing vessels have moved out of waters near a disputed sea border between the two Koreas, a South Korean military official said on Wednesday, possibly signaling a North Korean short-range missile test is imminent.

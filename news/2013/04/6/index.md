@@ -7,7 +7,7 @@ A suicide bomber killed 22 people and wounded 60 in a crowded election campaign 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A bombing in Qalat, capital of the southern Zabul Province, kills three U.S. soldiers and two U.S. civilians, along with an Afghan doctor. An American civilian dies in another attack in the east of the country. ](/news/2013/04/6/a-bombing-in-qalat-capital-of-the-southern-zabul-province-kills-three-u-s-soldiers-and-two-u-s-civilians-along-with-an-afghan-doctor-a.md)
-_Context: Afghanistan's, Qalat, U.S., Zabul province_
+_Context: Afghanistan, Qalat, U.S., Zabul province_
 
 ### [Tuareg separatists in Northern Mali mark the one year anniversary since the founding of the unilaterally declared Azawad. ](/news/2013/04/6/tuareg-separatists-in-northern-mali-mark-the-one-year-anniversary-since-the-founding-of-the-unilaterally-declared-azawad.md)
 A Mali government spokesman says clashes between national soldiers and armed police have killed one soldier and injured a policeman.

@@ -4,7 +4,7 @@
 _Context: Barack Obama, Central African Republic, Democratic Republic of the Congo, Lord's Resistance Army insurgency, South Sudan, Uganda_
 
 ### [A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. ](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.md)
-_Context: Afghanistan's, Pakistan, Waziristan, drones launch_
+_Context: Afghanistan, Pakistan, Waziristan, drones launch_
 
 ### [Apple Inc. releases its latest smartphone model, the iPhone 4S. ](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.md)
 _Context: Apple Inc., iPhone 4S, smartphone_

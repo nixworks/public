@@ -10,7 +10,7 @@ Usman is the other target in the botched police Special Action Force (SAF) opera
 The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with a further 14,123 people injured.
 
 ### [At least eighteen people are killed in a traffic accident in Afghanistan's Badghis Province. ](/news/2015/05/3/at-least-eighteen-people-are-killed-in-a-traffic-accident-in-afghanistan-s-badghis-province.md)
-_Context: Afghanistan's, Badghis Province_
+_Context: Afghanistan, Badghis Province_
 
 ### [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md)
 _Context: Italian, Libya, people smuggler_

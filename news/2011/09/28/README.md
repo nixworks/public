@@ -1,7 +1,7 @@
 ## [2011-09-28](/news/2011/09/28/index.md)
 
 ### [The Prime Minister of New Zealand John Key announces that a second New Zealand Special Air Service soldier has died in fighting in Afghanistan. ](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.md)
-_Context: Afghanistan's, John Key, New Zealand Special Air Service, Prime Minister_
+_Context: Afghanistan, John Key, New Zealand Special Air Service, Prime Minister_
 
 ### [Greek transport workers commence a two-day strike over the latest austerity measures passed by the Hellenic Parliament overnight. ](/news/2011/09/28/greek-transport-workers-commence-a-two-day-strike-over-the-latest-austerity-measures-passed-by-the-hellenic-parliament-overnight.md)
 Transport workers across Greece have begun a two-day strike in response to the latest round of austerity measures.

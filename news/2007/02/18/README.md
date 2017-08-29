@@ -22,7 +22,7 @@ _Context: Ehud Olmert, Israel, Israeli Prime Minister, Palestinian, U.S._
 _Context: 18 February 2007 Baghdad bombings, Baghdad, Shia, car bomb_
 
 ### [ Eight U.S. troops are killed and 14 wounded in a helicopter crash in south-eastern Afghanistan, the U.S.-led coalition has said. ](/news/2007/02/18/eight-u-s-troops-are-killed-and-14-wounded-in-a-helicopter-crash-in-south-eastern-afghanistan-the-u-s-led-coalition-has-said.md)
-_Context: Afghanistan's, Military of the United States, helicopter crash_
+_Context: Afghanistan, Military of the United States, helicopter crash_
 
 ### [ Police in Pakistan detain 36 people, mainly Afghan refugees, over a suicide bombing inside a Quetta courtroom that killed a judge and 15 other people. ](/news/2007/02/18/police-in-pakistan-detain-36-people-mainly-afghan-refugees-over-a-suicide-bombing-inside-a-quetta-courtroom-that-killed-a-judge-and-15-ot.md)
 _Context: Afghan, Pakistan, Quetta, refugee, suicide bombing_

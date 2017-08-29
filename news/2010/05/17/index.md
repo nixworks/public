@@ -10,7 +10,7 @@ Noam Chomsky, the linguist and icon of the American left, had been barred from e
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ### [A Pamir Airways plane with 43 people on board crashes in Afghanistan between the cities of Kabul and Kunduz. ](/news/2010/05/17/a-pamir-airways-plane-with-43-people-on-board-crashes-in-afghanistan-between-the-cities-of-kabul-and-kunduz.md)
-_Context: Afghanistan's, Kabul, Kunduz, Pamir Airways, crashes_
+_Context: Afghanistan, Kabul, Kunduz, Pamir Airways, crashes_
 
 ### [Six people are attacked with a meat cleaver before the assailant commits suicide at a market in Foshan, China. ](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.md)
 _Context: China, Foshan, suicide_

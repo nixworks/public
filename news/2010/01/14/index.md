@@ -28,7 +28,7 @@ _Context: Ireland, Shannon Airport_
 Taoiseach Brian Cowen and British prime minister Gordon Brown Mr Brown played down the impact of the Iris Robinson scandal on&hellip;
 
 ### [A suicide bombing at a market in Afghanistan's Oruzgan Province kills 20 people. ](/news/2010/01/14/a-suicide-bombing-at-a-market-in-afghanistan-s-ora-zgan-province-kills-20-people.md)
-_Context: Afghanistan's, Oruzgan Province_
+_Context: Afghanistan, Oruzgan Province_
 
 ## [Previous Day...](/news/2010/01/13/index.md)
 

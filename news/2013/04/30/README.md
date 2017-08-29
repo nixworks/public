@@ -4,7 +4,7 @@
 _Context: Damascus_
 
 ### [A roadside bomb kills three members of NATO's ISAF force in Afghanistan. ](/news/2013/04/30/a-roadside-bomb-kills-three-members-of-nato-s-isaf-force-in-afghanistan.md)
-_Context: Afghanistan's, ISAF, NATO_
+_Context: Afghanistan, ISAF, NATO_
 
 ### [Police in Dhaka clash with factory workers protesting the disaster and advocating for capital punishment to be administered to the factory's owner. ](/news/2013/04/30/police-in-dhaka-clash-with-factory-workers-protesting-the-disaster-and-advocating-for-capital-punishment-to-be-administered-to-the-factory-s.md)
 Bangladeshi police use batons to disperse hundreds of angry factory workers calling for the death penalty for the owner of a collapsed building.

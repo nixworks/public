@@ -28,7 +28,7 @@ China summoned a U.S. envoy and threatened to impose sanctions on U.S. firms aft
 Finance ministers from the UN Security Council on Thursday unanimously backed a resolution aimed at ramping up sanctions against the Islamic State group and cutting off its revenue flows. US Treasury Secretary Jacob Lew led the council&#x27;s first-ever meeting of finance ministers, shoring up a maj...
 
 ### [The World Trade Organization approves Afghanistan's membership at its 10th ministerial conference in Nairobi, Kenya. Afghanistan becomes the 164th WTO member and is the 36th least developed country (LDC) in the global trade body. ](/news/2015/12/17/the-world-trade-organization-approves-afghanistan-s-membership-at-its-10th-ministerial-conference-in-nairobi-kenya-afghanistan-becomes-the.md)
-_Context: Afghanistan's, Kenya, Nairobi, World Trade Organization, least developed country_
+_Context: Afghanistan, Kenya, Nairobi, World Trade Organization, least developed country_
 
 ### [The United Nations General Assembly passes a resolution condemning North Korea's human rights abuses and calls on the Security Council to refer violations to the International Criminal Court. ](/news/2015/12/17/the-united-nations-general-assembly-passes-a-resolution-condemning-north-korea-s-human-rights-abuses-and-calls-on-the-security-council-to-re.md)
 The U.N. General Assembly on Thursday formally endorsed a resolution by a majority vote condemning North Korea&#039;s human rights record and urging for the sec

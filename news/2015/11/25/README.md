@@ -22,7 +22,7 @@ _Context: Central America, Houthi, South America, United Arab Emirates, Yemen, Y
 _Context: French Senate, ISIL, November 2015 Paris Attacks_
 
 ### [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md)
-_Context: Afghanistan's, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
+_Context: Afghanistan, American, Doctors without Borders, Kunduz, Kunduz hospital airstrike, War in Afghanistan (2015-present)_
 
 ### [An 18th-century pink Indian diamond worth at least $5 million and a Cartier diamond tiara are discovered in the jewelry recovered from Imelda Marcos. ](/news/2015/11/25/an-18th-century-pink-indian-diamond-worth-at-least-5-million-and-a-cartier-diamond-tiara-are-discovered-in-the-jewelry-recovered-from-imeld.md)
 Former first lady known for her love of shoes also had collection of jewellery that included single diamond worth $5m

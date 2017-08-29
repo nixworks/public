@@ -10,7 +10,7 @@ _Context: Palestinian Islamic Jihad, Sami Al-Arian_
 _Context: Colombia, Jorge Noguera, appeals court, militia, prison_
 
 ### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)
-_Context: Afghanistan's, Taliban, convoy_
+_Context: Afghanistan, Taliban, convoy_
 
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, United States government, visa-free travel_

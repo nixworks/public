@@ -4,7 +4,7 @@
 _Context: Libyan Civil War, Muammar Gaddafi, National Transitional Council, Sirte_
 
 ### [Rocket fire and gunshots are reported in the Afghan city of Kandahar. ](/news/2011/10/8/rocket-fire-and-gunshots-are-reported-in-the-afghan-city-of-kandahar.md)
-_Context: Afghanistan's, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ### [The United Nations High Commissioner for Refugees opens a new refugee camp in western Ethiopia for refugees from Sudan and South Sudan. ](/news/2011/10/8/the-united-nations-high-commissioner-for-refugees-opens-a-new-refugee-camp-in-western-ethiopia-for-refugees-from-sudan-and-south-sudan.md)
 _Context: Ethiopia, South Sudan, Sudan, United Nations High Commissioner for Refugees, refugee camp_

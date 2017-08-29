@@ -7,7 +7,7 @@ _Context: Thailand, Thailand legislative election, April 2006_
 _Context: April 2, 2006 Tornado Outbreak, Arkansas, Bootheel, Missouri, Tennessee, West_
 
 ### [ Lucent Technologies announced its merger agreement with Alcatel. ](/news/2006/04/2/lucent-technologies-announced-its-merger-agreement-with-alcatel.md)
-_Context: Alcatel, Lucent Technologies_
+_Context: Alcatel-Lucent, Lucent Technologies_
 
 ### [ The Human Rights Protection Party wins Samoa's general election. The HRPP was already the ruling party, and its leader Tuila'epa Sailele Malielegaoi the Prime Minister, but the party did better in the election than polls had indicated. ](/news/2006/04/2/the-human-rights-protection-party-wins-samoa-s-general-election-the-hrpp-was-already-the-ruling-party-and-its-leader-tuila-epa-sailele-ma.md)
 _Context: Human Rights Protection Party, Prime Minister, Samoa, Tuila'epa Sailele Malielegaoi, general election_

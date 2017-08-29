@@ -19,7 +19,7 @@ _Context: Black Panther Party, Capital punishment in the United States, Mumia Ab
 _Context: QSI Holdings, United States, United States Supreme Court_
 
 ### [A United Nations survey reveals Afghans have paid about US$2.5 (or GBP1.5) billion in bribes in the last year. ](/news/2010/01/19/a-united-nations-survey-reveals-afghans-have-paid-about-us-2-5-or-gbp1-5-billion-in-bribes-in-the-last-year.md)
-_Context: Afghanistan's, GBP, US$, United Nations, bribes_
+_Context: Afghanistan, GBP, US$, United Nations, bribes_
 
 ### [At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. ](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.md)
 _Context: Christian, Jos, Muslim, Nigeria, events earlier this year_

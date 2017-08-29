@@ -22,7 +22,7 @@ A group led by China’s Anbang Insurance Group Co. withdrew its $14 billion tak
 Three more bodies were recovered from under the debris of the flyover that collapsed on to vehicles and street vendors here, taking the toll to 24 even as five officials of the firm that was building the structure have been detained.
 
 ### [More than 50 heads of state as well as representatives from international organizations attend the annual Nuclear Security Summit in Washington, D.C., with the notable exception of Russia, which declined to attend. The main agenda of the two-day gathering is the discussion of North Korea and the threat it poses with its nuclear weapons and the possibility of ISIS extremists getting a nuclear weapon. ](/news/2016/03/31/more-than-50-heads-of-state-as-well-as-representatives-from-international-organizations-attend-the-annual-nuclear-security-summit-in-washing.md)
-_Context: ISIL, North Korea, Nuclear Security Summit, Nuclear Security Summit, Russia, Washington, D.C., intercontinental ballistic_
+_Context: ISIL, North Korea, North Korea and weapons of mass destruction, Nuclear Security Summit, Nuclear Security Summit, Russia, Washington, D.C._
 
 ### [Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. ](/news/2016/03/31/former-deputy-prime-minister-of-serbia-and-nationalist-politician-vojislav-a-ea-elj-is-acquitted-of-all-nine-charges-of-committing-atrocit.md)
 Former Serbian deputy PM was charged by ICTY with crimes against humanity and war crimes in Croatia and Bosnia in 1990s

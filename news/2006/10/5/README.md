@@ -25,7 +25,7 @@ _Context: Georgian, Post-Soviet, Russia, municipal elections, tensions_
 _Context: Lebanon, NTV, Turkey_
 
 ### [ NATO expands its security mission to the whole of Afghanistan, taking command of more than 13,000 U.S. troops in the east of the country. ](/news/2006/10/5/nato-expands-its-security-mission-to-the-whole-of-afghanistan-taking-command-of-more-than-13-000-u-s-troops-in-the-east-of-the-country.md)
-_Context: Afghanistan's, NATO_
+_Context: Afghanistan, NATO_
 
 ### [ Thai authorities take steps to hold peace talks with two Muslim insurgencies, the Patani United Liberation Organisation (PULO) and Bersatu, who are fighting the Government in the Muslim-majority southern provinces of Thailand. ](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.md)
 _Context: Bersatu, Muslim, Patani United Liberation Organisation, Thailand_

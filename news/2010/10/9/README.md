@@ -7,7 +7,7 @@ _Context: Afghan forces, Badghis, Murghab, NATO_
 _Context: Chhattisgarh, Mahasamund, naxal_
 
 ### [Four Italian soldiers die following an attack in the Farah area, Afghanistan. ](/news/2010/10/9/four-italian-soldiers-die-following-an-attack-in-the-farah-area-afghanistan.md)
-_Context: Afghanistan's, Farah Province_
+_Context: Afghanistan, Farah Province_
 
 ### [Riot police and dogs clash with protesters as demonstrations lead to violence in England. There are injuries and 5 men are arrested in the country's largest police operation for a quarter of a century (25 years). ](/news/2010/10/9/riot-police-and-dogs-clash-with-protesters-as-demonstrations-lead-to-violence-in-england-there-are-injuries-and-5-men-are-arrested-in-the-c.md)
 Thirteen men are arrested as demonstrators stage two protests in Leicester, sparking the biggest police operation in the county for 25 years.

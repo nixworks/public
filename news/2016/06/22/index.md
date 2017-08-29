@@ -22,7 +22,7 @@ At least 56 people die in Bihar and more killed in nearby Uttar Pradesh, with mo
 A tornado and hailstorm kill at least 98 people and injure nearly 800 in the east Chinese province of Jiangsu, says state media.
 
 ### [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md)
-_Context: BM25 Musudan, North Korea, North Korea-South Korea relations, South Korea, intercontinental ballistic, intermediate-range ballistic missile_
+_Context: BM25 Musudan, North Korea, North Korea and weapons of mass destruction, North Korea-South Korea relations, South Korea, intermediate-range ballistic missile_
 
 ### [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md)
 Jordan declares its border regions with Syria and Iraq to be closed military zones, following a deadly suicide bombing that killed six

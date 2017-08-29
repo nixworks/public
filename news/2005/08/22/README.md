@@ -13,7 +13,7 @@ _Context: Beirut, Lebanon_
 _Context: Bavaria, Germany, Piano Man_
 
 ### [ Conflict in Afghanistan: US Troops claim to have killed more than one hundred suspects following raids in south and East Afghanistan. ](/news/2005/08/22/conflict-in-afghanistan-us-troops-claim-to-have-killed-more-than-one-hundred-suspects-following-raids-in-south-and-east-afghanistan.md)
-_Context: Afghanistan's, US Troops, War in Afghanistan (2001-present), suspect_
+_Context: Afghanistan, US Troops, War in Afghanistan (2001-present), suspect_
 
 ### [ Conflict in Iraq: US Troops claim that they will investigate the circumstances following the death of a cousin of Iraq's envoy to the United Nations. The man died from a bullet wound to the head as he opened his door to US Soldiers in western Iraq. ](/news/2005/08/22/conflict-in-iraq-us-troops-claim-that-they-will-investigate-the-circumstances-following-the-death-of-a-cousin-of-iraq-s-envoy-to-the-unite.md)
 _Context: Conflict in Iraq, Iraq, US Troops, US soldiers, United Nations, bullet, cousin, envoy_

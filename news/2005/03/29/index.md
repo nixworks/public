@@ -37,7 +37,7 @@ _Context: Domestic Relations Bill, Kampala, Muslim, Uganda, polygamy_
 _Context: France, marriage_
 
 ### [ Dam bursts in South-eastern Afghanistan near the city of Ghazni. At least 6 people dead. ](/news/2005/03/29/dam-bursts-in-south-eastern-afghanistan-near-the-city-of-ghazni-at-least-6-people-dead.md)
-_Context: Afghanistan's, Ghazni, dam_
+_Context: Afghanistan, Ghazni, dam_
 
 ### [ British bullfighter Frank Evans, known as "El Ingles", is about to retire after 40 years. ](/news/2005/03/29/british-bullfighter-frank-evans-known-as-el-ingla-c-s-is-about-to-retire-after-40-years.md)
 _Context: Bullfighting, Frank Evans_

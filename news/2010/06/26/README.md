@@ -58,7 +58,7 @@ North Korea is set to convene its party representatives in early September to el
 A top Italian mafia boss is arrested in the south of France after spending 10 years on the run, officials say.
 
 ### [Four American service personnel are killed in Afghanistan. ](/news/2010/06/26/four-american-service-personnel-are-killed-in-afghanistan.md)
-_Context: Afghanistan's_
+_Context: Afghanistan_
 
 ### [Former Vice President of the United States Dick Cheney, who has a long history of heart problems, is hospitalized. ](/news/2010/06/26/former-vice-president-of-the-united-states-dick-cheney-who-has-a-long-history-of-heart-problems-is-hospitalized.md)
 Former US vice president Dick Cheney, who has a long history of heart problems, has been hospitalised.

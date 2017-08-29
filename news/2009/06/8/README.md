@@ -25,7 +25,7 @@ _Context: Gabon, Omar Bongo, President, heart attack_
 _Context: North Korea, United States, found guilty, penal labour_
 
 ### [ North Korea restricts access to the Sea of Japan, near Wonsan, from June 10-30, possibly indicating future missile testing. ](/news/2009/06/8/north-korea-restricts-access-to-the-sea-of-japan-near-wonsan-from-june-10a30-possibly-indicating-future-missile-testing.md)
-_Context: North Korea, Wonsan, intercontinental ballistic, the sea_
+_Context: North Korea, North Korea and weapons of mass destruction, Wonsan, the sea_
 
 ### [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md)
 _Context: China, H1N1, Louisiana, Mayor, New Orleans, Ray Nagin, Shanghai, United States, quarantine, swine flu_

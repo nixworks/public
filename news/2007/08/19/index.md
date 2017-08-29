@@ -28,7 +28,7 @@ _Context: Caribbean, Cayman Islands, Dominican, Hurricane Dean, Jamaica, Martini
 _Context: Thailand, constitution, referendum_
 
 ### [ A German woman taken hostage yesterday in Kabul, Afghanistan is found during a police raid on a house. Multiple abductors arrested. ](/news/2007/08/19/a-german-woman-taken-hostage-yesterday-in-kabul-afghanistan-is-found-during-a-police-raid-on-a-house-multiple-abductors-arrested.md)
-_Context: Afghanistan's, German, Kabul_
+_Context: Afghanistan, German, Kabul_
 
 ### [ The second fire this year in the same building in Pakistan kills 1, injures four. (Wikinews)](/news/2007/08/19/the-second-fire-this-year-in-the-same-building-in-pakistan-kills-1-injures-four-wikinews.md)
 _Context: (Wikinews), Pakistan_

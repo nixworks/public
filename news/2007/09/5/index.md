@@ -50,7 +50,7 @@ _Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfor
 _Context: Federal Court of Justice, Karlsruhe, terrorism_
 
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan's, United States, War in Afghanistan (2001-present)_
+_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ### [ Israeli tanks and bulldozers enter the Gaza Strip in a limited operation against rocket launchers. ](/news/2007/09/5/israeli-tanks-and-bulldozers-enter-the-gaza-strip-in-a-limited-operation-against-rocket-launchers.md)
 _Context: Gaza Strip, Israel_

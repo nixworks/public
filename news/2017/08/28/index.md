@@ -12,5 +12,8 @@ _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, sam
 ### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while in his care is significantly higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
 Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
 
+### [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico.md)
+_Context: Clovis, New Mexico_
+
 ## [Previous Day...](/news/2017/08/27/index.md)
 

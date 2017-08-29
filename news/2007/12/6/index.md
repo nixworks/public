@@ -7,7 +7,7 @@ _Context: China_
 _Context: European Pressurized Reactor, Flamanville Nuclear Power Plant, France, deal with China_
 
 ### [ United States President George W. Bush writes to North Korean leader Kim Jong-Il asking him to fully disclose North Korea's nuclear program. ](/news/2007/12/6/united-states-president-george-w-bush-writes-to-north-korean-leader-kim-jong-il-asking-him-to-fully-disclose-north-korea-s-nuclear-program.md)
-_Context: George W. Bush, Kim Jong-il, North Korea, President, United States, intercontinental ballistic_
+_Context: George W. Bush, Kim Jong-il, North Korea, North Korea and weapons of mass destruction, President, United States_
 
 ### [ The United States Central Intelligence Agency admits to destroying at least two videotapes documenting the interrogation of two al-Qaeda operatives in custody following Congressional scrutiny. ](/news/2007/12/6/the-united-states-central-intelligence-agency-admits-to-destroying-at-least-two-videotapes-documenting-the-interrogation-of-two-al-qaeda-op.md)
 The C.I.A. destroyed videotapes in 2005 amid scrutiny about its secret detention program, according to government officials, raising questions about whether C.I.A. officials withheld information from the courts and the Sept. 11 commission.

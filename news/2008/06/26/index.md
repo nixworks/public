@@ -4,7 +4,7 @@
 Internet regulators on Thursday voted to relax rules on domain names like .com or .edu, which could pave the way for companies or individuals to create an array of new addresses for the Web.
 
 ### [ A former Taliban fighter claims that members of the Pakistan military secretly supported the insurgency in Afghanistan by providing training and material support. ](/news/2008/06/26/a-former-taliban-fighter-claims-that-members-of-the-pakistan-military-secretly-supported-the-insurgency-in-afghanistan-by-providing-trainin.md)
-_Context: Afghanistan's, Pakistan, Taliban_
+_Context: Afghanistan, Pakistan, Taliban_
 
 ### [ North Korea releases details of its nuclear program and the United States removes it from its list of state sponsors of terrorism. ](/news/2008/06/26/north-korea-releases-details-of-its-nuclear-program-and-the-united-states-removes-it-from-its-list-of-state-sponsors-of-terrorism.md)
 _Context: North Korea, United States, begins, terrorism_

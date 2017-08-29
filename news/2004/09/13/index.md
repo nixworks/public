@@ -13,7 +13,7 @@ _Context: Colin Powell, Iraq, John Kerry, Meet the Press, NBC, President, Saddam
 _Context: Abu Musab al-Zarqawi, Al Arabiya, Baghdad, Fallujah, Iraqi, Iraqi resistance, Jordan, al-Qaeda, helicopter_
 
 ### [ In Afghanistan, 22 insurgents believed to be members of the Taliban and al-Qaeda are killed in the province of Zabul. Zabul Province is widely regarded as a Taleban stronghold. ](/news/2004/09/13/in-afghanistan-22-insurgents-believed-to-be-members-of-the-taliban-and-al-qaeda-are-killed-in-the-province-of-zabul-zabul-province-is-wid.md)
-_Context: Afghanistan's, Taliban, Zabul, al-Qaeda, stronghold_
+_Context: Afghanistan, Taliban, Zabul, al-Qaeda, stronghold_
 
 ### [ Former UDA member Ken Barrett pleads guilty to the murder of solicitor Pat Finucane in 1989&mdash;one of the most controversial murders of Northern Ireland's Troubles. ](/news/2004/09/13/former-uda-member-ken-barrett-pleads-guilty-to-the-murder-of-solicitor-pat-finucane-in-1989-mdash-one-of-the-most-controversial-murders-of.md)
 _Context: Northern Ireland, Pat Finucane, Troubles, Ulster Defence Association_

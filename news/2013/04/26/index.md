@@ -16,7 +16,7 @@ The fire broke out in the early hours of Friday in the one-story hospital in the
 _Context: Bangladesh_
 
 ### [At least 30 people die in southern Afghanistan after a bus crashes into the wreckage of a truck attacked by Taliban insurgents. ](/news/2013/04/26/at-least-30-people-die-in-southern-afghanistan-after-a-bus-crashes-into-the-wreckage-of-a-truck-attacked-by-taliban-insurgents.md)
-_Context: Afghanistan's, Taliban_
+_Context: Afghanistan, Taliban_
 
 ### [South Korea announces that it will withdraw its remaining workers from North Korea's Kaesong Industrial Region to protect their safety after the North Korean government rejects talks. ](/news/2013/04/26/south-korea-announces-that-it-will-withdraw-its-remaining-workers-from-north-korea-s-kaesong-industrial-region-to-protect-their-safety-after.md)
 _Context: Kaesong area, North Korea, South Korea_

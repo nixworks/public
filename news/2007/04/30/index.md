@@ -28,7 +28,7 @@ A smoking ban in enclosed public places has come into effect in Northern Ireland
 _Context: Bangkok, Intergovernmental Panel on Climate Change, climate change_
 
 ### [ The US-led Coalition claims to have killed scores of Taliban forces in Afghanistan. ](/news/2007/04/30/the-us-led-coalition-claims-to-have-killed-scores-of-taliban-forces-in-afghanistan.md)
-_Context: Afghanistan's, Taliban, United States_
+_Context: Afghanistan, Taliban, United States_
 
 ### [ Five men arrested in 2004 as part of Operation Crevice are convicted at the Old Bailey of a plot to explode fertiliser bombs in the UK. ](/news/2007/04/30/five-men-arrested-in-2004-as-part-of-operation-crevice-are-convicted-at-the-old-bailey-of-a-plot-to-explode-fertiliser-bombs-in-the-uk.md)
 The Sydney Morning Herald 404 Page
