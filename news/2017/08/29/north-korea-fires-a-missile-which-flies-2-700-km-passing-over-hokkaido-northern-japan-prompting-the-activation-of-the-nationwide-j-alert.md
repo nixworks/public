@@ -7,7 +7,8 @@ North Korea has test fired a missile over Japan in an unprecedented act that is 
 
 ### Source:
 
-1. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-japan-missile-over-test-launch-kim-jong-un-trump-latest-news-updates-a7917401.html)
+1. [Reuters](http://www.reuters.com/article/us-northkorea-missiles-usa-haley-idUSKCN1B91Q8?il=0)
+2. [The Independent](http://www.independent.co.uk/news/world/asia/north-korea-japan-missile-over-test-launch-kim-jong-un-trump-latest-news-updates-a7917401.html)
 
 ### Related:
 
