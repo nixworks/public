@@ -6,6 +6,9 @@ At least five people were killed as heavy monsoon rain deluged India&#39;s finan
 ### [Tropical Storm Harvey makes its second landfall in the US state of Louisiana as the death toll from Hurricane Harvey rises to 30. ](/news/2017/08/30/tropical-storm-harvey-makes-its-second-landfall-in-the-us-state-of-louisiana-as-the-death-toll-from-hurricane-harvey-rises-to-30.md)
 The death toll from Harvey was rising and officials said their rescue effort was nowhere near done.
 
+### [Philadelphia is suing U.S. Attorney General Jeff Sessions over what officials call "unlawful" immigration restrictions placed on a major federal grant.In the lawsuit, the city is asking the court to stop Sessions from adding these restrictions to a grant program used to pay police overtime, train officers, upgrade courtroom technology and equipment. ](/news/2017/08/30/philadelphia-is-suing-u-s-attorney-general-jeff-sessions-over-what-officials-call-unlawful-immigration-restrictions-placed-on-a-major-fed.md)
+_Context: Jeff Sessions, Legal challenges to Executive Orders 13769 and 13780, Philadelphia, U.S. Attorney General_
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -29,8 +32,8 @@ Rivers were still rising and rescue work continued in southeast Texas, where off
 ### [North Korea fires a missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-the-nationwide-j-alert.md)
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
-### [A grand jury in the U.S. capital has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-the-u-s-capital-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)
-_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., U.S. capital, grand jury_
+### [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)
+_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., Washington, D.C., grand jury_
 
 ### [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md)
 _Context: European migrant crisis, Libyan Navy, Tripoli_
@@ -60,7 +63,7 @@ _Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, sam
 ### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while in his care is significantly higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
 Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
 
-### [Two people are killed and four are hospitalised in a shooting in a library in the American town of Clovis, New Mexico, United States. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalised-in-a-shooting-in-a-library-in-the-american-town-of-clovis-new-mexico-united-states.md)
+### [Two people are killed and four are hospitalized in a shooting in a library in the U.S. town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalized-in-a-shooting-in-a-library-in-the-u-s-town-of-clovis-new-mexico.md)
 A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library was suicidal, his pastor told a newspaper.
 
 ### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)

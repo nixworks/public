@@ -15,8 +15,8 @@ Rivers were still rising and rescue work continued in southeast Texas, where off
 ### [North Korea fires a missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-the-nationwide-j-alert.md)
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
-### [A grand jury in the U.S. capital has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-the-u-s-capital-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)
-_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., U.S. capital, grand jury_
+### [A grand jury in Washington, D.C. has issued indictments for 19 people, including 15 identified as Turkish security officials, for attacking protesters in May 2017. ](/news/2017/08/29/a-grand-jury-in-washington-d-c-has-issued-indictments-for-19-people-including-15-identified-as-turkish-security-officials-for-attacking.md)
+_Context: 2017 clashes at the Turkish Ambassador's Residence in Washington, D.C., Washington, D.C., grand jury_
 
 ### [The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. ](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-three-operations-in-the-seas-west-of-the-capital-tripoli.md)
 _Context: European migrant crisis, Libyan Navy, Tripoli_
