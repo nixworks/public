@@ -1,6 +1,6 @@
 ### [2017-08-30](/news/2017/08/30/index.md)
 
-# Philadelphia is suing U.S. Attorney General Jeff Sessions over what officials call "unlawful" immigration restrictions placed on a major federal grant.In the lawsuit, the city is asking the court to stop Sessions from adding these restrictions to a grant program used to pay police overtime, train officers, upgrade courtroom technology and equipment. 
+# Philadelphia is suing U.S. Attorney General Jeff Sessions over what officials call "unlawful" immigration restrictions placed on a major federal grant. In the lawsuit, the city is asking the court to stop Sessions from adding these restrictions to a grant program used to pay police overtime, train officers, upgrade courtroom technology and equipment. 
 
 
 
