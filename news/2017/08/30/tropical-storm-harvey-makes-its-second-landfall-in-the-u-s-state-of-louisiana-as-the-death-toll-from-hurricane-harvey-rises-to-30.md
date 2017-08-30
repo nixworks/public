@@ -1,0 +1,23 @@
+### [2017-08-30](/news/2017/08/30/index.md)
+
+# Tropical Storm Harvey makes its second landfall in the U.S. state of Louisiana as the death toll from Hurricane Harvey rises to 30. 
+
+The death toll from Harvey was rising and officials said their rescue effort was nowhere near done.
+
+
+### Source:
+
+1. [New York Times](https://www.nytimes.com/2017/08/29/us/harvey-texas-louisiana.html?emc=edit_na_20170830&nl=breaking-news&nlid=80824687&ref=headline&_r=0)
+
+### Related:
+
+1. [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md) _Context: Hurricane Harvey_
+2. [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md) _Context: Hurricane Harvey_
+3. [The death toll from Hurricane Harvey in the American city of Houston, Texas, rises to three with several more days of heavy rain causing "catastrophic" floods to come. ](/news/2017/08/27/the-death-toll-from-hurricane-harvey-in-the-american-city-of-houston-texas-rises-to-three-with-several-more-days-of-heavy-rain-causing-ca.md) _Context: Hurricane Harvey_
+4. [Harvey is now a tropical storm with sustained winds of 70 mph (110 kmh). It made landfall on Texas's eastern coast, the eye striking the town of Rockport, as a Category 4 hurricane. It's the strongest storm to hit the state since 1961. Harvey is expected to maintain tropical storm strength, with heavy rains and flooding, for at least four days. ](/news/2017/08/26/harvey-is-now-a-tropical-storm-with-sustained-winds-of-70-mph-110-kmh-it-made-landfall-on-texas-s-eastern-coast-the-eye-striking-the-tow.md) _Context: Hurricane Harvey_
+5. [In anticipation of Hurricane Harvey, residents from Corpus Christi to Galveston, Texas, and workers from Gulf of Mexico oil platforms are evacuating the region. The storm makes landfall between Port Aransas and Port O'Connor as a Category 4 hurricane around 11 p.m. EDT (0300 UTC, August 26) as the strongest storm to hit the United States mainland since 2004. The National Hurricane Center predicts Harvey will linger over Texas for days, dumping 15 - in, and as much as 35 in of rain on some parts of the state. ](/news/2017/08/25/in-anticipation-of-hurricane-harvey-residents-from-corpus-christi-to-galveston-texas-and-workers-from-gulf-of-mexico-oil-platforms-are-ev.md) _Context: Hurricane Harvey_
+6. [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md) _Context: Hurricane Harvey_
+7. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Louisiana_
+8. [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama. ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md) _Context: Louisiana_
+9. [Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at-le.md) _Context: Louisiana_
+10. [John N. Kennedy of the Republican Party defeats Foster Campbell of the Democratic Party to become the junior Senator for Louisiana. ](/news/2016/12/10/john-n-kennedy-of-the-republican-party-defeats-foster-campbell-of-the-democratic-party-to-become-the-junior-senator-for-louisiana.md) _Context: Louisiana_
