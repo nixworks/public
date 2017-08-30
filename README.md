@@ -3,7 +3,7 @@
 ### [At least 11 Afghan civilians were killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-were-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-i.md)
 At least 11 Afghan civilians were killed and 16 wounded on Wednesday when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar province, east of the capital, Kabul, the local governor said.
 
-### [At least five people are killed in the Indian city of Mumbai caused by the worst monsoon in years. ](/news/2017/08/30/at-least-five-people-are-killed-in-the-indian-city-of-mumbai-caused-by-the-worst-monsoon-in-years.md)
+### [At least five people are killed in the Indian city of Mumbai caused by the worst monsoon in years. More than 1,200 people are killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-five-people-are-killed-in-the-indian-city-of-mumbai-caused-by-the-worst-monsoon-in-years-more-than-1-200-people-are-killed-across.md)
 At least five people were killed as heavy monsoon rain deluged India&#39;s financial capital Mumbai, causing transport chaos and forcing schools and many offices to close on Wednesday.
 
 ### [Tropical Storm Harvey makes its second landfall in the US state of Louisiana as the death toll from Hurricane Harvey rises to 30. ](/news/2017/08/30/tropical-storm-harvey-makes-its-second-landfall-in-the-us-state-of-louisiana-as-the-death-toll-from-hurricane-harvey-rises-to-30.md)
