@@ -7,7 +7,7 @@ _Context: Fariduddin Ganjshakar, Pakistan, Pakpattan, Punjab, Sufi, bomb, shrine
 _Context: Orakzai, Tanda_
 
 ### [An Afghan official claims that a NATO air strike killed about 25 people in Helmand Province, Afghanistan. ](/news/2010/10/25/an-afghan-official-claims-that-a-nato-air-strike-killed-about-25-people-in-helmand-province-afghanistan.md)
-_Context: Afghan government, Afghanistan, Helmand Province, NATO_
+_Context: Afghan government, Afghanistan's, Helmand Province, NATO_
 
 ### [A Sahrawi boy was killed and five other injured by the Moroccan Army near a protest camp in Western Sahara. ](/news/2010/10/25/a-sahrawi-boy-was-killed-and-five-other-injured-by-the-moroccan-army-near-a-protest-camp-in-western-sahara.md)
 _Context: Sahrawi, Western Sahara_
@@ -70,7 +70,7 @@ The leader of a terrorist organisation that plotted to wage violent jihad in Aus
 The EU is for the first time sending border guards to help Greece stem an influx of migrants entering across the land border with Turkey.
 
 ### [The trial of the alleged killer of Chandra Levy, Ingmar Guandique of El Salvador, begins in Washington D.C. ](/news/2010/10/25/the-trial-of-the-alleged-killer-of-chandra-levy-ingmar-guandique-of-el-salvador-begins-in-washington-d-c.md)
-_Context: Chandra Levy, El Salvador, Washington, D.C._
+_Context: Chandra Levy, El Salvador, U.S. capital_
 
 ### [Liberal Democrat Deputy Leader Simon Hughes is threatening a backbench rebellion over proposed housing benefits cut, which might threaten the stability of the United Kingdom coalition government, of which the Liberal Democrats are a part of. ](/news/2010/10/25/liberal-democrat-deputy-leader-simon-hughes-is-threatening-a-backbench-rebellion-over-proposed-housing-benefits-cut-which-might-threaten-th.md)
 Lib Dem deputy leader Simon Hughes threatens a backbench rebellion over planned cuts to housing benefit.

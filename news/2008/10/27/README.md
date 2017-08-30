@@ -4,7 +4,7 @@
 _Context: Alaska, Ted Stevens, United States, United States Senate_
 
 ### [ The Washington, D.C. Metro announces it will randomly search "backpacks, gym bags and any other containers that riders carry with them onto the bus and rail system" during periods of increased threat. ](/news/2008/10/27/the-washington-d-c-metro-announces-it-will-randomly-search-backpacks-gym-bags-and-any-other-containers-that-riders-carry-with-them-onto.md)
-_Context: Washington Metro, Washington, D.C._
+_Context: U.S. capital, Washington Metro_
 
 ### [ Tutsi rebels under Laurent Nkunda are reportedly advancing on the city of Goma in the Democratic Republic of the Congo. ](/news/2008/10/27/tutsi-rebels-under-laurent-nkunda-are-reportedly-advancing-on-the-city-of-goma-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Goma, Laurent Nkunda, Tutsi_

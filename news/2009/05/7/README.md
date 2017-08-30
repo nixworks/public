@@ -15,7 +15,7 @@ _Context: Napier, New Zealand, killed, police officer_
 ### [ Canada experiences its first swine influenza-related death. ](/news/2009/05/7/canada-experiences-its-first-swine-influenza-related-death.md)
 Federal health officials would not confirm reports Thursday that an elderly woman who died in northern Alberta had swine flu.
 
-### [ Wildfires near Santa Barbara, California, United States, burn 3,000|acre|km2 of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-km2-of-land-and-force-15-000-people-to-evacuate.md)
+### [ Wildfires near Santa Barbara, California, United States, burn 3,000 acre of land and force 15,000 people to evacuate. ](/news/2009/05/7/wildfires-near-santa-barbara-california-united-states-burn-3-000-acre-of-land-and-force-15-000-people-to-evacuate.md)
 _Context: California, Santa Barbara, California, United States, Wildfires, evacuation centers_
 
 ### [ The Armed Forces and the Union of Forces for Democracy and Development battle near Goz Beida, Ouaddai Region, Chad. ](/news/2009/05/7/the-armed-forces-and-the-union-of-forces-for-democracy-and-development-battle-near-goz-bea-da-ouaddaa-region-chad.md)

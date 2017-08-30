@@ -36,7 +36,7 @@ Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German med
 ### [French Interior Minister Brice Hortefeux states that Saudi Arabia has warned that Al-Qaeda is targeting Europe particularly France. ](/news/2010/10/17/french-interior-minister-brice-hortefeux-states-that-saudi-arabia-has-warned-that-al-qaeda-is-targeting-europe-particularly-france.md)
 Saudi Arabia has warned France it is the target of an imminent al-Qaeda attack, French Interior Minister Brice Hortefeux says.
 
-### [President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5|5+1 group in November, but the Islamic Republic's previous conditions for holding talks should be met. ](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.md)
+### [President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5 5+1 group in November, but the Islamic Republic's previous conditions for holding talks should be met. ](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.md)
 _Context: Iran, Islamic republic, Mahmoud Ahmadinejad_
 
 ### [A planned summit between Israeli Prime Minister Benjamin Netanyahu, Palestinian president Mahmoud Abbas, and Egyptian President Hosni Mubarak scheduled for October 21 in Paris is postponed amidst Palestinian ojections to a decision by Israel to construct 240 housing units in east Jerusalem](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.md)
@@ -64,13 +64,13 @@ _Context:  United Democratic Forces, Rwanda, Victoire Ingabire_
 _Context: Ayad Allawi, Iran, Iraq Prime Minister, Middle East_
 
 ### [Iranian police have arrested seven Afghan border guards who had illegally crossed the border, border police chief Hossein Zolfaqari announced. ](/news/2010/10/17/iranian-police-have-arrested-seven-afghan-border-guards-who-had-illegally-crossed-the-border-border-police-chief-hossein-zolfaqari-announce.md)
-_Context: Afghanistan, Hossein Zolfaqari, Iran_
+_Context: Afghanistan's, Hossein Zolfaqari, Iran_
 
 ### [Tens of thousands of people rally in Rome against a weakening of labour rights being carried out by the country's government; rumours spread by politicians of clashes caused by "anarchist infiltration" prove unfounded. ](/news/2010/10/17/tens-of-thousands-of-people-rally-in-rome-against-a-weakening-of-labour-rights-being-carried-out-by-the-country-s-government-rumours-spread.md)
 _Context: Rome_
 
 ### [The U.K. government urges councils to stop giving charity tax breaks to Scientology, an organization described as a cult by a high court judge. ](/news/2010/10/17/the-u-k-government-urges-councils-to-stop-giving-charity-tax-breaks-to-scientology-an-organization-described-as-a-cult-by-a-high-court-jud.md)
-_Context: Britain, Scientology, cult_
+_Context: Scientology, United Kingdom, cult_
 
 ### [Olive Lembe di Sita, the First Lady of the Democratic Republic of the Congo, leads a march of thousands of women against sexual violence in the town of Bukavu in the east of the country where hundreds of women have been raped. ](/news/2010/10/17/olive-lembe-di-sita-the-first-lady-of-the-democratic-republic-of-the-congo-leads-a-march-of-thousands-of-women-against-sexual-violence-in.md)
 _Context: Bukavu, Democratic Republic of the Congo, First Lady, Olive Lembe di Sita, sexual violence_

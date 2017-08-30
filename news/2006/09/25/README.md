@@ -10,7 +10,7 @@ _Context: Iranian President, Mahmoud Ahmadinejad, United States, Zionist, govern
 _Context: Condoleezza Rice, Foreign Minister, Kasymzhomart Tokayev, Kazakhstan, Nursultan Nazarbayev's, Organization for Security and Cooperation in Europe, United States Secretary of State, United States government, War in Afghanistan (2001-present), War in Iraq_
 
 ### [ Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. ](/news/2006/09/25/iraq-insurgency-british-forces-are-reported-to-have-killed-senior-al-qaeda-operative-omar-al-faruq-during-a-gunfight-in-basra-iraq.md)
-_Context: Basra, Britain, British military personnel, Iraq, Omar al-Faruq, al-Qaeda, insurgents_
+_Context: Basra, British military personnel, Iraq, Omar al-Faruq, United Kingdom, al-Qaeda, insurgents_
 
 ### [ The family of the lone survivor in the crash of Comair Flight 5191 says doctors have amputated co-pilot James Polehinke's left leg, and he has no memory of the crash. ](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.md)
 _Context: Comair Flight 5191, co-pilot_
@@ -22,7 +22,7 @@ _Context: 28 September, Maria Fyodorovna, Nicholas II, Peter and Paul Cathedral,
 _Context: Kismayo, Somalia, radical Islamists, sharia law_
 
 ### [ Two gunmen kill Safia Ahmed-jan, the provincial director of Afghanistan's Ministry of Women's Affairs outside her home in Kandahar. ](/news/2006/09/25/two-gunmen-kill-safia-ahmed-jan-the-provincial-director-of-afghanistan-s-ministry-of-women-s-affairs-outside-her-home-in-kandahar.md)
-_Context: Afghanistan, Kandahar, Safia Ahmed-jan_
+_Context: Afghanistan's, Kandahar, Safia Ahmed-jan_
 
 ### [ Chen Liangyu, the Shanghai Communist Party of China General Secretary and a senior member of the Shanghai clique, is dismissed for corruption. ](/news/2006/09/25/chen-liangyu-the-shanghai-communist-party-of-china-general-secretary-and-a-senior-member-of-the-shanghai-clique-is-dismissed-for-corrupti.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News

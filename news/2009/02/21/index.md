@@ -4,7 +4,7 @@
 _Context: Khyber Pakhtunkhwa, Pakistan, Taliban, War in North-West Pakistan, ceasefire_
 
 ### [ The International Security Assistance Force kills 13 people in Guzara, Herat, Afghanistan. ](/news/2009/02/21/the-international-security-assistance-force-kills-13-people-in-guzara-herat-afghanistan.md)
-_Context: Afghanistan, Guzara, Herat Province, International Security Assistance Force, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Guzara, Herat Province, International Security Assistance Force, War in Afghanistan (2001-present)_
 
 ### [ Italy's Democratic Party elects Deputy Secretary Dario Franceschini as its new Secretary. ](/news/2009/02/21/italy-s-democratic-party-elects-deputy-secretary-dario-franceschini-as-its-new-secretary.md)
 Lawyer&#x20;and&#x20;sometime-novelist&#x20;Dario&#x20;Franceschini&#x20;was&#x20;elected&#x20;Saturday&#x20;to&#x20;lead&#x20;the&#x20;Italian&#x20;opposition&#x20;Democratic&#x20;Party.&#x20;His&#x20;subtle&#x20;rise&#x20;to&#x20;the&#x20;head&#x20;of&#x20;the&#x20;party&#x20;was&#x20;realized&#x2...

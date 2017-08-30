@@ -1,6 +1,6 @@
 ### [2005-09-15](/news/2005/09/15/index.md)
 
-#  Nintendo finally reveals the controller for its next generation console on its website. Reactions from gamers are mixed. [http://www.nintendo.com/newsarticle?articleid=TfyOgnUc7zB-ZlzdQvMhKJOgS5LsR2nK (Nintendo)]url=https://web.archive.org/web/20071012202551/http://www.nintendo.com/newsarticle?articleid=TfyOgnUc7zB-ZlzdQvMhKJOgS5LsR2nK |date=October 12, 2007 
+#  Nintendo finally reveals the controller for its next generation console on its website. Reactions from gamers are mixed. [http://www.nintendo.com/newsarticle?articleid=TfyOgnUc7zB-ZlzdQvMhKJOgS5LsR2nK (Nintendo)]url=https://web.archive.org/web/20071012202551/http://www.nintendo.com/newsarticle?articleid=TfyOgnUc7zB-ZlzdQvMhKJOgS5LsR2nK  12, 2007 
 
 
 

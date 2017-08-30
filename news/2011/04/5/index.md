@@ -4,7 +4,7 @@
 _Context: Abidjan, Alassane Ouattara, Laurent Gbagbo, Presidential Palace_
 
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
-_Context: Afghanistan, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
+_Context: Afghanistan's, Florida, Kabul University, Qur'an, Terry Jones, U.S. state, church_
 
 ### [Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/amid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
 ### [The whereabouts of Chinese artist Ai Weiwei remain undetermined 48 hours after his disappearance as the U.S., France, Germany, Britain and Amnesty International ask that he be released immediately. ](/news/2011/04/5/the-whereabouts-of-chinese-artist-ai-weiwei-remain-undetermined-48-hours-after-his-disappearance-as-the-u-s-france-germany-britain-and-a.md)

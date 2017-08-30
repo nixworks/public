@@ -31,13 +31,13 @@ Chinese dissident Chen Guangcheng telephones a US Congressional hearing to plead
 _Context: ECOWAS, Mali, Malian coup d'tat_
 
 ### [China, France, Russia, the United Kingdom and United States urge Iran to co-operate with the International Atomic Energy Agency. ](/news/2012/05/3/china-france-russia-the-united-kingdom-and-united-states-urge-iran-to-co-operate-with-the-international-atomic-energy-agency.md)
-_Context: Britain, China, France, International Atomic Energy Agency, Iran, Russia, United States_
+_Context: China, France, International Atomic Energy Agency, Iran, Russia, United Kingdom, United States_
 
 ### [Bahrain's King Hamad bin Isa Al Khalifa grants new powers to parliament. ](/news/2012/05/3/bahrain-s-king-hamad-bin-isa-al-khalifa-grants-new-powers-to-parliament.md)
 Monarch gives extra powers to parliament despite criticism from opposition which says new measures are only symbolic.
 
 ### [Voters in the United Kingdom go to the polls for local elections with the opposition Labour Party expected to do well. ](/news/2012/05/3/voters-in-the-united-kingdom-go-to-the-polls-for-local-elections-with-the-opposition-labour-party-expected-to-do-well.md)
-_Context: Britain, Labour, local elections_
+_Context: Labour, United Kingdom, local elections_
 
 ### [Haiti's Chamber of Deputies appoints Laurent Lamothe as the new Prime Minister ending a two month standoff with President Michel Martelly. ](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

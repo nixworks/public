@@ -12,7 +12,7 @@ The crew of a car transporter, which ran on to a sand bank in the Solent off the
 ### [Bulk Jupiter, a Norwegian-owned cargo ship, sinks off the coast of Vietnam, with eighteen dead and one survivor. ](/news/2015/01/3/bulk-jupiter-a-norwegian-owned-cargo-ship-sinks-off-the-coast-of-vietnam-with-eighteen-dead-and-one-survivor.md)
 A Norwegian cargo ship with 19 crew members sank off the coast of Vietnam, with only one man known to have survived.
 
-### [The Cypriot-registered cargo ship Cemfjord||2 sinks off the northern coast of Scotland leaving eight onboard missing. ](/news/2015/01/3/the-cypriot-registered-cargo-ship-cemfjord-2-sinks-off-the-northern-coast-of-scotland-leaving-eight-onboard-missing.md)
+### [The Cypriot-registered cargo ship Cemfjord sinks off the northern coast of Scotland leaving eight onboard missing. ](/news/2015/01/3/the-cypriot-registered-cargo-ship-cemfjord-sinks-off-the-northern-coast-of-scotland-leaving-eight-onboard-missing.md)
 The search for the eight missing crew of the cargo ship Cemfjord in the Pentland Firth is suspended by coastguards.
 
 ### [A prison in Bruges, Belgium, will euthanise serial rapist and murderer Frank Van Den Bleeken on January 11. ](/news/2015/01/3/a-prison-in-bruges-belgium-will-euthanise-serial-rapist-and-murderer-frank-van-den-bleeken-on-january-11.md)

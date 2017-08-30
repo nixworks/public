@@ -1,6 +1,6 @@
 ### [2015-10-3](/news/2015/10/3/index.md)
 
-# As Hurricane Joaquin, still a Category 3 storm, heads northeast, a Tropical Storm Warning and a Hurricane Watch are in effect for Bermuda. Winds will begin to strengthen early Saturday with thunderstorms and more significant showers around midnight. Joaquin should turn toward the north-northeast Sunday and pass around 125|nmi|abbr=off west of Bermuda that evening. 
+# As Hurricane Joaquin, still a Category 3 storm, heads northeast, a Tropical Storm Warning and a Hurricane Watch are in effect for Bermuda. Winds will begin to strengthen early Saturday with thunderstorms and more significant showers around midnight. Joaquin should turn toward the north-northeast Sunday and pass around 125 nmi west of Bermuda that evening. 
 
 A VIOLENT Atlantic hurricane shaping up to be one of the most powerful on record has changed course towards Britain. 
 

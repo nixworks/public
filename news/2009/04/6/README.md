@@ -13,13 +13,13 @@ _Context: Alaska, Mount Redoubt, ash eruption, volcanic activity_
 _Context: 2009 L'Aquila earthquake, Italian, L'Aquila, magnitude_
 
 ### [ Afghanistan's government will review a recently approved version of sharia law that legalizes spousal rape. ](/news/2009/04/6/afghanistan-s-government-will-review-a-recently-approved-version-of-sharia-law-that-legalizes-spousal-rape.md)
-_Context: Afghan government's, Afghanistan, men to rape their wives, sharia law_
+_Context: Afghan government's, Afghanistan's, men to rape their wives, sharia law_
 
 ### [ Gjorge Ivanov of VMRO-DPMNE wins Macedonia's presidential election. ](/news/2009/04/6/gjorge-ivanov-of-vmroadpmne-wins-macedonia-s-presidential-election.md)
 _Context: Gjorge Ivanov, Macedonian, VMRO-DPMNE, election, presidential_
 
 ### [ Somali pirates hijack five ships from the United Kingdom, Taiwan, Germany, France, and Yemen. ](/news/2009/04/6/somali-pirates-hijack-five-ships-from-the-united-kingdom-taiwan-germany-france-and-yemen.md)
-_Context: Britain, France, Germany, Somali pirates, Somalia, Taiwan, Yemen, ship_
+_Context: France, Germany, Somali pirates, Somalia, Taiwan, United Kingdom, Yemen, ship_
 
 ### [ Indonesia's National Police shoot nine demonstrators at a pre-election protest in Nabire, West Papua. ](/news/2009/04/6/indonesia-s-national-police-shoot-nine-demonstrators-at-a-pre-election-protest-in-nabire-west-papua.md)
 _Context: 2009 legislative elections, Indonesia, Indonesian police, West Papua, demonstration, protest_

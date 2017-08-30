@@ -4,7 +4,7 @@
 A gunman killed an Israeli soldier and wounded at least 11 other people at a bus station in southern Israel on Sunday.
 
 ### [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md)
-_Context: Afghanistan, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
+_Context: Afghanistan's, Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
 
 ### [China's economy expanded 6.9% in third quarter over last year's growth, just slightly better than forecast. ](/news/2015/10/19/chinaas-economy-expanded-6-9-in-third-quarter-over-last-yearas-growth-just-slightly-better-than-forecast.md)
 _Context: China's_

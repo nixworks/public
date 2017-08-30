@@ -45,7 +45,7 @@ _Context: China, Japan, Wen Jiabao, rare earth element_
 ### [2 more corpses are discovered, bringing the death toll to 7, as Prime Minister of Hungary Viktor Orban plays down the disaster on the Danube. ](/news/2010/10/8/2-more-corpses-are-discovered-bringing-the-death-toll-to-7-as-prime-minister-of-hungary-viktor-orba-n-plays-down-the-disaster-on-the-danub.md)
 Residents blame aluminium company for toxic spill that killed four people and devastated three villages.
 
-### [Maltese chemical tanker YM Uranus||2 is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-2-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the.md)
+### [Maltese chemical tanker YM Uranus is reported to be sinking following a collision with the Panamanian cargo ship "Hanjin Rizhao" off the coast of Brittany, France. ](/news/2010/10/8/maltese-chemical-tanker-ym-uranus-is-reported-to-be-sinking-following-a-collision-with-the-panamanian-cargo-ship-hanjin-rizhao-off-the-coa.md)
 _Context: Brittany, France, Malta, Panama, Tanker, cargo ship_
 
 ### [One person died and 42 others remain hospitalized in the Tibetan Autonomous Prefecture of Garze. Over 100 people, mostly tourists and hotel staff, were affected. ](/news/2010/10/8/one-person-died-and-42-others-remain-hospitalized-in-the-tibetan-autonomous-prefecture-of-garze-over-100-people-mostly-tourists-and-hotel.md)

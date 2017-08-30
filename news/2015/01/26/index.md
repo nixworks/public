@@ -31,7 +31,7 @@ _Context: China, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_
 _Context: Greek elections, Independent Greeks, Syriza, governing coalition_
 
 ### [The Church of England ordains Libby Lane as their first female bishop, at York Minster, United Kingdom. ](/news/2015/01/26/the-church-of-england-ordains-libby-lane-as-their-first-female-bishop-at-york-minster-united-kingdom.md)
-_Context: Britain, Church of England, Libby Lane, York Minster_
+_Context: Church of England, Libby Lane, United Kingdom, York Minster_
 
 ## [Previous Day...](/news/2015/01/25/index.md)
 

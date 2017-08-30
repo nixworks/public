@@ -31,7 +31,7 @@ _Context: Bullet For My Valentine, RIAA, The Poison, United States, heavy metal 
 _Context: George W. Bush, Harriet Miers, President, Sandra Day O'Connor, U.S. Supreme Court, United States, White House Counsel_
 
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
-_Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Paktika, War in Afghanistan (2001-present)_
 
 ### [ Millions of people view the solar eclipse which occurred at 10:31 UTC, mainly in Africa and south-west Europe. ](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-occurred-at-10-31-utc-mainly-in-africa-and-south-west-europe.md)
 _Context: Africa, Europe, clock, solar eclipse, south, west_

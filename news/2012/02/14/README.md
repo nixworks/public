@@ -6,7 +6,7 @@ Government forces and opponents of President Bashar al-Assad clashed in cities a
 ### [Security forces fire tear gas on anti-government demonstrators on the first anniversary of the start of protests calling for reforms in the nation. ](/news/2012/02/14/security-forces-fire-tear-gas-on-anti-government-demonstrators-on-the-first-anniversary-of-the-start-of-protests-calling-for-reforms-in-the.md)
 Security forces fire tear gas as activists attempt to march to landmark Pearl roundabout, one year since protests began.
 
-### [The U.S. aircraft carrier Abraham Lincoln|CVN-72|2, accompanied by the cruiser Cape St. George|CG-71|2 and the destroyer Sterett|DDG-104|2, sails through the Strait of Hormuz, close to the coast of Iran, for the second time in recent weeks. ](/news/2012/02/14/the-u-s-aircraft-carrier-abraham-lincoln-cvn-72-2-accompanied-by-the-cruiser-cape-st-george-cg-71-2-and-the-destroyer-sterett-ddg-104-2.md)
+### [The U.S. aircraft carrier Abraham Lincoln 2, accompanied by the cruiser Cape St. George 2 and the destroyer Sterett 2, sails through the Strait of Hormuz, close to the coast of Iran, for the second time in recent weeks. ](/news/2012/02/14/the-u-s-aircraft-carrier-abraham-lincoln-2-accompanied-by-the-cruiser-cape-st-george-2-and-the-destroyer-sterett-2-sails-through-the-str.md)
 A US aircraft carrier passes through the Strait of Hormuz for the second time in recent weeks, amid heightened tension with Iran.
 
 ### [A Sudanese air strike hits the South Sudanese state of Unity, injuring four soldiers in a contested area. ](/news/2012/02/14/a-sudanese-air-strike-hits-the-south-sudanese-state-of-unity-injuring-four-soldiers-in-a-contested-area.md)

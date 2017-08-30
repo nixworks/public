@@ -22,7 +22,7 @@ _Context: India, kiting, leaves three people dead_
 Immigration Minister Peter Dutton confirms Australia will work with Papua New Guinea to close the Manus Island detention centre.
 
 ### [North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. ](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-kingdom-thae-yong-ho-defects-with-his-family-to-south-korea.md)
-_Context: Britain, North Korea, North Korean defectors, South Korea, Thae Yong-ho_
+_Context: North Korea, North Korean defectors, South Korea, Thae Yong-ho, United Kingdom_
 
 ### [A Malaysian oil tanker, MT "Vier Harmoni", is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. ](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijacked-off-the-coast-of-malaysia-and-is-believed-to-have-been-taken-to-indonesian-waters-nea.md)
 A Malaysian oil tanker that was believed to have been hijacked was actually commandeered by its own crew, officials say.

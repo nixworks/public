@@ -13,7 +13,7 @@ _Context: 2011 Syrian uprising, Deraa, Syria_
 _Context: Libya, Misrata, Muammar Gaddafi, NATO_
 
 ### [Four members of the United States Army are killed by a bomb in southern Afghanistan. ](/news/2011/05/16/four-members-of-the-united-states-army-are-killed-by-a-bomb-in-southern-afghanistan.md)
-_Context: Afghanistan, United States Army_
+_Context: Afghanistan's, United States Army_
 
 ### [Irish republican dissidents have issued a bomb threat for London, the first coded warning outside Northern Ireland in 10 years, officials have said. ](/news/2011/05/16/irish-republican-dissidents-have-issued-a-bomb-threat-for-london-the-first-coded-warning-outside-northern-ireland-in-10-years-officials-ha.md)
 A bomb threat for London has been issued by Irish dissidents - in what officials say is the first coded warning outside Northern Ireland in 10 years.

@@ -31,7 +31,7 @@ The report appears likely to bolster the Obama administration’s case for a fou
 _Context: Cape Cod, Ottawa, Wildfires_
 
 ### [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md)
-_Context: Afghanistan, Christian, Church World Service, Islamic republic, Norwegian Church Aid, proselytizing_
+_Context: Afghanistan's, Christian, Church World Service, Islamic republic, Norwegian Church Aid, proselytizing_
 
 ### [A number of Israeli warships follow the Gaza-bound international flotilla as it nears its destination and an aircraft flies overhead. ](/news/2010/05/31/a-number-of-israeli-warships-follow-the-gaza-bound-international-flotilla-as-it-nears-its-destination-and-an-aircraft-flies-overhead.md)
 Freedom Flotilla changes course and slows down after Israeli navy ships flank it.

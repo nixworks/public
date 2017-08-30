@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Yemen_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Yemen_
 2. [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md) _Context: Yemen, Yemeni Civil War_
 3. [According to the International Committee of the Red Cross, a cholera outbreak has since April 27 killed at least 115 people and left another 8,500 ill across Yemen. ](/news/2017/05/14/according-to-the-international-committee-of-the-red-cross-a-cholera-outbreak-has-since-april-27-killed-at-least-115-people-and-left-another.md) _Context: Yemen, Yemeni Civil War_
 4. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, Yemeni Civil War_

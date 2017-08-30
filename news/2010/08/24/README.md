@@ -13,7 +13,7 @@ _Context: MPs, President, Villa Somalia, al Shabaab militia, storm the Hotel Mun
 Aid groups say up to 200 women were raped in four days near a UN peacekeeping base.
 
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Afghanistan, Lance Corporal, Oruzgan province, Taliban, soldiers_
+_Context: Afghanistan's, Lance Corporal, Oruzgan province, Taliban, soldiers_
 
 ### [American actor Lindsay Lohan is released from a rehabilitation centre 22 days into a three month program. ](/news/2010/08/24/american-actor-lindsay-lohan-is-released-from-a-rehabilitation-centre-22-days-into-a-three-month-program.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.

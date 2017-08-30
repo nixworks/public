@@ -37,7 +37,7 @@ _Context: 2010 FIFA World Cup, Sipho Nkumane, South Africa national football tea
 _Context: AIDS, China, Chinese human rights, dissident_
 
 ### [Pakistan's ambassador to Iran, Mohammad Bakhsh Abbasi, is hospitalised after becoming injured in an attack by an Afghan on his car in Tehran. ](/news/2010/05/11/pakistan-s-ambassador-to-iran-mohammad-bakhsh-abbasi-is-hospitalised-after-becoming-injured-in-an-attack-by-an-afghan-on-his-car-in-tehran.md)
-_Context: Afghanistan, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
+_Context: Afghanistan's, Iran, Mohammad Bakhsh Abbasi, Pakistan, Tehran_
 
 ### [A nearly $1 trillion rescue package to prevent the Greek sovereign debt crisis spreading in Europe will impact various facets of the Chinese economy. ](/news/2010/05/11/a-nearly-1-trillion-rescue-package-to-prevent-the-greek-sovereign-debt-crisis-spreading-in-europe-will-impact-various-facets-of-the-chinese.md)
 _Context: Economy of the People's Republic of China, Greek economic crisis, economically troubled euro-zone nations_

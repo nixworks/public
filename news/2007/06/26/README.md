@@ -19,7 +19,7 @@ _Context: International Atomic Energy Agency, North Korea, Pyongyang, nuclear re
 _Context: 10 Downing Street, Arnold Schwarzenegger, Prime Minister, Tony Blair, climate change_
 
 ### [ In the United Kingdom, hundreds of people are evacuated from villages in South Yorkshire, and a section of the M1 motorway is closed amid fears of an imminent collapse of the dam at the Ulley reservoir following heavy rainfall and widespread flooding across the UK. ](/news/2007/06/26/in-the-united-kingdom-hundreds-of-people-are-evacuated-from-villages-in-south-yorkshire-and-a-section-of-the-m1-motorway-is-closed-amid-f.md)
-_Context: Britain, June 2007 United Kingdom floods, M1 motorway, South Yorkshire, Ulley reservoir_
+_Context: June 2007 United Kingdom floods, M1 motorway, South Yorkshire, Ulley reservoir, United Kingdom_
 
 ## [Previous Day...](/news/2007/06/25/index.md)
 

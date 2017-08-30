@@ -24,7 +24,7 @@ Hundreds of billions wiped off world’s financial markets today, as Chinese rou
 ### [American utility Southern Company buys natural gas company AGL Resources for $12 billion. ](/news/2015/08/24/american-utility-southern-company-buys-natural-gas-company-agl-resources-for-12-billion.md)
 _Context: AGL Resources, Southern Company_
 
-### [The Okanogan Complex fire grows to 256,500|acre|ha|lk=on, surpassing the previous year's Carlton Complex fire as the largest in Washington state history. ](/news/2015/08/24/the-okanogan-complex-fire-grows-to-256-500-acre-ha-lk-on-surpassing-the-previous-year-s-carlton-complex-fire-as-the-largest-in-washington-s.md)
+### [The Okanogan Complex fire grows to 256,500 acre, surpassing the previous year's Carlton Complex fire as the largest in Washington state history. ](/news/2015/08/24/the-okanogan-complex-fire-grows-to-256-500-acre-surpassing-the-previous-year-s-carlton-complex-fire-as-the-largest-in-washington-state-hist.md)
 The Okanogan Complex of wildfires has surpassed last year&#x27;s Carlton Complex blazes, fire spokesman Rick Isaacson said Monday morning.
 
 ### [Floods kill 8 in Turkey's Artvin Province. ](/news/2015/08/24/floods-kill-8-in-turkey-s-artvin-province.md)

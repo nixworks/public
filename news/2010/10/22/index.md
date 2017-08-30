@@ -60,7 +60,7 @@ Forest fires on the island of Sumatra have caused air pollution and a thick clou
 ### [A cargo ship collides with a small ferryboat at Nieuwer ter Aa, Utrecht, capsizing the ferryboat. ](/news/2010/10/22/a-cargo-ship-collides-with-a-small-ferryboat-at-nieuwer-ter-aa-utrecht-capsizing-the-ferryboat.md)
 _Context: Nieuwer ter Aa, Utrecht_
 
-### [Astute|S119|6 runs aground off the Isle of Skye. ](/news/2010/10/22/astute-s119-6-runs-aground-off-the-isle-of-skye.md)
+### [Astute 6 runs aground off the Isle of Skye. ](/news/2010/10/22/astute-6-runs-aground-off-the-isle-of-skye.md)
 _Context: Isle of Skye_
 
 ### [A car crash in Austria leads to the death of Christian Kandlbauer, thought to be the first man to drive using a mind-controlled robotic arm. ](/news/2010/10/22/a-car-crash-in-austria-leads-to-the-death-of-christian-kandlbauer-thought-to-be-the-first-man-to-drive-using-a-mind-controlled-robotic-arm.md)

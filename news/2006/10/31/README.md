@@ -22,7 +22,7 @@ _Context: Israel Air Force, South Lebanon_
 _Context: China, North Korea, North Korea and weapons of mass destruction, six-party talks_
 
 ### [ Taliban insurgency: Suspected militants attack a convoy of NATO troops in Afghanistan's eastern province of Nuristan killing three soldiers. ](/news/2006/10/31/taliban-insurgency-suspected-militants-attack-a-convoy-of-nato-troops-in-afghanistan-s-eastern-province-of-nuristan-killing-three-soldiers.md)
-_Context: Afghanistan, NATO, Nuristan, Taliban insurgency_
+_Context: Afghanistan's, NATO, Nuristan, Taliban insurgency_
 
 ### [ Chenagai airstrike: Pakistani officials confirm that a strike on a madrassah was based on United States intelligence that senior members of al-Qaeda were hiding there. The attack has generated protests by religious and tribal leaders in Pakistan. ](/news/2006/10/31/chenagai-airstrike-pakistani-officials-confirm-that-a-strike-on-a-madrassah-was-based-on-united-states-intelligence-that-senior-members-of.md)
 _Context: Chenagai airstrike, Pakistan, United States, al-Qaeda, madrassah_

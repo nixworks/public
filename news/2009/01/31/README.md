@@ -21,7 +21,7 @@ _Context: 2009 Australian Open, Dinara Safina, Russia, Serena Williams, United S
 ### [ More than 5,000 Royal Police are deployed to Bangkok, Thailand, as supporters of deposed Prime Minister Thaksin Shinawatra protest. ](/news/2009/01/31/more-than-5-000-royal-police-are-deployed-to-bangkok-thailand-as-supporters-of-deposed-prime-minister-thaksin-shinawatra-protest.md)
 _Context: Bangkok, Prime Minister, Thai police, Thailand, Thaksin Shinawatra_
 
-### [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above 45|C in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-45-c-in-adelaide-and-melbourne.md)
+### [ A heat wave affects southeastern Australia, killing 20 people as temperatures reach above 45 C in Adelaide and Melbourne. ](/news/2009/01/31/a-heat-wave-affects-southeastern-australia-killing-20-people-as-temperatures-reach-above-45-c-in-adelaide-and-melbourne.md)
 _Context: Adelaide, Australia, Melbourne, heat wave_
 
 ### [ Movement for Democratic Change President Morgan Tsvangirai agrees to become Zimbabwe's Prime Minister on February 11 in a deal with President Robert Mugabe. ](/news/2009/01/31/movement-for-democratic-change-president-morgan-tsvangirai-agrees-to-become-zimbabwe-s-prime-minister-on-february-11-in-a-deal-with-preside.md)

@@ -37,7 +37,7 @@ The United Nations Security Council on Wednesday voiced alarm at breaches of a c
 A government accountability nonprofit wants to see if Defense Secretary Ash Carter violated the Federal Records Act.
 
 ### [A Metropolitan Police Department of the District of Columbia report reveals that an agent with the Presidential Protective Service of the United States Secret Service had his weapon, shield, and other professional equipage stolen from his vehicle in broad daylight in downtown Washington, D.C. ](/news/2015/12/23/a-metropolitan-police-department-of-the-district-of-columbia-report-reveals-that-an-agent-with-the-presidential-protective-service-of-the-un.md)
-_Context: DC police, United States Secret Service, Washington, D.C._
+_Context: DC police, U.S. capital, United States Secret Service_
 
 ### [Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. ](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.md)
 Former oil tycoon says order to have him arrested in absentia over alleged murders shows that Russian authorities have ‘gone mad’

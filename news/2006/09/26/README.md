@@ -4,7 +4,7 @@
 _Context: Bangladesh, Dhaka_
 
 ### [ UK Prime Minister Tony Blair makes his final speech at a Labour Party Conference. ](/news/2006/09/26/uk-prime-minister-tony-blair-makes-his-final-speech-at-a-labour-party-conference.md)
-_Context: Britain, Labour, Prime Minister, Tony Blair_
+_Context: Labour, Prime Minister, Tony Blair, United Kingdom_
 
 ### [ In the United States, a jury rules in favor of the pharmaceutical corporation Merck & Co. Inc. in a court case related to the painkiller Vioxx. The jury rejects claims that Vioxx caused the plaintiff's heart attack. ](/news/2006/09/26/in-the-united-states-a-jury-rules-in-favor-of-the-pharmaceutical-corporation-merck-co-inc-in-a-court-case-related-to-the-painkiller-vi.md)
 _Context: Merck & Co. Inc., Vioxx, heart attack, jury, plaintiff_
@@ -19,7 +19,7 @@ _Context: Archbishop, Emmanuel Milingo, Pope Benedict XVI, Roman Catholic Church
 _Context: Bernard Ebbers, Louisiana, U.S. state, WorldCom_
 
 ### [ At least 18 people are killed in an explosion outside a government office in Lashkar Gah in southern Afghanistan. ](/news/2006/09/26/at-least-18-people-are-killed-in-an-explosion-outside-a-government-office-in-lashkar-gah-in-southern-afghanistan.md)
-_Context: Afghanistan, Lashkar Gah_
+_Context: Afghanistan's, Lashkar Gah_
 
 ### [ The Diet of Japan confirms Shinzo Abe as the Prime Minister of Japan. At 52, he is the youngest Prime Minister since World War II. ](/news/2006/09/26/the-diet-of-japan-confirms-shinzo-abe-as-the-prime-minister-of-japan-at-52-he-is-the-youngest-prime-minister-since-world-war-ii.md)
 _Context: Diet, Prime Minister of Japan, Shinzo Abe, World War II_

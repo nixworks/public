@@ -4,7 +4,7 @@
 _Context: current outbreak, swine flu_
 
 ### [ Her Majesty's Government reveals the names of 16 of the 22 people banned from entering the United Kingdom. ](/news/2009/05/5/her-majesty-s-government-reveals-the-names-of-16-of-the-22-people-banned-from-entering-the-united-kingdom.md)
-_Context: Britain, His Majesty's Government_
+_Context: His Majesty's Government, United Kingdom_
 
 ### [ At least 500 soldiers mutiny after Georgia's government discovers a plot to assassinate President Mikheil Saakashvili. ](/news/2009/05/5/at-least-500-soldiers-mutiny-after-georgia-s-government-discovers-a-plot-to-assassinate-president-mikheil-saakashvili.md)
 _Context: Georgian, President of Georgia, Saakashvili, assassinated, government, mutiny, soldiers_

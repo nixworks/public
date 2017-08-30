@@ -15,7 +15,7 @@ Desperate Sri Lankans clambered onto rubber dinghies and makeshift rafts Friday 
 ### [Egyptian Armed Forces claim that passenger luggage and part of the aircraft have been found in the Mediterranean Sea 290 kilometers north of Alexandria. ](/news/2016/05/20/egyptian-armed-forces-claim-that-passenger-luggage-and-part-of-the-aircraft-have-been-found-in-the-mediterranean-sea-290-kilometers-north-of.md)
 _Context: Alexandria, EgyptAir Flight 804, Egyptian military, Mediterranean Sea_
 
-### [Temperatures soar to a record 51|C|F in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-f-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md)
+### [Temperatures soar to a record 51 C in the Indian state of Rajasthan. The heatwave has claimed 300 lives since April 2016. ](/news/2016/05/20/temperatures-soar-to-a-record-51-c-in-the-indian-state-of-rajasthan-the-heatwave-has-claimed-300-lives-since-april-2016.md)
 _Context: India, Rajasthan, heatwave_
 
 ### [At least four National Gendarmerie officers are killed in a helicopter crash in Hautes-Pyrenees, in southwestern France. ](/news/2016/05/20/at-least-four-national-gendarmerie-officers-are-killed-in-a-helicopter-crash-in-hautes-pyra-c-na-c-es-in-southwestern-france.md)
@@ -31,7 +31,7 @@ More than 270 pregnant women in the U.S. are also infected with the Zika virus, 
 _Context: Accession of Montenegro to NATO, Montenegro, NATO, Russian Government_
 
 ### [NATO foreign ministers, meeting at NATO headquarters in Brussels, Belgium, agree to extend the alliance's Resolute Support Mission, that trains, advises and assists Afghanistan's military beyond 2016. ](/news/2016/05/20/nato-foreign-ministers-meeting-at-nato-headquarters-in-brussels-belgium-agree-to-extend-the-alliance-s-resolute-support-mission-that-tra.md)
-_Context: Afghanistan, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
+_Context: Afghanistan's, Belgium, Brussels, NATO, NATO headquarters, Resolute Support, War in Afghanistan (2015-present), military personnel_
 
 ### [The Oklahoma Legislature files a measure asking for Congress to impeach Barack Obama over his decision to allow transgender students to use the bathrooms corresponding to their gender identity. ](/news/2016/05/20/the-oklahoma-legislature-files-a-measure-asking-for-congress-to-impeach-barack-obama-over-his-decision-to-allow-transgender-students-to-use.md)
 _Context: Barack Obama, Efforts to impeach Barack Obama, Oklahoma Legislature, United States Congress_

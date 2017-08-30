@@ -13,7 +13,7 @@ Police name one of the three people who died after an avalanche in the Highlands
 The European Union will tighten sanctions on North Korea to curb trade in gold and diamonds and crack down on financial links in protest at Pyongyang&#039;s recent rocket launch and nuclear bomb test, EU diplomats said on Friday.
 
 ### [The British catering firm Compass Group and hotel chain Whitbread both identify horse meat in products sold as beef. ](/news/2013/02/15/the-british-catering-firm-compass-group-and-hotel-chain-whitbread-both-identify-horse-meat-in-products-sold-as-beef.md)
-_Context: 2013 meat adulteration scandal, Britain, Compass Group, Whitbread, beef, horses for meat_
+_Context: 2013 meat adulteration scandal, Compass Group, United Kingdom, Whitbread, beef, horses for meat_
 
 ### [The social networking giant Facebook announces that it was the target of sophisticated hackers, who through a then-unknown bug from Oracle's Java on an infected website, managed to infiltrate employees' laptops, and then the internal networks. There was no user data collected, but certain code and corporate e-mails could have been exfiltrated. ](/news/2013/02/15/the-social-networking-giant-facebook-announces-that-it-was-the-target-of-sophisticated-hackers-who-through-a-then-unknown-bug-from-oracle-s.md)
 _Context: Facebook, Inc., Java, Oracle Corporation, bug, e-mails, hackers, laptop, network, social network, user data, website_
@@ -27,7 +27,7 @@ The Independent Parliamentary Standards Authority says it will investigate expen
 ### [Former Congressman Jesse Jackson Jr. is charged with misusing campaign funds while in office. ](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.md)
 Former congressman Jesse Jackson Jr. was charged Friday with misusing $750,000 in campaign funds.
 
-### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about 50|m|sp=us comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-50-m-sp-us-comes-within-17-200-miles-27-700-km-from-the-earth-s-surface.md)
+### [Near-Earth asteroid 2012 DA14 with an estimated diameter of about 50 m comes within 17,200 miles (27,700 km) from the Earth's surface. This distance is a record close approach for a known object of such size. ](/news/2013/02/15/near-earth-asteroid-2012-da14-with-an-estimated-diameter-of-about-50-m-comes-within-17-200-miles-27-700-km-from-the-earth-s-surface-this.md)
 _Context: 2012 DA14, Earth, Near-Earth, asteroid, diameter, record close approach_
 
 ## [Previous Day...](/news/2013/02/14/index.md)

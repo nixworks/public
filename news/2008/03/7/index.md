@@ -10,7 +10,7 @@ _Context: Kenya_
 A former East German Stasi informant who betrayed local church officials has won a court battle to prevent an exhibition on the notorious secret police from including his name and clandestine activities.
 
 ### [ Former Olympic gold medalist Marion Jones reports to a Texas jail to begin a six-month sentence for perjury regarding past steroid use. ](/news/2008/03/7/former-olympic-gold-medalist-marion-jones-reports-to-a-texas-jail-to-begin-a-six-month-sentence-for-perjury-regarding-past-steroid-use.md)
-_Context: Marion Jones, Olympic Games, Texas, committed perjury, gold medal, steroid_
+_Context: Marion Jones, Olympic Games, Texas, gold medal, perjury, steroid_
 
 ### [ Colombia confirms the killing of FARC leader Ivn Ros by his chief of security. ](/news/2008/03/7/colombia-confirms-the-killing-of-farc-leader-ivan-rios-by-his-chief-of-security.md)
 _Context: Colombia, FARC, Ivn Ros_

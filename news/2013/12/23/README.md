@@ -19,7 +19,7 @@ His AK-47 assault rifle has killed more people than any other firearm in the wor
 Both jailed members of Russian punk protest band Pussy Riot, whose imprisonment sparked global outrage, are released as part of an amnesty.
 
 ### [Former UK MP Denis MacShane is sentenced to six months in jail for expenses fraud after he admitted to submitting 19 false receipts totaling GBP12,900. ](/news/2013/12/23/former-uk-mp-denis-macshane-is-sentenced-to-six-months-in-jail-for-expenses-fraud-after-he-admitted-to-submitting-19-false-receipts-totaling.md)
-_Context: Britain, Denis MacShane_
+_Context: Denis MacShane, United Kingdom_
 
 ### [In Tupelo, Mississippi two or three armed bank robbery suspects, fleeing police following a holdup at a Bancorp South, shoot dead one policeman and injure another. ](/news/2013/12/23/in-tupelo-mississippi-two-or-three-armed-bank-robbery-suspects-fleeing-police-following-a-holdup-at-a-bancorp-south-shoot-dead-one-police.md)
 _Context: Bancorp South, Tupelo, Mississippi_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A British cruise ship avoids a possible Somali pirate attack 100|mi|km off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-km-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Indian Ocean, Tanzania_
+1. [A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-off-the-coast-of-tanzania-in-the-indian-ocean.md) _Context: Indian Ocean, Tanzania_
 2. [ Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. ](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.md) _Context: Comoros, Yemenia Flight 626_
 3. [ Yemenia Flight 626, an Airbus A310, crashes en route to Moroni, Comoros, from Sana'a, Yemen. [http://www.cnn.com/2009/WORLD/meast/06/29/yemen.plane.crash/index.html (CNN) ]](/news/2009/06/30/yemenia-flight-626-an-airbus-a310-crashes-en-route-to-moroni-comoros-from-sana-a-yemen-http-www-cnn-com-2009-world-meast-06-29-yem.md) _Context: Comoros, Yemenia Flight 626_
 4. [As many as 30 people, mostly children, are killed after a school bus plunges off a road into a steep ravine in the Arusha Region of northern Tanzania. ](/news/2017/05/6/as-many-as-30-people-mostly-children-are-killed-after-a-school-bus-plunges-off-a-road-into-a-steep-ravine-in-the-arusha-region-of-northern.md) _Context: Tanzania_

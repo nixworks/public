@@ -10,7 +10,7 @@ Typhoon Hagupit weakened to a tropical storm as it churned close to the Philippi
 A second fire broke out shortly after 4 a.m., but authorities don&#039;t think they&#039;re related
 
 ### [A small plane crashes into a house in the American town of Gaithersburg, Maryland near Washington, D.C. with 5 people dead. ](/news/2014/12/8/a-small-plane-crashes-into-a-house-in-the-american-town-of-gaithersburg-maryland-near-washington-d-c-with-5-people-dead.md)
-_Context: American, Gaithersburg, Maryland, Washington, D.C._
+_Context: American, Gaithersburg, Maryland, U.S. capital_
 
 ### [The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. ](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.md)
 _Context: Iraq, South Sudan, Sudan, Syria, United Nations, United States dollars_

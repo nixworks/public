@@ -1,6 +1,6 @@
 ## [2015-07-18](/news/2015/07/18/index.md)
 
-### [In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta's Hazara town, who then detonated their device that contained 6|to|7|kg|abbr=on of explosive material, killing themselves and the guard. ](/news/2015/07/18/in-a-failed-suicide-blast-a-security-guard-intercepted-a-suicide-bomber-clad-in-female-clothing-attempting-to-enter-quettaas-hazara-town.md)
+### [In a failed suicide blast, a security guard intercepted a suicide bomber clad in female clothing attempting to enter Quetta's Hazara town, who then detonated their device that contained 6 to kg of explosive material, killing themselves and the guard. ](/news/2015/07/18/in-a-failed-suicide-blast-a-security-guard-intercepted-a-suicide-bomber-clad-in-female-clothing-attempting-to-enter-quettaas-hazara-town.md)
 Attacker prematurely detonates explosives after interception by a security guard, while attempting to enter Hazara town.
 
 ### [The Kurdish's People's Protection Units and independent monitors accuse ISIL of using poison gas while fighting in northern Syria late in June. ](/news/2015/07/18/the-kurdish-s-people-s-protection-units-and-independent-monitors-accuse-isil-of-using-poison-gas-while-fighting-in-northern-syria-late-in-ju.md)

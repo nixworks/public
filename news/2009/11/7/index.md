@@ -1,7 +1,7 @@
 ## [2009-11-7](/news/2009/11/7/index.md)
 
 ### [ A British tourist is shot dead by a masked gunman in the U.S. state of Texas. ](/news/2009/11/7/a-british-tourist-is-shot-dead-by-a-masked-gunman-in-the-u-s-state-of-texas.md)
-_Context: Britain, Texas_
+_Context: Texas, United Kingdom_
 
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
 _Context: Houthi, Saudi Arabia, Yemen, due to fighting_
@@ -13,7 +13,7 @@ _Context: Bermeo, Somali pirates, Spain_
 _Context: Andorra_
 
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Afghanistan, Badghis Province, NATO_
+_Context: Afghanistan's, Badghis Province, NATO_
 
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
 _Context: Madagascar, political crisis, unity_

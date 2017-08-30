@@ -1,7 +1,7 @@
 ## [2009-05-20](/news/2009/05/20/index.md)
 
 ### [ The United Kingdom's House of Lords suspends Thomas Taylor and Peter Truscott until November for misconduct. ](/news/2009/05/20/the-united-kingdom-s-house-of-lords-suspends-thomas-taylor-and-peter-truscott-until-november-for-misconduct.md)
-_Context: Britain, House of Lords, Peter Truscott, Thomas Taylor, misconduct, suspends_
+_Context: House of Lords, Peter Truscott, Thomas Taylor, United Kingdom, misconduct, suspends_
 
 ### [ South East Queensland, Australia, is declared a natural disaster zone, following flooding. ](/news/2009/05/20/south-east-queensland-australia-is-declared-a-natural-disaster-zone-following-flooding.md)
 Flood-hit south-east Queensland has been declared a natural disaster zone after the death of a man on the Gold Coast this afternoon.
@@ -16,7 +16,7 @@ An Indonesian military transport plane carrying 110 passengers and crew crashed 
 _Context: Brian Mulroney, Canada, Canadian Prime Minister, Germany, Karlheinz Schreiber, The Globe and Mail, defense contractor, relationship_
 
 ### [ The International Security Assistance Force reports that the Taliban are using white phosphorus in the Afghanistan War. ](/news/2009/05/20/the-international-security-assistance-force-reports-that-the-taliban-are-using-white-phosphorus-in-the-afghanistan-war.md)
-_Context: Afghanistan, International Security Assistance Force, Taliban, War, white phosphorus_
+_Context: Afghanistan's, International Security Assistance Force, Taliban, War, white phosphorus_
 
 ### [ Scottish First Minister Alex Salmond activates Whitelee Wind Farm, Europe's largest onshore wind farm. ](/news/2009/05/20/scottish-first-minister-alex-salmond-activates-whitelee-wind-farm-europe-s-largest-onshore-wind-farm.md)
 _Context: Alex Salmond, Europe, First Minister, Scotland, Whitelee Wind Farm, wind farm_

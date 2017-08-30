@@ -10,7 +10,7 @@ _Context: Yemen, al-Qaeda, combat drone_
 Nigerian police say they have arrested a senior commander of the Islamist militant group Boko Haram in the troubled northern city of Kano.
 
 ### [Four NATO soldiers die in separate incidents in southern Afghanistan &ndash; two in a gun attack by insurgents, one in a roadside bombing, and one of non-combat injuries. ](/news/2012/05/12/four-nato-soldiers-die-in-separate-incidents-in-southern-afghanistan-ndash-two-in-a-gun-attack-by-insurgents-one-in-a-roadside-bombing-a.md)
-_Context: Afghanistan, NATO_
+_Context: Afghanistan's, NATO_
 
 ### [The European Commission states that the combined eurozone economy is likely to contract by 0.3% in 2012, as an ongoing debt crisis and high unemployment continue to wrack the 17 euro-using nations. ](/news/2012/05/12/the-european-commission-states-that-the-combined-eurozone-economy-is-likely-to-contract-by-0-3-in-2012-as-an-ongoing-debt-crisis-and-high.md)
 Police clear protesters from central Madrid, after nationwide protests by the &quot;Indignants&quot; movement, formed last year amid anger over austerity.

@@ -39,7 +39,7 @@ _Context: 2007 Formula One World Drivers Championship, Kimi Rikknen_
 ### [ Kurdistan Workers Party militants kill at least 12 Turkish soldiers and wounded 11 others on Sunday in a cross-border attack in mountains near the Iraqi border, security sources said. ](/news/2007/10/21/kurdistan-workers-party-militants-kill-at-least-12-turkish-soldiers-and-wounded-11-others-on-sunday-in-a-cross-border-attack-in-mountains-n.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-### [ Soyuz TMA-10 lands safely outside Arkalyk, 340|km|mi|sp=us short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-mi-sp-us-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
+### [ Soyuz TMA-10 lands safely outside Arkalyk, 340 km short of the planned landing site in Kazakhstan, due to a computer glitch. ](/news/2007/10/21/soyuz-tma-10-lands-safely-outside-arkalyk-340-km-short-of-the-planned-landing-site-in-kazakhstan-due-to-a-computer-glitch.md)
 _Context: Arkalyk, Kazakhstan, Soyuz TMA-10_
 
 ### [ 2007 Ogaden conflict: A rebel group in eastern Ethiopia, the Ogaden National Liberation Front, says it has carried out an attack on government troops, killing 140 troops. ](/news/2007/10/21/2007-ogaden-conflict-a-rebel-group-in-eastern-ethiopia-the-ogaden-national-liberation-front-says-it-has-carried-out-an-attack-on-governm.md)

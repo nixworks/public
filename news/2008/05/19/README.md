@@ -4,7 +4,7 @@
 _Context: Iraq, Sunni, Syria_
 
 ### [ Edward Leigh's attempt to outlaw the creation of human-animal hybrid embryos in the United Kingdom is defeated by 336 votes to 176 in the British House of Commons. ](/news/2008/05/19/edward-leigh-s-attempt-to-outlaw-the-creation-of-human-animal-hybrid-embryos-in-the-united-kingdom-is-defeated-by-336-votes-to-176-in-the-b.md)
-_Context: Britain, British House of Commons, Edward Leigh, animal, embryo, human, hybrid_
+_Context: British House of Commons, Edward Leigh, United Kingdom, animal, embryo, human, hybrid_
 
 ### [ In "United States v. Williams", the Supreme Court of the United States upholds a law making it a crime to send messages over the Internet offering or seeking child pornography even when no such pornography exists. ](/news/2008/05/19/in-united-states-v-williams-the-supreme-court-of-the-united-states-upholds-a-law-making-it-a-crime-to-send-messages-over-the-internet-o.md)
 The Supreme Court gave prosecutors a powerful tool Monday to attack the spread of child pornography online, ruling that people who send messages over the computer offering or seeking sexual images...

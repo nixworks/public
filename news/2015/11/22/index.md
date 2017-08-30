@@ -16,7 +16,7 @@ _Context: Baiji, ISIL, Iraq, Iraqi Civil War (2014-present), Saladin province, S
 Earlier, Palestinian taxi driver tries to stab Israeli after failing to run over pedestrians near Jerusalem; 16-year-old Palestinian girl tries to stab Israelis near Itamar, run over by former head of Samaria regional council, and shot dead.
 
 ### [The UK may not face a credit rating downgrade if it votes to leave the EU in a referendum due by the end of 2017, according to the lead UK analyst at Moody's. ](/news/2015/11/22/the-uk-may-not-face-a-credit-rating-downgrade-if-it-votes-to-leave-the-eu-in-a-referendum-due-by-the-end-of-2017-according-to-the-lead-uk-a.md)
-_Context: Britain, European Union, Moody's Investors Service, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
+_Context: European Union, Moody's Investors Service, United Kingdom, United Kingdom European Union membership referendum, United Kingdom withdrawal from the European Union_
 
 ### [The death toll in a landslide near a jade mine in northern Myanmar rises to about 100 people, with up to 200 others missing. Most of the victims were villagers digging for jade in a mountain of displaced earth. ](/news/2015/11/22/the-death-toll-in-a-landslide-near-a-jade-mine-in-northern-myanmar-rises-to-about-100-people-with-up-to-200-others-missing-most-of-the-vic.md)
 A landslide near a jade mine in northern Myanmar killed about 100 people, most of them villagers digging for green stones in a mountain of displaced earth. 

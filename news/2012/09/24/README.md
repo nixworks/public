@@ -49,7 +49,7 @@ _Context: Karim Masimov, Kazakhstan, Prime Minister_
 _Context: Belarus, OSCE, VRT, parliamentary elections_
 
 ### [Jun Azumi, the Minister of Finance of Japan, says he is to step down and take on a senior function as the acting secretary-general of the Democratic Party of Japan. His announcement comes ahead of an expected cabinet reshuffle. ](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.md)
-_Context: Democratic Party, Japan, Jun Azumi, Minister of Finance, Tokyo_
+_Context: Cabinet of Japan, Democratic Party, Japan, Jun Azumi, Minister of Finance_
 
 ## [Previous Day...](/news/2012/09/23/index.md)
 

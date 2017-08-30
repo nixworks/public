@@ -39,7 +39,7 @@ Fernando &quot;El Ingeniero&quot; Sanchez Arellano was arrested Monday afternoon
 ### [Former News International tabloid editor Andy Coulson is found guilty in relation to conspiracy to hack mobile phones. Rebekah Brooks, Charlie Brooks, Clive Goodman, Ian Edmondson, Stuart Kuttner, Cheryl Carter and Mark Hanna are acquitted. ](/news/2014/06/24/former-news-international-tabloid-editor-andy-coulson-is-found-guilty-in-relation-to-conspiracy-to-hack-mobile-phones-rebekah-brooks-charl.md)
 _Context: Andy Coulson, Charlie Brooks, Cheryl Carter, Clive Goodman, Ian Edmondson, Mark Hanna, News International, R v Brooks, Coulson and six others, Rebekah Brooks, Stuart Kuttner, conspiracy to hack mobile phones_
 
-### [ (Moon Chang-keuk|ko|3=muncanggeug) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-histori.md)
+### [ (Moon Chang-keuk withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.md)
 _Context: Prime Minister_
 
 ### [A new coalition government takes office in Finland, the first led by a Swedish-speaking Finn since 1959. ](/news/2014/06/24/a-new-coalition-government-takes-office-in-finland-the-first-led-by-a-swedish-speaking-finn-since-1959.md)

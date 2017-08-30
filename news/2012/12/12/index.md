@@ -6,7 +6,7 @@ Car bomb and two explosions at main gate of Interior Ministry, after earlier bla
 ### [Musicians and entertainers including the Rolling Stones, Eric Clapton and Bruce Springsteen perform a benefit concert for victims of Hurricane Sandy at Madison Square Garden in New York City. ](/news/2012/12/12/musicians-and-entertainers-including-the-rolling-stones-eric-clapton-and-bruce-springsteen-perform-a-benefit-concert-for-victims-of-hurrica.md)
 _Context: Bruce Springsteen and the E Street Band, Eric Clapton, Hurricane Sandy, Madison Square Garden, New York City, Rolling Stones_
 
-### [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex|Pope Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-pope-benedict-xvi.md)
+### [Pope Benedict XVI sends his first Twitter message with an assist using his personal account (pontifex Benedict XVI). ](/news/2012/12/12/pope-benedict-xvi-sends-his-first-twitter-message-with-an-assist-using-his-personal-account-pontifex-benedict-xvi.md)
 Pope Benedict XVI sends his first much-anticipated Twitter message using the handle @pontifex as his personal account.
 
 ### [Ben Bernanke, chairman of the U.S. Federal Reserve announces explicit ties between Fed policy on interest rates and economic goals, especially unemployment. ](/news/2012/12/12/ben-bernanke-chairman-of-the-u-s-federal-reserve-announces-explicit-ties-between-fed-policy-on-interest-rates-and-economic-goals-especial.md)

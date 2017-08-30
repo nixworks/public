@@ -13,13 +13,13 @@ _Context: Italian, Linate Airport, Milan, hare, radar_
 _Context: 24 Hours of Le Mans, Audi, R10, diesel-powered, prototype_
 
 ### [ A Canadian pilot and five British passengers die in a plane crash in Malawi. ](/news/2007/06/17/a-canadian-pilot-and-five-british-passengers-die-in-a-plane-crash-in-malawi.md)
-_Context: Britain, Canadian, Malawi, plane crash_
+_Context: Canadian, Malawi, United Kingdom, plane crash_
 
 ### [ Mahmoud Abbas, president of the Palestinian National Authority, outlaws armed factions of Hamas. ](/news/2007/06/17/mahmoud-abbas-president-of-the-palestinian-national-authority-outlaws-armed-factions-of-hamas.md)
 _Context: Hamas, Mahmoud Abbas, Palestinian Authority President, outlaw_
 
 ### [ At least 35 people die in Kabul, Afghanistan as the result of a bombing of a police bus. ](/news/2007/06/17/at-least-35-people-die-in-kabul-afghanistan-as-the-result-of-a-bombing-of-a-police-bus.md)
-_Context: Afghanistan, Kabul, police_
+_Context: Afghanistan's, Kabul, police_
 
 ### [ French voters go to the polls to elect a new French National Assembly. The centre-right Union for a Popular Movement (UPM) wins a comfortable majority; however, the left did make some gains, with senior minister Alain Juppe losing his seat in Bordeaux. ](/news/2007/06/17/french-voters-go-to-the-polls-to-elect-a-new-french-national-assembly-the-centre-right-union-for-a-popular-movement-upm-wins-a-comfortab.md)
 _Context: Alain Juppe, Bordeaux, France, French National Assembly, UMP, centre-right, go to the polls_

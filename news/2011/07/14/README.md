@@ -4,7 +4,7 @@
 Activists report deaths in several provinces as Sarkozy calls for tougher sanctions against the Assad government.
 
 ### [A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. ](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afghanistan-kills-four-people-and-injures-11-including-the-head-of-the-provincial-religious-coun.md)
-_Context: Afghanistan, Ahmed Wali Karzai, Kandahar, suicide bombing_
+_Context: Afghanistan's, Ahmed Wali Karzai, Kandahar, suicide bombing_
 
 ### [At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. ](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.md)
 _Context: Abyan Governorate, Yemen_
@@ -52,7 +52,7 @@ A BBC reporter held last month in Tajikistan on charges of belonging to a banned
 The FBI is investigating reports that News Corporation sought to hack the phones of victims of the 9/11 attacks.
 
 ### [U.S. district court judge Reggie Walton declares a mistrial in the perjury trial of former baseball star Roger Clemens after prosecutors present evidence that Walton had previously ruled inadmissible. Walton will hold a hearing on September 2 to determine whether to hold a new trial. ](/news/2011/07/14/u-s-district-court-judge-reggie-walton-declares-a-mistrial-in-the-perjury-trial-of-former-baseball-star-roger-clemens-after-prosecutors-pre.md)
-_Context: Reggie Walton, Roger Clemens, U.S. District Court for the District of Columbia, committed perjury, mistrial_
+_Context: Reggie Walton, Roger Clemens, U.S. District Court for the District of Columbia, mistrial, perjury_
 
 ### [At least thirty-two Chilean police and 54 demonstrators are arrested in a demonstration demanding more funds for higher education. ](/news/2011/07/14/at-least-thirty-two-chilean-police-and-54-demonstrators-are-arrested-in-a-demonstration-demanding-more-funds-for-higher-education.md)
 _Context: Chile, Chilean police_

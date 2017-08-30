@@ -4,7 +4,7 @@
 Vessel originally from Libya, loaded with arms reportedly destined for Syrian opposition, is stopped by Lebanese navy.
 
 ### [Two bodyguards and two insurgents are killed in an attack on the Governor of Afghanistan's Kandahar Province. ](/news/2012/04/28/two-bodyguards-and-two-insurgents-are-killed-in-an-attack-on-the-governor-of-afghanistan-s-kandahar-province.md)
-_Context: Afghanistan, Kandahar Province_
+_Context: Afghanistan's, Kandahar Province_
 
 ### [2012 Dnipropetrovsk explosions: Ukrainian president Viktor Yanukovich promises an investigation into the incident that injured 30 people. ](/news/2012/04/28/2012-dnipropetrovsk-explosions-ukrainian-president-viktor-yanukovich-promises-an-investigation-into-the-incident-that-injured-30-people.md)
 _Context: 2012 Dnipropetrovsk explosions, Ukraine, Viktor Yanukovich_

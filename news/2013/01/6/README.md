@@ -13,7 +13,7 @@ A US drone attack kills at least eight suspected militants in a Pakistan north-w
 _Context: Kachin, Laiza_
 
 ### [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Afghanistan, Spin Boldak_
+_Context: Afghanistan's, Spin Boldak_
 
 ### [South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an-effort-to-assist-the-current-regime-which-faces.md)
 South Africa is sending more soldiers to support government troops in the Central African Republic, where rebels are threatening the capital.

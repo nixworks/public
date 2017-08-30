@@ -19,10 +19,10 @@ _Context: 2011, European Union, Switzerland, referendum_
 _Context: Baghdad, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
-_Context: Afghanistan, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
+_Context: Afghanistan's, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
 
 ### [ Over 100,000 people attend Anti Iraq War rally held in Washington D.C.. ](/news/2005/09/25/over-100-000-people-attend-anti-iraq-war-rally-held-in-washington-d-c.md)
-_Context: Washington, D.C._
+_Context: U.S. capital_
 
 ### [ The Israeli Defense Force launches Operation First Rain, a series of air strikes on Palestinian targets in the Gaza Strip, including an alleged Hamas weapons factory and a children's school. According to Israel the operation's goal is to stop shelling of southern Israeli towns and villages by Palestinian militants, though several civilians have been injured, including an infant. At least 200 Palestinians have been arrested in overnight IDF raids in the West Bank. ](/news/2005/09/25/the-israeli-defense-force-launches-operation-first-rain-a-series-of-air-strikes-on-palestinian-targets-in-the-gaza-strip-including-an-all.md)
 IDF launches operation &#39;First Rain,&#39; hits Hamas, al-Aqsa Martyrs&#39; Brigades targets in Gaza Strip in response to Qassam rocket barrage directed at Israeli communities over weekend. More than 20 Palestinians hurt; earlier, cabinet approves harsh measures, including renewed targeted killing...

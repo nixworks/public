@@ -4,7 +4,7 @@
 Israel says its navy boarded two boats carrying pro-Palestinian activists trying to break the Israeli blockade of the Gaza Strip.
 
 ### [U.S. General John R. Allen, the head of the International Security Assistance Force in Afghanistan, sacks Maj. Gen. Peter Fuller for making inappropriate comments about Afghan President Hamid Karzai and his government. ](/news/2011/11/4/u-s-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-sacks-maj-gen-peter-fuller-for-making.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, International Security Assistance Force, John R. Allen_
+_Context: Afghanistan President, Afghanistan's, Hamid Karzai, International Security Assistance Force, John R. Allen_
 
 ### [Alfonso Cano, the head of the Colombian militant organisation FARC, is reportedly killed in a raid by the Colombian Army. ](/news/2011/11/4/alfonso-cano-the-head-of-the-colombian-militant-organisation-farc-is-reportedly-killed-in-a-raid-by-the-colombian-army.md)
 _Context: Alfonso Cano, Colombia, Colombian Army, Revolutionary Armed Forces of Colombia_

@@ -22,7 +22,7 @@ _Context: Jeremy Jaynes, United States, spam_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ British carmaker MG Rover receives a loan of GBP6.5 million from the British government. ](/news/2005/04/10/british-carmaker-mg-rover-receives-a-loan-of-gbp6-5-million-from-the-british-government.md)
-_Context: Britain, MG Rover_
+_Context: MG Rover, United Kingdom_
 
 ### [ Spanish police seize an ETA cache of explosives in Hernani, near San Sebastin. ](/news/2005/04/10/spanish-police-seize-an-eta-cache-of-explosives-in-hernani-near-san-sebastian.md)
 _Context: ETA, Hernani, San Sebastin, Spain_

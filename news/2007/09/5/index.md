@@ -32,13 +32,13 @@ Hurricane Felix killed at least 38 people on Nicaragua&#039;s Caribbean coast an
 _Context: Electricity, Lighting Africa, World Bank, sub-Saharan Africa_
 
 ### [ The Human Fertilisation and Embryology Authority in the United Kingdom allows the creation of human-animal hybrid embryos for research purposes in principle. ](/news/2007/09/5/the-human-fertilisation-and-embryology-authority-in-the-united-kingdom-allows-the-creation-of-human-animal-hybrid-embryos-for-research-purp.md)
-_Context: Britain, Human Fertilisation and Embryology Authority, animal, embryo, human, hybrid_
+_Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, embryo, human, hybrid_
 
 ### [ Norman Hsu, controversial fund-raiser for the U.S. Democratic Party, skips a bail hearing, prompting a new warrant for his arrest. ](/news/2007/09/5/norman-hsu-controversial-fund-raiser-for-the-u-s-democratic-party-skips-a-bail-hearing-prompting-a-new-warrant-for-his-arrest.md)
 The event unfolded like the judicial equivalent of a bride left at the altar.The mysterious political donor and fundraiser Norman Hsu was scheduled to appear in San Mateo County Superior Court on...
 
 ### [ Paul Gillmor, United States Representative from Ohio's 5th congressional district, is found dead in his Washington, D.C. apartment. ](/news/2007/09/5/paul-gillmor-united-states-representative-from-ohio-s-5th-congressional-district-is-found-dead-in-his-washington-d-c-apartment.md)
-_Context: 5th congressional district, Ohio, Paul Gillmor, United States Representative, Washington, D.C._
+_Context: 5th congressional district, Ohio, Paul Gillmor, U.S. capital, United States Representative_
 
 ### [ The Australian Government files appeal against court decision to set aside Indian doctor Mohamed Haneef visa cancellation. ](/news/2007/09/5/the-australian-government-files-appeal-against-court-decision-to-set-aside-indian-doctor-mohamed-haneef-visa-cancellation.md)
 _Context: Australian, Mohamed Haneef, visa-free travel_
@@ -50,7 +50,7 @@ _Context: Anders Borg, Mikael Odenberg, Minister for Foreign Trade, Sten Tolgfor
 _Context: Federal Court of Justice, Karlsruhe, terrorism_
 
 ### [ War in Afghanistan: Afghan and U.S led coalition forces kill 20 insurgents while two Afghan policeman die in a bomb attack. ](/news/2007/09/5/war-in-afghanistan-afghan-and-u-s-led-coalition-forces-kill-20-insurgents-while-two-afghan-policeman-die-in-a-bomb-attack.md)
-_Context: Afghanistan, United States, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, United States, War in Afghanistan (2001-present)_
 
 ### [ Israeli tanks and bulldozers enter the Gaza Strip in a limited operation against rocket launchers. ](/news/2007/09/5/israeli-tanks-and-bulldozers-enter-the-gaza-strip-in-a-limited-operation-against-rocket-launchers.md)
 _Context: Gaza Strip, Israel_

@@ -49,7 +49,7 @@ _Context: Foreign Minister, Taiwan, United States, Yang_
 Defense Secretary Robert Gates described the mistaken killing of nine Afghan boys by NATO aircraft as a &quot;setback&quot; on Monday as the issue overshadowed a visit to Afghanistan to assess security progress.
 
 ### [Britain upgrades its relation with Palestine to a mission, the second-highest rank.](/news/2011/03/7/britain-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank.md)
-_Context: Britain, Palestinian, its relation_
+_Context: Palestinian, United Kingdom, its relation_
 
 ### [A court in Zimbabwe frees 38 people detained for weeks on charges of attempting to overthrow President Robert Mugabe, after they watched videos of the Arab Spring. ](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.md)
 _Context: Arab Spring, President, Robert Mugabe, Zimbabwe_

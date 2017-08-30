@@ -43,7 +43,7 @@ Britain tried to contain an outbreak of highly infectious foot and mouth on Satu
 _Context: 2007 South Asian floods, Bangladesh, Ganges River, India, Nepal, flood, monsoon_
 
 ### [ Ten pro-Taliban militants and four Pakistan Army soldiers are killed in a clash in North Waziristan near the Afghanistan border. In another incident, a suicide car bomber kills six in Parachinar, North West Frontier Province in Pakistan. ](/news/2007/08/4/ten-pro-taliban-militants-and-four-pakistan-army-soldiers-are-killed-in-a-clash-in-north-waziristan-near-the-afghanistan-border-in-another.md)
-_Context: Afghanistan, Khyber Pakhtunkhwa, Pakistan army, Parachinar, Taliban, Waziristan, soldier_
+_Context: Afghanistan's, Khyber Pakhtunkhwa, Pakistan army, Parachinar, Taliban, Waziristan, soldier_
 
 ## [Previous Day...](/news/2007/08/3/index.md)
 

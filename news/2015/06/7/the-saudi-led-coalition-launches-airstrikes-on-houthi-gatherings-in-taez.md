@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 2. [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 3. [Saudi Arabia shoots down a Scud missile fired by Houthi rebels in Yemen according to Saudi State media. ](/news/2015/06/6/saudi-arabia-shoots-down-a-scud-missile-fired-by-houthi-rebels-in-yemen-according-to-saudi-state-media.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 4. [Scheduled talks of 14th June, 2015 between Yemen's Houthi rebels and the exiled government which are brokered by the UN have been postponed with a new schedule set for Monday 15 June, 2015. ](/news/2015/06/13/scheduled-talks-of-14th-june-2015-between-yemen-s-houthi-rebels-and-the-exiled-government-which-are-brokered-by-the-un-have-been-postponed.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_

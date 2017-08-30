@@ -13,7 +13,7 @@ _Context: 9/11 Commission, Bob Kerrey, Max Cleland, U.S. Export-Import Bank, Uni
 _Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democrat, Howard Dean_
 
 ### [The M6 Toll road, the United Kingdom's first toll motorway, partially opens in the West Midlands. It is due to open fully on December 13. [http://news.bbc.co.uk/1/hi/england/staffordshire/3298789.stm]](/news/2003/12/9/the-m6-toll-road-the-united-kingdom-s-first-toll-motorway-partially-opens-in-the-west-midlands-it-is-due-to-open-fully-on-december-13-h.md)
-_Context: Britain, December 13, M6 Toll, West Midlands_
+_Context: December 13, M6 Toll, United Kingdom, West Midlands_
 
 ### [Some 60 U.S. soldiers and a handful of Iraqis are injured in Tal Afar, west of Mosul, when a pre-dawn car bomb explodes at an entrance to an army base. ](/news/2003/12/9/some-60-u-s-soldiers-and-a-handful-of-iraqis-are-injured-in-tal-afar-west-of-mosul-when-a-pre-dawn-car-bomb-explodes-at-an-entrance-to-an.md)
 _Context: Iraq, Mosul, Tal Afar, United States, car bomb_

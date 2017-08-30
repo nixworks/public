@@ -1,13 +1,13 @@
 ## [2013-03-10](/news/2013/03/10/index.md)
 
 ### [President of Afghanistan Hamid Karzai alleges that the U.S. armed forces are collaborating in some way with the Afghan Taliban in an effort to ensure that some troops remain after the scheduled 2014 pullout. ](/news/2013/03/10/president-of-afghanistan-hamid-karzai-alleges-that-the-u-s-armed-forces-are-collaborating-in-some-way-with-the-afghan-taliban-in-an-effort.md)
-_Context: Afghan Taliban, Afghanistan, Afghanistan President, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
+_Context: Afghan Taliban, Afghanistan President, Afghanistan's, Hamid Karzai, U.S. withdrawal, United States, United States military personnel_
 
 ### [Hundreds of Christian protestors clash with police across Pakistan after the burning of Christian houses in Lahore. ](/news/2013/03/10/hundreds-of-christian-protestors-clash-with-police-across-pakistan-after-the-burning-of-christian-houses-in-lahore.md)
 _Context: Christian, Christian, Lahore, Pakistan_
 
 ### [Nigerian militants belonging to Ansar al-Muslimeen claim responsibility to kidnapping and killing Italian, Greek, and British construction workers in Northern Nigeria. ](/news/2013/03/10/nigerian-militants-belonging-to-ansar-al-muslimeen-claim-responsibility-to-kidnapping-and-killing-italian-greek-and-british-construction-w.md)
-_Context: Ansaru, Britain, Greek, Italian, Nigeria, Northern Nigeria_
+_Context: Ansaru, Greek, Italian, Nigeria, Northern Nigeria, United Kingdom_
 
 ### [Daylight saving time goes into effect across the United States (except Arizona and Hawaii) and Canada (except Saskatchewan). ](/news/2013/03/10/daylight-saving-time-goes-into-effect-across-the-united-states-except-arizona-and-hawaii-and-canada-except-saskatchewan.md)
 Canadians in provinces that use daylight saving time during the summer months will need to adjust their clocks back by an hour at 2 a.m. on Sunday Nov. 1 for the switch to local standard time.

@@ -4,7 +4,7 @@
 _Context: Aleppo, Deir ez-Zor, Syria_
 
 ### [Two suicide bombings near a NATO base kill at least 12 people and wound 50 others in the Sayed Abad district of Afghanistan's Wardak province. ](/news/2012/09/1/two-suicide-bombings-near-a-nato-base-kill-at-least-12-people-and-wound-50-others-in-the-sayed-abad-district-of-afghanistan-s-wardak-provinc.md)
-_Context: Afghanistan, NATO, Sayed Abad district, Wardak province_
+_Context: Afghanistan's, NATO, Sayed Abad district, Wardak province_
 
 ### [Eduardo Arellano Felix, a former drug lord of the Tijuana Cartel, is extradited to the United States from Mexico. He is the last brother of the cartel in a 2003 indictment to be extradited. ](/news/2012/09/1/eduardo-arellano-fa-c-lix-a-former-drug-lord-of-the-tijuana-cartel-is-extradited-to-the-united-states-from-mexico-he-is-the-last-brother-of.md)
 _Context: Eduardo Arellano Felix, Tijuana Cartel_

@@ -31,7 +31,7 @@ Canadian police have arrested a man who was found carrying three bombs in the bo
 _Context: Colombia, FARC, Hugo Chavez, President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
-_Context: Britain, England, Meteorological Office_
+_Context: England, Meteorological Office, United Kingdom_
 
 ### [ Mike Nifong, the prosecutor in the 2006 Duke University lacrosse case, is found in criminal contempt of court for lying to a judge in the case and is sentenced to a day in jail. ](/news/2007/08/31/mike-nifong-the-prosecutor-in-the-2006-duke-university-lacrosse-case-is-found-in-criminal-contempt-of-court-for-lying-to-a-judge-in-the-c.md)
 _Context: 2006 Duke University lacrosse case, Mike Nifong, contempt of court_
@@ -79,7 +79,7 @@ _Context: 2007 Greek forest fires, Algeria, Croatia, Greek, Les Useres, Spain, V
 _Context: Bendigo, Colbinabbin, Jacinta Allan, John Brumby, Premier, Victoria_
 
 ### [ At least two people are killed and ten others injured by a suicide bomb at the Kabul International Airport in Afghanistan. ](/news/2007/08/31/at-least-two-people-are-killed-and-ten-others-injured-by-a-suicide-bomb-at-the-kabul-international-airport-in-afghanistan.md)
-_Context: Afghanistan, Kabul International Airport, War in Afghanistan, suicide bomb_
+_Context: Afghanistan's, Kabul International Airport, War in Afghanistan, suicide bomb_
 
 ### [ Malaysia celebrates 50 years of independence.](/news/2007/08/31/malaysia-celebrates-50-years-of-independence.md)
 _Context: Malaysia_

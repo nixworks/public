@@ -30,7 +30,7 @@ A court in the Netherlands orders the government to cut greenhouse gas emissions
 ### [Dzhokhar Tsarnaev is formally sentenced to death in a federal court. He confirms his guilt and apologizes to the victims. ](/news/2015/06/24/dzhokhar-tsarnaev-is-formally-sentenced-to-death-in-a-federal-court-he-confirms-his-guilt-and-apologizes-to-the-victims.md)
 Since the federal government reinstated the death penalty in 1988, only three men have been executed.
 
-### [China's customs officers seize more than 100,000|MT|abbr=on of meat, many of which expired, some more than 40 years ago. ](/news/2015/06/24/china-s-customs-officers-seize-more-than-100-000-mt-abbr-on-of-meat-many-of-which-expired-some-more-than-40-years-ago.md)
+### [China's customs officers seize more than 100,000 MT of meat, many of which expired, some more than 40 years ago. ](/news/2015/06/24/china-s-customs-officers-seize-more-than-100-000-mt-of-meat-many-of-which-expired-some-more-than-40-years-ago.md)
 The thousands of tons of meat have an estimated value of more than $480 million — but also pose serious health risks, officials said.
 
 ### [Bobby Jindal, the Governor of Louisiana, announces that he will be a candidate for the Republican Party nomination in the 2016 Presidential election.](/news/2015/06/24/bobby-jindal-the-governor-of-louisiana-announces-that-he-will-be-a-candidate-for-the-republican-party-nomination-in-the-2016-presidential.md)

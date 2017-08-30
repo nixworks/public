@@ -16,7 +16,7 @@ _Context: BBC, Independent Electoral Commission of Iraq, in the vote held_
 _Context: Australia, First World War, William Evan Allan_
 
 ### [ Spinnaker Tower in Portsmouth is formally opened. Five years overdue and massively over budget, the tower offers the highest public vantage point in the UK. Project manager David Greenhalgh becomes trapped in the tower's external glass lift for over an hour at the opening. ](/news/2005/10/18/spinnaker-tower-in-portsmouth-is-formally-opened-five-years-overdue-and-massively-over-budget-the-tower-offers-the-highest-public-vantage.md)
-_Context: Britain, Portsmouth, Spinnaker Tower_
+_Context: Portsmouth, Spinnaker Tower, United Kingdom_
 
 ### [ Authorities closed one of two highway tunnels carrying traffic under Baltimore, Maryland's harbor following a threat to detonate explosive filled vehicles.](/news/2005/10/18/authorities-closed-one-of-two-highway-tunnels-carrying-traffic-under-baltimore-maryland-s-harbor-following-a-threat-to-detonate-explosive.md)
 _Context: Baltimore, Maryland_

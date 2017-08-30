@@ -67,7 +67,7 @@ _Context: Enrique Pena Nieto, cabinet_
 ### [Scientists develop a "magic carpet" with optical fibers to help prevent elderly people from falling by a warning when it detects unusual footsteps. ](/news/2012/09/4/scientists-develop-a-magic-carpet-with-optical-fibers-to-help-prevent-elderly-people-from-falling-by-a-warning-when-it-detects-unusual-foo.md)
 _Context: from falling_
 
-### [Beijing and Shanghai place orders for the world's longest bus, the 101|foot|m, five-axle, four-steering-axle, three-tiered "AutoTram". It carries 256 passengers and costs about $10 million a piece. Due to advanced electronics, it is said to be as maneuverable and precise as a conventional bus. ](/news/2012/09/4/beijing-and-shanghai-place-orders-for-the-world-s-longest-bus-the-101-foot-m-five-axle-four-steering-axle-three-tiered-autotram-it-ca.md)
+### [Beijing and Shanghai place orders for the world's longest bus, the 101 foot, five-axle, four-steering-axle, three-tiered "AutoTram". It carries 256 passengers and costs about $10 million a piece. Due to advanced electronics, it is said to be as maneuverable and precise as a conventional bus. ](/news/2012/09/4/beijing-and-shanghai-place-orders-for-the-world-s-longest-bus-the-101-foot-five-axle-four-steering-axle-three-tiered-autotram-it-carr.md)
 _Context: three-tiered_
 
 ### [The opening date of the new airport serving the Berlin area is delayed again, until late October 2013. ](/news/2012/09/4/the-opening-date-of-the-new-airport-serving-the-berlin-area-is-delayed-again-until-late-october-2013.md)

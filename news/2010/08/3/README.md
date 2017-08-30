@@ -22,7 +22,7 @@ _Context: Aqaba, Egypt, Jordan, Sinai_
 _Context: Baghdad, Iraq_
 
 ### [A battle erupts as the Taliban attacks the Kandahar Air Field, the main NATO base in southern Afghanistan. The battle lasts an hour, after which the Taliban flee. ](/news/2010/08/3/a-battle-erupts-as-the-taliban-attacks-the-kandahar-air-field-the-main-nato-base-in-southern-afghanistan-the-battle-lasts-an-hour-after-w.md)
-_Context: Afghanistan, Kandahar Air Field, NATO, Taliban_
+_Context: Afghanistan's, Kandahar Air Field, NATO, Taliban_
 
 ### [A worker kills 9 people, including himself, in a workplace incident at Hartford Distributors Inc in Connecticut, United States. ](/news/2010/08/3/a-worker-kills-9-people-including-himself-in-a-workplace-incident-at-hartford-distributors-inc-in-connecticut-united-states.md)
 Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;of&#x20;Connecticut&#x20;on&#x20;Tuesday&#x20;when&#x20;a&#x20;disgruntled&#x20;beer&#x20;warehouse&#x20;employee&#x20;opened&#x20;fire&#x20;on&#x20;his&#x20;co-workers&#x20;before&#x20;shooting&#x20;himself.
@@ -67,7 +67,7 @@ _Context: Defense Minister, Ehud Barak, Iran, Israel, Turkey, ambassador, foreig
 _Context: Pacific Islands Forum Leaders Summit, Port Vila, Vanuatu_
 
 ### [President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". ](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-in-the-united-kingdom-upon-a-five-day-visit-as-the-two-countries-disagree-over-david-cameron.md)
-_Context: Asif Ali Zardari, Britain, David Cameron, President_
+_Context: Asif Ali Zardari, David Cameron, President, United Kingdom_
 
 ### [Zimbabwe requests apologies from American, German and European Union envoys who walked out of the burial ceremony for President Robert Mugabe's sister; they refuse to apologise. ](/news/2010/08/3/zimbabwe-requests-apologies-from-american-german-and-european-union-envoys-who-walked-out-of-the-burial-ceremony-for-president-robert-mugab.md)
 _Context: European Union, Germany, President of Zimbabwe, Robert Mugabe, United States, Zimbabwe, funeral_

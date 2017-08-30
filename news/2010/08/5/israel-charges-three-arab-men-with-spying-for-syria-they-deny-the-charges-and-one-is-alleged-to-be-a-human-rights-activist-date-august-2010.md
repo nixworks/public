@@ -1,6 +1,6 @@
 ### [2010-08-5](/news/2010/08/5/index.md)
 
-# Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.date=August 2010|does Israel "accuse" him of being a human rights activist??? 
+# Israel charges three Arab men with spying for Syria; they deny the charges and one is alleged to be a human rights activist.date=August 2010 does Israel "accuse" him of being a human rights activist??? 
 
 Israel charges three Arab men with spying, saying they passed intelligence to Syria and plotted to kidnap a Syrian pilot who had defected to Israel.
 

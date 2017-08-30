@@ -15,7 +15,7 @@ _Context: Donald Tusk, EUR, Polish_
 ### [ 12 people are killed when a students' union rally turns violent in Guwahati, India.date=December 2007 ](/news/2007/11/24/12-people-are-killed-when-a-students-union-rally-turns-violent-in-guwahati-india-date-december-2007.md)
 _Context: Guwahati, India, demonstration_
 
-### [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250|acre|km2 of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-km2-of-state-park-land-burned-south-of.md)
+### [ Wildfires in Malibu, California, cause 100 homes in 3 separate communities to be evacuated. 250 acre of state park land burned south of Malibu Lake. ](/news/2007/11/24/wildfires-in-malibu-california-cause-100-homes-in-3-separate-communities-to-be-evacuated-250-acre-of-state-park-land-burned-south-of-mal.md)
 _Context: California, Malibu, state park, wildfires_
 
 ### [ Typhoon Mitag remains static over the Philippine Sea but changes course, and is expected to make landfall in Aurora-Isabela provinces of the Philippines on Monday due to the very slow and unusual movement. ](/news/2007/11/24/typhoon-mitag-remains-static-over-the-philippine-sea-but-changes-course-and-is-expected-to-make-landfall-in-aurora-isabela-provinces-of-th.md)
@@ -28,7 +28,7 @@ _Context: Garry Kasparov, Moscow, Russia, The Other Russia, opposition leader_
 _Context: Cardinal, Pope, Pope Benedict XVI, Vatican, Vatican City_
 
 ### [ At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. ](/news/2007/11/24/at-least-six-people-most-of-them-children-are-killed-by-a-suicide-bomber-in-paghman-afghanistan.md)
-_Context: Afghanistan, Paghman, suicide bomber_
+_Context: Afghanistan's, Paghman, suicide bomber_
 
 ### [ The national election in Australia results in a change of government, with the Australian Labor Party securing an electoral swing of more than 5%. Kevin Rudd will take office as 26th Prime Minister of Australia and the outgoing Prime Minister John Howard is also likely to lose his seat in parliament. [http://www.theaustralian.news.com.au/story/0,25197,22814923-601,00.html (The Australian)] John Howard calls the leader of the Australian Labor Party, Kevin Rudd, on the phone and concedes defeat. ](/news/2007/11/24/the-national-election-in-australia-results-in-a-change-of-government-with-the-australian-labor-party-securing-an-electoral-swing-of-more-t.md)
 _Context: Australia, Australian Prime Minister, John Howard, Kevin Rudd, Labor Party, Parliament, national election_

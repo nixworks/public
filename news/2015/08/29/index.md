@@ -12,7 +12,7 @@ _Context: Iraq, Iraq War (2014-present)_
 ### [A bus traveling between Butterworth and Willovale in the Eastern Cape, South Africa, drives off a cliff killing thirty-five people. ](/news/2015/08/29/a-bus-traveling-between-butterworth-and-willovale-in-the-eastern-cape-south-africa-drives-off-a-cliff-killing-thirty-five-people.md)
 Only nine of the 44 people inside a bus that drove off a cliff on the R408, between Butterworth and Willovale, have survived the horror accident.
 
-### [A Pacific Northwest windstorm, with winds of up to 87|mph|kph, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-87-mph-kph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolitan-area-with.md)
+### [A Pacific Northwest windstorm, with winds of up to 87 mph, leaves two dead and over 450,000 people in the Seattle metropolitan area without power. ](/news/2015/08/29/a-pacific-northwest-windstorm-with-winds-of-up-to-87-mph-leaves-two-dead-and-over-450-000-people-in-the-seattle-metropolitan-area-without.md)
 A powerful and rare summertime windstorm packing 50-70 mph winds is being blamed for two deaths, four injuries and knocking out power to our 450,000 people Saturday afternoon.
 
 ### [A man, who fell from the upper deck of Atlanta's Turner Field during Saturday night's Braves-New York Yankees baseball game, dies. ](/news/2015/08/29/a-man-who-fell-from-the-upper-deck-of-atlanta-s-turner-field-during-saturday-night-s-braves-new-york-yankees-baseball-game-dies.md)

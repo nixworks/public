@@ -37,7 +37,7 @@ The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patro
 _Context: Europe, European Union, General National Congress, Libya, Libyan Crisis (2011-present), Tripoli, radical Islamists_
 
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
-_Context: Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Territorial disputes in the South China Sea, Tokyo, Vietnam, port city of Da Nang_
+_Context: Cabinet of Japan, Coast Guard, Japan, Japan-Vietnam relations, South China Sea, Territorial disputes in the South China Sea, Vietnam, port city of Da Nang_
 
 ### [ German Chancellor Angela Merkel announces a plan to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refugee.md)
 German Chancellor Angela Merkel announced a plan to register and distribute incoming refugees evenly throughout the European Union.

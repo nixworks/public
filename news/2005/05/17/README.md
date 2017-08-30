@@ -31,7 +31,7 @@ _Context: Basque, ETA, Spain_
 _Context: Bosnia and Herzegovina, Foca, Hague, International Criminal Court, Muslim, Radovan Stankovic, rape_
 
 ### [ A court in Paris sentences four men to 2-7 years in prison for complicity in the murder of Afghan resistance leader Ahmed Shah Masood in 2001. ](/news/2005/05/17/a-court-in-paris-sentences-four-men-to-2-7-years-in-prison-for-complicity-in-the-murder-of-afghan-resistance-leader-ahmed-shah-masood-in-20.md)
-_Context: Afghanistan, Ahmed Shah Masood, Paris_
+_Context: Afghanistan's, Ahmed Shah Masood, Paris_
 
 ### [ In Russia, the trial of Nur-Pashi Kulayev, the only survivor of the attackers in the Beslan school hostage crisis, begins. Relatives of the victims disrupt the proceedings. ](/news/2005/05/17/in-russia-the-trial-of-nur-pashi-kulayev-the-only-survivor-of-the-attackers-in-the-beslan-school-hostage-crisis-begins-relatives-of-the.md)
 _Context: Beslan children killed a year ago, Nur-Pashi Kulayev, Russia_
@@ -43,7 +43,7 @@ Reuters.com for the weird, oddly enough stories.
 _Context: Kenya, Thomas P. G. Cholmondeley, insufficient evidence, murder_
 
 ### [ British Prime Minister Tony Blair's government unveils a controversial proposal for national identity cards and other counter-terrorism measures besides a bill on immigration. ](/news/2005/05/17/british-prime-minister-tony-blair-s-government-unveils-a-controversial-proposal-for-national-identity-cards-and-other-counter-terrorism-mea.md)
-_Context: Britain, Prime Minister, Tony Blair, migrants, national identity card_
+_Context: Prime Minister, Tony Blair, United Kingdom, migrants, national identity card_
 
 ### [ American alternative metal band System of a Down release their first installment of their double album, Mezmerize](/news/2005/05/17/american-alternative-metal-band-system-of-a-down-release-their-first-installment-of-their-double-album-mezmerize.md)
 _Context: Mezmerize, System of a Down, alternative metal_

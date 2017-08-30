@@ -16,7 +16,7 @@ The German government has warned against using Internet Explorer after a securit
 Diamond oceans are possible on Uranus and Neptune. Learn how scientists discovered that diamond oceans are possible on Uranus and Neptune.
 
 ### [The Afghan parliament for a second time rejects most of President Hamid Karzai's cabinet nominees. ](/news/2010/01/16/the-afghan-parliament-for-a-second-time-rejects-most-of-president-hamid-karzai-s-cabinet-nominees.md)
-_Context: Afghanistan, Hamid Karzai_
+_Context: Afghanistan's, Hamid Karzai_
 
 ### [India's National Security Advisor M K Narayanan steps down as part of an overhaul of security in the country. ](/news/2010/01/16/india-s-national-security-advisor-m-k-narayanan-steps-down-as-part-of-an-overhaul-of-security-in-the-country.md)
 _Context: India, M K Narayanan, National Security Advisor_

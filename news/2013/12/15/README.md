@@ -1,7 +1,7 @@
 ## [2013-12-15](/news/2013/12/15/index.md)
 
 ### [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md)
-_Context: Afghanistan, Australia_
+_Context: Afghanistan's, Australia_
 
 ### [Sixteen people die in a clash near the city of Kashgar in China's restive Xinjiang province. ](/news/2013/12/15/sixteen-people-die-in-a-clash-near-the-city-of-kashgar-in-china-s-restive-xinjiang-province.md)
 _Context: China, Kashgar, Xinjiang_

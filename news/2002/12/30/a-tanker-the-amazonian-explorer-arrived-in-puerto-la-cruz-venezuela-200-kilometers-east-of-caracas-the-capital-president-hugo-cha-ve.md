@@ -1,6 +1,6 @@
 ### [2002-12-30](/news/2002/12/30/index.md)
 
-# A tanker, the "Amazonian Explorer", arrived in Puerto la Cruz, Venezuela, 200 kilometers east of Caracas, the capital. President Hugo Chavez traveled to the port to supervise the unloading of 525000|oilbbl|m3 of gasoline. Gasoline is restricted due to a strike at Petroleos de Venezuela SA (PdVSA), the state-owned oil company, which is aimed at forcing President Chavez to call early elections.
+# A tanker, the "Amazonian Explorer", arrived in Puerto la Cruz, Venezuela, 200 kilometers east of Caracas, the capital. President Hugo Chavez traveled to the port to supervise the unloading of 525000 oilbbl of gasoline. Gasoline is restricted due to a strike at Petroleos de Venezuela SA (PdVSA), the state-owned oil company, which is aimed at forcing President Chavez to call early elections.
 
 
 

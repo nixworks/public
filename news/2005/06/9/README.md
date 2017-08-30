@@ -1,7 +1,7 @@
 ## [2005-06-9](/news/2005/06/9/index.md)
 
 ### [ Italian Clementina Cantoni a worker with CARE International who was held hostage in Afghanistan is released unharmed. ](/news/2005/06/9/italian-clementina-cantoni-a-worker-with-care-international-who-was-held-hostage-in-afghanistan-is-released-unharmed.md)
-_Context: Afghanistan, CARE International, Clementina Cantoni_
+_Context: Afghanistan's, CARE International, Clementina Cantoni_
 
 ### [ In Syria, the ruling Baath party votes to end the state of emergency that has lasted for 40 years. ](/news/2005/06/9/in-syria-the-ruling-baath-party-votes-to-end-the-state-of-emergency-that-has-lasted-for-40-years.md)
 _Context: Ba'ath Party, Syria, state of emergency_

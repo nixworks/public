@@ -13,7 +13,7 @@ _Context: Tyson Foods Incorporated, chicken nuggets_
 _Context: Indonesia, Java, Tasikmalaya_
 
 ### [Amidst violence, voters in Afghanistan elect a new President in what is the country's first democratic transfer of power. ](/news/2014/04/5/amidst-violence-voters-in-afghanistan-elect-a-new-president-in-what-is-the-country-s-first-democratic-transfer-of-power.md)
-_Context: Afghanistan_
+_Context: Afghanistan's_
 
 ### [Voters in the Australian state of Western Australia go to the polls for a Federal Senate election. ](/news/2014/04/5/voters-in-the-australian-state-of-western-australia-go-to-the-polls-for-a-federal-senate-election.md)
 PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters as they head to the polls for a Senate election re-run.

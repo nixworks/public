@@ -7,7 +7,7 @@ _Context: Pakistan, Rawalpindi, large blast_
 _Context: Venezuela, rationing water_
 
 ### [ The Royal Bank of Scotland announces cuts of 3,700 staff in the United Kingdom. ](/news/2009/11/2/the-royal-bank-of-scotland-announces-cuts-of-3-700-staff-in-the-united-kingdom.md)
-_Context: Britain, Royal Bank of Scotland_
+_Context: Royal Bank of Scotland, United Kingdom_
 
 ### [ 16 people are killed in a fire that destroyed 58 houses in the Philippine city of Bacolod. ](/news/2009/11/2/16-people-are-killed-in-a-fire-that-destroyed-58-houses-in-the-philippine-city-of-bacolod.md)
 _Context: Bacolod, Philippines_
@@ -34,7 +34,7 @@ Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribu
 _Context: Bhumibol Adulyadej, Thailand, lese-majeste_
 
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
-_Context: Afghanistan, Ban Ki-moon, United Nations Secretary-General, presidential election_
+_Context: Afghanistan's, Ban Ki-moon, United Nations Secretary-General, presidential election_
 
 ## [Previous Day...](/news/2009/11/1/index.md)
 

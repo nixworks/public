@@ -3,7 +3,7 @@
 ### [An ambush on a Turkish military convoy in the south-eastern Sirnak Province by PKK militants kills 3 Turkish soldiers. ](/news/2015/07/30/an-ambush-on-a-turkish-military-convoy-in-the-south-eastern-aa-rnak-province-by-pkk-militants-kills-3-turkish-soldiers.md)
 Three Turkish soldiers are killed as a military convoy is attacked by the PKK in the south-eastern province of Sirnak.
 
-### [A heat wave hits the Middle East with Baghdad recording a top temperature of 50|C|F and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2|F|C|order=flip. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-f-and-the-iranian-city-of-bandar-mahshahr-recording-a-near.md)
+### [A heat wave hits the Middle East with Baghdad recording a top temperature of 50 C and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2 F. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.md)
 _Context: Baghdad, Iran, Middle East, heat index_
 
 ### [At least 30 people are killed in a landslide that struck villages near Pokhara, Nepal. ](/news/2015/07/30/at-least-30-people-are-killed-in-a-landslide-that-struck-villages-near-pokhara-nepal.md)

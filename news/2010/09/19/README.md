@@ -4,7 +4,7 @@
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: Afghanistan, United States, United States Army_
+_Context: Afghanistan's, United States, United States Army_
 
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
 _Context: 2 car bomb, Baghdad, Iraq_
@@ -49,10 +49,10 @@ _Context: China, Japan_
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.
 
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: Amsterdam, Amsterdam Airport Schiphol, Britain, Somalia, Uganda, terrorism_
+_Context: Amsterdam, Amsterdam Airport Schiphol, Somalia, Uganda, United Kingdom, terrorism_
 
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
-_Context: Air India Flight 182, Narita International Airport, committed perjury_
+_Context: Air India Flight 182, Narita International Airport, perjury_
 
 ### [At least four people are killed and a police officer seriously wounded in a shooting incident at a hospital in Lorrach, Germany. ](/news/2010/09/19/at-least-four-people-are-killed-and-a-police-officer-seriously-wounded-in-a-shooting-incident-at-a-hospital-in-laprrach-germany.md)
 Four people are killed and one seriously injured in a shooting at a German hospital and a blast in a nearby building, reports say.

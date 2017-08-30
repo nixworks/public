@@ -1,7 +1,7 @@
 ## [2014-09-8](/news/2014/09/8/index.md)
 
 ### [A suicide bomb attack kills the police chief of a district in southern Kandahar Province in Afghanistan. ](/news/2014/09/8/a-suicide-bomb-attack-kills-the-police-chief-of-a-district-in-southern-kandahar-province-in-afghanistan.md)
-_Context: Afghanistan, Kandahar Province, Taliban insurgency, suicide bomb_
+_Context: Afghanistan's, Kandahar Province, Taliban insurgency, suicide bomb_
 
 ### [Pro-Russian rebels release 1,200 prisoners under ceasefire deal. ](/news/2014/09/8/pro-russian-rebels-release-1-200-prisoners-under-ceasefire-deal.md)
 Pro-Russian rebels have released 1,200 people they had taken captive, Ukrainian President Petro Poroshenko says.

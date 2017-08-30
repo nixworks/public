@@ -13,7 +13,7 @@ _Context: Israel Defense Forces, Ofer Prison, Palestinian_
 _Context: Israel, MP, UK government, military equipment, occupied territories_
 
 ### [A bicycle-borne bomb kills at least 13 people and injures 45 others in Afghanistan's Helmand province. ](/news/2010/03/31/a-bicycle-borne-bomb-kills-at-least-13-people-and-injures-45-others-in-afghanistan-s-helmand-province.md)
-_Context: Afghanistan, Helmand Province_
+_Context: Afghanistan's, Helmand Province_
 
 ### [Twelve people, including two police officers, are killed in two blasts in the town of Kizlyar in Russia's volatile North Caucasus region of Dagestan. ](/news/2010/03/31/twelve-people-including-two-police-officers-are-killed-in-two-blasts-in-the-town-of-kizlyar-in-russia-s-volatile-north-caucasus-region-of.md)
 _Context: Dagestan, Kizlyar, North Caucasus, the deaths of 12 people occur there in a double suicide attack_

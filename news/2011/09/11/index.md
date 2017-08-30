@@ -4,7 +4,7 @@
 Ten years on from the day the 9/11 terrorist attacks changed so much for so many people, the world&#x27;s leaders and millions of citizens are pausing to reflect.
 
 ### [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md)
-_Context: Afghanistan, Wardak province, car bomb, military outpost_
+_Context: Afghanistan's, Wardak province, car bomb, military outpost_
 
 ### [Police in Gothenburg, Sweden, arrest four people after a suspected failed terrorist attack. ](/news/2011/09/11/police-in-gothenburg-sweden-arrest-four-people-after-a-suspected-failed-terrorist-attack.md)
 _Context: Gothenburg, Sweden_

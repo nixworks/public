@@ -7,7 +7,7 @@ _Context: 2010, Global Positioning System, Government Accountability Office, Uni
 _Context: Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, form of government, inauguration_
 
 ### [ United Kingdom House of Commons Speaker Michael Martin announces that he will resign on June 21. ](/news/2009/05/19/united-kingdom-house-of-commons-speaker-michael-martin-announces-that-he-will-resign-on-june-21.md)
-_Context: Britain, House of Commons of the United Kingdom, Michael Martin, Speaker of the UK House of Commons_
+_Context: House of Commons of the United Kingdom, Michael Martin, Speaker of the UK House of Commons, United Kingdom_
 
 ### [ President Mahinda Rajapaksa declares Sri Lanka "liberated" from the Liberation Tigers of Tamil Eelam. ](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.md)
 _Context: LTTE, Mahinda Rajapaksa, President of Sri Lanka, Sri Lanka, Sri Lankan Civil War_

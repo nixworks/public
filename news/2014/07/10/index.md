@@ -7,7 +7,7 @@ Leaders of the pro-Russia separatists said they had decided to surrender another
 How graphic images are being used on social media.
 
 ### [Civil servants in the United Kingdom go on strike over salary freezes and public sector cuts. ](/news/2014/07/10/civil-servants-in-the-united-kingdom-go-on-strike-over-salary-freezes-and-public-sector-cuts.md)
-_Context: Britain_
+_Context: United Kingdom_
 
 ### [Germany expels the Berlin station chief of the United States Central Intelligence Agency following a series of spy scandals. ](/news/2014/07/10/germany-expels-the-berlin-station-chief-of-the-united-states-central-intelligence-agency-following-a-series-of-spy-scandals.md)
 Germany&#039;s decision to expel the US CIA station chief in Berlin has met with a cool response from Washington, saying any comment would risk US interests.

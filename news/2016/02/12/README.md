@@ -10,7 +10,7 @@ A MiG-23 fighter of Libya&#x27;s internationally recognised government was shot 
 _Context: Aden, Yemeni conflict, policemen_
 
 ### [Evgeny Lebedev, the owner of the British national newspaper, "The Independent", announces that as of March 2016, the 29-year-old paper will only publish online with print editions coming to an end. ](/news/2016/02/12/evgeny-lebedev-the-owner-of-the-british-national-newspaper-the-independent-announces-that-as-of-march-2016-the-29-year-old-paper-will.md)
-_Context: Britain, Evgeny Lebedev, The Independent, newspaper_
+_Context: Evgeny Lebedev, The Independent, United Kingdom, newspaper_
 
 ### [The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-buried-in-the-apartment-co.md)
 _Context: 2016 Taiwan earthquake, Tainan's_

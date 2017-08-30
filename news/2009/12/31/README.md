@@ -10,10 +10,10 @@ Tributes have been paid to the former Catholic Primate of All Ireland, Cardinal 
 _Context: Abdoulaye Wade, Jesus, President, Senegal_
 
 ### [ Two French journalists and their translator are kidnapped in Kapisa Province, Afghanistan. ](/news/2009/12/31/two-french-journalists-and-their-translator-are-kidnapped-in-kapisa-province-afghanistan.md)
-_Context: Afghanistan, France, Kapisa province_
+_Context: Afghanistan's, France, Kapisa province_
 
 ### [ The Althing (Icelandic parliament) approves the payment of EUR3.8 billion to the United Kingdom and the Netherlands as deposit insurance for the collapsed Icesave savings scheme. ](/news/2009/12/31/the-althing-icelandic-parliament-approves-the-payment-of-a-3-8-billion-to-the-united-kingdom-and-the-netherlands-as-deposit-insurance-fo.md)
-_Context: Britain, Iceland, Icesave, Netherlands, deposit insurance, parliament (Althing)_
+_Context: Iceland, Icesave, Netherlands, United Kingdom, deposit insurance, parliament (Althing)_
 
 ### [ The Government of Serbia decides to sue Croatia for genocide before the International Court of Justice. ](/news/2009/12/31/the-government-of-serbia-decides-to-sue-croatia-for-genocide-before-the-international-court-of-justice.md)
 _Context: Croatia, Government of Serbia, International Court of Justice, genocide_

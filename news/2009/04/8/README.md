@@ -28,7 +28,7 @@ _Context: Chad, French Foreign Legion, rogue_
 _Context: Costa Rica, Malaysia, Organisation for Economic Co-operation and Development, Philippines, blacklist, tax haven_
 
 ### [ The United Kingdom Independent Police Complaints Commission announces an inquest into Ian Tomlinson's death. ](/news/2009/04/8/the-united-kingdom-independent-police-complaints-commission-announces-an-inquest-into-ian-tomlinson-s-death.md)
-_Context: Britain, Independent Police Complaints Commission, death of Ian Tomlinson, inquest_
+_Context: Independent Police Complaints Commission, United Kingdom, death of Ian Tomlinson, inquest_
 
 ## [Previous Day...](/news/2009/04/7/index.md)
 

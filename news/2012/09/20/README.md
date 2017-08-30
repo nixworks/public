@@ -40,10 +40,10 @@ Exit polls suggested on Thursday that Joko Widodo, the populist mayor of another
 Hundreds of people held a spontaneous protest in Georgia’s capital Tbilisi early on Wednesday following late night news bulletins purportedly showing
 
 ### [President Karzai dismisses Mohammad Gulab Mangal and others in a reshuffle of the government in Afghanistan. ](/news/2012/09/20/president-karzai-dismisses-mohammad-gulab-mangal-and-others-in-a-reshuffle-of-the-government-in-afghanistan.md)
-_Context: Afghanistan, Hamid Karzai, Mohammad Gulab Mangal_
+_Context: Afghanistan's, Hamid Karzai, Mohammad Gulab Mangal_
 
 ### [Tim Pawlenty resigns as the co-chairman of Mitt Romney's electoral campaign. He is to head the Financial Services Roundtable in Washington, D.C.. ](/news/2012/09/20/tim-pawlenty-resigns-as-the-co-chairman-of-mitt-romney-s-electoral-campaign-he-is-to-head-the-financial-services-roundtable-in-washington.md)
-_Context: Financial Services Roundtable, Mitt Romney, Tim Pawlenty, Washington, D.C._
+_Context: Financial Services Roundtable, Mitt Romney, Tim Pawlenty, U.S. capital_
 
 ### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)
 _Context: University of Nebraska-Lincoln, journalism_

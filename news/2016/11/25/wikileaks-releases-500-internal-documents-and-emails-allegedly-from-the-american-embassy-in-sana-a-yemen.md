@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sanaa_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sanaa_
 2. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: WikiLeaks_
 3. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: WikiLeaks_
 4. [An air raid on a funeral in a village north of Sana'a kills at least eight women and children. The Houthis blames the Saudi-led coalition for the attack. ](/news/2017/02/16/an-air-raid-on-a-funeral-in-a-village-north-of-sana-a-kills-at-least-eight-women-and-children-the-houthis-blames-the-saudi-led-coalition-fo.md) _Context: Sanaa_

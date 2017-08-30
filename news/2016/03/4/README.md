@@ -21,7 +21,7 @@ _Context: Electricity, Syria, Syria's Electricity Ministry, electrical grid_
 ### [Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bali.md)
 _Context: Bali, Bali Strait, East Java, Indonesia_
 
-### [The U.S. Navy dispatches a carrier strike group containing the Nimitz|aircraft carrier|0 nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-aircraft-carrier-0-nuclear-powered-supercarrier-john-c-stennis-to-the.md)
+### [The U.S. Navy dispatches a carrier strike group containing the Nimitz carrier nuclear-powered supercarrier John C. Stennis to the South China Sea. ](/news/2016/03/4/the-u-s-navy-dispatches-a-carrier-strike-group-containing-the-nimitz-carrier-nuclear-powered-supercarrier-john-c-stennis-to-the-south-chin.md)
 The USS John C. Stennis arrived with three other ships Tuesday.
 
 ### [Japanese Prime Minister Shinzo Abe agrees to suspend work to expand the U.S. military base on Okinawa Island. Abe says his government will follow the court recommendation and settle several lawsuits over landfill work carried out to prepare for new runways. ](/news/2016/03/4/japanese-prime-minister-shinza-abe-agrees-to-suspend-work-to-expand-the-u-s-military-base-on-okinawa-island-abe-says-his-government-will.md)

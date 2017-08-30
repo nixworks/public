@@ -19,7 +19,7 @@ _Context: Stonehenge, summer solstice_
 _Context: Hawnby, Helmsley, North Yorkshire, Rye, Swale, Thirsk_
 
 ### [ In Manchester, UK, 30 police raid a house at 5 a.m. and arrest a 40-year-old man on suspicion of involvement in suicide bombings in Iraq. Another man resident in the same house is believed to have gone to Iraq in February to carry out a bombing. Last week, police in Spain and Germany also made arrests in connection with bombings in Iraq, but it is not known if the cases are related. ](/news/2005/06/21/in-manchester-uk-30-police-raid-a-house-at-5-a-m-and-arrest-a-40-year-old-man-on-suspicion-of-involvement-in-suicide-bombings-in-iraq-a.md)
-_Context: Britain, Germany, Iraq, Manchester, Spain, suicide bomb_
+_Context: Germany, Iraq, Manchester, Spain, United Kingdom, suicide bomb_
 
 ### [ New Zealand's telecoms network crashes for five hours when a rat chews one of the North Island's main fibre-optic cables at the same time as a workman damaged another cable in another part of the island. Mobile phone and Internet communications were badly affected, and the Stock Exchange had to close for several hours. ](/news/2005/06/21/new-zealand-s-telecoms-network-crashes-for-five-hours-when-a-rat-chews-one-of-the-north-island-s-main-fibre-optic-cables-at-the-same-time-a.md)
 _Context: New Zealand_

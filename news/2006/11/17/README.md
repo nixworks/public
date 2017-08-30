@@ -28,7 +28,7 @@ _Context: Asia-Pacific Economic Cooperation, Australian Prime Minister, George W
 _Context: Wikipedia in China, government_
 
 ### [ Greg Anderson, personal trainer to U.S. professional baseball player Barry Bonds, is ordered to go to prison for the third time for contempt of a grand jury for refusing to testify against Bonds regarding alleged perjury in connection to an earlier steroids investigation. ](/news/2006/11/17/greg-anderson-personal-trainer-to-u-s-professional-baseball-player-barry-bonds-is-ordered-to-go-to-prison-for-the-third-time-for-contemp.md)
-_Context: Barry Bonds, Greg Anderson, USA, baseball game, committed perjury, contempt of court, grand jury, personal trainer, prison, steroid_
+_Context: Barry Bonds, Greg Anderson, USA, baseball game, contempt of court, grand jury, perjury, personal trainer, prison, steroid_
 
 ### [ A change to Nicaragua's abortion law bans abortion in all cases, removing an exception where the woman's life was in danger. ](/news/2006/11/17/a-change-to-nicaragua-s-abortion-law-bans-abortion-in-all-cases-removing-an-exception-where-the-woman-s-life-was-in-danger.md)
 _Context: Nicaragua's abortion law_

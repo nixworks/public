@@ -21,7 +21,7 @@ A Democratic representative has introduced the first formal article of impeachme
 ### [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md)
 Parliament this evening approved the introduction of gay marriage through the new Marriage Equality Act with Nationalist MP Edwin Vassallo voting against. Malta became the 15th EU state to introduce same-sex marriage, just six years after the introduction of divorce. Clarifying his vote, Mr...
 
-### [A giant iceberg covering approximately 6000|km2|sqmi breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2-sqmi-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md)
+### [A giant iceberg covering approximately 6000 km2 breaks away from the Larsen C Ice Shelf in Antarctica. ](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2-breaks-away-from-the-larsen-c-ice-shelf-in-antarctica.md)
 A block of ice a quarter the size of Wales calves from the eastern side of the Antarctic Peninsula.
 
 ### [Several major internet companies and activist groups post messages defending net neutrality. ](/news/2017/07/12/several-major-internet-companies-and-activist-groups-post-messages-defending-net-neutrality.md)

@@ -7,7 +7,7 @@ The Government has, as expected, won the motion of confidence vote in the Dáil.
 A European road safety watchdog has criticised Ireland&#39;s continued failure to roll out the long promised network of privately operated speed cameras.
 
 ### [ At least two people are shot at the United States Holocaust Memorial Museum in Washington D.C., with an elderly white supremacist as the main suspect. ](/news/2009/06/10/at-least-two-people-are-shot-at-the-united-states-holocaust-memorial-museum-in-washington-d-c-with-an-elderly-white-supremacist-as-the-ma.md)
-_Context: United States Holocaust Memorial Museum, Washington, D.C., are shot, white supremacist_
+_Context: U.S. capital, United States Holocaust Memorial Museum, are shot, white supremacist_
 
 ### [ Thousands of people demonstrate in solidarity with victims of child abuse in Dublin as hundreds of victims are invited to meet Irish President Mary McAleese. ](/news/2009/06/10/thousands-of-people-demonstrate-in-solidarity-with-victims-of-child-abuse-in-dublin-as-hundreds-of-victims-are-invited-to-meet-irish-presid.md)
 Thousands of people have taken part in a silent march in solidarity with survivors of sexual abuse.
@@ -25,7 +25,7 @@ _Context: Bathaa, Dhiqar_
 _Context: Constituent Assembly, Philippines, constitutional constraints, demonstration_
 
 ### [ A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. ](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national-union-of-rail-maritime-and-transport-workers-disrupts-train-services-in-london.md)
-_Context: Britain, London, National Union of Rail, Maritime and Transport Workers, strike_
+_Context: London, National Union of Rail, Maritime and Transport Workers, United Kingdom, strike_
 
 ### [ Russia begins destroying 6,000 tons of nerve gas in Shchuchye, Kurgan Oblast. ](/news/2009/06/10/russia-begins-destroying-6-000-tons-of-nerve-gas-in-shchuchye-kurgan-oblast.md)
 _Context: Russia, Shchuchye, Kurgan Oblast, nerve agent_

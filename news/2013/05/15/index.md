@@ -49,7 +49,7 @@ General Assembly approves Qatari-drafted measure condemning alleged rights abuse
 WASHINGTON &ndash; President Obama announced the resignation Wednesday evening of Steven Miller, acting commissioner of the embattled Internal Revenue Service, a move the president said was...
 
 ### [In the United Kingdom House of Commons, an amendment to last Wednesday's Queen's Speech expressing regret that it did not contain legislation for a referendum on EU membership is defeated 277&ndash;131. ](/news/2013/05/15/in-the-united-kingdom-house-of-commons-an-amendment-to-last-wednesday-s-queen-s-speech-expressing-regret-that-it-did-not-contain-legislatio.md)
-_Context: Britain, European Union, House of Commons, Queen's Speech_
+_Context: European Union, House of Commons, Queen's Speech, United Kingdom_
 
 ### [In a study published in "Nature", University of Oregon researchers describe the first creation of human embryonic stem cells by cloning. ](/news/2013/05/15/in-a-study-published-in-nature-university-of-oregon-researchers-describe-the-first-creation-of-human-embryonic-stem-cells-by-cloning.md)
 Breakthrough sets up showdown with induced adult lines.

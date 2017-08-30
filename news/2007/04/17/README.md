@@ -22,7 +22,7 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being s
 _Context: 2014 Asian Games, Incheon, India, New Delhi, Olympic Council of Asia, South Korea_
 
 ### [ Four Nepalese United Nations workers and their driver are killed in a roadside bombing in Kandahar, Afghanistan. ](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.md)
-_Context: Afghanistan, Kandahar, Nepal, United Nations_
+_Context: Afghanistan's, Kandahar, Nepal, United Nations_
 
 ### [ Kevin Rudd, the leader of the Australian Labor Party, announces changes to the party's industrial relations policy, including the right to a secret ballot before strike action. ](/news/2007/04/17/kevin-rudd-the-leader-of-the-australian-labor-party-announces-changes-to-the-party-s-industrial-relations-policy-including-the-right-to.md)
 _Context: Kevin Rudd, Labor Party, industrial relations, secret ballot, strike_

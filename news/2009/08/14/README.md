@@ -9,7 +9,7 @@ _Context: Caracas_
 ### [ Malagasy peace talks break down when the armed forces reject one clause in the peace deal. ](/news/2009/08/14/malagasy-peace-talks-break-down-when-the-armed-forces-reject-one-clause-in-the-peace-deal.md)
 _Context: Madagascar_
 
-### [ The MV "Arctic Sea", missing since late July, is reportedly found 400|nmi|km|abbr=on off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-km-abbr-on-off-the-cape-verde-islands.md)
+### [ The MV "Arctic Sea", missing since late July, is reportedly found 400 nmi off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-off-the-cape-verde-islands.md)
 _Context: Cape Verde, MV ''Arctic Sea''_
 
 ### [ A Canadian court orders the government to repatriate Omar Khadr, the sole remaining Western citizen held in Guantanamo Bay detention camp. ](/news/2009/08/14/a-canadian-court-orders-the-government-to-repatriate-omar-khadr-the-sole-remaining-western-citizen-held-in-guantanamo-bay-detention-camp.md)
@@ -46,7 +46,7 @@ Lynette &quot;Squeaky&quot; Fromme, the Charles Manson follower who tried to ass
 Lawyers for the Lockerbie bomber say he is abandoning his second appeal against his conviction for the December 1988 attack as Scottish officials consider his request to be sent home to Libya.
 
 ### [ The United Kingdom imposes direct rule on the Turks and Caicos Islands after an inquiry found evidence of government corruption. ](/news/2009/08/14/the-united-kingdom-imposes-direct-rule-on-the-turks-and-caicos-islands-after-an-inquiry-found-evidence-of-government-corruption.md)
-_Context: Britain, Turks and Caicos Islands, direct rule, government_
+_Context: Turks and Caicos Islands, United Kingdom, direct rule, government_
 
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
 _Context: Gaza Strip_

@@ -16,7 +16,7 @@ _Context: Botswana, Kingsley Holgate, Namibia, Oranjemund, Robert Mugabe, Serets
 _Context: My Lai, Vietnam War, William Calley, mass killings_
 
 ### [ A missile fired from a U.S. unmanned plane destroyed a suspected militant hide-out in northwest Pakistan on Friday, killing at least 12 people in a stronghold of a jihadi leader blamed for attacks in Afghanistan. ](/news/2009/08/21/a-missile-fired-from-a-u-s-unmanned-plane-destroyed-a-suspected-militant-hide-out-in-northwest-pakistan-on-friday-killing-at-least-12-peo.md)
-_Context: Afghanistan, Pakistan, combat drone_
+_Context: Afghanistan's, Pakistan, combat drone_
 
 ### [ Four policemen are killed after 4 suicide bombs on bicycles detonate in Grozny, Chechnya. ](/news/2009/08/21/four-policemen-are-killed-after-4-suicide-bombs-on-bicycles-detonate-in-grozny-chechnya.md)
 _Context: Chechnya, Grozny, bicycles, suicide bombing_

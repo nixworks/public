@@ -7,7 +7,7 @@ _Context: External Tank, February 26, Florida, International Space Station, Kenn
 _Context: Copenhagen, Denmark, Freetown Christiania, Little Mermaid_
 
 ### [ Lt. Gen. Douglas Lute has been chosen to be President Bush's "war czar," overseeing the wars in Iraq and Afghanistan. ](/news/2007/05/15/lt-gen-douglas-lute-has-been-chosen-to-be-president-bush-s-war-czar-overseeing-the-wars-in-iraq-and-afghanistan.md)
-_Context: Afghanistan, Douglas Lute, Iraq, war czar_
+_Context: Afghanistan's, Douglas Lute, Iraq, war czar_
 
 ### [ French Prime Minister Dominique de Villepin resigns. ](/news/2007/05/15/french-prime-minister-dominique-de-villepin-resigns.md)
 _Context: Dominique de Villepin, France_

@@ -1,7 +1,7 @@
 ## [2011-01-7](/news/2011/01/7/index.md)
 
 ### [A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. ](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-least-20-others-in-a-public-bathhouse-in-kandahar-province-afghanistan-the-taliban-claims-r.md)
-_Context: Afghanistan, Kandahar Province, Taliban, suicide bombing_
+_Context: Afghanistan's, Kandahar Province, Taliban, suicide bombing_
 
 ### [Seven people are killed in Jos and at least two people are killed at a rally in Bayelsa State. ](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.md)
 At least 20 killed in violence that erupts after news spreads of Muslims killed by Christian youths in city of Jos.
@@ -28,7 +28,7 @@ _Context: Carla Bruni, French President, Guadeloupe, Martinique, Nicolas Sarkozy
 _Context: Cote d'Ivoire, ECOWAS, Ghana, Laurent Gbagbo_
 
 ### [Laurent Gbagbo expels the ambassadors for Canada and the United Kingdom from Cote d'Ivoire. Both nations reject the decision, recognizing Alassane Ouattara as the rightful President. ](/news/2011/01/7/laurent-gbagbo-expels-the-ambassadors-for-canada-and-the-united-kingdom-from-ca-te-d-ivoire-both-nations-reject-the-decision-recognizing-a.md)
-_Context: Alassane Ouattara, Britain, Canada, Cote d'Ivoire, Laurent Gbagbo_
+_Context: Alassane Ouattara, Canada, Cote d'Ivoire, Laurent Gbagbo, United Kingdom_
 
 ### [Chile recognises the State of Palestine. ](/news/2011/01/7/chile-recognises-the-state-of-palestine.md)
 Officials at Foreign Ministry fear &#39;domino effect&#39; in South America; &#39;If Chile, Mexico follow Argentina, Brazil, it will prompt all other Latin American countries to join, because they won&#39;t want to stay on sidelines,&#39; says diplomat

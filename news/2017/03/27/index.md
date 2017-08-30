@@ -1,6 +1,6 @@
 ## [2017-03-27](/news/2017/03/27/index.md)
 
-### [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100|kg|lb, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-lb-is-stolen-from-the-bode-museum-in-berlin-germany.md)
+### [The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100 kg, is stolen from the Bode Museum in Berlin, Germany.](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dollar-canadian-coin-weighing-100-kg-is-stolen-from-the-bode-museum-in-berlin-germany.md)
 _Context: Big Maple Leaf, Bode Museum_
 
 ### [An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. ](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-prefecture-kills-at-least-eight-schoolchildren-while-the-students-were-on-a-mountaineering-ex.md)

@@ -1,7 +1,7 @@
 ## [2010-09-22](/news/2010/09/22/index.md)
 
 ### [Three troops were killed when a roadside blast struck a military vehicle in Bara area of Khyber, one of the seven tribal agencies in Pakistan's restive northwest bordering Afghanistan. ](/news/2010/09/22/three-troops-were-killed-when-a-roadside-blast-struck-a-military-vehicle-in-bara-area-of-khyber-one-of-the-seven-tribal-agencies-in-pakista.md)
-_Context: Afghanistan, Bara, Khyber Agency, Pakistan_
+_Context: Afghanistan's, Bara, Khyber Agency, Pakistan_
 
 ### [At least one person is killed and 10 injured in a shootout in Quetta, Pakistan. ](/news/2010/09/22/at-least-one-person-is-killed-and-10-injured-in-a-shootout-in-quetta-pakistan.md)
 _Context: Pakistan, Quetta_
@@ -55,7 +55,7 @@ Nine people, including a pregnant woman, have climbed on to the roof of a buildi
 ### [Simonetta Sommaruga and Johann Schneider-Ammann are elected as new members of the Swiss Federal Council by the Swiss parliament. [http://www.parlament.ch/d/wahlen-abstimmungen/wahlen-im-parlament/bundesratswahlen/ruektritt-leuenberger-merz/Seiten/default.aspx "Swiss parliament dossier (german)"]](/news/2010/09/22/simonetta-sommaruga-and-johann-schneider-ammann-are-elected-as-new-members-of-the-swiss-federal-council-by-the-swiss-parliament-http-www.md)
 _Context: Johann Schneider-Ammann, Simonetta Sommaruga, Swiss Federal Council, Swiss parliament_
 
-### [The discovery of the ceratopsids species "Kosmoceratops richardsoni" and "Utahceratops gettyi" in Utah is announced. [http://news.nationalgeographic.com/news/2010/09/100922-new-species-dinosaurs-horned-utah-fossils-science/ ("National Geographic")] 10.1371/journal.pone.0012292|("PLoS")](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nationalge.md)
+### [The discovery of the ceratopsids species "Kosmoceratops richardsoni" and "Utahceratops gettyi" in Utah is announced. [http://news.nationalgeographic.com/news/2010/09/100922-new-species-dinosaurs-horned-utah-fossils-science/ ("National Geographic")] 10.1371/journal.pone.0012292 ("PLoS")](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoceratops-richardsoni-and-utahceratops-gettyi-in-utah-is-announced-http-news-nationalge.md)
 _Context: Kosmoceratops richardsoni, Utah, Utahceratops gettyi, ceratopsid_
 
 ## [Previous Day...](/news/2010/09/21/index.md)

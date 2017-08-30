@@ -1,7 +1,7 @@
 ## [2014-03-11](/news/2014/03/11/index.md)
 
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
+_Context: Afghanistan's, Kabul, Nils Horner, Swedish Radio_
 
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
 _Context: Chhattisgarh, India, Maoist_
@@ -31,7 +31,7 @@ _Context: Chinese Coast Guard, Spratly Islands_
 At issue is whether the CIA violated an agreement made with the committee about monitoring the panel&#39;s use of CIA computers.
 
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: Atlantic slave trade, Britain, Caribbean, France, Netherlands_
+_Context: Atlantic slave trade, Caribbean, France, Netherlands, United Kingdom_
 
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
 _Context: Joran van der Sloot, United States_

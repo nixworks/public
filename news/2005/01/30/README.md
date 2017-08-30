@@ -10,7 +10,7 @@ _Context: Kuwait, Kuwait City, militant_
 _Context: Beja, Sudan_
 
 ### [ Former UK Labour Culture Secretary, Chris Smith, states he has been HIV positive for 17 years. ](/news/2005/01/30/former-uk-labour-culture-secretary-chris-smith-states-he-has-been-hiv-positive-for-17-years.md)
-_Context: Britain, Chris Smith, HIV, Labour, Secretary of State for Culture, Media and Sport_
+_Context: Chris Smith, HIV, Labour, Secretary of State for Culture, Media and Sport, United Kingdom_
 
 ### [ In Spain, a bomb explodes at a hotel in the southwest town Denia injuring one. Police officials say the detonation occurred after a telephone warning from the Basque ETA group. Spanish parliament is scheduled to debate and vote on a Basque plan for independence from Spain in two days. ](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.md)
 _Context: Basque, Denia, ETA, Spain_
@@ -19,7 +19,7 @@ _Context: Basque, Denia, ETA, Spain_
 _Context: GAM, Helsinki, Indonesia_
 
 ### [ The deadline passes for the finalization of constituencies for Afghanistan's May 21 parliamentary elections, UN officials say. Though the constituencies were supposed to be set up 120 days before the election, officials have not yet announced an election delay. Violence continues, particularly in the south of the country where the Taliban still remains active. ](/news/2005/01/30/the-deadline-passes-for-the-finalization-of-constituencies-for-afghanistan-s-may-21-parliamentary-elections-un-officials-say-though-the-c.md)
-_Context: Afghanistan, May 21, Taliban, United Nations_
+_Context: Afghanistan's, May 21, Taliban, United Nations_
 
 ## [Previous Day...](/news/2005/01/29/index.md)
 

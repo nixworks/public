@@ -22,7 +22,7 @@ _Context: Brazil, Luiz Incio Lula da Silva, President, United Nations General As
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Former Pakistan Prime Minister, Benazir Bhutto, arrives in Washington beginning her last visit to USA before ending her self-exile.](/news/2007/09/24/former-pakistan-prime-minister-benazir-bhutto-arrives-in-washington-beginning-her-last-visit-to-usa-before-ending-her-self-exile.md)
-_Context: Benazir Bhutto, Pakistan, Prime Minister, USA, Washington, D.C._
+_Context: Benazir Bhutto, Pakistan, Prime Minister, U.S. capital, USA_
 
 ### [ Several tornadoes affect parts of Great Britain, causing severe damage. ](/news/2007/09/24/several-tornadoes-affect-parts-of-great-britain-causing-severe-damage.md)
 _Context: Great Britain, tornadoes_

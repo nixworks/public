@@ -3,7 +3,7 @@
 ### [2011 Syrian uprising: At least 25 people are killed in the Syrian city of Homs after tanks and security troops open fire on anti-regime protesters. ](/news/2011/10/18/2011-syrian-uprising-at-least-25-people-are-killed-in-the-syrian-city-of-homs-after-tanks-and-security-troops-open-fire-on-anti-regime-prot.md)
 _Context: 2011 Syrian uprising, Homs, Syria_
 
-### [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120|km|mi from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-mi-fr.md)
+### [Kenyan Army soldiers, supported by aerial forces, continue their advance into Somalia, approaching an al-Shabab-controlled town 120 km from the Kenyan border. ](/news/2011/10/18/kenyan-army-soldiers-supported-by-aerial-forces-continue-their-advance-into-somalia-approaching-an-al-shabab-controlled-town-120-km-from.md)
 Kenyan troops with aerial support continuing their advance into Somalia, as a suspected suicide car bomb kills at least three civilians in Mogadishu.
 
 ### [Moody's downgrades Spain's credit rating to A1 after Standard & Poor's and Fitch downgraded Spain's rating two weeks ago. ](/news/2011/10/18/moody-s-downgrades-spain-s-credit-rating-to-a1-after-standard-poor-s-and-fitch-downgraded-spain-s-rating-two-weeks-ago.md)

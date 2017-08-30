@@ -46,7 +46,7 @@ _Context: Australia, Iraq, Sydney, Villawood Immigration Detention Centre, hunge
 Thailand extradited on Tuesday suspected Russian arms dealer Viktor Bout to the United States to face terrorism charges, ending a two-year wrangle between the former Cold War foes.
 
 ### [British author Alan Shadrake is jailed for six weeks in Singapore for contempt of court. ](/news/2010/11/16/british-author-alan-shadrake-is-jailed-for-six-weeks-in-singapore-for-contempt-of-court.md)
-_Context: Alan Shadrake, Britain, Singapore, contempt of court_
+_Context: Alan Shadrake, Singapore, United Kingdom, contempt of court_
 
 ### [The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. ](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-in-compensation-to-around-a-dozen-british-citizens-who-were-held-in-detention-overseas-inclu.md)
 About a dozen men, who accused UK security forces of colluding in their torture overseas, are to get millions of pounds in compensation.

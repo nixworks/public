@@ -22,7 +22,7 @@ Sarah Palin was straining to look presidential. With the Stars and Stripes at he
 At least 247 people have been killed in violence in Ivory Coast since its disputed November 28 presidential election, the United Nations human rights office said on Friday.
 
 ### [The Taliban abandons its opposition to female education in Afghanistan due to a "cultural change". ](/news/2011/01/14/the-taliban-abandons-its-opposition-to-female-education-in-afghanistan-due-to-a-cultural-change.md)
-_Context: Afghanistan, Taliban_
+_Context: Afghanistan's, Taliban_
 
 ### [Israel increases access to the Little Western Wall for worshippers: it is an important Jewish site located in the Muslim Quarter of Jerusalem's Old City. ](/news/2011/01/14/israel-increases-access-to-the-little-western-wall-for-worshippers-it-is-an-important-jewish-site-located-in-the-muslim-quarter-of-jerusale.md)
 Israel has widened access to a revered Jewish site in the heart of the Jerusalem Old City’s Muslim quarter, a move that threatens to inflame tensions at one of the world’s most contested religious sites.
@@ -100,7 +100,7 @@ _Context: Nursultan Nazarbayev's, President, parliament_
 _Context: Goodluck Jonathan, Nigeria, People's Democratic Party, President, presidential election_
 
 ### [Prime Minister of Japan Naoto Kan reshuffles his Cabinet. ](/news/2011/01/14/prime-minister-of-japan-naoto-kan-reshuffles-his-cabinet.md)
-_Context: Naoto Kan, Prime Minister of Japan, Tokyo_
+_Context: Cabinet of Japan, Naoto Kan, Prime Minister of Japan_
 
 ### [In the UK, Labour wins the Oldham East and Saddleworth by-election with a majority of more than 3,500. ](/news/2011/01/14/in-the-uk-labour-wins-the-oldham-east-and-saddleworth-by-election-with-a-majority-of-more-than-3-500.md)
 Labour win the Oldham East and Saddleworth by-election with a majority of more than 3,500, holding off the challenge of the Liberal Democrats.

@@ -34,7 +34,7 @@ China denies claims by the UN that hundreds of Tibetan monks may have been detai
 Syria is to be reported to the UN Security Council over its alleged covert nuclear programme, amid increasing pressure over its crackdown on protests.
 
 ### [Eritrea accuses four Britons of espionage and terrorism. ](/news/2011/06/9/eritrea-accuses-four-britons-of-espionage-and-terrorism.md)
-_Context: Britain, Eritrea, espionage, terrorism_
+_Context: Eritrea, United Kingdom, espionage, terrorism_
 
 ### [Five Saudi women are arrested for practising driving. ](/news/2011/06/9/five-saudi-women-are-arrested-for-practising-driving.md)
 _Context: Saudi Arabia_

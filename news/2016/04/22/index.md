@@ -81,7 +81,7 @@ Mexican President Enrique Pena Nieto proposes legalising marijuana for medical p
 ### [The Commission on Election announced that the May 9 elections shall push through despite a massive breach on its database by hackers which puts 55 million registered Filipino voters at risk.](/news/2016/04/22/the-commission-on-election-announced-that-the-may-9-elections-shall-push-through-despite-a-massive-breach-on-its-database-by-hackers-which-p.md)
 _Context: Philippine general election, 2016, a massive breach on its database_
 
-### [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600|mi2|km2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2-km2.md)
+### [Oceanographers discover an extensive reef system near the Amazon River, estimated to span an area of 3600 mi2. ](/news/2016/04/22/oceanographers-discover-an-extensive-reef-system-near-the-amazon-river-estimated-to-span-an-area-of-3600-mi2.md)
 It’s at the mouth of the Amazon River. 
 
 ### [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md)

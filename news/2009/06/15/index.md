@@ -10,7 +10,7 @@ South Korea&#8217;s president ordered his top security officials Sunday to deal 
 _Context: New Caledonia, Pierre Ngaiohni, Vice President_
 
 ### [ British Prime Minister Gordon Brown announces that an independent inquiry into the country's role in the Iraq War will be held in private. ](/news/2009/06/15/british-prime-minister-gordon-brown-announces-that-an-independent-inquiry-into-the-country-s-role-in-the-iraq-war-will-be-held-in-private.md)
-_Context: Britain, Gordon Brown, Iraq War, Prime Minister, in private, independent inquiry_
+_Context: Gordon Brown, Iraq War, Prime Minister, United Kingdom, in private, independent inquiry_
 
 ### [ Leaders gather in Yekaterinburg, Russia, ahead of a Shanghai Cooperation Organisation and the first ever BRIC summit. ](/news/2009/06/15/leaders-gather-in-yekaterinburg-russia-ahead-of-a-shanghai-cooperation-organisation-and-the-first-ever-bric-summit.md)
 _Context: BRIC, Russia, Shanghai Cooperation Organisation, Yekaterinburg, first ever_

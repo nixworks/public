@@ -28,7 +28,7 @@ The frontrunner to be Turkey&#039;s next president, Foreign Minister Abdullah Gu
 Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy prison sentence to avoid additional federal charges in a dogfighting case that has driven his NFL career to a halt.
 
 ### [ British police have released CCTV footage of a motorcyclist shortly before his murder on the M40 motorway near Leamington Spa, Warwickshire. ](/news/2007/08/20/british-police-have-released-cctv-footage-of-a-motorcyclist-shortly-before-his-murder-on-the-m40-motorway-near-leamington-spa-warwickshire.md)
-_Context: Britain, CCTV, Leamington Spa, M40 motorway, Warwickshire_
+_Context: CCTV, Leamington Spa, M40 motorway, United Kingdom, Warwickshire_
 
 ### [ Muslim groups occupy Sikh Bhai Taro Singh Jee temple in Lahore, Pakistan ](/news/2007/08/20/muslim-groups-occupy-sikh-bhai-taro-singh-jee-temple-in-lahore-pakistan.md)
 _Context: Lahore, Muslim, Pakistan_

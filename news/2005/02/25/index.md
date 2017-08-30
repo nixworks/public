@@ -7,7 +7,7 @@ _Context: Palestinian Islamic Jihad, Tel Aviv, suicide bomber_
 _Context: Amsterdam, EUR, Hoofddorp, Schiphol airport_
 
 ### [ Three British soldiers convicted earlier this week of abusing Iraqi prisoners are jailed for periods between five months and two years, and dismissed from the army. ](/news/2005/02/25/three-british-soldiers-convicted-earlier-this-week-of-abusing-iraqi-prisoners-are-jailed-for-periods-between-five-months-and-two-years-and.md)
-_Context: Britain, Iraq_
+_Context: Iraq, United Kingdom_
 
 ### [ Human Rights Watch states that tough methods of Thai leader Thaksin Shinawatra in the south of the country may serve to invite more trouble ](/news/2005/02/25/human-rights-watch-states-that-tough-methods-of-thai-leader-thaksin-shinawatra-in-the-south-of-the-country-may-serve-to-invite-more-trouble.md)
 _Context: Human Rights Watch, Thailand, Thaksin Shinawatra_

@@ -7,7 +7,7 @@ There is extensive flooding in parts of Co Mayo following several hours of torre
 _Context: 2008-2009 Gaza War, Amnesty International, Israel, Palestinian, war crimes_
 
 ### [ The United States armed forces launch Operation Strike of the Sword against the Taliban in Helmand, Afghanistan. ](/news/2009/07/2/the-united-states-armed-forces-launch-operation-strike-of-the-sword-against-the-taliban-in-helmand-afghanistan.md)
-_Context: Afghanistan, Helmand, Operation Strike of the Sword, Taliban, United States military personnel_
+_Context: Afghanistan's, Helmand, Operation Strike of the Sword, Taliban, United States military personnel_
 
 ### [ The Honduran interim government defies international pressure to reverse the recent coup, saying there is no chance at all of ousted President Manuel Zelaya returning to office. ](/news/2009/07/2/the-honduran-interim-government-defies-international-pressure-to-reverse-the-recent-coup-saying-there-is-no-chance-at-all-of-ousted-presid.md)
 An interim government set up after a military coup in Honduras said on Thursday it would be open to bringing forward a November general election to resolve a crisis over the ouster of President Manuel Zelaya.
@@ -25,7 +25,7 @@ _Context: International Atomic Energy Agency, Japan, Yukiya Amano_
 _Context: Germany, H1N1, Marburg, Novartis, swine flu, vaccine_
 
 ### [ A Royal Air Force plane crashes in a rural area of Argyll, United Kingdom. ](/news/2009/07/2/a-royal-air-force-plane-crashes-in-a-rural-area-of-argyll-united-kingdom.md)
-_Context: Argyll, Britain, Royal Air Force_
+_Context: Argyll, Royal Air Force, United Kingdom_
 
 ## [Previous Day...](/news/2009/07/1/index.md)
 

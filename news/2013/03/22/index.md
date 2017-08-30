@@ -19,7 +19,7 @@ China levied final anti-dumping duties on the chemical resorcinol imported from 
 _Context: Cypriot banks, Cyprus, Finance Minister, Michael Sarris, Russia, collapse_
 
 ### [Heavy snowfall causes widespread disruption to many parts of the United Kingdom, while torrential rain brings floods to South West England. ](/news/2013/03/22/heavy-snowfall-causes-widespread-disruption-to-many-parts-of-the-united-kingdom-while-torrential-rain-brings-floods-to-south-west-england.md)
-_Context: Britain, South West England, snowfall_
+_Context: South West England, United Kingdom, snowfall_
 
 ### [2013 Thailand refugee camp fire: At least 30 people are killed and 200 are injured after a fire destroys a camp containing Burmese refugees near Ban Mae, Thailand. ](/news/2013/03/22/2013-thailand-refugee-camp-fire-at-least-30-people-are-killed-and-200-are-injured-after-a-fire-destroys-a-camp-containing-burmese-refugees.md)
 About 30 people die in a fire at a camp housing Burmese refugees in northern Thailand, local officials say.

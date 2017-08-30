@@ -33,7 +33,7 @@ _Context: Babullah Airport, Gamalama, Indonesia, Raung, Ternate_
 ### [Typhoon Nangka makes landfall on the Japanese island of Shikoku. ](/news/2015/07/16/typhoon-nangka-makes-landfall-on-the-japanese-island-of-shikoku.md)
 _Context: 2015 Pacific typhoon season, Japan, Shikoku_
 
-### [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills 5000000|l of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-5000000-l-of-oil-emulsion.md)
+### [The Nexen pipeline at the Long Lake facility near Fort McMurray, Alberta, spills 5000000 l of oil emulsion. ](/news/2015/07/16/the-nexen-pipeline-at-the-long-lake-facility-near-fort-mcmurray-alberta-spills-5000000-l-of-oil-emulsion.md)
 One of the largest leaks in Alberta history has spilled about five million litres of emulsion from a Nexen Energy pipeline at the company&rsquo;s Long Lake oilsands facility south of Fort McMurray.
 
 ### [A shooting occurs at a United States Navy recruiting office and a Navy operational support center in Chattanooga, Tennessee, killing four U.S. Marines and the gunman and wounding a police officer, a Marine Corps recruiter and a sailor who is listed in serious condition. ](/news/2015/07/16/a-shooting-occurs-at-a-united-states-navy-recruiting-office-and-a-navy-operational-support-center-in-chattanooga-tennessee-killing-four-u.md)

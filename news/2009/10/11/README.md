@@ -10,7 +10,7 @@ _Context: Alan Garcia, Arturo "Zambo" Cavero, Lima, Order of the Sun, Peru, Pres
 _Context: Moscow, Russia_
 
 ### [ Thousands of people march in protest for gay rights in Washington, D.C.. ](/news/2009/10/11/thousands-of-people-march-in-protest-for-gay-rights-in-washington-d-c.md)
-_Context: Washington, D.C., gay rights_
+_Context: U.S. capital, gay rights_
 
 ### [ An Irish priest, Michael Sinnot, is seized from a convent and taken away in a motorboat by gunmen in Pagadian City, Mindanao in the southern Philippines. ](/news/2009/10/11/an-irish-priest-michael-sinnot-is-seized-from-a-convent-and-taken-away-in-a-motorboat-by-gunmen-in-pagadian-city-mindanao-in-the-souther.md)
 An extensive search has been launched for a 79-year-old Irish priest who has been kidnapped in the Philippines.

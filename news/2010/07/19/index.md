@@ -28,7 +28,7 @@ Russian pianist Mikhail Pletnev, accused of raping a 14-year-old boy, returns to
 Relatives attend the dedication of the new Fromelles Military Cemetery, built following the discovery of remains of hundreds of Allied soldiers who died there in World War I.
 
 ### [The United Kingdom's oldest person, a Gateshead great-great grandmother, dies at the age of 111. She would have been 112 next month. ](/news/2010/07/19/the-united-kingdom-s-oldest-person-a-gateshead-great-great-grandmother-dies-at-the-age-of-111-she-would-have-been-112-next-month.md)
-_Context: Britain, Gateshead_
+_Context: Gateshead, United Kingdom_
 
 ### [China surpasses the United States to become world's biggest energy consumer, consuming about 4% more than the U.S. ](/news/2010/07/19/china-surpasses-the-united-states-to-become-world-s-biggest-energy-consumer-consuming-about-4-more-than-the-u-s.md)
 _Context: United States_
@@ -46,7 +46,7 @@ _Context: Admiral, Deepwater Horizon oil spill, Gulf of Mexico, Thad Allen, Unit
 The US must stop using &quot;cowboy logic&quot; if it wants dialogue with Iran over its nuclear programme, the Iranian president says.
 
 ### [Scores of checkpoints appear overnight as 70 countries prepare to attend a conference in Kabul on the future of Afghanistan. ](/news/2010/07/19/scores-of-checkpoints-appear-overnight-as-70-countries-prepare-to-attend-a-conference-in-kabul-on-the-future-of-afghanistan.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghanistan's, Kabul_
 
 ### [The United States issues a warning to US citizens visiting or living in Uganda about the risk of terrorism as an African Union summit on maternal and child health summit starts. ](/news/2010/07/19/the-united-states-issues-a-warning-to-us-citizens-visiting-or-living-in-uganda-about-the-risk-of-terrorism-as-an-african-union-summit-on-mat.md)
 _Context: African Union, Uganda, United States, terrorism_

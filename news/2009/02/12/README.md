@@ -19,7 +19,7 @@ _Context: 1981, Iraq, Iraqi Parliament, Israel, nuclear reactors, reparations_
 Palestinian group says 18-month ceasefire in Gaza and opening of borders within three days.
 
 ### [ Ford's Theatre in Washington, D.C. reopens for the bicentennial of assassinated U.S. President Abraham Lincoln's birth. ](/news/2009/02/12/ford-s-theatre-in-washington-d-c-reopens-for-the-bicentennial-of-assassinated-u-s-president-abraham-lincoln-s-birth.md)
-_Context: Abraham Lincoln, Ford's Theatre, President, United States, Washington, D.C., assassinated, bicentennial_
+_Context: Abraham Lincoln, Ford's Theatre, President, U.S. capital, United States, assassinated, bicentennial_
 
 ### [ Japanese electronics company Pioneer Corporation will leave the television business and cut 10,000 jobs. ](/news/2009/02/12/japanese-electronics-company-pioneer-corporation-will-leave-the-television-business-and-cut-10-000-jobs.md)
 Union pledges to fight to reverse the decision.
@@ -28,7 +28,7 @@ Union pledges to fight to reverse the decision.
 Gardaí and fire brigade personnel have overpowered a man who threatened to set himself on fire outside Government Buildings.
 
 ### [ Taliban militants kill 26 people in attacks on three government buildings in Kabul, Afghanistan. ](/news/2009/02/12/taliban-militants-kill-26-people-in-attacks-on-three-government-buildings-in-kabul-afghanistan.md)
-_Context: Afghan government's, Afghanistan, Kabul, Taliban, militant_
+_Context: Afghan government's, Afghanistan's, Kabul, Taliban, militant_
 
 ### [ Venezuelan President Hugo Chavez alleges that the Army attempted to overthrow his government. ](/news/2009/02/12/venezuelan-president-hugo-cha-vez-alleges-that-the-army-attempted-to-overthrow-his-government.md)
 _Context: Army, Hugo Chavez, Venezuela, Venezuelan President, coup, government_
@@ -43,7 +43,7 @@ There has been an armed robbery at the European Parliament in Brussels.
 _Context: India, Moninder Singh Pandher, Surender Koli, convicted, domestic worker, murder_
 
 ### [ Dutch Member of Parliament and Islam critic Geert Wilders is denied entry into the United Kingdom. ](/news/2009/02/12/dutch-member-of-parliament-and-islam-critic-geert-wilders-is-denied-entry-into-the-united-kingdom.md)
-_Context: Britain, Geert Wilders, MP, Muslims, Netherlands, Parliament, anti-Islamic_
+_Context: Geert Wilders, MP, Muslims, Netherlands, Parliament, United Kingdom, anti-Islamic_
 
 ### [ Microsoft places a US$250,000 bounty on the Conficker computer worm's creator. ](/news/2009/02/12/microsoft-places-a-us-250-000-bounty-on-the-conficker-computer-worm-s-creator.md)
 Microsoft is offering a $250,000 reward for information leading to the conviction of the Conficker worm&#039;s author.

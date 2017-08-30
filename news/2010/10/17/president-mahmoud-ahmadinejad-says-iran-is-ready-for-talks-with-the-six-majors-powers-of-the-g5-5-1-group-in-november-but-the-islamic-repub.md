@@ -1,6 +1,6 @@
 ### [2010-10-17](/news/2010/10/17/index.md)
 
-# President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5|5+1 group in November, but the Islamic Republic's previous conditions for holding talks should be met. 
+# President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5 5+1 group in November, but the Islamic Republic's previous conditions for holding talks should be met. 
 
 
 

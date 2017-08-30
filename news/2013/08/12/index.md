@@ -12,7 +12,7 @@ Tunisia on Monday carried out air strikes on Islamist militants holed up in the 
 ### [Prince Friso of Orange-Nassau, brother of King Willem-Alexander of the Netherlands, dies aged 44 following complications from a skiing accident in 2012 which left him comatose for a year and a half. ](/news/2013/08/12/prince-friso-of-orange-nassau-brother-of-king-willem-alexander-of-the-netherlands-dies-aged-44-following-complications-from-a-skiing-accid.md)
 Dutch Prince Johan Friso has died after a year and a half in a coma following an avalanche at an Austrian ski resort, officials say.
 
-### [India launches its first indigenous aircraft carrier, Vikrant|2013|6. ](/news/2013/08/12/india-launches-its-first-indigenous-aircraft-carrier-vikrant-2013-6.md)
+### [India launches its first indigenous aircraft carrier, Vikrant 6. ](/news/2013/08/12/india-launches-its-first-indigenous-aircraft-carrier-vikrant-6.md)
 INS Vikrant with a capacity to carry 36 fighter planes would go for extensive trials in 2016 before being inducted into the Navy by 2018 end.
 
 ### [The UK government threatens Spain with legal action over the imposition of additional border checks in Gibraltar. ](/news/2013/08/12/the-uk-government-threatens-spain-with-legal-action-over-the-imposition-of-additional-border-checks-in-gibraltar.md)

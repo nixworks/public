@@ -4,7 +4,7 @@
 _Context: ICA, National Television, Sweden, systematic food safety irregularities_
 
 ### [ Two British citizens are arrested in Lithuania after trying to ship 14 kg (31 pounds) of khat out of Vilnius. ](/news/2007/12/5/two-british-citizens-are-arrested-in-lithuania-after-trying-to-ship-14-kg-31-pounds-of-khat-out-of-vilnius.md)
-_Context: Britain, Lithuania, Vilnius, khat_
+_Context: Lithuania, United Kingdom, Vilnius, khat_
 
 ### [ Latvian Prime Minister Aigars Kalvitis resigns. ](/news/2007/12/5/latvian-prime-minister-aigars-kalva-tis-resigns.md)
 _Context: Aigars Kalvitis, Latvia, Prime Minister of Latvia_
@@ -16,7 +16,7 @@ The killings served as a vicious reminder that the months-long decline in daily 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ A suicide bomber rams a car into a minibus containing Afghan soldiers on a highway south of Kabul. Thirteen, including six Afghan soldiers, are killed in the incident. ](/news/2007/12/5/a-suicide-bomber-rams-a-car-into-a-minibus-containing-afghan-soldiers-on-a-highway-south-of-kabul-thirteen-including-six-afghan-soldiers.md)
-_Context: Afghanistan, Kabul_
+_Context: Afghanistan's, Kabul_
 
 ## [Previous Day...](/news/2007/12/4/index.md)
 

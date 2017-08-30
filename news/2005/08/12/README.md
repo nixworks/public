@@ -22,7 +22,7 @@ _Context: British Airways, Heathrow_
 _Context: Salva Kiir, Sudan_
 
 ### [ Omar Bakri Mohammed is banned from returning to the United Kingdom. ](/news/2005/08/12/omar-bakri-mohammed-is-banned-from-returning-to-the-united-kingdom.md)
-_Context: Britain, Omar Bakri Mohammed_
+_Context: Omar Bakri Mohammed, United Kingdom_
 
 ### [ Former Israeli sergeant Taysir Hayb is sentenced to eight years in prison and two years suspended sentence for shooting and killing Tom Hurndall. ](/news/2005/08/12/former-israeli-sergeant-taysir-hayb-is-sentenced-to-eight-years-in-prison-and-two-years-suspended-sentence-for-shooting-and-killing-tom-hur.md)
 _Context: Israel, Taysir Hayb, Tom Hurndall_

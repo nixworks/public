@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Yemen_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Yemen_
 2. [Thousands of supporters of Yemen's secessionists rally in the southern city of Aden, backing a new group led by former head of Aden Governorate Aidarus al-Zoubaidi that advocates for autonomy of the country's south. ](/news/2017/07/7/thousands-of-supporters-of-yemen-s-secessionists-rally-in-the-southern-city-of-aden-backing-a-new-group-led-by-former-head-of-aden-governor.md) _Context: Aden, Yemen_
 3. [A suicide bomber kills at least 50 soldiers and injures 70 more at a military barracks in Aden, Yemen. ](/news/2016/12/10/a-suicide-bomber-kills-at-least-50-soldiers-and-injures-70-more-at-a-military-barracks-in-aden-yemen.md) _Context: Aden, Yemen_
 4. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Houthi, Yemen_

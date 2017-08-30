@@ -13,7 +13,7 @@ Olympic Broadcasting Services says &quot;full investigation&quot; underway
 _Context: Kavrepalanchowk bus crashes_
 
 ### [Pennsylvania Attorney General Kathleen Kane is convicted of perjury and obstruction of justice. ](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.md)
-_Context: Attorney General, Kathleen Kane, committed perjury_
+_Context: Attorney General, Kathleen Kane, perjury_
 
 ### [Former English Premier League player Dalian Atkinson dies after being tasered by police in Telford, Shropshire. ](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.md)
 A man who died after being Tasered by police in Telford, Shropshire, has been named as former Aston Villa footballer Dalian Atkinson. Mr Atkinson died early on Monday morning after officers responded to an alert &quot;for the safety of an individual&quot; at a home in Meadow Close around 1.30am. The...

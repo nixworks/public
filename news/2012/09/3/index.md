@@ -4,7 +4,7 @@
 _Context: Damascus, Government of Syria, International Committee of the Red Cross, Syria, humanitarian situation_
 
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: Afghanistan, Bamiyan, New Zealand, New Zealand Defence Force_
+_Context: Afghanistan's, Bamiyan, New Zealand, New Zealand Defence Force_
 
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
 Police say a bomber killed two people and himself when he hit a US consulate vehicle in Peshawar, Pakistan, but the US says no Americans died.

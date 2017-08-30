@@ -25,7 +25,7 @@ _Context: Basra, Iraq, Robert Gates, Secretary of Defense_
 _Context: NOKAS robbery, Norway_
 
 ### [ The furore over the treatment towards contestant Shilpa Shetty in Celebrity Big Brother 2007, by contestants including Jade Goody, has resulted in Jade being evicted by popular vote from the show, due to heightened concerns over safety, after the issue reached a lowpoint in UK-Indian relations. ](/news/2007/01/19/the-furore-over-the-treatment-towards-contestant-shilpa-shetty-in-celebrity-big-brother-2007-by-contestants-including-jade-goody-has-resu.md)
-_Context: Britain, Celebrity Big Brother 2007, India, Jade Goody, Shilpa Shetty_
+_Context: Celebrity Big Brother 2007, India, Jade Goody, Shilpa Shetty, United Kingdom_
 
 ## [Previous Day...](/news/2007/01/18/index.md)
 

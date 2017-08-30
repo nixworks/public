@@ -34,7 +34,7 @@ _Context: Ohio, Texas, U.S. state, United States, flood_
 _Context: Hurricane Dean, Mexico, offshore oil platform_
 
 ### [ Three British Army soldiers die in Afghanistan in a suspected friendly fire incident. ](/news/2007/08/24/three-british-army-soldiers-die-in-afghanistan-in-a-suspected-friendly-fire-incident.md)
-_Context: Afghanistan, British Army, friendly fire_
+_Context: Afghanistan's, British Army, friendly fire_
 
 ### [ Bangladesh eases curfew arrangements in place in its major cities following a reduction in street violence. ](/news/2007/08/24/bangladesh-eases-curfew-arrangements-in-place-in-its-major-cities-following-a-reduction-in-street-violence.md)
 _Context: Bangladesh, curfew_
@@ -46,7 +46,7 @@ Sixty suspected Al Qaeda in Iraq gunmen attacked a police station in Samarra on 
 United Nations secretary-general Ban Ki-moon has expressed concern over the arrests this week of student leaders and pro-democracy activists in Burma who have been involved in protests against the military junta.
 
 ### [ At least four Pakistan Army soldiers die in a suicide bomber attack on a military convoy near Miranshah, the main city of North Waziristan near the Afghan border. ](/news/2007/08/24/at-least-four-pakistan-army-soldiers-die-in-a-suicide-bomber-attack-on-a-military-convoy-near-miranshah-the-main-city-of-north-waziristan.md)
-_Context: Afghanistan, Miranshah, North Waziristan, Pakistan army, convoy, suicide bomber_
+_Context: Afghanistan's, Miranshah, North Waziristan, Pakistan army, convoy, suicide bomber_
 
 ### [ The explosion of a car bomb outside a police station in the Basque city of Durango, Spain, is believed to be the first attack by the separatist group ETA since it called off a ceasefire in June. ](/news/2007/08/24/the-explosion-of-a-car-bomb-outside-a-police-station-in-the-basque-city-of-durango-spain-is-believed-to-be-the-first-attack-by-the-separa.md)
 _Context: Basque, Durango, Spain, ETA, car bomb, explosion, police station_

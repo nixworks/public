@@ -18,7 +18,7 @@ _Context: Gurico, Venezuela, ambulance, bank_
 ### [ Voters in Florida go to the polls to determine presidential nominees. New York Senator Hillary Clinton wins the Democratic primary with no delegates awarded. ](/news/2008/01/29/voters-in-florida-go-to-the-polls-to-determine-presidential-nominees-new-york-senator-hillary-clinton-wins-the-democratic-primary-with-no.md)
 Senator John McCain won the biggest delegate prize so far in a closely contested primary. After finishing third, Rudolph W. Giuliani is likely to endorse Mr. McCain, officials said.
 
-### [ Near-Earth asteroid 2007 TU|24 passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-24-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-f.md)
+### [ Near-Earth asteroid 2007 TU passes Earth at a distance of 334,000 miles (537,500 km), and observations reduce the estimate of its size from 2,000 feet (610 m) diameter to 800 feet (250 m). ](/news/2008/01/29/near-earth-asteroid-2007-tu-passes-earth-at-a-distance-of-334-000-miles-537-500-km-and-observations-reduce-the-estimate-of-its-size-from.md)
 _Context: 2007 TU|24, Earth, near-Earth asteroid_
 
 ### [ A missile strike by the Pakistan Army in North Waziristan kills ten suspected militants. ](/news/2008/01/29/a-missile-strike-by-the-pakistan-army-in-north-waziristan-kills-ten-suspected-militants.md)

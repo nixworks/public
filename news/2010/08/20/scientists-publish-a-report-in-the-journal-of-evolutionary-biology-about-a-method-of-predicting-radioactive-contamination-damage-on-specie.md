@@ -1,6 +1,6 @@
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-# Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http://www.bbc.co.uk/news/science-environment-11023530 (BBC)] 10.1111/j.1420-9101.2010.02074.x|("J. Evol. Biol.")
+# Scientists publish a report in the "Journal of Evolutionary Biology" about a method of predicting radioactive contamination damage on species near Chernobyl, from historical mutation rates particularly in mitochondrial DNA. [http://www.bbc.co.uk/news/science-environment-11023530 (BBC)] 10.1111/j.1420-9101.2010.02074.x. Evol. Biol.")
 
 
 

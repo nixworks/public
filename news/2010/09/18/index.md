@@ -10,7 +10,7 @@ Small protests against Japan are held in several Chinese cities on a senstitive 
 Deadly clashes erupt between Mauritanian troops and militants linked to al-Qaeda in northern Mali after Mauritania launches an operation against the militants, reports say.
 
 ### [British pop star George Michael is transferred from Pentonville Prison to Highpoint Prison in Suffolk, England, to serve out the remaining weeks of his sentence for driving under the influence of cannabis. ](/news/2010/09/18/british-pop-star-george-michael-is-transferred-from-pentonville-prison-to-highpoint-prison-in-suffolk-england-to-serve-out-the-remaining-w.md)
-_Context: Britain, England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, driving under the influence, marijuana_
+_Context: England, George Michael, Highpoint Prison, Pentonville Prison, Suffolk, United Kingdom, driving under the influence, marijuana_
 
 ### [Chileans celebrate the 200th anniversary of Chilean Independence Day as do the 33 miners trapped underground in the 2010 Copiap mining accident. ](/news/2010/09/18/chileans-celebrate-the-200th-anniversary-of-chilean-independence-day-as-do-the-33-miners-trapped-underground-in-the-2010-copiapo-mining-acci.md)
 _Context: 200th anniversary, 2010 Copiap mining accident, Chile, Chilean Independence Day_

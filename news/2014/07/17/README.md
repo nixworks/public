@@ -7,7 +7,7 @@ A Malaysian airliner was shot down over eastern Ukraine by militants on Thursday
 Both sides to hold a five-hour pause in fighting to allow UN humanitarian aid to enter the Gaza Strip.
 
 ### [Explosions and gunfire are reported near Kabul International Airport in Afghanistan as militants temporarily capture a building under construction. ](/news/2014/07/17/explosions-and-gunfire-are-reported-near-kabul-international-airport-in-afghanistan-as-militants-temporarily-capture-a-building-under-constr.md)
-_Context: Afghanistan, Kabul International Airport_
+_Context: Afghanistan's, Kabul International Airport_
 
 ### [At least 14 Tunisian soldiers are reportedly killed following Islamist militant attacks at two checkpoints near the Algerian border with at least 20 others wounded, a group called the Okba Ben Nafaa Brigade has claimed responsibility. ](/news/2014/07/17/at-least-14-tunisian-soldiers-are-reportedly-killed-following-islamist-militant-attacks-at-two-checkpoints-near-the-algerian-border-with-at.md)
 _Context: Algeria, Tunisian soldiers, attacks_

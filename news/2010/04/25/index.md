@@ -70,7 +70,7 @@ _Context: Stephen Hawking, extraterrestrials_
 Wayne Rooney, who was last night named PFA Player of the Year, has allayed fears over his fitness for the World Cup by declaring he will return for Manchester United&rsquo;s potentially decisive final Premier League game of the season against Stoke City.
 
 ### [The first passenger flight between Iraq and the United Kingdom in two decades touches down at London Gatwick Airport, nine days overdue because of volcanic ash problems. ](/news/2010/04/25/the-first-passenger-flight-between-iraq-and-the-united-kingdom-in-two-decades-touches-down-at-london-gatwick-airport-nine-days-overdue-beca.md)
-_Context: Britain, Iraq, London Gatwick Airport, volcanic ash problems_
+_Context: Iraq, London Gatwick Airport, United Kingdom, volcanic ash problems_
 
 ## [Previous Day...](/news/2010/04/24/index.md)
 

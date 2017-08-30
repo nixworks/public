@@ -13,7 +13,7 @@ _Context: Pakistan, United States_
 _Context: Baghdad, Iraq_
 
 ### [Security forces raid Taliban hideouts in northern Baghlan province of Afghanistan eliminating five insurgents. ](/news/2010/10/27/security-forces-raid-taliban-hideouts-in-northern-baghlan-province-of-afghanistan-eliminating-five-insurgents.md)
-_Context: Afghanistan, Baghlan province, Taliban_
+_Context: Afghanistan's, Baghlan province, Taliban_
 
 ### [A NATO soldier is killed in a roadside bomb attack in Afghanistan, taking the 2010 death toll for allied troops in Afghanistan to 603. ](/news/2010/10/27/a-nato-soldier-is-killed-in-a-roadside-bomb-attack-in-afghanistan-taking-the-2010-death-toll-for-allied-troops-in-afghanistan-to-603.md)
 _Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
@@ -39,7 +39,7 @@ _Context: Indonesia, Mount Merapi volcanic eruption, Mounts Merapi, Yogyakarta_
 ### [The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-people-still-missing.md)
 The death toll from a tsunami in western Indonesia rises to 282, officials say, as doubts emerge about whether an early warning system was working properly.
 
-### [Factory fishing ship FV|Athena||2 catches fire off the Isles of Scilly, with 111 crew onboard. ](/news/2010/10/27/factory-fishing-ship-fv-athena-2-catches-fire-off-the-isles-of-scilly-with-111-crew-onboard.md)
+### [Factory fishing ship FV catches fire off the Isles of Scilly, with 111 crew onboard. ](/news/2010/10/27/factory-fishing-ship-fv-catches-fire-off-the-isles-of-scilly-with-111-crew-onboard.md)
 Nearly 100 people on board a fishing ship which is on fire 230 miles south-west of the Isles of Scilly take to life rafts.
 
 ### [A surprise trip by U.S. Secretary of State Hillary Clinton to China has been confirmed. ](/news/2010/10/27/a-surprise-trip-by-u-s-secretary-of-state-hillary-clinton-to-china-has-been-confirmed.md)
@@ -64,7 +64,7 @@ A Virginia man who allegedly believed he was helping al Qaeda plan bombings at W
 The killings in Nayarit State were the third mass shooting with apparent connections to organized crime in less than a week. Several of the victims were in treatment for drug addiction.
 
 ### [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
-_Context: Afghanistan, Mikhail Gorbachev, Soviet_
+_Context: Afghanistan's, Mikhail Gorbachev, Soviet_
 
 ### [Three labour activists are sentenced to up to nine years in prison in Vietnam for distributing anti-government leaflets and going on strike. ](/news/2010/10/27/three-labour-activists-are-sentenced-to-up-to-nine-years-in-prison-in-vietnam-for-distributing-anti-government-leaflets-and-going-on-strike.md)
 _Context: Vietnam_

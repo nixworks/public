@@ -13,7 +13,7 @@ _Context: Brazil, Primeiro Comando da Capital_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Prime Minister of the United Kingdom, Tony Blair, signs a petition in support of animal testing and condemns the acts of animal-rights extremists. ](/news/2006/05/14/prime-minister-of-the-united-kingdom-tony-blair-signs-a-petition-in-support-of-animal-testing-and-condemns-the-acts-of-animal-rights-extr.md)
-_Context: Britain, Prime Minister, Tony Blair, animal testing_
+_Context: Prime Minister, Tony Blair, United Kingdom, animal testing_
 
 ### [ Seven people are wounded as two bombs explode in the Iranian city of Kermanshah. A local branch of the Kurdistan Workers Party (PKK) claimed responsibility. ](/news/2006/05/14/seven-people-are-wounded-as-two-bombs-explode-in-the-iranian-city-of-kermanshah-a-local-branch-of-the-kurdistan-workers-party-pkk-claime.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

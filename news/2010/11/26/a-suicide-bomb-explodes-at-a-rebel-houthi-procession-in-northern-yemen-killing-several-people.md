@@ -12,7 +12,7 @@ A suicide attack on a Houthi rebel procession in northern Yemen kills at least t
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Yemen_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Yemen_
 2. [Yemen's Houthi movement and its allies form a new government. ](/news/2016/11/28/yemen-s-houthi-movement-and-its-allies-form-a-new-government.md) _Context: Houthi, Yemen_
 3. [At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. ](/news/2016/08/13/at-least-10-children-are-killed-and-28-injured-in-an-air-attack-on-a-school-in-northern-yemen-the-houthi-group-claims-that-the-saudi-arabia.md) _Context: Houthi, Yemen_
 4. [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md) _Context: Houthi, Yemen_

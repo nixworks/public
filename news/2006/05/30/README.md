@@ -4,7 +4,7 @@
 _Context: Democratic Progressive Party, Taiwan, Taiwan, Three Links, coalition allies, legislative chamber, mainland China_
 
 ### [ British mobile phone operator Vodafone posts the largest annual loss in British corporate history &ndash; GBP21.8 billion &ndash; as it writes down the value of company purchases made mainly in Germany in the years up to 2000. ](/news/2006/05/30/british-mobile-phone-operator-vodafone-posts-the-largest-annual-loss-in-british-corporate-history-ndash-gbp21-8-billion-ndash-as-it-wri.md)
-_Context: Britain, GBP, Germany, Vodafone Group Plc, mobile phone_
+_Context: GBP, Germany, United Kingdom, Vodafone Group Plc, mobile phone_
 
 ### [ The board of the Engelhard Corporation agreed to a takeover by BASF. BASF will become the world's largest manufacturer of catalytic converters. BASF will pay USD 5.0 billion for Engelhard, which translates to $39 per share. ](/news/2006/05/30/the-board-of-the-engelhard-corporation-agreed-to-a-takeover-by-basf-basf-will-become-the-world-s-largest-manufacturer-of-catalytic-convert.md)
 _Context: BASF, Engelhard, US$, catalytic converter_

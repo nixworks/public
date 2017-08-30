@@ -13,7 +13,7 @@ _Context: Mark Foley, United States House Committee on Standards of Official Con
 _Context: Abu Ayyub al-Masri, Abu Hamza al-Muhajir, Abu Musab al-Zarqawi, Haditha, al-Qaeda in Iraq_
 
 ### [ The European Central Bank raises its interest rate from 3% to 3.25% representing the fifth rise in eleven months. The Bank of England decides to leave interest rates in the United Kingdom unchanged. ](/news/2006/10/5/the-european-central-bank-raises-its-interest-rate-from-3-to-3-25-representing-the-fifth-rise-in-eleven-months-the-bank-of-england-decid.md)
-_Context: Bank of England, Britain, European Central Bank, interest rate_
+_Context: Bank of England, European Central Bank, United Kingdom, interest rate_
 
 ### [ Edmund Daukoru, a Nigerian oil minister and president of the Organization of Petroleum Exporting Countries (OPEC) flags that the organization will hold an emergency meeting to cut output. The "Financial Times" reports that OPEC has informally agreed to cut output 4% to defend the oil price. ](/news/2006/10/5/edmund-daukoru-a-nigerian-oil-minister-and-president-of-the-organization-of-petroleum-exporting-countries-opec-flags-that-the-organizati.md)
 _Context: Edmund Daukoru, Financial Times, Nigeria, Organization of Petroleum Exporting Countries, oil_
@@ -25,7 +25,7 @@ _Context: Georgian, Post-Soviet, Russia, municipal elections, tensions_
 _Context: Lebanon, NTV, Turkey_
 
 ### [ NATO expands its security mission to the whole of Afghanistan, taking command of more than 13,000 U.S. troops in the east of the country. ](/news/2006/10/5/nato-expands-its-security-mission-to-the-whole-of-afghanistan-taking-command-of-more-than-13-000-u-s-troops-in-the-east-of-the-country.md)
-_Context: Afghanistan, NATO_
+_Context: Afghanistan's, NATO_
 
 ### [ Thai authorities take steps to hold peace talks with two Muslim insurgencies, the Patani United Liberation Organisation (PULO) and Bersatu, who are fighting the Government in the Muslim-majority southern provinces of Thailand. ](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.md)
 _Context: Bersatu, Muslim, Patani United Liberation Organisation, Thailand_

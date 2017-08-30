@@ -34,7 +34,7 @@ Second man arrested as accomplice in the killing of Serbian PM Zoran Djindjic in
 Swiss businessman Max Goeldi, at the centre of a long-running row, is released from jail in Libya, his lawyer says.
 
 ### [Two Norwegians, including one with British citizenship, Joshua French and Tjostolv Moland, are sentenced to death by a military court in the Democratic Republic of the Congo on charges of murder and espionage. ](/news/2010/06/10/two-norwegians-including-one-with-british-citizenship-joshua-french-and-tjostolv-moland-are-sentenced-to-death-by-a-military-court-in-the.md)
-_Context: Britain, Democratic Republic of the Congo, Joshua French and Tjostolv Moland, Norway_
+_Context: Democratic Republic of the Congo, Joshua French and Tjostolv Moland, Norway, United Kingdom_
 
 ### [Kenyan police hunt for an alleged cult leader who instructed a serial killer to take up a killing spree. ](/news/2010/06/10/kenyan-police-hunt-for-an-alleged-cult-leader-who-instructed-a-serial-killer-to-take-up-a-killing-spree.md)
 Kenyan police are hunting for an alleged cult leader who instructed a self-confessed serial killer to take up his killing spree.

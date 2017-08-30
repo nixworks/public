@@ -7,7 +7,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 _Context: AMISOM, United Nations_
 
 ### [The Taliban kidnaps 18 election officials and campaign workers for the Afghan parliamentary election in Badghis Province, Afghanistan. ](/news/2010/09/16/the-taliban-kidnaps-18-election-officials-and-campaign-workers-for-the-afghan-parliamentary-election-in-badghis-province-afghanistan.md)
-_Context: Afghanistan, Badghis Province, Taliban, parliamentary election_
+_Context: Afghanistan's, Badghis Province, Taliban, parliamentary election_
 
 ### [American banks set a new record for the home repossession rate, with 1.2 million homes this year. Another 3.2 million American homes remain in foreclosure proceedings currently.](/news/2010/09/16/american-banks-set-a-new-record-for-the-home-repossession-rate-with-1-2-million-homes-this-year-another-3-2-million-american-homes-remain.md)
 A record number of homeowners lost houses to their banks in August as lenders worked through the backlog of distressed mortgages, real estate data company RealtyTrac said on Thursday.

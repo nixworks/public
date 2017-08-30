@@ -4,7 +4,7 @@
 _Context: Egyptian security forces, Human rights in Egypt, police brutality_
 
 ### [10 police were killed in an attack on Sunday on an outpost in Dai Kundi province in central Afghanistan. ](/news/2010/06/13/10-police-were-killed-in-an-attack-on-sunday-on-an-outpost-in-dai-kundi-province-in-central-afghanistan.md)
-_Context: Afghanistan, Dai Kundi_
+_Context: Afghanistan's, Dai Kundi_
 
 ### [An investigation by "The Sunday Times" alleges that Japan has bribed smaller nations in exchange for their vote to resume whaling at the International Whaling Commission. ](/news/2010/06/13/an-investigation-by-the-sunday-times-alleges-that-japan-has-bribed-smaller-nations-in-exchange-for-their-vote-to-resume-whaling-at-the-int.md)
 _Context: International Whaling Commission , Japan, The Sunday Times, hunt_

@@ -33,7 +33,7 @@ _Context: Antouman Saho, the Gambia_
 ### [Former President of the Federation of Bosnia and Herzegovina Ejup Ganic is released on bail on "stringent" conditions by the British High Court. ](/news/2010/03/11/former-president-of-the-federation-of-bosnia-and-herzegovina-ejup-gania-is-released-on-bail-on-stringent-conditions-by-the-british-high-c.md)
 Ejup Ganic, wanted by Serbia for alleged war crimes, is granted bail by British court.
 
-### [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike 40|km|mi west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-40-km-mi-west-of-pich.md)
+### [As Sebastian Pinera is inaugurated as the new President of Chile, a new earthquake --6.9 and 6.7 magnitude--strike 40 km west of Pichilemu. ](/news/2010/03/11/as-sebastia-n-pia-era-is-inaugurated-as-the-new-president-of-chile-a-new-earthquake-a6-9-and-6-7-magnitudeastrike-40-km-west-of-pichile.md)
 It was to be a grand celebration, the conservatives had defeated the left leaning ruling coalition that has dominated Chilean politics since 1990 and they would be returning to office after more than half a century. But the party was not to be.
 
 ### [Afghanistan: Five civilians, including four children, die in an explosion, while two construction contractors, including one from South Africa, are shot dead. ](/news/2010/03/11/afghanistan-five-civilians-including-four-children-die-in-an-explosion-while-two-construction-contractors-including-one-from-south-afri.md)

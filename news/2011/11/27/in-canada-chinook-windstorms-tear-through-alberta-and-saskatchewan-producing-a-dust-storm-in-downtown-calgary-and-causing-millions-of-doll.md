@@ -1,6 +1,6 @@
 ### [2011-11-27](/news/2011/11/27/index.md)
 
-# In Canada, Chinook windstorms tear through Alberta and Saskatchewan, producing a dust storm in downtown Calgary and causing millions of dollars in damage. The windstorms fuel a grass fire that grows to two kilometres wide near Lethbridge, Alberta, before being contained, and gusts reach a maximum speed of 149|km/h|mph|abbr=on. 
+# In Canada, Chinook windstorms tear through Alberta and Saskatchewan, producing a dust storm in downtown Calgary and causing millions of dollars in damage. The windstorms fuel a grass fire that grows to two kilometres wide near Lethbridge, Alberta, before being contained, and gusts reach a maximum speed of 149 km/h. 
 
 
 

@@ -11,7 +11,7 @@ Peace talks between Yemen&#39;s warring parties have been postponed to Monday fr
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 2. [ Yemen's Houthi rebels shell the Saudi Arabian cities of Jizan and Najran with claims of several Saudi soldiers being killed. ](/news/2015/07/4/yemen-s-houthi-rebels-shell-the-saudi-arabian-cities-of-jizan-and-najran-with-claims-of-several-saudi-soldiers-being-killed.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_
 3. [Saudi-led coalition forces bomb Houthi targets in several provinces of Yemen, killing at least 15 people, despite a UN-brokered truce. ](/news/2015/07/12/saudi-led-coalition-forces-bomb-houthi-targets-in-several-provinces-of-yemen-killing-at-least-15-people-despite-a-un-brokered-truce.md) _Context: Houthi, UN_
 4. [The Saudi-led coalition launches airstrikes on Houthi gatherings in Taez. ](/news/2015/06/7/the-saudi-led-coalition-launches-airstrikes-on-houthi-gatherings-in-taez.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen_

@@ -37,7 +37,7 @@ Zambia has lifted a ban on the hunting of big cats that was imposed over allegat
 Barclays, RBS, Citi, JP Morgan and UBS forced to pay out over collusion by traders in several countries in another big blow to their reputations
 
 ### [An arrest warrant is issued for Daron Dylon Wint in the U.S. capital Washington, D.C. in connection to the alleged murder of four people on May 14. ](/news/2015/05/20/an-arrest-warrant-is-issued-for-daron-dylon-wint-in-the-u-s-capital-washington-d-c-in-connection-to-the-alleged-murder-of-four-people-on.md)
-_Context: Washington, D.C._
+_Context: U.S. capital_
 
 ### [The legislature in the American state of Nebraska votes to abolish the death penalty. ](/news/2015/05/20/the-legislature-in-the-american-state-of-nebraska-votes-to-abolish-the-death-penalty.md)
 Deeply-red Nebraska is on the verge of becoming the 19th state to abolish the death penalty.

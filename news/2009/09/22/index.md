@@ -79,7 +79,7 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 _Context: Bhutan_
 
 ### [ Security is tightened across Germany after the emergence of al-Qaeda videos threatening attacks if troops are not withdrawn from Afghanistan. ](/news/2009/09/22/security-is-tightened-across-germany-after-the-emergence-of-al-qaeda-videos-threatening-attacks-if-troops-are-not-withdrawn-from-afghanista.md)
-_Context: Afghanistan, Germany, al-Qaeda_
+_Context: Afghanistan's, Germany, al-Qaeda_
 
 ### [ Cities around the world celebrate World Car Free Day. ](/news/2009/09/22/cities-around-the-world-celebrate-world-car-free-day.md)
 _Context: World Car Free Day_

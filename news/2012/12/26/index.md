@@ -1,7 +1,7 @@
 ## [2012-12-26](/news/2012/12/26/index.md)
 
 ### [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md)
-_Context: Afghanistan, Afghans, Forward Operating Base Chapman, Khost_
+_Context: Afghanistan's, Afghans, Forward Operating Base Chapman, Khost_
 
 ### [The death is announced of Irish poet, essayist, critic and editor Dennis O'Driscoll at the age of 58. ](/news/2012/12/26/the-death-is-announced-of-irish-poet-essayist-critic-and-editor-dennis-o-driscoll-at-the-age-of-58.md)
 _Context: Dennis O'Driscoll, Irish_

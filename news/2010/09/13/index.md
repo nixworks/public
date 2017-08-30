@@ -24,7 +24,7 @@ The food industry is jeopardizing U.S. public health by withholding information 
 ### [At least 17 people die after a Conviasa ATR 42 crashes near Ciudad Guayana in Venezuela's Bolivar State. ](/news/2010/09/13/at-least-17-people-die-after-a-conviasa-atr-42-crashes-near-ciudad-guayana-in-venezuela-s-bolavar-state.md)
 _Context: ATR 42, Bolivar State, Ciudad Guayana, Conviasa, Venezuela, crashes_
 
-### [Monsoon flooding on the Yamuna River threatens the Taj Mahal in Agra, India after more than 800,000|cuft/s|m3/s|abbr=on of water had to be released from a barrage in Haryana, while hundreds of nearby villages flooded and flooding continues in Uttar Pradesh and Punjab. ](/news/2010/09/13/monsoon-flooding-on-the-yamuna-river-threatens-the-taj-mahal-in-agra-india-after-more-than-800-000-cuft-s-m3-s-abbr-on-of-water-had-to-be-r.md)
+### [Monsoon flooding on the Yamuna River threatens the Taj Mahal in Agra, India after more than 800,000 cuft/s of water had to be released from a barrage in Haryana, while hundreds of nearby villages flooded and flooding continues in Uttar Pradesh and Punjab. ](/news/2010/09/13/monsoon-flooding-on-the-yamuna-river-threatens-the-taj-mahal-in-agra-india-after-more-than-800-000-cuft-s-of-water-had-to-be-released-from.md)
 _Context: Agra, Haryana, India, Punjab, Taj Mahal, Uttar Pradesh, Yamuna River, barrage, monsoon_
 
 ### [Russian diplomat Yuri Fedotov takes office as the head of the United Nations Office on Drugs and Crime. ](/news/2010/09/13/russian-diplomat-yuri-fedotov-takes-office-as-the-head-of-the-united-nations-office-on-drugs-and-crime.md)

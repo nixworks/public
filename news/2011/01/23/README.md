@@ -7,7 +7,7 @@ _Context: Pakistan_
 _Context: Alexandria, Army of Islam, Christian, Copt, Egypt, Gaza Strip, New Year's Day church bombing_
 
 ### [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md)
-_Context: Afghanistan, Australia, Ben Roberts-Smith, Victoria Cross, offensive in the Shah Wali Kot region_
+_Context: Afghanistan's, Australia, Ben Roberts-Smith, Victoria Cross, offensive in the Shah Wali Kot region_
 
 ### [Somali pirates threaten to kill all hostage South Korean seamen in revenge for the killing of pirates by South Koreans. ](/news/2011/01/23/somali-pirates-threaten-to-kill-all-hostage-south-korean-seamen-in-revenge-for-the-killing-of-pirates-by-south-koreans.md)
 Somali pirates threatened onSunday to kill any South Korean seamen they take hostage infuture in revenge for the killing of eight pirates by SouthKorean troops who stormed a hijacked vessel.

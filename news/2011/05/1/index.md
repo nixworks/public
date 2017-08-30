@@ -16,7 +16,7 @@ _Context: Saudi Arabia_
 A deal to end the unrest in Yemen appears to be unravelling after President Ali Abdullah Saleh refuses to turn up to sign it.
 
 ### [The Taliban stages offensives in two provinces of Afghanistan, killing six people. ](/news/2011/05/1/the-taliban-stages-offensives-in-two-provinces-of-afghanistan-killing-six-people.md)
-_Context: Afghanistan, Taliban_
+_Context: Afghanistan's, Taliban_
 
 ### [Police use tear gas and batons on people protesting against their government in Maldives. ](/news/2011/05/1/police-use-tear-gas-and-batons-on-people-protesting-against-their-government-in-maldives.md)
 _Context: Maldives, baton, tear gas_

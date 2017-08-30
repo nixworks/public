@@ -16,10 +16,10 @@ _Context: France, Madonna, Marseille_
 President Mary McAleese is to convene a meeting of the Council of State next Wednesday at which the constitutionality of both&hellip;
 
 ### [ Brazil complains of 64 containers with over 1,400 tonnes of British used condoms, syringes and rotting nappies located in three of the country's ports. ](/news/2009/07/17/brazil-complains-of-64-containers-with-over-1-400-tonnes-of-british-used-condoms-syringes-and-rotting-nappies-located-in-three-of-the-coun.md)
-_Context: Brazil, Britain_
+_Context: Brazil, United Kingdom_
 
 ### [ Two journalists from South Africa and the United Kingdom are due in court after being allegedly attacked and then arrested while filming seal hunters in Namibia. ](/news/2009/07/17/two-journalists-from-south-africa-and-the-united-kingdom-are-due-in-court-after-being-allegedly-attacked-and-then-arrested-while-filming-se.md)
-_Context: Britain, Namibia, South Africa_
+_Context: Namibia, South Africa, United Kingdom_
 
 ### [ Hong Kong appoints a new chief executive of the Hong Kong Monetary Authority. ](/news/2009/07/17/hong-kong-appoints-a-new-chief-executive-of-the-hong-kong-monetary-authority.md)
 _Context: Hong Kong, Hong Kong Monetary Authority_

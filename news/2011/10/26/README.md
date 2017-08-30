@@ -4,7 +4,7 @@
 _Context: 2011 Syrian uprising, Syria_
 
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Afghanistan, Parwan_
+_Context: Afghanistan's, Parwan_
 
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
 _Context: Bollywood, Diwali, Hindu, India, Ra.One_
@@ -16,7 +16,7 @@ _Context: Amy Winehouse, British people, alcohol poisoning, coronial, soul music
 _Context: All Nippon Airways, Boeing 787 Dreamliner, Hong Kong, Tokyo, composite_
 
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: Britain, Japan, Olympus Corp, Tsuyoshi Kikukawa, United States_
+_Context: Japan, Olympus Corp, Tsuyoshi Kikukawa, United Kingdom, United States_
 
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
 _Context: Cancun, Hurricane Rina, Mexico_

@@ -28,7 +28,7 @@ _Context: India, Jammu and Kashmir, Line of Control, Pakistan, Sukhoi Su-30, cea
 _Context: Bhumibol Adulyadej, National Assembly of Thailand, Prime Minister, Somchai Wongsawat, assemble_
 
 ### [ BAA Limited decides to sell Gatwick Airport following a recent ruling by the United Kingdom Competition Commission. ](/news/2008/09/17/baa-limited-decides-to-sell-gatwick-airport-following-a-recent-ruling-by-the-united-kingdom-competition-commission.md)
-_Context: BAA Limited, Britain, Competition Commission, Gatwick Airport_
+_Context: BAA Limited, Competition Commission, Gatwick Airport, United Kingdom_
 
 ### [ The International Astronomical Union classifies Haumea as the fifth dwarf planet in the Solar System and names it after the Hawaiian goddess of childbirth and fertility. ](/news/2008/09/17/the-international-astronomical-union-classifies-haumea-as-the-fifth-dwarf-planet-in-the-solar-system-and-names-it-after-the-hawaiian-goddes.md)
 _Context: Haumea, Hawaiian goddess, International Astronomical Union, Solar System, dwarf planet_

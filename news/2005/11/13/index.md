@@ -4,7 +4,7 @@
 _Context: Canada, Christmas, Gilles Duceppe, Jack Layton, Liberal Party's, Paul Martin, Stephen Harper, motion of non-confidence, next Canadian federal election, opposition parties, parliamentary opposition_
 
 ### [ British doctors are to continue checks on Andrew Stimpson, a Scotsman whose body has reportedly cured itself of HIV infection. ](/news/2005/11/13/british-doctors-are-to-continue-checks-on-andrew-stimpson-a-scotsman-whose-body-has-reportedly-cured-itself-of-hiv-infection.md)
-_Context: Andrew Stimpson, Britain, HIV, Scotland_
+_Context: Andrew Stimpson, HIV, Scotland, United Kingdom_
 
 ### [ Iraq War: Iraqi president Jalal Talabani tells British television that Iraqi troops could replace UK forces by the close of 2006. ](/news/2005/11/13/iraq-war-iraqi-president-jalal-talabani-tells-british-television-that-iraqi-troops-could-replace-uk-forces-by-the-close-of-2006.md)
 _Context: Iraq War, Jalal Talabani_
@@ -28,7 +28,7 @@ _Context: Jilin City, benzene, cover-up, government, last year's toxic chemical 
 _Context: 2005 Amman bombings, Amman, Jordan_
 
 ### [ The South Asian Association for Regional Cooperation agrees at its summit to admit Afghanistan as a member, and to accord China and Japan observer status.](/news/2005/11/13/the-south-asian-association-for-regional-cooperation-agrees-at-its-summit-to-admit-afghanistan-as-a-member-and-to-accord-china-and-japan-o.md)
-_Context: Afghanistan, China, Japan, South Asian Association for Regional Cooperation_
+_Context: Afghanistan's, China, Japan, South Asian Association for Regional Cooperation_
 
 ### [ WWE superstar Eddie Guerrero died in his hotel room in Minneapolis, Minnesota, due to heart failure at age 38.](/news/2005/11/13/wwe-superstar-eddie-guerrero-died-in-his-hotel-room-in-minneapolis-minnesota-due-to-heart-failure-at-age-38.md)
 _Context: Eddie Guerrero, Minneapolis_

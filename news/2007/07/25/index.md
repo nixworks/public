@@ -22,7 +22,7 @@ _Context: George W. Bush, Harriet Miers, Joshua Bolten, President, United States
 _Context: Asian Cup, Baghdad, Iraq, Iraq, Mansour district, South Korea, car bomb_
 
 ### [ 8 of the 23 South Koreans held hostage by the Taliban in Afghanistan are released, while one of the hostages is executed. The Taliban gives further warning that the remaining hostages will be killed. ](/news/2007/07/25/8-of-the-23-south-koreans-held-hostage-by-the-taliban-in-afghanistan-are-released-while-one-of-the-hostages-is-executed-the-taliban-gives.md)
-_Context: Afghanistan, Taliban, release 23 of its captured fighters_
+_Context: Afghanistan's, Taliban, release 23 of its captured fighters_
 
 ### [ The first delegation from the Arab League comprising the foreign ministers of Egypt and Jordan visits Israel to talk about the Arab Peace Initiative. ](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.md)
 _Context: Arab League, Arab Peace Initiative, Egypt, Israel, Jordan_

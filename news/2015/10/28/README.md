@@ -10,7 +10,7 @@ Suspected Boko Haram militants killed at least 14 people in an overnight attack 
 A massive twin bombing in the Turkish capital Ankara this month that killed 102 people was ordered by the terrorist Islamic State group, prosecutors said today.
 
 ### [Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-and-afghanistan-fall-to-near.md)
-_Context: 2015 Hindu Kush earthquake, Afghanistan, Pakistan_
+_Context: 2015 Hindu Kush earthquake, Afghanistan's, Pakistan_
 
 ### [A military JLENS blimp from the United States Army broke loose from its moorings at the Aberdeen Proving Ground in Maryland, and drifted over 16,000 ft above Pennsylvania. F-16 Fighter jets were scrambled to track the blimp that has since deflated, causing widespread power outages from a long cable it dragged along the ground. ](/news/2015/10/28/a-military-jlens-blimp-from-the-united-states-army-broke-loose-from-its-moorings-at-the-aberdeen-proving-ground-in-maryland-and-drifted-ove.md)
 The blimp broke loose at Aberdeen proving ground in Maryland and drifted over Pennsylvania before coming down in Moreland Township, NORAD said.
@@ -57,7 +57,7 @@ On November 8, Myanmar will hold its first free national elections in twenty-fiv
 ### [The Nepalese Parliament elects the country's first female president, Communist Party of Nepal (Unified Marxist-Leninist) vice-chairperson Bidhya Devi Bhandari, by a vote of 327 to 214. ](/news/2015/10/28/the-nepalese-parliament-elects-the-country-s-first-female-president-communist-party-of-nepal-unified-marxistaleninist-vice-chairperson.md)
 Bidhya Devi Bhandari is deputy leader of the ruling Communist party and campaigned to secure women’s rights under the new constitution
 
-### [ The Cassini probe makes a close flyby of Saturn's sixth-largest moon, Enceladus, coming within approximately 49|km|abbr=on of the surface and passing through the icy plume above the south pole. The transit of the plume was the deepest to date. Photographs and other data from the mission are expected within 48 hours. ](/news/2015/10/28/the-cassini-probe-makes-a-close-flyby-of-saturn-s-sixth-largest-moon-enceladus-coming-within-approximately-49-km-abbr-on-of-the-surface-a.md)
+### [ The Cassini probe makes a close flyby of Saturn's sixth-largest moon, Enceladus, coming within approximately 49 km of the surface and passing through the icy plume above the south pole. The transit of the plume was the deepest to date. Photographs and other data from the mission are expected within 48 hours. ](/news/2015/10/28/the-cassini-probe-makes-a-close-flyby-of-saturn-s-sixth-largest-moon-enceladus-coming-within-approximately-49-km-of-the-surface-and-passi.md)
 The Cassini spacecraft has made a final ultra-close flyby of Enceladus, a moon of Saturn, to &quot;taste&quot; the water it is spewing into space.
 
 ### [ An article published in "Nature" reports high levels of molecular oxygen found by the Rosetta space probe on comet 67P/Churyumov-Gerasimenko. This discovery could have implications for theories of the origin of the solar system. ](/news/2015/10/28/an-article-published-in-nature-reports-high-levels-of-molecular-oxygen-found-by-the-rosetta-space-probe-on-comet-67p-churyumov-gerasimenk.md)

@@ -15,7 +15,7 @@ Crowded airspace kept air traffic controllers from granting immediate request by
 ### [Flooding and the death toll continues in Indonesia, Malaysia, the Philippines and Thailand. ](/news/2014/12/30/flooding-and-the-death-toll-continues-in-indonesia-malaysia-the-philippines-and-thailand.md)
 Malaysia, southern Thailandand parts of the Philippines have been battered by heavy rainand flash floods in recent days, killing dozens, officials saidon Tuesday.
 
-### [A court in Moscow hands down a 3|1|2-year suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-2-year-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md)
+### [A court in Moscow hands down a 3 1 suspended sentence for corruption to Alexei Navalny, a prominent anti-Putin activist. ](/news/2014/12/30/a-court-in-moscow-hands-down-a-3-1-suspended-sentence-for-corruption-to-alexei-navalny-a-prominent-anti-putin-activist.md)
 _Context: Alexei Navalny, Moscow, Vladimir Putin_
 
 ### [In three separate, but connected, crime scenes in Edmonton, Alberta, Canada, a suicidal man kills eight people and then himself. [http://www.irishtimes.com/news/world/us/nine-dead-in-edmonton-canada-shooting-incidents-1.2051535 "(Irish Times)"]](/news/2014/12/30/in-three-separate-but-connected-crime-scenes-in-edmonton-alberta-canada-a-suicidal-man-kills-eight-people-and-then-himself-http-www.md)

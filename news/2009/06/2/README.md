@@ -7,7 +7,7 @@ _Context: Air France, Atlantic Ocean, Brazil, Fernando de Noronha, Minister of D
 A machinery company with ambitions to become a carmaker is the buyer, at an undisclosed price.
 
 ### [ United Kingdom Home Secretary Jacqui Smith announces her resignation. ](/news/2009/06/2/united-kingdom-home-secretary-jacqui-smith-announces-her-resignation.md)
-_Context: Britain, Home Secretary, Jacqui Smith, resignation_
+_Context: Home Secretary, Jacqui Smith, United Kingdom, resignation_
 
 ### [ The Community of the People wins Greenland's parliamentary election. ](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.md)
 _Context: Greenland, Inuit Ataqatigiit, election, parliament seats_
@@ -25,7 +25,7 @@ The Chinese government is trying to block access to social media, photo-sharing 
 _Context: Aung San Suu Kyi, Burma, General Secretary, John William Yettaw, National League for Democracy, defense, trial_
 
 ### [ The United Kingdom experiences its first critical case of A(H1N1) influenza. ](/news/2009/06/2/the-united-kingdom-experiences-its-first-critical-case-of-a-h1n1-influenza.md)
-_Context: Britain, H1N1, current outbreak, swine flu_
+_Context: H1N1, United Kingdom, current outbreak, swine flu_
 
 ### [ Pakistan's military rescues 80 people whom the Taliban kidnapped on June 1. ](/news/2009/06/2/pakistan-s-military-rescues-80-people-whom-the-taliban-kidnapped-on-june-1.md)
 Pakistani soldiers Tuesday rescued scores of students and staff from a military-run college who were abducted by Taliban militants in the northwest of the country, a military spokesman said.

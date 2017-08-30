@@ -33,7 +33,7 @@ Eighty-four migrants are missing after their inflatable dinghy sank off the Liby
 ### [ Five people are killed in a military plane crash in Sudan. ](/news/2016/04/30/five-people-are-killed-in-a-military-plane-crash-in-sudan.md)
 A Sudanese military plane crashed in the central city of El-Obeid on Saturday, killing five people, the army said.
 
-### [China denies a Hong Kong port call by the U.S. Carrier Strike Group 3, which includes the aircraft carrier John C. Stennis|CVN-74 and accompanying vessels. ](/news/2016/04/30/china-denies-a-hong-kong-port-call-by-the-u-s-carrier-strike-group-3-which-includes-the-aircraft-carrier-john-c-stennis-cvn-74-and-accomp.md)
+### [China denies a Hong Kong port call by the U.S. Carrier Strike Group 3, which includes the aircraft carrier John C. Stennis and accompanying vessels. ](/news/2016/04/30/china-denies-a-hong-kong-port-call-by-the-u-s-carrier-strike-group-3-which-includes-the-aircraft-carrier-john-c-stennis-and-accompanying.md)
 China recently denied a request from a U.S. aircraft carrier for a port visit in Hong Kong, the State Department said.
 
 ### [Kenya burns 105 tonnes of elephant ivory and 1.05 tonnes of rhinoceros horn in order to call for a total ban on the ivory trade. ](/news/2016/04/30/kenya-burns-105-tonnes-of-elephant-ivory-and-1-05-tonnes-of-rhinoceros-horn-in-order-to-call-for-a-total-ban-on-the-ivory-trade.md)

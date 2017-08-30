@@ -85,7 +85,7 @@ Iranian security forces surround the office of opposition leader Mir Hossein Mou
 Russia&#039;s fractured democratic opposition announced plans to unite yesterday, with the goal of offering a single candidate to stand for presidential elections due in 2012, and breaking the stranglehold of Vladimir Putin over Russian politics.
 
 ### [Afghan police set up extra security checkpoints across Afghanistan to prepare for Taliban attacks on voting in the parliamentary election on Saturday. ](/news/2010/09/17/afghan-police-set-up-extra-security-checkpoints-across-afghanistan-to-prepare-for-taliban-attacks-on-voting-in-the-parliamentary-election-on.md)
-_Context: Afghanistan, Taliban, parliamentary election, police, security checks_
+_Context: Afghanistan's, Taliban, parliamentary election, police, security checks_
 
 ### [The Prime Minister of Japan Naoto Kan announces a Ministerial reshuffle with Seiji Maehara announced as the new Minister for Foreign Affairs. ](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.md)
 _Context: Foreign Minister, Naoto Kan, Prime Minister of Japan, Seiji Maehara, forming a government_

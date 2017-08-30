@@ -22,7 +22,7 @@ _Context: Shanghai-Hangzhou High-Speed Railway_
 _Context: Three Gorges Dam, world's largest water control and utilization project_
 
 ### [The Japanese Cabinet approves an extra budget containing an emergency economic stimulus package to help shore up the economy. ](/news/2010/10/26/the-japanese-cabinet-approves-an-extra-budget-containing-an-emergency-economic-stimulus-package-to-help-shore-up-the-economy.md)
-_Context: Japanese economy, Tokyo, economic stimulus_
+_Context: Cabinet of Japan, Japanese economy, economic stimulus_
 
 ### [Independent Print Limited launches "i", the UK's first national daily newspaper in a quarter of a century. ](/news/2010/10/26/independent-print-limited-launches-i-the-uk-s-first-national-daily-newspaper-in-a-quarter-of-a-century.md)
 The Independent newspaper launches a new daily title, called i, aimed at attracting &quot;lapsed readers of quality newspapers&quot;.
@@ -55,7 +55,7 @@ _Context: Africa, Uganda, World Health Organization, polio_
 _Context: Holocene extinction, vertebrates_
 
 ### [The Emir of Qatar begins a state visit to the United Kingdom by meeting Queen Elizabeth II at Windsor Palace. ](/news/2010/10/26/the-emir-of-qatar-begins-a-state-visit-to-the-united-kingdom-by-meeting-queen-elizabeth-ii-at-windsor-palace.md)
-_Context: Britain, Elizabeth II, Emir of Qatar, Windsor Castle_
+_Context: Elizabeth II, Emir of Qatar, United Kingdom, Windsor Castle_
 
 ### [Ecuador throws its support behind Peru in their demands for the return of over 40,000 Machu Picchu artifacts taken by US explorer Hiram Bingham III, and now in Yale's possession. ](/news/2010/10/26/ecuador-throws-its-support-behind-peru-in-their-demands-for-the-return-of-over-40-000-machu-picchu-artifacts-taken-by-us-explorer-hiram-bing.md)
 _Context: Ecuador, Hiram Bingham III, Machu Picchu, Peru, Yale, ancient artifacts_

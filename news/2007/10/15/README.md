@@ -7,7 +7,7 @@ _Context: 2008, European Union, Montenegro, Prime Minister, Stabilisation and As
 _Context: Battle of Las Anod, Puntland, Somalia, Somaliland_
 
 ### [ Sir Menzies Campbell resigns as the leader of the Liberal Democrats in the United Kingdom, starting a leadership election. ](/news/2007/10/15/sir-menzies-campbell-resigns-as-the-leader-of-the-liberal-democrats-in-the-united-kingdom-starting-a-leadership-election.md)
-_Context: Britain, Liberal Democrats, Menzies Campbell, leadership election_
+_Context: Liberal Democrats, Menzies Campbell, United Kingdom, leadership election_
 
 ### [ Leonid Hurwicz, Eric S. Maskin and Roger B. Myerson are announced as winners of the 2007 Nobel Prize in Economics for having laid the foundations of mechanism design theory. ](/news/2007/10/15/leonid-hurwicz-eric-s-maskin-and-roger-b-myerson-are-announced-as-winners-of-the-2007-nobel-prize-in-economics-for-having-laid-the-found.md)
 _Context: Eric S. Maskin, Leonid Hurwicz, Nobel Prize in Economics, Roger B. Myerson, mechanism design_
@@ -28,7 +28,7 @@ _Context: Maori, New Zealand, Police raids, Tame Iti, Terrorism Suppression Act_
 _Context: 17th Party Congress, Beijing, China, Communist Party general secretary, Communist Party of China, Hu Jintao_
 
 ### [ Richard Brunstrom, the Chief Constable of North Wales Police, calls for all classified drugs to be legalised in the United Kingdom. He argues that the current policy of prohibition is not working, and is based on dogma. ](/news/2007/10/15/richard-brunstrom-the-chief-constable-of-north-wales-police-calls-for-all-classified-drugs-to-be-legalised-in-the-united-kingdom-he-argu.md)
-_Context: Britain, Chief Constable, North Wales Police, Richard Brunstrom, dogma, drug_
+_Context: Chief Constable, North Wales Police, Richard Brunstrom, United Kingdom, dogma, drug_
 
 ## [Previous Day...](/news/2007/10/14/index.md)
 

@@ -10,7 +10,7 @@ _Context: Beagle 2, Jodrell Bank, Mars, Mars Odyssey, radio telescope_
 _Context: Gaza, Islamic Jihad Movement in Palestine, Mekled Hameid_
 
 ### [ A UK lab confirms the presence of BSE in samples taken from a cow in Washington [http://news.bbc.co.uk/1/hi/world/americas/3348969.stm]. Mexico joins the list of countries which have banned imports of US beef.](/news/2003/12/25/a-uk-lab-confirms-the-presence-of-bse-in-samples-taken-from-a-cow-in-washington-http-news-bbc-co-uk-1-hi-world-americas-3348969-stm-me.md)
-_Context: Britain, Mexico, mad cow disease_
+_Context: Mexico, United Kingdom, mad cow disease_
 
 ### [ Reports emerge of a major leak of natural gas in a gas field near the south-western Chinese city of Chongqing. Over 100 people are believed dead and up to 40,000 people have been evacuated from the area surrounding the leak. [http://news.bbc.co.uk/1/hi/world/asia-pacific/3347769.stm]](/news/2003/12/25/reports-emerge-of-a-major-leak-of-natural-gas-in-a-gas-field-near-the-south-western-chinese-city-of-chongqing-over-100-people-are-believed.md)
 _Context: China, Chongqing, natural gas_

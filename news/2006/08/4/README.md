@@ -9,7 +9,7 @@ _Context: Ukraine, Viktor Yanukovych_
 ### [ Lord's Resistance Army second-in-command Vincent Otti declares an immediate, unilateral ceasefire in the rebel group's 20-year insurgency against the government of Uganda.](/news/2006/08/4/lord-s-resistance-army-second-in-command-vincent-otti-declares-an-immediate-unilateral-ceasefire-in-the-rebel-group-s-20-year-insurgency-a.md)
 _Context: Lord's Resistance Army, Uganda, Vincent Otti_
 
-### [ Three Hezbollah rockets hit near the Israeli town of Hadera, 50|mi|km south of the Lebanese border and the deepest penetration within Israel to date. ](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-km-south-of-the-lebanese-border-and-the-deepest-penetration-within-israe.md)
+### [ Three Hezbollah rockets hit near the Israeli town of Hadera, 50 mi south of the Lebanese border and the deepest penetration within Israel to date. ](/news/2006/08/4/three-hezbollah-rockets-hit-near-the-israeli-town-of-hadera-50-mi-south-of-the-lebanese-border-and-the-deepest-penetration-within-israel-t.md)
 _Context: Hadera_
 
 ### [ Somalia's transitional government is on the verge of collapse after 38 ministers and assistant ministers quit in the past nine days in protest against the governments failure to make a deal with the Supreme Islamic Courts Council. ](/news/2006/08/4/somalia-s-transitional-government-is-on-the-verge-of-collapse-after-38-ministers-and-assistant-ministers-quit-in-the-past-nine-days-in-prot.md)

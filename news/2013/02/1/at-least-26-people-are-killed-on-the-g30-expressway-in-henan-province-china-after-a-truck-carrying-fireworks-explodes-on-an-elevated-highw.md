@@ -1,6 +1,6 @@
 ### [2013-02-1](/news/2013/02/1/index.md)
 
-# At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an 80|m|ft section of road being destroyed and part of it collapsing. 
+# At least 26 people are killed on the G30 Expressway in Henan province, China, after a truck carrying fireworks explodes on an elevated highway, with an 80 m section of road being destroyed and part of it collapsing. 
 
 A truck carrying fireworks explodes on a highway in central China, causing part of the road to collapse and leaving at least five people dead.
 
@@ -23,4 +23,4 @@ A truck carrying fireworks explodes on a highway in central China, causing part 
 7. [ Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. ](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal-mine-in-henan-province-in-central-china.md) _Context: China, Henan_
 8. [ At least 33 coal miners are trapped in a mine in Baofeng county, Henan province, China. ](/news/2007/04/16/at-least-33-coal-miners-are-trapped-in-a-mine-in-baofeng-county-henan-province-china.md) _Context: China, Henan_
 9. [A magnitude 7.0 earthquake strikes Sichuan in southwest China, killing at least thirteen people and injuring more than 175. ](/news/2017/08/8/a-magnitude-7-0-earthquake-strikes-sichuan-in-southwest-china-killing-at-least-thirteen-people-and-injuring-more-than-175.md) _Context: China_
-10. [Teams of United States-based researchers, composed of American, Chinese and South Korean scientists, successfully edit a piece of faulty DNA that causes a deadly form of heart disease from cells in human embryos. ](/news/2017/08/2/teams-of-united-states-based-researchers-composed-of-american-chinese-and-south-korean-scientists-successfully-edit-a-piece-of-faulty-dna.md) _Context: China_
+10. [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md) _Context: China_

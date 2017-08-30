@@ -12,7 +12,7 @@ _Context: Bosnia and Herzegovina, Brazil, Gabon, Lebanon, Nigeria, U.N. General 
 ### [ Narges Kalhor, the daughter of a senior adviser to President of Iran Mahmoud Ahmadinejad, applies for asylum in Germany. ](/news/2009/10/15/narges-kalhor-the-daughter-of-a-senior-adviser-to-president-of-iran-mahmoud-ahmadinejad-applies-for-asylum-in-germany.md)
 The daughter of a senior adviser to Iranian President Mahmoud Ahmadinejad has applied for asylum in Germany after receiving warnings she could be in danger if she returns home because of her critical stance on Iran.
 
-### [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50|nmi|km|abbr=on west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-km-abbr-on-west-of-st-martin-s-island.md)
+### [ Burma and Bangladesh send warships to a disputed area in the Bay of Bengal 50 nmi west of St. Martin's Island. ](/news/2009/10/15/burma-and-bangladesh-send-warships-to-a-disputed-area-in-the-bay-of-bengal-50-nmi-west-of-st-martin-s-island.md)
 _Context: Bangladesh, Bay of Bengal, Burma, St. Martin's Island, warships_
 
 ### [ Three of the five members of the Norwegian Nobel Committee initially argued against awarding U.S. President Barack Obama the 2009 Nobel Peace Prize. ](/news/2009/10/15/three-of-the-five-members-of-the-norwegian-nobel-committee-initially-argued-against-awarding-u-s-president-barack-obama-the-2009-nobel-pea.md)

@@ -7,7 +7,7 @@ _Context: Intervention in Yemen, World Health Organisation_
 _Context: Dragon Aromatics, Zhangzhou_
 
 ### [Widespread power outages are reported in Washington D.C. after an explosion at a Maryland power substation. ](/news/2015/04/7/widespread-power-outages-are-reported-in-washington-d-c-after-an-explosion-at-a-maryland-power-substation.md)
-_Context: Maryland, Washington, D.C._
+_Context: Maryland, U.S. capital_
 
 ### [The Parliament of Malaysia passes the Prevention of Terrorism Act which allows the Government to detain terrorism suspects without charge. ](/news/2015/04/7/the-parliament-of-malaysia-passes-the-prevention-of-terrorism-act-which-allows-the-government-to-detain-terrorism-suspects-without-charge.md)
 _Context: Parliament of Malaysia, terrorism_

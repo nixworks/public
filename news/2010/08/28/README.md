@@ -31,7 +31,7 @@ _Context: Iran, Sakineh Mohammadi Ashtiani, adultery, stoning_
 The exiled Madagascan president is sentenced to life in prison with hard labour for ordering a killing last year.
 
 ### [A large gathering of people attend Glenn Beck's "Restoring Honor" rally at the National Mall in Washington, D.C. ](/news/2010/08/28/a-large-gathering-of-people-attend-glenn-beck-s-restoring-honor-rally-at-the-national-mall-in-washington-d-c.md)
-_Context: "Restoring Honor" rally, Glenn Beck, National Mall, Washington, D.C._
+_Context: "Restoring Honor" rally, Glenn Beck, National Mall, U.S. capital_
 
 ## [Previous Day...](/news/2010/08/27/index.md)
 

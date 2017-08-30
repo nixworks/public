@@ -11,7 +11,7 @@ Hairdresser turned tycoon and Birmingham City club owner Carson Yeung was releas
 
 ### Related:
 
-1. [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100|km/h|mph|abbr=on and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-mph-abbr-on-and-heavy-rain-four-days-after-deadly-typhoon-h.md) _Context: Hong Kong_
+1. [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km/h and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-and-heavy-rain-four-days-after-deadly-typhoon-hato-passed-t.md) _Context: Hong Kong_
 2. [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _Context: Hong Kong_
 3. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong_
 4. [A court of Lima orders 18 months of pre-trial imprisonment for former president Ollanta Humala and his wife Nadine Heredia for alleged money laundering. Both have turned themselves in. ](/news/2017/07/14/a-court-of-lima-orders-18-months-of-pre-trial-imprisonment-for-former-president-ollanta-humala-and-his-wife-nadine-heredia-for-alleged-money.md) _Context: money laundering_

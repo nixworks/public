@@ -1,13 +1,13 @@
 ## [2009-02-17](/news/2009/02/17/index.md)
 
 ### [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md)
-_Context: Afghanistan, Barack Obama, President, United States, United States military personnel, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan's, Barack Obama, President, United States, United States military personnel, War in Afghanistan (2001-present), deployment_
 
 ### [ The U.S. Securities and Exchange Commission charges Stanford Financial Group Chairman Allen Stanford with fraud. ](/news/2009/02/17/the-u-s-securities-and-exchange-commission-charges-stanford-financial-group-chairman-allen-stanford-with-fraud.md)
 _Context: Allen Stanford, SEC, Stanford Financial Group, United States, chairman, fraud_
 
 ### [ British lawyer David Mills is sentenced to four-and-a-half years in jail for accepting a GBP400,000 bribe from Italian Prime Minister Silvio Berlusconi. ](/news/2009/02/17/british-lawyer-david-mills-is-sentenced-to-four-and-a-half-years-in-jail-for-accepting-a-agbp400-000-bribe-from-italian-prime-minister-silv.md)
-_Context: Britain, David Mills, GBP, Italian, Italian Prime Minister, Silvio Berlusconi, accepting, bribes_
+_Context: David Mills, GBP, Italian, Italian Prime Minister, Silvio Berlusconi, United Kingdom, accepting, bribes_
 
 ### [ Walter Veltroni resigns as Secretary of Italy's Democratic Party. ](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.md)
 _Context: Democratic Party, Italian, Walter Veltroni_

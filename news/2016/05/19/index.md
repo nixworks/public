@@ -22,7 +22,7 @@ Kochiyama embraced far-leftist protesters and even terrorist organizations.
 The EgyptAir jet which crashed in the Mediterranean on Thursday sent a series of warnings indicating that smoke had been detected on board, shortly before it disappeared off radar screens, French investigators said on Saturday.
 
 ### [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md)
-_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghanistan, Azerbaijan_
+_Context: 2016 Silk Way Airlines Antonov An-12 crash, Afghanistan's, Azerbaijan_
 
 ### [A unanimous opinion of the U.S. Supreme Court finds that the constitutional guarantee of a speedy trial does not guarantee a speedy sentencing hearing. ](/news/2016/05/19/a-unanimous-opinion-of-the-u-s-supreme-court-finds-that-the-constitutional-guarantee-of-a-speedy-trial-does-not-guarantee-a-speedy-sentenci.md)
 _Context: U.S. Supreme Court, constitutional, opinion, speedy trial_

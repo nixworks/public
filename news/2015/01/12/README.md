@@ -13,7 +13,7 @@ Ash and smoke from a volcanic eruption in Tonga are causing some flight cancella
 _Context: Caribbean Sea, St. Vincent, school bus_
 
 ### [An electrical malfunction causes a fire in the Washington, D. C.'s Metro subway system near L'Enfant Plaza Station resulting in one death with 84 people taken to hospitals, mostly from smoke inhalation. ](/news/2015/01/12/an-electrical-malfunction-causes-a-fire-in-the-washington-d-c-s-metro-subway-system-near-l-enfant-plaza-station-resulting-in-one-death-wi.md)
-_Context: L'Enfant Plaza Station, Washington Metro, Washington, D.C., smoke inhalation_
+_Context: L'Enfant Plaza Station, U.S. capital, Washington Metro, smoke inhalation_
 
 ### [In Rovinari, Romania, a father and 6 siblings, aged from 6 months to 7 years, die after a gas water boiler emits carbon monoxide.](/news/2015/01/12/in-rovinari-romania-a-father-and-6-siblings-aged-from-6-months-to-7-years-die-after-a-gas-water-boiler-emits-carbon-monoxide.md)
 _Context: Romania, Rovinari_

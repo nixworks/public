@@ -4,7 +4,7 @@
 _Context: Conflict in Iraq, Iraq, Iraqi insurgency, Talafar, suicide bomb_
 
 ### [ Conflict in Afghanistan: 18 Afghan police die following an ambush in Halmand, southern Afghanistan. ](/news/2005/10/11/conflict-in-afghanistan-18-afghan-police-die-following-an-ambush-in-halmand-southern-afghanistan.md)
-_Context: Afghanistan, War in Afghanistan (2001-present), ambush_
+_Context: Afghanistan's, War in Afghanistan (2001-present), ambush_
 
 ### [ 2005 Malawi food crisis: SOS Children launches emergency food program around Lilongwe and Mzuzu ](/news/2005/10/11/2005-malawi-food-crisis-sos-children-launches-emergency-food-program-around-lilongwe-and-mzuzu.md)
 _Context: SOS Children, serious food shortages_

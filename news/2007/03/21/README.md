@@ -1,7 +1,7 @@
 ## [2007-03-21](/news/2007/03/21/index.md)
 
 ### [ Gordon Brown, Chancellor of the Exchequer in the United Kingdom, delivers the 2007 budget. The main rates of corporation tax and income tax will both be reduced by 2% from April 2008, but other taxes are increased. ](/news/2007/03/21/gordon-brown-chancellor-of-the-exchequer-in-the-united-kingdom-delivers-the-2007-budget-the-main-rates-of-corporation-tax-and-income-tax.md)
-_Context: Britain, Chancellor of the Exchequer, Gordon Brown, budget, corporation tax, income tax_
+_Context: Chancellor of the Exchequer, Gordon Brown, United Kingdom, budget, corporation tax, income tax_
 
 ### [ Former United States Ambassador to the United Nations and the broker of the Dayton Peace Accords Richard Holbrooke warns that if the United Nations votes against independence for Kosovo in April the region may erupt into violence. ](/news/2007/03/21/former-united-states-ambassador-to-the-united-nations-and-the-broker-of-the-dayton-peace-accords-richard-holbrooke-warns-that-if-the-united.md)
 _Context: Ambassador to the United Nations, Dayton Peace Accords, Kosovo, Richard Holbrooke, United Nations_

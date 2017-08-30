@@ -15,7 +15,7 @@ _Context: 2008 Africa Cup of Nations, Cameroon, Egypt, Ghana, association footba
 ### [ Ten people are trampled to death at a rock concert in Bandung, Indonesia. ](/news/2008/02/10/ten-people-are-trampled-to-death-at-a-rock-concert-in-bandung-indonesia.md)
 _Context: Bandung, Indonesia, rock concert_
 
-### [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282|km|mi northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-mi-northeast-of-aberdeen-scotland-after-a-hoa.md)
+### [ Over five hundred people are evacuated from the North Sea oil rig "Safe Scandinavia", 282 km northeast of Aberdeen, Scotland after a hoax bomb scare. ](/news/2008/02/10/over-five-hundred-people-are-evacuated-from-the-north-sea-oil-rig-safe-scandinavia-282-km-northeast-of-aberdeen-scotland-after-a-hoax-b.md)
 Personnel are understood to be returning to a North Sea oil rig after a security threat earlier today.
 
 ### [ "Anonymous" protests the policies of the Church of Scientology at different locations around the world. ](/news/2008/02/10/anonymous-protests-the-policies-of-the-church-of-scientology-at-different-locations-around-the-world.md)

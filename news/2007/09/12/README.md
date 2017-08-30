@@ -7,7 +7,7 @@ _Context: 1976, 2008, Burj Dubai, CN Tower, Canada, Toronto, Ontario, United Ara
 _Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladimir Putin, Vladimir Vysotsky_
 
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
-_Context: Afghanistan, Ramadan, Taliban_
+_Context: Afghanistan's, Ramadan, Taliban_
 
 ### [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. [http://ap.google.com/article/ALeqM5j9dgF42S_3YlUzE-B4hqLtKEdusA (Associated Press)] (Wikinews)](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md)
 _Context: (Wikinews), Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Airlines, turboprop_
@@ -16,7 +16,7 @@ _Context: (Wikinews), Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Sca
 _Context: Eritrea, Somalia, new alliance_
 
 ### [ A new case of Foot-and-mouth disease in the UK was confirmed after it was assumed that the outbreak of 2007 had been under control. ](/news/2007/09/12/a-new-case-of-foot-and-mouth-disease-in-the-uk-was-confirmed-after-it-was-assumed-that-the-outbreak-of-2007-had-been-under-control.md)
-_Context: Britain, foot-and-mouth disease, outbreak of 2007_
+_Context: United Kingdom, foot-and-mouth disease, outbreak of 2007_
 
 ### [ A major earthquake with a magnitude of 8.4 occurs off the west-coast of the island Sumatra, Indonesia. Sea level readings indicate a tsunami might follow and a tsunami watch is put in place for the whole of the Indian Ocean. ](/news/2007/09/12/a-major-earthquake-with-a-magnitude-of-8-4-occurs-off-the-west-coast-of-the-island-sumatra-indonesia-sea-level-readings-indicate-a-tsunam.md)
 _Context: Indian Ocean, Indonesia, September 2007 Sumatra earthquakes, Sumatra, earthquake, tsunami_

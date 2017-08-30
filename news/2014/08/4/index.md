@@ -31,7 +31,7 @@ A ferry with about 200 passengers on board capsizes in a river south of the Bang
 _Context: 2014 West Africa Ebola outbreak, World Health Organisation, ebola virus_
 
 ### [The first US-Africa Leaders Summit begins today in Washington, D.C. ](/news/2014/08/4/the-first-usaafrica-leaders-summit-begins-today-in-washington-d-c.md)
-_Context: US-Africa Leaders Summit, Washington, D.C._
+_Context: U.S. capital, US-Africa Leaders Summit_
 
 ## [Previous Day...](/news/2014/08/3/index.md)
 

@@ -40,7 +40,7 @@ _Context: Egyptian Army, Operation Eagle, Operation Sinai_
 _Context: Mayor of Chicago, Rahm Emanuel_
 
 ### [Mei Xiang, the Washington, D.C. National Zoo's adult female giant panda, gives birth to a cub, her second there, via artificial insemination. ](/news/2012/09/16/mei-xiang-the-washington-d-c-national-zoo-s-adult-female-giant-panda-gives-birth-to-a-cub-her-second-there-via-artificial-insemination.md)
-_Context: Mei Xiang's, U.S. National Zoo, Washington, D.C., artificial insemination, panda_
+_Context: Mei Xiang's, U.S. National Zoo, U.S. capital, artificial insemination, panda_
 
 ## [Previous Day...](/news/2012/09/15/index.md)
 

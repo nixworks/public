@@ -16,7 +16,7 @@ Chinese vessel leaking oil after running aground on the Great Barrier Reef.
 _Context: Baghdad, Egypt, Germany, Iran, Iraq, triple bombings_
 
 ### [President of Afghanistan Hamid Karzai threatens to join the Taliban if the Afghani Parliament refuses to approve his proposal to take control of the electoral apparatus from the United Nations. ](/news/2010/04/4/president-of-afghanistan-hamid-karzai-threatens-to-join-the-taliban-if-the-afghani-parliament-refuses-to-approve-his-proposal-to-take-contro.md)
-_Context: Afghanistan, Afghanistan President, Hamid Karzai, Taliban, United Nations_
+_Context: Afghanistan President, Afghanistan's, Hamid Karzai, Taliban, United Nations_
 
 ### [A 7.2-magnitude earthquake hits Baja California, about 108 miles east-southeast of Tijuana, says the U.S. Geological Survey. ](/news/2010/04/4/a-7-2-magnitude-earthquake-hits-baja-california-about-108-miles-east-southeast-of-tijuana-says-the-u-s-geological-survey.md)
 _Context: 7.2-magnitude earthquake, Baja California, Tijuana, U.S. Geological Survey_

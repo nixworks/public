@@ -4,7 +4,7 @@
 Military launches campaigns in three provinces as foreign governments reopen embassies.
 
 ### [The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. ](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-mulal-al-balawi-who-killed-seven-cia-agents-in-afghanistan-is-reported-to-be-an-al-qaeda.md)
-_Context: Afghanistan, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
+_Context: Afghanistan's, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
 _Context: Facebook, Inc., social network_
@@ -22,7 +22,7 @@ _Context: Solomon Islands, two major earthquakes and tsunami_
 _Context: Brazil, Rio Grande do Sul_
 
 ### [The United Kingdom is once again deluged by heavy snowfall as the country endures its worst cold snap since 1979. ](/news/2010/01/5/the-united-kingdom-is-once-again-deluged-by-heavy-snowfall-as-the-country-endures-its-worst-cold-snap-since-1979.md)
-_Context: Britain, heavy snowfall_
+_Context: United Kingdom, heavy snowfall_
 
 ### [A Learjet cargo plane on approach to Chicago Executive Airport crashes into the Des Plaines River in Wheeling, Illinois. ](/news/2010/01/5/a-learjet-cargo-plane-on-approach-to-chicago-executive-airport-crashes-into-the-des-plaines-river-in-wheeling-illinois.md)
 _Context: Chicago Executive Airport, Des Plaines River, Learjet, Wheeling, Illinois_

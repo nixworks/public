@@ -1,6 +1,6 @@
 ## [2010-11-11](/news/2010/11/11/index.md)
 
-### [Somali pirates seize a Panamanian-flagged chemical tanker almost 900|nmi|km|abbr=on from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-km-abbr-on-from-the-horn-of-africa.md)
+### [Somali pirates seize a Panamanian-flagged chemical tanker almost 900 nmi from the Horn of Africa. ](/news/2010/11/11/somali-pirates-seize-a-panamanian-flagged-chemical-tanker-almost-900-nmi-from-the-horn-of-africa.md)
 _Context: Horn of Africa, Panama, Somali pirates_
 
 ### [Sudanese government forces clash with Arab fighters in the country's Darfur region, according to the U.N. and rebel sources; the Sudanese army denies any fighting took place ](/news/2010/11/11/sudanese-government-forces-clash-with-arab-fighters-in-the-country-s-darfur-region-according-to-the-u-n-and-rebel-sources-the-sudanese-ar.md)

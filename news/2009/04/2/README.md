@@ -4,7 +4,7 @@
 _Context: Aerospace manufacturer, Bombardier Aerospace, Canada, layoff_
 
 ### [ United States Federal Judge John D. Bates rules that enemy combatants incarcerated at the U.S. Air Base in Bagram, Afghanistan, have rights to legal trials. ](/news/2009/04/2/united-states-federal-judge-john-d-bates-rules-that-enemy-combatants-incarcerated-at-the-u-s-air-base-in-bagram-afghanistan-have-rights.md)
-_Context: Afghanistan, Bagram, Bagram Air Base, John D. Bates, U.S. District Court Judge, United States, civil rights, enemy combatant, trial_
+_Context: Afghanistan's, Bagram, Bagram Air Base, John D. Bates, U.S. District Court Judge, United States, civil rights, enemy combatant, trial_
 
 ### [ The Group of 20 announces a US$1-trillion agreement to combat the current financial crisis. ](/news/2009/04/2/the-group-of-20-announces-a-us-1-trillion-agreement-to-combat-the-current-financial-crisis.md)
 _Context: G-20, US$, announces, current financial crisis_

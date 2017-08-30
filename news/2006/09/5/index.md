@@ -1,7 +1,7 @@
 ## [2006-09-5](/news/2006/09/5/index.md)
 
 ### [ More than 50 Taliban insurgents are killed in the ongoing Operation Medusa. ](/news/2006/09/5/more-than-50-taliban-insurgents-are-killed-in-the-ongoing-operation-medusa.md)
-_Context: Afghanistan, Operation Medusa_
+_Context: Afghanistan's, Operation Medusa_
 
 ### [ Felipe Caldern of the PAN is declared the winner of Mexico's 2 July presidential election. ](/news/2006/09/5/felipe-calderon-of-the-pan-is-declared-the-winner-of-mexico-s-2-july-presidential-election.md)
 _Context: 2 July, Felipe Caldern, Mexican general election, Mexico, National Action Party (PAN)_
@@ -16,7 +16,7 @@ Lebanese troops moved on Tuesday into a town wrecked by Israel&#8217;s war with 
 _Context: February 2005 assassination, Lebanon, Lt. Col., Rafik Hariri, Samir Shehade, Syria_
 
 ### [ Pakistan has signed a truce with pro-Taliban militants on the Afghanistan border agreeing to withdraw most Pakistani troops in exchange for the militants' promise not to support cross-border violence. ](/news/2006/09/5/pakistan-has-signed-a-truce-with-pro-taliban-militants-on-the-afghanistan-border-agreeing-to-withdraw-most-pakistani-troops-in-exchange-for.md)
-_Context: Afghanistan, Pakistan, Taliban_
+_Context: Afghanistan's, Pakistan, Taliban_
 
 ### [ Fidel Castro claims that he is recovering well despite losing 18 kg (41 lb) as a result of intestinal surgery. ](/news/2006/09/5/fidel-castro-claims-that-he-is-recovering-well-despite-losing-18-kg-41-lb-as-a-result-of-intestinal-surgery.md)
 Cuban leader Fidel Castro said the worst is over and he is recovering well from intestinal surgery one month ago despite losing 41 pounds, a statement published on Tuesday said.

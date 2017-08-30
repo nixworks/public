@@ -22,7 +22,7 @@ The universe is not empty. The space between stars and between galaxies is perme
 Archeologists have found a mass grave in Mexico City with four dozen human skeletons laid out in neat lines that could reveal clues about the 16th century Spanish conquest that killed millions.
 
 ### [ Twenty-seven people die during a suicide attack in Kabul, Afghanistan. ](/news/2009/02/11/twenty-seven-people-die-during-a-suicide-attack-in-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul, suicide bombing_
+_Context: Afghanistan's, Kabul, suicide bombing_
 
 ### [ Chinese fishing vessels desert the Northern Limit Line, signaling a possible North Korean missile test. ](/news/2009/02/11/chinese-fishing-vessels-desert-the-northern-limit-line-signaling-a-possible-north-korean-missile-test.md)
 Chinese fishing vessels have moved out of waters near a disputed sea border between the two Koreas, a South Korean military official said on Wednesday, possibly signaling a North Korean short-range missile test is imminent.
@@ -40,7 +40,7 @@ Michigan Democrat John Dingell today becomes the longest-serving member of the H
 _Context: French Polynesia, Oscar Temaru, President, elected_
 
 ### [ The United Kingdom's Conservative Party admits to altering the Italian painter Titian's Wikipedia entry following a confrontation with Prime Minister Gordon Brown. ](/news/2009/02/11/the-united-kingdom-s-conservative-party-admits-to-altering-the-italian-painter-titian-s-wikipedia-entry-following-a-confrontation-with-prim.md)
-_Context: Britain, Conservative Party, Gordon Brown, Italian, Prime Minister, Titian, Wikipedia, painter_
+_Context: Conservative Party, Gordon Brown, Italian, Prime Minister, Titian, United Kingdom, Wikipedia, painter_
 
 ### [ Renowned Molecular Biologist Dr Abdul Majid Cheema escaped death when unknown armed men opened fire on his vehicle on Quetta,Pakistan. [http://www.allvoices.com/news/2484493/s/28479265-balochistan-varsity-official-escapes-unhurt-in-attack]](/news/2009/02/11/renowned-molecular-biologist-dr-abdul-majid-cheema-escaped-death-when-unknown-armed-men-opened-fire-on-his-vehicle-on-quetta-pakistan-htt.md)
 ## [Previous Day...](/news/2009/02/10/index.md)

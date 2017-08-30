@@ -7,7 +7,7 @@ _Context: Fono, O le Ao o le Malo, Samoa, Tupua Tamasese Tupuola Tufuga Efi_
 _Context: 2006 Duke University lacrosse case, Mike Nifong, North Carolina, U.S. state, disbarred_
 
 ### [ Police in Zimbabwe confiscate opposition leader Arthur Mutambara's passport as he tries to leave for South Africa and the United Kingdom. ](/news/2007/06/16/police-in-zimbabwe-confiscate-opposition-leader-arthur-mutambara-s-passport-as-he-tries-to-leave-for-south-africa-and-the-united-kingdom.md)
-_Context: Arthur Mutambara, Britain, South Africa, Zimbabwe, passport_
+_Context: Arthur Mutambara, South Africa, United Kingdom, Zimbabwe, passport_
 
 ### [ The Chinese Ministry of Labour and Social Security undertakes an investigation into claims that up to 1,000 minors worked as slave labour in central China. ](/news/2007/06/16/the-chinese-ministry-of-labour-and-social-security-undertakes-an-investigation-into-claims-that-up-to-1-000-minors-worked-as-slave-labour-i.md)
 _Context: Chinese, Chinese slave scandal, Ministry of Labour and Social Security_

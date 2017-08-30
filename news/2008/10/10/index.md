@@ -35,7 +35,7 @@ _Context: Alexey Prokurorov, Russia, Vladimir_
 _Context: Chile, Ernesto "Tito" Beltran, Sweden, appeals court, nanny, opera, tenor_
 
 ### [ North Korea draws nearer to a compromise in a nuclear deal that would prompt Washington to remove it from a list of State Sponsors of Terrorism. ](/news/2008/10/10/north-korea-draws-nearer-to-a-compromise-in-a-nuclear-deal-that-would-prompt-washington-to-remove-it-from-a-list-of-state-sponsors-of-terro.md)
-_Context: North Korea, Washington, D.C., state sponsor of terrorism_
+_Context: North Korea, U.S. capital, state sponsor of terrorism_
 
 ### [ European markets fall steeply upon opening. ](/news/2008/10/10/european-markets-fall-steeply-upon-opening.md)
 ### [ Leaders of the anti-government protests in Thailand surrender to thepolice. ](/news/2008/10/10/leaders-of-the-anti-government-protests-in-thailand-surrender-to-thepolice.md)

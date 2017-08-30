@@ -7,7 +7,7 @@ _Context: Adrienne Rich_
 _Context: Spain, general strike_
 
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
-_Context: 10 Downing Street, Britain, gas station_
+_Context: 10 Downing Street, United Kingdom, gas station_
 
 ### [Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report. ](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.md)
 Research In Motion posted a net loss and its first slump in BlackBerry shipments for its holiday quarter since 2006, as its new CEO announced the initial steps in a strategic overhaul and would not rule out an eventual sale of the company.

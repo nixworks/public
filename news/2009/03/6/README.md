@@ -7,7 +7,7 @@ _Context: European Union, Kenya, Somali pirates, Somalia, captures_
 _Context: Harare, Morgan Tsvangirai, Prime Minister, Zimbabwe, car accident, wife_
 
 ### [ A protestor from Plane Stupid throws custard at United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson during a low-carbon summit in London. ](/news/2009/03/6/a-protestor-from-plane-stupid-throws-custard-at-united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mand.md)
-_Context: Britain, London, Peter Mandelson, Plane Stupid, Secretary of State for Business, Enterprise and Regulatory Reform, custard, low-carbon, protest, summit_
+_Context: London, Peter Mandelson, Plane Stupid, Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, custard, low-carbon, protest, summit_
 
 ### [ Swedish writer Lotta Lotass succeeds the late Sten Rudholm at Seat 1 of the Swedish Academy. ](/news/2009/03/6/swedish-writer-lotta-lotass-succeeds-the-late-sten-rudholm-at-seat-1-of-the-swedish-academy.md)
 _Context: Lotta Lotass, Seat 1, Sten Rudholm, Sweden, Swedish Academy_

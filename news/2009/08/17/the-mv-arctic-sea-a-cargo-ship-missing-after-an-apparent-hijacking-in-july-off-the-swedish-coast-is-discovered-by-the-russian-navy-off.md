@@ -12,7 +12,7 @@
 ### Related:
 
 1. [NATO intercepts Russian jets over the Baltic Sea while Sweden's six-day search for a possibly damaged Russian Navy submarine continues. ](/news/2014/10/22/nato-intercepts-russian-jets-over-the-baltic-sea-while-sweden-s-six-day-search-for-a-possibly-damaged-russian-navy-submarine-continues.md) _Context: Russian Navy, Sweden_
-2. [ The MV "Arctic Sea", missing since late July, is reportedly found 400|nmi|km|abbr=on off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-km-abbr-on-off-the-cape-verde-islands.md) _Context: Cape Verde, MV ''Arctic Sea''_
+2. [ The MV "Arctic Sea", missing since late July, is reportedly found 400 nmi off the Cape Verde islands. ](/news/2009/08/14/the-mv-arctic-sea-missing-since-late-july-is-reportedly-found-400-nmi-off-the-cape-verde-islands.md) _Context: Cape Verde, MV ''Arctic Sea''_
 3. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Sweden_
 4. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Sweden_
 5. [A vehicle is driven into a group of people on a street in Stockholm, Sweden, killing four people. ](/news/2017/04/7/a-vehicle-is-driven-into-a-group-of-people-on-a-street-in-stockholm-sweden-killing-four-people.md) _Context: Sweden_

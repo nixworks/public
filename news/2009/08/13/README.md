@@ -13,7 +13,7 @@ _Context: Republic of Dagestan, Russia_
 _Context: Muslims, Philippines_
 
 ### [ Former Afghan President Burhanuddin Rabbani survives an ambush by the Taliban in the Ali Abad District of Kunduz province, Afghanistan. ](/news/2009/08/13/former-afghan-president-burhanuddin-rabbani-survives-an-ambush-by-the-taliban-in-the-ali-abad-district-of-kunduz-province-afghanistan.md)
-_Context: Afghan President, Afghanistan, Ali Abad District, Burhanuddin Rabbani, Kunduz Province, Taliban, ambush_
+_Context: Afghan President, Afghanistan's, Ali Abad District, Burhanuddin Rabbani, Kunduz Province, Taliban, ambush_
 
 ### [ Supporters of Guinea's self-declared President, Captain Moussa Dadis Camara, form a movement, Dadis Must Stay, to call for him to be allowed to continue in office. ](/news/2009/08/13/supporters-of-guinea-s-self-declared-president-captain-moussa-dadis-camara-form-a-movement-dadis-must-stay-to-call-for-him-to-be-allowe.md)
 _Context: Dadis Must Stay, Guinea, Moussa Dadis Camara, President_

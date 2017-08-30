@@ -13,7 +13,7 @@ _Context: Cambodia, Thai passenger jet, machine gun_
 _Context: Maiduguri, Nigeria, mosque, suicide bomber_
 
 ### [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghanistan, Hanifa Safi_
+_Context: Afghanistan's, Hanifa Safi_
 
 ### [Carol Ann Duffy, the Poet Laureate of the United Kingdom, is announced as the winner of the 2012 PEN/Pinter Prize. ](/news/2012/07/13/carol-ann-duffy-the-poet-laureate-of-the-united-kingdom-is-announced-as-the-winner-of-the-2012-pen-pinter-prize.md)
 Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being awarded the 2012 Pen Pinter Prize in memory of the playwright Harold Pinter.
@@ -39,7 +39,7 @@ _Context: Boeing, Federal Aviation Administration_
 ### [Between 19 and 30 people are killed after a train crashes into a truck carrying farm labourers near the South African town of Malelane. ](/news/2012/07/13/between-19-and-30-people-are-killed-after-a-train-crashes-into-a-truck-carrying-farm-labourers-near-the-south-african-town-of-malelane.md)
 At least 19 people are killed after a train hits a truck carrying farm workers at a railway crossing in north-eastern South Africa, officials say.
 
-### [Three Americans die in a Mystere-Falcon 20 after it crashes on the runway at Le Castellet Airport|fr|3=Aeroport du Castellet, between Toulon and Marseille. ](/news/2012/07/13/three-americans-die-in-a-mystere-falcon-20-after-it-crashes-on-the-runway-at-le-castellet-airport-fr-3-aa-c-roport-du-castellet-between-toulo.md)
+### [Three Americans die in a Mystere-Falcon 20 after it crashes on the runway at Le Castellet Airport du Castellet, between Toulon and Marseille. ](/news/2012/07/13/three-americans-die-in-a-mystere-falcon-20-after-it-crashes-on-the-runway-at-le-castellet-airport-du-castellet-between-toulon-and-marseille.md)
 _Context: Marseille, Mystere-Falcon 20, Toulon_
 
 ### [More than 1,000 counties in the United States are declared natural disaster areas after a drought spreads throughout the country. ](/news/2012/07/13/more-than-1-000-counties-in-the-united-states-are-declared-natural-disaster-areas-after-a-drought-spreads-throughout-the-country.md)

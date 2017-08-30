@@ -4,7 +4,7 @@
 _Context: Democratic Republic of Congo, Jean-Pierre Bemba, Kinshasa, Senator_
 
 ### [ The United Kingdom announces the withdrawal of all British Armed Forces serving as part of the European Union Force in Bosnia and Herzegovina. ](/news/2007/03/24/the-united-kingdom-announces-the-withdrawal-of-all-british-armed-forces-serving-as-part-of-the-european-union-force-in-bosnia-and-herzegovi.md)
-_Context: Bosnia and Herzegovina, Britain, British military personnel, European Union Force_
+_Context: Bosnia and Herzegovina, British military personnel, European Union Force, United Kingdom_
 
 ### [ War in Iraq: At least 47 people die in insurgent strikes including 20 as a result of a suicide truck bomb in a Baghdad police station. ](/news/2007/03/24/war-in-iraq-at-least-47-people-die-in-insurgent-strikes-including-20-as-a-result-of-a-suicide-truck-bomb-in-a-baghdad-police-station.md)
 _Context: Baghdad, War in Iraq, car bomb, insurgents, police station, suicide bombing_

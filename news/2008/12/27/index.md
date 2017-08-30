@@ -7,7 +7,7 @@ _Context: Asif Ali Zardari, Pakistan, President, terrorism_
 _Context: Sweden, Yule goat, yule goat_
 
 ### [ On the eve of its centenary, Woolworths Group begins closing its stores in the United Kingdom. ](/news/2008/12/27/on-the-eve-of-its-centenary-woolworths-group-begins-closing-its-stores-in-the-united-kingdom.md)
-_Context: Britain, Woolworths Group_
+_Context: United Kingdom, Woolworths Group_
 
 ### [ Israel launches Operation Cast Lead against Hamas in the Gaza Strip, killing at least 271 people and wounding at least 800. ](/news/2008/12/27/israel-launches-operation-cast-lead-against-hamas-in-the-gaza-strip-killing-at-least-271-people-and-wounding-at-least-800.md)
 58-year-old Beber Vaaknin killed when Gaza rocket hits apartment building in Netivot. Residents in south ordered to remain in bomb shelters as IDF op continues

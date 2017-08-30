@@ -1,7 +1,7 @@
 ## [2010-08-12](/news/2010/08/12/index.md)
 
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: 2010 Badakhshan massacre, Afghanistan, International Assistance Mission, Taliban_
+_Context: 2010 Badakhshan massacre, Afghanistan's, International Assistance Mission, Taliban_
 
 ### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
 _Context: Central Africa, Human Rights Watch, Lord's Resistance Army, Uganda_
@@ -79,7 +79,7 @@ Poland extradites to Germany a suspected Israeli agent wanted in connection with
 Officials say 500 people could be onboard boat from Sri Lanka.
 
 ### [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md)
-_Context: Australia, Britain, First Vice President, Iran, Mafia, Mohammad Reza Rahimi, South Korea, cattlemen_
+_Context: Australia, First Vice President, Iran, Mafia, Mohammad Reza Rahimi, South Korea, United Kingdom, cattlemen_
 
 ### [Four British police officers are charged with beating, dragging, punching, stamping and mocking "terror suspect" Babar Ahmad after arresting him in Tooting, South London in 2003; the suspect, a 36-year-old IT worker, was later deemed innocent. ](/news/2010/08/12/four-british-police-officers-are-charged-with-beating-dragging-punching-stamping-and-mocking-terror-suspect-babar-ahmad-after-arresting.md)
 Four policemen face prosecution for actual bodily harm on a terror suspect in London in December 2003.

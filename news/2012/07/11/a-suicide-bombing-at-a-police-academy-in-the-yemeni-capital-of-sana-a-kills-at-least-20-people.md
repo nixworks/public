@@ -11,7 +11,7 @@ At least eight people have been killed in a suicide bomb attack at the police ac
 
 ### Related:
 
-1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sanaa, Yemen_
+1. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sanaa, Yemen_
 2. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sanaa, Yemen_
 3. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sanaa, Yemen_
 4. [A suicide bombing kills at least 30 and injures 70 others in the southern city of Mukalla, Yemen. The Islamic State of Iraq and the Levant claims responsibility for attack. ](/news/2016/05/15/a-suicide-bombing-kills-at-least-30-and-injures-70-others-in-the-southern-city-of-mukalla-yemen-the-islamic-state-of-iraq-and-the-levant-c.md) _Context: Yemen, suicide bombing_

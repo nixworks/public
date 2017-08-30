@@ -13,7 +13,7 @@ _Context: Baghdad, Baquba, Shia_
 _Context: Pakistan, Quetta_
 
 ### [Three men in Afghan police uniform kill a NATO soldier in eastern Afghanistan.](/news/2012/06/18/three-men-in-afghan-police-uniform-kill-a-nato-soldier-in-eastern-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: Afghanistan's, NATO_
 
 ### [It is disclosed that Jack Osbourne has the incurable neurological condition multiple sclerosis (MS). ](/news/2012/06/18/it-is-disclosed-that-jack-osbourne-has-the-incurable-neurological-condition-multiple-sclerosis-ms.md)
 Ozzy and Sharon Osbourne reveal that son Jack has the incurable neurological condition multiple sclerosis (MS).
@@ -43,7 +43,7 @@ _Context: Barack Obama, Iran, President, Russian President Vladimir Putin, Syria
 Survivors of the Rwandan genocide in 1994 say they are concerned about their safety after community courts ended their work after 10 years.
 
 ### [Former American Major League Baseball player Roger Clemens is acquitted on all charges in a perjury trial. ](/news/2012/06/18/former-american-major-league-baseball-player-roger-clemens-is-acquitted-on-all-charges-in-a-perjury-trial.md)
-_Context: Major League Baseball, Roger Clemens, committed perjury_
+_Context: Major League Baseball, Roger Clemens, perjury_
 
 ### [Prince Salman bin Abdulaziz is nominated as heir apparent of Saudi Arabia. ](/news/2012/06/18/prince-salman-bin-abdulaziz-is-nominated-as-heir-apparent-of-saudi-arabia.md)
 The death of Crown Prince Nayef of Saudi Arabia may bring the Saudi royal family closer to a generational switch, analyst Neil Partrick says.

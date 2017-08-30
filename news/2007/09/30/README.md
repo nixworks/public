@@ -9,7 +9,7 @@ _Context: Garry Kasparov, Russian President Vladimir Putin, The Other Russia, Wo
 ### [ Ukrainians went to the polls for the third time in three years to vote in parliamentary election. ](/news/2007/09/30/ukrainians-went-to-the-polls-for-the-third-time-in-three-years-to-vote-in-parliamentary-election.md)
 _Context: Ukraine_
 
-### [ The Topps Meat Company recalls 21700000|lb|t of frozen beef patties because of potential contamination with "E. coli". Twenty-five cases of illness due to "E. coli" have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-t-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases-of.md)
+### [ The Topps Meat Company recalls 21700000 lb of frozen beef patties because of potential contamination with "E. coli". Twenty-five cases of illness due to "E. coli" have been reported in the Northeastern United States. ](/news/2007/09/30/the-topps-meat-company-recalls-21700000-lb-of-frozen-beef-patties-because-of-potential-contamination-with-e-coli-twenty-five-cases-of-i.md)
 The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 million pounds of ground beef products, which may have sickened 25 people in eight states.
 
 ### [ A central member of the military junta in Myanmar is reportedly interested in seeking political asylum in Norway. The colonel is said to have defected recently, and he is now hiding in the jungle among the Karen people. ](/news/2007/09/30/a-central-member-of-the-military-junta-in-myanmar-is-reportedly-interested-in-seeking-political-asylum-in-norway-the-colonel-is-said-to-ha.md)

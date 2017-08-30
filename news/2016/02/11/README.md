@@ -7,7 +7,7 @@ Suspected Islamist militants killed two civilians and a customs officer and burn
 _Context: Jizan Province, Saudi Arabia, Terrorism in Saudi Arabia, shoots six people dead_
 
 ### [Four policemen are killed and another seven wounded when one of their colleagues opened fire on them in Kandahar, Afghanistan. ](/news/2016/02/11/four-policemen-are-killed-and-another-seven-wounded-when-one-of-their-colleagues-opened-fire-on-them-in-kandahar-afghanistan.md)
-_Context: Afghan, Afghanistan, Kandahar, War in Afghanistan (2015-present)_
+_Context: Afghan, Afghanistan's, Kandahar, War in Afghanistan (2015-present)_
 
 ### [Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with competitor Lyft in 2014. ](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-court-says-it-will-pay-28-5-million-to-settle-two-lawsuits-over-misleading-background-c.md)
 Get the latest science news and technology news, read tech reviews and more at ABC News.
