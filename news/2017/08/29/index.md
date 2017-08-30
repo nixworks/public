@@ -24,5 +24,8 @@ _Context: European migrant crisis, Libyan Navy, Tripoli_
 ### [The Landtag of the Free State of Saxony has lifted the immunity of Frauke Petry, Party Chair in the Alternative for Germany party, opening the way for prosecutors to pursue possible perjury charges against her concerning statements made to a committee of the Saxony parliament about how the party's campaign for the 2014 election was financed. ](/news/2017/08/29/the-landtag-of-the-free-state-of-saxony-has-lifted-the-immunity-of-frauke-petry-party-chair-in-the-alternative-for-germany-party-opening-t.md)
 A regional parliament has lifted the immunity of the best known politician in the anti-immigration Alternative for Germany (AfD) party, opening the way for prosecutors to pursue possible perjury charges against her.
 
+### [Defense Secretary James Mattis announces that transgender troops in the military will continue to serve pending the results of a study started in June to assess the Pentagon's ability to fight and win wars. ](/news/2017/08/29/defense-secretary-james-mattis-announces-that-transgender-troops-in-the-military-will-continue-to-serve-pending-the-results-of-a-study-start.md)
+_Context: Defense Secretary, James Mattis, Sexual orientation and gender identity in the United States military, transgender troops in the military_
+
 ## [Previous Day...](/news/2017/08/28/index.md)
 

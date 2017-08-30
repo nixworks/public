@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_UNITED_STATES_TURKEY_INDICTMENTS?)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_UNITED_STATES_TURKEY_INDICTMENTS?SITE=TNMOR)
 
 ### Related:
 
