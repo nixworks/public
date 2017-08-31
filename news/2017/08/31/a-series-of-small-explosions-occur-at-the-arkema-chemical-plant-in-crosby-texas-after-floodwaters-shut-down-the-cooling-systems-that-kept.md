@@ -1,19 +1,19 @@
-### [2017-08-30](/news/2017/08/30/index.md)
+### [2017-08-31](/news/2017/08/31/index.md)
 
-# Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. "The New York Times" reports local officials say the death toll since last Friday is now 38. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. 
+# A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. 
 
-The death toll from Harvey was rising and officials said their rescue effort was nowhere near done.
+Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houston — was inundated by more than 40 inches of rain by Hurricane Harvey.
 
 
 ### Source:
 
-1. [The New York Times''²](https://www.nytimes.com/2017/08/30/us/hurricane-harvey-flooding-houston.html?src=trending&module=Ribbon&version=context&region=Header&action=click&contentCollection=Trending&pgtype=article)
-2. [The New York Times](https://www.nytimes.com/2017/08/29/us/harvey-texas-louisiana.html?emc=edit_na_20170830&nl=breaking-news&nlid=80824687&ref=headline&_r=0)
-3. [Weather Channel](https://weather.com/storms/hurricane/news/harvey-houston-hurricane-tropical-storm-south-texas-deadly-flooding-impacts)
+1. [BBC](http://www.bbc.co.uk/news/world-us-canada-41104451)
+2. [NBC News](https://www.nbcnews.com/storyline/hurricane-harvey/harvey-danger-major-chemical-plant-near-houston-likely-explode-facility-n797581)
+3. [The New York Times](https://www.nytimes.com/2017/08/31/us/harvey-houston-texas-flood.html)
 
 ### Related:
 
-1. [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-after-floodwaters-shut-down-the-cooling-systems-that-kept.md) _Context: 2017 Atlantic hurricane season, Hurricane Harvey_
+1. [Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. "The New York Times" reports local officials say the death toll since last Friday is now 38. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. ](/news/2017/08/30/tropical-storm-harvey-hurricane-earlier-this-month-makes-its-second-landfall-this-time-in-the-u-s-state-of-louisiana-the-new-york-time.md) _Context: 2017 Atlantic hurricane season, Hurricane Harvey_
 2. [Tropical depression Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/tropical-depression-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm.md) _Context: 2017 Atlantic hurricane season, Hurricane Harvey_
 3. [Hurricane and storm surge watches are issued for Texas and Louisiana as the tropical system Harvey strengthens into a tropical depression and is predicted to bring both heavy rainfall and storm surge. ](/news/2017/08/23/hurricane-and-storm-surge-watches-are-issued-for-texas-and-louisiana-as-the-tropical-system-harvey-strengthens-into-a-tropical-depression-an.md) _Context: 2017 Atlantic hurricane season, Hurricane Harvey_
 4. [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-mo.md) _Context: 2017 Atlantic hurricane season_

@@ -1,6 +1,6 @@
 ## [News](/news/2017/08/31/index.md)
 
-### [The Arkema chemical plant in Crosby, Texas, near Houston is at risk of explosion after flood waters damage the facility. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/the-arkema-chemical-plant-in-crosby-texas-near-houston-is-at-risk-of-explosion-after-flood-waters-damage-the-facility-residents-living-wi.md)
+### [A series of small explosions occur at the Arkema chemical plant in Crosby, Texas, after floodwaters shut down the cooling systems that kept the chemicals stable. Houston Methodist San Jacinto Hospital in Baytown, Texas treated 21 first responders for chemical exposure. Residents living within a 1.5 mi radius of the plant are evacuated. ](/news/2017/08/31/a-series-of-small-explosions-occur-at-the-arkema-chemical-plant-in-crosby-texas-after-floodwaters-shut-down-the-cooling-systems-that-kept.md)
 Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houston — was inundated by more than 40 inches of rain by Hurricane Harvey.
 
 ### [An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. ](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.md)
@@ -62,6 +62,9 @@ _Context: Bank of America, Banking in the United States, Berkshire Hathaway Inc,
 
 ### [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md)
 Rivers were still rising and rescue work continued in southeast Texas, where officials warned that for many people, conditions will not improve soon.
+
+### [2017 North Korea crisis](/news/2017/08/29/2017-north-korea-crisis.md)
+_Context: 2017 North Korea crisis_
 
 ### [North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.md)
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
