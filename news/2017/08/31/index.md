@@ -6,6 +6,9 @@ Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houst
 ### [An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. ](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.md)
 Iran has remained within key limits on its nuclear activities imposed by its 2015 deal with world powers, a U.N. atomic watchdog report said on Thursday.
 
+### [The United States orders Russia to close a consulate and two other buildings by Saturday, September 2nd, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-orders-russia-to-close-a-consulate-and-two-other-buildings-by-saturday-september-2nd-invoking-parity-over-a-russian-me.md)
+The US orders Russia to close its San Francisco consulate in response to &quot;unwarranted&quot; actions.
+
 ### [Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. ](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.md)
 Former military dictator has property confiscated as anti-terror court jails two police officials in relation to 2007 assassination
 
