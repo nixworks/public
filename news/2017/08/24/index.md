@@ -6,7 +6,7 @@ An almost entirely intact mosaic dating to AD 550/551 is uncovered by constructi
 ### [At least 12 people die in the southern Chinese city of Macau as a result of flooding caused by Typhoon Hato. Four more people die in neighbouring Guangdong province. ](/news/2017/08/24/at-least-12-people-die-in-the-southern-chinese-city-of-macau-as-a-result-of-flooding-caused-by-typhoon-hato-four-more-people-die-in-neighbo.md)
  HONG KONG (AP) — The most powerful typhoon to hit the southern Chinese region in more than half a century left at least 12 dead as a sudden deluge swamped the gambling hub of Maca
 
-### [Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm-surge-rainfall-and.md)
+### [Tropical depression Harvey becomes a hurricane, expected to make landfall on the Texas coast at Category 3, bringing life-threatening storm surge, rainfall, and wind hazards. ](/news/2017/08/24/tropical-depression-harvey-becomes-a-hurricane-expected-to-make-landfall-on-the-texas-coast-at-category-3-bringing-life-threatening-storm.md)
 Devastating rainfall flooding, dangerous storm surge and high winds are expected.
 
 ### [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md)
