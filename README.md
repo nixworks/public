@@ -1,4 +1,15 @@
-## [News](/news/2017/08/30/index.md)
+## [News](/news/2017/08/31/index.md)
+
+### [The Arkema chemical plant near Houston is at risk of explosion after flood waters damage the facility. ](/news/2017/08/31/the-arkema-chemical-plant-near-houston-is-at-risk-of-explosion-after-flood-waters-damage-the-facility.md)
+Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houston — was inundated by more than 40 inches of rain by Hurricane Harvey.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/08/30/index.md)
 
 ### [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md)
 At least 11 Afghan civilians were killed and 16 wounded on Wednesday when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar province, east of the capital, Kabul, the local governor said.
@@ -21,13 +32,9 @@ _Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, state o
 ### [Researchers at the Breakthrough Listen initiative announce they have detected 15 new powerful fast radio bursts (FRB) from FRB 121102, located in a dwarf galaxy about three billion light-years from Earth. FRB 121102 was first detected in 2012, and gained further attention after FRBs were detected from there again in 2015. ](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.md)
 Breakthrough Listen detected more radio pulses from the famous repeating source FRB 121102. They’re higher frequency than previous ones but we still don’t know what causes them
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/29/index.md)
+## [Day Before Yesterday](/news/2017/08/29/index.md)
 
 ### [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. Taliban claim their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-taliban-claim.md)
 A suicide bomber blew himself up at a bank close to the heavily protected U.S. embassy in the Afghan capital Kabul on Tuesday, killing at least five people and wounding eight, the interior ministry said.
@@ -58,32 +65,7 @@ _Context: Defense Secretary, James Mattis, Sexual orientation and gender identit
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/28/index.md)
-
-### [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md)
-A convoy of Islamic State fighters and their families began to depart the Lebanon-Syria border zone on Monday under Syrian military escort, surrendering their enclave and leaving for eastern Syria after a week-long battle.
-
-### [At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. ](/news/2017/08/28/at-least-eight-people-have-died-in-the-american-state-of-texas-with-30-000-residents-in-the-city-of-houston-expected-to-seek-temporary-shelt.md)
-Authorities in Houston expect 30,000 people to be housed in shelters as Tropical Storm Harvey continues to cause widespread flooding.
-
-### [India and China agree to end a two month-long stand-off with the withdrawal of Indian troops. The stand-off began in June after China began constructing a road in the disputed territory of Doklam which is claimed by both China and Bhutan. ](/news/2017/08/28/india-and-china-agree-to-end-a-two-month-long-stand-off-with-the-withdrawal-of-indian-troops-the-stand-off-began-in-june-after-china-began.md)
-India and China have agreed to end a months-long military stand-off at a disputed border area in the Himalayas, with Indian troops already beginning to pull out, officials say.
-
-### [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md)
-_Context: Chile, Michelle Bachelet, Same-sex marriage in Chile, civil union, same-sex marriage_
-
-### [Investigations concerning Niels Hogel, a German nurse already convicted for murdering two of his patients, revealed that the number of people killed while in his care is significantly higher, reaching at least 84, with some estimates being even higher. This makes Hogel the serial killer with the highest known victim count in modern German history. ](/news/2017/08/28/investigations-concerning-niels-hapgel-a-german-nurse-already-convicted-for-murdering-two-of-his-patients-revealed-that-the-number-of-peop.md)
-Niels Högel was convicted of killing two patients. An investigation has found at least 84 more are likely to have died from his injections.
-
-### [Two people are killed and four are hospitalized in a shooting in a library in the U.S. town of Clovis, New Mexico. ](/news/2017/08/28/two-people-are-killed-and-four-are-hospitalized-in-a-shooting-in-a-library-in-the-u-s-town-of-clovis-new-mexico.md)
-A teenager who killed two people and wounded four others in a shooting at a small-town New Mexico library was suicidal, his pastor told a newspaper.
-
-### [Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. ](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-died-after-a-mob-beat-them-and-four-others-in-tlatlauquitepec-puebla-mexico.md)
-_Context: Crime in Mexico, Mexico, Puebla, Tlatlauquitepec_
-
----
-
-## [Previous Day...](/news/2017/08/27/index.md)
+## [Previous Day...](/news/2017/08/28/index.md)
 
 ---
 
