@@ -3,6 +3,9 @@
 ### [The Arkema chemical plant in Crosby, Texas, near Houston is at risk of explosion after flood waters damage the facility. Residents living within a 1.5-mile (2.4km) radius of the plant are evacuated. ](/news/2017/08/31/the-arkema-chemical-plant-in-crosby-texas-near-houston-is-at-risk-of-explosion-after-flood-waters-damage-the-facility-residents-living-wi.md)
 Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houston — was inundated by more than 40 inches of rain by Hurricane Harvey.
 
+### [Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. ](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.md)
+Former military dictator has property confiscated as anti-terror court jails two police officials in relation to 2007 assassination
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -20,7 +23,7 @@ U.S.-led warplanes on Wednesday blocked a convoy of Islamic State fighters and t
 ### [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md)
 At least five people were killed as heavy monsoon rain deluged India&#39;s financial capital Mumbai, causing transport chaos and forcing schools and many offices to close on Wednesday.
 
-### [Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. The death toll since last Friday is now 38, according to local officials in Texas. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. ](/news/2017/08/30/tropical-storm-harvey-hurricane-earlier-this-month-makes-its-second-landfall-this-time-in-the-u-s-state-of-louisiana-the-death-toll-sin.md)
+### [Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. "The New York Times" reports local officials say the death toll since last Friday is now 38. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. ](/news/2017/08/30/tropical-storm-harvey-hurricane-earlier-this-month-makes-its-second-landfall-this-time-in-the-u-s-state-of-louisiana-the-new-york-time.md)
 The death toll from Harvey was rising and officials said their rescue effort was nowhere near done.
 
 ### [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy childhood leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-childhood.md)
