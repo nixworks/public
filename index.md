@@ -63,9 +63,6 @@ _Context: Bank of America, Banking in the United States, Berkshire Hathaway Inc,
 ### [The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. ](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30-as-sylvester-turner-the-mayor-of-houston-texas-introduces-a-curfew-to-deter-looters.md)
 Rivers were still rising and rescue work continued in southeast Texas, where officials warned that for many people, conditions will not improve soon.
 
-### [2017 North Korea crisis](/news/2017/08/29/2017-north-korea-crisis.md)
-_Context: 2017 North Korea crisis_
-
 ### [North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.md)
 North Korea has test fired a missile over Japan in an unprecedented act that is likely to further enflame tensions in the region, Japan&#039;s government has confirmed.
 
