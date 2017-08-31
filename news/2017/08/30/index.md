@@ -18,6 +18,9 @@ _Context: Food and Drug Administration, Novartis, U.S., childhood leukemia_
 ### [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md)
 _Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, state of emergency_
 
+### [A shooting at a motel on Auburn Boulevard, Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect was later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-on-auburn-boulevard-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-tw.md)
+Sheriff’s deputy Robert French was killed in the 2600 block of Auburn Boulevard, the Sacramento County Sheriff’s Department reports.
+
 ### [Researchers at the Breakthrough Listen initiative announce they have detected 15 new powerful fast radio bursts (FRB) from FRB 121102, located in a dwarf galaxy about three billion light-years from Earth. FRB 121102 was first detected in 2012, and gained further attention after FRBs were detected from there again in 2015. ](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.md)
 Breakthrough Listen detected more radio pulses from the famous repeating source FRB 121102. They’re higher frequency than previous ones but we still don’t know what causes them
 
