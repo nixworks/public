@@ -40,7 +40,7 @@ Irish voters have rejected the Lisbon Treaty by 110,000 votes - a margin of 53.4
 _Context: (Wikinews), the Station nightclub fire_
 
 ### [ American political news reporter Tim Russert dies after collapsing at the NBC Washington D.C. Bureau offices where he worked. ](/news/2008/06/13/american-political-news-reporter-tim-russert-dies-after-collapsing-at-the-nbc-washington-d-c-bureau-offices-where-he-worked.md)
-_Context: NBC, Tim Russert, U.S. capital_
+_Context: NBC, Tim Russert, Washington, D.C._
 
 ## [Previous Day...](/news/2008/06/12/index.md)
 

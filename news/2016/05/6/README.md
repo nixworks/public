@@ -4,7 +4,7 @@
 _Context: Aleppo, Aleppo offensive (May 2016), Khan Tuman, Syria, Syrian Civil War, al-Nusra_
 
 ### [A man is killed, and two others are injured (a man in critical condition and a woman with non-life-threatening injuries), in the parking lot of Westfield Montgomery Mall in Potomac in Montgomery County, Maryland, near Washington, D.C. Soon after, a woman is killed at a grocery store some miles away. Police suspect that the same shooter may be behind both crime scene incidents. Police in both Montgomery County and neighboring Prince George's County are also examining whether this person is the same as the male involved in the fatal shooting the previous day of a woman, Gladys Tordil, who was allegedly shot (a bystander who tried to help was also wounded) by her estranged abusive husband, tentatively identified as Eulalio Tordil, 62, a former Federal Protective Service officer. ](/news/2016/05/6/a-man-is-killed-and-two-others-are-injured-a-man-in-critical-condition-and-a-woman-with-non-life-threatening-injuries-in-the-parking-lot.md)
-_Context: Federal Protective Service, Montgomery County, Maryland, Potomac, Prince George's County, Maryland, U.S. capital, Westfield Montgomery Mall_
+_Context: Federal Protective Service, Montgomery County, Maryland, Potomac, Prince George's County, Maryland, Washington, D.C., Westfield Montgomery Mall_
 
 ### [The supporters of presidential candidates Grace Poe and Mar Roxas post petitions and counter-petitions on Change.org urging either candidate to drop-out and give way for the other. ](/news/2016/05/6/the-supporters-of-presidential-candidates-grace-poe-and-mar-roxas-post-petitions-and-counter-petitions-on-change-org-urging-either-candidate.md)
 Manila Standard | Defining The News

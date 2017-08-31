@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: civil union_
+1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: civil union_
 2. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
 3. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Switzerland_
 4. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Switzerland_

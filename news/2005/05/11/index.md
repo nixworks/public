@@ -16,7 +16,7 @@ _Context: Gulf War, Iraq, Kuwait, Saddam Hussein, Sharif Basyouni, United Nation
 The Minister for the Environment, Dick Roche, has cleared the way for the construction of the M3 motorway by issuing directions to Meath County Council on how archaeological work is to be conducted.
 
 ### [ The White House and United States Capitol in Washington, D.C. are evacuated, amid reports of an incoming aircraft. The US Secret Service subsequently issues an all-clear. ](/news/2005/05/11/the-white-house-and-united-states-capitol-in-washington-d-c-are-evacuated-amid-reports-of-an-incoming-aircraft-the-us-secret-service-su.md)
-_Context: U.S. capital, United States Capitol, United States Secret Service, White House_
+_Context: United States Capitol, United States Secret Service, Washington, D.C., White House_
 
 ### [ Canadian Prime Minister Paul Martin has set May 19 for a vote in the House of Commons on the federal budget. He said if his government loses the vote of confidence, he will seek the dissolution of Parliament. This means an election could come as early as June 27. ](/news/2005/05/11/canadian-prime-minister-paul-martin-has-set-may-19-for-a-vote-in-the-house-of-commons-on-the-federal-budget-he-said-if-his-government-lose.md)
 _Context: Canada, Canadian House of Commons, Canadian Prime Minister, May 19, Paul Martin_

@@ -7,7 +7,7 @@ The Government has, as expected, won the motion of confidence vote in the Dáil.
 A European road safety watchdog has criticised Ireland&#39;s continued failure to roll out the long promised network of privately operated speed cameras.
 
 ### [ At least two people are shot at the United States Holocaust Memorial Museum in Washington D.C., with an elderly white supremacist as the main suspect. ](/news/2009/06/10/at-least-two-people-are-shot-at-the-united-states-holocaust-memorial-museum-in-washington-d-c-with-an-elderly-white-supremacist-as-the-ma.md)
-_Context: U.S. capital, United States Holocaust Memorial Museum, are shot, white supremacist_
+_Context: United States Holocaust Memorial Museum, Washington, D.C., are shot, white supremacist_
 
 ### [ Thousands of people demonstrate in solidarity with victims of child abuse in Dublin as hundreds of victims are invited to meet Irish President Mary McAleese. ](/news/2009/06/10/thousands-of-people-demonstrate-in-solidarity-with-victims-of-child-abuse-in-dublin-as-hundreds-of-victims-are-invited-to-meet-irish-presid.md)
 Thousands of people have taken part in a silent march in solidarity with survivors of sexual abuse.

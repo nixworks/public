@@ -31,7 +31,7 @@ _Context: Auburndale, Florida, Polk County, Florida_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The U.S. Supreme Court agrees to consolidate and hear four appellate rulings whether there is a constitutional right to same-sex marriage. It is currently allowed in Washington, D.C. and 36 states. Oral arguments will take place in April and a ruling may occur by June. ](/news/2015/01/16/the-u-s-supreme-court-agrees-to-consolidate-and-hear-four-appellate-rulings-whether-there-is-a-constitutional-right-to-same-sex-marriage-i.md)
-_Context: U.S. Supreme Court, U.S. capital, four appellate rulings, same-sex marriage_
+_Context: U.S. Supreme Court, Washington, D.C., four appellate rulings, same-sex marriage_
 
 ### [Pittsburgh police arrest Ryan Williams for the October 18, 2014 McKeesport, Pennsylvania arson attack and charge him with arson, burglary, and six counts of criminal homicide. The victims include four children ages 2 through 7. ](/news/2015/01/16/pittsburgh-police-arrest-ryan-williams-for-the-october-18-2014-mckeesport-pennsylvania-arson-attack-and-charge-him-with-arson-burglary-a.md)
 _Context: McKeesport, Pennsylvania, Pittsburgh_

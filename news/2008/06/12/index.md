@@ -19,7 +19,7 @@ _Context: Conservative Party, David Davis, Haltemprice and Howden, Haltemprice a
 _Context: United States, salmonella, tomato_
 
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
-_Context: Afghanistan's, Gora Prai airstrike, Pakistan, Robert Gates, Secretary of Defense_
+_Context: Afghanistan's, Defense Secretary, Gora Prai airstrike, Pakistan, Robert Gates_
 
 ### [ Cuban hurdler Dayron Robles sets a world record of 12.87 seconds for the 110 metre hurdles at a Golden Spike meet in Ostrava, Czech Republic. ](/news/2008/06/12/cuban-hurdler-dayron-robles-sets-a-world-record-of-12-87-seconds-for-the-110-metre-hurdles-at-a-golden-spike-meet-in-ostrava-czech-republi.md)
 _Context: 110 metre hurdles, Cuba, Czech Republic, Dayron Robles, Ostrava, world record_

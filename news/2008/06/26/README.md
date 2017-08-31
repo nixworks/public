@@ -19,7 +19,7 @@ Latest environmental news, features and updates. Pictures, video and more.
 A deal to keep disqualified drivers off the roads in the whole of Ireland and Britain has been signed by transport ministers.
 
 ### [ In a 5-4 decision, the Supreme Court of the United States holds in "District of Columbia v. Heller" that the Second Amendment to the United States Constitution protects an individual right to own a firearm and keep it on their property, ruling a District of Columbia gun control law unconstitutional and putting many other similar measures in jeopardy. ](/news/2008/06/26/in-a-5a4-decision-the-supreme-court-of-the-united-states-holds-in-district-of-columbia-v-heller-that-the-second-amendment-to-the-unit.md)
-_Context: District of Columbia v. Heller, Second Amendment, U.S. Supreme Court, U.S. capital, firearm, gun control_
+_Context: District of Columbia v. Heller, Second Amendment, U.S. Supreme Court, Washington, D.C., firearm, gun control_
 
 ### [ A bus and a truck collide in China's Henan Province, leaving five dead and eight injured. ](/news/2008/06/26/a-bus-and-a-truck-collide-in-china-s-henan-province-leaving-five-dead-and-eight-injured.md)
 _Context: China, Henan Province_

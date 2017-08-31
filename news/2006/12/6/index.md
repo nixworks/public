@@ -10,7 +10,7 @@ _Context: Iraq, Iraq Study Group Report, United States_
 _Context: Kay Patterson, Lower House, Senator, conscience vote, therapeutic cloning_
 
 ### [ The United States Senate confirms Robert Gates as the next United States Secretary of Defense by 95-2. Gates will be sworn in on December 18. ](/news/2006/12/6/the-united-states-senate-confirms-robert-gates-as-the-next-united-states-secretary-of-defense-by-95-2-gates-will-be-sworn-in-on-december-1.md)
-_Context: Robert Gates, Secretary of Defense, United States Senate_
+_Context: Defense Secretary, Robert Gates, United States Senate_
 
 ### [ Philippe Douste-Blazy, the Foreign Minister of France, says that the United Nations Security Council will impose sanctions on Iran for its nuclear program. However, the five permanent members of the Security Council as well as Germany have failed to agree on what the sanctions should be. ](/news/2006/12/6/philippe-douste-blazy-the-foreign-minister-of-france-says-that-the-united-nations-security-council-will-impose-sanctions-on-iran-for-its.md)
 _Context: Foreign Minister of France, Germany, Iran, Philippe Douste-Blazy, United Nations Security Council_

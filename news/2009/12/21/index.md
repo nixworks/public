@@ -1,7 +1,7 @@
 ## [2009-12-21](/news/2009/12/21/index.md)
 
 ### [ A police officer in Washington, D.C, draws a gun during a snowball fight. ](/news/2009/12/21/a-police-officer-in-washington-d-c-draws-a-gun-during-a-snowball-fight.md)
-_Context: U.S. capital_
+_Context: Washington, D.C._
 
 ### [ Mexico City's Legislative Assembly legalizes same-sex marriage and LGBT adoption. ](/news/2009/12/21/mexico-city-s-legislative-assembly-legalizes-same-sex-marriage-and-lgbt-adoption.md)
 _Context: Legislative Assembly, Mexico City, adoption of children by same-sex couples, same-sex marriage_

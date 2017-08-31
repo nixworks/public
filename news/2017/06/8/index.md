@@ -28,7 +28,7 @@ Rep. Jeb Hensarling called the Dodd-Frank law &quot;a grab bag of leftist ideas.
 _Context: Cape Town, Garden Route, Knysna Local Municipality, South Africa, Wildfires in South Africa_
 
 ### [The U.S. Food and Drug Administration asks pharmaceutical manufacturer Endo International plc to withdraw its long-lasting (12 hours) opioid painkiller, Opana ER, from the market after an FDA panel concluded the drug's benefits no longer outweighed the risks of abuse. Endo is evaluating its options. ](/news/2017/06/8/the-u-s-food-and-drug-administration-asks-pharmaceutical-manufacturer-endo-international-plc-to-withdraw-its-long-lasting-12-hours-opioid.md)
-_Context: Endo International plc, Opana ER, Opioid epidemic, U.S. Food and Drug Administration_
+_Context: Endo International plc, Food and Drug Administration, Opana ER, Opioid epidemic_
 
 ### [The Saudi Arabia-led bloc against Qatar issues a "terror list" against the peninsula. ](/news/2017/06/8/the-saudi-arabia-led-bloc-against-qatar-issues-a-terror-list-against-the-peninsula.md)
 Joint statement lists 59 individuals, including 18 Qataris, and 12 organisations on &#39;terror list&#39;.

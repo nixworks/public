@@ -38,7 +38,7 @@ _Context: Human Fertilisation and Embryology Authority, United Kingdom, animal, 
 The event unfolded like the judicial equivalent of a bride left at the altar.The mysterious political donor and fundraiser Norman Hsu was scheduled to appear in San Mateo County Superior Court on...
 
 ### [ Paul Gillmor, United States Representative from Ohio's 5th congressional district, is found dead in his Washington, D.C. apartment. ](/news/2007/09/5/paul-gillmor-united-states-representative-from-ohio-s-5th-congressional-district-is-found-dead-in-his-washington-d-c-apartment.md)
-_Context: 5th congressional district, Ohio, Paul Gillmor, U.S. capital, United States Representative_
+_Context: 5th congressional district, Ohio, Paul Gillmor, United States Representative, Washington, D.C._
 
 ### [ The Australian Government files appeal against court decision to set aside Indian doctor Mohamed Haneef visa cancellation. ](/news/2007/09/5/the-australian-government-files-appeal-against-court-decision-to-set-aside-indian-doctor-mohamed-haneef-visa-cancellation.md)
 _Context: Australian, Mohamed Haneef, visa-free travel_

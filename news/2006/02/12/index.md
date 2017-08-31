@@ -13,7 +13,7 @@ _Context: British Army, Great Britain, Iraq, Ministry of Defence, News of the Wo
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ The North American blizzard of 2006 dumps 27&nbsp;inches of snow on New York City, closes many major airports, and leaves 200,000 without power in Washington, D.C. and Baltimore, Maryland. ](/news/2006/02/12/the-north-american-blizzard-of-2006-dumps-27-nbsp-inches-of-snow-on-new-york-city-closes-many-major-airports-and-leaves-200-000-without-p.md)
-_Context: Baltimore, Maryland, North American blizzard of 2006, U.S. capital_
+_Context: Baltimore, Maryland, North American blizzard of 2006, Washington, D.C._
 
 ## [Previous Day...](/news/2006/02/11/index.md)
 

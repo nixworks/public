@@ -70,7 +70,7 @@ The leader of a terrorist organisation that plotted to wage violent jihad in Aus
 The EU is for the first time sending border guards to help Greece stem an influx of migrants entering across the land border with Turkey.
 
 ### [The trial of the alleged killer of Chandra Levy, Ingmar Guandique of El Salvador, begins in Washington D.C. ](/news/2010/10/25/the-trial-of-the-alleged-killer-of-chandra-levy-ingmar-guandique-of-el-salvador-begins-in-washington-d-c.md)
-_Context: Chandra Levy, El Salvador, U.S. capital_
+_Context: Chandra Levy, El Salvador, Washington, D.C._
 
 ### [Liberal Democrat Deputy Leader Simon Hughes is threatening a backbench rebellion over proposed housing benefits cut, which might threaten the stability of the United Kingdom coalition government, of which the Liberal Democrats are a part of. ](/news/2010/10/25/liberal-democrat-deputy-leader-simon-hughes-is-threatening-a-backbench-rebellion-over-proposed-housing-benefits-cut-which-might-threaten-th.md)
 Lib Dem deputy leader Simon Hughes threatens a backbench rebellion over planned cuts to housing benefit.

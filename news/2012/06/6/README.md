@@ -50,7 +50,7 @@ A labour activist and Chinese dissident jailed after the 1989 crackdown on pro-d
 President Felipe Calderon signs a law making Mexico only the second country in the world to introduce binding targets on climate change.
 
 ### [Kwame R. Brown, the Chair of the Council of the District of Columbia responsible for the US capital Washington D.C., resigns after being charged with bank fraud. ](/news/2012/06/6/kwame-r-brown-the-chair-of-the-council-of-the-district-of-columbia-responsible-for-the-us-capital-washington-d-c-resigns-after-being-cha.md)
-_Context: Council of the District of Columbia, Kwame R. Brown, U.S. capital_
+_Context: Council of the District of Columbia, Kwame R. Brown, Washington, D.C._
 
 ### [The Solar Impulse, a solar plane, lands in Morocco, completing the world's first intercontinental flight powered by the Sun. ](/news/2012/06/6/the-solar-impulse-a-solar-plane-lands-in-morocco-completing-the-world-s-first-intercontinental-flight-powered-by-the-sun.md)
 _Context: Morocco, Solar Impulse, Sun, solar plane_

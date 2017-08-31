@@ -46,7 +46,7 @@ _Context: Gujjar, Rajasthan, reservations_
 _Context: Europe, George W. Bush, President_
 
 ### [ The United States Secretary of Defense Robert Gates nominates Norton Schwartz to be the next Chief of Staff of the United States Air Force with Michael B. Donley nominated as the next United States Secretary of the Air Force. ](/news/2008/06/9/the-united-states-secretary-of-defense-robert-gates-nominates-norton-schwartz-to-be-the-next-chief-of-staff-of-the-united-states-air-force.md)
-_Context: Chief of Staff of the United States Air Force, Michael B. Donley, Norton Schwartz, Robert Gates, Secretary of Defense, Secretary of the Air Force_
+_Context: Chief of Staff of the United States Air Force, Defense Secretary, Michael B. Donley, Norton Schwartz, Robert Gates, Secretary of the Air Force_
 
 ## [Previous Day...](/news/2008/06/8/index.md)
 

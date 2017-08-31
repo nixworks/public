@@ -7,7 +7,7 @@ _Context: European Union, Ireland, Treaty of Lisbon, opinion poll_
 _Context: Zimbabwe, are detained_
 
 ### [ United States Secretary of Defense Robert Gates announces the resignation of United States Secretary of the Air Force Michael Wynne and his Chief of Staff General T. Michael Moseley over the 2007 United States Air Force nuclear weapons incident. ](/news/2008/06/5/united-states-secretary-of-defense-robert-gates-announces-the-resignation-of-united-states-secretary-of-the-air-force-michael-wynne-and-his.md)
-_Context: 2007 United States Air Force nuclear weapons incident, Michael Wynne, Robert Gates, Secretary of Defense, Secretary of the Air Force, T. Michael Moseley_
+_Context: 2007 United States Air Force nuclear weapons incident, Defense Secretary, Michael Wynne, Robert Gates, Secretary of the Air Force, T. Michael Moseley_
 
 ### [ The USS "Essex", USS "Juneau", USS "Harpers Ferry" and USS "Mustin" depart the coast of Burma as the State Peace and Development Council maintains its refusal of the ships' aid in Cyclone Nargis relief. ](/news/2008/06/5/the-uss-essex-uss-juneau-uss-harpers-ferry-and-uss-mustin-depart-the-coast-of-burma-as-the-state-peace-and-development-council-ma.md)
 _Context: Burma, Cyclone Nargis, State Peace and Development Council, USS ''Essex'', USS ''Harpers Ferry'', USS ''Juneau'', USS ''Mustin''_

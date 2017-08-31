@@ -31,7 +31,7 @@ Chinese police used pepper spray, tear gas and water cannon to break up an anti-
 _Context: China, Japan, Tokyo_
 
 ### [US Defence Secretary Leon Panetta urges China and its neighbours not to engage in "provocative behaviour" over maritime border disputes. ](/news/2012/09/16/us-defence-secretary-leon-panetta-urges-china-and-its-neighbours-not-to-engage-in-provocative-behaviour-over-maritime-border-disputes.md)
-_Context: Leon Panetta, Secretary of Defense, United States, maritime border disputes_
+_Context: Defense Secretary, Leon Panetta, United States, maritime border disputes_
 
 ### [The Egyptian Army now names Operation Eagle as Operation Sinai. ](/news/2012/09/16/the-egyptian-army-now-names-operation-eagle-as-operation-sinai.md)
 _Context: Egyptian Army, Operation Eagle, Operation Sinai_
@@ -40,7 +40,7 @@ _Context: Egyptian Army, Operation Eagle, Operation Sinai_
 _Context: Mayor of Chicago, Rahm Emanuel_
 
 ### [Mei Xiang, the Washington, D.C. National Zoo's adult female giant panda, gives birth to a cub, her second there, via artificial insemination. ](/news/2012/09/16/mei-xiang-the-washington-d-c-national-zoo-s-adult-female-giant-panda-gives-birth-to-a-cub-her-second-there-via-artificial-insemination.md)
-_Context: Mei Xiang's, U.S. National Zoo, U.S. capital, artificial insemination, panda_
+_Context: Mei Xiang's, U.S. National Zoo, Washington, D.C., artificial insemination, panda_
 
 ## [Previous Day...](/news/2012/09/15/index.md)
 

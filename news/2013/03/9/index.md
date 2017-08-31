@@ -4,7 +4,7 @@
 A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this week arrive in Jordan after being released.
 
 ### [At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/at-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hagel-the-united-states.md)
-_Context: Afghanistan's, Chuck Hagel, Kabul, Khost, Secretary of Defense, suicide bombings_
+_Context: Afghanistan's, Chuck Hagel, Defense Secretary, Kabul, Khost, suicide bombings_
 
 ### [Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
 Diplomats investigate claims by Nigerian militant group Ansaru that it has killed seven foreign hostages.

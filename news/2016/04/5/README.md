@@ -19,7 +19,7 @@ _Context: British American Tobacco, Godfrey Phillips India Ltd., ITC Ltd., India
 China says it is restricting trade with North Korea, announcing bans on gold and some coal imports and jet fuel exports, in line with UN sanctions.
 
 ### [South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-range-rodong-1-ballistic-missile-which-could.md)
-_Context: Japan, North Korea, North Korea and weapons of mass destruction, Rodong-1, South Korea, ballistic missile_
+_Context: Japan, North Korea, Rodong-1, South Korea, ballistic missile, intercontinental ballistic_
 
 ### [France places Panama back on its list of countries that do not cooperate in catching tax evaders. "France has decided to put Panama back on the list of uncooperative countries, with all the consequences that will have for those who have transactions" with the Central American state, Finance Minister Michel Sapin, told Parliament on Tuesday. ](/news/2016/04/5/france-places-panama-back-on-its-list-of-countries-that-do-not-cooperate-in-catching-tax-evaders-france-has-decided-to-put-panama-back-on.md)
 French Finance Minister puts Panama back on list of countries that don&#39;t cooperate in catching tax evaders.

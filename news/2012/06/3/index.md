@@ -16,7 +16,7 @@ _Context: Elizabeth II, River Thames, diamond jubilee, pageant_
 _Context: Lagos, Nigeria, crashes_
 
 ### [United States Secretary of Defense Leon Panetta visits a former U.S. base in Cam Ranh Bay, the first visit by an American official of cabinet rank to Vietnam since the Vietnam War. ](/news/2012/06/3/united-states-secretary-of-defense-leon-panetta-visits-a-former-u-s-base-in-cam-ranh-bay-the-first-visit-by-an-american-official-of-cabine.md)
-_Context: Cam Ranh Bay, Leon Panetta, Secretary of Defense, Vietnam, Vietnam War_
+_Context: Cam Ranh Bay, Defense Secretary, Leon Panetta, Vietnam, Vietnam War_
 
 ### [Police in China crack down on political activists marking the 23rd anniversary of the 1989 Tiananmen Square protests. ](/news/2012/06/3/police-in-china-crack-down-on-political-activists-marking-the-23rd-anniversary-of-the-1989-tiananmen-square-protests.md)
 _Context: 1989 Tiananmen Square protests, China_

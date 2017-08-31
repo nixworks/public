@@ -19,7 +19,7 @@ Exclusive: Secret interrogation facility reveals creeping aspects of war on terr
 A North Korean shipping company has renamed and reflagged its vessels in an attempt to get around sanctions, a UN report says.
 
 ### [Effective midnight, Washington, D.C. joins Alaska, Colorado, and Washington state as the only places in the United States that locally purport to override federal law and allow the use of marijuana for recreational purposes. ](/news/2015/02/26/effective-midnight-washington-d-c-joins-alaska-colorado-and-washington-state-as-the-only-places-in-the-united-states-that-locally-purpo.md)
-_Context: Alaska, Colorado, U.S. capital, United States, Washington, marijuana_
+_Context: Alaska, Colorado, United States, Washington, Washington, D.C., marijuana_
 
 ### [The US Federal Communications Commission votes to classify internet service providers as public utilities, creating net neutrality rules. The FCC also votes to preempt state laws in North Carolina and Tennessee that effectively prevent municipal broadband providers from expanding outside their existing service areas. ](/news/2015/02/26/the-us-federal-communications-commission-votes-to-classify-internet-service-providers-as-public-utilities-creating-net-neutrality-rules-th.md)
 _Context: Federal Communications Commission, Net neutrality in the United States, North Carolina, Tennessee, internet service providers, municipal broadband, public utilities_

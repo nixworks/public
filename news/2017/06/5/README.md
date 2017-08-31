@@ -16,7 +16,7 @@ ASIO found classified files during a raid on the apartment of a suspected Chines
 Saudi Arabia said the move was necessary to protect the kingdom from what it described as extremism, reasoning that was echoed by Bahrain
 
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
-_Context: Montenegro, Montenegro-NATO relations, NATO, U.S. capital_
+_Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
 
 ### [After "The Intercept" publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the United States Department of Justice announces it had brought charges upon Reality Winner, the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-supplier.md)
 The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.

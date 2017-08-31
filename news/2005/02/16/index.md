@@ -16,7 +16,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ In the United States, the Food and Drug Administration announces that it will create a board for advisement regarding drug complications and the ongoing study of the safety of already approved drugs. ](/news/2005/02/16/in-the-united-states-the-food-and-drug-administration-announces-that-it-will-create-a-board-for-advisement-regarding-drug-complications-an.md)
-_Context: U.S. Food and Drug Administration, approved drug, complications_
+_Context: Food and Drug Administration, approved drug, complications_
 
 ### [ According to African envoys negotiating with the new government of Togo, the negotiations are making progress and the country agrees to organize new elections within 60 days. A crackdown on private media continues in the country. ](/news/2005/02/16/according-to-african-envoys-negotiating-with-the-new-government-of-togo-the-negotiations-are-making-progress-and-the-country-agrees-to-org.md)
 _Context: Togo, diplomat, negotiation, new government_

@@ -4,7 +4,7 @@
 _Context: Iran, Royal Marine, Royal Navy, United Nations Security Council, held captive by Iran, sailor_
 
 ### [ U.S. Defense Secretary Robert Gates supports closing the Guantanamo Bay detention camp and moving dangerous inmates elsewhere. ](/news/2007/03/29/u-s-defense-secretary-robert-gates-supports-closing-the-guantanamo-bay-detention-camp-and-moving-dangerous-inmates-elsewhere.md)
-_Context: Guantanamo Bay Detention Camp, Robert Gates, Secretary of Defense_
+_Context: Defense Secretary, Guantanamo Bay Detention Camp, Robert Gates_
 
 ### [ Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. ](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killing-a-couple-in-oklahoma-a-woman-in-colorado-and-a-man-in-texas.md)
 _Context: Colorado, Oklahoma!, Texas, United States, tornado_

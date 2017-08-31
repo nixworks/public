@@ -22,7 +22,7 @@ Police detain more than 50 people, but protests over disputed vote said to be ov
 _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 
 ### [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md)
-_Context: Japan, North Korea, North Korea and weapons of mass destruction, Russia, South Korea, United States, enriched uranium_
+_Context: Japan, North Korea, Russia, South Korea, United States, enriched uranium, intercontinental ballistic_
 
 ### [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel-t.md)
 As many as 40 Afghan civilians were feared to be among the 90 people killed in a Nato air strike that hit two fuel tankers hijacked by the Taliban.

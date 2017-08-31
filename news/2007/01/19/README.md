@@ -19,7 +19,7 @@ _Context: Armenian, Hrant Dink, Istanbul, insulting Turkishness, reconciliation_
 25 Dead As Northern Europe Buffeted By Heavy Rain And Strong Winds
 
 ### [ Robert Gates, the United States Secretary of Defense, visits Basra, Iraq to consult with US and allied commanders. ](/news/2007/01/19/robert-gates-the-united-states-secretary-of-defense-visits-basra-iraq-to-consult-with-us-and-allied-commanders.md)
-_Context: Basra, Iraq, Robert Gates, Secretary of Defense_
+_Context: Basra, Defense Secretary, Iraq, Robert Gates_
 
 ### [ Twelve of the thirteen suspects in Norway's NOKAS robbery case from 2004, are found guilty and given sentences from 4 - 19 years in prison. ](/news/2007/01/19/twelve-of-the-thirteen-suspects-in-norway-s-nokas-robbery-case-from-2004-are-found-guilty-and-given-sentences-from-4-19-years-in-prison.md)
 _Context: NOKAS robbery, Norway_

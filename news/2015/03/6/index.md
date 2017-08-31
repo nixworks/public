@@ -22,7 +22,7 @@ _Context: Elizabethtown, Interstate 24 in Kentucky, Interstate 65, Kentucky, She
 _Context: FIFA, Sepp Blatter_
 
 ### [The U.S. Food and Drug Administration (FDA) approves the country's first biosimilar drug, Zarxio (Europe: 2009, as Zarzio), made by Novartis. Biosimilars are a relatively new class of drugs designed to pave the way for less expensive versions of the complex biologics drug class, and they are not synthesized from chemicals like other drugs, but are made from living cells. Some well known biologics include Remicade and Enbrel for autoimmune diseases, and Herceptin and Avastin for cancer. Zarxio, used to prevent infection in cancer patients receiving chemotherapy, is a close copy of Neupogen, made by Amgen. ](/news/2015/03/6/the-u-s-food-and-drug-administration-fda-approves-the-country-s-first-biosimilar-drug-zarxio-europe-2009-as-zarzio-made-by-novartis.md)
-_Context: Amgen, Avastin, Enbrel, Herceptin, Neupogen, Novartis, Remicade, U.S. Food and Drug Administration, Zarzio, autoimmune diseases, biologics, biosimilar_
+_Context: Amgen, Avastin, Enbrel, Food and Drug Administration, Herceptin, Neupogen, Novartis, Remicade, Zarzio, autoimmune diseases, biologics, biosimilar_
 
 ### [The New Taipei City district court sentences Cheng Chieh to death for the May 2014 knife attack on a Taipei Metro train that left four dead and 22 passengers injured. ](/news/2015/03/6/the-new-taipei-city-district-court-sentences-cheng-chieh-to-death-for-the-may-2014-knife-attack-on-a-taipei-metro-train-that-left-four-dead.md)
 _Context: 2014 Taipei Metro attack, New Taipei City, Taipei Metro_

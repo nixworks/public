@@ -28,7 +28,7 @@ _Context: Afghan presidential election, 2014, Afghanistan President, Hamid Karza
 _Context: Jasmine Revolution of 2011, Moncef Marzouki, President of Tunisia_
 
 ### [The 14th Dalai Lama delivers the Opening Prayer at the US Senate on Capitol Hill in Washington, D.C. ](/news/2014/03/6/the-14th-dalai-lama-delivers-the-opening-prayer-at-the-us-senate-on-capitol-hill-in-washington-d-c.md)
-_Context: 14th Dalai Lama, U.S. capital, US Senate_
+_Context: 14th Dalai Lama, US Senate, Washington, D.C._
 
 ## [Previous Day...](/news/2014/03/5/index.md)
 

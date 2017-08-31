@@ -13,7 +13,7 @@ _Context: Anhui, China, Hunan, avian flu_
 _Context: Internet, Internet Corporation for Assigned Names and Numbers, United States_
 
 ### [ Major areas of the Australian city of Adelaide have been "locked down" ahead of the arrival of United States Secretary of Defense Donald Rumsfeld for the 17th annual AUS-MIN meeting. ](/news/2005/11/16/major-areas-of-the-australian-city-of-adelaide-have-been-locked-down-ahead-of-the-arrival-of-united-states-secretary-of-defense-donald-ru.md)
-_Context: AUS-MIN, Adelaide, Australia, Donald Rumsfeld, Secretary of Defense_
+_Context: AUS-MIN, Adelaide, Australia, Defense Secretary, Donald Rumsfeld_
 
 ### [ Australia qualifies for the FIFA World Cup for the first time since 1974 following a victory over Uruguay.](/news/2005/11/16/australia-qualifies-for-the-fifa-world-cup-for-the-first-time-since-1974-following-a-victory-over-uruguay.md)
 ### [ Nick Jonas of the pop band, Jonas Brothers, is diagnosed with type 1 diabetes](/news/2005/11/16/nick-jonas-of-the-pop-band-jonas-brothers-is-diagnosed-with-type-1-diabetes.md)

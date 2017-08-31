@@ -49,7 +49,7 @@ _Context: Canada, Scarborough, Toronto, shooting_
 _Context: North Korea, Ri Yong-ho, Workers' Party of Korea_
 
 ### [The U.S. Food and Drug Administration approves Truvada as the first drug shown to reduce the risk of HIV infection. ](/news/2012/07/16/the-u-s-food-and-drug-administration-approves-truvada-as-the-first-drug-shown-to-reduce-the-risk-of-hiv-infection.md)
-_Context: Truvada, U.S. Food and Drug Administration_
+_Context: Food and Drug Administration, Truvada_
 
 ## [Previous Day...](/news/2012/07/15/index.md)
 

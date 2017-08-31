@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both homosexual and heterosexual couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: civil union_
+1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: civil union_
 2. [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md) _Context: Pope Francis_
 3. [Pope Francis criticizes naming the U.S. military's biggest non-nuclear explosive as the Mother of All Bombs, saying that the word "mother" should not be used in reference to a deadly weapon. ](/news/2017/05/6/pope-francis-criticizes-naming-the-u-s-military-s-biggest-non-nuclear-explosive-as-the-mother-of-all-bombs-saying-that-the-word-mother-s.md) _Context: Pope Francis_
 4. [The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. ](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.md) _Context: Pope Francis_

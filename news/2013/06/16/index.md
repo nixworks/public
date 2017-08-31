@@ -44,7 +44,7 @@ _Context: Google, child pornography_
 _Context: Robert Mugabe_
 
 ### [U.S. President Barack Obama chooses a Washington, D.C. lawyer, Clifford Sloan, with experience in all three branches of government to be the U.S. State Department's Special Envoy for closing the military-run prison at the Guantanamo Bay Naval Base. ](/news/2013/06/16/u-s-president-barack-obama-chooses-a-washington-d-c-lawyer-clifford-sloan-with-experience-in-all-three-branches-of-government-to-be-the.md)
-_Context: Barack Obama, Special Envoy, U.S. State Department, U.S. capital, military base at Guantanamo Bay_
+_Context: Barack Obama, Special Envoy, U.S. State Department, Washington, D.C., military base at Guantanamo Bay_
 
 ### [Kuwait's Constitutional Court dissolves the nation's parliament and orders new elections. ](/news/2013/06/16/kuwait-s-constitutional-court-dissolves-the-nation-s-parliament-and-orders-new-elections.md)
 ### [The prime minister of the Czech Republic, Petr Necas, announces his resignation. ](/news/2013/06/16/the-prime-minister-of-the-czech-republic-petr-neaas-announces-his-resignation.md)

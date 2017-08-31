@@ -13,7 +13,7 @@ The train did not brake when entering the station, hitting the buffers at the pl
 Charlie Gard has died following his near year-long battle with a rare genetic disease.
 
 ### [North Korea launches an intercontinental ballistic missile that flies 620 miles horizontally in about 45 minutes, landing in the Sea of Japan, according to Japan, South Korea and the United States. ](/news/2017/07/28/north-korea-launches-an-intercontinental-ballistic-missile-that-flies-620-miles-horizontally-in-about-45-minutes-landing-in-the-sea-of-japa.md)
-_Context: Japan, North Korea and weapons of mass destruction, South Korea, United States, missile tests, the sea_
+_Context: Japan, South Korea, United States, intercontinental ballistic, missile tests, the sea_
 
 ### [The United States Treasury Department imposes sanctions on six Shahid Hemmat Industrial Group satellite companies following a recent Iranian rocket launch that the U.S. says breached United Nations Security Council Resolution 2231. ](/news/2017/07/28/the-united-states-treasury-department-imposes-sanctions-on-six-shahid-hemmat-industrial-group-satellite-companies-following-a-recent-iranian.md)
 _Context: Iran-United States relations, United Nations Security Council Resolution 2231, United States Treasury Department_

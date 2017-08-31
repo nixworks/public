@@ -1,7 +1,7 @@
 ## [2007-08-14](/news/2007/08/14/index.md)
 
 ### [ A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.](/news/2007/08/14/a-bridge-under-construction-completely-collapses-in-fenghuang-county-hunan-province-china-killing-at-least-47-people-21-workers-are-inj.md)
-_Context: 47, China, Fenghuang, Hunan, bridge_
+_Context: China, Fenghuang, Hunan, bridge_
 
 ### [ A fire breaks out at the Shanghai World Financial Center in China. ](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financial-center-in-china.md)
 _Context: China, Shanghai World Financial Center, fire_

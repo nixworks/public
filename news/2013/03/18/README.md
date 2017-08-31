@@ -22,7 +22,7 @@ _Context: China, DCNS, France, Japan_
 _Context: Argentina, Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Pope Francis, President of Argentina, United Kingdom_
 
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
-_Context: China, North Korea, U.S. capital, United States, missile defence_
+_Context: China, North Korea, United States, Washington, D.C., missile defence_
 
 ### [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md)
 WASHINGTON D.C. – North Korea today warned that Japan would &quot;not be exempt&quot; from a pre-emptive nuclear strike, following announcements by the U.S. government that it was expanding its own missile defense systems in the region. An article in the official North Korean Workers’ Party news...

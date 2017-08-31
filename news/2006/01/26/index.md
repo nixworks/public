@@ -13,7 +13,7 @@ _Context: El Paso, Foreign Minister, Luis Ernesto Derbez, Mexico, Texas state po
 _Context: Iran, Pakistan, Pervez Musharraf, President, natural gas, recent U.S. air strike_
 
 ### [ Liberal Democrat MEP for London, Sarah Ludford, who is leading a European Parliament investigation into the U.S. policy of "extraordinary rendition", says she may invite Vice President of the United States Dick Cheney, United States Secretary of Defense Donald Rumsfeld or United States Secretary of State Condoleezza Rice to testify. ](/news/2006/01/26/liberal-democrat-mep-for-london-sarah-ludford-who-is-leading-a-european-parliament-investigation-into-the-u-s-policy-of-extraordinary-r.md)
-_Context: Condoleezza Rice, Dick Cheney, Donald Rumsfeld, European Parliament, Liberal Democrats, London, Member of the European Parliament, Sarah Ludford, Secretary of Defense, U.S. Vice President, United States Secretary of State, extraordinary rendition_
+_Context: Condoleezza Rice, Defense Secretary, Dick Cheney, Donald Rumsfeld, European Parliament, Liberal Democrats, London, Member of the European Parliament, Sarah Ludford, U.S. Vice President, United States Secretary of State, extraordinary rendition_
 
 ### [ In the long running dispute over Iran's nuclear program, the ambassador of the United States to India, David Mulford, has warned India to back the US plan to refer Iran to the United Nations Security Council or face cancellation of a US-India nuclear deal.](/news/2006/01/26/in-the-long-running-dispute-over-iran-s-nuclear-program-the-ambassador-of-the-united-states-to-india-david-mulford-has-warned-india-to-b.md)
 _Context: David Mulford, Iran's nuclear program, United Nations Security Council_

@@ -13,7 +13,7 @@ _Context: Ford Motor Company_
 U.S. Secretary of State John Kerry accused Russian agents and special forces on Tuesday of stirring separatist unrest in eastern Ukraine, saying Moscow could be trying to prepare for military action as it had in Crimea.
 
 ### [United States Secretary of Defense Chuck Hagel voices the U.S. government's continued support of Japan's claims to the disputed territory. ](/news/2014/04/8/united-states-secretary-of-defense-chuck-hagel-voices-the-u-s-governmentas-continued-support-of-japanas-claims-to-the-disputed-territor.md)
-_Context: Chuck Hagel, Secretary of Defense_
+_Context: Chuck Hagel, Defense Secretary_
 
 ### [As part of his state visit to the United Kingdom, Irish President Michael D. Higgins addresses the Houses of Parliament and attends a banquet at Windsor Castle with Elizabeth II. ](/news/2014/04/8/as-part-of-his-state-visit-to-the-united-kingdom-irish-president-michael-d-higgins-addresses-the-houses-of-parliament-and-attends-a-banque.md)
 _Context: Elizabeth II, Houses of Parliament, Michael D. Higgins, President, Windsor Castle, banquet_

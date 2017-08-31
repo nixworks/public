@@ -16,7 +16,7 @@ _Context: December 18, December 19, Michael Jackson, Santa Barbara, California_
 _Context: Birmingham, London Heathrow Airport, London Stansted Airport, United Kingdom, airport_
 
 ### [ An advisory committee to the U.S. Food and Drug Administration recommends that the morning-after pill (for emergency contraception) be made available without a prescription. [http://www.cnn.com/2003/HEALTH/12/16/morning.after.pill/index.html]](/news/2003/12/16/an-advisory-committee-to-the-u-s-food-and-drug-administration-recommends-that-the-morning-after-pill-for-emergency-contraception-be-made.md)
-_Context: U.S. Food and Drug Administration, contraception, morning-after pill, prescriptions_
+_Context: Food and Drug Administration, contraception, morning-after pill, prescriptions_
 
 ### [ Somalia: 31 people die in the course of fighting between rival militias.[http://story.news.yahoo.com/news?tmpl=story&u=/ap/20031217/ap_on_re_af/somalia_fighting]](/news/2003/12/16/somalia-31-people-die-in-the-course-of-fighting-between-rival-militias-http-story-news-yahoo-com-news-tmpl-story-u-ap-20031217-ap_on_r.md)
 _Context: Somalia_

@@ -40,7 +40,7 @@ US secretary of state says there must be continued international pressure on Ira
 Demonstrators gather outside the Iranian Embassy in London to protest at what they say was an attack on Iranian exiles at Camp Ashraf in Iraq.
 
 ### [United States Secretary of Defense Robert Gates flies to China for a four-day trip after expressing American worries that the Chinese "clearly have potential to put some of our [military] capabilities at risk", adding that America has "to pay attention to them" and "respond appropriately with our own programmes". ](/news/2011/01/9/united-states-secretary-of-defense-robert-gates-flies-to-china-for-a-four-day-trip-after-expressing-american-worries-that-the-chinese-clear.md)
-_Context: Robert Gates, Secretary of Defense_
+_Context: Defense Secretary, Robert Gates_
 
 ### [Chinese Vice Premier Li Keqiang begins a four-day visit to the UK; Scotland and China sign a green energy deal. ](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.md)
 _Context: Li Keqiang, green energy_

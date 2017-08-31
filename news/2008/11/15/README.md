@@ -7,7 +7,7 @@ _Context: reversed its legalization_
 Authorities in Romania say at least 12 miners have been killed in two explosions in a coal mine in the south-west of the country.
 
 ### [ The G20 meets in Washington, D.C. to discuss responses to the current economic crisis. ](/news/2008/11/15/the-g20-meets-in-washington-d-c-to-discuss-responses-to-the-current-economic-crisis.md)
-_Context: G20, U.S. capital, current economic crisis, meets_
+_Context: G20, Washington, D.C., current economic crisis, meets_
 
 ### [ Mission STS-126 commences with the launch of Space Shuttle "Endeavour". The spacecraft will deliver equipment required to increase the crew capacity of the International Space Station from three to six members. ](/news/2008/11/15/mission-sts-126-commences-with-the-launch-of-space-shuttle-endeavour-the-spacecraft-will-deliver-equipment-required-to-increase-the-crew.md)
 _Context: International Space Station, STS-126, Space Shuttle, Space Shuttle ''Endeavour''_

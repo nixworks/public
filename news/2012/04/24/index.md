@@ -16,7 +16,7 @@ Israel decides to make legal under Israeli law three settlement outposts in the 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Leon Panetta, the United States Secretary of Defense, warns North Korea against further provocations against South Korea. ](/news/2012/04/24/leon-panetta-the-united-states-secretary-of-defense-warns-north-korea-against-further-provocations-against-south-korea.md)
-_Context: Leon Panetta, North Korea, Secretary of Defense, South Korea_
+_Context: Defense Secretary, Leon Panetta, North Korea, South Korea_
 
 ### [Appearing before the Leveson Inquiry, James Murdoch tells the hearing that News International's corporate systems failed to pick up on legal issues posed by its news gathering techniques. ](/news/2012/04/24/appearing-before-the-leveson-inquiry-james-murdoch-tells-the-hearing-that-news-international-s-corporate-systems-failed-to-pick-up-on-legal.md)
 Ex-News International boss James Murdoch tells the Leveson Inquiry it &quot;remains his position&quot; he did not see an email about wide-spread phone hacking at the News of the World.

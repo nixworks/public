@@ -4,7 +4,7 @@
 _Context: China, Foreign Minister, Google, He Yafei, United States, government_
 
 ### [U.S. Secretary of Defense Robert Gates makes his first visit to Pakistan. ](/news/2010/01/21/u-s-secretary-of-defense-robert-gates-makes-his-first-visit-to-pakistan.md)
-_Context: Pakistan, Robert Gates, Secretary of Defense, United States_
+_Context: Defense Secretary, Pakistan, Robert Gates, United States_
 
 ### [U.S. investment bank Goldman Sachs reports a sharp increase in profits for 2009, beating analysts' expectations. ](/news/2010/01/21/u-s-investment-bank-goldman-sachs-reports-a-sharp-increase-in-profits-for-2009-beating-analysts-expectations.md)
 Goldman Sachs reported strong earnings on Thursday, but the bank reduced the share of revenue going to bonuses.

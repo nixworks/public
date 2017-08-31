@@ -10,7 +10,7 @@ There has been a general welcome for the decision today by the GAA&#39;s annual 
 _Context: Richter scale, Southern California, earthquake_
 
 ### [ The G7 leaders meet in Washington, D.C. in the World Bank headquarters. Among the main discussion points are the rising price of oil and the pegging of the Chinese yuan to the U.S. dollar. ](/news/2005/04/16/the-g7-leaders-meet-in-washington-d-c-in-the-world-bank-headquarters-among-the-main-discussion-points-are-the-rising-price-of-oil-and-th.md)
-_Context: G7, U.S. capital, U.S. dollar, World Bank, oil, yuan_
+_Context: G7, U.S. dollar, Washington, D.C., World Bank, oil, yuan_
 
 ## [Previous Day...](/news/2005/04/15/index.md)
 
