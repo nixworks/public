@@ -36,7 +36,7 @@ Breakthrough Listen detected more radio pulses from the famous repeating source 
 
 ## [Day Before Yesterday](/news/2017/08/29/index.md)
 
-### [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. Taliban claim their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-taliban-claim.md)
+### [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md)
 A suicide bomber blew himself up at a bank close to the heavily protected U.S. embassy in the Afghan capital Kabul on Tuesday, killing at least five people and wounding eight, the interior ministry said.
 
 ### [Sky UK stops broadcasting Fox News in the United Kingdom after 15 years due to low audience figures. ](/news/2017/08/29/sky-uk-stops-broadcasting-fox-news-in-the-united-kingdom-after-15-years-due-to-low-audience-figures.md)
