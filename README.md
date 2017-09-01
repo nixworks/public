@@ -3,6 +3,9 @@
 ### [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md)
 Friday: Labour has hit the front as Ardern put Bill English under pressure in leaders’ debate. Plus: Socceroos’ defeat leaves World Cup hopes in the balance
 
+### [The Supreme Court of Kenya annuls the results of the recent presidential election due to irregularities and orders a new election. ](/news/2017/09/1/the-supreme-court-of-kenya-annuls-the-results-of-the-recent-presidential-election-due-to-irregularities-and-orders-a-new-election.md)
+The Supreme Court orders a new vote citing irregularities, sparking joy among opposition supporters.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
