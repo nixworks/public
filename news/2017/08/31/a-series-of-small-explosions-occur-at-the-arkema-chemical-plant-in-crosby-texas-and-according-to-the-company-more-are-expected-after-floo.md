@@ -9,7 +9,7 @@ Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houst
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-41104451)
 2. [NBC News](https://www.nbcnews.com/storyline/hurricane-harvey/harvey-danger-major-chemical-plant-near-houston-likely-explode-facility-n797581)
-3. [The New York Times''²](https://www.nytimes.com/2017/08/31/us/texas-chemical-plant-explosion-arkema.html?action=click&pgtype=Homepage&clickSource=story-heading&module=span-abc-region&region=span-abc-region&WT.nav=span-abc-region)
+3. [The New York Times''²](https://www.nytimes.com/2017/08/31/us/texas-chemical-plant-explosion-arkema.html)
 4. [The New York Times](https://www.nytimes.com/2017/08/31/us/harvey-houston-texas-flood.html)
 
 ### Related:
