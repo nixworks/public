@@ -1,0 +1,23 @@
+### [2017-09-1](/news/2017/09/1/index.md)
+
+# Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants, who illegally entered the United States as children, from deportation. 
+
+House of Representatives Speaker Paul Ryan urged President Donald Trump on Friday not to rescind an Obama-era program that protects immigrants who entered the United States illegally as children, as more Republicans lined up against the move.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/article/us-usa-immigration-daca/house-speaker-urges-trump-not-to-scrap-dreamers-immigration-policy-idUSKCN1BC5PT)
+
+### Related:
+
+1. [ Paul Ryan, Speaker of the United States House of Representatives, rules out seeking or accepting the Republican Party nomination in 2016. ](/news/2016/04/12/paul-ryan-speaker-of-the-united-states-house-of-representatives-rules-out-seeking-or-accepting-the-republican-party-nomination-in-2016.md) _Context: Paul Ryan, U.S. Speaker of the House of Representatives_
+2. [The U.S. House of Representatives elects Paul Ryan of Wisconsin as the 62nd Speaker of the House replacing John Boehner of Ohio. ](/news/2015/10/29/the-u-s-house-of-representatives-elects-paul-ryan-of-wisconsin-as-the-62nd-speaker-of-the-house-replacing-john-boehner-of-ohio.md) _Context: Paul Ryan, U.S. Speaker of the House of Representatives_
+3. [Members of the Republican party in the United States House of Representatives nominate Paul Ryan of Wisconsin to replace John Boehner of Ohio as Speaker of the House. There will be a formal vote Thursday on the House floor. ](/news/2015/10/28/members-of-the-republican-party-in-the-united-states-house-of-representatives-nominate-paul-ryan-of-wisconsin-to-replace-john-boehner-of-ohi.md) _Context: Paul Ryan, U.S. Speaker of the House of Representatives_
+4. [Paul Ryan announces that he will run to succeed outgoing Speaker of the United States House of Representatives John Boehner after receiving the support of a significant majority of members of the Republican Party. ](/news/2015/10/22/paul-ryan-announces-that-he-will-run-to-succeed-outgoing-speaker-of-the-united-states-house-of-representatives-john-boehner-after-receiving.md) _Context: Paul Ryan, U.S. Speaker of the House of Representatives_
+5. [Both Paul Ryan and Tom Perez plan to campaign for the local candidates Karen Handel and Jon Ossoff respectively. ](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.md) _Context: Paul Ryan_
+6. [Talks between top Donald Trump advisers and Speaker Paul Ryan happen at the capital to discuss tax reform. ](/news/2017/01/9/talks-between-top-donald-trump-advisers-and-speaker-paul-ryan-happen-at-the-capital-to-discuss-tax-reform.md) _Context: Paul Ryan_
+7. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _Context: Paul Ryan_
+8. [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md) _Context: Paul Ryan_
+9. [Former Speaker of the United States House of Representatives Dennis Hastert is sentenced to 15 months in prison for breaking banking laws in order to make payments to cover sexual misconduct from past decades. ](/news/2016/04/27/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-sentenced-to-15-months-in-prison-for-breaking-banking-laws-in.md) _Context: U.S. Speaker of the House of Representatives_
+10. [John Kerry, along with the other Group of Seven (G7) foreign ministers, laid wreaths at Japan's Hiroshima Peace Memorial Museum to the victims of the 1945 U.S. nuclear attack. Kerry is the first Secretary of State to visit the memorial. Then-U.S. Speaker of the House of Representatives Nancy Pelosi was previously the highest-ranking U.S. official to visit the memorial, in 2008. The Hiroshima foreign ministers meeting is part of the preparations for the 42nd G7 summit the end of next month at Japan's Kashiko Island, Shima, Mie Prefecture. ](/news/2016/04/11/john-kerry-along-with-the-other-group-of-seven-g7-foreign-ministers-laid-wreaths-at-japan-s-hiroshima-peace-memorial-museum-to-the-victi.md) _Context: U.S. Speaker of the House of Representatives_
