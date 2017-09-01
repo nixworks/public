@@ -2,12 +2,12 @@
 
 # The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. 
 
-Friday: Labour has hit the front as Ardern put Bill English under pressure in leaders’ debate. Plus: Socceroos’ defeat leaves World Cup hopes in the balance
+Jacinda Ardern says in debate with PM she is taking nothing for granted after poll gives her party a two-point advantage
 
 
 ### Source:
 
-1. [The Guardian](https://www.theguardian.com/australia-news/2017/sep/01/morning-mail-jacinda-ardern-leads-labour-to-nz-poll-lead)
+1. [The Guardian](https://www.theguardian.com/world/2017/aug/31/jacinda-ardern-lifts-labour-into-poll-lead-in-new-zealand-election)
 
 ### Related:
 
