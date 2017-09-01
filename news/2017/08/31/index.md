@@ -9,7 +9,7 @@ Arkema Group&#x27;s plant in Crosby, Texas — about 20 miles northeast of Houst
 ### [Twenty-six bodies of women and children are recovered after three boats carrying ethnic Rohingya fleeing violence in Myanmar sink in the Naf River in Bangladesh's Cox's Bazar District. ](/news/2017/08/31/twenty-six-bodies-of-women-and-children-are-recovered-after-three-boats-carrying-ethnic-rohingya-fleeing-violence-in-myanmar-sink-in-the-naf.md)
 Three boats carrying ethnic Rohingya fleeing violence in Myanmar capsized in Bangladesh and 26 bodies of women and children have been recovered, officials said Thursday.
 
-### [A rickety multi-storey apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. ](/news/2017/08/31/a-rickety-multi-storey-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-mis.md)
+### [A rickety multi-story apartment building collapses in the Indian city of Mumbai resulting in at least 24 deaths with at least 12 people missing. ](/news/2017/08/31/a-rickety-multi-story-apartment-building-collapses-in-the-indian-city-of-mumbai-resulting-in-at-least-24-deaths-with-at-least-12-people-miss.md)
 Rescuers work through the night to remove the rubble of a collapsed apartment building in Mumbai, where at least 33 people have died.
 
 ### [An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. ](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.md)

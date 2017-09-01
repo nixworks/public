@@ -1,6 +1,6 @@
 ### [2017-09-1](/news/2017/09/1/index.md)
 
-# Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. One of the factors: treatment plants are not keeping up with today's antidepressant usage which rose 65 percent over 12 years. 
+# Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include a lack of adequate treatment of water released into waterways. 
 
 
 
