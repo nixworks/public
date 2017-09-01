@@ -22,7 +22,7 @@ _Context: United States Secret Service, White House, flying drone_
 The accused trio allegedly tried to recruit women at a New York university, spoke in code and met in person to avoid email or phone interceptions as they pursued US economic secrets
 
 ### [The US Eastern District Court of Virginia convicts a disgruntled former CIA officer, Jeffrey Alexander Sterling, of leaking secrets to a reporter. All nine charges he faced stem from a secret CIA mission to derail Iran's nuclear weapons program. ](/news/2015/01/26/the-us-eastern-district-court-of-virginia-convicts-a-disgruntled-former-cia-officer-jeffrey-alexander-sterling-of-leaking-secrets-to-a-rep.md)
-_Context: CIA, Jeffrey Alexander Sterling, US Eastern District Court of Virginia, nuclear scientist_
+_Context: CIA, Jeffrey Alexander Sterling, US Eastern District Court of Virginia, nuclear program_
 
 ### [Chinese authorities name Huang Lixin as the Communist Party Secretary of Nanjing, following the investigation and dismissal of former party chief Yang Weize. Huang becomes the first woman in city history to take the top office. ](/news/2015/01/26/chinese-authorities-name-huang-lixin-as-the-communist-party-secretary-of-nanjing-following-the-investigation-and-dismissal-of-former-party.md)
 _Context: China, Communist Party Secretary, Huang Lixin, Nanjing, Yang Weize_

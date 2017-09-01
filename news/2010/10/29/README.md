@@ -82,7 +82,7 @@ _Context: China, Sichuan_
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 ### [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md)
-_Context: European Union, Iran, nuclear scientist_
+_Context: European Union, Iran, nuclear program_
 
 ### [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md)
 _Context: Belgium, Brussels, European Union, Treaty of Lisbon, budget deficit_

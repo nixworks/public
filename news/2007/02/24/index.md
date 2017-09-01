@@ -13,7 +13,7 @@ _Context: Habbaniya, Iraq War, car bomb, mosque_
 _Context: Grayrigg rail crash, set of points_
 
 ### [ Vice President of the United States Dick Cheney warns Iran that "all options are on the table" if it continues to defy the international community about its nuclear program. ](/news/2007/02/24/vice-president-of-the-united-states-dick-cheney-warns-iran-that-all-options-are-on-the-table-if-it-continues-to-defy-the-international-co.md)
-_Context: Dick Cheney, Iran, U.S. Vice President, air strike, nuclear scientist_
+_Context: Dick Cheney, Iran, U.S. Vice President, air strike, nuclear program_
 
 ### [ Mario Chanes de Armas, one of the leaders in the Cuban revolution dies, 80 years old. After breaking with Castros authoritarian leadership, he was imprisoned for 30 years, longer than any other political prisoner anywhere. ](/news/2007/02/24/mario-chanes-de-armas-one-of-the-leaders-in-the-cuban-revolution-dies-80-years-old-after-breaking-with-castros-authoritarian-leadership.md)
 Mr. de Armas was at Fidel Castro’s side in the Cuban revolution but later spent three decades as a political prisoner.

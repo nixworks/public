@@ -4,7 +4,7 @@
 Officials said the addition of the USS Mesa Verde will give the White House &quot;additional options&quot; to protect Americans in Iraq if needed.
 
 ### [The Pakistan Air Force conducts airstrikes against 6 Tehrik-i-Taliban Pakistan positions in North Waziristan, killing 27 militants. ](/news/2014/06/16/the-pakistan-air-force-conducts-airstrikes-against-6-tehrik-i-taliban-pakistan-positions-in-north-waziristan-killing-27-militants.md)
-_Context: North Waziristan, Pakistan Air Force, Tehrik-i-Taliban Pakistan_
+_Context: North Waziristan, Pakistan Air Force, TTP_
 
 ### [A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. ](/news/2014/06/16/a-barrel-bomb-is-dropped-from-a-helicopter-in-aleppo-syria-killing-at-least-25-people.md)
 _Context: Aleppo, Syria, barrel bomb_

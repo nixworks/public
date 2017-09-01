@@ -22,7 +22,7 @@ The International Court of Justice rules Japan must immediately stop its whaling
 _Context: Abkhazia, Georgian, South Ossetia, Tuvalu, recognition_
 
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)
-_Context: Pakistan, Pervez Musharraf, President, emergency rule, high treason_
+_Context: Pakistan, Pervez Musharraf, emergency rule, high treason, president_
 
 ### [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md)
 _Context: Francois Hollande, French municipal elections, 2014, Jean-Marc Ayrault, Manuel Valls, Minister of the Interior, PS, President of France, Prime Minister_

@@ -40,7 +40,7 @@ _Context: Far East, Russian Air Force, Russian SU-27 fighter jet_
 _Context: BP, Deepwater Horizon oil spill, Macondo, Thad Allen, United States Coast Guard, admiral_
 
 ### [The 54th International Atomic Energy Agency (IAEA) General Conference opens in Vienna with attendance by 151 countries. ](/news/2010/09/20/the-54th-international-atomic-energy-agency-iaea-general-conference-opens-in-vienna-with-attendance-by-151-countries.md)
-_Context: International Atomic Energy Agency, Vienna_
+_Context: IAEA, Vienna_
 
 ### [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md)
 _Context: Australia, Delhi, India, Jama Masjid, Taiwan, United States, mosque_

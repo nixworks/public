@@ -1,7 +1,7 @@
 ## [2008-08-1](/news/2008/08/1/index.md)
 
 ### [ The International Atomic Energy Agency unanimously approves a safeguards agreement with India, a precondition of the nuclear deal with the United States. ](/news/2008/08/1/the-international-atomic-energy-agency-unanimously-approves-a-safeguards-agreement-with-india-a-precondition-of-the-nuclear-deal-with-the.md)
-_Context: India, International Atomic Energy Agency, United States_
+_Context: IAEA, India, United States_
 
 ### [ Unemployment in the United States rises to 5.7 per cent, its highest rate in more than four years. ](/news/2008/08/1/unemployment-in-the-united-states-rises-to-5-7-per-cent-its-highest-rate-in-more-than-four-years.md)
 _Context: United States, unemployment_

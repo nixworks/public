@@ -1,7 +1,7 @@
 ## [2006-11-14](/news/2006/11/14/index.md)
 
 ### [ The President of Iran Mahmoud Ahmadinejad says he expects its nuclear enrichment program to be ready by February 2007. ](/news/2006/11/14/the-president-of-iran-mahmoud-ahmadinejad-says-he-expects-its-nuclear-enrichment-program-to-be-ready-by-february-2007.md)
-_Context: Mahmoud Ahmadinejad, President, nuclear enrichment, nuclear scientist_
+_Context: Mahmoud Ahmadinejad, President, nuclear enrichment, nuclear program_
 
 ### [ The first babies to have been screened for faulty genes by Preimplantation Genetic Haplotyping (PGH) have been born in London's Guy's Hospital. ](/news/2006/11/14/the-first-babies-to-have-been-screened-for-faulty-genes-by-preimplantation-genetic-haplotyping-pgh-have-been-born-in-london-s-guy-s-hospi.md)
 News and opinion from The Times &amp; The Sunday Times

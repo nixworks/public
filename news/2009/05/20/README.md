@@ -7,7 +7,7 @@ _Context: House of Lords, Peter Truscott, Thomas Taylor, United Kingdom, miscond
 Flood-hit south-east Queensland has been declared a natural disaster zone after the death of a man on the Gold Coast this afternoon.
 
 ### [ Iran launches a Sajjil-2 medium-range surface-to-surface missile. ](/news/2009/05/20/iran-launches-a-sajjil-2-medium-range-surface-to-surface-missile.md)
-_Context: Iran, Sajjil, medium-range ballistic missile, nuclear scientist, surface-to-surface missile_
+_Context: Iran, Sajjil, medium-range ballistic missile, nuclear program, surface-to-surface missile_
 
 ### [ An Air Force C-130 Hercules aircraft crashes in Java, Indonesia, killing at least 98 people. ](/news/2009/05/20/an-air-force-c-130-hercules-aircraft-crashes-in-java-indonesia-killing-at-least-98-people.md)
 An Indonesian military transport plane carrying 110 passengers and crew crashed and burst into flames in East Java on Wednesday, killing at least 98 people on board and on the ground, officials said.

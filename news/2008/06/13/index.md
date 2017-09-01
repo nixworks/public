@@ -28,7 +28,7 @@ _Context: Ganges, Hindu, Rashtriya Swayamsevak Sangh, Sagar Island_
 _Context: Group of Eight, Japan, Osaka, finance minister_
 
 ### [ Pakistani lawyers hold a protest rally in Islamabad to demand the reinstatement of judges sacked by the President of Pakistan Pervez Musharraf. ](/news/2008/06/13/pakistani-lawyers-hold-a-protest-rally-in-islamabad-to-demand-the-reinstatement-of-judges-sacked-by-the-president-of-pakistan-pervez-mushar.md)
-_Context: Islamabad, Pakistan, Pervez Musharraf, President_
+_Context: Islamabad, Pakistan, Pervez Musharraf, president_
 
 ### [ The People's Republic of China and Taiwan agree to regular civil aviation flights across the Taiwan Strait for the first time since 1949 with flights limited to weekend charters. ](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.md)
 _Context: 1949, China, Taiwan, Taiwan Strait, civil aviation_

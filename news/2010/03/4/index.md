@@ -1,7 +1,7 @@
 ## [2010-03-4](/news/2010/03/4/index.md)
 
 ### [Egyptian President Hosni Mubarak says he does not mind the nomination of the former Director-General of International Atomic Energy Agency Mohamed ElBaradei in the next presidential election as long as it is under the framework of existing constitution. ](/news/2010/03/4/egyptian-president-hosni-mubarak-says-he-does-not-mind-the-nomination-of-the-former-director-general-of-international-atomic-energy-agency-m.md)
-_Context: Egypt, Egyptian President, Egyptian presidential election in September, Hosni Mubarak, International Atomic Energy Agency, Mohamed ElBaradei, existing constitution_
+_Context: Egypt, Egyptian President, Egyptian presidential election in September, Hosni Mubarak, IAEA, Mohamed ElBaradei, existing constitution_
 
 ### [Forty-one scientists publish a paper in "Science" affirming that the Cretaceous-Paleogene extinction event, the large-scale mass extinction of dinosaurs and other lifeforms on Earth ~65.5 million years ago, was caused by an asteroid impact. ](/news/2010/03/4/forty-one-scientists-publish-a-paper-in-science-affirming-that-the-cretaceousapaleogene-extinction-event-the-large-scale-mass-extinctio.md)
 A giant asteroid smashing into Earth is the only plausible explanation for the extinction of the dinosaurs, a global scientific team said on Thursday, hoping to settle a row that has divided experts for decades.

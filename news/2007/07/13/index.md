@@ -13,7 +13,7 @@ _Context: Gran Telescopio Canarias, La Palma_
 The Philippines Government says a deal to expand intelligence sharing with Indonesia will help it track down two key suspects wanted over the 2002 Bali bombings.
 
 ### [ Iran and the International Atomic Energy Agency reach agreement on resolving the disputes over the Iranian nuclear program. ](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.md)
-_Context: International Atomic Energy Agency, Iran_
+_Context: IAEA, Iran_
 
 ### [ The death toll in the sinking of the MV "Blue Water Princess" of the coast of Luzon in the Philippines rises to 15. ](/news/2007/07/13/the-death-toll-in-the-sinking-of-the-mv-blue-water-princess-of-the-coast-of-luzon-in-the-philippines-rises-to-15.md)
 _Context: Luzon, Philippines_

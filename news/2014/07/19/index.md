@@ -1,7 +1,7 @@
 ## [2014-07-19](/news/2014/07/19/index.md)
 
 ### [A US drone strike kills eleven insurgents in a Tehrik-i-Taliban Pakistan compound in North Waziristan. ](/news/2014/07/19/a-us-drone-strike-kills-eleven-insurgents-in-a-tehrik-i-taliban-pakistan-compound-in-north-waziristan.md)
-_Context: North Waziristan, Tehrik-i-Taliban Pakistan_
+_Context: North Waziristan, TTP_
 
 ### [According to Hamas the death toll from Israel's offensive against the Gaza Strip exceeds 300 although it is not clear how many are civilians or militants. Israel conducted over 2500 airstrikes and artillery strikes during the operation while thousands of rockets have been fired into Israel. ](/news/2014/07/19/according-to-hamas-the-death-toll-from-israel-s-offensive-against-the-gaza-strip-exceeds-300-although-it-is-not-clear-how-many-are-civilians.md)
 Three Palestinians were killed in fresh Israeli air strikes in Gaza on Saturday morning, among them a six-year-old child, medics said, as UN chief Ban Ki-moon heads to the region to bolster truce efforts.

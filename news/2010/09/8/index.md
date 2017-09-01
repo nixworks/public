@@ -19,7 +19,7 @@ _Context: Boulder, Colorado, United States, Wildfire_
 _Context: Oklahoma!, Texas, Tropical Storm Hermine, United States_
 
 ### [South Korea unveils sanctions against Iran for its nuclear program. ](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.md)
-_Context: Iran, South Korea, nuclear scientist, sanctions_
+_Context: Iran, South Korea, nuclear program, sanctions_
 
 ### [Japan detains a Chinese fishing boat found near the disputed Pinnacle Islands in the East China Sea. ](/news/2010/09/8/japan-detains-a-chinese-fishing-boat-found-near-the-disputed-pinnacle-islands-in-the-east-china-sea.md)
 _Context: Chinese, East China Sea, Japan, Pinnacle Islands, fishing boat_

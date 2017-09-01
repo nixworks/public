@@ -25,7 +25,7 @@ _Context: Citigroup, Financial Times, hackers_
 _Context: Microsoft, U.S. Supreme Court, i4i, jury, patent, software_
 
 ### [The Government of Japan submits a report to the International Atomic Energy Agency calling for revision of nuclear reactor design standards in the wake of the disaster.](/news/2011/06/9/the-government-of-japan-submits-a-report-to-the-international-atomic-energy-agency-calling-for-revision-of-nuclear-reactor-design-standards.md)
-_Context: International Atomic Energy Agency, Japanese government, nuclear reactor_
+_Context: IAEA, Japanese government, nuclear reactor_
 
 ### [China denies claims by the United Nations that 300 Tibetan monks have forcibly disappeared over the past three months. ](/news/2011/06/9/china-denies-claims-by-the-united-nations-that-300-tibetan-monks-have-forcibly-disappeared-over-the-past-three-months.md)
 China denies claims by the UN that hundreds of Tibetan monks may have been detained at a monastery in Sichuan, saying they were being educated.

@@ -7,7 +7,7 @@ _Context: Benjamin Netanyahu, Israel, Israeli Prime Minister, Likud, chairman, i
 _Context: Australia, Coffs Harbour, Mid North Coast, New South Wales, evacuation centers, flood_
 
 ### [ The Taliban's Students' Movement claims responsibility for an attack on a police academy in Lahore, Pakistan. ](/news/2009/03/31/the-taliban-s-students-movement-claims-responsibility-for-an-attack-on-a-police-academy-in-lahore-pakistan.md)
-_Context: Lahore, Pakistan, Pakistani police, Taliban, Tehrik-i-Taliban Pakistan, academy, attack_
+_Context: Lahore, Pakistan, Pakistani police, TTP, Taliban, academy, attack_
 
 ### [ Seven Somali pirates are captured after mistakenly attacking the German Navy's FGS "Spessart" in the Gulf of Aden. ](/news/2009/03/31/seven-somali-pirates-are-captured-after-mistakenly-attacking-the-german-navy-s-fgs-spessart-in-the-gulf-of-aden.md)
 _Context: ''Spessart'', FGS, German navies, Germany, Gulf of Aden, Somali pirates, Somalia_

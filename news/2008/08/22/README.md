@@ -16,7 +16,7 @@ _Context: Kismayo, clashes_
 _Context: Afghanistan's, Taliban, United States, War in Afghanistan_
 
 ### [ Pakistan will indirectly elect a new President of Pakistan on September 6 to replace Pervez Musharraf. ](/news/2008/08/22/pakistan-will-indirectly-elect-a-new-president-of-pakistan-on-september-6-to-replace-pervez-musharraf.md)
-_Context: Pakistan, Pervez Musharraf, President, September 6_
+_Context: Pakistan, Pervez Musharraf, September 6, president_
 
 ### [ Human Rights Watch confirms the use of cluster bombs by Russia during Georgia bombing, urges Russia to keep within the international norms and warns Georgia to take urgent measures to protect the civilian population in Georgian villages from unexploded ordnance left by Russian attacks. ](/news/2008/08/22/human-rights-watch-confirms-the-use-of-cluster-bombs-by-russia-during-georgia-bombing-urges-russia-to-keep-within-the-international-norms.md)
 * U.S. general says Russian pullback &quot;far too slow&quot; * Russia says to complete partial pullback by end-Friday

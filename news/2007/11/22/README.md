@@ -25,7 +25,7 @@ _Context: Anders Fogh Rasmussen, Denmark, EUR, Europe, a new referendum on relin
 _Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, state of emergency_
 
 ### [ The head of IAEA, Mohamed ElBaradei, says the agency cannot be sure "about the absence of undeclared nuclear material and activities" in Iran. ](/news/2007/11/22/the-head-of-iaea-mohamed-elbaradei-says-the-agency-cannot-be-sure-about-the-absence-of-undeclared-nuclear-material-and-activities-in-ir.md)
-_Context: International Atomic Energy Agency, Iran, Mohamed ElBaradei, nuclear_
+_Context: IAEA, Iran, Mohamed ElBaradei, nuclear_
 
 ### [ A report by the EMCDDA says the number of cocaine users in the European Union has increased by one million in one year. ](/news/2007/11/22/a-report-by-the-emcdda-says-the-number-of-cocaine-users-in-the-european-union-has-increased-by-one-million-in-one-year.md)
 _Context: EMCDDA, European Union, cocaine_

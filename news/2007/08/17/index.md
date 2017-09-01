@@ -46,7 +46,7 @@ _Context: Europe, Federal Reserve, United States, housing crisis_
 _Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
 
 ### [ The International Atomic Energy Agency and the United States Government advises that North Korea is co-operating with plans to shut down its nuclear program. ](/news/2007/08/17/the-international-atomic-energy-agency-and-the-united-states-government-advises-that-north-korea-is-co-operating-with-plans-to-shut-down-it.md)
-_Context: International Atomic Energy Agency, North Korea, United States government_
+_Context: IAEA, North Korea, United States government_
 
 ### [ Four people die as a United States Marine Corps helicopter crashes on a training flight north of Yuma, Arizona. ](/news/2007/08/17/four-people-die-as-a-united-states-marine-corps-helicopter-crashes-on-a-training-flight-north-of-yuma-arizona.md)
 _Context: Marines, Yuma, Arizona, helicopter_

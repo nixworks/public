@@ -7,7 +7,7 @@ _Context: Bernard Kouchner, European Union, France, Ireland, Treaty of Lisbon, t
 A stalled storm system poured heavy rain on parts of the Midwest, setting off severe flooding in Indiana, Iowa and Wisconsin.
 
 ### [ Pakistan lawyers begin a "Long March" of protests against the Government of the President of Pakistan Pervez Musharraf calling for the reinstatement of judges dismissed last year including the former Chief Justice of Pakistan Iftikhar Muhammad Chaudhry. ](/news/2008/06/9/pakistan-lawyers-begin-a-long-march-of-protests-against-the-government-of-the-president-of-pakistan-pervez-musharraf-calling-for-the-rein.md)
-_Context: Iftikhar Muhammad Chaudhry, Pakistan, Pakistan's chief justice, Pervez Musharraf, President_
+_Context: Iftikhar Muhammad Chaudhry, Pakistan, Pakistan's chief justice, Pervez Musharraf, president_
 
 ### [ 24 miners are rescued from the Ukrainian coal mine collapse with 12 still missing and one reported fatality. ](/news/2008/06/9/24-miners-are-rescued-from-the-ukrainian-coal-mine-collapse-with-12-still-missing-and-one-reported-fatality.md)
 Rescue workers located 24 miners alive after a gas explosion at a Ukraine colliery and were bringing them slowly to safety on Monday.

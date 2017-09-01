@@ -4,7 +4,7 @@
 _Context: Baghdad, Shiite_
 
 ### [Taliban militants in Pakistan say they have killed 23 captured Pakistani security force members, in a setback to peace talks aimed at ending the Islamist insurgency. ](/news/2014/02/17/taliban-militants-in-pakistan-say-they-have-killed-23-captured-pakistani-security-force-members-in-a-setback-to-peace-talks-aimed-at-ending.md)
-_Context: Pakistan army, Tehrik-i-Taliban Pakistan_
+_Context: Pakistan army, TTP_
 
 ### [Ethiopian Airlines Flight 702 between Addis Ababa and Rome is diverted to land at Geneva in an attempted hijacking by the co-pilot who claims to be seeking political asylum. ](/news/2014/02/17/ethiopian-airlines-flight-702-between-addis-ababa-and-rome-is-diverted-to-land-at-geneva-in-an-attempted-hijacking-by-the-co-pilot-who-claim.md)
 _Context: Addis Ababa, Ethiopian Airlines Flight 702, Geneva, Rome_

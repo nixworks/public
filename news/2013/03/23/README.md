@@ -1,7 +1,7 @@
 ## [2013-03-23](/news/2013/03/23/index.md)
 
 ### [Pakistani Taliban threaten to assassinate former President Pervez Musharraf if he returns to the country. ](/news/2013/03/23/pakistani-taliban-threaten-to-assassinate-former-president-pervez-musharraf-if-he-returns-to-the-country.md)
-_Context: Pakistan, Pervez Musharraf, President, Taliban_
+_Context: Pakistan, Pervez Musharraf, Taliban, president_
 
 ### [France formally confirms death of Islamist commander Abdelhamid Abou Zeid, a senior al-Qaeda in the Islamic Maghreb in February, after DNA tests. ](/news/2013/03/23/france-formally-confirms-death-of-islamist-commander-abdelhamid-abou-zeid-a-senior-al-qaeda-in-the-islamic-maghreb-in-february-after-dna-t.md)
 The French presidency confirms &quot;with certainty&quot; reports that Islamist commander Abdelhamid Abou Zeid was killed in fighting in Mali in late February.

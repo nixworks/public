@@ -35,7 +35,7 @@ _Context: General Motors, United Auto Workers, strike_
 _Context: FLDS Church, U.S. state, Utah, Warren Jeffs_
 
 ### [ In his speech to the United Nations General Assembly, Iranian President Mahmoud Ahmadinejad reiterates his assertion that his county's nuclear program has been "peaceful and transparent" and criticizes the "illegal" UN sanctions imposed by "arrogant" members of the Security Council. ](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.md)
-_Context: Mahmoud Ahmadinejad, President, United Nations General Assembly, United Nations Security Council, nuclear scientist_
+_Context: Mahmoud Ahmadinejad, President, United Nations General Assembly, United Nations Security Council, nuclear program_
 
 ## [Previous Day...](/news/2007/09/24/index.md)
 

@@ -4,10 +4,10 @@
 _Context: 2002 attack on the French tanker ''Limburg'', Al Qaida's, Fawaz al-Rabeiee, Jamal al-Bedawi, USS ''Cole'' bombing, Yemen_
 
 ### [ The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". ](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.md)
-_Context: United States State Department, Venezuela, persona non-grata_
+_Context: State Department, Venezuela, persona non-grata_
 
 ### [ The International Atomic Energy Agency has deferred until Saturday a vote on whether to report Iran to the UN Security Council over concerns its nuclear programs may produce weapons. ](/news/2006/02/3/the-international-atomic-energy-agency-has-deferred-until-saturday-a-vote-on-whether-to-report-iran-to-the-un-security-council-over-concern.md)
-_Context: International Atomic Energy Agency, Iran, United Nations Security Council_
+_Context: IAEA, Iran, United Nations Security Council_
 
 ### [ A plot to assassinate President Mikhail Saakashvili of Georgia by shooting down his helicopter has been foiled. ](/news/2006/02/3/a-plot-to-assassinate-president-mikhail-saakashvili-of-georgia-by-shooting-down-his-helicopter-has-been-foiled.md)
 _Context: Georgian, Mikhail Saakashvili, President of Georgia, assassinated, helicopter_

@@ -28,7 +28,7 @@ _Context: eastern India_
 France wants to contact the al-Qaeda group which abducted five of its citizens in Niger, its defence minister says.
 
 ### [Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. ](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.md)
-_Context: International Atomic Energy Agency, Iran_
+_Context: IAEA, Iran_
 
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9/11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
 _Context: 9/11 attacks, Australia, Belgium, Government of the United States, Israel, Mahmoud Ahmadinejad, President, Spain, Sweden, United Kingdom, United Nations General Assembly, United States, Uruguay_

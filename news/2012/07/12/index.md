@@ -19,7 +19,7 @@ FRENCH auto group PSA Peugeot Citroen says it will cut 8000 jobs in its domestic
 _Context: Wells Fargo, subprime mortgage_
 
 ### [The US Treasury announces that sanctions on Iran due to its nuclear program are further tightened. ](/news/2012/07/12/the-us-treasury-announces-that-sanctions-on-iran-due-to-its-nuclear-program-are-further-tightened.md)
-_Context: Iran, US Treasury, nuclear scientist_
+_Context: Iran, US Treasury, nuclear program_
 
 ### [At least nine mountaineers are killed and eight injured in an avalanche on Mont Maudit near Mont Blanc in the French Alps. ](/news/2012/07/12/at-least-nine-mountaineers-are-killed-and-eight-injured-in-an-avalanche-on-mont-maudit-near-mont-blanc-in-the-french-alps.md)
 _Context: French Alps, Mont Blanc, Mont Maudit, avalanche, mountaineering_

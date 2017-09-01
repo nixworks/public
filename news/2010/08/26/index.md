@@ -19,7 +19,7 @@ _Context: North Korea, South Korea_
 _Context: United States Food and Drug Administration, Wright County Egg, egg, salmonella outbreak_
 
 ### [Former International Atomic Energy Agency director Olli Heinonen claims that Iran has stockpiled enough low-enriched uranium for one to two nuclear bombs. ](/news/2010/08/26/former-international-atomic-energy-agency-director-olli-heinonen-claims-that-iran-has-stockpiled-enough-low-enriched-uranium-for-one-to-two.md)
-_Context: International Atomic Energy Agency, Iran, Olli Heinonen_
+_Context: IAEA, Iran, Olli Heinonen_
 
 ### [Israel asks Germany to arrest Klaas Carel Faber, a Nazi war criminal who killed 20 Jews at Westerbork concentration camp. ](/news/2010/08/26/israel-asks-germany-to-arrest-klaas-carel-faber-a-nazi-war-criminal-who-killed-20-jews-at-westerbork-concentration-camp.md)
 Klaas Carel Faber reportedly murdered more than 20 Jews at the Westerbork concentration camp, where many Dutch Jews were sent. 

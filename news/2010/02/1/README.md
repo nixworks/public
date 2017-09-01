@@ -4,7 +4,7 @@
 _Context: $, Barack Obama, deficit_
 
 ### [US Secretary of State Hillary Clinton presses China to back Iran sanctions for its nuclear program. ](/news/2010/02/1/us-secretary-of-state-hillary-clinton-presses-china-to-back-iran-sanctions-for-its-nuclear-program.md)
-_Context: China, Hillary Clinton, Iran, Secretary of State, nuclear scientist_
+_Context: China, Hillary Clinton, Iran, Secretary of State, nuclear program_
 
 ### [United Nations Secretary-General Ban Ki-moon arrives in Cyprus to begin talks aimed at reuniting the country. ](/news/2010/02/1/united-nations-secretary-general-ban-ki-moon-arrives-in-cyprus-to-begin-talks-aimed-at-reuniting-the-country.md)
 _Context: Ban Ki-moon, Cyprus, Cyprus dispute, Secretary General, United Nations_

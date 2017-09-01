@@ -25,7 +25,7 @@ Bad weather has resulted in flooding in parts of Dublin and Kildare and the Rive
 To the great surprise of pollsters and the regret of the government, the Swiss on Sunday said yes to a ban on the construction of ...
 
 ### [ The Iranian parliament urges the government to reduce ties with the International Atomic Energy Agency. ](/news/2009/11/29/the-iranian-parliament-urges-the-government-to-reduce-ties-with-the-international-atomic-energy-agency.md)
-_Context: International Atomic Energy Agency, Iran, Iran and weapons of mass destruction, government, parliament_
+_Context: IAEA, Iran, Iran and weapons of mass destruction, government, parliament_
 
 ### [ Russian police issue an appeal for witnesses following the Nevsky Express bombing. ](/news/2009/11/29/russian-police-issue-an-appeal-for-witnesses-following-the-nevsky-express-bombing.md)
 _Context: Nevsky Express, Russia, Russian police, the bomb attack, witness_

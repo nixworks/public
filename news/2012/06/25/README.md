@@ -28,7 +28,7 @@ _Context: Labour, Richard O'Dwyer, Tom Watson_
 Deposed president rallies allies at home and abroad to force congress to reverse a vote to remove him.
 
 ### [Vladimir Putin makes a rare trip to Israel and discusses Iran's nuclear program and the uprising in Syria. ](/news/2012/06/25/vladimir-putin-makes-a-rare-trip-to-israel-and-discusses-iran-s-nuclear-program-and-the-uprising-in-syria.md)
-_Context: Israel, Syria, Vladimir Putin, nuclear scientist_
+_Context: Israel, Syria, Vladimir Putin, nuclear program_
 
 ### [The pre-trial hearing of imprisoned U.S. serviceman Bradley Manning takes place at Fort Meade, Maryland. ](/news/2012/06/25/the-pre-trial-hearing-of-imprisoned-u-s-serviceman-bradley-manning-takes-place-at-fort-meade-maryland.md)
 _Context: Bradley Manning, Fort Meade, Maryland_

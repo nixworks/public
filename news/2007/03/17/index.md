@@ -16,7 +16,7 @@ _Context: Australia, Australian Prime Minister, Iraq, John Howard_
 _Context: Fatah, Hamas, Palestinian Legislative Council, forming a government_
 
 ### [ President Pervez Musharraf of Pakistan apologises for a police raid on Geo TV's offices in Islamabad the day before, with 14 police officers suspended for their alleged part in the incident. ](/news/2007/03/17/president-pervez-musharraf-of-pakistan-apologises-for-a-police-raid-on-geo-tv-s-offices-in-islamabad-the-day-before-with-14-police-officer.md)
-_Context: GEO Television, Islamabad, Pakistan, Pervez Musharraf, President_
+_Context: GEO Television, Islamabad, Pakistan, Pervez Musharraf, president_
 
 ### [ At least seven people die in a TU-134 plane crash in Samara in Russia. ](/news/2007/03/17/at-least-seven-people-die-in-a-tu-134-plane-crash-in-samara-in-russia.md)
 _Context: Russia, Samara, TU-134, plane crash_

@@ -37,7 +37,7 @@ Move prevents adoption of first-ever international treaty to regulate the $70bn 
 North Korea has revealed its plans to strike targets in Hawaii and the continental United States in photos taken in Kim Jong-un&#039;s military command centre.
 
 ### [A Pakistani lawyer throws a shoe at the former President Pervez Musharraf at the Sindh High Court, as Musharraf successfully extends his bail on charges of conspiracy to murder and sacking judges. ](/news/2013/03/29/a-pakistani-lawyer-throws-a-shoe-at-the-former-president-pervez-musharraf-at-the-sindh-high-court-as-musharraf-successfully-extends-his-bai.md)
-_Context: Pakistan, Pervez Musharraf, President, Sindh High Court, bail, conspiracy to murder_
+_Context: Pakistan, Pervez Musharraf, Sindh High Court, bail, conspiracy to murder, president_
 
 ### [Several people are injured in Sri Lanka's largest city Colombo when Buddhist monks lead hundreds of people to attack a Muslim owned clothing warehouse. ](/news/2013/03/29/several-people-are-injured-in-sri-lanka-s-largest-city-colombo-when-buddhist-monks-lead-hundreds-of-people-to-attack-a-muslim-owned-clothing.md)
 Several people are injured in the Sri Lankan capital, Colombo, as Buddhist monks lead hundreds of people in an assault on a Muslim-owned clothing warehouse.

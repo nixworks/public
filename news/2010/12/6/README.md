@@ -16,7 +16,7 @@ _Context: Israel, Mount Carmel forest fire_
 _Context: Haiti, worst epidemic of cholera_
 
 ### [Iran meets with six world powers in Geneva for talks concerning its nuclear program. ](/news/2010/12/6/iran-meets-with-six-world-powers-in-geneva-for-talks-concerning-its-nuclear-program.md)
-_Context: Geneva, nuclear scientist_
+_Context: Geneva, nuclear program_
 
 ### [Newly released cables from the United States indicate former Prime Minister of Australia Kevin Rudd suggested the use of force against China if it could not be "successfully integrated" into the international community. The Australian government refuses to respond to the release. ](/news/2010/12/6/newly-released-cables-from-the-united-states-indicate-former-prime-minister-of-australia-kevin-rudd-suggested-the-use-of-force-against-china.md)
 Saudi Arabia is the single biggest contributor to the funding of Islamic extremism and is unwilling to cut off the money supply, according to a leaked note from Hillary Clinton.

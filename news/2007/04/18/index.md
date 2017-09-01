@@ -7,7 +7,7 @@ _Context: Colombia, Nevado del Huila, volcanic activity_
 _Context: Algoma Steel, Essar Group, India, Minnesota Steel, U.S., USD_
 
 ### [ A diplomat claims that an International Atomic Energy Agency document claims that Iran has assembled some 1,300 centrifuges at a key underground nuclear plant in Natanz and has started to feed them with the uranium gas necessary for enriching uranium. ](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.md)
-_Context: International Atomic Energy Agency, Iran, Natanz, centrifuge, diplomat, uranium_
+_Context: IAEA, Iran, Natanz, centrifuge, diplomat, uranium_
 
 ### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md)
 _Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, U.S. Supreme Court_

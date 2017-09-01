@@ -10,7 +10,7 @@ _Context: French-born, Libya, Tripoli, car bomb_
 _Context: Hawija, Iraq, Sunni Muslim_
 
 ### [Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musharraf-is-under-house-arrest.md)
-_Context: Pakistan, Pakistani police, Pervez Musharraf, President, car bomb, house arrest_
+_Context: Pakistan, Pakistani police, Pervez Musharraf, car bomb, house arrest, president_
 
 ### [Violence in Bachu County, Kashgar Prefecture, of China's Xinjiang results in 21 people killed, including 15 police and social workers. Of the 15 government casualties, 10 members are ethnic Uighur, 3 are Han Chinese, and 2 are ethnic Mongolian. ](/news/2013/04/23/violence-in-bachu-county-kashgar-prefecture-of-china-s-xinjiang-results-in-21-people-killed-including-15-police-and-social-workers-of-th.md)
 _Context: Bachu County, China, Chinese, Kashgar Prefecture, Mongolia, Uighur, Xinjiang_

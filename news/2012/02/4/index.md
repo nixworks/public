@@ -7,7 +7,7 @@ Syrian forces are accused of killing scores of people in Homs in one of the bloo
 _Context: United Nations Assistance Mission in Afghanistan, War in Afghanistan (2001-present)_
 
 ### [Iran starts new military exercises as tensions rise over its nuclear program. ](/news/2012/02/4/iran-starts-new-military-exercises-as-tensions-rise-over-its-nuclear-program.md)
-_Context: Iran, nuclear scientist_
+_Context: Iran, nuclear program_
 
 ### [Egypt's tax authority building in Cairo is set alight as protests against the continuation of military rule carry on. ](/news/2012/02/4/egypt-s-tax-authority-building-in-cairo-is-set-alight-as-protests-against-the-continuation-of-military-rule-carry-on.md)
 _Context: Cairo, Egypt_

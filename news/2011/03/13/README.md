@@ -40,7 +40,7 @@ _Context: Democratic Republic of the Congo, Joseph Kabila, President_
 _Context: 3 April presidential election, Chad, Chadian President, Idriss Deby_
 
 ### [The President of Pakistan Asif Ali Zardari asks the second largest Opposition party, the Pakistan Muslim League-Q, to join the Government. ](/news/2011/03/13/the-president-of-pakistan-asif-ali-zardari-asks-the-second-largest-opposition-party-the-pakistan-muslim-league-q-to-join-the-government.md)
-_Context: Asif Ali Zardari, Pakistan Muslim League-Q, President_
+_Context: Asif Ali Zardari, Pakistan Muslim League-Q, president_
 
 ## [Previous Day...](/news/2011/03/12/index.md)
 

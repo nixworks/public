@@ -13,7 +13,7 @@ _Context: Hamas, Nikah, Palestinian Authority, West Bank, political party_
 _Context: 21 July 2005 London bombings_
 
 ### [ The President of Pakistan, Pervez Musharraf, has announced that all foreign students (around 1,400) are to leave the nation's Madrassas and go home. ](/news/2005/07/29/the-president-of-pakistan-pervez-musharraf-has-announced-that-all-foreign-students-around-1-400-are-to-leave-the-nation-s-madrassas-and.md)
-_Context: Pervez Musharraf, President, madrassa_
+_Context: Pervez Musharraf, madrassa, president_
 
 ### [ Conflict in Iraq: At least 25 New Iraqi Army recruits have been killed following an apparent suicide bomb attack in Rabia, near Mosul, in North West Iraq. ](/news/2005/07/29/conflict-in-iraq-at-least-25-new-iraqi-army-recruits-have-been-killed-following-an-apparent-suicide-bomb-attack-in-rabia-near-mosul-in-n.md)
 _Context: Conflict in Iraq, Iraq, Iraqi army, Mosul, Rabia, recruits, suicide bomb_

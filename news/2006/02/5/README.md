@@ -4,7 +4,7 @@
 _Context: American football, Pittsburgh Steelers, Seattle Seahawks, Super Bowl&nbsp;XL_
 
 ### [ Iran resumes most of its nuclear program after it was voted to be referred to the United Nations Security Council. However it says that it is still open for renegotiation. ](/news/2006/02/5/iran-resumes-most-of-its-nuclear-program-after-it-was-voted-to-be-referred-to-the-united-nations-security-council-however-it-says-that-it.md)
-_Context: Iran, United Nations Security Council, nuclear scientist_
+_Context: Iran, United Nations Security Council, nuclear program_
 
 ### [ The Danish embassy in Beirut, Lebanon, is set on fire by protesters because of the continued controversy over the cartoons depicting the Muhammad, and rumors of Qur'an burnings in Denmark. ](/news/2006/02/5/the-danish-embassy-in-beirut-lebanon-is-set-on-fire-by-protesters-because-of-the-continued-controversy-over-the-cartoons-depicting-the-mu.md)
 _Context: Beirut, Denmark, Jyllands-Posten Muhammad cartoons controversy, Lebanon, Qur'an_

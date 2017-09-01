@@ -10,7 +10,7 @@ _Context: Ahmadiyya, Mandi Bahauddin, Pakistan, Punjab, Salah, mosque_
 _Context: Iraq, Marines_
 
 ### [ The UN International Atomic Energy Agency and its Director General Mohamed ElBaradei share the 2005 Nobel Peace Prize for their efforts to limit the spread of atomic weapons. ](/news/2005/10/7/the-un-international-atomic-energy-agency-and-its-director-general-mohamed-elbaradei-share-the-2005-nobel-peace-prize-for-their-efforts-to.md)
-_Context: International Atomic Energy Agency, Mohamed ElBaradei, Nobel Peace Prize, United Nations, nuclear warheads_
+_Context: IAEA, Mohamed ElBaradei, Nobel Peace Prize, United Nations, nuclear warheads_
 
 ### [ Three Hamas members are kidnapped from their homes in the West Bank. A group, supportive of the Palestinian National Authority, calling itself the "Omar Ben al-Khatib Warriors" claims responsibility for the kidnappings of the three, and one is later freed. ](/news/2005/10/7/three-hamas-members-are-kidnapped-from-their-homes-in-the-west-bank-a-group-supportive-of-the-palestinian-national-authority-calling-its.md)
 3 Hamas members kidnapped in West Bank following abduction of PA security man on Thursday. One person released early Friday.

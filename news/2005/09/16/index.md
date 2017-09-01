@@ -10,7 +10,7 @@ _Context: Friday Prayer, Gaza Strip, Hamas, Israeli settlement, Muslim, Palestin
 _Context: Nepal, journalist, protest_
 
 ### [ The President of Pakistan, Pervez Musharraf, has evoked outrage by suggesting that rape victims in Pakistan are part of a "money making concern". ](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-evoked-outrage-by-suggesting-that-rape-victims-in-pakistan-are-part-of-a-money-making-con.md)
-_Context: Pakistan, Pervez Musharraf, President, rape_
+_Context: Pakistan, Pervez Musharraf, president, rape_
 
 ### [ Hurricane Ophelia is downgraded to a tropical storm as it appears to head out to the Atlantic Ocean. ](/news/2005/09/16/hurricane-ophelia-is-downgraded-to-a-tropical-storm-as-it-appears-to-head-out-to-the-atlantic-ocean.md)
 _Context: Atlantic Ocean, Hurricane Ophelia, tropical storm_

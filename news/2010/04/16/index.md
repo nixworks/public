@@ -26,7 +26,7 @@ _Context: Goldman Sachs, SEC_
 _Context: Ehud Olmert, Israel, Israeli Prime Minister_
 
 ### [The United Nations commission investigating the events and circumstances surrounding the assassination of Benazir Bhutto submits its report which states that the murder was "avoidable" and the inquiry was bungled. ](/news/2010/04/16/the-united-nations-commission-investigating-the-events-and-circumstances-surrounding-the-assassination-of-benazir-bhutto-submits-its-report.md)
-_Context: 2007 assassination, United Nations_
+_Context: Assassination of Benazir Bhutto, United Nations_
 
 ### [At least ten people die and another 35 are wounded in a suicide attack on a hospital in Quetta. ](/news/2010/04/16/at-least-ten-people-die-and-another-35-are-wounded-in-a-suicide-attack-on-a-hospital-in-quetta.md)
 At least eight people killed and 35 wounded in explosion in Quetta in Balochistan province.

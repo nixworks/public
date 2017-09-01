@@ -10,7 +10,7 @@ Queenslanders are being warned to have enough supplies to last a couple of days 
 Jerusalem schools to close at noon ahead of expected flurries.
 
 ### [Members of the P5+1 powers meet with representatives of Iran in Geneva to discuss Iran's nuclear program. ](/news/2015/02/19/members-of-the-p5-1-powers-meet-with-representatives-of-iran-in-geneva-to-discuss-iran-s-nuclear-program.md)
-_Context: Geneva, Iran, nuclear scientist, several world powers_
+_Context: Geneva, Iran, nuclear program, several world powers_
 
 ### [Qatar withdraws its ambassador from Egypt following disagreement over Egyptian Air Force strikes against Islamic State targets in Libya after the execution of 21 Coptic Christian hostages by Islamic State. ](/news/2015/02/19/qatar-withdraws-its-ambassador-from-egypt-following-disagreement-over-egyptian-air-force-strikes-against-islamic-state-targets-in-libya-afte.md)
 _Context: Egypt, Egyptian Air Force, ISIL, Libya, Qatar, execution of 21 Coptic Christian_

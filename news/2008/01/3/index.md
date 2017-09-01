@@ -4,7 +4,7 @@
 _Context:  go to the polls, Democratic, Iowa, Republican, Vote, caucus_
 
 ### [ Benazir Bhutto assassination: President of Pakistan Pervez Musharraf denies any role in Benazir Bhutto's death. ](/news/2008/01/3/benazir-bhutto-assassination-president-of-pakistan-pervez-musharraf-denies-any-role-in-benazir-bhutto-s-death.md)
-_Context: Benazir Bhutto, Benazir Bhutto assassination, Pervez Musharraf, President_
+_Context: Benazir Bhutto, Benazir Bhutto assassination, Pervez Musharraf, president_
 
 ### [ The price of gold reaches a new record of $865.35 per troy ounce in the a.m. London Gold Fixing, breaking the previous high of 21 January 1980. ](/news/2008/01/3/the-price-of-gold-reaches-a-new-record-of-865-35-per-troy-ounce-in-the-a-m-london-gold-fixing-breaking-the-previous-high-of-21-january-1.md)
 _Context: Gold Fixing, gold, troy ounce_

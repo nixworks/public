@@ -1,7 +1,7 @@
 ## [2014-04-17](/news/2014/04/17/index.md)
 
 ### [The Pakistani Taliban announces that it will not extend a ceasefire with the Pakistani government. ](/news/2014/04/17/the-pakistani-taliban-announces-that-it-will-not-extend-a-ceasefire-with-the-pakistani-government.md)
-_Context: Tehrik-i-Taliban Pakistan, government_
+_Context: TTP, government_
 
 ### [Republic of Korea Coast Guard and Navy divers resume the search for 290 missing people from yesterday's ferry capsizing off the coast of the island of Jindo. ](/news/2014/04/17/republic-of-korea-coast-guard-and-navy-divers-resume-the-search-for-290-missing-people-from-yesterday-s-ferry-capsizing-off-the-coast-of-the.md)
 By Jungmin Jang and Narae Kim MOKPO/JINDO, South Korea (Reuters) - Rescuers struggled with strong waves and murky waters on Thursday as they searched for hundreds of people, most of them teenagers from the same school, still missing after a South Korean ferry capsized on Wednesday. The vessel, carry...

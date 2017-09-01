@@ -19,7 +19,7 @@ _Context: 148-year-old colonial law, Delhi High Court, New Delhi, homosexual int
 _Context: Defence Ministry, North Korea, South Korea_
 
 ### [ Japanese diplomat Yukiya Amano is elected Director General of the International Atomic Energy Agency. ](/news/2009/07/2/japanese-diplomat-yukiya-amano-is-elected-director-general-of-the-international-atomic-energy-agency.md)
-_Context: International Atomic Energy Agency, Japan, Yukiya Amano_
+_Context: IAEA, Japan, Yukiya Amano_
 
 ### [ The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. ](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strain-has-been-made-by-novartis-in-marburg-germany.md)
 _Context: Germany, H1N1, Marburg, Novartis, swine flu, vaccine_

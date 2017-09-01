@@ -76,7 +76,7 @@ Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#
 _Context: Ali Akbar Salehi, MPs, Mahmoud Ahmadinejad, Manouchehr Mottaki, President, foreign minister_
 
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
-_Context: Asif Ali Zardari, President, polio_
+_Context: Asif Ali Zardari, polio, president_
 
 ## [Previous Day...](/news/2011/01/22/index.md)
 

@@ -40,7 +40,7 @@ _Context: Cambodia, Thailand_
 _Context: Auschwitz-Birkenau concentration camp, Ban Ki-moon, East Jerusalem, Israel, Shepherd Hotel, United Nations_
 
 ### [Six world powers and Iran meet in Istanbul to talk about Iran's nuclear programme; Iran denies allegations it is developing nuclear weapons. ](/news/2011/01/21/six-world-powers-and-iran-meet-in-istanbul-to-talk-about-iran-s-nuclear-programme-iran-denies-allegations-it-is-developing-nuclear-weapons.md)
-_Context: Iran, Istanbul, nuclear scientist_
+_Context: Iran, Istanbul, nuclear program_
 
 ### [Almost 99% of South Sudanese voted for independence from the north in a referendum according to official figures. ](/news/2011/01/21/almost-99-of-south-sudanese-voted-for-independence-from-the-north-in-a-referendum-according-to-official-figures.md)
 _Context: Southern Sudan, Sudan, referendum_

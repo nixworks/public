@@ -31,7 +31,7 @@ _Context: HornAfrik, Mogadishu, Said Tahlil Ahmed, Somalia_
 With public spending being slashed some form of third level fees could be introduced.
 
 ### [ UN Secretary General Ban Ki-moon announces a commission to investigate the assassination of former Pakistani prime minister Benazir Bhutto. ](/news/2009/02/4/un-secretary-general-ban-ki-moon-announces-a-commission-to-investigate-the-assassination-of-former-pakistani-prime-minister-benazir-bhutto.md)
-_Context: 2007 assassination, Ban Ki-moon, Benazir Bhutto, Pakistan, UN Secretary General_
+_Context: Assassination of Benazir Bhutto, Ban Ki-moon, Benazir Bhutto, Pakistan, UN Secretary General_
 
 ### [ Fossils from Colombia reveal "Titanoboa cerrejonensis", the largest snake ever discovered. ](/news/2009/02/4/fossils-from-colombia-reveal-titanoboa-cerrejonensis-the-largest-snake-ever-discovered.md)
 _Context: Colombia, Titanoboa cerrejonensis_

@@ -10,7 +10,7 @@ _Context: Conoco Phillips, ExxonMobil Corporation, Orinoco Belt, PDVSA, Venezuel
 _Context: Egyptian President, Ehud Olmert, Hosni Mubarak, Israeli Prime Minister, Jordanian King, King Abdullah, Mahmoud Abbas, Palestinian Authority, President of the Palestinian Authority_
 
 ### [ Iran invites the International Atomic Energy Agency to Tehran to discuss its nuclear program. ](/news/2007/06/25/iran-invites-the-international-atomic-energy-agency-to-tehran-to-discuss-its-nuclear-program.md)
-_Context: International Atomic Energy Agency, Iran, Tehran_
+_Context: IAEA, Iran, Tehran_
 
 ### [ The United States Supreme Court issues three 5&ndash;4 split-decision rulings limiting student freedom of expression ](/news/2007/06/25/the-united-states-supreme-court-issues-three-5-ndash-4-split-decision-rulings-limiting-student-freedom-of-expression.md)
 _Context: United States Supreme Court, student freedom of expression_

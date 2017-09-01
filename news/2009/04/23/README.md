@@ -4,7 +4,7 @@
 _Context: General Motors, Mexico, United States, factory_
 
 ### [ The Taliban's Students' Movement captures Buner District in Pakistan. ](/news/2009/04/23/the-taliban-s-students-movement-captures-buner-district-in-pakistan.md)
-_Context: Buner District, Pakistan, Taliban, Tehrik-i-Taliban Pakistan, War in North-West Pakistan_
+_Context: Buner District, Pakistan, TTP, Taliban, War in North-West Pakistan_
 
 ### [ Judge Tomas Norstrom of The Pirate Bay's trial is revealed to be a member of the same copyright protection organizations as several entertainment industry representatives. ](/news/2009/04/23/judge-tomas-norstrapm-of-the-pirate-bay-s-trial-is-revealed-to-be-a-member-of-the-same-copyright-protection-organizations-as-several-entert.md)
 _Context: The Pirate Bay, copyright, entertainment industry, judge, trial_

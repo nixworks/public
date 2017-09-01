@@ -37,7 +37,7 @@ _Context: United States, Washington, Yakama Indian Reservation_
 Ross Dunkley, the Australian owner of English-language newspaper Myanmar Times, is arrested in Burma on an alleged immigration offence.
 
 ### [A Pakistani court issues an arrest warrant for former President Pervez Musharraf, alleging his involvement in the assassination of Benazir Bhutto. ](/news/2011/02/12/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-alleging-his-involvement-in-the-assassination-of-benazir-b.md)
-_Context: 2007 assassination, Pervez Musharraf, President, arrest warrant_
+_Context: Assassination of Benazir Bhutto, Pervez Musharraf, arrest warrant, president_
 
 ### [Tammy Marquardt's 1995 conviction for the murder of her 2-year-old epileptic son is quashed by the Ontario Court of Appeal, remedying a miscarriage of justice in Canada. ](/news/2011/02/12/tammy-marquardt-s-1995-conviction-for-the-murder-of-her-2-year-old-epileptic-son-is-quashed-by-the-ontario-court-of-appeal-remedying-a-misc.md)
 _Context: miscarriage of justice_

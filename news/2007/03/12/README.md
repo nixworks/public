@@ -25,7 +25,7 @@ _Context: Darfur, Human rights, Sudan, United Nations_
 _Context: Astronomers, Mars, Russia, released an object into orbit, spaceflight mission_
 
 ### [ Lawyers in Pakistan boycott courts in protest at President Pervez Musharraf's suspension of the country's Chief Justice Iftikhar Muhammad Chaudhry for alleged "misuse of authority". More than 20 lawyers were injured in clashes with police during demonstrations in Lahore. ](/news/2007/03/12/lawyers-in-pakistan-boycott-courts-in-protest-at-president-pervez-musharraf-s-suspension-of-the-country-s-chief-justice-iftikhar-muhammad-c.md)
-_Context: Iftikhar Muhammad Chaudhry, Lahore, Pakistan, Pervez Musharraf, President_
+_Context: Iftikhar Muhammad Chaudhry, Lahore, Pakistan, Pervez Musharraf, president_
 
 ### [ 2007 National People's Congress: After announcements in February that China's trade surplus is near a record high, in an open press conference, People's Bank of China Governor Zhou Xiaochuan and Minister of Commerce Bo Xilai were both vocal in their criticism towards the United States in a proposed 27.5% tariff, with Bo calling it "destructive to bilateral trade". ](/news/2007/03/12/2007-national-people-s-congress-after-announcements-in-february-that-china-s-trade-surplus-is-near-a-record-high-in-an-open-press-confere.md)
 The size of the surplus, $23.76 billion, surprised economists because Chinese exports tend to lag in the winter.

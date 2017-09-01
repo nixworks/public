@@ -19,7 +19,7 @@ Thousands of Egyptian riot police have clashed with Bedouin protesting against t
 _Context: Mahmoud Abbas, Moscow, Palestinian Authority President, Russia_
 
 ### [ International Atomic Energy Agency inspectors visit the Arak heavy-water reactor site in Iran. ](/news/2007/07/30/international-atomic-energy-agency-inspectors-visit-the-arak-heavy-water-reactor-site-in-iran.md)
-_Context: Arak, International Atomic Energy Agency, Iran_
+_Context: Arak, IAEA, Iran_
 
 ### [ The Chief Justice of the United States John Roberts is hospitalized after suffering a seizure at his summer home in Maine. ](/news/2007/07/30/the-chief-justice-of-the-united-states-john-roberts-is-hospitalized-after-suffering-a-seizure-at-his-summer-home-in-maine.md)
 _Context: Chief Justice, John G. Roberts, Jr., Maine_

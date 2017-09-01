@@ -19,7 +19,7 @@ Rescuers cut into upside-down hull of capsized Eastern Star in the Yangtze river
 At least 90 people killed after explosion in capital Accra, blamed on floodwater sweeping stored fuel into nearby fire.
 
 ### [Surgeons, led by Dr. Jesse Selber, working with the M.D. Anderson Cancer Center, in a 15-hour, 12-doctor operation, perform the world's first partial-skull and scalp transplant, at Houston Methodist Hospital, on 55-year-old Jim Boysten, a software developer from Austin, Texas suffering from a large head wound from cancer treatment; immediately afterward, he was finally able to receive a new kidney and pancreas, which replaced the previous transplants that were failing. ](/news/2015/06/4/surgeons-led-by-dr-jesse-selber-working-with-the-m-d-anderson-cancer-center-in-a-15-hour-12-doctor-operation-perform-the-world-s-firs.md)
-_Context: Austin, Texas, Houston Methodist Hospital, Jesse Selber, Jim Boysten, M.D. Anderson Cancer Center, kidney, pancreas_
+_Context: Austin, Texas, Houston Methodist San Jacinto Hospital, Jesse Selber, Jim Boysten, M.D. Anderson Cancer Center, kidney, pancreas_
 
 ### [ The number of people with Middle Eastern Respiratory Syndrome (MERS) in South Korea rises to 35 with over 700 schools suspending classes due to fears of the syndrome. ](/news/2015/06/4/the-number-of-people-with-middle-eastern-respiratory-syndrome-mers-in-south-korea-rises-to-35-with-over-700-schools-suspending-classes-du.md)
 _Context: 2015 Middle East respiratory syndrome coronavirus outbreak in South Korea, Middle Eastern Respiratory Syndrome, South Korea_

@@ -25,7 +25,7 @@ _Context: Riegelwood, North Carolina, Southern United States, as a tornado hits,
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Mirza Tahir Hussain, a British citizen sentenced to death in Pakistan, has his sentence commuted to life imprisonment after intervention by the President of Pakistan, Pervez Musharraf. ](/news/2006/11/16/mirza-tahir-hussain-a-british-citizen-sentenced-to-death-in-pakistan-has-his-sentence-commuted-to-life-imprisonment-after-intervention-by.md)
-_Context: Mirza Tahir Hussain, Pakistan, Pervez Musharraf, President, life imprisonment_
+_Context: Mirza Tahir Hussain, Pakistan, Pervez Musharraf, life imprisonment, president_
 
 ### [ The Chinese Government unblocks Wikipedia in China after banning the website for a year. ](/news/2006/11/16/the-chinese-government-unblocks-wikipedia-in-china-after-banning-the-website-for-a-year.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

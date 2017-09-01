@@ -19,7 +19,7 @@ _Context: Andranik Margaryan, Armenia, Prime Minister, heart attack_
 _Context: Darfur, John Holmes, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations_
 
 ### [ Iran announces that it is partially suspending cooperation with the United Nations International Atomic Energy Agency and will no longer advise it of new steps taken in its nuclear program. ](/news/2007/03/25/iran-announces-that-it-is-partially-suspending-cooperation-with-the-united-nations-international-atomic-energy-agency-and-will-no-longer-ad.md)
-_Context: International Atomic Energy Agency, Iran, United Nations, nuclear scientist_
+_Context: IAEA, Iran, United Nations, nuclear program_
 
 ### [ UK says requests for access to 15 Royal Navy personnel held by Iran have been denied. ](/news/2007/03/25/uk-says-requests-for-access-to-15-royal-navy-personnel-held-by-iran-have-been-denied.md)
 _Context: Iran, Royal Navy, UK, held captive by Iran_

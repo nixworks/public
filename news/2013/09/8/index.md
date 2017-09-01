@@ -22,7 +22,7 @@ Kremlin ally Sergei Sobyanin won 57.7 won percent of the votes in a Moscow mayor
 _Context: Mayor of Tehran, Mohammad-Bagher Ghalibaf, reelected_
 
 ### [The President of Pakistan, Asif Ali Zardari has a farewell ceremony after the completion of his five year term. He will be replaced by Mamnoon Hussain. ](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a-farewell-ceremony-after-the-completion-of-his-five-year-term-he-will-be-replaced-by-mamno.md)
-_Context: Asif Ali Zardari, Mamnoon Hussain, President_
+_Context: Asif Ali Zardari, Mamnoon Hussain, president_
 
 ## [Previous Day...](/news/2013/09/7/index.md)
 

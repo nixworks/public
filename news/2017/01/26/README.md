@@ -22,7 +22,7 @@ Greece rules against extraditing eight soldiers that Turkey accuses of involveme
 Switzerland has detained former Gambian interior minister Ousman Sonko, who is accused of committing grave abuses under the regime of ousted president Yahya Jammeh.
 
 ### [Patrick F. Kennedy, Joyce Anne Barr, Michele Thoren Bond and Gentry O. Smith resign from the United States Department of State, after Victoria Nuland and Gregory B. Starr had declined to stay on in the Donald Trump administration. ](/news/2017/01/26/patrick-f-kennedy-joyce-anne-barr-michele-thoren-bond-and-gentry-o-smith-resign-from-the-united-states-department-of-state-after-victor.md)
-_Context: Donald Trump, Gentry O. Smith, Gregory B. Starr, Joyce Anne Barr, Michele Thoren Bond, Patrick F. Kennedy, United States State Department, Victoria Nuland_
+_Context: Donald Trump, Gentry O. Smith, Gregory B. Starr, Joyce Anne Barr, Michele Thoren Bond, Patrick F. Kennedy, State Department, Victoria Nuland_
 
 ### [Gambian President Adama Barrow returns to the Gambia after being sworn in as president in Senegal, bringing an end to the country's political crisis. ](/news/2017/01/26/gambian-president-adama-barrow-returns-to-the-gambia-after-being-sworn-in-as-president-in-senegal-bringing-an-end-to-the-country-s-politica.md)
 Return ends anxious wait after crisis sparked by predecessor Yahya Jammeh’s refusal to step down

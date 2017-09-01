@@ -1,7 +1,7 @@
 ## [2008-05-26](/news/2008/05/26/index.md)
 
 ### [ The International Atomic Energy Agency releases a report accusing Iran of hiding information about alleged studies of producing nuclear warheads and defying demands to suspend its uranium enrichment. ](/news/2008/05/26/the-international-atomic-energy-agency-releases-a-report-accusing-iran-of-hiding-information-about-alleged-studies-of-producing-nuclear-war.md)
-_Context: International Atomic Energy Agency, Iran, nuclear scientist, nuclear warheads_
+_Context: IAEA, Iran, nuclear program, nuclear warheads_
 
 ### [ China relaxes its one-child policy to allow parents of children killed in the 2008 Sichuan earthquake to have another child. ](/news/2008/05/26/china-relaxes-its-one-child-policy-to-allow-parents-of-children-killed-in-the-2008-sichuan-earthquake-to-have-another-child.md)
 _Context: China, deadly earthquake, one-child policy_

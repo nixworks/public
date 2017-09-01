@@ -34,7 +34,7 @@ UN Secretary General Ban Ki-moon urges African leaders to respect gay rights in 
 _Context: Hamas, Khaled Meshaal, King Abdullah_
 
 ### [International Atomic Energy Agency (IAEA) inspectors begin a three-day visit to Iran. ](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.md)
-_Context: International Atomic Energy Agency, Iran_
+_Context: IAEA, Iran_
 
 ### [Bangladesh and India sign a deal to build a US$1.5 billion power plant. ](/news/2012/01/29/bangladesh-and-india-sign-a-deal-to-build-a-us-1-5-billion-power-plant.md)
 _Context: Bangladesh, India_

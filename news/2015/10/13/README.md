@@ -22,7 +22,7 @@ SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super
 _Context: Japan, Marines, Okinawa, Takeshi Onaga, relocate MCAS Futenma to Henoko Bay in Nago_
 
 ### [Iran's Islamic Consultative Assembly approves the deal on its nuclear program agreed with six world powers. ](/news/2015/10/13/iran-s-islamic-consultative-assembly-approves-the-deal-on-its-nuclear-program-agreed-with-six-world-powers.md)
-_Context: Iran, Islamic Consultative Assembly, Joint Comprehensive Plan of Action, nuclear scientist_
+_Context: Iran, Islamic Consultative Assembly, Joint Comprehensive Plan of Action, nuclear program_
 
 ### [The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and express strong concerns at China's construction of artificial islands in the disputed waters. ](/news/2015/10/13/the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-the-waters-of-the-south-china-sea-and-express-s.md)
 The United States and its Pacific ally Australia warned China on Tuesday that they remain committed to freedom of navigation in the waters of the South China Sea.

@@ -19,7 +19,7 @@ _Context: Barack Obama, Kenya, Mwai Kibaki, President, president_
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.
 
 ### [ Iranian President Mahmoud Ahmadinejad rejects U.S. President Barack Obama's accusation about Iran's nuclear program. ](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.md)
-_Context: Barack Obama, Mahmoud Ahmadinejad, President, U.S. President, nuclear scientist_
+_Context: Barack Obama, Mahmoud Ahmadinejad, President, U.S. President, nuclear program_
 
 ### [ Families separated for over 50 years since the Korean War meet at the Kumgangsan resort, North Korea. ](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.md)
 _Context: Korean War, Mount Kumgang resort, North Korea_

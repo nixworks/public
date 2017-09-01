@@ -10,7 +10,7 @@ Full Coverage of the Rio 2016 Olympics on Yahoo Sports. Get the schedule, medal 
 _Context: Dmitry Medvedev, Georgian, Moscow, Russia, Russian President Vladimir Putin_
 
 ### [ Pakistani President Pervez Musharraf, who was facing impeachment, announces his resignation as President. Indirect presidential elections will be held within 30 days. ](/news/2008/08/18/pakistani-president-pervez-musharraf-who-was-facing-impeachment-announces-his-resignation-as-president-indirect-presidential-elections-w.md)
-_Context: Indirect presidential elections, Pakistan, Pakistan Presidential Impeachment, Pervez Musharraf, President, impeach_
+_Context: Indirect presidential elections, Pakistan, Pakistan Presidential Impeachment, Pervez Musharraf, impeach, president_
 
 ### [ A US-Poland agreement to deploy a missile defense shield prompts unnamed Russian officials to declare Poland "a legitimate military target" and the deputy of the Russian general staff states that Poland "opens itself to a nuclear strike". ](/news/2008/08/18/a-us-poland-agreement-to-deploy-a-missile-defense-shield-prompts-unnamed-russian-officials-to-declare-poland-a-legitimate-military-target.md)
 _Context: Poland-United States relations, nuclear programme_

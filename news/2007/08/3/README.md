@@ -49,7 +49,7 @@ Monsoon floods have forced almost 20 million people out of their homes in northe
 _Context: Ankara, Istanbul, Turkey, rationing water, reservoirs_
 
 ### [ The Supreme Court of Pakistan frees Javed Hashmi, the leader of the Alliance for the Restoration of Democracy and Pakistan Muslim League faction leader, who was jailed in 2003 for writing a letter critical of the President of Pakistan Pervez Musharraf. ](/news/2007/08/3/the-supreme-court-of-pakistan-frees-javed-hashmi-the-leader-of-the-alliance-for-the-restoration-of-democracy-and-pakistan-muslim-league-fa.md)
-_Context: Javed Hashmi, Pakistan Muslim League, Pervez Musharraf, President, Supreme Court_
+_Context: Javed Hashmi, Pakistan Muslim League, Pervez Musharraf, Supreme Court, president_
 
 ### [ Rebel groups in Darfur hold meetings in Tanzania jointly mediated by the United Nations and the African Union to resolve disputes. ](/news/2007/08/3/rebel-groups-in-darfur-hold-meetings-in-tanzania-jointly-mediated-by-the-united-nations-and-the-african-union-to-resolve-disputes.md)
 _Context: African Union, Darfur, Tanzania, United Nations_

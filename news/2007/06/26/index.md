@@ -13,7 +13,7 @@ The CIA worked with three American mobsters in a botched &quot;gangster-type&quo
 _Context: Conservative Party, Gordon Brown, Labour, MP, Prime Minister, Quentin Davies_
 
 ### [ An International Atomic Energy Agency team heads to North Korea to see if Pyongyang's nuclear reactor has been shut down. ](/news/2007/06/26/an-international-atomic-energy-agency-team-heads-to-north-korea-to-see-if-pyongyang-s-nuclear-reactor-has-been-shut-down.md)
-_Context: International Atomic Energy Agency, North Korea, Pyongyang, nuclear reactor_
+_Context: IAEA, North Korea, Pyongyang, nuclear reactor_
 
 ### [ Tony Blair and Arnold Schwarzenegger hold talks at 10 Downing Street on Blair's last day as Prime Minister; the environment and climate change are the primary issue. ](/news/2007/06/26/tony-blair-and-arnold-schwarzenegger-hold-talks-at-10-downing-street-on-blair-s-last-day-as-prime-minister-the-environment-and-climate-cha.md)
 _Context: 10 Downing Street, Arnold Schwarzenegger, Prime Minister, Tony Blair, climate change_

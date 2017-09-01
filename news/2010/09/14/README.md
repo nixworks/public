@@ -13,7 +13,7 @@ _Context: Gaza Strip, Israel Defense Forces, Palestinian, missiles, rocket-prope
 _Context: Champ de Mars, Eiffel Tower, French police_
 
 ### [Kia Motors suspends exports to Iran partly in response to South Korea's sanctions against Iran's nuclear program. ](/news/2010/09/14/kia-motors-suspends-exports-to-iran-partly-in-response-to-south-korea-s-sanctions-against-iran-s-nuclear-program.md)
-_Context: Iran, Kia, nuclear scientist, sanctions_
+_Context: Iran, Kia, nuclear program, sanctions_
 
 ### [Virgin Blue fights for approval of its transtasman alliance with Air New Zealand. ](/news/2010/09/14/virgin-blue-fights-for-approval-of-its-transtasman-alliance-with-air-new-zealand.md)
 Virgin Blue will keep fighting for approval of its transtasman alliance with Air New Zealand despite a knock-back from regulators, according to chief executive John Borghetti. - New Zealand Herald

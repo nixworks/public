@@ -40,7 +40,7 @@ _Context: Ha Tinh Province, Vietnam_
 _Context: Mexico, Santiago de Queretaro_
 
 ### [The U.S. government has concluded that Chinese companies are bypassing UN sanctions on Iran and helping Iran to improve its missile technology and develop nuclear weapons, and has asked China to stop such activity. ](/news/2010/10/18/the-u-s-government-has-concluded-that-chinese-companies-are-bypassing-un-sanctions-on-iran-and-helping-iran-to-improve-its-missile-technolo.md)
-_Context: U.S. government, ban on ballistic missile tests, nuclear scientist_
+_Context: U.S. government, ban on ballistic missile tests, nuclear program_
 
 ### [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md)
 _Context: Rwanda, UN Security Council, United States, Victoire Ingabire_

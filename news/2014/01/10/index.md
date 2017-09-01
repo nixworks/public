@@ -10,7 +10,7 @@ _Context: Closer, Francois Hollande, Julie Gayet, tabloid_
 President Michel Djotodia resigns as he is unable to stop the ethnic fighting in CAR
 
 ### [A car bombing in Karachi, Pakistan, kills Chaudhry Aslam Khan, a senior police investigator known for pursuing Pakistani Taliban militants; two other officers with him were also killed. ](/news/2014/01/10/a-car-bombing-in-karachi-pakistan-kills-chaudhry-aslam-khan-a-senior-police-investigator-known-for-pursuing-pakistani-taliban-militants.md)
-_Context: Chaudhry Aslam Khan, Karachi, Pakistan, Tehrik-i-Taliban Pakistan_
+_Context: Chaudhry Aslam Khan, Karachi, Pakistan, TTP_
 
 ### [The Kenyan Air Force bombs a suspected militant camp in Garbahaareey, Somalia, killing 30 militants. ](/news/2014/01/10/the-kenyan-air-force-bombs-a-suspected-militant-camp-in-garbahaareey-somalia-killing-30-militants.md)
 _Context: Garbahaareey, Kenyan Air Force, Somalia_

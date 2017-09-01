@@ -34,7 +34,7 @@ _Context: Catao, Puerto Rico, oil refinery fire_
 _Context: Euromast, Europe, Groningen, Martinitoren, Netherlands, Rotterdam, St. Martin's Cathedral, Utrecht_
 
 ### [ Inspectors from the United Nations' nuclear watchdog, the International Atomic Energy Agency (IAEA), arrive in Iran to inspect a newly disclosed nuclear facility near the city of Qom. ](/news/2009/10/25/inspectors-from-the-united-nations-nuclear-watchdog-the-international-atomic-energy-agency-iaea-arrive-in-iran-to-inspect-a-newly-disc.md)
-_Context: International Atomic Energy Agency, Iran, Qom, United Nations_
+_Context: IAEA, Iran, Qom, United Nations_
 
 ### [ It is revealed that composer Andrew Lloyd Webber has been diagnosed with prostate cancer. ](/news/2009/10/25/it-is-revealed-that-composer-andrew-lloyd-webber-has-been-diagnosed-with-prostate-cancer.md)
 _Context: Andrew Lloyd Webber, prostate cancer_

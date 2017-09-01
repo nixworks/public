@@ -19,7 +19,7 @@ _Context: California, Disney Animation, Roy E. Disney, United States_
 _Context: Kosovo, Kosovo, Malawi_
 
 ### [ The Supreme Court of Pakistan declares NRO as unconstitutional, paving way for the reopening of the corruption cases involving the President and other senior officials. ](/news/2009/12/16/the-supreme-court-of-pakistan-declares-nro-as-unconstitutional-paving-way-for-the-reopening-of-the-corruption-cases-involving-the-presiden.md)
-_Context: President, Supreme Court, amnesty protecting him_
+_Context: Supreme Court, amnesty protecting him, president_
 
 ### [ Archaeologists in Jerusalem say they have discovered a burial shroud from around the time of Jesus in a tomb. ](/news/2009/12/16/archaeologists-in-jerusalem-say-they-have-discovered-a-burial-shroud-from-around-the-time-of-jesus-in-a-tomb.md)
 Scientists have found an ancient burial shroud in Jerusalem which they say is very different from the renowned Shroud of Turin&hellip;

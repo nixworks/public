@@ -13,7 +13,7 @@ _Context: World Health Organization, pandemic H1N1/09 virus_
 _Context: Bangladesh, Tetulia, ferry accident_
 
 ### [ The International Atomic Energy Agency passes a resolution 25-3 condemning Iran for developing a secret uranium enrichment site. ](/news/2009/11/27/the-international-atomic-energy-agency-passes-a-resolution-25-3-condemning-iran-for-developing-a-secret-uranium-enrichment-site.md)
-_Context: International Atomic Energy Agency, Iran, developing, uranium enrichment_
+_Context: IAEA, Iran, developing, uranium enrichment_
 
 ### [ Vanuatu's Prime Minister Edward Natapei loses his parliamentary seat after he missed three consecutive sittings without submitting an explanation. ](/news/2009/11/27/vanuatu-s-prime-minister-edward-natapei-loses-his-parliamentary-seat-after-he-missed-three-consecutive-sittings-without-submitting-an-expla.md)
 _Context: Edward Natapei, Vanuatu_

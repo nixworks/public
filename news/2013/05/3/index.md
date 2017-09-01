@@ -28,7 +28,7 @@ The wildfire burning through Ventura County has scorched 28,000 acres, and firef
 There has been mixed reaction over the Brian Shivers not guilty verdict.
 
 ### [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md)
-_Context: Benazir Bhutto, Federal Investigation Agency, Islamabad, Pakistan, Pervez Musharraf, President_
+_Context: Benazir Bhutto, Federal Investigation Agency, Islamabad, Pakistan, Pervez Musharraf, president_
 
 ### [Daryl Washington, an American football player with the Arizona Cardinals, is arrested on aggravated assault charges in Phoenix, Arizona. ](/news/2013/05/3/daryl-washington-an-american-football-player-with-the-arizona-cardinals-is-arrested-on-aggravated-assault-charges-in-phoenix-arizona.md)
 _Context: Arizona Cardinals, Daryl Washington, NFL, Phoenix, Arizona_

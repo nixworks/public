@@ -16,7 +16,7 @@ _Context: (Wikinews), Arctic Ocean, HMS ''Tireless'', Royal Navy, nuclear submar
 _Context: Condoleezza Rice, George W. Bush, Hamas, Palestinian National Authority, United States Secretary of State, administration_
 
 ### [ Supreme Leader of Iran Ayatollah Ali Khamenei warns that Iran will pursue nuclear development outside regulations if the United Nations Security Council imposes sanctions. ](/news/2007/03/21/supreme-leader-of-iran-ayatollah-ali-khamenei-warns-that-iran-will-pursue-nuclear-development-outside-regulations-if-the-united-nations-sec.md)
-_Context: Ali Khamenei, Ayatollah, Iran, Supreme Leader of Iran, United Nations Security Council, nuclear scientist_
+_Context: Ali Khamenei, Ayatollah, Iran, Supreme Leader of Iran, United Nations Security Council, nuclear program_
 
 ### [ A labour strike in Israel led by union Histadrut shuts down all government offices and transportation. ](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.md)
 _Context: Histadrut, Israel, strike, unionize_

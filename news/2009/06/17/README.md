@@ -25,7 +25,7 @@ _Context: Al-Shabaab, Mogadishu, Transitional Federal Government, declares_
 _Context: Communist Party of India-Marxist, Maoist, West Bengal_
 
 ### [ Indian Prime Minister Manmohan Singh meets with Pakistani President Asif Ali Zardari. ](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.md)
-_Context: Asif Ali Zardari, India, India's Prime Minister, Manmohan Singh, Pakistan, President_
+_Context: Asif Ali Zardari, India, India's Prime Minister, Manmohan Singh, Pakistan, president_
 
 ### [ The Peruvian government is to revoke land laws that resulted in deadly clashes with indigenous protesters in the Amazon. ](/news/2009/06/17/the-peruvian-government-is-to-revoke-land-laws-that-resulted-in-deadly-clashes-with-indigenous-protesters-in-the-amazon.md)
 _Context: Amazon rainforest, Government of Peru, Peru, deadly clashes_

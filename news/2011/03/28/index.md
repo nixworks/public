@@ -25,7 +25,7 @@ _Context: Jetta, Volkswagen, sedans_
 _Context: Fukushima I Nuclear Power Plant, Fukushima I nuclear accidents_
 
 ### [The International Atomic Energy Agency calls a summit in Vienna to tackle concerns about nuclear safety following the Fukushima crisis. ](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.md)
-_Context: Fukushima Daiichi nuclear disaster, International Atomic Energy Agency, Vienna_
+_Context: Fukushima Daiichi nuclear disaster, IAEA, Vienna_
 
 ### [More than 500 Ethiopian and Somalian migrants arrive in Malta from Libya. ](/news/2011/03/28/more-than-500-ethiopian-and-somalian-migrants-arrive-in-malta-from-libya.md)
 A group of 515 Somali andEritrean migrants landed in Malta on Monday having travelledfrom Libya, the Maltese armed forces said.

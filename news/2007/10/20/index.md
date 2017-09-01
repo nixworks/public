@@ -34,7 +34,7 @@ _Context: Bashar al-Assad, Iraq, Iraqi Kurdistan, Jalal Talabani, Kurdistan Work
 _Context: Mikhail Gorbachev, Russia, Union of Social-Democrats, political party_
 
 ### [ Saeed Jalili replaces Ali Larijani as Iran's nuclear negotiator. ](/news/2007/10/20/saeed-jalili-replaces-ali-larijani-as-iran-s-nuclear-negotiator.md)
-_Context: Ali Larijani, Iran, Saeed Jalili, negotiation, nuclear scientist_
+_Context: Ali Larijani, Iran, Saeed Jalili, negotiation, nuclear program_
 
 ### [ At least seven people die in a bomb blast in the town of Dera Bugti in the Balochistan province of Pakistan. ](/news/2007/10/20/at-least-seven-people-die-in-a-bomb-blast-in-the-town-of-dera-bugti-in-the-balochistan-province-of-pakistan.md)
 _Context: Balochistan, Dera Bugti, Pakistan, bomb_

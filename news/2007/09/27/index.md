@@ -25,7 +25,7 @@ _Context: The Global Fund to Fight AIDS, Tuberculosis and Malaria, US$_
 _Context: Afghanistan's, International Red Cross, Wardak province_
 
 ### [ President of Pakistan Pervez Musharraf files nomination for the upcoming Pakistan Presidential Election to be held on October 6, 2007 election without his army rank. ](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-nomination-for-the-upcoming-pakistan-presidential-election-to-be-held-on-october-6-2007-elect.md)
-_Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, President_
+_Context: 2007 Pakistani presidential election, Pakistan, Pervez Musharraf, president_
 
 ### [ A new round of talks aimed at ending North Korea's nuclear program starts in Beijing. ](/news/2007/09/27/a-new-round-of-talks-aimed-at-ending-north-korea-s-nuclear-program-starts-in-beijing.md)
 _Context: Beijing, intercontinental ballistic_

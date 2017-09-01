@@ -13,7 +13,7 @@ _Context: Afghanistan's, British Army, Gerishk District, Helmand Province, Unite
 _Context: Beijing, China, Tiananmen Square, sets herself alight_
 
 ### [ Iran tests its first nuclear power plant at Bushehr. ](/news/2009/02/25/iran-tests-its-first-nuclear-power-plant-at-bushehr.md)
-_Context: Bushehr, Bushehr power plant, Iran, nuclear scientist_
+_Context: Bushehr, Bushehr power plant, Iran, nuclear program_
 
 ### [ Turkish Airlines Flight 1951 crashes at Amsterdam's Schiphol Airport, killing nine people and injuring 84. ](/news/2009/02/25/turkish-airlines-flight-1951-crashes-at-amsterdam-s-schiphol-airport-killing-nine-people-and-injuring-84.md)
 _Context: Amsterdam, Amsterdam Airport Schiphol, Flight 1951, Turkish Airlines_
@@ -43,7 +43,7 @@ _Context: Belgrade, Milorad Ulemek, Serbia, aiding, assassinated, officer_
 _Context: Japan, export_
 
 ### [ The U.S. State Department criticizes China's human rights record. ](/news/2009/02/25/the-u-s-state-department-criticizes-china-s-human-rights-record.md)
-_Context: China, Chinese human rights, United States, United States State Department_
+_Context: China, Chinese human rights, State Department, United States_
 
 ### [ Islamist terrorist group Al-Shabaab seizes Hudur, Somalia. ](/news/2009/02/25/islamist-terrorist-group-al-shabaab-seizes-hudur-somalia.md)
 _Context: Al-Shabaab, Somali Civil War, Somalia, radical Islamists, terrorism_

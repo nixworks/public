@@ -10,7 +10,7 @@ _Context: Pakistan, South Waziristan_
 _Context: 1980, Beatle, John Lennon, Mark David Chapman_
 
 ### [ The United States Department of the Treasury imposes sanctions on five Iranian companies for assisting the development of the nuclear program of Iran. ](/news/2008/08/12/the-united-states-department-of-the-treasury-imposes-sanctions-on-five-iranian-companies-for-assisting-the-development-of-the-nuclear-progr.md)
-_Context: Iran, United States Treasury Department, nuclear scientist_
+_Context: Iran, United States Treasury Department, nuclear program_
 
 ### [ President of Russia Dmitry Medvedev announced that the operation of Russian forces in South Ossetia is completed. He added that 'The aggressor has been punished, having sustained considerable losses. Its armed forces have been disorganised'. Medvedev also ordered the Russian Ministry of Defence to consider awarding the peacekeepers and military personnel that have 'showed their best' during the operation. ](/news/2008/08/12/president-of-russia-dmitry-medvedev-announced-that-the-operation-of-russian-forces-in-south-ossetia-is-completed-he-added-that-the-aggres.md)
 _Context:  peacekeepers, 2008 South Ossetia war, Battle of Tskhinvali, Dmitry Medvedev, Russian Ministry of Defence, Russian President Vladimir Putin_

@@ -10,7 +10,7 @@ _Context: Boeing, Boeing 787, Federal Aviation Administration, lithium-ion batte
 _Context: Balkan, Belgrade, European Union, European Union candidacy, Kosovo, Serbia_
 
 ### [Former Pakistani President Pervez Musharraf is arrested at his home on charges relating to unlawful detention of judges in 2007. He was present at the court when the arrest warrant was issued on Thursday, but had left before the warrant was served. ](/news/2013/04/19/former-pakistani-president-pervez-musharraf-is-arrested-at-his-home-on-charges-relating-to-unlawful-detention-of-judges-in-2007-he-was-pres.md)
-_Context: Pakistan, Pervez Musharraf, President, unlawful detention of judges_
+_Context: Pakistan, Pervez Musharraf, president, unlawful detention of judges_
 
 ### [A court in India sentences Mirza Himayat Baig to death for plotting the 2010 Pune bombing of a bakery which killed 17 people in Pune. ](/news/2013/04/19/a-court-in-india-sentences-mirza-himayat-baig-to-death-for-plotting-the-2010-pune-bombing-of-a-bakery-which-killed-17-people-in-pune.md)
 A court in India sentences a man to death for plotting a bomb blast at a German bakery in the western city of Pune in 2010.

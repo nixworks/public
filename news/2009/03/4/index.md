@@ -19,7 +19,7 @@ _Context: China, military budget_
 _Context: Hillary Clinton, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority, United States, United States Secretary of State, West Bank_
 
 ### [ President Asif Ali Zardari says Pakistan will not negotiate with the "extremist Taliban and terrorists." ](/news/2009/03/4/president-asif-ali-zardari-says-pakistan-will-not-negotiate-with-the-extremist-taliban-and-terrorists.md)
-_Context: Asif Ali Zardari, Pakistan, President, Taliban, extremist, negotiation, terrorism_
+_Context: Asif Ali Zardari, Pakistan, Taliban, extremist, negotiation, president, terrorism_
 
 ### [ The International Committee of the Red Cross warns of an impending humanitarian crisis in northeastern Sri Lanka as civil war continues. ](/news/2009/03/4/the-international-committee-of-the-red-cross-warns-of-an-impending-humanitarian-crisis-in-northeastern-sri-lanka-as-civil-war-continues.md)
 _Context: International Committee of the Red Cross, Sri Lanka, Sri Lankan Civil War, humanitarian crisis_

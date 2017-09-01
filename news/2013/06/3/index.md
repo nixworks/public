@@ -37,7 +37,7 @@ _Context: Cebu Pacific, Davao City, Manila, Philippines_
 Former US president Bill Clinton has been paid $500,000 for a speech to be given at an event in honour of Israeli President Shimon Peres, sources told X...
 
 ### [Ali Asghar Soltanieh, Iran's Ambassador to the International Atomic Energy Agency (IAEA), says the agency's latest report verifies that Iran is having "technical and scientific success in its peaceful nuclear activities" and that this is "an important message to the whole world". ](/news/2013/06/3/ali-asghar-soltanieh-iran-s-ambassador-to-the-international-atomic-energy-agency-iaea-says-the-agency-s-latest-report-verifies-that-iran.md)
-_Context: Ali Asghar Soltanieh, International Atomic Energy Agency_
+_Context: Ali Asghar Soltanieh, IAEA_
 
 ### [Park Geun-Hye, the President of South Korea, warns North Korea that it will be held responsible for the fate of nine young asylum seekers repatriated from Laos. ](/news/2013/06/3/park-geun-hye-the-president-of-south-korea-warns-north-korea-that-it-will-be-held-responsible-for-the-fate-of-nine-young-asylum-seekers-re.md)
 _Context: Laos, North Korea, Park Geun-hye, President of South Korea, asylum seeker_

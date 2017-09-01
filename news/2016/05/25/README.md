@@ -13,7 +13,7 @@ At least five die as Italian navy rescues 562 people, taking the total transferr
 Detained Ukrainian servicewoman Nadiya Savchenko is on board a plane returning to Ukraine from Russia, a source close to a deal to swap the pilot for two Russians held by Kiev said on Wednesday.
 
 ### [In the United States, Hillary Clinton is criticized by the State Department's inspector general for her usage of a private email server while she was secretary of state. The finding also concluded though that former secretary of state Colin Powell also had a private email server, as did former ambassador to Kenya Scott Gration. The inspector referred to the email server usage as "longstanding systemic weaknesses". ](/news/2016/05/25/in-the-united-states-hillary-clinton-is-criticized-by-the-state-departmentas-inspector-general-for-her-usage-of-a-private-email-server-wh.md)
-_Context: Colin Powell, Hillary Clinton, Scott Gration, United States Secretary of State, United States State Department, email server_
+_Context: Colin Powell, Hillary Clinton, Scott Gration, State Department, United States Secretary of State, email server_
 
 ## [Previous Day...](/news/2016/05/24/index.md)
 

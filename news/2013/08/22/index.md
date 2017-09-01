@@ -1,7 +1,7 @@
 ## [2013-08-22](/news/2013/08/22/index.md)
 
 ### [5 Taliban militants are killed in bomb attack in South Waziristan. ](/news/2013/08/22/5-taliban-militants-are-killed-in-bomb-attack-in-south-waziristan.md)
-_Context: South Waziristan, Tehrik-i-Taliban Pakistan_
+_Context: South Waziristan, TTP_
 
 ### [Fourteen people are killed by a suicide bomber in a military headquarters in Western Iraq. ](/news/2013/08/22/fourteen-people-are-killed-by-a-suicide-bomber-in-a-military-headquarters-in-western-iraq.md)
 A suicide bomber drove a vehicle packed with explosives to a military headquarters in western Iraq and blew himself up outside it on Thursday, killing at least 14 people, police said.

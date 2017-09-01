@@ -7,7 +7,7 @@ _Context: New Orleans, Ray Nagin, Thad Allen, Vice Admiral_
 _Context: Baghdad, Faris Hussein, Iraq, Iraqi insurgency, Kurd, MP, capital_
 
 ### [ President of Pakistan, Pervez Musharraf, addresses the American Jewish Congress, the first leader of a Muslim nation not recognizing Israel to do so. He broke bread and led salat from the Quran. ](/news/2005/09/18/president-of-pakistan-pervez-musharraf-addresses-the-american-jewish-congress-the-first-leader-of-a-muslim-nation-not-recognizing-israel.md)
-_Context: Israel, Pervez Musharraf, President, Quran, Salah_
+_Context: Israel, Pervez Musharraf, Quran, Salah, president_
 
 ### [ Taliban fighters launch a series of attacks as Afghans vote in the Afghan parliamentary election, 2005, the first legislative elections in Afghanistan in decades. ](/news/2005/09/18/taliban-fighters-launch-a-series-of-attacks-as-afghans-vote-in-the-afghan-parliamentary-election-2005-the-first-legislative-elections-in.md)
 _Context: Afghan parliamentary election, 2005, Afghanistan's, Taliban_

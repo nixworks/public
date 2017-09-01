@@ -13,7 +13,7 @@ Get the scoop on the latest music industry news in the Newsday Music section. Ch
 Unidentified North Koreans holding 29 Chinese fishermen and three boats seized in the Yellow Sea demand payment for their release, Chinese media reports.
 
 ### [Daniel B. Shapiro, United States ambassador to Israel, says that the United States "is ready" to attack Iran to prevent the development of nuclear weapons within Iran. ](/news/2012/05/17/daniel-b-shapiro-united-states-ambassador-to-israel-says-that-the-united-states-is-ready-to-attack-iran-to-prevent-the-development-of-n.md)
-_Context: Daniel B. Shapiro, Iran, Israel, nuclear scientist_
+_Context: Daniel B. Shapiro, Iran, Israel, nuclear program_
 
 ### [The trial of former Bosnian Serb Army Colonel General Ratko Mladic is deferred indefinitely due to errors by prosecutors in disclosing evidence to the defence. ](/news/2012/05/17/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-is-deferred-indefinitely-due-to-errors-by-prosecutors-in-disclosing-evid.md)
 The presiding judge in the U.N. trial of Gen. Ratko Mladic has delayed indefinitely the presentation of evidence that had been scheduled to start later this month due to &quot;errors&quot; by prosecutors in disclosing evidence to defense lawyers.

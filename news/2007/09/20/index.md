@@ -13,7 +13,7 @@ _Context: Ground Zero, Mahmoud Ahmadinejad, New York City, New York Police Depar
 Cyclist Floyd Landis has received a two-year ban for doping, The Associated Press has learned.
 
 ### [ Osama bin Laden calls on the people of Pakistan to rise up in a "holy war" and overthrow President Pervez Musharraf. ](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.md)
-_Context: Osama bin Laden, Pakistan, Pervez Musharraf, President_
+_Context: Osama bin Laden, Pakistan, Pervez Musharraf, president_
 
 ### [ Tens of thousands of people, including Howard University students and NAACP members, arrive in the U.S. city of Jena, Louisiana, to protest in support of six black teenagers involved in a schoolyard brawl. ](/news/2007/09/20/tens-of-thousands-of-people-including-howard-university-students-and-naacp-members-arrive-in-the-u-s-city-of-jena-louisiana-to-protest.md)
 _Context: Howard University, Jena Six, Jena, Louisiana, NAACP, U.S._

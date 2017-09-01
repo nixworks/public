@@ -23,7 +23,7 @@ American payment service provider cuts relationship, as whistle-blower struggles
 President of Palestinian Authority says he may disband his governing body if peace deal with Israel cannot be agreed.
 
 ### [The Iranian government says the International Atomic Energy Agency spies on its nuclear program and reiterates its belief that the CIA, Mossad and MI6 murdered Majid Shahriari earlier this week. ](/news/2010/12/4/the-iranian-government-says-the-international-atomic-energy-agency-spies-on-its-nuclear-program-and-reiterates-its-belief-that-the-cia-moss.md)
-_Context: CIA, International Atomic Energy Agency, Iran, MI6, Majid Shahriari, Mossad, nuclear scientist_
+_Context: CIA, IAEA, Iran, MI6, Majid Shahriari, Mossad, nuclear program_
 
 ### [A proposed law in South Korea is to ban online gaming after midnight for young people amid concerns over Internet addiction. ](/news/2010/12/4/a-proposed-law-in-south-korea-is-to-ban-online-gaming-after-midnight-for-young-people-amid-concerns-over-internet-addiction.md)
 _Context: Internet addiction, South Korea_

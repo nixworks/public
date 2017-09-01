@@ -13,7 +13,7 @@ _Context: Druze, Hezbollah, Shouf, Sunni, Tripoli, Walid Jumblatt, government_
 _Context: Hassan al-Turabi, Islamist, Justice and Equality Movement, Khartoum, Sudan, shooting_
 
 ### [ Former Prime Minister Nawaz Sharif's party Pakistan Muslim League (N) announces it has decided to leave the governing coalition because of differences over how to restore around 60 judges sacked by President Pervez Musharraf on November 3, 2007. ](/news/2008/05/12/former-prime-minister-nawaz-sharif-s-party-pakistan-muslim-league-n-announces-it-has-decided-to-leave-the-governing-coalition-because-of.md)
-_Context: Nawaz Sharif, Pakistan Muslim League, Pervez Musharraf, President, Prime Minister of Pakistan, government, judges_
+_Context: Nawaz Sharif, Pakistan Muslim League, Pervez Musharraf, Prime Minister of Pakistan, government, judges, president_
 
 ### [ Venezuelan President Hugo Chvez nationalises steel firm Ternium-Sidor, which is mainly owned by Argentina's Techint. ](/news/2008/05/12/venezuelan-president-hugo-chavez-nationalises-steel-firm-ternium-sidor-which-is-mainly-owned-by-argentina-s-techint.md)
 _Context: Argentina, Hugo Chvez, President, Techint, Ternium-Sidor, Venezuela, steel_

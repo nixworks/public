@@ -43,7 +43,7 @@ Emergency services in Gippsland in eastern Victoria are being swamped by calls f
 _Context: Baghdad, Bayaa, car bomb_
 
 ### [ International Atomic Energy Agency (IAEA) inspectors arrive at the Yongbyon reactor in North Korea to discuss plans to shut it down. It follows North Korea test firing of short-range missiles yesterday. ](/news/2007/06/28/international-atomic-energy-agency-iaea-inspectors-arrive-at-the-yongbyon-reactor-in-north-korea-to-discuss-plans-to-shut-it-down-it-fol.md)
-_Context: International Atomic Energy Agency, North Korea, Yongbyon Nuclear Scientific Research Center, rocket attacks_
+_Context: IAEA, North Korea, Yongbyon Nuclear Scientific Research Center, rocket attacks_
 
 ### [ The United States Supreme Court hands down a divided decision against two school districts in Seattle, Washington and Louisville, Kentucky, saying the districts' plans to admit students to schools based partially on their race violates constitutional guarantees of equal protection. ](/news/2007/06/28/the-united-states-supreme-court-hands-down-a-divided-decision-against-two-school-districts-in-seattle-washington-and-louisville-kentucky.md)
 _Context: Equal Protection Clause, Louisville, Kentucky, Seattle, Washington, United States Supreme Court, race_

@@ -46,7 +46,7 @@ Hong Kong introduces a minimum wage that is expected to benefit 270,000 low-paid
 Hundreds of thousands of Cubans turn out for May Day parades in what was billed as a show of support for economic reforms.
 
 ### [The International Atomic Energy Agency is sending a team to Japan this month to inspect the crippled Fukushima nuclear plants and will present its preliminary evaluation of the crisis in June.](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.md)
-_Context: Fukushima I nuclear accidents, International Atomic Energy Agency, Japan_
+_Context: Fukushima I nuclear accidents, IAEA, Japan_
 
 ### [The Memory Unit of the Flight Data Recorder from Air France 447 is recovered from the bottom of the Atlantic Ocean, nearly two years after the jet crashed. ](/news/2011/05/1/the-memory-unit-of-the-flight-data-recorder-from-air-france-447-is-recovered-from-the-bottom-of-the-atlantic-ocean-nearly-two-years-after-t.md)
 _Context: Air France 447, Atlantic Ocean, flight data recorder_

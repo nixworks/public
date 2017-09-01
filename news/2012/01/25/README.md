@@ -25,7 +25,7 @@ _Context: Ethiopia, Somalia_
 _Context: Papua New Guinea_
 
 ### [Iranian President Mahmoud Ahmadinejad says that Iran is willing to talk about Iran's nuclear program with other leaders. ](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.md)
-_Context: Mahmoud Ahmadinejad, President, nuclear scientist_
+_Context: Mahmoud Ahmadinejad, President, nuclear program_
 
 ### [The United Nations says a new foreign judge at the Khmer Rouge trial can continue cases without the support of Cambodia. ](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.md)
 _Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, United Nations_

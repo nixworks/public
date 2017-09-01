@@ -25,7 +25,7 @@ Gripped by its worst cholera outbreak in nearly 15 years, which has already left
 _Context: 16th Summit of the Non-Aligned Movement, Egypt, Iran_
 
 ### [United Nations Secretary-General Ban Ki-moon urges Iran to comply with U.N. Security Council resolutions concerning the nuclear program of Iran, and implicitly criticises it for its Israel policy at a meeting of the Non-Aligned Movement. ](/news/2012/08/30/united-nations-secretary-general-ban-ki-moon-urges-iran-to-comply-with-u-n-security-council-resolutions-concerning-the-nuclear-program-of-i.md)
-_Context: Ban Ki-moon, Iran, Israel, Non-aligned Movement, Secretary General, United Nations Security Council, United Nations Security Council resolution, nuclear scientist_
+_Context: Ban Ki-moon, Iran, Israel, Non-aligned Movement, Secretary General, United Nations Security Council, United Nations Security Council resolution, nuclear program_
 
 ### [The International Atomic Energy Agency releases a report on the Nuclear program of Iran, stating that Iran has doubled its number of centrifuges at the Fordow facility and highlighting concern over the nuclear program. ](/news/2012/08/30/the-international-atomic-energy-agency-releases-a-report-on-the-nuclear-program-of-iran-stating-that-iran-has-doubled-its-number-of-centrif.md)
 UN watchdog quarterly report says number of centrifuges at Fordo facility more than doubled to 2,140 from 1,064 in May; new machines not yet operational 
@@ -49,7 +49,7 @@ _Context: 2012 Maldives Crisis, Commonwealth, Maldives, Mohamed Nasheed, coup, f
 _Context: Bundestag, German government, Leistungsschutzrecht_
 
 ### [Supreme Leader of Iran Ali Khamenei calls nuclear weapons and their use "an unforgivable sin" and defends Iran's right to use nuclear energy for medical and peaceful purposes. ](/news/2012/08/30/supreme-leader-of-iran-ali-khamenei-calls-nuclear-weapons-and-their-use-an-unforgivable-sin-and-defends-iran-s-right-to-use-nuclear-energy.md)
-_Context: Ali Khamenei, Supreme Leader of Iran, nuclear scientist, nuclear warheads_
+_Context: Ali Khamenei, Supreme Leader of Iran, nuclear program, nuclear warheads_
 
 ### [Mitt Romney accepts the nomination of the Republican Party to be its candidate in the 2012 US presidential election. ](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.md)
 _Context: Mitt Romney, Republican, United States presidential election, 2012_

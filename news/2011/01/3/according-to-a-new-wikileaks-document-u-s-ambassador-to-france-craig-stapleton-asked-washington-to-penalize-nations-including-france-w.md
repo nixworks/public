@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy childhood leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-childhood.md) _Context: U.S._
+1. [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md) _Context: U.S._
 2. [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md) _Context: France_
 3. [French ecology minister Nicolas Hulot announces France is to ban the sale of petrol and diesel vehicles by 2040. ](/news/2017/07/6/french-ecology-minister-nicolas-hulot-announces-france-is-to-ban-the-sale-of-petrol-and-diesel-vehicles-by-2040.md) _Context: France_
 4. [France plans to make vaccines mandatory for children in 2018. ](/news/2017/07/5/france-plans-to-make-vaccines-mandatory-for-children-in-2018.md) _Context: France_

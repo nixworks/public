@@ -7,7 +7,7 @@ _Context: 350.org, Barack Obama, Bill McKibben, Copenhagen Accord_
 _Context: Tiger Woods, extramarital affairs_
 
 ### [International Atomic Energy Agency says Iran could be making nuclear warheads. ](/news/2010/02/19/international-atomic-energy-agency-says-iran-could-be-making-nuclear-warheads.md)
-_Context: International Atomic Energy Agency, Iran, nuclear scientist_
+_Context: IAEA, Iran, nuclear program_
 
 ### [Anti-government protestors are killed by police fire in Gagnoa, Cote d'Ivoire. ](/news/2010/02/19/anti-government-protestors-are-killed-by-police-fire-in-gagnoa-ca-te-d-ivoire.md)
 _Context: Cote d'Ivoire, Gagnoa_

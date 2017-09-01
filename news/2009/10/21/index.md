@@ -37,7 +37,7 @@ _Context: Goa Express, India, Mewar Express, Rajasthan_
 _Context: Georgian, Poti_
 
 ### [ The International Atomic Energy Agency propose draft agreement for Iran and three world powers to agree, aimed at reducing international concerns over Tehran's nuclear programme. ](/news/2009/10/21/the-international-atomic-energy-agency-propose-draft-agreement-for-iran-and-three-world-powers-to-agree-aimed-at-reducing-international-co.md)
-_Context: International Atomic Energy Agency, Iran, Tehran_
+_Context: IAEA, Iran, Tehran_
 
 ### [ Poland's Prime Minister Donald Tusk agrees to station SM-3 missile interceptors from United States President Barack Obama's reformulated missile defense system on the territory of this NATO ally. ](/news/2009/10/21/poland-s-prime-minister-donald-tusk-agrees-to-station-sm-3-missile-interceptors-from-united-states-president-barack-obama-s-reformulated-mi.md)
 The unwavering commitment not just to Poland, but to the entire region, was the central message of the vice president’s damage-control tour of Eastern Europe that started Wednesday.

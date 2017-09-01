@@ -52,7 +52,7 @@ _Context: Gazeera, Rift Valley Fever, Sennar, Sudan, White Nile_
 _Context: Batumi, Georgian, Russia, Russian Army_
 
 ### [ President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-minister.md)
-_Context: Chairman, Muhammad Mian Soomro, Pervez Musharraf, President, Prime Minister of Pakistan, Senate, interim_
+_Context: Chairman, Muhammad Mian Soomro, Pervez Musharraf, Prime Minister of Pakistan, Senate, interim, president_
 
 ### [ President of the Palestinian National Authority Mahmoud Abbas states in a speech that "we have to bring down" Hamas. ](/news/2007/11/15/president-of-the-palestinian-national-authority-mahmoud-abbas-states-in-a-speech-that-we-have-to-bring-down-hamas.md)
 _Context: Hamas, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority_

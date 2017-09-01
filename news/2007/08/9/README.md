@@ -58,7 +58,7 @@ _Context: Baucau, Dili, East Timor, Fretilin, Malaysia, Prime Minister of East T
 _Context: National Assembly of Mauritania, slavery_
 
 ### [ The President of Pakistan General Pervez Musharraf pulls out of a meeting with the President of Afghanistan Hamid Karzai and tribal leaders in Kabul over fighting the Taliban. ](/news/2007/08/9/the-president-of-pakistan-general-pervez-musharraf-pulls-out-of-a-meeting-with-the-president-of-afghanistan-hamid-karzai-and-tribal-leaders.md)
-_Context: Afghanistan President, General, Hamid Karzai, Kabul, Pervez Musharraf, President, Taliban_
+_Context: Afghanistan President, General, Hamid Karzai, Kabul, Pervez Musharraf, Taliban, president_
 
 ### [ Two of Australia's largest regional banks, Bendigo Bank and Adelaide Bank, agree to merge. ](/news/2007/08/9/two-of-australia-s-largest-regional-banks-bendigo-bank-and-adelaide-bank-agree-to-merge.md)
 _Context: Adelaide Bank, Australia, Bendigo Bank_

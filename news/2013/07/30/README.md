@@ -49,7 +49,7 @@ The U.S. Treasury Department said Tuesday it placed Kingpin Act sanctions on thr
 _Context: Internet forum, Raif Badawi, religion in Saudi Arabia_
 
 ### [Mamnoon Hussain is elected as the 12th President of Pakistan. ](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.md)
-_Context: Mamnoon Hussain, President, elected_
+_Context: Mamnoon Hussain, elected, president_
 
 ## [Previous Day...](/news/2013/07/29/index.md)
 

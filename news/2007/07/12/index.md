@@ -52,7 +52,7 @@ _Context: Government of North Korea, North Korea, South Korea, Yongbyon Nuclear 
 _Context: Cote d'Ivoire, Guillaume Soro, Prime Minister, United Nations, assassination attempt, government_
 
 ### [ President Pervez Musharraf praises the military for ending the Lal Masjid siege and vows to eradicate terrorism from Pakistan. ](/news/2007/07/12/president-pervez-musharraf-praises-the-military-for-ending-the-lal-masjid-siege-and-vows-to-eradicate-terrorism-from-pakistan.md)
-_Context: Lal Masjid siege, Pakistan, Pervez Musharraf, President, military, terrorism_
+_Context: Lal Masjid siege, Pakistan, Pervez Musharraf, military, president, terrorism_
 
 ### [ The government of Sri Lanka plans to hold a "victory party" in Colombo after the fall of the last Tamil Tiger base in Thoppigala. ](/news/2007/07/12/the-government-of-sri-lanka-plans-to-hold-a-victory-party-in-colombo-after-the-fall-of-the-last-tamil-tiger-base-in-thoppigala.md)
 _Context: Colombo, Tamil Tiger, Thoppigala, government_

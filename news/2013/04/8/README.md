@@ -49,7 +49,7 @@ Briton Lindsay Sandiford loses her appeal against her death sentence in Bali for
 Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to determine whether he died of natural causes or was poisoned.
 
 ### [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md)
-_Context: Pakistan, Pervez Musharraf, President, Supreme Court, treason_
+_Context: Pakistan, Pervez Musharraf, Supreme Court, president, treason_
 
 ### [Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
 The first woman to be UK prime minister, Baroness Thatcher, has died at the age of 87 following a stroke, her spokesman has said.

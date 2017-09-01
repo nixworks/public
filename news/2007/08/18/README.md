@@ -46,7 +46,7 @@ U.S. President George W. Bush on Saturday approved a pre-landfall emergency decl
 _Context: Antalya, Atlas Jet, Cyprus, Istanbul, Nicosia, Turkey, aircraft piracy_
 
 ### [ Pakistani President Pervez Musharraf says he will contend in the upcoming presidential election "because the country needs him." ](/news/2007/08/18/pakistani-president-pervez-musharraf-says-he-will-contend-in-the-upcoming-presidential-election-because-the-country-needs-him.md)
-_Context: Pakistan, Pervez Musharraf, President, upcoming presidential election_
+_Context: Pakistan, Pervez Musharraf, president, upcoming presidential election_
 
 ### [ Rescuers race to reach over 180 coal miners trapped in two flooded mines in Shandong province in China. ](/news/2007/08/18/rescuers-race-to-reach-over-180-coal-miners-trapped-in-two-flooded-mines-in-shandong-province-in-china.md)
 Rescuers were battling to reach more than 180 miners trapped by floods in eastern China, raising fears of more deaths in what is already the world&#039;s most dangerous mining sector.

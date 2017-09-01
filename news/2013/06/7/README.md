@@ -65,7 +65,7 @@ _Context: Cleveland, Ohio kidnapper_
 _Context: Khmer Rouge_
 
 ### [Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-also-criticizing-mahmoud-ahmadin.md)
-_Context: Foreign relations of Iran, Human rights in Iran, Iranian government, Mahmoud Ahmadinejad, nuclear scientist, televised debate_
+_Context: Foreign relations of Iran, Human rights in Iran, Iranian government, Mahmoud Ahmadinejad, nuclear program, televised debate_
 
 ## [Previous Day...](/news/2013/06/6/index.md)
 

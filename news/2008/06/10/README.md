@@ -10,7 +10,7 @@ _Context: Hugo Chavez, National Assembly, President, Roman Catholic Church_
 _Context: Iraq, Morocco_
 
 ### [ President George W. Bush attends the final United States-European Union summit of his Presidency with agreements to tighten sanctions against Iran for its nuclear program. ](/news/2008/06/10/president-george-w-bush-attends-the-final-united-states-european-union-summit-of-his-presidency-with-agreements-to-tighten-sanctions-again.md)
-_Context: European Union, George W. Bush, Iran, President, United States, nuclear scientist_
+_Context: European Union, George W. Bush, Iran, President, United States, nuclear program_
 
 ### [ United States Republican senators block moves to levy a windfall profits tax on oil companies. ](/news/2008/06/10/united-states-republican-senators-block-moves-to-levy-a-windfall-profits-tax-on-oil-companies.md)
 _Context: Republican, United States, United States Senate, windfall profits tax_

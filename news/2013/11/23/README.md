@@ -22,7 +22,7 @@ _Context: One Direction_
 The U.S. military has began scaling back its emergency relief operations in the Philippines as work shifts to recovery and rehabilitation in typhoon-hit areas, a U.S. aid agency official said on Saturday.
 
 ### [P5+1 foreign ministers meet in Geneva for talks on Iran's nuclear program. ](/news/2013/11/23/p5-1-foreign-ministers-meet-in-geneva-for-talks-on-iran-s-nuclear-program.md)
-_Context: nuclear scientist, several world powers_
+_Context: nuclear program, several world powers_
 
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)
 _Context: Egypt, Turkey, expels_

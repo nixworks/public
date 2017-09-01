@@ -34,7 +34,7 @@ _Context: Assembly election, Northern Ireland, Northern Ireland Assembly_
 _Context: Garuda Indonesia, Indonesia, Marwoto Komar, Yogyakarta_
 
 ### [ The United States Department of State issues a report saying that human rights in Fiji have sharply deteriorated since the 2006 coup. ](/news/2007/03/7/the-united-states-department-of-state-issues-a-report-saying-that-human-rights-in-fiji-have-sharply-deteriorated-since-the-2006-coup.md)
-_Context: Fiji, Human rights, United States State Department, coup in 2006_
+_Context: Fiji, Human rights, State Department, coup in 2006_
 
 ### [ Iranian general Ali Reza Askari is reported to have to defected to US custody after disappearing on February 7 in Istanbul.](/news/2007/03/7/iranian-general-ali-reza-askari-is-reported-to-have-to-defected-to-us-custody-after-disappearing-on-february-7-in-istanbul.md)
 _Context: Ali Reza Askari, Iran, Istanbul_

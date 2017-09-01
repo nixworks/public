@@ -1,7 +1,7 @@
 ## [2014-04-3](/news/2014/04/3/index.md)
 
 ### [Former President of Pakistan Pervez Musharraf survives an assassination attempt in Islamabad, Pakistan. There are no reports of injuries. ](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-survives-an-assassination-attempt-in-islamabad-pakistan-there-are-no-reports-of-injuries.md)
-_Context: Islamabad, Pakistan, Pervez Musharraf, President_
+_Context: Islamabad, Pakistan, Pervez Musharraf, president_
 
 ### [Mortar fire kills at least six people in a Damascus suburb. ](/news/2014/04/3/mortar-fire-kills-at-least-six-people-in-a-damascus-suburb.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

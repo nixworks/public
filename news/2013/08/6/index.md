@@ -7,7 +7,7 @@ India said a group of militants from Pakistan killed five of its soldiers in an 
 DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 ### [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md)
-_Context: Al Qaida's, United States, United States State Department, Yemen_
+_Context: Al Qaida's, State Department, United States, Yemen_
 
 ### [Ten people are killed in a clash between rival drug cartels in Honduras. ](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-drug-cartels-in-honduras.md)
 A shootout between rival drug gangs in Honduras leaves 17 people dead in a region infamous as a drugs transit route.

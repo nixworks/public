@@ -7,7 +7,7 @@ OPPONENTS of President Kurmanbek Bakiyev took control overnight of Kyrgyzstan af
 _Context: Sri Lanka, parliamentary election_
 
 ### [Pakistan adopts the 18th amendment to the Constitution, stripping President Asif Ali Zardari of key powers. ](/news/2010/04/8/pakistan-adopts-the-18th-amendment-to-the-constitution-stripping-president-asif-ali-zardari-of-key-powers.md)
-_Context: Asif Ali Zardari, Constitution, Pakistan, President_
+_Context: Asif Ali Zardari, Constitution, Pakistan, president_
 
 ### [5 people are killed and 11 others are injured in separate attacks in Diyala and Nineveh. ](/news/2010/04/8/5-people-are-killed-and-11-others-are-injured-in-separate-attacks-in-diyala-and-nineveh.md)
 _Context: Diyala Governorate, Nineveh_

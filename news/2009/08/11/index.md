@@ -40,7 +40,7 @@ Argentina&rsquo;s cabinet Chief An&iacute;bal Fern&aacute;ndez said football tra
 Bodies of Zarema Sadulayeva and husband discovered after abduction in Grozny.
 
 ### [ Police in Pakistan register a criminal case with former President Pervez Musharraf over the latter's decision to detain judges in 2007. ](/news/2009/08/11/police-in-pakistan-register-a-criminal-case-with-former-president-pervez-musharraf-over-the-latter-s-decision-to-detain-judges-in-2007.md)
-_Context: Pakistan, Pervez Musharraf, President_
+_Context: Pakistan, Pervez Musharraf, president_
 
 ### [ The NASA Spitzer Space Telescope finds evidence of a high-speed collision between two burgeoning planets orbiting a young star. ](/news/2009/08/11/the-nasa-spitzer-space-telescope-finds-evidence-of-a-high-speed-collision-between-two-burgeoning-planets-orbiting-a-young-star.md)
 _Context: NASA, Spitzer Space Telescope_

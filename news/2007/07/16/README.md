@@ -22,7 +22,7 @@ China has punished dozens of officials for allowing slave-like exploitation of w
 _Context: Israel, Palestinian_
 
 ### [ International Atomic Energy Agency inspectors confirm the closure of the Yongbyon reactor in North Korea. ](/news/2007/07/16/international-atomic-energy-agency-inspectors-confirm-the-closure-of-the-yongbyon-reactor-in-north-korea.md)
-_Context: International Atomic Energy Agency, North Korea, Yongbyon Nuclear Scientific Research Center_
+_Context: IAEA, North Korea, Yongbyon Nuclear Scientific Research Center_
 
 ### [ ATN Bangla television reports that Bangladeshi police have arrested former Prime Minister of Bangladesh Sheikh Hasina on charges of extorting money from a businessman. ](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.md)
 _Context: ATN Bangla, Bangladesh, Prime Minister, Sheikh Hasina, television_

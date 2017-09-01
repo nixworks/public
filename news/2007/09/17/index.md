@@ -4,7 +4,7 @@
 _Context: John Kerry, United States Senate, apprehended by five police officers, tasered_
 
 ### [ Bernard Kouchner, the French Foreign Minister, warns of the possibility of war over Iran's nuclear program. ](/news/2007/09/17/bernard-kouchner-the-french-foreign-minister-warns-of-the-possibility-of-war-over-iran-s-nuclear-program.md)
-_Context: Bernard Kouchner, Minister of Foreign Affairs, nuclear scientist_
+_Context: Bernard Kouchner, Minister of Foreign Affairs, nuclear program_
 
 ### [ Iraq and the United States have pledged a "fair and transparent" investigation into a gunfight involving private security firm Blackwater Security that left eight people dead in Baghdad. ](/news/2007/09/17/iraq-and-the-united-states-have-pledged-a-fair-and-transparent-investigation-into-a-gunfight-involving-private-security-firm-blackwater-s.md)
 _Context: Baghdad, Blackwater Security, Iraq, United States_
@@ -22,7 +22,7 @@ US President George W Bush has nominated a retired federal judge and law and ord
 _Context: EUR, European Union, Microsoft, antitrust_
 
 ### [ The Supreme Court of Pakistan hears petitions as to whether Pervez Musharraf should remain as head of the Pakistani Army while serving as the President of Pakistan. ](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.md)
-_Context: Pakistani Army, Pervez Musharraf, President, Supreme Court_
+_Context: Pakistani Army, Pervez Musharraf, Supreme Court, president_
 
 ### [ 2007 Pacific typhoon season: The death toll from Typhoon Nari in South Korea rises to nine. ](/news/2007/09/17/2007-pacific-typhoon-season-the-death-toll-from-typhoon-nari-in-south-korea-rises-to-nine.md)
 _Context: 2007 Pacific typhoon season, South Korea_

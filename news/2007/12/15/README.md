@@ -10,7 +10,7 @@ _Context: Andy Pettitte, Mitchell Report, New York Yankees, elbow, human growth 
 _Context: 2006 transatlantic aircraft plot, Pakistan, Rashid Rauf_
 
 ### [ The President of Pakistan Pervez Musharraf lifts the state of emergency that he declared on November 3, 2007. ](/news/2007/12/15/the-president-of-pakistan-pervez-musharraf-lifts-the-state-of-emergency-that-he-declared-on-november-3-2007.md)
-_Context: November 3, Pakistan, Pervez Musharraf, President, unlawful detention of judges_
+_Context: November 3, Pakistan, Pervez Musharraf, president, unlawful detention of judges_
 
 ### [ The 2007 United Nations Climate Change Conference concludes with an agreement for a two-year process to develop a new treaty on climate change. ](/news/2007/12/15/the-2007-united-nations-climate-change-conference-concludes-with-an-agreement-for-a-two-year-process-to-develop-a-new-treaty-on-climate-cha.md)
 An agreement reached Saturday pushes debates on U.S. participation into the administration of a new president.

@@ -22,7 +22,7 @@ _Context: Mohammed Zahir Shah_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Japan allows International Atomic Energy Agency inspectors to visit the Kashiwazaki-Kariwa Nuclear Power Plant shut down after the recent 2007 Chuetsu offshore earthquake. ](/news/2007/07/23/japan-allows-international-atomic-energy-agency-inspectors-to-visit-the-kashiwazaki-kariwa-nuclear-power-plant-shut-down-after-the-recent-2.md)
-_Context: 2007 Chuetsu offshore earthquake, International Atomic Energy Agency, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
+_Context: 2007 Chuetsu offshore earthquake, IAEA, Japan, Kashiwazaki-Kariwa Nuclear Power Plant_
 
 ### [ Flash floods and landslides in central Indonesia kill at least 30 people. ](/news/2007/07/23/flash-floods-and-landslides-in-central-indonesia-kill-at-least-30-people.md)
 _Context: Indonesia, flood, landslide_
