@@ -32,8 +32,8 @@ The US orders Russia to close its San Francisco consulate in response to &quot;u
 ### [Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. ](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.md)
 Former military dictator has property confiscated as anti-terror court jails two police officials in relation to 2007 assassination
 
-### [The 19th National Congress of the Communist Party of China is expected to start October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-october-18-2017.md)
-_Context: 19th National Congress of the Communist Party of China_
+### [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md)
+_Context: 19th National Congress, Communist Party of China, Politics of China_
 
 ### [President Donald Trump is expected to nominate Columbia University law professor Robert Jackson to be a member of the Securities and Exchange Commission. ](/news/2017/08/31/president-donald-trump-is-expected-to-nominate-columbia-university-law-professor-robert-jackson-to-be-a-member-of-the-securities-and-exchang.md)
 U.S. President Donald Trump is expected to nominate Columbia University law professor Robert Jackson to be a member of the Securities and Exchange Commission, a person with knowledge of the matter said on Thursday.
