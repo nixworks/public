@@ -12,9 +12,6 @@ The Supreme Court orders a new vote citing irregularities, sparking joy among op
 ### [Asteroid 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-approxi.md)
 A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record-breaking encounter that has long had scientists drooling.
 
-### [Researchers report, in the "Environmental Science & Technology" journal, the discovery of human antidepressants concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include a lack of adequate treatment of water released into waterways. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-human-antidepressants-concentrations-in-10-kinds-o.md)
-_Context: Environmental Science & Technology, Great Lakes, Lakes Erie, Niagara River, Ontario, human antidepressants_
-
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
