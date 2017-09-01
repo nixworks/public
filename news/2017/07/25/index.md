@@ -36,5 +36,8 @@ The House bill would impose new sanctions on Russia, Iran and North Korea, and p
 ### [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md)
 Republicans faced their first defeat, failing to pass a measure that they&#x27;ve been working on that would have partially repealed and replaced Obamacare. 
 
+### [Documents that were previously sealed and withheld from the public pertaining to the John F. Kennedy assassination are released. ](/news/2017/07/25/documents-that-were-previously-sealed-and-withheld-from-the-public-pertaining-to-the-john-f-kennedy-assassination-are-released.md)
+The National Archives and Records Administration is releasing documents previously withheld in accordance with the JFK Assassination Records Collection Act. The vast majority of the Collection (88%) has been open in full and released to the public since the late 1990s. The records at issue are docum...
+
 ## [Previous Day...](/news/2017/07/24/index.md)
 
