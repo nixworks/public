@@ -12,7 +12,7 @@ Jacinda Ardern says in debate with PM she is taking nothing for granted after po
 ### [The Supreme Court of Kenya annuls the results of the recent presidential election, that indicated President Uhuru Kenyatta was reelected, due to irregularities, and orders a new election. ](/news/2017/09/1/the-supreme-court-of-kenya-annuls-the-results-of-the-recent-presidential-election-that-indicated-president-uhuru-kenyatta-was-reelected-du.md)
 The Supreme Court orders a new vote citing irregularities, sparking joy among opposition supporters.
 
-### [[Asteroid]] 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-appr.md)
+### [Asteroid 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-approxi.md)
 A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record-breaking encounter that has long had scientists drooling.
 
 ## [Previous Day...](/news/2017/08/31/index.md)

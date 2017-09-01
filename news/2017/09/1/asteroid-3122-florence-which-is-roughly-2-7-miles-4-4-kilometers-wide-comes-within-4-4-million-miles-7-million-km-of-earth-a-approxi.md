@@ -7,8 +7,7 @@ A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record
 
 ### Source:
 
-1. [New York Daily News](http://www.nydailynews.com/life-style/health/antidepressants-found-great-lakes-region-fish-brains-article-1.3458750)
-2. [Space](https://www.space.com/38013-huge-asteroid-florence-makes-earth-flyby.html)
+1. [Space](https://www.space.com/38013-huge-asteroid-florence-makes-earth-flyby.html)
 
 ### Related:
 
