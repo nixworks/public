@@ -6,6 +6,9 @@ What you need to know about Irma&#039;s threat next week.
 ### [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md)
 _Context: Environmental Science & Technology, Great Lakes, Lakes Erie, Niagara River, Ontario, antidepressant, bodies of water_
 
+### [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise a bilateral treaty which caps North Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-a-bilateral-treaty-which-caps-north-korea-s-missile-devel.md)
+_Context: 2017 North Korea crisis, Donald Trump, Moon Jae-in, North Korea, South Korea-United States relations_
+
 ### [United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals, headquartered in Chicago, Illinois. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.](/news/2017/09/1/united-states-federal-judge-richard-posner-has-announced-his-retirement-after-three-decades-of-service-on-the-bench-of-the-7th-u-s-circuit.md)
 _Context: Chicago, Illinois, President, Richard Posner, Ronald Reagan, United States Court of Appeals for the Seventh Circuit, United States federal judge_
 
