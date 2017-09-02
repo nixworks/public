@@ -6,6 +6,12 @@ Suicide bombers struck a state-run power station north of Baghdad early on Satur
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
 Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
 
+### [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md)
+Australia and Timor-Leste resolve their bitter and long-running dispute over maritime boundaries in the Timor Sea.
+
+### [The Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/the-cambodian-opposition-leader-kem-sokha-is-arrested.md)
+Police in Cambodia arrested the leader of the country&apos;s main opposition party in a surprise raid on his home
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
