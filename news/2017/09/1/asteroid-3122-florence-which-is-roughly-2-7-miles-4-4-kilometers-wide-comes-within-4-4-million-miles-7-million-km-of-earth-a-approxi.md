@@ -1,6 +1,6 @@
 ### [2017-09-1](/news/2017/09/1/index.md)
 
-# Asteroid 3122 Florence, which is roughly 2.7-miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. 
+# Asteroid 3122 Florence, which is roughly 2.7 miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. 
 
 A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record-breaking encounter that has long had scientists drooling.
 

@@ -1,8 +1,5 @@
 ## [2017-08-31](/news/2017/08/31/index.md)
 
-### [In relation to the "Hellboy" casting controversy, actress Chloe Wang reveals that she changed her last name to Bennet in order to avoid racism in Hollywood against Asian Americans. ](/news/2017/08/31/in-relation-to-the-hellboy-casting-controversy-actress-chloa-c-wang-reveals-that-she-changed-her-last-name-to-bennet-in-order-to-avoid-rac.md)
-&#8220;Marvel&#8217;s Agents of SHIELD&#8221; star Chloe Bennet defended her last name change after a fan questioned her about it on social media this week, saying that the cause was Hollywood raci…
-
 ### [Wells Fargo reports finding an additional 1.4 million potentially fake bank and credit card accounts, bringing the total problematic accounts to approximately 3.5 million. ](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.md)
 _Context: Wells Fargo, Wells Fargo account fraud scandal_
 
