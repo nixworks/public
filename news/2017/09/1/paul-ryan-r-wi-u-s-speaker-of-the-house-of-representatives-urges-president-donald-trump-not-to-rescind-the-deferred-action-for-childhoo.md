@@ -1,6 +1,6 @@
 ### [2017-09-1](/news/2017/09/1/index.md)
 
-# Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants, who illegally entered the United States as children, from deportation. 
+# Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. 
 
 House of Representatives Speaker Paul Ryan urged President Donald Trump on Friday not to rescind an Obama-era program that protects immigrants who entered the United States illegally as children, as more Republicans lined up against the move.
 

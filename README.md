@@ -1,4 +1,15 @@
-## [News](/news/2017/09/1/index.md)
+## [News](/news/2017/09/2/index.md)
+
+### [Seven schoolgirls have been killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-have-been-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
+Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/1/index.md)
 
 ### [Hurricane Irma, now a Category 2 hurricane with maximum sustained winds of 110 miles per hour (175 kilometers per hour), is expected to resume strengthening this weekend increasing the danger when it nears the Leeward Islands in the Caribbean next Thursday. ](/news/2017/09/1/hurricane-irma-now-a-category-2-hurricane-with-maximum-sustained-winds-of-110-miles-per-hour-175-kilometers-per-hour-is-expected-to-resu.md)
 What you need to know about Irma&#039;s threat next week.
@@ -18,19 +29,15 @@ Jacinda Ardern says in debate with PM she is taking nothing for granted after po
 ### [The Supreme Court of Kenya annuls the results of the recent presidential election, that indicated President Uhuru Kenyatta was reelected, due to irregularities, and orders a new election. ](/news/2017/09/1/the-supreme-court-of-kenya-annuls-the-results-of-the-recent-presidential-election-that-indicated-president-uhuru-kenyatta-was-reelected-du.md)
 The Supreme Court orders a new vote citing irregularities, sparking joy among opposition supporters.
 
-### [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants, who illegally entered the United States as children, from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md)
+### [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md)
 House of Representatives Speaker Paul Ryan urged President Donald Trump on Friday not to rescind an Obama-era program that protects immigrants who entered the United States illegally as children, as more Republicans lined up against the move.
 
 ### [Asteroid 3122 Florence, which is roughly 2.7 miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-approxi.md)
 A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record-breaking encounter that has long had scientists drooling.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/08/31/index.md)
+## [Day Before Yesterday](/news/2017/08/31/index.md)
 
 ### [Wells Fargo reports finding an additional 1.4 million potentially fake bank and credit card accounts, bringing the total problematic accounts to approximately 3.5 million. ](/news/2017/08/31/wells-fargo-reports-finding-an-additional-1-4-million-potentially-fake-bank-and-credit-card-accounts-bringing-the-total-problematic-account.md)
 _Context: Wells Fargo, Wells Fargo account fraud scandal_
@@ -61,35 +68,7 @@ U.S. President Donald Trump is expected to nominate Columbia University law prof
 
 ---
 
-## [Day Before Yesterday](/news/2017/08/30/index.md)
-
-### [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md)
-At least 11 Afghan civilians were killed and 16 wounded on Wednesday when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar province, east of the capital, Kabul, the local governor said.
-
-### [CJTF-OIR jets destroy a section of road, blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. ](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blocking-the-path-of-a-convoy-carrying-isil-evacuees-from-the-lebanonasyria-border-en-route-to.md)
-U.S.-led warplanes on Wednesday blocked a convoy of Islamic State fighters and their families from reaching territory the group holds in east Syria and struck some of their comrades traveling to meet them, a coalition spokesman said.
-
-### [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md)
-At least five people were killed as heavy monsoon rain deluged India&#39;s financial capital Mumbai, causing transport chaos and forcing schools and many offices to close on Wednesday.
-
-### [Tropical storm Harvey (hurricane earlier this month) makes its second landfall, this time in the U.S. state of Louisiana. "The New York Times" reports local officials say the death toll since last Friday is now 38. Moving northeast, Harvey is expected to gradually weaken to a tropical depression by tonight. ](/news/2017/08/30/tropical-storm-harvey-hurricane-earlier-this-month-makes-its-second-landfall-this-time-in-the-u-s-state-of-louisiana-the-new-york-time.md)
-The death toll from Harvey was rising and officials said their rescue effort was nowhere near done.
-
-### [The Food and Drug Administration has approved the first treatment that genetically engineers patients' own blood cells to destroy acute lymphoblastic leukemia. The approval makes Novartis the proprietor of the first gene therapy to hit the U.S. market. ](/news/2017/08/30/the-food-and-drug-administration-has-approved-the-first-treatment-that-genetically-engineers-patients-own-blood-cells-to-destroy-acute-lymp.md)
-_Context: Childhood leukemia, Food and Drug Administration, Novartis, U.S., acute lymphoblastic leukemia, gene therapy_
-
-### [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md)
-_Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, state of emergency_
-
-### [A shooting at a motel in Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect is later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-in-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-two-california-highw.md)
-Deputy Robert French, a 21-year veteran of the Sacramento County Sheriff&#x27;s Department, died from a gunshot wound to his side, Sheriff Scott Jones said.
-
-### [Researchers at the Breakthrough Listen initiative announce they have detected 15 new powerful fast radio bursts (FRB) from FRB 121102, located in a dwarf galaxy about three billion light-years from Earth. FRB 121102 was first detected in 2012, and gained further attention after FRBs were detected from there again in 2015. ](/news/2017/08/30/researchers-at-the-breakthrough-listen-initiative-announce-they-have-detected-15-new-powerful-fast-radio-bursts-frb-from-frb-121102-locat.md)
-Breakthrough Listen detected more radio pulses from the famous repeating source FRB 121102. They’re higher frequency than previous ones but we still don’t know what causes them
-
----
-
-## [Previous Day...](/news/2017/08/29/index.md)
+## [Previous Day...](/news/2017/08/30/index.md)
 
 ---
 
