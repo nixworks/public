@@ -6,6 +6,9 @@ A suicide bomb attack killed two American troops in Afghanistan on Wednesday as 
 ### [Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http://www.abc.net.au/news/2017-08-03/prince-philip-queen-elizabeth-royal-husband-retires/8769254 ("ABC News (Australia)")]](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-public-appearances-at-the-age-of-96-after-having-completed-22-219-solo-engagements-since-195.md)
 _Context: British royal consorts, Prince Philip, Duke of Edinburgh_
 
+### [The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to Asian Americans. ](/news/2017/08/2/the-u-s-justice-department-announces-internally-that-it-is-to-start-investigating-colleges-which-have-admissions-policies-that-are-seen-as.md)
+What is affirmative action? Why is this a big deal? Is the Trump report true?
+
 ### [Several streets in Miami and Miami Beach are underwater after Tropical Depression Emily causes 102 to 178 millimetres of rain overnight. ](/news/2017/08/2/several-streets-in-miami-and-miami-beach-are-underwater-after-tropical-depression-emily-causes-102-to-178-millimetres-of-rain-overnight.md)
 _Context: Floods in the United States, Miami, Miami Beach, Tropical Depression Emily_
 
