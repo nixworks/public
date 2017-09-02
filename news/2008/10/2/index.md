@@ -13,7 +13,7 @@ _Context: Boris Johnson, Ian Blair, London, Mayor, Metropolitan Police Service, 
 _Context: California, Madera County, Steve Fossett_
 
 ### [ The United States Securities and Exchange Commission says it would extend the short-sale ban to as long as October 17 or up to three business days after the passage of the proposed bailout plan, but will not make it permanent. ](/news/2008/10/2/the-united-states-securities-and-exchange-commission-says-it-would-extend-the-short-sale-ban-to-as-long-as-october-17-or-up-to-three-busine.md)
-_Context: October 17, SEC, United States, business day, proposed bailout plan, short-sale_
+_Context: October 17, Securities and Exchange Commission, United States, business day, proposed bailout plan, short-sale_
 
 ## [Previous Day...](/news/2008/10/1/index.md)
 

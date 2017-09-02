@@ -46,7 +46,7 @@ _Context: Colleen LaRose, Lars Vilks, work offended many Muslims_
 _Context: 2G spectrum scam, A. Raja, CBI, India_
 
 ### [United States federal judge Carl J. Barbier rules that Deepwater Horizon oil spill compensation fund administrator Ken Feinberg should advise people that he is working for BP. ](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.md)
-_Context: BP, Carl J. Barbier, Deepwater Horizon oil spill, Ken Feinberg, U.S. District Court Judge_
+_Context: BP, Carl J. Barbier, Deepwater Horizon oil spill, Ken Feinberg, United States federal judge_
 
 ### [The parliament of Kazakhstan approves a bill giving the President the power to declare a snap presidential election. ](/news/2011/02/2/the-parliament-of-kazakhstan-approves-a-bill-giving-the-president-the-power-to-declare-a-snap-presidential-election.md)
 _Context: Kazakhstan, parliament_

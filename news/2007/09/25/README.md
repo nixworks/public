@@ -20,7 +20,7 @@ _Context: Halo 3, Xbox 360_
 
 ### [ Hundreds of soldiers and riot police enter Yangon in an attempt to end the demonstrations ](/news/2007/09/25/hundreds-of-soldiers-and-riot-police-enter-yangon-in-an-attempt-to-end-the-demonstrations.md)
 ### [ Myanmar's junta places dusk-till-dawn curfews on the country's two largest cities, Yangon and Mandalay. ](/news/2007/09/25/myanmar-s-junta-places-dusk-till-dawn-curfews-on-the-country-s-two-largest-cities-yangon-and-mandalay.md)
-_Context: Burmese, Mandalay_
+_Context: Mandalay, Myanmar_
 
 ### [ The House of Representatives of Japan elects Yasuo Fukuda as the new Prime Minister of Japan. ](/news/2007/09/25/the-house-of-representatives-of-japan-elects-yasuo-fukuda-as-the-new-prime-minister-of-japan.md)
 _Context: Prime Minister of Japan, Yasuo Fukuda, the Lower House of the Diet_

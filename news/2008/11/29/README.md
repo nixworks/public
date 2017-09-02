@@ -1,7 +1,7 @@
 ## [2008-11-29](/news/2008/11/29/index.md)
 
 ### [ In an interview, U.S. President George W. Bush names No Child Left Behind as one of his most significant achievements and hopes to be remembered for the current situation in Iraq ](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.md)
-_Context: George W. Bush, Iraq, No Child Left Behind, U.S. President_
+_Context: George W. Bush, Iraq, No Child Left Behind, President_
 
 ### [ Hundreds of people are reported to have been killed in the central Nigerian town of Jos after Christians and Muslims clashed over the result of a local election. ](/news/2008/11/29/hundreds-of-people-are-reported-to-have-been-killed-in-the-central-nigerian-town-of-jos-after-christians-and-muslims-clashed-over-the-resul.md)
 _Context: Christians and Muslims clashed, Jos, Nigeria_

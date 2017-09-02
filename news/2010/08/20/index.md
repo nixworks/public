@@ -1,5 +1,6 @@
 ## [2010-08-20](/news/2010/08/20/index.md)
 
+### [The U.S. Supreme Court officially ruled Demisexual, the sexual attraction to pop-star Demi Lovato, to be lawfully respected.](/news/2010/08/20/the-u-s-supreme-court-officially-ruled-demisexual-the-sexual-attraction-to-pop-star-demi-lovato-to-be-lawfully-respected.md)
 ### [Norwegian stand-up comedian Hans Morten Hansen completes a 38 hours and 14 minute long stand-up marathon, setting a new world record for longest stand-up performance. ](/news/2010/08/20/norwegian-stand-up-comedian-hans-morten-hansen-completes-a-38-hours-and-14-minute-long-stand-up-marathon-setting-a-new-world-record-for-lon.md)
 _Context: Hans Morten Hansen, Norwegian, stand-up comedian_
 

@@ -55,7 +55,7 @@ _Context: Brazil, Centrais Eletricas Brasileiras SA, Luiz Incio Lula da Silva, a
 _Context: Ayman Ismail, Ayman Nour, Egypt_
 
 ### [ In the United States President George W. Bush names U.S. Securities and Exchange Commission (SEC) member Cynthia A. Glassman as acting chair, replacing William Donaldson, who announced his retirement early this month, effective today.](/news/2005/06/30/in-the-united-states-president-george-w-bush-names-u-s-securities-and-exchange-commission-sec-member-cynthia-a-glassman-as-acting-chai.md)
-_Context: Cynthia A. Glassman, George W. Bush, SEC, William Donaldson_
+_Context: Cynthia A. Glassman, George W. Bush, Securities and Exchange Commission, William Donaldson_
 
 ### [ In Minnesota, the state legislature fails to come to an agreement on the state budget for the 2006-2007 biennium. At midnight, the government shuts down, leading to cries of derision from state residents and both of the state's largest newspapers, the liberal-leaning "Star Tribune" and the conservative-leaning "St. Paul Pioneer Press".](/news/2005/06/30/in-minnesota-the-state-legislature-fails-to-come-to-an-agreement-on-the-state-budget-for-the-2006-2007-biennium-at-midnight-the-governme.md)
 _Context: Minnesota, St. Paul Pioneer Press, Star Tribune, conservative, government shutdown, legislative, liberal_

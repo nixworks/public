@@ -46,7 +46,7 @@ _Context: Movement for the Emancipation of the Niger Delta, Niger Delta, Nigeria
 _Context: First World War, Henry Allingham, Tomoji Tanabe, United Kingdom_
 
 ### [ The head of the U.S. Securities and Exchange Commission, Mary Schapiro, said in an interview that it should not be necessary for the SEC and the Commodity Futures Trading Commission to align all their rules and regulation, although she does expect some harmonization. ](/news/2009/06/19/the-head-of-the-u-s-securities-and-exchange-commission-mary-schapiro-said-in-an-interview-that-it-should-not-be-necessary-for-the-sec-an.md)
-_Context: CFTC, Mary Schapiro, SEC_
+_Context: CFTC, Mary Schapiro, Securities and Exchange Commission_
 
 ### [ U.S. District Court Judge Samuel B. Kent is impeached by the U.S. House of Representatives on charges of obstruction of justice. ](/news/2009/06/19/u-s-district-court-judge-samuel-b-kent-is-impeached-by-the-u-s-house-of-representatives-on-charges-of-obstruction-of-justice.md)
 _Context: Samuel B. Kent_

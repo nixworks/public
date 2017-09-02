@@ -46,7 +46,7 @@ _Context: Australia, Burnley Tunnel, Domain Tunnel, Melbourne_
 _Context: Menu Foods, North America, Veterinarian, aminopterin, pet food, recall_
 
 ### [ 16 people are dead and twelve more missing after a passenger schooner capsized in the Toe River, Myanmar. ](/news/2007/03/23/16-people-are-dead-and-twelve-more-missing-after-a-passenger-schooner-capsized-in-the-toe-river-myanmar.md)
-_Context: Burmese, Toe River_
+_Context: Myanmar, Toe River_
 
 ## [Previous Day...](/news/2007/03/22/index.md)
 

@@ -7,7 +7,7 @@ _Context: Organisation for the Prohibition of Chemical Weapons, Syria_
 _Context: Barack Obama, Office of Management and Budget, President, United States, United States Congress, United States Senate, White House_
 
 ### [A Buddhist mob torches more than 70 Muslim homes and stabs a 94-year-old woman to death in Rakhine State, Myanmar. ](/news/2013/10/1/a-buddhist-mob-torches-more-than-70-muslim-homes-and-stabs-a-94-year-old-woman-to-death-in-rakhine-state-myanmar.md)
-_Context: Buddhist, Burmese, Muslim, Rakhine State_
+_Context: Buddhist, Muslim, Myanmar, Rakhine State_
 
 ### [Bangladeshi politician Salahuddin Quader Chowdhury is sentenced to death for war crimes including murder, torture, and genocide for his atrocities in the Bangladesh Liberation War. ](/news/2013/10/1/bangladeshi-politician-salahuddin-quader-chowdhury-is-sentenced-to-death-for-war-crimes-including-murder-torture-and-genocide-for-his-atro.md)
 _Context: Bangladesh, Salahuddin Quader Chowdhury, independence war_

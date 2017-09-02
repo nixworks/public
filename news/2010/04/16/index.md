@@ -20,7 +20,7 @@ _Context: severe storm in India_
 _Context: Blackwater Worldwide, LLC, Xe Services_
 
 ### [The U.S. Securities and Exchange Commission charges Goldman Sachs with defrauding investors. ](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.md)
-_Context: Goldman Sachs, SEC_
+_Context: Goldman Sachs, Securities and Exchange Commission_
 
 ### [Former Israeli Prime Minister Ehud Olmert is named as the key suspect in "one of the biggest corruption scandals in Israel's history". ](/news/2010/04/16/former-israeli-prime-minister-ehud-olmert-is-named-as-the-key-suspect-in-one-of-the-biggest-corruption-scandals-in-israel-s-history.md)
 _Context: Ehud Olmert, Israel, Israeli Prime Minister_

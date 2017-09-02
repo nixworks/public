@@ -40,7 +40,7 @@ _Context: Indian Patent Office, Novartis, Supreme Court of India, generic_
 _Context: Ethiopia, Meles Zenawi, Prime Minister_
 
 ### [Myanmar announces that it is ending media censorship, as part of the ongoing political reforms in the country. ](/news/2012/08/20/myanmar-announces-that-it-is-ending-media-censorship-as-part-of-the-ongoing-political-reforms-in-the-country.md)
-_Context: Burmese, media censorship, ongoing political reforms in the country_
+_Context: Myanmar, media censorship, ongoing political reforms in the country_
 
 ### [In Somalia, a new parliament is formed, with the new task of electing the country's president. ](/news/2012/08/20/in-somalia-a-new-parliament-is-formed-with-the-new-task-of-electing-the-country-s-president.md)
 _Context: President of Somalia, Somalia_

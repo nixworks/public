@@ -16,7 +16,7 @@ _Context: Augusto Pinochet, Chile, Santiago, embezzlement_
 _Context: Idaho, Larry Craig, Minneapolis, Republican, United States Senate_
 
 ### [ India asks neighboring Myanmar to free Aung San Suu Kyi. ](/news/2007/10/4/india-asks-neighboring-myanmar-to-free-aung-san-suu-kyi.md)
-_Context: Aung San Suu Kyi, Burmese, India_
+_Context: Aung San Suu Kyi, India, Myanmar_
 
 ### [ Bangladesh Supreme Court denies bail to former Prime Minister Khaleda Zia in a corruption and extortion case against her.date=December 2007 ](/news/2007/10/4/bangladesh-supreme-court-denies-bail-to-former-prime-minister-khaleda-zia-in-a-corruption-and-extortion-case-against-her-date-december-2007.md)
 _Context: Bangladesh, Khaleda Zia, Prime Minister, Supreme Court, bail, case, extortion_

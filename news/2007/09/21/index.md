@@ -10,7 +10,7 @@ Two freshman students were shot and wounded, one seriously, during an argument t
 NASA announced new details Thursday about its plans for a Moon base that included a pair of small, pressurized rovers with a range of nearly 600 miles.
 
 ### [ Buddhist monks stage a brief demonstration in Myanmar making it the fourth successive day of protests. ](/news/2007/09/21/buddhist-monks-stage-a-brief-demonstration-in-myanmar-making-it-the-fourth-successive-day-of-protests.md)
-_Context: Buddhist, Burmese, fourth successive day of protests, monk_
+_Context: Buddhist, Myanmar, fourth successive day of protests, monk_
 
 ### [ Angolan police arrest Jomo Gbomo, the head of the Movement for the Emancipation of the Niger Delta, a rebel organization in Nigeria. ](/news/2007/09/21/angolan-police-arrest-jomo-gbomo-the-head-of-the-movement-for-the-emancipation-of-the-niger-delta-a-rebel-organization-in-nigeria.md)
 _Context: Angola, Jomo Gbomo, Movement for the Emancipation of the Niger Delta, Nigeria_

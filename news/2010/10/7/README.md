@@ -55,7 +55,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 _Context: Japan, US$, United States Federal Reserve, currency, quantitative easing, yen_
 
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
-_Context: Burmese, Irrawaddy River, delta_
+_Context: Irrawaddy River, Myanmar, delta_
 
 ### [A woman was killed and 25 others were injured when the tractor-trolley they were travelling in overturned in Kashipur town of Udhamsingh Nagar district. ](/news/2010/10/7/a-woman-was-killed-and-25-others-were-injured-when-the-tractor-trolley-they-were-travelling-in-overturned-in-kashipur-town-of-udhamsingh-nag.md)
 Woman killed, 25 injured in accident in Uttarakhand - The incident took place when the vehicle carrying labourers suddenly overturned in Kashipur town of Udhamsingh Nagar district, killing one of them on the spot.

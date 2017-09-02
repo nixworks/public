@@ -10,7 +10,7 @@ At least 143 Boko Haram fighters were killed in an attack on a military camp in 
 Ash and smoke from a volcanic eruption in Tonga are causing some flight cancellations in the region.
 
 ### [A school bus plunges off of a cliff on the Caribbean island of St. Vincent leaving at least five people dead and two missing. ](/news/2015/01/12/a-school-bus-plunges-off-of-a-cliff-on-the-caribbean-island-of-st-vincent-leaving-at-least-five-people-dead-and-two-missing.md)
-_Context: Caribbean Sea, St. Vincent, school bus_
+_Context: Caribbean, St. Vincent, school bus_
 
 ### [An electrical malfunction causes a fire in the Washington, D. C.'s Metro subway system near L'Enfant Plaza Station resulting in one death with 84 people taken to hospitals, mostly from smoke inhalation. ](/news/2015/01/12/an-electrical-malfunction-causes-a-fire-in-the-washington-d-c-s-metro-subway-system-near-l-enfant-plaza-station-resulting-in-one-death-wi.md)
 _Context: L'Enfant Plaza Station, Washington Metro, Washington, D.C., smoke inhalation_

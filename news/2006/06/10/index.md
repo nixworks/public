@@ -4,7 +4,7 @@
 _Context: Guantnamo Bay detainment camp, commit suicide_
 
 ### [ The first tropical depression of the 2006 Atlantic hurricane season forms in the northwestern Caribbean Sea. ](/news/2006/06/10/the-first-tropical-depression-of-the-2006-atlantic-hurricane-season-forms-in-the-northwestern-caribbean-sea.md)
-_Context: 2006 Atlantic hurricane season, Caribbean Sea_
+_Context: 2006 Atlantic hurricane season, Caribbean_
 
 ### [ The militant Hamas group calls off its truce with Israel after seven civilians are killed in the Gaza Strip. More than seventy Qassam rockets were launched at Israeli towns by Hamas militants since Friday morning, wounding Palestenian and Israeli civilians alike. ](/news/2006/06/10/the-militant-hamas-group-calls-off-its-truce-with-israel-after-seven-civilians-are-killed-in-the-gaza-strip-more-than-seventy-qassam-rocke.md)
 _Context: Gaza Strip, Hamas, Israel, Qassam rocket_

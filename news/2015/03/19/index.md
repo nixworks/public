@@ -16,7 +16,7 @@ Euro zone leaders told Greece on Thursday its leftist-led government must implem
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [A stabbing attack from March 17, leaves three dead and three wounded in New Bern, North Carolina, both the 18-year-old attacker and victims were refugees from Myanmar (Burma). ](/news/2015/03/19/a-stabbing-attack-from-march-17-leaves-three-dead-and-three-wounded-in-new-bern-north-carolina-both-the-18-year-old-attacker-and-victims.md)
-_Context: Burmese, New Bern, North Carolina_
+_Context: Myanmar, New Bern, North Carolina_
 
 ### [A March 17 DOS attack occurs on Chinese website GreatFire, reaching 2.5 billion spoof requests per hour. ](/news/2015/03/19/a-march-17-dos-attack-occurs-on-chinese-website-greatfire-reaching-2-5-billion-spoof-requests-per-hour.md)
 Internet freedom organization GreatFire is being hit with large-scale cyberattacks in likely retaliation for challenging the Chinese regime&#039;s censorship.

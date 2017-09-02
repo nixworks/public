@@ -1,7 +1,7 @@
 ## [2011-10-12](/news/2011/10/12/index.md)
 
 ### [Burmese comedian, actor and dissident Zarganar is released as part of an amnesty by the government of Myanmar for over 6,000 dissidents. ](/news/2011/10/12/burmese-comedian-actor-and-dissident-zarganar-is-released-as-part-of-an-amnesty-by-the-government-of-myanmar-for-over-6-000-dissidents.md)
-_Context: Burma, Burmese, Zarganar, amnesty_
+_Context: Burma, Myanmar, Zarganar, amnesty_
 
 ### [The Prime Minister of New Zealand John Key warns that the container ship Rena which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-break-up-a.md)
 The second officer of the Rena is facing a charge under the Maritime Transport Act as the fears grow that the stricken ship will disintegrate.

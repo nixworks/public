@@ -1,7 +1,7 @@
 ## [2012-08-23](/news/2012/08/23/index.md)
 
 ### [Tropical Storm Isaac (2012): The U.S. National Hurricane Center lowers its previous hurricane warning threat level for Hispaniola island in the Caribbean Sea to a storm warning and hurricane watch in its 23.00 PM bulletin. ](/news/2012/08/23/tropical-storm-isaac-2012-the-u-s-national-hurricane-center-lowers-its-previous-hurricane-warning-threat-level-for-hispaniola-island-in.md)
-_Context: Caribbean Sea, Hispaniola, National Hurricane Center, Tropical Storm Isaac_
+_Context: Caribbean, Hispaniola, National Hurricane Center, Tropical Storm Isaac_
 
 ### [Typhoon Tembin (2012): Taiwanese authorities evacuate almost 5,000 people ahead of the typhoon. ](/news/2012/08/23/typhoon-tembin-2012-taiwanese-authorities-evacuate-almost-5-000-people-ahead-of-the-typhoon.md)
 _Context: Taiwan, Typhoon Tembin, typhoon_

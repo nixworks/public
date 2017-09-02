@@ -13,7 +13,7 @@ _Context: Dennis Kucinich, U.S. Congress_
 _Context: Colombia, power outage_
 
 ### [ North Korea and Myanmar restore diplomatic relations after a break of more than 20 years. ](/news/2007/04/26/north-korea-and-myanmar-restore-diplomatic-relations-after-a-break-of-more-than-20-years.md)
-_Context: Burmese, North Korea_
+_Context: Myanmar, North Korea_
 
 ### [ Syrian parliamentary election, 2007: Syria's ruling coalition, the Baath Party-led National Progressive Front, wins the vast majority of seats in the People's Council, with the opposition boycotting the process claiming it as a farce. ](/news/2007/04/26/syrian-parliamentary-election-2007-syria-s-ruling-coalition-the-baath-party-led-national-progressive-front-wins-the-vast-majority-of-se.md)
 _Context: Baath Party, National Progressive Front, People's Council of Syria, Syria, Syrian parliamentary election, 2007, boycott_

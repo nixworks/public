@@ -37,7 +37,7 @@ _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 _Context: China, Lo Hsieh-che, Taiwan, Taiwanese Army, major general_
 
 ### [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md)
-_Context: Andaman Islands, Bangladesh, Burmese, India, Port Blair, Rohingya, Thai Navy, refugee, repatriation_
+_Context: Andaman Islands, Bangladesh, India, Myanmar, Port Blair, Rohingya, Thai Navy, refugee, repatriation_
 
 ### [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md)
 _Context: Charles Taylor, Liberia, President of Liberia_

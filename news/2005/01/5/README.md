@@ -10,7 +10,7 @@ _Context: Caracas, Colombia, Revolutionary Armed Forces of Colombia, Rodrigo Gra
 _Context: International Criminal Tribunal for the former Yugoslavia, Kosovo, Serbia, United Nations, Zoran Stojkovic_
 
 ### [ The U.S. Securities and Exchange Commission accuses Mexican broadcaster TV Azteca of involvement in a massive debt fraud; TV Azteca stock on the New York and Mexico City exchanges drops 9% on the news. ](/news/2005/01/5/the-u-s-securities-and-exchange-commission-accuses-mexican-broadcaster-tv-azteca-of-involvement-in-a-massive-debt-fraud-tv-azteca-stock-o.md)
-_Context: Mexico City exchanges, New York Stock Exchange, SEC, TV Azteca_
+_Context: Mexico City exchanges, New York Stock Exchange, Securities and Exchange Commission, TV Azteca_
 
 ## [Previous Day...](/news/2005/01/4/index.md)
 

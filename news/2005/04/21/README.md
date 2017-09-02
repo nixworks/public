@@ -19,7 +19,7 @@ _Context: ''Columbia'' disaster, Discovery, February 2003, May 22, STS-114_
 _Context: Alfredo Palacio, Brazil, Ecuador, Lucio Gutirrez_
 
 ### [ According to Christian Solidarity Worldwide, the army of Myanmar (Burma) has used chemical weapons against Karen rebels. ](/news/2005/04/21/according-to-christian-solidarity-worldwide-the-army-of-myanmar-burma-has-used-chemical-weapons-against-karen-rebels.md)
-_Context: Burma, Burmese, Christian Solidarity Worldwide, Karen, chemical weapons_
+_Context: Burma, Christian Solidarity Worldwide, Karen, Myanmar, chemical weapons_
 
 ### [ In Zanzibar, an electoral commission accepts Seif Shariff Hamad, secretary general of the opposition party Civic United Front, as a legitimate voter and therefore eligible candidate. ](/news/2005/04/21/in-zanzibar-an-electoral-commission-accepts-seif-shariff-hamad-secretary-general-of-the-opposition-party-civic-united-front-as-a-legitim.md)
 _Context: Civic United Front, Seif Shariff Hamad, Zanzibar, candidate, voter_

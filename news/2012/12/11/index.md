@@ -34,7 +34,7 @@ The Australian radio station whose DJs made a hoax call to a nurse who was later
 An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “natural life” in prison for the kidnapping and murder of Maria Ridulph on Dec. 3, 1957.
 
 ### [The United States Court of Appeals for the Seventh Circuit overturns an Illinois law banning the carrying of concealed weapons. ](/news/2012/12/11/the-united-states-court-of-appeals-for-the-seventh-circuit-overturns-an-illinois-law-banning-the-carrying-of-concealed-weapons.md)
-_Context: 7th U.S. Circuit Court of Appeals, Illinois_
+_Context: Illinois, United States Court of Appeals for the Seventh Circuit_
 
 ### [A gunman opens fire in the Clackamas Town Center mall in the U.S. state of Oregon. Three people, including the suspected shooter, are killed and another is injured. ](/news/2012/12/11/a-gunman-opens-fire-in-the-clackamas-town-center-mall-in-the-u-s-state-of-oregon-three-people-including-the-suspected-shooter-are-killed.md)
 _Context: Clackamas Town Center, Oregon, U.S., opens fire_

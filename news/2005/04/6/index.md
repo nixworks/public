@@ -40,7 +40,7 @@ _Context: English Channel, Equatorial Guinea, Guernsey, coup_
 _Context: Togo, Union of Forces for Change_
 
 ### [ The U.S. Securities and Exchange Commission, by a 3-2 vote, adopts a set of rules designed to create a "National Market System." The dissenting commissioners describe the measure as 'anticompetitive'. ](/news/2005/04/6/the-u-s-securities-and-exchange-commission-by-a-3-2-vote-adopts-a-set-of-rules-designed-to-create-a-national-market-system-the-dissen.md)
-_Context: SEC_
+_Context: Securities and Exchange Commission_
 
 ### [ The Integrated Ocean Drilling Program (IODP) announces that it has drilled a hole to the lowest level of the Earth's crust, and that it is poised to break through to the mantle, in search of the Mohorovicic discontinuity. ](/news/2005/04/6/the-integrated-ocean-drilling-program-iodp-announces-that-it-has-drilled-a-hole-to-the-lowest-level-of-the-earth-s-crust-and-that-it-is.md)
 _Context: Earth, Integrated Ocean Drilling Program, Mohorovicic discontinuity, mantle, surface crust_

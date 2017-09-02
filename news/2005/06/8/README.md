@@ -25,7 +25,7 @@ _Context: 2005 elections, Addis Ababa, EPRDF, Ethiopia_
 _Context: European Commission, Jos Manuel Barroso, no-confidence vote_
 
 ### [ HealthSouth and the U.S. Securities and Exchange Commission reach a settlement. The company will pay $100 million to put the SEC investigation behind it.](/news/2005/06/8/healthsouth-and-the-u-s-securities-and-exchange-commission-reach-a-settlement-the-company-will-pay-100-million-to-put-the-sec-investigat.md)
-_Context: HealthSouth, SEC_
+_Context: HealthSouth, Securities and Exchange Commission_
 
 ## [Previous Day...](/news/2005/06/7/index.md)
 

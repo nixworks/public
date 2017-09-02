@@ -22,7 +22,7 @@ The Supreme Court’s ruling that the Clean Air Act expressly authorizes the E.P
 _Context: Cambodian People's Party_
 
 ### [ Singapore Foreign Minister George Yeo meets his Myanmar counterpart, Nyan Win, in Yangon, where the ministers are discussing bilateral cooperation and cultural exchanges. ](/news/2007/04/2/singapore-foreign-minister-george-yeo-meets-his-myanmar-counterpart-nyan-win-in-yangon-where-the-ministers-are-discussing-bilateral-coop.md)
-_Context: Burmese, George Yeo, Nyan Win, Singapore, Yangon_
+_Context: George Yeo, Myanmar, Nyan Win, Singapore, Yangon_
 
 ### [ Panthongtae and Pinthongta Shinawatra, the son and daughter of deposed prime minister of Thailand Thaksin Shinawatra are ordered to pay 10 billion baht in back taxes owed in connection with the sale of Shin Corporation stock to Temasek Holdings. ](/news/2007/04/2/panthongtae-and-pinthongta-shinawatra-the-son-and-daughter-of-deposed-prime-minister-of-thailand-thaksin-shinawatra-are-ordered-to-pay-10.md)
 _Context: Panthongtae, Pinthongta Shinawatra, Shin Corporation, Temasek Holdings, Thailand, Thaksin Shinawatra, baht_

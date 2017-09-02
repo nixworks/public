@@ -7,7 +7,7 @@ Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links t
 _Context: 2011 Syrian uprising, Hillary Clinton, Syrian Army, Turkey, United States Secretary of State_
 
 ### [Three explosions hit the Myanmar cities of Naypyidaw, Mandalay and Pyin U Lwin. ](/news/2011/06/24/three-explosions-hit-the-myanmar-cities-of-naypyidaw-mandalay-and-pyin-u-lwin.md)
-_Context: Burmese, Mandalay, Naypyidaw, Pyin U Lwin_
+_Context: Mandalay, Myanmar, Naypyidaw, Pyin U Lwin_
 
 ### [Italian Mario Draghi is appointed as the next President of the European Central Bank, replacing Jean-Claude Trichet on November 1. ](/news/2011/06/24/italian-mario-draghi-is-appointed-as-the-next-president-of-the-european-central-bank-replacing-jean-claude-trichet-on-november-1.md)
 EU&#x20;leaders&#x20;appointed&#x20;Italy&#x27;s&#x20;Mario&#x20;Draghi&#x20;&#x28;pictured&#x29;&#x20;as&#x20;the&#x20;next&#x20;president&#x20;of&#x20;the&#x20;European&#x20;Central&#x20;Bank&#x20;at&#x20;a&#x20;Brussels&#x20;summit&#x20;on&#x20;Friday.&#x20;Draghi&#x20;will&#x20;succeed&#x20;Fran...

@@ -1,7 +1,7 @@
 ## [2002-06-27](/news/2002/06/27/index.md)
 
 ### [ Accountancy scandals - The U.S. Securities and Exchange Commission has begun fraud action against WorldCom.](/news/2002/06/27/accountancy-scandals-a-the-u-s-securities-and-exchange-commission-has-begun-fraud-action-against-worldcom.md)
-_Context: Accountancy scandals, SEC, WorldCom_
+_Context: Accountancy scandals, Securities and Exchange Commission, WorldCom_
 
 ### [ Finance - The euro approaches parity with the United States dollar.](/news/2002/06/27/finance-a-the-euro-approaches-parity-with-the-united-states-dollar.md)
 _Context: EUR, Finance, US$_

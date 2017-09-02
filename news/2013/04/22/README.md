@@ -22,7 +22,7 @@ The company’s board was sued over the phone-hacking scandal and the purchase o
 _Context: European Union, Syria, Syrian Civil War, embargo_
 
 ### [The European Union lifts all sanctions and trade embargoes on Myanmar excluding arms trade and other trade of equipment that could be used for internal repression, citing the improvement of political freedoms. ](/news/2013/04/22/the-european-union-lifts-all-sanctions-and-trade-embargoes-on-myanmar-excluding-arms-trade-and-other-trade-of-equipment-that-could-be-used-f.md)
-_Context: Burmese, European Union, embargo_
+_Context: European Union, Myanmar, embargo_
 
 ### [Clothing retailer Ralph Lauren agrees to pay $1.6 million for claims of bribery to public officials in Argentina from 2005 to 2009. ](/news/2013/04/22/clothing-retailer-ralph-lauren-agrees-to-pay-1-6-million-for-claims-of-bribery-to-public-officials-in-argentina-from-2005-to-2009.md)
 _Context: Argentina, Ralph Lauren, United States dollars_

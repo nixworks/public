@@ -19,7 +19,7 @@ _Context: Afghanistan's, M1 Abrams tanks, United States military personnel, War 
 A dummy bomb that sparked an international terror alert was made by an 80-year-old Calif. grandmother and was discarded in an Namibia airport because of &quot;a boo boo,&quot; NBC reported.
 
 ### [United States federal judge William Terrell Hodges orders actor Wesley Snipes to surrender to authorities so that he can start a three year sentence for tax-related crimes. ](/news/2010/11/19/united-states-federal-judge-william-terrell-hodges-orders-actor-wesley-snipes-to-surrender-to-authorities-so-that-he-can-start-a-three-year.md)
-_Context: U.S. District Court Judge, Wesley Snipes, William Terrell Hodges_
+_Context: United States federal judge, Wesley Snipes, William Terrell Hodges_
 
 ### [Twenty-nine coal miners and officials are feared trapped following an explosion at the Pike River Coal Processing Plant at Atarau in the Grey District of the South Island of New Zealand. ](/news/2010/11/19/twenty-nine-coal-miners-and-officials-are-feared-trapped-following-an-explosion-at-the-pike-river-coal-processing-plant-at-atarau-in-the-gre.md)
 More details of the missing miners emerge as police wait until it is safe to begin the rescue operation.

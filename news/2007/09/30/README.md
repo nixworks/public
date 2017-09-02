@@ -13,7 +13,7 @@ _Context: Ukraine_
 The Topps Meat Company, based in Elizabeth, N.J., said it was recalling 21.7 million pounds of ground beef products, which may have sickened 25 people in eight states.
 
 ### [ A central member of the military junta in Myanmar is reportedly interested in seeking political asylum in Norway. The colonel is said to have defected recently, and he is now hiding in the jungle among the Karen people. ](/news/2007/09/30/a-central-member-of-the-military-junta-in-myanmar-is-reportedly-interested-in-seeking-political-asylum-in-norway-the-colonel-is-said-to-ha.md)
-_Context: Burmese, Karen, Norway, State Peace and Development Council_
+_Context: Karen, Myanmar, Norway, State Peace and Development Council_
 
 ### [ Indian player Viswanathan Anand wins the World Chess Championship 2007 at Mexico City to become the new world champion. ](/news/2007/09/30/indian-player-viswanathan-anand-wins-the-world-chess-championship-2007-at-mexico-city-to-become-the-new-world-champion.md)
 Viswanathan Anand of India, the world’s top-ranked player, dominated the 14-round World Chess Championship that ended Saturday.

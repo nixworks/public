@@ -54,7 +54,6 @@ President announces two-year moratorium as Norway offers Jakarta $1bn in aid.
 ### [Arnold Schwarzenegger and Steven Spielberg help unveil the rebuilt outdoor sets with imitation New York streets of Universal Studios in Los Angeles, United States. The sets were destroyed in a 2008 fire. ](/news/2010/05/28/arnold-schwarzenegger-and-steven-spielberg-help-unveil-the-rebuilt-outdoor-sets-with-imitation-new-york-streets-of-universal-studios-in-los.md)
 Universal Studios in Los Angeles has unveiled its $200m (£137m) rebuilt outdoor sets - with imitation New York streets - destroyed by fire in 2008.
 
-### [At the StrangeCreek music festival in Greenfield,Massachusetts Ian Jones and Deborah Carty met for the first time [http://www.StrangeCreekCampout.com]](/news/2010/05/28/at-the-strangecreek-music-festival-in-greenfield-massachusetts-ian-jones-and-deborah-carty-met-for-the-first-time-http-www-strangecreekca.md)
 ### [After a personal intervention from Nicolas Sarkozy, France beats Turkey and Italy for the right to stage the UEFA Euro 2016 tournament. ](/news/2010/05/28/after-a-personal-intervention-from-nicolas-sarkozy-france-beats-turkey-and-italy-for-the-right-to-stage-the-uefa-euro-2016-tournament.md)
 France&#x20;will&#x20;host&#x20;the&#x20;European&#x20;Football&#x20;Championship&#x20;for&#x20;a&#x20;third&#x20;time&#x20;in&#x20;2016&#x20;after&#x20;defeating&#x20;rival&#x20;bids&#x20;by&#x20;Turkey&#x20;and&#x20;Italy&#x20;in&#x20;a&#x20;ceremony&#x20;attended&#x20;by&#x20;President&#x20;Nicol...
 

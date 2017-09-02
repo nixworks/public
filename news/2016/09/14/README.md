@@ -19,7 +19,7 @@ The South American trading bloc Mercosur threatens to suspend Venezuela if it do
 _Context: Brazil, Lula, Marisa Leticia Lula da Silva, Operation Car Wash, President, Sergio Moro_
 
 ### [The Obama administration plans to lift sanctions against Myanmar. ](/news/2016/09/14/the-obama-administration-plans-to-lift-sanctions-against-myanmar.md)
-_Context: Burmese, Obama Administration_
+_Context: Myanmar, Obama Administration_
 
 ### [The Obama administration plans on increasing refugees admitted to the United States to 110,000. ](/news/2016/09/14/the-obama-administration-plans-on-increasing-refugees-admitted-to-the-united-states-to-110-000.md)
 Of the 110,000 the U.S. intends to admit, at least 40,000 are from the Near East and South Asia, a White House senior administration official said.

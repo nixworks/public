@@ -6,6 +6,9 @@ What you need to know about Irma&#039;s threat next week.
 ### [Researchers report, in the "Environmental Science & Technology" journal, the discovery of antidepressant concentrations in 10 kinds of fish in the Niagara River, which links to the Great Lakes via Lakes Erie and Ontario. Speculated causes include inadequate treatment of water re-introduced into said bodies of water. ](/news/2017/09/1/researchers-report-in-the-environmental-science-technology-journal-the-discovery-of-antidepressant-concentrations-in-10-kinds-of-fish.md)
 _Context: Environmental Science & Technology, Great Lakes, Lakes Erie, Niagara River, Ontario, antidepressant, bodies of water_
 
+### [United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.](/news/2017/09/1/united-states-federal-judge-richard-posner-has-announced-his-retirement-after-three-decades-of-service-on-the-bench-of-the-7th-u-s-circuit.md)
+_Context: President, Richard Posner, Ronald Reagan, United States Court of Appeals for the Seventh Circuit, United States federal judge_
+
 ### [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md)
 Jacinda Ardern says in debate with PM she is taking nothing for granted after poll gives her party a two-point advantage
 

@@ -7,7 +7,7 @@ _Context: Germany, Government of Turkmenistan, President, Russia, Saparmurat Niy
 _Context: Beit Hanoun November 2006 incident, Gaza Strip, Israel, United Nations Security Council, United Nations Security Council resolution, United States_
 
 ### [ Aung San Suu Kyi meets with a United Nations official Ibrahim Gambari in Myanmar. It is the first time she has left her house since having been placed under house arrest in May. ](/news/2006/11/11/aung-san-suu-kyi-meets-with-a-united-nations-official-ibrahim-gambari-in-myanmar-it-is-the-first-time-she-has-left-her-house-since-having.md)
-_Context: Aung San Suu Kyi, Burmese, Ibrahim Gambari, United Nations_
+_Context: Aung San Suu Kyi, Ibrahim Gambari, Myanmar, United Nations_
 
 ### [ Somalia's Islamist leaders say they have agreed a deal to avoid hostilities with the transitional government. ](/news/2006/11/11/somalia-s-islamist-leaders-say-they-have-agreed-a-deal-to-avoid-hostilities-with-the-transitional-government.md)
 _Context: Somalia_

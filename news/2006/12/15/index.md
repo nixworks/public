@@ -25,7 +25,7 @@ _Context: Chrysler Voyager, Clay Regazzoni, Formula One, Italian, Parma, lorry_
 _Context: Jendayi Frazer, Somali civil war, al-Qaeda_
 
 ### [ Newt Gingrich, former Speaker of the U.S. House of Representatives, says the six men involved in the Flying Imams controversy should have been "arrested and prosecuted for pretending to be terrorists." ](/news/2006/12/15/newt-gingrich-former-speaker-of-the-u-s-house-of-representatives-says-the-six-men-involved-in-the-flying-imams-controversy-should-have-b.md)
-_Context: Flying Imams controversy, Newt Gingrich, Speaker of the United States House of Representatives_
+_Context: Flying Imams controversy, Newt Gingrich, U.S. Speaker of the House of Representatives_
 
 ### [ Alex Ovechkin of the Washington Capitals scores the fastest overtime goal in the history of the NHL in 6 seconds against the Atlanta Thrashers.](/news/2006/12/15/alex-ovechkin-of-the-washington-capitals-scores-the-fastest-overtime-goal-in-the-history-of-the-nhl-in-6-seconds-against-the-atlanta-thrash.md)
 _Context: Alex Ovechkin, Atlanta Thrashers, NHL, Washington Capitals_

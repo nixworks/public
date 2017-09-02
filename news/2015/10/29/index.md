@@ -58,7 +58,7 @@ The drone - which also carried a mobile phone, cigarettes, cigars, super glue an
 WASHINGTON — The US House passed a multiyear budget deal, deemed favorable to defense, ahead of what is expected to be smooth sailing in the Senate.
 
 ### [The U.S. House of Representatives elects Paul Ryan of Wisconsin as the 62nd Speaker of the House replacing John Boehner of Ohio. ](/news/2015/10/29/the-u-s-house-of-representatives-elects-paul-ryan-of-wisconsin-as-the-62nd-speaker-of-the-house-replacing-john-boehner-of-ohio.md)
-_Context: John Boehner, Ohio, Paul Ryan, Speaker of the United States House of Representatives, Speaker of the United States House of Representatives election, October 2015_
+_Context: John Boehner, Ohio, Paul Ryan, Speaker of the United States House of Representatives election, October 2015, U.S. Speaker of the House of Representatives_
 
 ### [The Parliament of Moldova passes a no-confidence vote against pro-EU incumbent prime-minister Valeriu Strelet's cabinet amidst growing political turmoil in the country. ](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.md)
 _Context: Moldovan Prime Minister, Parliament, Valeriu Strelet, cabinet, no confidence_

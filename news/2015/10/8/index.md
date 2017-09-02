@@ -31,7 +31,7 @@ _Context: 2015 Thalys train attack, Spencer Stone_
 The German state of Bavaria plans &quot;emergency measures&quot; to slow arrivals of asylum seekers, including sending some back to neighboring Austria, state premier Horst Seehofer said, directly challenging Chancellor Angela Merkel over the crisis. &quot;On top of that will come specific self-defe...
 
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: John Boehner, Kevin McCarthy, Majority Leader, Speaker of the United States House of Representatives, Speaker of the United States House of Representatives election, October 2015, United States House of Representatives_
+_Context: John Boehner, Kevin McCarthy, Majority Leader, Speaker of the United States House of Representatives election, October 2015, U.S. Speaker of the House of Representatives, United States House of Representatives_
 
 ## [Previous Day...](/news/2015/10/7/index.md)
 

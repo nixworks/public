@@ -22,7 +22,7 @@ _Context: France, face transplant_
 _Context: China, coal mine, death toll_
 
 ### [ Giovanni Prezioso, the General Counsel of the U.S. Securities and Exchange Commission, announces that he's leaving that post, although he'll remain until early 2006 to aid with the transition. ](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.md)
-_Context: General Counsel, Giovanni Prezioso, SEC_
+_Context: General Counsel, Giovanni Prezioso, Securities and Exchange Commission_
 
 ### [ There are reports that Walt Disney Co., which is trying to sell its ABC Radio unit, has narrowed the field of potential buyers to three: Entercom Communications Corp., Cumulus Media Inc. and a private equity firm Kohlberg Kravis Roberts. ](/news/2005/11/30/there-are-reports-that-walt-disney-co-which-is-trying-to-sell-its-abc-radio-unit-has-narrowed-the-field-of-potential-buyers-to-three-en.md)
 _Context: ABC Radio, Cumulus Media Inc., Entercom Communications Corp., Kohlberg Kravis Roberts, Walt Disney Co._

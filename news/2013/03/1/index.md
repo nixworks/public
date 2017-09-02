@@ -22,7 +22,7 @@ _Context: fishermen, shark_
 Eight South African police officers are arrested over the death of a Mozambican man who was dragged through the streets behind a police vehicle.
 
 ### [Myanmar drug lord and convicted murderer Naw Kham is executed by lethal injection in Kunming, Yunnan Province, China. ](/news/2013/03/1/myanmar-drug-lord-and-convicted-murderer-naw-kham-is-executed-by-lethal-injection-in-kunming-yunnan-province-china.md)
-_Context: Burmese, China, Kunming, Naw Kham, Yunnan Province, drug kingpin, lethal injection_
+_Context: China, Kunming, Myanmar, Naw Kham, Yunnan Province, drug kingpin, lethal injection_
 
 ### [Google wins a copyright case in the German Bundestag over whether they can put news stories on their website without having to pay. ](/news/2013/03/1/google-wins-a-copyright-case-in-the-german-bundestag-over-whether-they-can-put-news-stories-on-their-website-without-having-to-pay.md)
 Google was handed a small victory in Germany this week when lawmakers there approved a bill that will allow the search giant to freely include headlines and snippets from German publishers on services like Google News.

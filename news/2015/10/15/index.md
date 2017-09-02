@@ -19,7 +19,7 @@ _Context: Boko Haram insurgency, Maiduguri, Nigeria_
 Uri Rezken, the victim of a stabbing attack in Kiryat Ata, in Haifa, Israel, describes the moment he was mistaken for an Arab and stabbed by an Israeli
 
 ### [Lennart Anderson died at age 87 in Brooklyn, New York. Also a teacher at several notable institutions such as Pratt Institute, the Art Students League of New York, Yale, Princeton, Columbia, and Brooklyn College, Anderson's influence was felt by generations of artists.](/news/2015/10/15/lennart-anderson-died-at-age-87-in-brooklyn-new-york-also-a-teacher-at-several-notable-institutions-such-as-pratt-institute-the-art-stude.md)
-_Context: Art Students League of New York, Brooklyn, Brooklyn College, Columbia, Lennart Anderson, New York State, Pratt Institute, Princeton, Yale_
+_Context: Art Students League of New York, Brooklyn, Brooklyn College, Columbia University, Lennart Anderson, New York State, Pratt Institute, Princeton, Yale_
 
 ### [The German automotive watchdog KBA orders Volkswagen to recall 2.4 million cars in that country after the emissions scandal becomes public knowledge. ](/news/2015/10/15/the-german-automotive-watchdog-kba-orders-volkswagen-to-recall-2-4-million-cars-in-that-country-after-the-emissions-scandal-becomes-public-k.md)
 German automotive watchdog KBA ordered Volkswagen to recall 2.4 million vehicles in the country after Europe&#039;s biggest carmaker admitted to cheating on emissions tests for diesel vehicles.

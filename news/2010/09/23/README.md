@@ -16,7 +16,7 @@ At least six people die after a cassiterite mine collapsed in Burundi, 120km (75
 _Context: China, Typhoon Fanapi_
 
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
-_Context: 2010 Atlantic hurricane season, Caribbean Sea, Central America_
+_Context: 2010 Atlantic hurricane season, Caribbean, Central America_
 
 ### [Approximately 16,000 people have died in the United States between 2001 and 2007 due to people using cell phones while driving, according to a new report. ](/news/2010/09/23/approximately-16-000-people-have-died-in-the-united-states-between-2001-and-2007-due-to-people-using-cell-phones-while-driving-according-to.md)
 Drivers distracted by talking or texting on cell phones killed an estimated 16,000 people from 2001 to 2007, U.S. researchers reported on Thursday.

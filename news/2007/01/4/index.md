@@ -13,7 +13,7 @@ _Context: CoRoT, Colorado, December 27, Denver, Rocky Mountains, Soyuz 2, atmosp
 _Context: Freehold Township, New Jersey, Quadrantids, golf ball, meteor shower_
 
 ### [ Nancy Pelosi is elected speaker of the United States House of Representatives, and becomes the first woman to hold that post. ](/news/2007/01/4/nancy-pelosi-is-elected-speaker-of-the-united-states-house-of-representatives-and-becomes-the-first-woman-to-hold-that-post.md)
-_Context: Nancy Pelosi, Speaker of the United States House of Representatives, United States House of Representatives_
+_Context: Nancy Pelosi, U.S. Speaker of the House of Representatives, United States House of Representatives_
 
 ### [ U.S. National Intelligence Director John Negroponte resigns. United States President George W. Bush appoints him Deputy Secretary of State according to officials. ](/news/2007/01/4/u-s-national-intelligence-director-john-negroponte-resigns-united-states-president-george-w-bush-appoints-him-deputy-secretary-of-state.md)
 _Context: George W. Bush, John Negroponte, U.S. National Intelligence Director, US Deputy Secretary of State_
