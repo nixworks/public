@@ -49,7 +49,7 @@ Former Taiwanese president Chen Shui-bian is to be released from prison after be
 _Context: Jiangsu, Nanjing, Yang Weize, anti-graft agency_
 
 ### [The Justice Department charges two American citizens of Gambian descent with violating the Neutrality Act by helping to finance and lead the 2014 Gambian coup d'etat attempt. ](/news/2015/01/5/the-justice-department-charges-two-american-citizens-of-gambian-descent-with-violating-the-neutrality-act-by-helping-to-finance-and-lead-the.md)
-_Context: 2014 Gambian coup d'etat attempt, American, Gambia, Neutrality Act, U.S. Department of Justice_
+_Context: 2014 Gambian coup d'etat attempt, American, Gambia, Neutrality Act, U.S. Justice Department_
 
 ## [Previous Day...](/news/2015/01/4/index.md)
 

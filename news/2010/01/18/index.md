@@ -4,7 +4,7 @@
 _Context: 2010 Islamic Solidarity Games, Persian Gulf, Tehran, a dispute regarding the name_
 
 ### [North Korea says sanctions against the country should be lifted before it returns to the six-party talks over its nuclear program. ](/news/2010/01/18/north-korea-says-sanctions-against-the-country-should-be-lifted-before-it-returns-to-the-six-party-talks-over-its-nuclear-program.md)
-_Context: North Korea, intercontinental ballistic, sanctions, six-party talks_
+_Context: North Korea, North Korea and weapons of mass destruction, sanctions, six-party talks_
 
 ### [Indian and Pakistani forces exchange fire over the border. ](/news/2010/01/18/indian-and-pakistani-forces-exchange-fire-over-the-border.md)
 Pakistani security forces said Indian troops fired on their positions near Lahore as border tensions between the two nuclear-armed foes simmer.

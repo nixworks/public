@@ -10,7 +10,7 @@ An al-Shabab suicide bomber detonated his explosives while hugging a local offic
 WASHINGTON: Turkish President Tayyip Erdogan said an attack in the southeastern city of Diyarbakir on Thursday that killed seven people and wounded 27 showed the “ugly face” of militants “as they are cornered.”“This shows terrorism’s ugly face again. The determination of our security for...
 
 ### [The Syrian Observatory for Human Rights reports a drone attack, "most likely operated by the US-led coalition," kills Abu al-Hija, a high-ranking Tunisian ISIL commander, near the Islamic State's de facto Syrian capital Raqqa. ](/news/2016/03/31/the-syrian-observatory-for-human-rights-reports-a-drone-attack-amost-likely-operated-by-the-us-led-coalition-a-kills-abu-al-hija-a-hig.md)
-_Context: Al-Raqqah, ISIL, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Tunisia_
+_Context: Al-Raqqah, Islamic State of Iraq and the Levant, Syria, Syrian Civil War, Syrian Observatory for Human Rights, Tunisia_
 
 ### [The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. ](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.md)
 _Context: Endo International plc, Lidoderm, Opana ER, U.S. Federal Trade Commission, generic, pain medications, pay-for-delay settlements, reduced competition and higher prices_
@@ -22,7 +22,7 @@ A group led by China’s Anbang Insurance Group Co. withdrew its $14 billion tak
 Three more bodies were recovered from under the debris of the flyover that collapsed on to vehicles and street vendors here, taking the toll to 24 even as five officials of the firm that was building the structure have been detained.
 
 ### [More than 50 heads of state as well as representatives from international organizations attend the annual Nuclear Security Summit in Washington, D.C., with the notable exception of Russia, which declined to attend. The main agenda of the two-day gathering is the discussion of North Korea and the threat it poses with its nuclear weapons and the possibility of ISIS extremists getting a nuclear weapon. ](/news/2016/03/31/more-than-50-heads-of-state-as-well-as-representatives-from-international-organizations-attend-the-annual-nuclear-security-summit-in-washing.md)
-_Context: ISIL, North Korea, Nuclear Security Summit, Nuclear Security Summit, Russia, Washington, D.C., intercontinental ballistic_
+_Context: Islamic State of Iraq and the Levant, North Korea, North Korea and weapons of mass destruction, Nuclear Security Summit, Nuclear Security Summit, Russia, Washington, D.C._
 
 ### [Former Deputy Prime Minister of Serbia and nationalist politician, Vojislav Seselj, is acquitted of all nine charges of committing atrocities in Bosnia and Croatia during the early 1990s by the International Criminal Tribunal for the former Yugoslavia. ](/news/2016/03/31/former-deputy-prime-minister-of-serbia-and-nationalist-politician-vojislav-a-ea-elj-is-acquitted-of-all-nine-charges-of-committing-atrocit.md)
 Former Serbian deputy PM was charged by ICTY with crimes against humanity and war crimes in Croatia and Bosnia in 1990s

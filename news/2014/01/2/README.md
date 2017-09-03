@@ -1,7 +1,7 @@
 ## [2014-01-2](/news/2014/01/2/index.md)
 
 ### [Armed tribesmen and ISIS militants control the Iraqi cities of Fallujah and Ramadi, after days of violence that erupted as a protest camp was removed. ](/news/2014/01/2/armed-tribesmen-and-isis-militants-control-the-iraqi-cities-of-fallujah-and-ramadi-after-days-of-violence-that-erupted-as-a-protest-camp-wa.md)
-_Context: Fallujah, ISIL, Ramadi_
+_Context: Fallujah, Islamic State of Iraq and the Levant, Ramadi_
 
 ### [Five people are killed and 20 wounded in a car bomb which hit a southern suburb of the Lebanese capital Beirut. ](/news/2014/01/2/five-people-are-killed-and-20-wounded-in-a-car-bomb-which-hit-a-southern-suburb-of-the-lebanese-capital-beirut.md)
 A car bomb explodes in a southern suburb of the Lebanese capital Beirut, killing at least five people and injuring more than 60.

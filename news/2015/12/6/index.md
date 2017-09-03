@@ -1,7 +1,7 @@
 ## [2015-12-6](/news/2015/12/6/index.md)
 
 ### [Jaafar Mohammed Saad, the governor of Yemen's southern Aden Governorate, along with six guards, are killed by a suicide bomber in the port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/12/6/jaafar-mohammed-saad-the-governor-of-yemen-s-southern-aden-governorate-along-with-six-guards-are-killed-by-a-suicide-bomber-in-the-port-c.md)
-_Context: Aden, Aden Governorate, ISIL, Jaafar Mohammed Saad, Yemen, Yemeni Civil War (2015), suicide bomber_
+_Context: Aden, Aden Governorate, Islamic State of Iraq and the Levant, Jaafar Mohammed Saad, Yemen, Yemeni Civil War (2015), suicide bomber_
 
 ### [A series of air strikes in Syria's Raqqa province, believed to be carried out by U.S.-led coalition warplanes, leaves at least 32 Islamic State fighters killed and 40 more wounded. The final toll could rise as casualty figures were collected from a single hospital. The jets hit IS headquarters and bases to the north, east, and southeast of provincial capital Raqqa city. ](/news/2015/12/6/a-series-of-air-strikes-in-syria-s-raqqa-province-believed-to-be-carried-out-by-u-s-led-coalition-warplanes-leaves-at-least-32-islamic-st.md)
 Fighters killed in some 15 strikes on IS Raqqa stronghold.

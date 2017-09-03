@@ -7,7 +7,7 @@ _Context: Islam Karimov, Uzbekistan, assassinated_
 _Context: Abdullah calan, Europe, Kurd, Turkey_
 
 ### [ In Jasper, Texas, testimony begins in the trial of John William King who is accused of dragging African American James Byrd Jr. to death in an apparent hate crime. King was later convicted and sentenced to the death penalty.](/news/1999/02/16/in-jasper-texas-testimony-begins-in-the-trial-of-john-william-king-who-is-accused-of-dragging-african-american-james-byrd-jr-to-death-in.md)
-_Context: African-American, James Byrd Jr., Jasper, Texas, John William King, death penalty, hate crime_
+_Context: African-American, Jasper, Texas, John William King, death penalty, hate crime_
 
 ## [Previous Day...](/news/1999/02/15/index.md)
 

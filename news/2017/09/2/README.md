@@ -9,7 +9,7 @@ Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire
 ### [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md)
 Australia and Timor-Leste resolve their bitter and long-running dispute over maritime boundaries in the Timor Sea.
 
-### [The Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/the-cambodian-opposition-leader-kem-sokha-is-arrested.md)
+### [Cambodian opposition leader Kem Sokha is arrested. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested.md)
 Police in Cambodia arrested the leader of the country&apos;s main opposition party in a surprise raid on his home
 
 ## [Previous Day...](/news/2017/09/1/index.md)

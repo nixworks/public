@@ -1,7 +1,7 @@
 ## [2016-10-15](/news/2016/10/15/index.md)
 
 ### [Attacks targeting a Shi'ite Muslim gathering, a police check-point, and the family of an anti-Islamic State Sunni paramilitary leader, kill at least 55 people in Iraq. ](/news/2016/10/15/attacks-targeting-a-shi-ite-muslim-gathering-a-police-check-point-and-the-family-of-an-anti-islamic-state-sunni-paramilitary-leader-kill.md)
-_Context: 2016 October Baghdad attacks, ISIL, Iraq, Iraqi Civil War (2014-present), Shi'ite, Sunni Muslim_
+_Context: 2016 October Baghdad attacks, Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant, Shi'ite, Sunni Muslim_
 
 ### [Russian border patrol officers open fire on a North Korean fishing vessel, leaving one fisherman dead, and eight others injured. ](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.md)
 Russian border patrol was forced to open fire during inspection of a fishing vessel with North Korean crew onboard. The crew resisted search, behaved aggressively, and tried to flee with the members of the Russian security forces on board, according to the Russian Federal Security Service (FSB).
@@ -40,7 +40,7 @@ _Context: California, Coronado Bridge, San Diego_
 Aid agencies work with UK and France as operation steps up due to imminent demolition of Calais refugee camp
 
 ### [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md)
-_Context: Kusong, North Korea, North Pyongan Province, Strategic Command systems, U.S. military, ballistic missile, intercontinental ballistic_
+_Context: Kusong, North Korea, North Korea and weapons of mass destruction, North Pyongan Province, Strategic Command systems, U.S. military, ballistic missile_
 
 ### [Indian Prime Minister Narendra Modi and Russian President Vladimir Putin sign several agreements including a $12.9 billion defense and energy deal. Russian state oil major Rosneft pays for a controlling stake in both India's Essar Oil and port facilities that it already owns. ](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.md)
 India and Russia signed billions of dollars of defense and energy deals on Saturday at a summit that sought to inject new life into a relationship that has been tested by shifting global alliances and conflict in the Middle East.

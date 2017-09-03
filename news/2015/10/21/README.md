@@ -4,7 +4,7 @@
 Map detailing Taliban-controlled or contested districts. Click colored district for information. Based on an analysis by The Long War Journal, 36 of Afghanistan&#039;s 398 districts are under Taliban control, and another 36 districts are contested. Map created by Bill Roggio, Caleb Weiss, and Patric...
 
 ### [ISIL orders males aged 14 and older in Raqqa, its de facto Syrian capital, to register with the police, an action seen as the first step toward forced conscriptions in this region. ](/news/2015/10/21/isil-orders-males-aged-14-and-older-in-raqqa-its-de-facto-syrian-capital-to-register-with-the-police-an-action-seen-as-the-first-step-tow.md)
-_Context: ISIL, Raqqa, Syria, Syrian Civil War_
+_Context: Islamic State of Iraq and the Levant, Raqqa, Syria, Syrian Civil War_
 
 ### [Rockets fired by Houthi forces reportedly kill 14 people in city of Taiz, southwestern Yemen. ](/news/2015/10/21/rockets-fired-by-houthi-forces-reportedly-kill-14-people-in-city-of-taiz-southwestern-yemen.md)
 _Context: Houthi, Taiz, Yemen, Yemeni Civil War (2015)_

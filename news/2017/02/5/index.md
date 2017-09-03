@@ -4,7 +4,7 @@
 Entire villages are reportedly buried following heavy snow in Afghanistan and Pakistan.
 
 ### [Turkish police arrest over 400 suspected ISIL members in raids across the country. ](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-members-in-raids-across-the-country.md)
-_Context: ISIL, police_
+_Context: Islamic State of Iraq and the Levant, police_
 
 ### [Trump's travel ban remains suspended as the U.S. Court of Appeals for the Ninth Circuit denies the Justice Department's request to stay the ruling which blocks major portions of the executive order. ](/news/2017/02/5/trump-s-travel-ban-remains-suspended-as-the-u-s-court-of-appeals-for-the-ninth-circuit-denies-the-justice-department-s-request-to-stay-the.md)
 The 9th U.S. Circuit Court of Appeals denied a Trump administration request to halt a suspension of the Trump order. It means the order remains suspended.

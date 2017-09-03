@@ -31,7 +31,7 @@ _Context: Brazil, Piaui, dam_
 _Context: Africa, Lujo, virus_
 
 ### [ North Korea launches a short-range ballistic missile. ](/news/2009/05/29/north-korea-launches-a-short-range-ballistic-missile.md)
-_Context: North Korea, intercontinental ballistic, short-range ballistic missile_
+_Context: North Korea, North Korea and weapons of mass destruction, short-range ballistic missile_
 
 ### [ Soyuz TMA-15 docks with the International Space Station. ](/news/2009/05/29/soyuz-tma-15-docks-with-the-international-space-station.md)
 _Context: International Space Station, Soyuz TMA-15, docks_

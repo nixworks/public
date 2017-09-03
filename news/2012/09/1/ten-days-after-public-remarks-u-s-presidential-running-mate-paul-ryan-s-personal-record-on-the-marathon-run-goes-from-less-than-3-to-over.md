@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants, who illegally entered the United States as children, from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md) _Context: Paul Ryan_
+1. [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md) _Context: Paul Ryan_
 2. [Both Paul Ryan and Tom Perez plan to campaign for the local candidates Karen Handel and Jon Ossoff respectively. ](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-for-the-local-candidates-karen-handel-and-jon-ossoff-respectively.md) _Context: Paul Ryan_
 3. [Talks between top Donald Trump advisers and Speaker Paul Ryan happen at the capital to discuss tax reform. ](/news/2017/01/9/talks-between-top-donald-trump-advisers-and-speaker-paul-ryan-happen-at-the-capital-to-discuss-tax-reform.md) _Context: Paul Ryan_
 4. [Paul Ryan announces that the Republican party will, as part of its efforts to repeal Obamacare, seek to stop using federal money to fund Planned Parenthood. ](/news/2017/01/5/paul-ryan-announces-that-the-republican-party-will-as-part-of-its-efforts-to-repeal-obamacare-seek-to-stop-using-federal-money-to-fund-pla.md) _Context: Paul Ryan_

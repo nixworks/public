@@ -4,7 +4,7 @@
 _Context: Pro-Russian militants, Ukrainian military, War in Donbass, since Sunday_
 
 ### [ The Russian Defence Ministry says six Russian bombers hit ISIL positions in Syria's Deir ez-Zor Governorate. ](/news/2017/01/30/the-russian-defence-ministry-says-six-russian-bombers-hit-isil-positions-in-syria-s-deir-ez-zor-governorate.md)
-_Context: Deir ez-Zor Governorate, ISIL, Ministry of Defence, Russian military intervention, Syria_
+_Context: Deir ez-Zor Governorate, Islamic State of Iraq and the Levant, Ministry of Defence, Russian military intervention, Syria_
 
 ### [At least two police officers and three suspected militants are killed during a gunfight in Shali, Chechnya. ](/news/2017/01/30/at-least-two-police-officers-and-three-suspected-militants-are-killed-during-a-gunfight-in-shali-chechnya.md)
 _Context: Chechnya, Insurgency in the North Caucasus, Shali, police officers_
