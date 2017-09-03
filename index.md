@@ -1,10 +1,13 @@
 ## [News](/news/2017/09/3/index.md)
 
-### [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with an estimated total as high as US$108 billion. In comparison, Hurricane Katrina's total damage is estimated to be around US$118 to US$160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-an-estimated-total-as-h.md)
+### ["The Cambodia Daily", one of Cambodia's last independent media outlets, announces it will cease publication after the Cambodian government ordered it to pay a $6.3m (GBP4.9m) tax bill, "destroying" the paper. ](/news/2017/09/3/the-cambodia-daily-one-of-cambodia-s-last-independent-media-outlets-announces-it-will-cease-publication-after-the-cambodian-government-o.md)
+_Context: Cambodia, Newspapers in Cambodia, The Cambodia Daily, independent media_
+
+### [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with estimates ranging from US$72 billion to over $125 billion. In comparison, Hurricane Katrina's total damage is estimated to be around $118 to $160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-estimates-ranging-from.md)
 The cost to rebuild post-Hurricane Harvey is rising and already on track to shatter records.
 
-### [The La Tuna Canyon fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history. Los Angeles Mayor Eric Garcetti declares a state of emergency for the city. ](/news/2017/09/3/the-la-tuna-canyon-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-los-angeles-mayor-eri.md)
-Firefighters are contending with 5,000-acre brush fire as high temperatures scorch Los Angeles and across the state.
+### [The La Tuna fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md)
+The La Tuna fire, one of the largest wildfires in Los Angeles&apos; history, burns 5,800 acres as firefighters brace for more extreme heat and dangerous winds.
 
 ### [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse the unexploded ordnance from a powerful Royal Air Force bomb. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-the-unexploded-ordnance-from-a-powerful-royal-air-fo.md)
 _Context: Aftermath of World War II, Frankfurt, Germany, Royal Air Force, World War II, unexploded ordnance_
