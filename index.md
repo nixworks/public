@@ -1,6 +1,6 @@
 ## [News](/news/2017/09/3/index.md)
 
-### [The Cambodia Daily announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation, initiated by Prime Minister of Cambodia Hun Sen, into private companies operating in Cambodia. ](/news/2017/09/3/the-cambodia-daily-announces-it-will-publish-its-final-edition-after-being-ordered-to-pay-usd-6-3-million-in-taxes-as-a-result-of-an-investi.md)
+### [The "Cambodia Daily" announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation, initiated by Prime Minister of Cambodia Hun Sen, into private companies operating in Cambodia. ](/news/2017/09/3/the-cambodia-daily-announces-it-will-publish-its-final-edition-after-being-ordered-to-pay-usd-6-3-million-in-taxes-as-a-result-of-an-inves.md)
 _Context: Cambodia, Cambodia Daily, Hun Sen, Prime Minister of Cambodia_
 
 ### [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with estimates ranging from US$72 billion to over $125 billion. In comparison, Hurricane Katrina's total damage is estimated to be around $118 to $160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-estimates-ranging-from.md)
