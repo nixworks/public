@@ -1,0 +1,26 @@
+### [2017-09-3](/news/2017/09/3/index.md)
+
+# North Korea has claimed to have developed a hydrogen bomb that can be fitted on a ballistic missile. It later claimed that the seismic tremor was caused by the bomb test. 
+
+North Korea’s state news agency offered no evidence for the claim, other than a photo of what it said was a hydrogen bomb ready to be loaded onto an ICBM.
+
+
+### Source:
+
+1. [AFP, Wall Street Journal via the Australian](http://www.theaustralian.com.au/news/world/kim-jongun-boasts-north-korea-has-missileready-nuclear-weapon/news-story/f4dec8a034604fd0a7f2589cb11e6a6b)
+2. [AP/Reuters via ABC Australia](http://www.abc.net.au/news/2017-09-03/north-korea-says-it-successfully-tested-hydrogen-bomb/8867568)
+3. [New York Times](https://www.nytimes.com/2017/09/02/world/asia/north-korea-hydrogen-bomb-missile.html)
+4. [New York Times](https://www.nytimes.com/2017/09/02/world/asia/north-korea-tremor-possible-6th-nuclear-test.html)
+
+### Related:
+
+1. [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+2. [North Korea launches two ballistic missiles, one of which explodes immediately after its launch while the main part of the other lands in Japan's economic exclusion zone. ](/news/2016/08/3/north-korea-launches-two-ballistic-missiles-one-of-which-explodes-immediately-after-its-launch-while-the-main-part-of-the-other-lands-in-ja.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+3. [South Korea claims that North Korea has fired a ballistic missile from a submarine. ](/news/2016/07/9/south-korea-claims-that-north-korea-has-fired-a-ballistic-missile-from-a-submarine.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+4. [South Korea has determined North Korea is capable of mounting a nuclear warhead on its medium-range Rodong-1 ballistic missile, which could reach all of South Korea and most of Japan, according to a senior government official. ](/news/2016/04/5/south-korea-has-determined-north-korea-is-capable-of-mounting-a-nuclear-warhead-on-its-medium-range-rodong-1-ballistic-missile-which-could.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+5. [North Korea deploys one or two intermediate-range ballistic missiles on its east coast, possibly preparing for launch on or around Friday, the anniversary of the birth of the country's founder Kim Il-sung, according to South Korea's Yonhap news agency. ](/news/2016/04/14/north-korea-deploys-one-or-two-intermediate-range-ballistic-missiles-on-its-east-coast-possibly-preparing-for-launch-on-or-around-friday-t.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+6. [North Korea fires another ballistic missile off its east coast, according to South Korean officials. This occurred while world leaders are attending the annual Nuclear Security Summit in Washington, D.C., where North Korea is on the agenda for discussion. ](/news/2016/04/1/north-korea-fires-another-ballistic-missile-off-its-east-coast-according-to-south-korean-officials-this-occurred-while-world-leaders-are-a.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+7. [North Korea's state media reports Supreme Leader Kim Jong-un, in comments released today, states the country has miniaturized nuclear warheads to be mounted on ballistic missiles, and has ordered improvements in the power and precision of its arsenal. ](/news/2016/03/9/north-korea-s-state-media-reports-supreme-leader-kim-jong-un-in-comments-released-today-states-the-country-has-miniaturized-nuclear-warhea.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+8. [The South Korean Joint Chiefs of Staff and a U.S. defense official report that North Korea fired two ballistic missiles from the South Pyongan Province. One flew 800 kilometers (497 miles) into the Sea of Japan. The other disappeared at an altitude of about 17 kilometers (10.5 miles). ](/news/2016/03/18/the-south-korean-joint-chiefs-of-staff-and-a-u-s-defense-official-report-that-north-korea-fired-two-ballistic-missiles-from-the-south-pyong.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+9. [ North Korea launches its sixth ballistic missile despite the United Nations Security Council's possible international sanctions. ](/news/2009/05/30/north-korea-launches-its-sixth-ballistic-missile-despite-the-united-nations-security-council-s-possible-international-sanctions.md) _Context: North Korea and weapons of mass destruction, ballistic missile_
+10. [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise the South Korea Ballistic Missile Range Guidelines which caps South Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-the-south-korea-ballistic-missile-range-guidelines-which.md) _Context: 2017 North Korea crisis_

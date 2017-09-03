@@ -1,9 +1,9 @@
 ## [News](/news/2017/09/3/index.md)
 
-### [Hurricane Harvey is projected to possibly become the second costliest Hurricane in the United States's history, with an estimated total as high as US$108 billion USD. In comparison, Hurricane Katrina's total damage is estimated to be around US$118 to US$160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-an-estimated-total-as-h.md)
+### [Hurricane Harvey is projected to possibly become the second costliest Hurricane in the United States's history, with an estimated total as high as US$108 billion. In comparison, Hurricane Katrina's total damage is estimated to be around US$118 to US$160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-an-estimated-total-as-h.md)
 The cost to rebuild post-Hurricane Harvey is rising and already on track to shatter records.
 
-### [North Korea has claimed to have developed a hydrogen bomb that can be fitted on a ballistic missile. ](/news/2017/09/3/north-korea-has-claimed-to-have-developed-a-hydrogen-bomb-that-can-be-fitted-on-a-ballistic-missile.md)
+### [North Korea has claimed to have developed a hydrogen bomb that can be fitted on a ballistic missile. It later claimed that the seismic tremor was caused by the bomb test. ](/news/2017/09/3/north-korea-has-claimed-to-have-developed-a-hydrogen-bomb-that-can-be-fitted-on-a-ballistic-missile-it-later-claimed-that-the-seismic-tremo.md)
 North Korea’s state news agency offered no evidence for the claim, other than a photo of what it said was a hydrogen bomb ready to be loaded onto an ICBM.
 
 ## Opinion
@@ -16,6 +16,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md)
 Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.
+
+### [Both the FBI and NSD declare that there is no evidence that Trump Towers in New York City, New York was wiretapped earlier in March, despite rumors from an alleged tweet. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-there-is-no-evidence-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in-march-despite.md)
+_Context: FBI, NSD, New York City, Trump Towers, wiretapped_
 
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
 Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
