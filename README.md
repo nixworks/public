@@ -24,7 +24,7 @@ Most of the daily information we see on the mainstream media today is the news e
 Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.
 
 ### [Both the FBI and NSD declare that there is no evidence that Trump Towers in New York City, New York was wiretapped earlier in March, despite rumors from an alleged tweet. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-there-is-no-evidence-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in-march-despite.md)
-_Context: FBI, NSD, New York City, Trump Towers, wiretapped_
+_Context: FBI, NSD, New York City, Trump Tower wiretapping allegations, Trump Towers, wiretapped_
 
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
 Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.

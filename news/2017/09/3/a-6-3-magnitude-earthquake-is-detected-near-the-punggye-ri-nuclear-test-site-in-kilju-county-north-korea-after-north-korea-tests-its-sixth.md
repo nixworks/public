@@ -9,8 +9,9 @@ The test Sunday was an extraordinary show of defiance by the North’s leader, K
 
 1. [AFP, Wall Street Journal via the Australian](http://www.theaustralian.com.au/news/world/kim-jongun-boasts-north-korea-has-missileready-nuclear-weapon/news-story/f4dec8a034604fd0a7f2589cb11e6a6b)
 2. [AP/Reuters via ABC Australia](http://www.abc.net.au/news/2017-09-03/north-korea-says-it-successfully-tested-hydrogen-bomb/8867568)
-3. [New York Times](https://www.nytimes.com/2017/09/02/world/asia/north-korea-hydrogen-bomb-missile.html)
-4. [New York Times](https://www.nytimes.com/2017/09/02/world/asia/north-korea-tremor-possible-6th-nuclear-test.html)
+3. [NOSAR](https://www.norsar.no/press/latest-press-release/archive/large-nuclear-test-in-north-korea-on-3-september-2017-article1534-984.html)
+4. [New York Times](https://www.nytimes.com/2017/09/02/world/asia/north-korea-hydrogen-bomb-missile.html)
+5. [New York Times](https://www.nytimes.com/2017/09/02/world/asia/north-korea-tremor-possible-6th-nuclear-test.html)
 
 ### Related:
 
