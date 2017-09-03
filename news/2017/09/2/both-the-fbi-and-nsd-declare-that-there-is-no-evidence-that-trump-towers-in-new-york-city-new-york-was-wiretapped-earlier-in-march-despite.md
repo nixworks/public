@@ -1,6 +1,6 @@
 ### [2017-09-2](/news/2017/09/2/index.md)
 
-# Both the FBI and NSD declare that there is no evidence that Trump Towers in New York City, New York was wiretapped earlier in March, despite rumors from an alleged tweet. 
+# Both the FBI and NSD declare that there is no evidence that Trump Towers in New York City, New York was wiretapped earlier in March, despite rumors from a tweet. 
 
 
 
