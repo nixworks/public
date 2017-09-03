@@ -9,8 +9,8 @@ The cost to rebuild post-Hurricane Harvey is rising and already on track to shat
 ### [The La Tuna fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md)
 The La Tuna fire, one of the largest wildfires in Los Angeles&apos; history, burns 5,800 acres as firefighters brace for more extreme heat and dangerous winds.
 
-### [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse the unexploded ordnance from a powerful Royal Air Force bomb. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-the-unexploded-ordnance-from-a-powerful-royal-air-fo.md)
-_Context: Aftermath of World War II, Frankfurt, Germany, Royal Air Force, World War II, unexploded ordnance_
+### [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md)
+_Context: Frankfurt, Germany, Royal Air Force, World War II_
 
 ### [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md)
 The test Sunday was an extraordinary show of defiance by the North’s leader, Kim Jong-un, against President Trump.
