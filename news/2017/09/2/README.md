@@ -3,7 +3,7 @@
 ### [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md)
 Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.
 
-### [Both the FBI and NSD declare that there is no evidence that Trump Towers in New York City, New York was wiretapped earlier in March, despite rumors from a tweet. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-there-is-no-evidence-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in-march-despite.md)
+### [Both the FBI and NSD declare that they possess no records indicating that Trump Towers in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in.md)
 _Context: FBI, NSD, New York City, Trump Tower wiretapping allegations, Trump Towers, wiretapped_
 
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)

@@ -1,7 +1,7 @@
 ## [News](/news/2017/09/3/index.md)
 
-### ["The Cambodia Daily", one of Cambodia's last independent media outlets, announces it will cease publication after the Cambodian government ordered it to pay a $6.3m (GBP4.9m) tax bill, "destroying" the paper. ](/news/2017/09/3/the-cambodia-daily-one-of-cambodia-s-last-independent-media-outlets-announces-it-will-cease-publication-after-the-cambodian-government-o.md)
-_Context: Cambodia, Newspapers in Cambodia, The Cambodia Daily, independent media_
+### [The Cambodia Daily announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation into private companies operating in the country by Prime Minister of Cambodia Hun Sen. ](/news/2017/09/3/the-cambodia-daily-announces-it-will-publish-its-final-edition-after-being-ordered-to-pay-usd-6-3-million-in-taxes-as-a-result-of-an-investi.md)
+_Context: Cambodia Daily, Hun Sen, Prime Minister of Cambodia_
 
 ### [Hurricane Harvey is projected to possibly become the second costliest hurricane in the United States's history, with estimates ranging from US$72 billion to over $125 billion. In comparison, Hurricane Katrina's total damage is estimated to be around $118 to $160 billion. ](/news/2017/09/3/hurricane-harvey-is-projected-to-possibly-become-the-second-costliest-hurricane-in-the-united-states-s-history-with-estimates-ranging-from.md)
 The cost to rebuild post-Hurricane Harvey is rising and already on track to shatter records.
@@ -26,7 +26,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md)
 Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.
 
-### [Both the FBI and NSD declare that there is no evidence that Trump Towers in New York City, New York was wiretapped earlier in March, despite rumors from a tweet. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-there-is-no-evidence-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in-march-despite.md)
+### [Both the FBI and NSD declare that they possess no records indicating that Trump Towers in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in.md)
 _Context: FBI, NSD, New York City, Trump Tower wiretapping allegations, Trump Towers, wiretapped_
 
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
