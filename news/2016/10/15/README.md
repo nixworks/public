@@ -40,7 +40,7 @@ _Context: California, Coronado Bridge, San Diego_
 Aid agencies work with UK and France as operation steps up due to imminent demolition of Calais refugee camp
 
 ### [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md)
-_Context: Kusong, North Korea, North Korea and weapons of mass destruction, North Pyongan Province, Strategic Command systems, U.S. military, ballistic missile_
+_Context: Kusong, North Korea, North Pyongan Province, Strategic Command systems, U.S. military, ballistic missile, intercontinental ballistic_
 
 ### [Indian Prime Minister Narendra Modi and Russian President Vladimir Putin sign several agreements including a $12.9 billion defense and energy deal. Russian state oil major Rosneft pays for a controlling stake in both India's Essar Oil and port facilities that it already owns. ](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.md)
 India and Russia signed billions of dollars of defense and energy deals on Saturday at a summit that sought to inject new life into a relationship that has been tested by shifting global alliances and conflict in the Middle East.

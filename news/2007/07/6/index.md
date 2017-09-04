@@ -1,7 +1,7 @@
 ## [2007-07-6](/news/2007/07/6/index.md)
 
 ### [ The 6th United States Circuit Court of Appeals in Ohio rejects a lawsuit against George W. Bush's domestic wiretapping program, saying that the plaintiffs did not have the right to sue. ](/news/2007/07/6/the-6th-united-states-circuit-court-of-appeals-in-ohio-rejects-a-lawsuit-against-george-w-bush-s-domestic-wiretapping-program-saying-that.md)
-_Context: George W. Bush, Ohio, United States Circuit Court of Appeals, plaintiff, wiretapping_
+_Context: George W. Bush, Ohio, United States Circuit Court of Appeals, plaintiff, wiretapped_
 
 ### [ Newly declassified French government documents show that as President Franois Mitterrand knowingly supported the Rwandan Genocide because he believed it would limit "Anglo-Saxon influence." ](/news/2007/07/6/newly-declassified-french-government-documents-show-that-as-president-francois-mitterrand-knowingly-supported-the-rwandan-genocide-because.md)
 _Context: Anglo-Saxon, France, Franois Mitterrand, President of France, Rwandan Genocide_

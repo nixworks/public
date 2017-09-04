@@ -22,7 +22,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Gloria Arroyo, Ignacio Bunye, Philippines, impeach_
 
 ### [ Philippines police are ready to charge former National Bureau of Investigation deputy director Samuel Ong for illegal wiretapping and sedition ](/news/2005/06/13/philippines-police-are-ready-to-charge-former-national-bureau-of-investigation-deputy-director-samuel-ong-for-illegal-wiretapping-and-sedit.md)
-_Context: Samuel Ong, sedition, wiretapping_
+_Context: Samuel Ong, sedition, wiretapped_
 
 ### [ The last Australian peacekeeping troops leave East Timor. ](/news/2005/06/13/the-last-australian-peacekeeping-troops-leave-east-timor.md)
 _Context: Australia, East Timor, peacekeepers_

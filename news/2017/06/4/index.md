@@ -25,7 +25,7 @@ Britain&#039;s political parties have suspended national general election campai
 Updated 1.15pm with Muscat comments The Labour Party has comfortably won the general election handing Joseph Muscat a mandate to head a government for a second term. &quot;It is clear that the people have chosen to stay the course,&quot; Prime Minister Joseph Muscat said as soon as the outcome was k...
 
 ### [Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide-94-595-candidates-for-11-572-council.md)
-_Context: Cambodia, Cambodian Prime Minister, Cambodian communal elections, 2017, Hun Sen_
+_Context: Cambodia, Cambodian communal elections, 2017, Hun Sen, Prime Minister of Cambodia_
 
 ## [Previous Day...](/news/2017/06/3/index.md)
 

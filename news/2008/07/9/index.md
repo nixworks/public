@@ -7,7 +7,7 @@ _Context: 9/11 Commission, John McCain, New Citizenship Project, Project for the
 _Context: IAEA, India, United States-India Peaceful Atomic Energy Cooperation Act_
 
 ### [ The Senate of the United States approves legislation overhauling the rules for eavesdropping and offering immunity to telecom companies who may have violated wiretapping and privacy laws after the September 11, 2001 attacks. ](/news/2008/07/9/the-senate-of-the-united-states-approves-legislation-overhauling-the-rules-for-eavesdropping-and-offering-immunity-to-telecom-companies-who.md)
-_Context: Senator, September 11, 2001 attacks, eavesdropping, privacy, telecommunication, wiretapping_
+_Context: Senator, September 11, 2001 attacks, eavesdropping, privacy, telecommunication, wiretapped_
 
 ### [ Five peacekeepers are killed and another 17 missing following an ambush on a patrol by the joint United Nations/African Union peacekeeping mission in Darfur. ](/news/2008/07/9/five-peacekeepers-are-killed-and-another-17-missing-following-an-ambush-on-a-patrol-by-the-joint-united-nations-african-union-peacekeeping.md)
 _Context: African Union, Darfur, United Nations, peacekeepers_
