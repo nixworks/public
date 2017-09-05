@@ -3,11 +3,11 @@
 ### [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md)
 More than 35,000 new arrivals have been identified in 24 hours, the United Nations says.
 
-### [The High Court receives a complaint against gay marriage citing the postal vote as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-vote-as-unique-and-offensive.md)
+### [The High Court receives a complaint against gay marriage citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-survey-as-unique-and-offensive.md)
 QC for one plaintiff says ‘putting to the public a vote on her family unit’ before heated debate about powers of Bureau of Statistics
 
-### [Tainan mayor William Lai is appointed as the new Premier by the President of Taiwan: Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-taiwan-tsai-ing-wen.md)
-_Context: Premier, President, Tainan, Taiwan, Taiwanese politics, Tsai Ing-wen, William Lai, mayor_
+### [Tainan mayor William Lai is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
+_Context: Politics of Taiwan, Premier, President, Tainan, Tsai Ing-wen, William Lai, mayor, the Republic of China_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -28,6 +28,9 @@ The island and the state of Florida, have declared states of emergency in antici
 
 ### [South Korean Defense Minister Song Young-moo says it is worth reviewing deployment of U.S. strategic assets (aircraft carriers, nuclear submarines, and B-52 bombers) to South Korea more regularly. ](/news/2017/09/4/south-korean-defense-minister-song-young-moo-says-it-is-worth-reviewing-deployment-of-u-s-strategic-assets-aircraft-carriers-nuclear-subm.md)
 President Trump and South Korean President Moon Jae-in have agreed to&nbsp;remove the limit on allowed payloads for South Korean missiles -- something Seoul had been pushing for.
+
+### [The opposition movement seeks help from France. ](/news/2017/09/4/the-opposition-movement-seeks-help-from-france.md)
+_Context: France, Venezuelan crisis_
 
 ### [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md)
 _Context: 'Ndrangheta, Italy, Montevideo, Rocco Morabito, Uruguay_

@@ -12,6 +12,9 @@ The island and the state of Florida, have declared states of emergency in antici
 ### [South Korean Defense Minister Song Young-moo says it is worth reviewing deployment of U.S. strategic assets (aircraft carriers, nuclear submarines, and B-52 bombers) to South Korea more regularly. ](/news/2017/09/4/south-korean-defense-minister-song-young-moo-says-it-is-worth-reviewing-deployment-of-u-s-strategic-assets-aircraft-carriers-nuclear-subm.md)
 President Trump and South Korean President Moon Jae-in have agreed to&nbsp;remove the limit on allowed payloads for South Korean missiles -- something Seoul had been pushing for.
 
+### [The opposition movement seeks help from France. ](/news/2017/09/4/the-opposition-movement-seeks-help-from-france.md)
+_Context: France, Venezuelan crisis_
+
 ### [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md)
 _Context: 'Ndrangheta, Italy, Montevideo, Rocco Morabito, Uruguay_
 
