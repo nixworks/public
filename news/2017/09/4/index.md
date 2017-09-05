@@ -4,7 +4,10 @@
 With a sudden lunge through jihadist lines, the Syrian military and its allies on Monday came to within three kilometers of relieving the Euphrates city of Deir al-Zor, where Islamic State has besieged an army garrison and 93,000 civilians for years.
 
 ### [United Technologies Corp will buy airplane parts maker Rockwell Collins for USD$30 Billion, including seven billion in debt previously incurred by Rockwell Collins. ](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts-maker-rockwell-collins-for-usd-30-billion-including-seven-billion-in-debt-previously-incur.md)
-_Context: Economy of the United States, Rockwell Collins, United Technologies Corp_
+_Context: Rockwell Collins, United Technologies Corp_
+
+### [Tronc Inc., the "Los Angeles Times" and the "Chicago Tribune" publisher, buys the "New York Daily News". ](/news/2017/09/4/tronc-inc-the-los-angeles-times-and-the-chicago-tribune-publisher-buys-the-new-york-daily-news.md)
+_Context: Chicago Tribune, Los Angeles Times, New York Daily News, Tronc Inc._
 
 ### [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km/h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md)
 The island and the state of Florida, have declared states of emergency in anticipation of Irma, which could become the second major storm this year to hit the U.S. East Coast.
