@@ -22,7 +22,7 @@ United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered
 _Context: Al Nour Party, Egypt, Freedom and Justice Party, Muslim Brotherhood, Salafi, lower house of the national parliament, radical Islamists_
 
 ### [The President of Peru Ollanta Humala declares a state of emergency in the Cajamarca region to stop anti-mining protests. ](/news/2011/12/4/the-president-of-peru-ollanta-humala-declares-a-state-of-emergency-in-the-cajamarca-region-to-stop-anti-mining-protests.md)
-_Context: Cajamarca, Ollanta Humala, President, state of emergency_
+_Context: Cajamarca, Ollanta Humala, President, states of emergency_
 
 ## [Previous Day...](/news/2011/12/3/index.md)
 

@@ -19,7 +19,7 @@ _Context: California, Florida, Governor of Florida, Jeb Bush, Jeremy Fogel, U.S.
 _Context: 2006 Asian Games, Doha, Khalifa International Stadium, Qatar, closed_
 
 ### [ Retired Formula One driver Clay Regazzoni dies in a car accident when the Chrysler Voyager he was driving hit a lorry head on, outside Parma, Italy. ](/news/2006/12/15/retired-formula-one-driver-clay-regazzoni-dies-in-a-car-accident-when-the-chrysler-voyager-he-was-driving-hit-a-lorry-head-on-outside-parm.md)
-_Context: Chrysler Voyager, Clay Regazzoni, Formula One, Italian, Parma, lorry_
+_Context: Chrysler Voyager, Clay Regazzoni, Formula One, Italy, Parma, lorry_
 
 ### [ Assistant Secretary of State Jendayi Frazer announces that the United States has no plans to commit troops to intervene in the Somali civil war to root out al Qaeda cells operating in the country. ](/news/2006/12/15/assistant-secretary-of-state-jendayi-frazer-announces-that-the-united-states-has-no-plans-to-commit-troops-to-intervene-in-the-somali-civil.md)
 _Context: Jendayi Frazer, Somali civil war, al-Qaeda_

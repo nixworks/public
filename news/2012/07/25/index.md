@@ -7,7 +7,7 @@ _Context: Al-Tall, Damascus, Syrian Army_
 _Context: Assam, India_
 
 ### [Egan-Jones Ratings Company downgrades Italy to CCC+ from B+, saying the country has a one-year default probability of 22%. ](/news/2012/07/25/egan-jones-ratings-company-downgrades-italy-to-ccc-from-b-saying-the-country-has-a-one-year-default-probability-of-22.md)
-_Context: Egan-Jones Ratings Company, Italian_
+_Context: Egan-Jones Ratings Company, Italy_
 
 ### [Official figures indicate economic output in the United Kingdom fell by 0.7% between April and June, meaning the recession has deepened in the country. ](/news/2012/07/25/official-figures-indicate-economic-output-in-the-united-kingdom-fell-by-0-7-between-april-and-june-meaning-the-recession-has-deepened-in-t.md)
 The UK recession has deepened, latest official figures show, after the output of the economy fell by a bigger-than-expected 0.7% between April and June.

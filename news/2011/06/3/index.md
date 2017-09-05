@@ -61,7 +61,7 @@ Bosnian Serb genocide suspect Ratko Mladic dismissed as &quot;obnoxious&quot; ch
 Former Democratic vice presidential nominee and two-time presidential candidate John Edwards pleaded not guilty Friday to conspiracy and campaign law violations, acknowledging that he had &quot;done wrong,&quot; but denying that he broke the law.
 
 ### [The United States House of Representatives votes in favour of a non-binding resolution asking the Obama administration to seek Congressional authorization for the intervention in Libya. ](/news/2011/06/3/the-united-states-house-of-representatives-votes-in-favour-of-a-non-binding-resolution-asking-the-obama-administration-to-seek-congressional.md)
-_Context: Libya, Libyan Civil War, Obama Administration, United States Congress, United States House of Representatives_
+_Context: Congress, Libya, Libyan Civil War, Obama Administration, United States House of Representatives_
 
 ### [American right-to-die activist Jack Kevorkian dies in Royal Oak, Michigan of pneumonia and kidney problems. ](/news/2011/06/3/american-right-to-die-activist-jack-kevorkian-dies-in-royal-oak-michigan-of-pneumonia-and-kidney-problems.md)
 _Context: Jack Kevorkian, Royal Oak, Michigan, pneumonia, right to die_

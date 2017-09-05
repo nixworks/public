@@ -4,7 +4,7 @@
 _Context: Jean-Pierre Bemba, Joseph Kabila, Kinshasa, presidential candidate in 2006_
 
 ### [ Italy offers to lead the United Nations peacekeeping forces in Lebanon instead of France. Italy has offered to provide 2,000 forces, more than any other nation, and France is only offering to provide 200 civil engineers. ](/news/2006/08/21/italy-offers-to-lead-the-united-nations-peacekeeping-forces-in-lebanon-instead-of-france-italy-has-offered-to-provide-2-000-forces-more-t.md)
-_Context: France, Italian, Lebanon, United Nations_
+_Context: France, Italy, Lebanon, United Nations_
 
 ### [ The government of Kyrgyzstan warns that the Islamic Movement of Uzbekistan, a terrorist group affiliated with al Qaeda, and other militant Islamic groups, are preparing to attack southern cities like Osh. ](/news/2006/08/21/the-government-of-kyrgyzstan-warns-that-the-islamic-movement-of-uzbekistan-a-terrorist-group-affiliated-with-al-qaeda-and-other-militant.md)
 _Context: Islamic Movement of Uzbekistan, Kyrgyzstan, Osh, al-Qaeda_

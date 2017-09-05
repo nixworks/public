@@ -46,7 +46,7 @@ _Context: Gabon, Omar Bongo Ondimba, Rose Francine Rogomb_
 _Context: Donetsk, Ukraine_
 
 ### [ Libyan leader Muammar Gaddafi arrives in Rome on his first visit to Italy, Libya's former colonial ruler and now its biggest trading partner, wearing a photograph of Omar Mukhtar. ](/news/2009/06/10/libyan-leader-muammar-gaddafi-arrives-in-rome-on-his-first-visit-to-italy-libya-s-former-colonial-ruler-and-now-its-biggest-trading-partne.md)
-_Context: Italian, Libya, Muammar Gaddafi, Omar Mukhtar, Rome_
+_Context: Italy, Libya, Muammar Gaddafi, Omar Mukhtar, Rome_
 
 ### [ Google Inc. announced that it has received notice from the United States Department of Justice that antitrust investigators are studying its settlement with publishers designed to put millions of books online consistent with the property rights of authors. ](/news/2009/06/10/google-inc-announced-that-it-has-received-notice-from-the-united-states-department-of-justice-that-antitrust-investigators-are-studying-it.md)
 Google Inc (GOOG.O) hasreceived formal notice from the U.S. Justice Department thatantitrust investigators are looking into its settlement withpublishers that would help make millions of books availableonline.

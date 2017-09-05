@@ -4,7 +4,7 @@
 Syrian security forces killed 52 people across the country on Tuesday as troops stormed Hama following large protests in the flashpoint central city, activists said. &quot;The Syrian armed forces stormed the neighborhoods of Bab Qubli and al-Jarajmah...
 
 ### [2011-2012 Egyptian revolution: Chairman of the Supreme Council of the Armed Forces, Field Marshal Mohamed Hussein Tantawi, lifts Egypt's state of emergency a day before the anniversary of the revolution. ](/news/2012/01/24/2011a2012-egyptian-revolution-chairman-of-the-supreme-council-of-the-armed-forces-field-marshal-mohamed-hussein-tantawi-lifts-egypt-s-s.md)
-_Context: 2011 Egyptian revolution, Egypt, Field Marshal, Mohamed Hussein Tantawi, governing body, state of emergency_
+_Context: 2011 Egyptian revolution, Egypt, Field Marshal, Mohamed Hussein Tantawi, governing body, states of emergency_
 
 ### [In Libya, the town of Bani Walid, a former stronghold of Muammar Gaddafi, revolts against the National Transitional Council government. ](/news/2012/01/24/in-libya-the-town-of-bani-walid-a-former-stronghold-of-muammar-gaddafi-revolts-against-the-national-transitional-council-government.md)
 _Context: Bani Walid, Libya, Muammar Gaddafi, National Transitional Council, revolts_
@@ -25,7 +25,7 @@ _Context: Mozambique_
 _Context: Augusto Pinochet, Baltasar Garzon, Franco, Spain_
 
 ### [United States President Barack Obama presents his 2012 State of the Union Address to the United States Congress. ](/news/2012/01/24/united-states-president-barack-obama-presents-his-2012-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: 2012 State of the Union Address, Barack Obama, President, United States Congress_
+_Context: 2012 State of the Union Address, Barack Obama, Congress, President_
 
 ## [Previous Day...](/news/2012/01/23/index.md)
 

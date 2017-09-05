@@ -7,7 +7,7 @@ The Chinese government confirmed the test, but said it had no intention of parti
 _Context: Canada, Canadian House of Commons, Jean Lapierre, Justin Trudeau, Liberal Party's, Outremont riding_
 
 ### [ 2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. ](/news/2007/01/11/2006a2007-bangladeshi-political-crisis-bangladesh-president-iajuddin-ahmed-steps-down-as-interim-leader-just-hours-after-declaring-a-sta.md)
-_Context: Bangladesh, Iajuddin Ahmed, curfew, current political crisis, state of emergency_
+_Context: Bangladesh, Iajuddin Ahmed, curfew, current political crisis, states of emergency_
 
 ### [ Austria's new government is sworn in under Chancellor Alfred Gusenbauer (SPO) and Vice-Chancellor Wilhelm Molterer (OVP). ](/news/2007/01/11/austria-s-new-government-is-sworn-in-under-chancellor-alfred-gusenbauer-spa-and-vice-chancellor-wilhelm-molterer-avp.md)
 _Context: Alfred Gusenbauer, Austria, Austrian Chancellor, OVP, Wilhelm Molterer, health spa, new government, vice-chancellor_
@@ -28,7 +28,7 @@ _Context: Canada, Canadian coin, U.S. Defense Department, U.S. military, radio t
 _Context: Adam Air, Flight 574_
 
 ### [ January 2007 North American Ice Storm hits parts of North America including United States and Canada, causing 74 deaths across 12 U.S. states and three Canadian provinces, and caused hundreds of thousands of residents across the U.S and Canada to lose electric power. ](/news/2007/01/11/january-2007-north-american-ice-storm-hits-parts-of-north-america-including-united-states-and-canada-causing-74-deaths-across-12-u-s-stat.md)
-_Context: Canada, January 2007 North American Ice Storm, North America, United States_
+_Context: Canada, January 2007 North American Ice Storm, North America, U.S._
 
 ## [Previous Day...](/news/2007/01/10/index.md)
 

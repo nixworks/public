@@ -1,0 +1,24 @@
+### [2017-09-5](/news/2017/09/5/index.md)
+
+# U.S. President Donald Trump will probably end a policy that protects from deportation more than 800,000 so-called "DREAMers," mostly Mexican-born undocumented children who illegaly arrived in the United States as minors, in around six months if Congress were to act on it. 
+
+The administration may undo the program shielding unauthorized immigrants who arrived as children, rolling back a signature Obama-era initiative.
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2017/09/04/politics/daca-dreamers-immigration-program/index.html)
+2. [The Atlantic](https://www.theatlantic.com/politics/archive/2017/09/trump-ends-daca/538248/)
+
+### Related:
+
+1. [A study of former fashion model and current wife of presidential candidate Donald Trump Melania Trump's work history shows that she was an illegal worker in the United States before she received legal authorization. ](/news/2016/11/4/a-study-of-former-fashion-model-and-current-wife-of-presidential-candidate-donald-trump-melania-trump-s-work-history-shows-that-she-was-an-i.md) _Context: Donald Trump, U.S., illegaly arrived_
+2. [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md) _Context: President, U.S., deportation_
+3. [U.S. President Barack Obama, the White House Office of Management and Budget, issues a partial shutdown of government agencies after the House and Senate fail to come to an agreement on a spending bill to keep government operations running. ](/news/2013/10/1/u-s-president-barack-obama-the-white-house-office-of-management-and-budget-issues-a-partial-shutdown-of-government-agencies-after-the-hou.md) _Context: Congress, President, U.S._
+4. [ A coalition of citizen groups will ask United States Congress to file a formal "Resolution of Inquiry", the first necessary legal step to determine whether U.S. President George W. Bush has committed impeachable offenses. The request, written by Boston constitutional attorney John C. Bonifaz, cites the Downing Street memo and issues surrounding the planning and execution of the Iraq war. ](/news/2005/05/26/a-coalition-of-citizen-groups-will-ask-united-states-congress-to-file-a-formal-resolution-of-inquiry-the-first-necessary-legal-step-to-d.md) _Context: Congress, President, U.S._
+5. [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md) _Context: Donald Trump, policy_
+6. [Five transgender United States military personnel sue President Donald Trump and top Pentagon officials over the President's policy change announced late last month banning transgender people from serving in the military. The suit asks the court to prevent the ban from going into effect. ](/news/2017/08/9/five-transgender-united-states-military-personnel-sue-president-donald-trump-and-top-pentagon-officials-over-the-president-s-policy-change-a.md) _Context: Donald Trump, President_
+7. [U.S. President Donald Trump pardons former sheriff of Maricopa County, Arizona, Joe Arpaio. ](/news/2017/08/25/u-s-president-donald-trump-pardons-former-sheriff-of-maricopa-county-arizona-joe-arpaio.md) _Context: Donald Trump, President_
+8. [United States President Donald Trump, together with Senators Tom Cotton and David Perdue, unveils the RAISE Act, a plan that would, if passed, reduce legal immigration to the U.S. by half each year, and implement a "merit-based system" prioritizing skilled workers, instead of the current family-based chain migration system. ](/news/2017/08/2/united-states-president-donald-trump-together-with-senators-tom-cotton-and-david-perdue-unveils-the-raise-act-a-plan-that-would-if-passe.md) _Context: Donald Trump, U.S._
+9. [President of the United States Donald Trump signs the Countering America's Adversaries Through Sanctions Act. Prime Minister of Russia Dmitry Medvedev calls it a "trade war". ](/news/2017/08/2/president-of-the-united-states-donald-trump-signs-the-countering-americaas-adversaries-through-sanctions-act-prime-minister-of-russia-dmi.md) _Context: Donald Trump, President_
+10. [Steve Bannon resigns as President Donald Trump's White House Chief Strategist. ](/news/2017/08/18/steve-bannon-resigns-as-president-donald-trump-s-white-house-chief-strategist.md) _Context: Donald Trump, President_

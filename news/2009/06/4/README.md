@@ -22,7 +22,7 @@ An inquiry has begun into the security breach which forced the postponement of t
 _Context: Australia, Joel Fitzgibbon, Minister for Defence_
 
 ### [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md)
-_Context: Linguistic analysis, Moon, Neil Armstrong, United States, article, astronaut, phrase, walked_
+_Context: Linguistic analysis, Moon, Neil Armstrong, U.S., article, astronaut, phrase, walked_
 
 ### [ 150,000 people assemble in Hong Kong, China, to commemorate the 20th anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/4/150-000-people-assemble-in-hong-kong-china-to-commemorate-the-20th-anniversary-of-the-massacre-in-tiananmen-square-on-june-4-1989.md)
 _Context: China, Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989_

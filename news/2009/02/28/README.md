@@ -13,7 +13,7 @@ _Context: China, Internet, National People's Congress, Premier, Wen Jiabao, parl
 _Context: China, Standing Committee of the National People's Congress, food safety, parliament, quality standards, regulation_
 
 ### [ California Governor Arnold Schwarzenegger declares a state of emergency, due to severe drought. ](/news/2009/02/28/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-due-to-severe-drought.md)
-_Context: Arnold Schwarzenegger, California, Governor of California, drought, state of emergency_
+_Context: Arnold Schwarzenegger, California, Governor of California, drought, states of emergency_
 
 ### [ Zimbabwean President Robert Mugabe vows to continue his policy of distributing land from white to black farmers. ](/news/2009/02/28/zimbabwean-president-robert-mugabe-vows-to-continue-his-policy-of-distributing-land-from-white-to-black-farmers.md)
 _Context: President, Robert Mugabe, Zimbabwe, distributing land from white to black farmers_

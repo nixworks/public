@@ -25,10 +25,10 @@ _Context: Angela Merkel, Person of the Year, Time_
 Fields are submerged; AIADMK worker electrocuted; old man washed away
 
 ### [Governor of Washington Jay Inslee declares a state of emergency after severe flooding and high winds across the western part of the state close several major highways, damage homes and property, and impact electricity service. ](/news/2015/12/9/governor-of-washington-jay-inslee-declares-a-state-of-emergency-after-severe-flooding-and-high-winds-across-the-western-part-of-the-state-cl.md)
-_Context: Floods in the United States: 2001-present, Governor of Washington, Jay Inslee, Western Washington, state of emergency_
+_Context: Floods in the United States: 2001-present, Governor of Washington, Jay Inslee, Western Washington, states of emergency_
 
 ### [The United States expands sanctions against North Korea over its alleged weapons breaches. ](/news/2015/12/9/the-united-states-expands-sanctions-against-north-korea-over-its-alleged-weapons-breaches.md)
-_Context: North Korea, United States_
+_Context: North Korea, U.S._
 
 ### [Government officials from Cuba and the U.S. met in Havana, beginning settlement discussions surrounding $1.9 billion worth of U.S. assets seized by Fidel Castro's regime in the early 1960s. By law, the United States embargo against Cuba cannot cease until settlements are made. [https://www.washingtonpost.com/world/the_americas/in-major-breakthrough-cuba-and-us-discuss-19billion-in-property-claims/2015/12/08/9bc2ced0-9d23-11e5-9ad2-568d814bbf3b_story.html "(Washington Post)"]](/news/2015/12/9/government-officials-from-cuba-and-the-u-s-met-in-havana-beginning-settlement-discussions-surrounding-1-9-billion-worth-of-u-s-assets-se.md)
 _Context: Cuba, Cuba-United States relations, Fidel Castro, Havana, U.S., United States embargo against Cuba_

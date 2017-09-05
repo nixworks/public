@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Greek_
 
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
-_Context: Cardinal, Italian, Pope Benedict XVI_
+_Context: Cardinal, Italy, Pope Benedict XVI_
 
 ### [A protester is shot dead by security forces in Qatif, eastern Saudi Arabia, amid a demonstration calling for the release of Shia prisoners and democratic reforms. ](/news/2012/02/10/a-protester-is-shot-dead-by-security-forces-in-qatif-eastern-saudi-arabia-amid-a-demonstration-calling-for-the-release-of-shia-prisoners-a.md)
 A protester has been shot dead by security forces in the city of Qatif in eastern Saudi Arabia, activists say.
@@ -22,7 +22,7 @@ _Context: Puntland, Somalia, Somaliland_
 _Context: Afghanistan's, Defense Secretary, Leon Panetta, Marines, Nazi, Schutzstaffel, sniper_
 
 ### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: Alabama, CIA, United States, hacker group Anonymous_
+_Context: Alabama, CIA, U.S., hacker group Anonymous_
 
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
 _Context: Michael D. Higgins, President_

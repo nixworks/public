@@ -25,7 +25,7 @@ _Context: Darfur, Rwanda, conflict, peacekeeping mission_
 _Context: Maguindanao massacre, Philippines_
 
 ### [ An Italian jury finds Amanda Knox and Raffaele Sollecito guilty in the case of the 2007 murder of Meredith Kercher in Perugia. Knox is sentenced to 26 years in prison, Sollecito to 25. ](/news/2009/12/4/an-italian-jury-finds-amanda-knox-and-raffaele-sollecito-guilty-in-the-case-of-the-2007-murder-of-meredith-kercher-in-perugia-knox-is-sent.md)
-_Context: Amanda Knox, Italian, Perugia, Raffaele Sollecito, killing Meredith Kercher_
+_Context: Amanda Knox, Italy, Perugia, Raffaele Sollecito, killing Meredith Kercher_
 
 ### [ The North Atlantic Treaty Organisation announces that 25 member countries will contribute a further 7,000 troops to the International Security Assistance Force in Afghanistan in addition to 30,000 additional American and 500 British troops previously announced. ](/news/2009/12/4/the-north-atlantic-treaty-organisation-announces-that-25-member-countries-will-contribute-a-further-7-000-troops-to-the-international-secur.md)
 _Context: Afghanistan's, International Security Assistance Force, North Atlantic Treaty Organisation_

@@ -7,7 +7,7 @@ BP Plc said on Monday it will again attempt to contain oil gushing deep in the G
 Chancellor Angela Merkel&#039;s ruling coalition was seriously weakened last night after her party suffered a humiliating defeat in a key regional state election which was certain to deprive her government of its crucial working majority in Germany&#039;s upper house of parliament.
 
 ### [Sandro Bondi, Italy's minister of culture, calls for a boycott of the 2010 Cannes Film Festival after a documentary on the 2009 L'Aquila earthquake was included in the programme. ](/news/2010/05/9/sandro-bondi-italy-s-minister-of-culture-calls-for-a-boycott-of-the-2010-cannes-film-festival-after-a-documentary-on-the-2009-l-aquila-ear.md)
-_Context: 2009 L'Aquila earthquake, Italian, Sandro Bondi, minister of culture, wins_
+_Context: 2009 L'Aquila earthquake, Italy, Sandro Bondi, minister of culture, wins_
 
 ### [An earthquake strikes Sumatra sparking fears of a tsunami. ](/news/2010/05/9/an-earthquake-strikes-sumatra-sparking-fears-of-a-tsunami.md)
 An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter&#x20;scale&#x20;hit&#x20;the&#x20;northern&#x20;part&#x20;of&#x20;the&#x20;island&#x20;of&#x20;Sumatra,&#x20;raising&#x20;concerns&#x20;of&#x20;a&#x20;local&#x20;tsunami&#x20;threat.
@@ -16,7 +16,7 @@ An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter
 _Context: Mezhdurechensk, Russia_
 
 ### [U.S. missiles kill five people in North Waziristan, Pakistan. ](/news/2010/05/9/u-s-missiles-kill-five-people-in-north-waziristan-pakistan.md)
-_Context: North Waziristan, Pakistan, United States_
+_Context: North Waziristan, Pakistan, U.S._
 
 ### [A Chinese man is freed from prison after 10 years after the man he had been convicted of killing is found alive. ](/news/2010/05/9/a-chinese-man-is-freed-from-prison-after-10-years-after-the-man-he-had-been-convicted-of-killing-is-found-alive.md)
 A Chinese man who spent nearly 10 years in jail for murder has been cleared after the supposed victim reappeared alive and well.

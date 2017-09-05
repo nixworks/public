@@ -25,7 +25,7 @@ _Context: 2007 North Lebanon conflict, Fatah al-Islam, Lebanon, Nahr el-Bared_
 _Context: South Africa, public sector_
 
 ### [ Fiji lifts the state of emergency that was imposed during the 2006 Fijian coup d'tat. ](/news/2007/06/1/fiji-lifts-the-state-of-emergency-that-was-imposed-during-the-2006-fijian-coup-d-etat.md)
-_Context: coup in 2006, state of emergency_
+_Context: coup in 2006, states of emergency_
 
 ### [ A United States Navy destroyer, the USS "Chafee", fires on suspected terrorists staying in Puntland, in northern Somalia. The three suspects are accused in taking part in the 1998 bombings of the United States embassies in Kenya and Tanzania. ](/news/2007/06/1/a-united-states-navy-destroyer-the-uss-chafee-fires-on-suspected-terrorists-staying-in-puntland-in-northern-somalia-the-three-suspect.md)
 The destroyer USS Chafee fired her deck guns at two or three suspected &quot;high-value terrorist targets&quot; in the Puntland area along the northern coast of Somalia on Saturday, U.S. officials told NBC News. 

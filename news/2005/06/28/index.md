@@ -25,7 +25,7 @@ The Asahi Shimbun is widely regarded for its journalism as the most respected da
 _Context: Lassa fever, vaccination_
 
 ### [ Italian police detain Angelo Sacco after a shooting spree in Bogogno, near Milan. Three people are dead. ](/news/2005/06/28/italian-police-detain-angelo-sacco-after-a-shooting-spree-in-bogogno-near-milan-three-people-are-dead.md)
-_Context: Angelo Sacco, Bogogno, Italian, Milan_
+_Context: Angelo Sacco, Bogogno, Italy, Milan_
 
 ### [ Guinea-Bissau's former president Kumba Yala declares that he accepts the results of presidential elections in the country "in the interest of peace and democracy" but still insists that he actually won. No candidate has won 50% of the vote and the next round of elections commences in July. ](/news/2005/06/28/guinea-bissau-s-former-president-kumba-yala-declares-that-he-accepts-the-results-of-presidential-elections-in-the-country-in-the-interest.md)
 _Context: Guinea-Bissau, Kumba Yala_

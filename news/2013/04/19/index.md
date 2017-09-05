@@ -19,7 +19,7 @@ A court in India sentences a man to death for plotting a bomb blast at a German 
 _Context: Nicolas Maduro, President, Venezuela, last month's presidential election_
 
 ### [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md)
-_Context: Democratic Party, Italian, Pier Luigi Bersani, President of Italy_
+_Context: Democratic Party, Italy, Pier Luigi Bersani, President of Italy_
 
 ## [Previous Day...](/news/2013/04/18/index.md)
 

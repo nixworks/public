@@ -19,13 +19,13 @@ _Context: Australia, Caboolture Airport, Queensland_
 _Context: Balochistan, Pakistan, collision_
 
 ### [A landslide kills two people, and injures six in Oso, Washington, United States. ](/news/2014/03/22/a-landslide-kills-two-people-and-injures-six-in-oso-washington-united-states.md)
-_Context: Oso, United States, Washington_
+_Context: Oso, U.S., Washington_
 
 ### [A barge carrying nearly a million gallons of oil collides with a ship in Galveston Bay on the coast of the US state of Texas causing an oil spill. ](/news/2014/03/22/a-barge-carrying-nearly-a-million-gallons-of-oil-collides-with-a-ship-in-galveston-bay-on-the-coast-of-the-us-state-of-texas-causing-an-oil.md)
 _Context: Galveston Bay, Texas_
 
 ### [The Veneto region votes to secede from Italy in an informal online referendum. ](/news/2014/03/22/the-veneto-region-votes-to-secede-from-italy-in-an-informal-online-referendum.md)
-_Context: Italian, Veneto, informal online referendum_
+_Context: Italy, Veneto, informal online referendum_
 
 ## [Previous Day...](/news/2014/03/21/index.md)
 

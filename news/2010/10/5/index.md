@@ -13,7 +13,7 @@ _Context: Meghalaya, ULFA, West Garo Hills_
 Dissident republican group the Real IRA says it carried out a car bomb attack in Londonderry which damaged a bank and shops.
 
 ### [A state of emergency in place in Ecuador after the 2010 Ecuador crisis is extended to Friday. ](/news/2010/10/5/a-state-of-emergency-in-place-in-ecuador-after-the-2010-ecuador-crisis-is-extended-to-friday.md)
-_Context: Ecuador, protested against being stripped of their bonuses, state of emergency_
+_Context: Ecuador, protested against being stripped of their bonuses, states of emergency_
 
 ### ["Breakfast" broadcaster Paul Henry is suspended effective immediately by TVNZ after yesterday's controversial interview with John Key. The network had previously issued a statement in support of Henry. ](/news/2010/10/5/breakfast-broadcaster-paul-henry-is-suspended-effective-immediately-by-tvnz-after-yesterday-s-controversial-interview-with-john-key-the-n.md)
 Paul Henry has been suspended by TVNZ for comments he made yesterday about the Governor-General Sir Anand Satyanand. - New Zealand Herald
@@ -64,7 +64,7 @@ _Context: Faisal Shahzad, New York State, Times Square bomber, life imprisonment
 Former Societe Generale trader Jerome Kerviel sentenced to three years in jail and ordered to repay 4.9 billion euros.
 
 ### [The extradiction of alleged arms dealer Viktor Bout from Thailand to the United States moves a step closer after a Thai court dismisses money laundering charges against him. ](/news/2010/10/5/the-extradiction-of-alleged-arms-dealer-viktor-bout-from-thailand-to-the-united-states-moves-a-step-closer-after-a-thai-court-dismisses-mone.md)
-_Context: Thailand, United States, Viktor Bout, arms dealer, extradite, money laundering_
+_Context: Thailand, U.S., Viktor Bout, arms dealer, extradite, money laundering_
 
 ### [French police arrest twelve alleged al-Qaeda terrorists in Marseilles and Bordeaux including three suspects allegedly found with bomb making kits. ](/news/2010/10/5/french-police-arrest-twelve-alleged-al-qaeda-terrorists-in-marseilles-and-bordeaux-including-three-suspects-allegedly-found-with-bomb-making.md)
 Twelve people are detained in two raids targeting groups linked to armed fighters as country remains on high alert.

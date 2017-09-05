@@ -7,7 +7,7 @@ _Context: A340-600, Abu Dhabi, Airbus, Etihad Airways, Toulouse Blagnac Internat
 _Context: Russia, Sergei Storchak_
 
 ### [ President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
-_Context: President of Georgia, Saakashvili, state of emergency_
+_Context: President of Georgia, Saakashvili, states of emergency_
 
 ### [ The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.date=December 2007](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.md)
 _Context: Nepal, Nepalese Constituent Assembly election, 2008, Supreme Court, legal, moral_
@@ -34,7 +34,7 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Wo
 _Context: OSCE, parliamentary elections, visa-free travel_
 
 ### [ United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutto-on-the-phone-and-tells-her-that-m.md)
-_Context: Benazir Bhutto, John Negroponte, Prime Minister of Pakistan, US Deputy Secretary of State, United States, democratic progress_
+_Context: Benazir Bhutto, John Negroponte, Prime Minister of Pakistan, U.S., US Deputy Secretary of State, democratic progress_
 
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
 _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_
@@ -43,7 +43,7 @@ _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minis
 _Context: India, Jaish-e-Mohammed, Kidnap, Pakistan, Uttar Pradesh_
 
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Japan, President, Prime Minister of Japan, United States, Yasuo Fukuda_
+_Context: George W. Bush, Japan, President, Prime Minister of Japan, U.S., Yasuo Fukuda_
 
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
 _Context: Bangladesh, Dhaka, cyclone Sidr_

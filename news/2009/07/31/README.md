@@ -19,7 +19,7 @@ A Norwegian cargo vessel with a crew of six is believed to have sunk in Swedish 
 _Context: Barcelona, Netherlands, bus crash_
 
 ### [ Patrizia D'Addario, the escort at the centre of Italian Prime Minister Silvio Berlusconi's sex scandal, claims he and his party offered her a seat in the European Parliament until his wife complained. ](/news/2009/07/31/patrizia-d-addario-the-escort-at-the-centre-of-italian-prime-minister-silvio-berlusconi-s-sex-scandal-claims-he-and-his-party-offered-her.md)
-_Context: European Parliament, Italian, Italian Prime Minister, Silvio Berlusconi_
+_Context: European Parliament, Italian Prime Minister, Italy, Silvio Berlusconi_
 
 ### [ Gazprom launches construction of the Sakhalin-Khabarovsk-Vladivostok gas pipeline. ](/news/2009/07/31/gazprom-launches-construction-of-the-sakhalinakhabarovskavladivostok-gas-pipeline.md)
 * Gazprom needs 8-10 bcm of gas for new pipeline * Putin says domestic market should take priority * ExxonMobil considering all options fo
@@ -34,7 +34,7 @@ Myanmar opposition leader to know fate on August 11 as court defers ruling.
 _Context: Baghdad, Iraq, Shi'ite_
 
 ### [ Space Shuttle "Endeavour" lands at Kennedy Space Centre in Florida, United States, ending a 16-day mission to the International Space Station (ISS). ](/news/2009/07/31/space-shuttle-endeavour-lands-at-kennedy-space-centre-in-florida-united-states-ending-a-16-day-mission-to-the-international-space-stati.md)
-_Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', United States_
+_Context: 16-day mission, Florida, International Space Station, Kennedy Space Center, Space Shuttle ''Endeavour'', U.S._
 
 ### [ Aerial photographs reveal the streetplan of the lost Roman city of Altinum, regarded by some scholars as a forerunner of Venice. ](/news/2009/07/31/aerial-photographs-reveal-the-streetplan-of-the-lost-roman-city-of-altinum-regarded-by-some-scholars-as-a-forerunner-of-venice.md)
 _Context: Altinum, Venice_
@@ -49,7 +49,7 @@ _Context: Benicio del Toro, Cuba, Cuba - United States relations, Havana, Intern
 _Context: Newcastle upon Tyne, plagiarising, sperm_
 
 ### [ Three United States tourists are detained by Iranians in Iraq. ](/news/2009/07/31/three-united-states-tourists-are-detained-by-iranians-in-iraq.md)
-_Context: Iran, Iraq, United States_
+_Context: Iran, Iraq, U.S._
 
 ### [ The giant Swiss bank UBS and that nation's government have agreed to settle a lawsuit brought against UBS by United States tax authorities, in an agreement that seems likely to result in giving the Internal Revenue Service access to thousands of previously secret U.S. client accounts. ](/news/2009/07/31/the-giant-swiss-bank-ubs-and-that-nation-s-government-have-agreed-to-settle-a-lawsuit-brought-against-ubs-by-united-states-tax-authorities.md)
 The Globe and Mail offers the most authoritative news in Canada, featuring national and international news

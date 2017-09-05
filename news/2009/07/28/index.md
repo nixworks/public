@@ -10,7 +10,7 @@ _Context: Borno State, Maiduguri, Nigeria, Yusuf Mohamed_
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 ### [ The United States and China continue the first U.S.-China Strategic and Economic Dialogue. ](/news/2009/07/28/the-united-states-and-china-continue-the-first-u-s-china-strategic-and-economic-dialogue.md)
-_Context: China, U.S.-China Strategic and Economic Dialogue, United States_
+_Context: China, U.S., U.S.-China Strategic and Economic Dialogue_
 
 ### [ South African police clash with about 200 protesters at an informal settlement outside Johannesburg. ](/news/2009/07/28/south-african-police-clash-with-about-200-protesters-at-an-informal-settlement-outside-johannesburg.md)
 _Context: Johannesburg, South Africa_
@@ -52,7 +52,7 @@ _Context: Man Booker Prize_
 A group of researchers have found a protein that facilitates the digestion of blood. Now they hope to find ways to eliminate mosquitoes’ thirst for blood as well as fight endemic diseases in the developing world like malaria.
 
 ### [ Italian officials evacuate a newly built hospital in Agrigento in western Sicily after tests show it risked collapse in an earthquake. ](/news/2009/07/28/italian-officials-evacuate-a-newly-built-hospital-in-agrigento-in-western-sicily-after-tests-show-it-risked-collapse-in-an-earthquake.md)
-_Context: Agrigento, Italian, Sicily, earthquake_
+_Context: Agrigento, Italy, Sicily, earthquake_
 
 ### [ 22 people are killed, 41 are injured and seven are missing after heavy rain and floods in Sichuan. ](/news/2009/07/28/22-people-are-killed-41-are-injured-and-seven-are-missing-after-heavy-rain-and-floods-in-sichuan.md)
 _Context: Sichuan_

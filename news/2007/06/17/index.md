@@ -7,7 +7,7 @@ Seven Afghan children have been killed in a U.S.-led coalition air strike, the c
 _Context: 2007 U.S. Open Golf Championship, Angel Cabrera, Oakmont Country Club, Oakmont, Pennsylvania_
 
 ### [ Linate Airport in Milan, Italy is closed for three hours at dawn to allow wildlife experts to trap 80 hares that have bred in recent months and are confusing ground radar. ](/news/2007/06/17/linate-airport-in-milan-italy-is-closed-for-three-hours-at-dawn-to-allow-wildlife-experts-to-trap-80-hares-that-have-bred-in-recent-months.md)
-_Context: Italian, Linate Airport, Milan, hare, radar_
+_Context: Italy, Linate Airport, Milan, hare, radar_
 
 ### [ Audi wins their seventh 24 Hours of Le Mans in eight years, including their second straight win with a diesel R10 prototype. ](/news/2007/06/17/audi-wins-their-seventh-24-hours-of-le-mans-in-eight-years-including-their-second-straight-win-with-a-diesel-r10-prototype.md)
 _Context: 24 Hours of Le Mans, Audi, R10, diesel-powered, prototype_

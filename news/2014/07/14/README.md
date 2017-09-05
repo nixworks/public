@@ -22,7 +22,7 @@ Samsung said on Monday it had temporarily suspended business with one of its sup
 _Context: Australia, David Jones Limited, South Africa, Woolworths_
 
 ### [Efforts to refloat the Italian cruise ship "Costa Concordia" begin off the coast of Italy two and a half years after it sank. ](/news/2014/07/14/efforts-to-refloat-the-italian-cruise-ship-costa-concordia-begin-off-the-coast-of-italy-two-and-a-half-years-after-it-sank.md)
-_Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Italian, cruise ship_
+_Context: ''Costa Concordia'' disaster, Costa Concordia, Italian, Italy, cruise ship_
 
 ### [The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. ](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continues-to-get-worse-with-the-death-toll-now-exceeding-500.md)
 _Context: West Africa, ebola virus_

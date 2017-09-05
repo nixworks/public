@@ -10,7 +10,7 @@ _Context: Pompeii, Roman_
 _Context: Alexei Miller, Gazprom, Naftogaz Ukrainy, Russia, Ukraine, Ukrainian Fuel and Energy Minister, Yuri Boiko_
 
 ### [21 people are killed and several states declare a state of emergency after torrential rains in Venezuela. ](/news/2010/12/1/21-people-are-killed-and-several-states-declare-a-state-of-emergency-after-torrential-rains-in-venezuela.md)
-_Context: Venezuela, state of emergency_
+_Context: Venezuela, states of emergency_
 
 ### [At the 2010 United Nations Climate Change Conference, Google unveils an initiative using Google Earth allowing users to view the effects of deforestation, impacts and videos on global warming and climate change. ](/news/2010/12/1/at-the-2010-united-nations-climate-change-conference-google-unveils-an-initiative-using-google-earth-allowing-users-to-view-the-effects-of.md)
 _Context: Google, Google Earth, U.N. climate change talks, climate change, deforestation, effects of global warming, global warming_
@@ -19,7 +19,7 @@ _Context: Google, Google Earth, U.N. climate change talks, climate change, defor
 _Context: Kazakhstan, OSCE_
 
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: North Korea, South Korea, United States, Yellow Sea_
+_Context: North Korea, South Korea, U.S., Yellow Sea_
 
 ### [Israel reveals plans to build 625 more homes in the Palestinian territories, close to East Jerusalem. ](/news/2010/12/1/israel-reveals-plans-to-build-625-more-homes-in-the-palestinian-territories-close-to-east-jerusalem.md)
 Israel on Wednesday revealed plans to build new homes on West Bank land it has annexed as part of its Jerusalem boundaries, a move likely to further hamper any resumption of peace talks with the Palestinians.

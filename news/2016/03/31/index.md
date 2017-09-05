@@ -49,7 +49,7 @@ _Context: Jacob Zuma, National Assembly of South Africa, Public Protector, South
 _Context: National Assembly, Nicolas Maduro, President, Venezuelan Central Bank, inflation_
 
 ### [Italy's Minister of Economic Development, Federica Guidi, resigns amid allegations that she passed along confidential information to her boyfriend that helped his business interests. ](/news/2016/03/31/italy-s-minister-of-economic-development-federica-guidi-resigns-amid-allegations-that-she-passed-along-confidential-information-to-her-boy.md)
-_Context: Federica Guidi, Italian, Minister of Economic Development_
+_Context: Federica Guidi, Italy, Minister of Economic Development_
 
 ### [Brazil's Supreme Court voted 8-2 to take over the corruption investigation of former President Luiz Inacio Lula da Silva. Silva alleges Judge Sergio Moro unfairly targets him. The court also overruled Moro's decision to release the recording of Silva's call with President Dilma Rousseff, since it is the only court that can authorize a wiretap on presidential conversations. The full court is still to rule on the injunction that prevents Silva from taking office as the President's Chief of Staff. ](/news/2016/03/31/brazil-s-supreme-court-voted-8-2-to-take-over-the-corruption-investigation-of-former-president-luiz-ina-cio-lula-da-silva-silva-alleges-jud.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

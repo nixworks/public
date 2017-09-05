@@ -4,7 +4,7 @@
 _Context: Comcast Center, Pennsylvania, Philadelphia, topping out_
 
 ### [ Nine firefighters are killed in a collapse at a furniture warehouse blaze in Charleston, South Carolina, the largest loss of firefighters in the United States in one incident since the collapse of the World Trade Center in 2001.](/news/2007/06/18/nine-firefighters-are-killed-in-a-collapse-at-a-furniture-warehouse-blaze-in-charleston-south-carolina-the-largest-loss-of-firefighters-i.md)
-_Context: 2001, Charleston, South Carolina, South Carolina, United States, collapse of the World Trade Center, firefighter, killed in a collapse, warehouse_
+_Context: 2001, Charleston, South Carolina, South Carolina, U.S., collapse of the World Trade Center, firefighter, killed in a collapse, warehouse_
 
 ### [ The President of Turkey, Ahmet Necdet Sezer, vetoes a bill bringing forward a referendum of the direct election of the president. ](/news/2007/06/18/the-president-of-turkey-ahmet-necdet-sezer-vetoes-a-bill-bringing-forward-a-referendum-of-the-direct-election-of-the-president.md)
 _Context: Ahmet Necdet Sezer, President, direct election, referendum, veto_
@@ -13,7 +13,7 @@ _Context: Ahmet Necdet Sezer, President, direct election, referendum, veto_
 Residents emerged from their homes in a flood-stricken north Texas town on Monday as waters that killed a 4-year-old girl and at least one other person began to recede throughout the soaked region.
 
 ### [ The European Union and United States restore foreign aid to the Palestinian Authority. ](/news/2007/06/18/the-european-union-and-united-states-restore-foreign-aid-to-the-palestinian-authority.md)
-_Context: European Union, Palestinian Authority, United States, foreign aid_
+_Context: European Union, Palestinian Authority, U.S., foreign aid_
 
 ### [ Hamas leader Mahmoud al-Zahar issues an ultimatum to the Palestinian Army of Islam to free kidnapped BBC journalist Alan Johnston or face military action. ](/news/2007/06/18/hamas-leader-mahmoud-al-zahar-issues-an-ultimatum-to-the-palestinian-army-of-islam-to-free-kidnapped-bbc-journalist-alan-johnston-or-face-m.md)
 _Context: Alan Johnston, BBC, Hamas, Mahmoud al-Zahar, Palestinian Army of Islam_

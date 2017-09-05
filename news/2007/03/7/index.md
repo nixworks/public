@@ -22,7 +22,7 @@ _Context: Foreign Minister, Iraq, Manouchehr Mottaki, Middle East, United Nation
 _Context: Israel Defence Forces, Palestinian Authority, Ramallah, military intelligence_
 
 ### [ The Taliban claim that they have kidnapped Daniele Mastrogiacomo, an Italian journalist working for "La Repubblica" newspaper. ](/news/2007/03/7/the-taliban-claim-that-they-have-kidnapped-daniele-mastrogiacomo-an-italian-journalist-working-for-la-repubblica-newspaper.md)
-_Context: Italian, Kidnap, La Repubblica, Taliban, journalist, newspaper_
+_Context: Italy, Kidnap, La Repubblica, Taliban, journalist, newspaper_
 
 ### [ Rogerio Lobato, former Interior Minister of East Timor, is found guilty on five counts of arming hit squads during civil unrest in 2006. ](/news/2007/03/7/rogerio-lobato-former-interior-minister-of-east-timor-is-found-guilty-on-five-counts-of-arming-hit-squads-during-civil-unrest-in-2006.md)
 The Age 404 Page

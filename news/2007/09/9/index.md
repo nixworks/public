@@ -28,7 +28,7 @@ Around 5,000 Algerians gathered in central Algiers on Sunday to protest against 
 _Context: 2007 general election, Guatemala_
 
 ### [ Jamaican Asafa Powell set a new men's world 100 meters record of 9.74 seconds at the IAAF Grand Prix at Rieti, Italy. ](/news/2007/09/9/jamaican-asafa-powell-set-a-new-men-s-world-100-meters-record-of-9-74-seconds-at-the-iaaf-grand-prix-at-rieti-italy.md)
-_Context: Asafa Powell, Italian, Jamaica, Rieti, men's world 100 meters record_
+_Context: Asafa Powell, Italy, Jamaica, Rieti, men's world 100 meters record_
 
 ### [ At least 15 dead and many injured when a flyover under construction at Panjagutta junction, Hyderabad, Andhra Pradesh, India collapsed. Wikinews](/news/2007/09/9/at-least-15-dead-and-many-injured-when-a-flyover-under-construction-at-panjagutta-junction-hyderabad-andhra-pradesh-india-collapsed-wik.md)
 _Context: Hyderabad, Andhra Pradesh, India, Wikinews, overpass_
@@ -43,7 +43,7 @@ _Context: India, West Bengal, landslide_
 Nawaz Sharif, the exiled former prime minister of Pakistan, boarded a flight from London to Islamabad as he headed towards a showdown with President Pervez Musharraf, who has threatened him with arrest.
 
 ### [ Tropical Storm Gabrielle makes landfall near the Cape Lookout National Seashore in North Carolina, United States, and hooks over Cape Hatteras before returning to the Atlantic as a tropical depression, bringing much-needed rain to coastal North Carolina as well as some beach erosion. ](/news/2007/09/9/tropical-storm-gabrielle-makes-landfall-near-the-cape-lookout-national-seashore-in-north-carolina-united-states-and-hooks-over-cape-hatte.md)
-_Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, United States, beach erosion_
+_Context: Cape Hatteras, Cape Lookout National Seashore, North Carolina, Tropical Storm Gabrielle, U.S., beach erosion_
 
 ### [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md)
 The APEC summit in Sydney is drawing to a conclusion, with leaders working on their final statement.

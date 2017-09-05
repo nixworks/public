@@ -52,7 +52,7 @@ Move will allow political party leaders more time to finalise new constitution.
 _Context: 2010 parliamentary elections, Hungary, Prime Minister, Viktor Orban_
 
 ### [Thai Prime Minister Abhisit Vejjajiva lifts a curfew in the capital Bangkok and 23 provinces in the aftermath of protests but a state of emergency would remain. ](/news/2010/05/29/thai-prime-minister-abhisit-vejjajiva-lifts-a-curfew-in-the-capital-bangkok-and-23-provinces-in-the-aftermath-of-protests-but-a-state-of-eme.md)
-_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand, curfew, state of emergency_
+_Context: 2010 Thai political protests, Abhisit Vejjajiva, Bangkok, Thailand, curfew, states of emergency_
 
 ### [As part of the ongoing United Kingdom Parliamentary expenses scandal, Liberal Democrat MP David Laws resigns from his position as Chief Secretary to the Treasury after it is revealed he used expenses to cover rent for a non-marital partner, a practice banned in 2006. ](/news/2010/05/29/as-part-of-the-ongoing-united-kingdom-parliamentary-expenses-scandal-liberal-democrat-mp-david-laws-resigns-from-his-position-as-chief-secr.md)
 Britain&#39;s Chief Treasury Secretary David Laws has admitted paying thousands of pounds of taxpayers&#39; money in rent to his partner.

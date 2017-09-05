@@ -19,7 +19,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Doha Asian Games, Kim Hyung-chil, South Korea_
 
 ### [ Nigerian gun men attack an Agip oil terminal in the Niger River delta and take three Italians hostage. ](/news/2006/12/7/nigerian-gun-men-attack-an-agip-oil-terminal-in-the-niger-river-delta-and-take-three-italians-hostage.md)
-_Context: Agip, Italian, Niger River, Nigerian_
+_Context: Agip, Italy, Niger River, Nigerian_
 
 ### [ Nearly 100 people are dead or unaccounted for in Vietnam as a result of Typhoon Durian. It had earlier killed over 550 people in the Philippines and left a similar number missing. ](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.md)
 _Context: Philippines, Typhoon Durian, Vietnam_

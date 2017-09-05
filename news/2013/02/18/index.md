@@ -13,13 +13,13 @@ A massive search was set to continue through Monday night off Liverpool for five
 Rescuers found five more bodies in the mud after flooding and landslides in northern Indonesia, bringing the death toll to 15 after the disaster that sent thousands fleeing for safe ground, police and witnesses said Monday.
 
 ### [Food giant Nestl removes its beef pasta meals from supermarkets in France, Spain, and Italy, after tests confirmed that the product contained horse meat. ](/news/2013/02/18/food-giant-nestle-removes-its-beef-pasta-meals-from-supermarkets-in-france-spain-and-italy-after-tests-confirmed-that-the-product-contain.md)
-_Context: 2013 meat adulteration scandal, France, Italian, Nestl, Spain, beef, horses for meat, supermarket chain_
+_Context: 2013 meat adulteration scandal, France, Italy, Nestl, Spain, beef, horses for meat, supermarket chain_
 
 ### [2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. ](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-a-haul-of-diamonds-worth-50-million-during-a-raid-at-brussels-airport-in-belgium.md)
 Armed robbers disguised as police escape with a massive haul of diamonds after a rapid raid at Brussels Airport, Belgian police say.
 
 ### [The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. ](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are-dead-in-a-murder-suicide-near-fairdealing-missouri-united-states-and-two-others-are-injur.md)
-_Context: Fairdealing, Missouri, United States, murder-suicide_
+_Context: Fairdealing, Missouri, U.S., murder-suicide_
 
 ### [Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. ](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.md)
 Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes cast, in a poll criticised for lack of competition.

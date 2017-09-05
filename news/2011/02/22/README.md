@@ -7,7 +7,7 @@ LIBYAN leader Muammar Gaddafi, facing the greatest challenge to his four-decade 
 Armed supporters of Yemen&#039;s government have shot dead two students who were holding a sit-in demanding the resignation of President Ali Abdullah Saleh, witnesses say.
 
 ### [The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. ](/news/2011/02/22/the-algerian-government-adopts-a-draft-law-lifting-the-state-of-emergency-in-the-country-in-place-since-1992.md)
-_Context: state of emergency_
+_Context: states of emergency_
 
 ### [2011 Iranian protests: Iranian security forces arrest the son of opposition leader Mehdi Karroubi. ](/news/2011/02/22/2011-iranian-protests-iranian-security-forces-arrest-the-son-of-opposition-leader-mehdi-karroubi.md)
 Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, his website reported on Tuesday.

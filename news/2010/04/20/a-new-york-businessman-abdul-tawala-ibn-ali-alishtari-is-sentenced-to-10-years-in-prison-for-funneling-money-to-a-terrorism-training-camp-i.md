@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Both the FBI and NSD declare that they possess no records indicating that Trump Towers in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in.md) _Context: New York City_
+1. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: New York City_
 2. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan's_
 3. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Afghanistan's_
 4. [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md) _Context: New York City_

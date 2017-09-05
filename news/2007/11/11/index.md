@@ -19,7 +19,7 @@ _Context: Ieng Sary, Ieng Thirith, Khmer Rouge, Phnom Penh, U.N., genocide tribu
 The UDA has announced that units of its military wing, the Ulster Freedom Fighters, are to be stood down at midnight.
 
 ### [ Gabriele Sandri, a 26-year-old supporter of the sports club S.S. Lazio is killed by police in a service station near Arezzo, Italy. Football fans later clash with police in most Italian stadiums. ](/news/2007/11/11/gabriele-sandri-a-26-year-old-supporter-of-the-sports-club-s-s-lazio-is-killed-by-police-in-a-service-station-near-arezzo-italy-footbal.md)
-_Context: Arezzo, Gabriele Sandri, Italian, Lazio, filling station, footballer, police, stadium_
+_Context: Arezzo, Gabriele Sandri, Italy, Lazio, filling station, footballer, police, stadium_
 
 ### [ Transport for London takes over the North London Line and the other suburban rail lines hitherto operated by Silverlink to form the London Overground. While remaining part of the National Rail network, the contracting authority for the franchise is Transport for London, rather than central Government.](/news/2007/11/11/transport-for-london-takes-over-the-north-london-line-and-the-other-suburban-rail-lines-hitherto-operated-by-silverlink-to-form-the-london.md)
 _Context: London Overground, National Rail, North London Line, Silverlink, Transport for London_

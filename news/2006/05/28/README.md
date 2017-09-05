@@ -1,7 +1,7 @@
 ## [2006-05-28](/news/2006/05/28/index.md)
 
 ### [ The body of Canadian diplomat Lewis Brooke Miskell is found in Naples, Italy, three months after his disappearance. ](/news/2006/05/28/the-body-of-canadian-diplomat-lewis-brooke-miskell-is-found-in-naples-italy-three-months-after-his-disappearance.md)
-_Context: Canadian, Italian, Lewis Brooke Miskell, Naples_
+_Context: Canadian, Italy, Lewis Brooke Miskell, Naples_
 
 ### [ "The Wind That Shakes the Barley", a film by British director Ken Loach, is awarded the Palme d'Or at the 2006 Cannes Film Festival.](/news/2006/05/28/the-wind-that-shakes-the-barley-a-film-by-british-director-ken-loach-is-awarded-the-palme-d-or-at-the-2006-cannes-film-festival.md)
 _Context: 2006 Cannes Film Festival, Ken Loach, Palme d'Or, The Wind That Shakes the Barley_

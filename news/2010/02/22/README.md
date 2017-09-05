@@ -31,7 +31,7 @@ The European Union and Germany on Monday denied a report of a 20-25 billion euro
 _Context: Lufthansa_
 
 ### [Odeon Cinemas in Ireland, Italy and the UK confirm their intention to boycott Tim Burton's "Alice in Wonderland" in a dispute with Disney. ](/news/2010/02/22/odeon-cinemas-in-ireland-italy-and-the-uk-confirm-their-intention-to-boycott-tim-burton-s-alice-in-wonderland-in-a-dispute-with-disney.md)
-_Context: Alice in Wonderland, Disney, Italian, Odeon & UCI Cinemas Group, Tim Burton_
+_Context: Alice in Wonderland, Disney, Italy, Odeon & UCI Cinemas Group, Tim Burton_
 
 ## [Previous Day...](/news/2010/02/21/index.md)
 

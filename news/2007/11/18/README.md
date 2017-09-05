@@ -1,7 +1,7 @@
 ## [2007-11-18](/news/2007/11/18/index.md)
 
 ### [ Silvio Berlusconi, Italy's former Prime Minister, announces he will dissolve the Forza Italia party and found a new one called Freedom People's Party. ](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.md)
-_Context: Forza Italia, Freedom People's Party, Italian, Italian Prime Minister, Silvio Berlusconi_
+_Context: Forza Italia, Freedom People's Party, Italian Prime Minister, Italy, Silvio Berlusconi_
 
 ### [ Japan resumes whaling of humpbacks for the first time in 40 years. Greenpeace and other environmentalist groups condemn the decision. ](/news/2007/11/18/japan-resumes-whaling-of-humpbacks-for-the-first-time-in-40-years-greenpeace-and-other-environmentalist-groups-condemn-the-decision.md)
 _Context: Greenpeace India's, Japan, environmentalist, humpbacks, hunt_
@@ -16,10 +16,10 @@ _Context: 2007 Burmese anti-government protests, ASEAN, Burma, Ong Keng Yong, Se
 _Context: China, District Council, Hong Kong, elections, parties_
 
 ### [ Hina Jilani leads a protest in London to ask for the release of all political prisoners and to vocalize the call for President Pervez Musharraf's resignation. [http://news.bbc.co.uk/2/hi/uk_news/7100762.stm (BBC)] United States Deputy Secretary of State John Negroponte says President Pervez Musharraf should lift the state of emergency and free political opponents. [http://news.bbc.co.uk/2/hi/south_asia/7100322.stm (BBC)] One person dies in a bomb explosion on a railway track near Peshawar targeted at a passenger train.date=December 2007](/news/2007/11/18/hina-jilani-leads-a-protest-in-london-to-ask-for-the-release-of-all-political-prisoners-and-to-vocalize-the-call-for-president-pervez-musha.md)
-_Context: Hina Jilani, John Negroponte, London, Pervez Musharraf, Peshawar, US Deputy Secretary of State, United States, bomb, explosion, passenger train, political opponent, president, railway track, state of emergency_
+_Context: Hina Jilani, John Negroponte, London, Pervez Musharraf, Peshawar, U.S., US Deputy Secretary of State, bomb, explosion, passenger train, political opponent, president, railway track, states of emergency_
 
 ### [ Venezuelan President Hugo Chvez opens the 2007 OPEC meeting in Saudi Arabia, warning the United States against attacking Iran. ](/news/2007/11/18/venezuelan-president-hugo-chavez-opens-the-2007-opec-meeting-in-saudi-arabia-warning-the-united-states-against-attacking-iran.md)
-_Context: Hugo Chvez, Iran, OPEC, President, Saudi Arabia, United States, Venezuela_
+_Context: Hugo Chvez, Iran, OPEC, President, Saudi Arabia, U.S., Venezuela_
 
 ### [ 2007 Writers Guild of America strike: Screenwriters announce they will resume negotiations with movie studios on November 26. ](/news/2007/11/18/2007-writers-guild-of-america-strike-screenwriters-announce-they-will-resume-negotiations-with-movie-studios-on-november-26.md)
 _Context: 2007 Writers Guild of America strike, Screenwriter, movie studio, negotiation_

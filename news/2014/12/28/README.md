@@ -13,7 +13,7 @@ AirAsia Indonesia flight QZ8501 travelling from Indonesia to Singapore goes miss
 Rescue workers are battling to airlift passengers off a burning ferry adrift in the Adriatic Sea. Italian and Greek helicopter crews contended with darkness and bad weather to pluck passengers off the Italian-flagged Norman Atlantic and transfer them to a nearby vessel, after a dramatic day that beg...
 
 ### [Two merchant ships collide in rough seas off the Italian Adriatic coast, leaving at least one person dead and two missing. ](/news/2014/12/28/two-merchant-ships-collide-in-rough-seas-off-the-italian-adriatic-coast-leaving-at-least-one-person-dead-and-two-missing.md)
-_Context: Adriatic coast, Italian_
+_Context: Adriatic coast, Italy_
 
 ### [Floods and mudslides in Sri Lanka kill at least twenty-four people and leave eight missing. ](/news/2014/12/28/floods-and-mudslides-in-sri-lanka-kill-at-least-twenty-four-people-and-leave-eight-missing.md)
 Twenty-four people have been killed and eight others are missing due to floods and mudslides caused by incessant rain in Sri Lanka over the past week, offi

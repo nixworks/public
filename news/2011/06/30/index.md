@@ -22,7 +22,7 @@ _Context: Amnesty International, China, Human rights_
 _Context: Al-Shamukh, jihad_
 
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, United States_
+_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
 
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
 _Context: Fox News, Glenn Beck_
@@ -37,7 +37,7 @@ _Context: Fukushima Daiichi nuclear disaster, automakers_
 _Context: Apple Inc., International Trade Commission, Samsung, iPads, iPhone, iPod, patent_
 
 ### [Italy's government attempts to bring in its own austerity measures to calm turbulent markets and reassure investors. ](/news/2011/06/30/italy-s-government-attempts-to-bring-in-its-own-austerity-measures-to-calm-turbulent-markets-and-reassure-investors.md)
-_Context: Italian_
+_Context: Italy_
 
 ### [In the United Kingdom, the cheque guarantee card scheme &ndash; which ensures some cheques are honoured even if the account holder does not have sufficient funds in their account &ndash; is being withdrawn today after operating for over 40 years. ](/news/2011/06/30/in-the-united-kingdom-the-cheque-guarantee-card-scheme-ndash-which-ensures-some-cheques-are-honoured-even-if-the-account-holder-does-not.md)
 The final operating day of cheque guarantee cards - which ensure some cheques are honoured - is on Thursday.
@@ -85,7 +85,7 @@ Hairdresser turned tycoon and Birmingham City club owner Carson Yeung was releas
 Lebanese media says UN-backed court has charged four Hezbollah members for 2005 killing of former prime minister
 
 ### [Head of Naples police intervention brigade Vittorio Pisani is investigated in Italy after coming under suspicion of leaking information to the mafia. ](/news/2011/06/30/head-of-naples-police-intervention-brigade-vittorio-pisani-is-investigated-in-italy-after-coming-under-suspicion-of-leaking-information-to-t.md)
-_Context: Italian, Mafia, Naples, Vittorio Pisani_
+_Context: Italy, Mafia, Naples, Vittorio Pisani_
 
 ### [Englishman Neil Entwistle is appealing his murder conviction of his wife and daughter in Massachusetts, USA. ](/news/2011/06/30/englishman-neil-entwistle-is-appealing-his-murder-conviction-of-his-wife-and-daughter-in-massachusetts-usa.md)
 _Context: Neil Entwistle_

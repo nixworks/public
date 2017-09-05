@@ -19,7 +19,7 @@ Chinese police have detained two people after a domestic flight from the restles
 Abdel Malik al-Houthi offers Yemeni government conditional truce for fourth time.
 
 ### [Judges across Italy stage a walk out over Prime Minister Silvio Berlusconi's proposed judicial reforms. ](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.md)
-_Context: Italian, Silvio Berlusconi_
+_Context: Italy, Silvio Berlusconi_
 
 ### [12 people drown and least 20 others are missing after a boat accident in West Godavari District, Andhra Pradesh in India. ](/news/2010/01/30/12-people-drown-and-least-20-others-are-missing-after-a-boat-accident-in-west-godavari-district-andhra-pradesh-in-india.md)
 Twelve people have died and at least 20 others are missing after a boat jammed with pilgrims capsized in a river in southern India.
@@ -28,7 +28,7 @@ Twelve people have died and at least 20 others are missing after a boat jammed w
 Government rejects resignation
 
 ### [China suspends military exchanges and reviews cooperation on issues with the United States after the latter agreed to a proposed weapons sale to Taiwan. ](/news/2010/01/30/china-suspends-military-exchanges-and-reviews-cooperation-on-issues-with-the-united-states-after-the-latter-agreed-to-a-proposed-weapons-sal.md)
-_Context: China, Taiwan, United States_
+_Context: China, Taiwan, U.S._
 
 ### [Google begins to phase out its support for Internet Explorer 6 after it was identified as a weak link in cyber attacks on the search engine. ](/news/2010/01/30/google-begins-to-phase-out-its-support-for-internet-explorer-6-after-it-was-identified-as-a-weak-link-in-cyber-attacks-on-the-search-engine.md)
 _Context: Google, Internet Explorer 6, cyber-attack_

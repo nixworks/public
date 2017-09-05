@@ -19,7 +19,7 @@ At least 3 people were killed and 22 others sustained severe injuries when a hom
 _Context: Beled-Hawa, Kenya, Muslims, Somalia_
 
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
-_Context: International Religions Today Film Festival, Iran, Italian_
+_Context: International Religions Today Film Festival, Iran, Italy_
 
 ### [Fifty-seventh National Film Awards given away by President Pratibha Patel in New Delhi. ](/news/2010/10/22/fifty-seventh-national-film-awards-given-away-by-president-pratibha-patel-in-new-delhi.md)
 _Context: National Film Awards, New Delhi, Pratibha Patel_

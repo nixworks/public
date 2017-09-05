@@ -10,7 +10,7 @@ _Context: India, Madhya Pradesh_
 _Context: Florida, Orlando, Florida, Walt Disney World, monorail collision_
 
 ### [ The Fellowship of Confessing Anglicans claims the debate over homosexuality may split the Church of England the way it has split the Episcopal Church in the United States. ](/news/2009/07/5/the-fellowship-of-confessing-anglicans-claims-the-debate-over-homosexuality-may-split-the-church-of-england-the-way-it-has-split-the-episco.md)
-_Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
+_Context: Church of England, Fellowship of Confessing Anglicans, U.S., U.S. branch of the Communion, homosexuality_
 
 ### [ An Irish government delegation arrives in Cairo to be briefed on the Sudan kidnappings. ](/news/2009/07/5/an-irish-government-delegation-arrives-in-cairo-to-be-briefed-on-the-sudan-kidnappings.md)
 _Context: Cairo, Ireland, Sudan_
@@ -34,7 +34,7 @@ _Context: Mexico, legislative election_
 _Context: John Sawers, United Kingdom, diplomatic_
 
 ### [ Italian Prime Minister Silvio Berlusconi is embarrassed by a lesbian kiss at his Sardinian estate. ](/news/2009/07/5/italian-prime-minister-silvio-berlusconi-is-embarrassed-by-a-lesbian-kiss-at-his-sardinian-estate.md)
-_Context: Italian, Italian Prime Minister, Sardinia, Silvio Berlusconi, lesbian_
+_Context: Italian Prime Minister, Italy, Sardinia, Silvio Berlusconi, lesbian_
 
 ### [ First Minister of Northern Ireland Peter Robinson holds separate talks with both sides in the dispute over the Drumcree conflict. ](/news/2009/07/5/first-minister-of-northern-ireland-peter-robinson-holds-separate-talks-with-both-sides-in-the-dispute-over-the-drumcree-conflict.md)
 The annual Orange Order parade in Drumcree passed off peacefully, with the PSNI mounting the smallest operation in over a decade.

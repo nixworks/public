@@ -13,7 +13,7 @@ _Context: Ray Harryhausen, U.S., special effects_
 Metal singer taken into custody Tuesday after allegedly soliciting an undercover cop to have his estranged wife killed.
 
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: Bank of China, North Korea, United States, intercontinental ballistic_
+_Context: Bank of China, North Korea, U.S., intercontinental ballistic_
 
 ### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md)
 _Context: Microsoft, Windows 8, operating system_
@@ -40,7 +40,7 @@ A Nigerian warplane involved in operations against militant Islamists in Mali cr
 Wild bears kill eight people within a week in the eastern Indian state of Orissa causing panic among local villagers, forestry officials say.
 
 ### [The Italian cargo ship "Jolly Nero" crashes into the port of Genoa, destroying the traffic control tower. Seven people die, four are injured and at least two are missing. ](/news/2013/05/7/the-italian-cargo-ship-jolly-nero-crashes-into-the-port-of-genoa-destroying-the-traffic-control-tower-seven-people-die-four-are-injured.md)
-_Context: Genoa, Italian_
+_Context: Genoa, Italy_
 
 ### [India has the highest first day infant mortality rate in the world, according to a new study. ](/news/2013/05/7/india-has-the-highest-first-day-infant-mortality-rate-in-the-world-according-to-a-new-study.md)
 More newborns die on the first day in India than in any other country, according to the latest &lsquo;State Of The World&rsquo;s Mothers 2013&rsquo; report.

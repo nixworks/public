@@ -13,7 +13,7 @@ Gas ignited at the plant, according to fire official.
 North Korea threatened the United States on Thursday with a preemptive nuclear strike, raising the level of rhetoric as the U.N. Security Council approved new sanctions against the reclusive country.
 
 ### [Former Italian Prime Minister Silvio Berlusconi is convicted of arranging an illegal wiretap and is sentenced to a year in jail. ](/news/2013/03/7/former-italian-prime-minister-silvio-berlusconi-is-convicted-of-arranging-an-illegal-wiretap-and-is-sentenced-to-a-year-in-jail.md)
-_Context: Italian, Italian Prime Minister, Silvio Berlusconi, wiretap_
+_Context: Italian Prime Minister, Italy, Silvio Berlusconi, wiretap_
 
 ### [Vicky Pryce, ex-wife of former UK Cabinet Minister Chris Huhne is convicted of perverting the course of justice after accepting speeding penalty points on Huhne's behalf. ](/news/2013/03/7/vicky-pryce-ex-wife-of-former-uk-cabinet-minister-chris-huhne-is-convicted-of-perverting-the-course-of-justice-after-accepting-speeding-pen.md)
 Vicky Pryce, the former wife of ex-MP Chris Huhne, is found guilty of perverting the course of justice by taking speeding points on his behalf 10 years ago.
@@ -22,7 +22,7 @@ Vicky Pryce, the former wife of ex-MP Chris Huhne, is found guilty of perverting
 Hilton Botha, the former lead detective in the murder case involving Paralympian Oscar Pistorius, has resigned from the SA Police Service.
 
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, United States, al-Qaeda_
+_Context: Jordan, Osama bin Laden, Sulaiman Abu Ghaith, U.S., al-Qaeda_
 
 ### [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md)
 _Context: Australia, Denis Napthine, Premier, Ted Baillieu, Victoria_

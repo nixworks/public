@@ -16,7 +16,7 @@ _Context: Bloomberg, Rupert Murdoch, pay TV_
 _Context: Crimea, Russian President Vladimir Putin, Sevastopol, Victory Day, Vladimir Putin, annexation by Russia_
 
 ### [South Korea's Ministry of National Defense announces that three drones found in their territory came from North Korea. ](/news/2014/05/9/south-korea-s-ministry-of-national-defense-announces-that-three-drones-found-in-their-territory-came-from-north-korea.md)
-_Context: Ministry of National Defense, North Korea, South Korea_
+_Context: North Korea, South Korea, South Korean Defense Minister_
 
 ### [A 5.0 magnitude earthquake strikes Shaheed Benazir Abad District, Pakistan, killing 1 person and injuring another 70. ](/news/2014/05/9/a-5-0-magnitude-earthquake-strikes-shaheed-benazir-abad-district-pakistan-killing-1-person-and-injuring-another-70.md)
 _Context: Pakistan, Shaheed Benazir Abad District_

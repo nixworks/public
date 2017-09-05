@@ -20,7 +20,7 @@ Mel Gibson has been charged with a misdemeanor battery complaint in Los Angeles 
 Thousands of others were stranded on rooftops, surrounded by water left by the tsunami that washed over the low-lying farmland of the hardest-hit areas, sweeping away homes, cars, railroads and businesses.
 
 ### [The Governor of Oklahoma, Mary Fallin, declares a state of emergency in all 77 counties due to wildfires burning out of control in that state and Colorado. ](/news/2011/03/11/the-governor-of-oklahoma-mary-fallin-declares-a-state-of-emergency-in-all-77-counties-due-to-wildfires-burning-out-of-control-in-that-stat.md)
-_Context: Colorado, Mary Fallin, Oklahoma!, Wildfire, governor, state of emergency_
+_Context: Colorado, Mary Fallin, Oklahoma!, Wildfire, governor, states of emergency_
 
 ### [A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. ](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.md)
 _Context: China, Xinjiang, ravine_
@@ -32,7 +32,7 @@ One of Indonesia’s most active volcanoes has erupted, sending lava and searing
 _Context: United States magistrate judge, WikiLeaks, prosecutor, tweets_
 
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Afghanistan's, Blackwater Worldwide, Kabul, United States, manslaughter by gross negligence_
+_Context: Afghanistan's, Blackwater Worldwide, Kabul, U.S., manslaughter by gross negligence_
 
 ### [The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. ](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.md)
 _Context: UNASUR Constitutive Treaty, Union of South American Nations, into force, legal personality_

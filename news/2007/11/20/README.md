@@ -1,7 +1,7 @@
 ## [2007-11-20](/news/2007/11/20/index.md)
 
 ### [ Thousands of people escape Pakistan's Swat district, where the Pakistan Army is fighting with pro-Taliban militants. [http://news.bbc.co.uk/2/hi/south_asia/7104331.stm (BBC)] More than 100 journalists are arrested for protesting against the state of emergency and media restrictions. [http://news.bbc.co.uk/2/hi/south_asia/7103538.stm (BBC)] The Government of Pakistan releases 3,400 people who were jailed during the state of emergency. [http://news.bbc.co.uk/2/hi/south_asia/7103266.stm (BBC)] Pakistan Chief Election Commissioner Justice (retired) Qazi Mohammad Farooq announces the next general elections will be held on January 8, 2008.date=December 2007](/news/2007/11/20/thousands-of-people-escape-pakistan-s-swat-district-where-the-pakistan-army-is-fighting-with-pro-taliban-militants-http-news-bbc-co-uk.md)
-_Context: Pakistan, Pakistan army, Qazi Mohammad Farooq, Swat, Pakistan, Taliban, arrest, by-elections, government, journalist, media, militant, state of emergency_
+_Context: Pakistan, Pakistan army, Qazi Mohammad Farooq, Swat, Pakistan, Taliban, arrest, by-elections, government, journalist, media, militant, states of emergency_
 
 ### [ French President Nicolas Sarkozy vows to continue his economic reforms. ](/news/2007/11/20/french-president-nicolas-sarkozy-vows-to-continue-his-economic-reforms.md)
 _Context: France, Nicolas Sarkozy, President of France, economic, reform_
@@ -34,7 +34,7 @@ _Context: Bangladesh, cyclone Sidr, international aid_
 _Context: twelve days earlier_
 
 ### [ Manouchehr Mottaki, the Iranian Minister of Foreign Affairs, announces Iran has agreed to a new round of talks about Iraq with the United States. ](/news/2007/11/20/manouchehr-mottaki-the-iranian-minister-of-foreign-affairs-announces-iran-has-agreed-to-a-new-round-of-talks-about-iraq-with-the-united-s.md)
-_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, United States_
+_Context: Iran, Iraq, Manouchehr Mottaki, Minister of Foreign Affairs, U.S._
 
 ### [ The United Nations reduces its estimate of how many people are infected with HIV in 2007 from nearly 40 million to 33 million. ](/news/2007/11/20/the-united-nations-reduces-its-estimate-of-how-many-people-are-infected-with-hiv-in-2007-from-nearly-40-million-to-33-million.md)
 _Context: HIV, United Nations_

@@ -1,7 +1,7 @@
 ## [2005-10-4](/news/2005/10/4/index.md)
 
 ### [ United States President George W. Bush expresses concern for a potential avian flu outbreak. He requests Congressional legislation permitting the military to impose a quarantine in the event of a deadly flu pandemic. ](/news/2005/10/4/united-states-president-george-w-bush-expresses-concern-for-a-potential-avian-flu-outbreak-he-requests-congressional-legislation-permitti.md)
-_Context: George W. Bush, United States Congress, bird flu, quarantine_
+_Context: Congress, George W. Bush, bird flu, quarantine_
 
 ### [ Eleven embassies in the capital of Malaysia, Kuala Lumpur, receive suspicious packages containing threatening letters and an unidentified liquid, triggering security alerts. ](/news/2005/10/4/eleven-embassies-in-the-capital-of-malaysia-kuala-lumpur-receive-suspicious-packages-containing-threatening-letters-and-an-unidentified-l.md)
 _Context: Kuala Lumpur, Malaysia_

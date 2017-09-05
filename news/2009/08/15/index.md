@@ -7,7 +7,7 @@ _Context: Abdel-Latif Moussa, Hamas, Jund Ansar Allah, Muslims, shootout_
 _Context: Hong Kong_
 
 ### [ Colombia claims to have completed talks with the United States to allow US troops to use seven of Colombia's military bases. ](/news/2009/08/15/colombia-claims-to-have-completed-talks-with-the-united-states-to-allow-us-troops-to-use-seven-of-colombia-s-military-bases.md)
-_Context: Colombia, United States_
+_Context: Colombia, U.S._
 
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
 _Context: Japan, Junichiro Koizumi, Prime Minister of Japan, Shinzo Abe, World War II, Yasukuni Shrine, controversial, surrender_
@@ -25,7 +25,7 @@ _Context: Afghanistan's, Kabul, NATO, suicide bomb_
 Nineteen people died and at least another 20 were hurt in a prison fight on Friday in the northern Mexican state of Durango, a security official said. Many of the dead were shot in the clash between rival gangs at the prison in the town of Gomez Palacios, said Barbara Ramirez, a spokeswoman for the ...
 
 ### [ Italian Prime Minister Silvio Berlusconi speaks at a news conference to say his country will crack down on organised crime over the next four years. ](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.md)
-_Context: Italian, Italian Prime Minister, Silvio Berlusconi_
+_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
 
 ### [ Burma is to free detained American John Yettaw, who appeared uninvited at Aung San Suu Kyi's home, after a meeting with US Senator Jim Webb. ](/news/2009/08/15/burma-is-to-free-detained-american-john-yettaw-who-appeared-uninvited-at-aung-san-suu-kyi-s-home-after-a-meeting-with-us-senator-jim-webb.md)
 John Yettaw, the American who was jailed for breaching the house arrest of Aung San Suu Kyi, the Burmese democracy leader, is likely to be deported, it emerged today.

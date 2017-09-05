@@ -16,7 +16,7 @@ German President Horst Koehler says he is resigning, following criticism of rema
 _Context: Antanas Mockus, Colombia, Colombian presidential election, Juan Manuel Santos, Minister of National Defence_
 
 ### [An undersea volcano erupts near Sarigan, Northern Mariana Islands, sending an eruption cloud 40,000 feet into the atmosphere, prompting Governor Benigno Fitial to declare a state of emergency. ](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.md)
-_Context: Benigno Fitial, Northern Mariana Islands, Sarigan, atmosphere, eruption cloud, state of emergency, undersea volcano_
+_Context: Benigno Fitial, Northern Mariana Islands, Sarigan, atmosphere, eruption cloud, states of emergency, undersea volcano_
 
 ### [French President Nicolas Sarkozy, speaking at the launch of the 25th Africa-France summit in Nice, calls for Africa to be represented on the United Nations Security Council, and promises to back changes when France chairs the G8 and G-20 major economies groups in 2011. ](/news/2010/05/31/french-president-nicolas-sarkozy-speaking-at-the-launch-of-the-25th-africa-france-summit-in-nice-calls-for-africa-to-be-represented-on-the.md)
 Sarkozy urges Security Council overhaul, saying Africa should get permanent seat.

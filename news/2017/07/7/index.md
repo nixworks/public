@@ -13,7 +13,7 @@ Sears Holdings Corp (SHLD.O) is closing eight of its namesake department stores 
 At least seven people are dead and many are missing as the floods on the island of Kyushu continue.
 
 ### [A five-story apartment block collapses in the town of Torre Annunziata near the Italian city of Naples, with six or seven people trapped inside. So far, three have been found dead. ](/news/2017/07/7/a-five-story-apartment-block-collapses-in-the-town-of-torre-annunziata-near-the-italian-city-of-naples-with-six-or-seven-people-trapped-ins.md)
-_Context: Italian, Naples, Torre Annunziata_
+_Context: Italy, Naples, Torre Annunziata_
 
 ### [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md)
 Teargas and water cannon deployed outside Elbphilharmonie concert hall while inside world leaders listen to Ode to Joy

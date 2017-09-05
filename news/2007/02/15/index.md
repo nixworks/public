@@ -1,7 +1,7 @@
 ## [2007-02-15](/news/2007/02/15/index.md)
 
 ### [ Democratic Party officials in the U.S. Congress have warned President Bush that he does not have the authority to go to war with Iran. ](/news/2007/02/15/democratic-party-officials-in-the-u-s-congress-have-warned-president-bush-that-he-does-not-have-the-authority-to-go-to-war-with-iran.md)
-_Context: Democratic, George W. Bush, Iran, President, United States Congress, air strike_
+_Context: Congress, Democratic, George W. Bush, Iran, President, air strike_
 
 ### [ Abu Ayyub al-Masri, the leader of al-Qaeda in Iraq, has been wounded in fighting in Baghdad according to Arab TV stations. ](/news/2007/02/15/abu-ayyub-al-masri-the-leader-of-al-qaeda-in-iraq-has-been-wounded-in-fighting-in-baghdad-according-to-arab-tv-stations.md)
 _Context: Abu Ayyub al-Masri, Baghdad, al-Qaeda in Iraq_
@@ -28,7 +28,7 @@ _Context: Hamas, Ismail Haniyeh, Palestinian National Authority, Palestinian Pri
 _Context: North Korea, South Korea, nuclear program_
 
 ### [ The United States will build a military communications facility near Geraldton, Western Australia. ](/news/2007/02/15/the-united-states-will-build-a-military-communications-facility-near-geraldton-western-australia.md)
-_Context: Geraldton, Western Australia, United States_
+_Context: Geraldton, Western Australia, U.S._
 
 ### [ The Foreign Minister of China, Li Zhaoxing, is visiting Japan hoping to improve bilateral relations between the nations. The Chinese Prime Minister Wen Jiabao will visit Japan in April. ](/news/2007/02/15/the-foreign-minister-of-china-li-zhaoxing-is-visiting-japan-hoping-to-improve-bilateral-relations-between-the-nations-the-chinese-prime.md)
 _Context: Foreign Minister of China, Japan, Li Zhaoxing, Premier of the People's Republic of China, Wen Jiabao_

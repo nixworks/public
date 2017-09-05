@@ -19,7 +19,7 @@ _Context: Brussels, Brussels Central Railway station, murder on April 12 of a te
 _Context: LTTE, Sinhalese, Sri Lankan Civil War, Trincomalee_
 
 ### [ Peru declares a state of emergency in towns near the volcano Ubinas. ](/news/2006/04/23/peru-declares-a-state-of-emergency-in-towns-near-the-volcano-ubinas.md)
-_Context: Peru, Ubinas, state of emergency_
+_Context: Peru, Ubinas, states of emergency_
 
 ## [Previous Day...](/news/2006/04/22/index.md)
 

@@ -4,7 +4,7 @@
 Three US soldiers with the Nato-led force in Kandahar province in southern Afghanistan have been killed by a roadside bomb, officials say.
 
 ### [The President of Nigeria, Goodluck Jonathan, declares a state of emergency in Adamawa, Borno and Yobe to fight an Islamist insurgency. ](/news/2013/05/14/the-president-of-nigeria-goodluck-jonathan-declares-a-state-of-emergency-in-adamawa-borno-and-yobe-to-fight-an-islamist-insurgency.md)
-_Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, President, Yobe State, state of emergency_
+_Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, President, Yobe State, states of emergency_
 
 ### [American actress Angelina Jolie announces that she underwent an elective double mastectomy due to her family history of lethal cases of breast cancer. ](/news/2013/05/14/american-actress-angelina-jolie-announces-that-she-underwent-an-elective-double-mastectomy-due-to-her-family-history-of-lethal-cases-of-brea.md)
 _Context: Angelina Jolie, U.S., breast cancer, mastectomy_
@@ -25,7 +25,7 @@ _Context: Myanmar, Rohingya_
 Russia is expelling a US diplomat briefly detained in Moscow for allegedly trying to recruit a Russian intelligence officer, officials say.
 
 ### [The United States fines the Indian pharmaceutical company Ranbaxy Laboratories US$500 million after they are found guilty of selling adulterated drugs to the United States. ](/news/2013/05/14/the-united-states-fines-the-indian-pharmaceutical-company-ranbaxy-laboratories-us-500-million-after-they-are-found-guilty-of-selling-adulter.md)
-_Context: India, Ranbaxy Laboratories, US$, United States_
+_Context: India, Ranbaxy Laboratories, U.S., US$_
 
 ### [Convicted murderer, abortion physician Kermit Gosnell, in a plea bargain, trades away his appeals in exchange for a life sentence without the possibility of parole. ](/news/2013/05/14/convicted-murderer-abortion-physician-kermit-gosnell-in-a-plea-bargain-trades-away-his-appeals-in-exchange-for-a-life-sentence-without-th.md)
 _Context: Kermit Gosnell, abortion, physician_
@@ -49,7 +49,7 @@ _Context: Kenya_
 _Context: Brazil, same-sex marriage_
 
 ### [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md)
-_Context: Canada, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, United States_
+_Context: Canada, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, U.S._
 
 ## [Previous Day...](/news/2013/05/13/index.md)
 

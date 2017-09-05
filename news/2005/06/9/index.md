@@ -4,10 +4,10 @@
 _Context: Afghanistan's, CARE International, Clementina Cantoni_
 
 ### [ In Syria, the ruling Baath party votes to end the state of emergency that has lasted for 40 years. ](/news/2005/06/9/in-syria-the-ruling-baath-party-votes-to-end-the-state-of-emergency-that-has-lasted-for-40-years.md)
-_Context: Ba'ath Party, Syria, state of emergency_
+_Context: Ba'ath Party, Syria, states of emergency_
 
 ### [ In Norway, Mullah Krekar, Kurdish founder of Ansar al-Islam, goes to court to resist deportation to Iraq. ](/news/2005/06/9/in-norway-mullah-krekar-kurdish-founder-of-ansar-al-islam-goes-to-court-to-resist-deportation-to-iraq.md)
-_Context: Ansar al-Islam, Iraq, Kurd, Mullah Krekar, deportees_
+_Context: Ansar al-Islam, Iraq, Kurd, Mullah Krekar, deportation_
 
 ### [ In Mexico, a court overturns the murder conviction of Raul Salinas de Gortari, brother of former president Carlos Salinas de Gortari. ](/news/2005/06/9/in-mexico-a-court-overturns-the-murder-conviction-of-raul-salinas-de-gortari-brother-of-former-president-carlos-salinas-de-gortari.md)
 _Context: Carlos Salinas de Gortari, Ral Salinas de Gortar_

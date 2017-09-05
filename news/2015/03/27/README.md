@@ -19,7 +19,7 @@ _Context: Germanwings Flight 9525_
 SAN FRANCISCO — A civil jury on Friday returned a verdict in the high-profile Ellen Pao gender discrimination case, finding that powerful venture capital firm Kleiner Perkins Caufield & Byers did not discriminate against her because of her gender and did not retaliate when she protested her treatm...
 
 ### [Italy's highest court acquits American Amanda Knox and Italian Raffaele Sollecito of the murder of Briton Meredith Kercher. ](/news/2015/03/27/italy-s-highest-court-acquits-american-amanda-knox-and-italian-raffaele-sollecito-of-the-murder-of-briton-meredith-kercher.md)
-_Context: Amanda Knox, British people, Italian, Raffaele Sollecito, killing Meredith Kercher_
+_Context: Amanda Knox, British people, Italy, Raffaele Sollecito, killing Meredith Kercher_
 
 ### [U.S. Senate Minority Leader Harry Reid (D-Nevada) announces he will not seek re-election to the United States Senate and intends to retire at the end of his term in January 2017. ](/news/2015/03/27/u-s-senate-minority-leader-harry-reid-d-nevada-announces-he-will-not-seek-re-election-to-the-united-states-senate-and-intends-to-retire-a.md)
 _Context: Democratic, Harry Reid, Nevada, Senate Majority Leader, United States Senate_

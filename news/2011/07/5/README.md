@@ -52,7 +52,7 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 Argentine President Cristina Fernandez unveils economic measures to help the south of the country affected by volcanic ash from neighbouring Chile.
 
 ### [Brian Schweitzer, the Governor of the US state of Montana declares a state of emergency in counties affected by an oil spill in the Yellowstone River. ](/news/2011/07/5/brian-schweitzer-the-governor-of-the-us-state-of-montana-declares-a-state-of-emergency-in-counties-affected-by-an-oil-spill-in-the-yellowst.md)
-_Context: Brian Schweitzer, Governor, Montana, Yellowstone River, state of emergency_
+_Context: Brian Schweitzer, Governor, Montana, Yellowstone River, states of emergency_
 
 ### [The US city of Phoenix, Arizona is hit by a large dust storm leaving thousands of people without power and grounding flights at Phoenix Sky Harbor International Airport. ](/news/2011/07/5/the-us-city-of-phoenix-arizona-is-hit-by-a-large-dust-storm-leaving-thousands-of-people-without-power-and-grounding-flights-at-phoenix-sky.md)
 _Context: Arizona, Phoenix  Sky Harbor International Airport, Phoenix, Arizona, dust storm_

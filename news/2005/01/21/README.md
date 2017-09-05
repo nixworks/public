@@ -16,7 +16,7 @@ _Context: Denmark, Iraq_
 _Context: Lucerne, Switzerland_
 
 ### [ The Italian government condemns the destruction of an Italian cemetery in Mogadishu, Somalia. Local militia wanted to clear the area for a base. ](/news/2005/01/21/the-italian-government-condemns-the-destruction-of-an-italian-cemetery-in-mogadishu-somalia-local-militia-wanted-to-clear-the-area-for-a.md)
-_Context: Italian, Mogadishu, Somalia_
+_Context: Italy, Mogadishu, Somalia_
 
 ### [ Italian police have arrested number of people connected to smuggling of illegal immigrants from Libya. ](/news/2005/01/21/italian-police-have-arrested-number-of-people-connected-to-smuggling-of-illegal-immigrants-from-libya.md)
 _Context: Libya, illegal immigrant, people smugglers_

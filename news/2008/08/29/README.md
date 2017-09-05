@@ -10,7 +10,7 @@ _Context: Cayman Islands, Cuba, Gulf of Mexico, Hurricane Gustav, hurricane_
 Georgia has cut diplomatic links with Russia, withdrawing its diplomats from Moscow.
 
 ### [ Italian airline Alitalia files for bankruptcy protection. ](/news/2008/08/29/italian-airline-alitalia-files-for-bankruptcy-protection.md)
-_Context: Alitalia, Italian, bankruptcy, commercial air traffic_
+_Context: Alitalia, Italy, bankruptcy, commercial air traffic_
 
 ### [ John McCain picks Alaska Governor Sarah Palin as his vice-presidential running mate for the Republican nomination for the U.S. presidential election. ](/news/2008/08/29/john-mccain-picks-alaska-governor-sarah-palin-as-his-vice-presidential-running-mate-for-the-republican-nomination-for-the-u-s-presidential.md)
 _Context: 2008, Alaska, Governor, John McCain, Republican, Sarah Palin, running mate_

@@ -10,7 +10,7 @@ An unofficial Chinese church says it will continue to hold outdoor services, aft
 _Context: Chernobyl disaster, Fukushima I nuclear accidents, Japanese government_
 
 ### [The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. ](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following-the-2011-canterbury-earthquake-is-extended-for-another-week.md)
-_Context: 2011 Canterbury earthquake, New Zealand, state of emergency_
+_Context: 2011 Canterbury earthquake, New Zealand, states of emergency_
 
 ### [Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing-over-full-security-control-to.md)
 _Context: Benjamin Netanyahu, Israel Defense Forces, Israeli-Palestinian conflict, Palestinian National Authority, West Bank_

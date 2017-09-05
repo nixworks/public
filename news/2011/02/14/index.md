@@ -34,7 +34,7 @@ _Context: China, January, trade surplus_
 An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon city of LagoAgrio had ordered U.S. oil giant Chevron (CVX.N) to pay more than$8 billion in environmental damages.
 
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: General Motors, United States, hourly worker, profit_
+_Context: General Motors, U.S., hourly worker, profit_
 
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.
@@ -73,7 +73,7 @@ Bill meant to deny pension payments from MK who fled Israel after being suspecte
 The Palestinian cabinet will tender resignations Monday after which Prime Minister Salam Fayyad will select new ministers at the request of President Mahmoud Abbas, political sources said.
 
 ### [Mourad Medelci, the foreign minister of Algeria, announces that the 19-year-old state of emergency will end "within days". ](/news/2011/02/14/mourad-medelci-the-foreign-minister-of-algeria-announces-that-the-19-year-old-state-of-emergency-will-end-within-days.md)
-_Context: Algeria, Mourad Medelci, state of emergency_
+_Context: Algeria, Mourad Medelci, states of emergency_
 
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
 _Context: Barack Obama, President, United States federal budget, budget deficits_

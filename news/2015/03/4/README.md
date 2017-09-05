@@ -1,7 +1,7 @@
 ## [2015-03-4](/news/2015/03/4/index.md)
 
 ### [South of Sicily, Italy's Coast Guard saves 941 trafficked migrants aboard five motorized dinghies and two larger vessels near southern Italian ports. Authorities cannot account for ten people. ](/news/2015/03/4/south-of-sicily-italy-s-coast-guard-saves-941-trafficked-migrants-aboard-five-motorized-dinghies-and-two-larger-vessels-near-southern-itali.md)
-_Context: Italian, Sicily_
+_Context: Italy, Sicily_
 
 ### [At least 33 miners die in a suspected gas explosion at the Zasyadko coal mine in rebel-held Donetsk region of Ukraine. ](/news/2015/03/4/at-least-33-miners-die-in-a-suspected-gas-explosion-at-the-zasyadko-coal-mine-in-rebel-held-donetsk-region-of-ukraine.md)
 At least 30 miners are feared dead in a suspected methane gas blast at a coal mine in a rebel-held region of eastern Ukraine.

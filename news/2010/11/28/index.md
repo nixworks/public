@@ -53,7 +53,7 @@ _Context: Moldova, parliamentary elections_
 _Context: Catalan, Spain, parliamentary elections_
 
 ### [Voters in Okinawa Prefecture, Japan, go to the polls for the gubernatorial election with anti-US base governor Hirokazu Nakaima reelected. ](/news/2010/11/28/voters-in-okinawa-prefecture-japan-go-to-the-polls-for-the-gubernatorial-election-with-anti-us-base-governor-hirokazu-nakaima-reelected.md)
-_Context: Hirokazu Nakaima, Japan, Okinawa, United States, governor, gubernatorial election_
+_Context: Hirokazu Nakaima, Japan, Okinawa, U.S., governor, gubernatorial election_
 
 ## [Previous Day...](/news/2010/11/27/index.md)
 

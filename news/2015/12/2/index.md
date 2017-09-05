@@ -31,7 +31,7 @@ NEW YORK, Dec. 2, 2015 /PRNewswire-USNewswire/ --&amp;#160;Not all air pollution
 _Context: Japanese government, Okinawa, Takeshi Onaga, U.S. military air base, US Marine Corps air base_
 
 ### [Thai Prime Minister Prayuth Chan-ocha orders officials to improve aviation safety standards after the U.S. Federal Aviation Administration (FAA) downgraded Thailand's safety ratings. The lower rating is for failure to tackle commercial aviation standards shortcomings found in an audit this year. The European Aviation Safety Agency is due to announce the results of its own audit later in December. ](/news/2015/12/2/thai-prime-minister-prayuth-chan-ocha-orders-officials-to-improve-aviation-safety-standards-after-the-u-s-federal-aviation-administration.md)
-_Context: European Aviation Safety Agency, Federal Aviation Administration, Prayuth Chan-ocha, Prime Minister, Thailand, United States, aviation safety_
+_Context: European Aviation Safety Agency, Federal Aviation Administration, Prayuth Chan-ocha, Prime Minister, Thailand, U.S., aviation safety_
 
 ### [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md)
 Nato invites Montenegro to join the alliance, in its first expansion for six years - prompting Russia to warn that it will retaliate.
@@ -40,7 +40,7 @@ Nato invites Montenegro to join the alliance, in its first expansion for six yea
 Russia is constructing hundreds of military buildings on two of the disputed Kuril Islands, Russian Defense Minister Sergei Shoigu has said.
 
 ### [Authorities arrest four Kosovo jihadists men, three in Italy and one in Kosovo, for making nonspecific threats against Pope Francis and the former U.S. Ambassador to Kosovo. The men are described by police as highly dangerous and as having celebrated the November 2015 Paris attacks. ](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.md)
-_Context: Italian, Kosovo, November 2015 Paris Attacks, Pope Francis_
+_Context: Italy, Kosovo, November 2015 Paris Attacks, Pope Francis_
 
 ### [Yemeni Prime Minister Khaled Bahah rejects a cabinet reshuffle ordered by President Abd Rabbuh Mansur Hadi, another sign of the deepening rift between the two leaders. These problems started in March after the president appointed the minister of health as acting foreign minister without consulting the prime minister. ](/news/2015/12/2/yemeni-prime-minister-khaled-bahah-rejects-a-cabinet-reshuffle-ordered-by-president-abd-rabbuh-mansur-hadi-another-sign-of-the-deepening-ri.md)
 Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesday by President Abd-Rabbu Mansour Hadi, a senior government official said, another sign of the deepening rift between the two leaders.

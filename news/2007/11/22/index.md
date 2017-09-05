@@ -22,7 +22,7 @@ _Context: Croatia, England, Steve McClaren, Terry Venables, Wembley Stadium_
 _Context: Anders Fogh Rasmussen, Denmark, EUR, Europe, a new referendum on relinquishing its opt-outs, common currency_
 
 ### [ Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergency.md)
-_Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, state of emergency_
+_Context: 2007 Pakistani state of emergency, Commonwealth of Nations, Pakistan, states of emergency_
 
 ### [ The head of IAEA, Mohamed ElBaradei, says the agency cannot be sure "about the absence of undeclared nuclear material and activities" in Iran. ](/news/2007/11/22/the-head-of-iaea-mohamed-elbaradei-says-the-agency-cannot-be-sure-about-the-absence-of-undeclared-nuclear-material-and-activities-in-ir.md)
 _Context: IAEA, Iran, Mohamed ElBaradei, nuclear_

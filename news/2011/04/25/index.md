@@ -40,7 +40,7 @@ A man acting as a &quot;human cannonball&quot; is killed in an accident at a stu
 A tornado destroyed 50 to 80 houses and killed at least one person in an Arkansas town on Monday and floods caused at least three deaths in the state as storms continued to lash the region, authorities said.
 
 ### [The Governor of Kentucky Steve Beshear declares a state of emergency due to rising flood waters from the Ohio and Mississippi Rivers. ](/news/2011/04/25/the-governor-of-kentucky-steve-beshear-declares-a-state-of-emergency-due-to-rising-flood-waters-from-the-ohio-and-mississippi-rivers.md)
-_Context: Governor of Kentucky, Mississippi River, Ohio, Steve Beshear, state of emergency_
+_Context: Governor of Kentucky, Mississippi River, Ohio, Steve Beshear, states of emergency_
 
 ### [A Kazakh UNESCO official attempts to hijack a plane and divert it to Tripoli, Libya. ](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.md)
 _Context: Kazakhstan, Libya, Tripoli, UNESCO_

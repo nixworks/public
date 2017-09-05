@@ -4,10 +4,10 @@
 A leader of the nascent Venezuelan student movement protesting President Hugo Chávez’s expanding power described it as the most cohesive challenge to Mr. Chávez’s government.
 
 ### [ The People's Republic of China suspends the export of toys covered in a toxic chemical 1,4-butanediol that have been recalled in both the United States and China. ](/news/2007/11/9/the-people-s-republic-of-china-suspends-the-export-of-toys-covered-in-a-toxic-chemical-1-4-butanediol-that-have-been-recalled-in-both-the-u.md)
-_Context: 1,4-butanediol, China, China, United States, toy_
+_Context: 1,4-butanediol, China, China, U.S., toy_
 
 ### [ The Governor of California Arnold Schwarzenegger declares a state of emergency to clean up an oil spill in San Francisco Bay caused by a container ship hitting the San Francisco Bay Bridge on Wednesday. ](/news/2007/11/9/the-governor-of-california-arnold-schwarzenegger-declares-a-state-of-emergency-to-clean-up-an-oil-spill-in-san-francisco-bay-caused-by-a-co.md)
-_Context: Arnold Schwarzenegger, Governor of California, San Francisco Bay, San Francisco Bay Bridge, container ship, state of emergency_
+_Context: Arnold Schwarzenegger, Governor of California, San Francisco Bay, San Francisco Bay Bridge, container ship, states of emergency_
 
 ### [ At least 40 people die in Mogadishu in heavy fighting between Ethiopian forces and Somalian Islamist insurgents. ](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.md)
 _Context: Ethiopia, Islamist, Mogadishu, Somalia_

@@ -34,7 +34,7 @@ _Context: Al Mayadeen, Hezbollah, Iran, Lebanon, pan-Arab_
 _Context: Dangote Cement, Kogi state_
 
 ### [Burma declares a state of emergency after several people are killed in sectarian violence between Buddhists and Muslims ](/news/2012/06/11/burma-declares-a-state-of-emergency-after-several-people-are-killed-in-sectarian-violence-between-buddhists-and-muslims.md)
-_Context: Burma, sectarian violence, state of emergency_
+_Context: Burma, sectarian violence, states of emergency_
 
 ### [More than 80 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried. ](/news/2012/06/11/more-than-80-people-die-in-a-landslide-triggered-by-two-earthquakes-in-afghanistan-an-entire-village-is-buried.md)
 More than 80 people are believed to have been killed in a landslide triggered by two quakes in northern Afghanistan on Monday, officials say.

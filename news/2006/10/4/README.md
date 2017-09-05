@@ -7,7 +7,7 @@ Investors Optimistic That Federal Reserve Will Lower Interest Rates
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ The Federal Bureau of Investigation and the Food and Drug Administration searches two spinach packaging companies in the Salinas Valley in California for evidence related to a recent outbreak of "E. coli" in the United States and Canada that made 200 people sick. ](/news/2006/10/4/the-federal-bureau-of-investigation-and-the-food-and-drug-administration-searches-two-spinach-packaging-companies-in-the-salinas-valley-in.md)
-_Context: ''E. coli'', California, Canada, FBI, Food and Drug Administration, Salinas Valley, United States, outbreak, spinach_
+_Context: ''E. coli'', California, Canada, FBI, Food and Drug Administration, Salinas Valley, U.S., outbreak, spinach_
 
 ### [ The European Union imposes an anti-dumping tariff on leather shoe imports from the Far East - 16.5% on imports from China and 10% on imports from Vietnam. China supplies about 1.25 billion pairs of shoes to the EU each year. ](/news/2006/10/4/the-european-union-imposes-an-anti-dumping-tariff-on-leather-shoe-imports-from-the-far-east-16-5-on-imports-from-china-and-10-on-import.md)
 _Context: Chinese, European Union, Vietnam_

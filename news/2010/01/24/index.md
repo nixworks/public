@@ -10,7 +10,7 @@ _Context: Indianapolis Colts, National Football League, New Orleans Saints, Supe
 _Context: Gryfino, Polish_
 
 ### [The Chinese government denies state involvement in the cyber attacks on Google, while the state-run "China Daily" newspaper accuses the United States of hypocrisy. ](/news/2010/01/24/the-chinese-government-denies-state-involvement-in-the-cyber-attacks-on-google-while-the-state-run-china-daily-newspaper-accuses-the-unit.md)
-_Context: China, China Daily, Google, United States, cyber attacks, government, hypocrisy_
+_Context: China, China Daily, Google, U.S., cyber attacks, government, hypocrisy_
 
 ### [A flight operated by Kolavia on behalf of Taban Air crashes on landing at Mashhad International Airport, Iran, injuring at least 46 people. ](/news/2010/01/24/a-flight-operated-by-kolavia-on-behalf-of-taban-air-crashes-on-landing-at-mashhad-international-airport-iran-injuring-at-least-46-people.md)
 _Context: International Airport, Iran, Kolavia, Mashhad, Taban Air, crashes on landing_

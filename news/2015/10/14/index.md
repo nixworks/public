@@ -7,7 +7,7 @@ Indonesian President Joko Widodo has urged an end to violent clashes in Aceh, af
 Troops have joined the Syrian regime&#039;s military forces and Hizbollah allies in preparation for a ground attack in the Syrian city, say officials
 
 ### [ISIL confirms that U.S. forces killed its number two leader, Abu Mutaz al-Qurashi, in an airstrike near Mosul back in August. ](/news/2015/10/14/isil-confirms-that-u-s-forces-killed-its-number-two-leader-abu-mutaz-al-qurashi-in-an-airstrike-near-mosul-back-in-august.md)
-_Context: Abu Mutaz al-Qurashi, ISIL, Islamic State of Iraq and the Levant, Mosul, U.S. airstrikes, United States_
+_Context: Abu Mutaz al-Qurashi, ISIL, Islamic State of Iraq and the Levant, Mosul, U.S., U.S. airstrikes_
 
 ### [Israel's military deploys new checkpoints in its Arab neighborhoods, as well as thousands of border police soldiers to cities and on roads to assist police forces in response to recent Palestinian stabbing attacks. ](/news/2015/10/14/israel-s-military-deploys-new-checkpoints-in-its-arab-neighborhoods-as-well-as-thousands-of-border-police-soldiers-to-cities-and-on-roads-t.md)
 Israel&#39;s military said it started deploying hundreds of soldiers to cities Wednesday to assist police forces, after weeks of shooting and stabbing attacks on Israelis by Palestinians.

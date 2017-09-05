@@ -68,7 +68,7 @@ _Context: Macedonian, Macedonian parliamentary election, 2016, parliament_
 _Context: PSD, Romanians, earlier this month_
 
 ### [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md)
-_Context: Italian, Italian Prime Minister, Italian constitutional referendum, 2016, Paolo Gentiloni_
+_Context: Italian Prime Minister, Italian constitutional referendum, 2016, Italy, Paolo Gentiloni_
 
 ### [Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md)
 _Context: Gambian presidential election, 2016, Yahya Jammeh, the Gambia_

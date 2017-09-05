@@ -10,7 +10,7 @@ The number of foreign troops killed in Afghanistan this year has reached at leas
 _Context: Alfredo Perez Rubalcaba, ETA, Spain, ceasefire_
 
 ### [New Zealand Army soldiers begin providing security at the centre of Christchurch following the 2010 Canterbury earthquake as a state of emergency is extended until Wednesday. ](/news/2010/09/6/new-zealand-army-soldiers-begin-providing-security-at-the-centre-of-christchurch-following-the-2010-canterbury-earthquake-as-a-state-of-emer.md)
-_Context: 2010 Canterbury earthquake, Christchurch, New Zealand Army, state of emergency_
+_Context: 2010 Canterbury earthquake, Christchurch, New Zealand Army, states of emergency_
 
 ### [Over fifty-thousand Australians have been placed on evacuation alert in the Australian state of Victoria in eleven towns since Saturday due to the 2010 Victorian floods. ](/news/2010/09/6/over-fifty-thousand-australians-have-been-placed-on-evacuation-alert-in-the-australian-state-of-victoria-in-eleven-towns-since-saturday-due.md)
 _Context: 2010 Victorian floods, Australia, Victoria, evacuation centers_
@@ -22,7 +22,7 @@ Teams in Guatemala have to halt the search for bodies following devasting mudsli
 _Context: 2010 Atlantic hurricane season, Mexico, Texas_
 
 ### [A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. ](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-state-of-colorado-leads-to-the-evacuation-of-1-000-houses.md)
-_Context: Colorado, United States, Wildfire_
+_Context: Colorado, U.S., Wildfire_
 
 ### [North Korea announces it will release seven detained Chinese and South Korean fishermen. ](/news/2010/09/6/north-korea-announces-it-will-release-seven-detained-chinese-and-south-korean-fishermen.md)
 _Context: China, North Korea, South Korea_

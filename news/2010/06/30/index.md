@@ -79,7 +79,7 @@ A former top diplomat says he felt &quot;very uncomfortable&quot; about the UK g
 A war crimes court rules that model Naomi Campbell can be called to testify against former Liberian President Charles Taylor.
 
 ### [The Italian government appeals to the European Court of Human Rights to overturn a ban on classroom crucifixes. ](/news/2010/06/30/the-italian-government-appeals-to-the-european-court-of-human-rights-to-overturn-a-ban-on-classroom-crucifixes.md)
-_Context: European Court of Human Rights, Italian, crucifix_
+_Context: European Court of Human Rights, Italy, crucifix_
 
 ### [Goodluck Jonathan suspends the Nigeria national football team from international competition for two years due to poor performances in the 2010 FIFA World Cup in South Africa. ](/news/2010/06/30/goodluck-jonathan-suspends-the-nigeria-national-football-team-from-international-competition-for-two-years-due-to-poor-performances-in-the-2.md)
 _Context: 2010 FIFA World Cup, Goodluck Jonathan, South Africa, national football team_

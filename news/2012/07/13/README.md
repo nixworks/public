@@ -4,7 +4,7 @@
 A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday evening after a passenger reported strange wiring in the bathroom, but no explosive device was found, law enforcement officials...
 
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: Bedouin, Egypt, Sinai, United States_
+_Context: Bedouin, Egypt, Sinai, U.S._
 
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
 _Context: Cambodia, Thai passenger jet, machine gun_
@@ -25,7 +25,7 @@ _Context: American Idol, Jennifer Lopez, talent show_
 _Context: Academy Award, Los Angeles, Richard D. Zanuck, heart attack_
 
 ### [Moody's Investor Services downgrades Italy's government rating from A3 to Baa2. ](/news/2012/07/13/moody-s-investor-services-downgrades-italy-s-government-rating-from-a3-to-baa2.md)
-_Context: Italian, Moody's Investor Services_
+_Context: Italy, Moody's Investor Services_
 
 ### [The Federal Reserve Bank of New York is set to release documents outlining what it knew about the Libor scandal and what action it took. ](/news/2012/07/13/the-federal-reserve-bank-of-new-york-is-set-to-release-documents-outlining-what-it-knew-about-the-libor-scandal-and-what-action-it-took.md)
 With the scandal over alleged manipulation of a critical global interest rate threatening to migrate from London to Washington, pressure is growing on one former banking regulator to explain what he knew and when: Treasury Secretary Timothy F. Geithner.

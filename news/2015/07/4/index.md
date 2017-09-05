@@ -37,7 +37,7 @@ _Context: South Korean navy_
 KUALA LUMPUR, Malaysia—Malaysia’s attorney general said an official investigation into a troubled state investment fund has uncovered documents related to allegations that money was transferred into the personal bank accounts of Prime Minister Najib Razak.
 
 ### [ Tunisia's President Beji Caid Essebsi declares a state of emergency. ](/news/2015/07/4/tunisia-s-president-beji-caid-essebsi-declares-a-state-of-emergency.md)
-_Context: 2015 Sousse attacks, Beji Caid Essebsi, Tunisia, state of emergency_
+_Context: 2015 Sousse attacks, Beji Caid Essebsi, Tunisia, states of emergency_
 
 ### [ Tupou VI is officially crowned as the King of Tonga. ](/news/2015/07/4/tupou-vi-is-officially-crowned-as-the-king-of-tonga.md)
 _Context: King of Tonga, Tupou VI_

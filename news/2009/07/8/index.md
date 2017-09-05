@@ -10,7 +10,7 @@ The Taoiseach has told the Dáil that the second referendum on the Lisbon Treaty
 _Context: Kim Il-sung, Kim Jong-il, North Korea_
 
 ### [ The 35th G8 Summit begins in L'Aquila, Italy. ](/news/2009/07/8/the-35th-g8-summit-begins-in-l-aquila-italy.md)
-_Context: G8, Italian, L'Aquila_
+_Context: G8, Italy, L'Aquila_
 
 ### [ Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. ](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-summit-and-returns-to-beijing-to-deal-with-the-ongoing-riots-in-ara1-4mqi.md)
 _Context: Beijing, China, Chinese President, G8, Hu Jintao, Urumqi, ethnic riots_
@@ -31,7 +31,7 @@ _Context: July 2009 Mindanao bombings, Mindanao, UN Development Program_
 _Context: 2010 FIFA World Cup, South Africa_
 
 ### [ South Korea says North Korea is behind a number of cyber attacks on the websites of government agencies, banks and businesses in South Korea and the United States. ](/news/2009/07/8/south-korea-says-north-korea-is-behind-a-number-of-cyber-attacks-on-the-websites-of-government-agencies-banks-and-businesses-in-south-kore.md)
-_Context: North Korea, South Korea, United States, cyber-war_
+_Context: North Korea, South Korea, U.S., cyber-war_
 
 ### [ Exiled Honduran President Manuel Zelaya and interim President Roberto Micheletti agree to talks under mediation by Costa Rica. ](/news/2009/07/8/exiled-honduran-president-manuel-zelaya-and-interim-president-roberto-micheletti-agree-to-talks-under-mediation-by-costa-rica.md)
 _Context: Costa Rica, Honduras, Manuel Zelaya, President, Roberto Micheletti_
@@ -49,7 +49,7 @@ _Context: Rio Tinto, espionage, iron ore_
 _Context: Mosul_
 
 ### [ Undercover investigators smuggle bomb-making materials into government buildings in the United States, assembling bombs within, on ten occasions. ](/news/2009/07/8/undercover-investigators-smuggle-bomb-making-materials-into-government-buildings-in-the-united-states-assembling-bombs-within-on-ten-occa.md)
-_Context: United States_
+_Context: U.S._
 
 ### [ "The Guardian" claims that rival English newspaper, the Rupert Murdoch-owned "News of the World" tabloid, paid GBP1 million in court costs after its journalists were accused of involvement in phone tapping celebrities and politicians. ](/news/2009/07/8/the-guardian-claims-that-rival-english-newspaper-the-rupert-murdoch-owned-news-of-the-world-tabloid-paid-agbp1-million-in-court-costs.md)
 _Context: England, News of the World, Rupert Murdoch, The Guardian, tabloid_

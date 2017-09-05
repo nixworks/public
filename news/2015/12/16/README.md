@@ -7,7 +7,7 @@ Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social
 Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social media regarding radical Islamic jihad or martyrdom before the Dec. 2 terror
 
 ### [In a widely expected move, the United States Federal Reserve Board raised the federal funds interest rate, the rate banks charge each other for overnight loans, from the 0-.25% range to the .25-.50% range. U.S. stock markets rallied on the news. ](/news/2015/12/16/in-a-widely-expected-move-the-united-states-federal-reserve-board-raised-the-federal-funds-interest-rate-the-rate-banks-charge-each-other.md)
-_Context: Federal Reserve Board, United States, federal funds rate_
+_Context: Federal Reserve Board, U.S., federal funds rate_
 
 ### [An Air India aircraft maintenance technician is killed at Mumbai's Chhatrapati Shivaji International Airport in India after being sucked by an Air India Airbus A319's aircraft engine during pushback. ](/news/2015/12/16/an-air-india-aircraft-maintenance-technician-is-killed-at-mumbai-s-chhatrapati-shivaji-international-airport-in-india-after-being-sucked-by.md)
 The mishap occurred when the co-pilot of Mumbai-Hyderabad flight 619 mistook a signal for starting the engine
@@ -16,7 +16,7 @@ The mishap occurred when the co-pilot of Mumbai-Hyderabad flight 619 mistook a s
 By Andrew M. Seaman(Reuters Health) - Offering the families of children with appendicitis the option of antibiotics instead of surgery is safe and m
 
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: Cuba, Cuba-United States relations, United States, charter flights, commercial flights_
+_Context: Cuba, Cuba-United States relations, U.S., charter flights, commercial flights_
 
 ### [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md)
 _Context: Kiev, NATO_

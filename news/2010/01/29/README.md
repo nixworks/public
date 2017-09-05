@@ -10,7 +10,7 @@ That move has enraged China and may complicate President Obama’s effort to enl
 _Context: 2010 Haiti earthquake, Cuba, Dominican Republic, Haiti, Venezuela_
 
 ### [A state of emergency is declared in parts of Bolivia and rescue efforts continue in Peru amid heavy rain and floods in the region. ](/news/2010/01/29/a-state-of-emergency-is-declared-in-parts-of-bolivia-and-rescue-efforts-continue-in-peru-amid-heavy-rain-and-floods-in-the-region.md)
-_Context: Bolivia, Peru, state of emergency_
+_Context: Bolivia, Peru, states of emergency_
 
 ### [The offices of defeated Sri Lankan presidential candidate Sarath Fonseka are raided by police. ](/news/2010/01/29/the-offices-of-defeated-sri-lankan-presidential-candidate-sarath-fonseka-are-raided-by-police.md)
 _Context: Sarath Fonseka, Sri Lanka_

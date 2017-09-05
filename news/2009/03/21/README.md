@@ -25,7 +25,7 @@ _Context: Australia, Emirates Air, Melbourne Airport, emergency landing, tailstr
 _Context: Andry Rajoelina, Madagascar, President, political crisis_
 
 ### [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md)
-_Context: Camorra, Italian, Mafia, Naples, protest_
+_Context: Camorra, Italy, Mafia, Naples, protest_
 
 ### [ Somali pirates hijack the Indian cargo ship "Al Rafiquei". ](/news/2009/03/21/somali-pirates-hijack-the-indian-cargo-ship-al-rafiquei.md)
 _Context: India, Somali pirates, Somalia, cargo ship_

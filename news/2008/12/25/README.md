@@ -1,7 +1,7 @@
 ## [2008-12-25](/news/2008/12/25/index.md)
 
 ### [ A state of emergency is declared in the Marshall Islands, due to widespread flooding. ](/news/2008/12/25/a-state-of-emergency-is-declared-in-the-marshall-islands-due-to-widespread-flooding.md)
-_Context: Marshall Islands, flood, state of emergency_
+_Context: Marshall Islands, flood, states of emergency_
 
 ### [ Maruti Suzuki, India's largest automobile manufacturer, declares it has not achieved the growth planned for 2008 and may cut production amidst global crisis. ](/news/2008/12/25/maruti-suzuki-india-s-largest-automobile-manufacturer-declares-it-has-not-achieved-the-growth-planned-for-2008-and-may-cut-production-ami.md)
 _Context: India, Maruti Suzuki, global crisis, largest automobile manufacturer_

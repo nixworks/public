@@ -19,7 +19,7 @@ A US official is killed as Libyan militiamen storm the consulate in Benghazi, ho
 Three men were found shot dead in a car in the mountains of Corsica on Tuesday, the apparent victims of an ambush.
 
 ### [Two people are shot dead at close range in the center of Milan. Hours later, another shooting in plain view shakes the financial capital of Italy. ](/news/2012/09/11/two-people-are-shot-dead-at-close-range-in-the-center-of-milan-hours-later-another-shooting-in-plain-view-shakes-the-financial-capital-of.md)
-_Context: Italian, Milan_
+_Context: Italy, Milan_
 
 ### [Moody's warns the United States that it faces a downgrade in its credit rating before 2014 if the government fails to act on managing its debt. ](/news/2012/09/11/moody-s-warns-the-united-states-that-it-faces-a-downgrade-in-its-credit-rating-before-2014-if-the-government-fails-to-act-on-managing-its-de.md)
 _Context:  debt, Moody's, United States of America, bond_
@@ -34,10 +34,10 @@ _Context: Nepal_
 China on Tuesday summoned the Japanese Ambassador here and warned it would take “necessary measures” to protect its interests after Japan announced it had purchased disputed East China Sea islands. He
 
 ### [Newly declassified documents confirm that the United States deliberately ignored Soviet involvement in the 1940 Katyn massacre, despite credible evidence to the contrary provided no later than 1943. While until 1945 this choice could be explained as World War II grand strategy, it is not known why the White House remained silent on the matter until now. ](/news/2012/09/11/newly-declassified-documents-confirm-that-the-united-states-deliberately-ignored-soviet-involvement-in-the-1940-katyn-massacre-despite-cred.md)
-_Context: Katyn massacre, Soviet, United States, White House, World War II_
+_Context: Katyn massacre, Soviet, U.S., White House, World War II_
 
 ### [A White House spokesperson says that a Presidential executive order is being considered to ensure the United States' cybersecurity if Congress remains deadlocked over a "CISPA" law. ](/news/2012/09/11/a-white-house-spokesperson-says-that-a-presidential-executive-order-is-being-considered-to-ensure-the-united-states-cybersecurity-if-congre.md)
-_Context: "CISPA", United States, United States Congress, White House, executive order_
+_Context: "CISPA", Congress, U.S., White House, executive order_
 
 ### [Sources tell the "Frankfurter Allgemeine" newspaper that the German military spying agency MAD tried to recruit Uwe Mundlos in 1995. Mundlos refused to cooperate and subsequently participated in ten terrorist murders with the nazi group NSU. He died in 2011; police say he committed suicide. ](/news/2012/09/11/sources-tell-the-frankfurter-allgemeine-newspaper-that-the-german-military-spying-agency-mad-tried-to-recruit-uwe-mundlos-in-1995-mundlos.md)
 _Context: Frankfurter Allgemeine, MAD, NSU, Uwe Mundlos_

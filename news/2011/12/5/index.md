@@ -16,7 +16,7 @@ _Context: Julian Assange, Supreme Court of the United Kingdom, Sweden, extradite
 _Context: United Russia, parliamentary elections_
 
 ### [Peru declares a state of emergency in four provinces amid protests over a mining project. ](/news/2011/12/5/peru-declares-a-state-of-emergency-in-four-provinces-amid-protests-over-a-mining-project.md)
-_Context: Peru declares, state of emergency_
+_Context: Peru declares, states of emergency_
 
 ## [Previous Day...](/news/2011/12/4/index.md)
 

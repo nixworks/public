@@ -25,7 +25,7 @@ _Context: BP, Deepwater Horizon, Deepwater Horizon oil spill, Transocean, explos
 _Context: BP, Gulf of Mexico, Macondo well_
 
 ### [The state of emergency in Christchurch, New Zealand, following the 2010 Canterbury earthquake is lifted. ](/news/2010/09/16/the-state-of-emergency-in-christchurch-new-zealand-following-the-2010-canterbury-earthquake-is-lifted.md)
-_Context: 2010 Canterbury earthquake, Christchurch, New Zealand, state of emergency_
+_Context: 2010 Canterbury earthquake, Christchurch, New Zealand, states of emergency_
 
 ### [A storm in New York City kills one person and leaves 25,000 people without power. This includes a Tornado which touched down in Flushing and a Macroburst.](/news/2010/09/16/a-storm-in-new-york-city-kills-one-person-and-leaves-25-000-people-without-power-this-includes-a-tornado-which-touched-down-in-flushing-and.md)
 _Context: Flushing, Macroburst, New York City_

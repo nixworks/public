@@ -13,7 +13,7 @@ The passageway, running east from the Strip into Israel, is part of a larger com
 _Context: 2013 Man Booker Prize, Eleanor Catton, New Zealand, The Luminaries_
 
 ### [International credit rating group Fitch Ratings places the United States under a "Rating watch negative" in response to the looming financial crisis. ](/news/2013/10/15/international-credit-rating-group-fitch-ratings-places-the-united-states-under-a-rating-watch-negative-in-response-to-the-looming-financia.md)
-_Context: Fitch Ratings, United States_
+_Context: Fitch Ratings, U.S._
 
 ### [Glenn Greenwald, a reporter with "The Guardian" who has published information provided him by NSA contractor Edward Snowden, is leaving the British newspaper to join a new journalistic enterprise to be bankrolled by Pierre Omidyar, the founder of eBay. ](/news/2013/10/15/glenn-greenwald-a-reporter-with-the-guardian-who-has-published-information-provided-him-by-nsa-contractor-edward-snowden-is-leaving-the.md)
 Glenn Greenwald, who has made headlines around the world with his reporting on U.S. electronic surveillance programs, is leaving the Guardian newspaper to join a new media venture funded by eBay founder Pierre Omidyar, according to people familiar with the matter.
@@ -22,7 +22,7 @@ Glenn Greenwald, who has made headlines around the world with his reporting on U
 A powerful earthquake measuring 7.2 struck islands popular with tourists in the Philippines on Tuesday, killing at least 74 people, some as they prayed in a centuries-old church, and causing widespread damage to infrastructure, officials said.
 
 ### [A state of emergency is declared in the New Zealand district of Whanganui due to flooding. ](/news/2013/10/15/a-state-of-emergency-is-declared-in-the-new-zealand-district-of-whanganui-due-to-flooding.md)
-_Context: New Zealand, Whanganui, state of emergency_
+_Context: New Zealand, Whanganui, states of emergency_
 
 ### [Typhoon Nari hits central Vietnam with over 122,000 people being evacuated. ](/news/2013/10/15/typhoon-nari-hits-central-vietnam-with-over-122-000-people-being-evacuated.md)
 Typhoon Nari knocked down trees and damaged hundreds of houses in central Vietnam early on Tuesday, forcing the evacuation of tens of thousands of people, state media said.

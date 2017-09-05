@@ -4,7 +4,7 @@
 _Context: Princesshay, bomb in Exeter_
 
 ### [ California Governor Arnold Schwarzenegger declares a state of emergency in Santa Cruz County for the ongoing Summit Fire burning in the Santa Cruz Mountains. ](/news/2008/05/22/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-in-santa-cruz-county-for-the-ongoing-summit-fire-burning-in-the-san.md)
-_Context: Arnold Schwarzenegger, California, Governor of California, Santa Cruz County, Santa Cruz Mountains, Summit Fire, state of emergency_
+_Context: Arnold Schwarzenegger, California, Governor of California, Santa Cruz County, Santa Cruz Mountains, Summit Fire, states of emergency_
 
 ### [ Weld County Tornado: One person is killed and at least 100 are injured in Weld County, Colorado after a tornado tears through the county. Colorado Governor Bill Ritter declares a state of emergency and activates the Colorado National Guard in the affected region. ](/news/2008/05/22/weld-county-tornado-one-person-is-killed-and-at-least-100-are-injured-in-weld-county-colorado-after-a-tornado-tears-through-the-county-c.md)
 The town hall and several other buildings in Windsor were hit by a mile-wide tornado around lunch time, and at least one person died as the twister carved a swath of destruction through Weld County.

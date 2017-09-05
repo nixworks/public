@@ -13,7 +13,7 @@ _Context: Azerbaijan, Nagorno-Karabakh region_
 Four people were arrested during minor scuffles between gardaí and anti-war protestors as former British prime minister Tony Blair arrived to sign copies of his autobiography in Dublin.
 
 ### [A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. ](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-christchurch-new-zealand-after-the-2010-canterbury-earthquake.md)
-_Context: 2010 Canterbury earthquake, Christchurch, New Zealand, curfew, state of emergency_
+_Context: 2010 Canterbury earthquake, Christchurch, New Zealand, curfew, states of emergency_
 
 ### [Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-landslides-blocking-ro.md)
 Emergency crews are evacuating homes in and around Ballarat, as heavy rain falls across Victoria.

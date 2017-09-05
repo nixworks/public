@@ -22,7 +22,7 @@ Hurricane-force winds leave thousands of homes without power while a search cont
 A migrant boat capsizes off Turkey, killing at least 27 people who were trying to reach the Greek island of Lesbos, Turkish media say.
 
 ### [Billy Kenoi, the mayor of Hawaii's Big Island, declares a state of emergency to deal with the growing outbreak of dengue fever, which is spread by infected mosquitoes. ](/news/2016/02/8/billy-kenoi-the-mayor-of-hawaii-s-big-island-declares-a-state-of-emergency-to-deal-with-the-growing-outbreak-of-dengue-fever-which-is-spr.md)
-_Context: Billy Kenoi, Hawaii, dengue fever, island of Hawaii, mosquito-borne disease, state of emergency_
+_Context: Billy Kenoi, Hawaii, dengue fever, island of Hawaii, mosquito-borne disease, states of emergency_
 
 ### [The South Korean Navy fires warning shots at a North Korean patrol boat after it crossed the Northern Limit Line in the Yellow Sea and entered South Korean-controlled waters. As of 2016, North Korea refuses to recognize the so-called Northern Limit Line, that was drawn up at the end of the Korean War. ](/news/2016/02/8/the-south-korean-navy-fires-warning-shots-at-a-north-korean-patrol-boat-after-it-crossed-the-northern-limit-line-in-the-yellow-sea-and-enter.md)
 A North Korean patrol boat crossed into South Korean waters early on Monday and retreated after the South Korean navy fired warning shots, a South Korean military official said.

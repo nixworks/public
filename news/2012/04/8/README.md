@@ -4,7 +4,7 @@
 _Context: Kofi Annan, Syria, military_
 
 ### [Afghanistan and the United States reach an agreement giving the Government of Afghanistan more control over night raids. ](/news/2012/04/8/afghanistan-and-the-united-states-reach-an-agreement-giving-the-government-of-afghanistan-more-control-over-night-raids.md)
-_Context: Afghan government, Afghanistan's, United States_
+_Context: Afghan government, Afghanistan's, U.S._
 
 ### [A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. ](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kaduna-killing-dozens-of-people.md)
 _Context: Kaduna, Nigeria, car bomb_

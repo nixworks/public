@@ -22,7 +22,7 @@ _Context: Baghdad, Conflict in Iraq_
 _Context: Gaza Strip, Israeli settlement, Israeli soldier, Netzarim, Palestinians_
 
 ### [ Thailand declares emergency in three southern provinces of Narathiwat, Pattani and Yala because of increasing violence of Muslim insurgency. ](/news/2005/07/17/thailand-declares-emergency-in-three-southern-provinces-of-narathiwat-pattani-and-yala-because-of-increasing-violence-of-muslim-insurgency.md)
-_Context: Muslim, Narathiwat, Pattani, Thailand, Yala, insurgency, state of emergency_
+_Context: Muslim, Narathiwat, Pattani, Thailand, Yala, insurgency, states of emergency_
 
 ### [ In Yemen, president Ali Abdullah Saleh announces that he won't seek re-election next year. ](/news/2005/07/17/in-yemen-president-ali-abdullah-saleh-announces-that-he-won-t-seek-re-election-next-year.md)
 _Context: Saleh, Yemen_

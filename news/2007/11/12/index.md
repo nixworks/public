@@ -40,7 +40,7 @@ _Context: Nigeria, State Security Service, al-Qaeda_
 _Context: Fatah, Gaza Strip, Hamas, Yasser Arafat_
 
 ### [ Pakistan Army renews air attacks in the Swat valley targeting extremists positions.date=December 2007 Foreign ministers of the Commonwealth of Nations meet in London to discuss the issue of Pakistan. They demand that President Pervez Musharraf lift the state of emergency, release political prisoners and step down as army chief by November 22, or otherwise the country will be "suspended from the Councils of the Commonwealth." ](/news/2007/11/12/pakistan-army-renews-air-attacks-in-the-swat-valley-targeting-extremists-positions-date-december-2007-foreign-ministers-of-the-commonwealth.md)
-_Context: Commonwealth of Nations, Foreign Minister, Pakistan, Pakistan army, Pervez Musharraf, Swat, Pakistan, airstrike, political prisoner, president, state of emergency_
+_Context: Commonwealth of Nations, Foreign Minister, Pakistan, Pakistan army, Pervez Musharraf, Swat, Pakistan, airstrike, political prisoner, president, states of emergency_
 
 ### [ Russian troops kill eight suspected militants in Makhachkala, Dagestan. ](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.md)
 _Context: Dagestan, Makhachkala, Russian Army, militant_

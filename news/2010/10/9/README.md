@@ -19,7 +19,7 @@ David Cameron defends a failed rescue attempt by US forces in Afghanistan during
 Armed men in southwestern border area set fire to nearly 30 tankers carrying fuel for foreign troops in Afghanistan.
 
 ### [The Government of Ecuador extends a state of emergency initially imposed on September 30 in the 2010 Ecuador crisis. ](/news/2010/10/9/the-government-of-ecuador-extends-a-state-of-emergency-initially-imposed-on-september-30-in-the-2010-ecuador-crisis.md)
-_Context: Government of Ecuador, protested against being stripped of their bonuses, state of emergency_
+_Context: Government of Ecuador, protested against being stripped of their bonuses, states of emergency_
 
 ### [Minister of Maori Affairs Pita Sharples adds his name to calls for suspended TVNZ broadcaster Paul Henry to be sacked after he manages to upset most of India. ](/news/2010/10/9/minister-of-maori-affairs-pita-sharples-adds-his-name-to-calls-for-suspended-tvnz-broadcaster-paul-henry-to-be-sacked-after-he-manages-to-u.md)
 Maori Affairs Minister Pita Sharples has joined calls for controversial Television New Zealand broadcaster Paul Henry to be sacked over &quot;racial remarks&quot;.
@@ -40,7 +40,7 @@ Rescuers drill right through to the underground chamber where 33 miners are trap
 More than 200 passengers and crew are rescued after a Baltic Sea ferry catches fire near the German island of Fehmarn.
 
 ### [The United States leads a group of non-EU developed countries in attempts to thoroughly revamp the Kyoto Protocol, blocking any possible progress in the climate negotiations currently under way in Tianjin, according to negotiator Sui Wei. ](/news/2010/10/9/the-united-states-leads-a-group-of-non-eu-developed-countries-in-attempts-to-thoroughly-revamp-the-kyoto-protocol-blocking-any-possible-pro.md)
-_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, United States_
+_Context: European Union, Kyoto Protocol, Sui Wei, Tianjin, U.S._
 
 ### [An Ecuadorean court orders the imprisonment of 12 police after last week's 2010 Ecuador crisis, with a lawyer saying they are being swept up in a "witch hunt". ](/news/2010/10/9/an-ecuadorean-court-orders-the-imprisonment-of-12-police-after-last-week-s-2010-ecuador-crisis-with-a-lawyer-saying-they-are-being-swept-up.md)
 _Context: Ecuador, protested against being stripped of their bonuses_

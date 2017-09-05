@@ -16,10 +16,10 @@ _Context: Islamabad, Pakistan, Turkey, bomb, restaurant_
 A giant crane fell and crushed a residential building in Manhattan on Saturday, killing four construction workers and injuring more than 10 other people, New York Mayor Michael Bloomberg said.
 
 ### [ The Mayor of Atlanta, Shirley Franklin, declares a state of emergency following the previous night's tornado, while northwest Georgia is hit by more tornadoes, causing at least one death. ](/news/2008/03/15/the-mayor-of-atlanta-shirley-franklin-declares-a-state-of-emergency-following-the-previous-night-s-tornado-while-northwest-georgia-is-hi.md)
-_Context: Georgia, Mayor of Atlanta, Shirley Franklin, state of emergency, tornado_
+_Context: Georgia, Mayor of Atlanta, Shirley Franklin, states of emergency, tornado_
 
 ### [ Tens of thousands of Italians gather in Bari to march against the mafia and remember its many victims. ](/news/2008/03/15/tens-of-thousands-of-italians-gather-in-bari-to-march-against-the-mafia-and-remember-its-many-victims.md)
-_Context: Bari, Italian, Mafia, victims_
+_Context: Bari, Italy, Mafia, victims_
 
 ### [ Three former police officers are jailed over the killing of Ukrainian investigative journalist Georgiy R. Gongadze in 2000. ](/news/2008/03/15/three-former-police-officers-are-jailed-over-the-killing-of-ukrainian-investigative-journalist-georgiy-r-gongadze-in-2000.md)
 _Context: Georgiy R. Gongadze, Ukraine, investigative reporter, police officer_

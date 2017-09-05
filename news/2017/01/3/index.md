@@ -19,7 +19,7 @@ _Context: Donald Trump, Presidential transition of Donald Trump, Robert Lighthiz
 The president-elect took to Twitter to criticize the move against an independent ethics panel.
 
 ### [The Grand National Assembly of Turkey votes to extend a state of emergency imposed after last year's attempted coup for another three months. ](/news/2017/01/3/the-grand-national-assembly-of-turkey-votes-to-extend-a-state-of-emergency-imposed-after-last-year-s-attempted-coup-for-another-three-months.md)
-_Context: Turkish Parliament, last year's attempted coup, state of emergency_
+_Context: Turkish Parliament, last year's attempted coup, states of emergency_
 
 ## [Previous Day...](/news/2017/01/2/index.md)
 

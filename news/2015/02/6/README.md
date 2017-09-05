@@ -10,7 +10,7 @@ _Context: Boko Haram, Chad Air Force, Niger, Niger Army_
 _Context: German, Germany, Siemens_
 
 ### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, "The Floreana", carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-januar.md)
-_Context: Ecuador, Galpagos Islands, state of emergency_
+_Context: Ecuador, Galpagos Islands, states of emergency_
 
 ### [Mexican police find at least 61 bodies in an abandoned crematorium in Acapulco. ](/news/2015/02/6/mexican-police-find-at-least-61-bodies-in-an-abandoned-crematorium-in-acapulco.md)
 Mexican police investigate after 60 bodies are found piled up in an abandoned crematorium in the resort of Acapulco.

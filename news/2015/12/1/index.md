@@ -28,7 +28,7 @@ The billionaires join others who are giving massive amounts away to solve big pr
 Indonesia’s National Transportation Safety Committee (NTSC) is ready to publicly share the final investigation report after it was postponed several times.
 
 ### [The World Health Organization urges Ukraine's health ministry to declare a state of emergency due to a polio outbreak, a move meant to prompt more action from the government in Kiev. Half of Ukraine's children have not been vaccinated against polio, according to Dorit Nitzan, head of the WHO's office in Ukraine. ](/news/2015/12/1/the-world-health-organization-urges-ukraine-s-health-ministry-to-declare-a-state-of-emergency-due-to-a-polio-outbreak-a-move-meant-to-promp.md)
-_Context: Kiev, Ukraine, World Health Organization, health ministry, polio outbreak, state of emergency, vaccinated against polio_
+_Context: Kiev, Ukraine, World Health Organization, health ministry, polio outbreak, states of emergency, vaccinated against polio_
 
 ### [One of three people who contracted Legionnaires' disease in Hannibal, Missouri, dies, according to health officials. Hannibal is about 20 miles from Quincy, Illinois, where a Legionnaires' outbreak occurred earlier this year, contributing to 12 deaths and sickening dozens more. ](/news/2015/12/1/one-of-three-people-who-contracted-legionnaires-disease-in-hannibal-missouri-dies-according-to-health-officials-hannibal-is-about-20-mi.md)
 Illinois officials admit they were caught off-guard by the wave of Legionnaires&#39; at their veterans&#39; home in Quincy.

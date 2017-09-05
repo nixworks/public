@@ -13,7 +13,7 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 The UK economy grew by 0.5% in the third quarter of 2011, official figures show, faster than the 0.1% rate seen in the previous quarter.
 
 ### [Over 1.5 million people are still without power and four states declare a state of emergency after a nor'easter hits the Eastern United States. ](/news/2011/11/1/over-1-5-million-people-are-still-without-power-and-four-states-declare-a-state-of-emergency-after-a-nor-easter-hits-the-eastern-united-stat.md)
-_Context: Eastern U.S., nor'easter, state of emergency_
+_Context: Eastern U.S., nor'easter, states of emergency_
 
 ### [LOT Polish Airlines Flight 016 makes a successful emergency landing at Warsaw Chopin Airport. ](/news/2011/11/1/lot-polish-airlines-flight-016-makes-a-successful-emergency-landing-at-warsaw-chopin-airport.md)
 _Context: LOT Polish Airlines Flight 016, Warsaw Chopin Airport_
@@ -25,7 +25,7 @@ _Context: China, Fuquan City, Guizhou province_
 _Context: Australia, Indonesia, Java, asylum seeker_
 
 ### [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md)
-_Context: Almazbek Atambayev, Manas, President, United States_
+_Context: Almazbek Atambayev, Manas, President, U.S._
 
 ### [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md)
 Twelve people are arrested after a clash between police and protesters outside the Houses of Parliament.

@@ -19,7 +19,7 @@ Somali pirates are reported to have received a total of about $12.3m (£7.6m) in
 _Context: Armenia, Azerbaijan, International Committee of the Red Cross_
 
 ### [The House of the Gladiators in the ancient Roman city of Pompeii collapses, prompting criticism of the Italian government's "neglect" of the site. ](/news/2010/11/6/the-house-of-the-gladiators-in-the-ancient-roman-city-of-pompeii-collapses-prompting-criticism-of-the-italian-government-s-neglect-of-the.md)
-_Context: Italian, Pompeii, ancient Roman_
+_Context: Italy, Pompeii, ancient Roman_
 
 ### [Chinese artist Ai Weiwei claims that he has been placed under house arrest to stop him organising a demolition party to observe the destruction of his studio. ](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.md)
 Chinese artist Ai Weiwei says he has been placed under house arrest to prevent him holding a party to mark the destruction of his Shanghai studio.

@@ -19,7 +19,7 @@ General Mills will acquire organic food producer Annie&#039;s for about $820M in
 Nearly 150 people have died and thousands are marooned in Jammu and Kashmir, devastated by its worst floods in 60 years. Much of capital city Srinagar is submerged with people waiting for rescue on terraces and rooftops. Many people have lost contact with their families with phone lines down.
 
 ### [The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-state-of-emergency-and-causin.md)
-_Context: Arizona, Hurricane Norbert, state of emergency_
+_Context: Arizona, Hurricane Norbert, states of emergency_
 
 ### [It is reported that nearly one thousand children have been hospitalized with respiratory illnesses in several U.S. states. [http://www.usatoday.com/story/news/nation-now/2014/09/08/respiratory-virus-midwest-children/15269751/ "(USA Today)"]](/news/2014/09/8/it-is-reported-that-nearly-one-thousand-children-have-been-hospitalized-with-respiratory-illnesses-in-several-u-s-states-http-www-usato.md)
 ### [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md)

@@ -1,7 +1,7 @@
 ## [2000-01-4](/news/2000/01/4/index.md)
 
 ### [The Autonomous Region of Sicily, in Italy adopts a new flag.](/news/2000/01/4/the-autonomous-region-of-sicily-in-italy-adopts-a-new-flag.md)
-_Context: Italian, Sicily, new flag_
+_Context: Italy, Sicily, new flag_
 
 ### [Air Canada acquires their largest rival, Canadian Airlines.](/news/2000/01/4/air-canada-acquires-their-largest-rival-canadian-airlines.md)
 _Context: Air Canada, Canadian Airlines_

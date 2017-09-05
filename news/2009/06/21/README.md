@@ -13,7 +13,7 @@ England have beaten New Zealand twice in World Cup finals in a span of three mon
 The Taoiseach has said a Yes vote on Lisbon would provide Ireland with a better means of dealing with the current economic crisis.
 
 ### [ The Somali government declares a state of emergency. ](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.md)
-_Context: Somalia, declares, state of emergency_
+_Context: Somalia, declares, states of emergency_
 
 ### [ Self-rule is introduced in Greenland following a 2008 referendum. ](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.md)
 _Context: 2008 referendum, Greenland, Self-rule_
@@ -34,10 +34,10 @@ _Context: Anhui, China_
 _Context: Belfast_
 
 ### [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md)
-_Context: Italian, Mafia, Salvatore Miceli, Venezuela_
+_Context: Italy, Mafia, Salvatore Miceli, Venezuela_
 
 ### [ United States President Barack Obama tells a television news crew his country is "fully prepared" for a possible missile test by North Korea over the Pacific Ocean. ](/news/2009/06/21/united-states-president-barack-obama-tells-a-television-news-crew-his-country-is-fully-prepared-for-a-possible-missile-test-by-north-kore.md)
-_Context: Barack Obama, North Korea, Pacific Ocean, President, United States_
+_Context: Barack Obama, North Korea, Pacific Ocean, President, U.S._
 
 ## [Previous Day...](/news/2009/06/20/index.md)
 

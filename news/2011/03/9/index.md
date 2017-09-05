@@ -31,7 +31,7 @@ _Context: Athabasca River, Canada, aromatic, oil sands, polycyclic_
 _Context: Honshu Island, Japan, earthquake, tsunami_
 
 ### [The Governor of the US state of New Jersey, Chris Christie declares a state of emergency along the Passaic and Delaware Rivers and Bound Brook in Somerset County in order to prepare for anticipated floods later in the week. ](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.md)
-_Context: Bound Brook, Chris Christie, Delaware River, New Jersey, New Jersey Governor, Passaic, Somerset County, state of emergency_
+_Context: Bound Brook, Chris Christie, Delaware River, New Jersey, New Jersey Governor, Passaic, Somerset County, states of emergency_
 
 ### [Ice loss from Antarctica and Greenland has accelerated over the past 20 years, according to new research, and will soon become the biggest driver of sea level rise. ](/news/2011/03/9/ice-loss-from-antarctica-and-greenland-has-accelerated-over-the-past-20-years-according-to-new-research-and-will-soon-become-the-biggest-d.md)
 Ice loss from Antarctica and Greenland has accelerated over the last 20 years, research shows, and will soon become the biggest driver of sea level rise. From satellite data and climate models, scientists calculate that the two polar ice sheets are losing enough ice to raise sea levels by 1.3mm each...
@@ -91,7 +91,7 @@ _Context: Governor of Illinois, Illinois, Pat Quinn, death penalty, death row_
 _Context: Discovery, Florida, Kennedy Space Center, Space Shuttle_
 
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, Food and Drug Administration, United States, lupus_
+_Context: Belimumab, Food and Drug Administration, U.S., lupus_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

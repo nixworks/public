@@ -1,7 +1,7 @@
 ## [2014-01-22](/news/2014/01/22/index.md)
 
 ### [Kwanchai Praipana, a leader of the pro-government United Front for Democracy Against Dictatorship, is shot in the city of Udon Thani as protesters gather in Bangkok despite the declaration of a state of emergency. ](/news/2014/01/22/kwanchai-praipana-a-leader-of-the-pro-government-united-front-for-democracy-against-dictatorship-is-shot-in-the-city-of-udon-thani-as-prot.md)
-_Context: Bangkok, Udon Thani, United Front for Democracy Against Dictatorship, state of emergency_
+_Context: Bangkok, Udon Thani, United Front for Democracy Against Dictatorship, states of emergency_
 
 ### [Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/ukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md)
 Ukrainian opposition leaders emerged from crisis talks with President Viktor Yanukovich on Wednesday saying he had failed to give concrete answers to their demands, and told their supporters on the streets to prepare for a police offensive.

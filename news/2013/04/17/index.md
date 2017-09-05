@@ -1,7 +1,7 @@
 ## [2013-04-17](/news/2013/04/17/index.md)
 
 ### [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md)
-_Context: Pakistan, South Waziristan, United States, Wana, drones launch_
+_Context: Pakistan, South Waziristan, U.S., Wana, drones launch_
 
 ### [Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/two-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no-damage-three-more-rocket.md)
 _Context: Egypt, Eilat, Israel, Jordan, Sinai_
@@ -37,7 +37,7 @@ A judge opens and adjourns an embezzlement case against Russian opposition activ
 Here&#039;s everything you need to know about the timetable of events ahead of the funeral of former British prime minister Margaret Thatcher. 
 
 ### [The Italy Parliament prepares to vote for a new President to succeed Giorgio Napolitano, in order to end a two-month impasse between political parties by forming a coalition government. ](/news/2013/04/17/the-italy-parliament-prepares-to-vote-for-a-new-president-to-succeed-giorgio-napolitano-in-order-to-end-a-two-month-impasse-between-politic.md)
-_Context: Giorgio Napolitano, Italian, Italian Parliament, President of Italy, governing coalition, political parties_
+_Context: Giorgio Napolitano, Italian Parliament, Italy, President of Italy, governing coalition, political parties_
 
 ### [Venezuela's opposition leader Henrique Capriles distances himself from post-election street violence after seven people are killed in riots over the results of the presidential election. Capriles had previously planned to march on the National Electoral Council to demand a recount. ](/news/2013/04/17/venezuela-s-opposition-leader-henrique-capriles-distances-himself-from-post-election-street-violence-after-seven-people-are-killed-in-riots.md)
 _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's presidential election, post-election street violence, recount_
@@ -46,7 +46,7 @@ _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's
 A bill to legalise same-sex marriage has passed into law after its third reading in Parliament tonight, after months of emotional debate, parliamentary submissions, and passionate - New Zealand Herald
 
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, United States, United States Senate_
+_Context: Gun politics in the United States, U.S., United States Senate_
 
 ## [Previous Day...](/news/2013/04/16/index.md)
 

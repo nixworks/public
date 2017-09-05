@@ -1,7 +1,7 @@
 ## [2005-10-30](/news/2005/10/30/index.md)
 
 ### [ Italian Minister of the Environment Altero Matteoli announces interest in switching to nuclear power as the main source of energy within 10-15 years. Nuclear power has been banned in Italy since the Chernobyl accident in 1986. ](/news/2005/10/30/italian-minister-of-the-environment-altero-matteoli-announces-interest-in-switching-to-nuclear-power-as-the-main-source-of-energy-within-10.md)
-_Context: 1986, Altero Matteoli, Chernobyl accident, Italian, Minister of the Environment, nuclear power_
+_Context: 1986, Altero Matteoli, Chernobyl accident, Italy, Minister of the Environment, nuclear power_
 
 ### [ Hurricane Beta, the first hurricane named with the Greek letter Beta, approaches Nicaragua and Honduras as a Category 3 storm, ](/news/2005/10/30/hurricane-beta-the-first-hurricane-named-with-the-greek-letter-beta-approaches-nicaragua-and-honduras-as-a-category-3-storm.md)
 _Context: Greek letter, Honduras, Hurricane Beta, Nicaragua, Saffir-Simpson Hurricane Scale, hurricane_

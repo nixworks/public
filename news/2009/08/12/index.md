@@ -46,7 +46,7 @@ _Context: Lebanon, Lubna al-Hussein, Sudan_
 _Context: Diego Len Montoya Snchez, Norte Valle Cartel, murder, racketeering_
 
 ### [ The Roman Catholic Church is expresses "unease" and "mortification" over revelations surrounding the private life of Italian Prime Minister Silvio Berlusconi. ](/news/2009/08/12/the-roman-catholic-church-is-expresses-unease-and-mortification-over-revelations-surrounding-the-private-life-of-italian-prime-minister.md)
-_Context: Italian, Italian Prime Minister, Roman Catholic Church, Silvio Berlusconi_
+_Context: Italian Prime Minister, Italy, Roman Catholic Church, Silvio Berlusconi_
 
 ### [ Astronomers discover WASP-17b, the first planet that orbits in the opposite direction to the spin of its star. ](/news/2009/08/12/astronomers-discover-wasp-17b-the-first-planet-that-orbits-in-the-opposite-direction-to-the-spin-of-its-star.md)
 _Context: WASP-17b_

@@ -4,7 +4,7 @@
 At least 35 people were killed in Syrian army bombardment over the last 24 hours in a renewed assault to regain control of the rural province of Homs, the epicentre of the revolt against President Bashar al-Assad, opposition activists said on Sunday.
 
 ### [A state of emergency is declared in western Burma after clashes between Buddhists and Muslims. ](/news/2012/06/10/a-state-of-emergency-is-declared-in-western-burma-after-clashes-between-buddhists-and-muslims.md)
-_Context: Buddhists, Burma, Muslim, sectarian violence, state of emergency_
+_Context: Buddhists, Burma, Muslim, sectarian violence, states of emergency_
 
 ### [The 66th Tony Awards for American theatre are held at the Beacon Theatre in New York City with "Clybourne Park" winning the Tony Award for Best Play and "Once" winning the Tony Award for Best Musical". ](/news/2012/06/10/the-66th-tony-awards-for-american-theatre-are-held-at-the-beacon-theatre-in-new-york-city-with-clybourne-park-winning-the-tony-award-for-b.md)
 Charles Isherwood and Dave Itzkoff live blog the Tony Awards.

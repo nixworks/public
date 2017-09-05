@@ -4,7 +4,7 @@
 _Context: June 24, May 27, Ukraine, Ukrainian President, Ukrainian parliamentary election, 2007, Viktor Yushchenko_
 
 ### [ The United States House of Representatives passes legislation that would order United States forces to start withdrawing from Iraq by October 1. ](/news/2007/04/25/the-united-states-house-of-representatives-passes-legislation-that-would-order-united-states-forces-to-start-withdrawing-from-iraq-by-octob.md)
-_Context: Iraq, October 1, United States, United States House of Representatives, legislation_
+_Context: Iraq, October 1, U.S., United States House of Representatives, legislation_
 
 ### [ Boris Yeltsin, the first President of Russia, is buried at Novodevichy Cemetery following a funeral service in central Moscow. ](/news/2007/04/25/boris-yeltsin-the-first-president-of-russia-is-buried-at-novodevichy-cemetery-following-a-funeral-service-in-central-moscow.md)
 _Context: Boris Yeltsin, Moscow, Novodevichy Cemetery, Russian President Vladimir Putin, funeral_
@@ -19,7 +19,7 @@ _Context: Assistant Secretary of State for European and Eurasian Affairs, Belaru
 _Context: 2007 presidential election, Democratic Party, European Union, France, Franois Bayrou, Union for French Democracy, centrist, go to the polls_
 
 ### [ China detains four United States citizens who were protesting for Tibetan independence and against the Beijing Olympics at the Mount Everest base camp. ](/news/2007/04/25/china-detains-four-united-states-citizens-who-were-protesting-for-tibetan-independence-and-against-the-beijing-olympics-at-the-mount-everes.md)
-_Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, United States, base camp_
+_Context: 2008 Summer Olympics, China, Mount Everest, Tibetan independence, U.S., base camp_
 
 ### [ Japanese police raid the offices of a pro-North Korean group in relation to the alleged kidnapping of two children in the 1970s. ](/news/2007/04/25/japanese-police-raid-the-offices-of-a-pro-north-korean-group-in-relation-to-the-alleged-kidnapping-of-two-children-in-the-1970s.md)
 _Context: Japanese police, kidnapped, pro-North Korean group_

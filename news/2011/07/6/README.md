@@ -37,7 +37,7 @@ Seven suspects sent to prison ahead of trial as allegations rock Turkish league.
 _Context: Rossiyskaya Gazeta, Russia, money laundering, terrorism_
 
 ### [The perjury trial of retired star baseball pitcher Roger Clemens commences in the U.S. over allegedly false statements made to a United States Congress Committee over use of performance-enhancing drugs. ](/news/2011/07/6/the-perjury-trial-of-retired-star-baseball-pitcher-roger-clemens-commences-in-the-u-s-over-allegedly-false-statements-made-to-a-united-stat.md)
-_Context: Roger Clemens, United States Congress, baseball game, performance-enhancing drugs, perjury, pitcher_
+_Context: Congress, Roger Clemens, baseball game, performance-enhancing drugs, perjury, pitcher_
 
 ### [Nine Germans are convicted "in absentia" in Verona Italy for killing hundreds of civilians during World War II. ](/news/2011/07/6/nine-germans-are-convicted-in-absentia-in-verona-italy-for-killing-hundreds-of-civilians-during-world-war-ii.md)
 An Italian court sentences nine German men in absentia to life in prison for killing hundreds of civilians during World War II, reports say.

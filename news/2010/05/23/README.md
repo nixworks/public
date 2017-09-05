@@ -4,7 +4,7 @@
 _Context: Jiangxi Province, Yujiang_
 
 ### [A state of emergency is declared in the Jamaican capital Kingston after armed gangs attacked police and blockaded parts of the city in an attempt to prevent the arrest of a drug lord. ](/news/2010/05/23/a-state-of-emergency-is-declared-in-the-jamaican-capital-kingston-after-armed-gangs-attacked-police-and-blockaded-parts-of-the-city-in-an-at.md)
-_Context: Jamaica, Kingston, drug kingpin, state of emergency_
+_Context: Jamaica, Kingston, drug kingpin, states of emergency_
 
 ### [A five-day strike at British Airways is announced to begin tomorrow following a breakdown in talks which were invaded by protesters yesterday. ](/news/2010/05/23/a-five-day-strike-at-british-airways-is-announced-to-begin-tomorrow-following-a-breakdown-in-talks-which-were-invaded-by-protesters-yesterda.md)
 Five-day strike to begin on Monday after union offer is rejected by airline.

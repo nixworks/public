@@ -4,7 +4,7 @@
 _Context: China, deadly earthquake_
 
 ### [ Tornadoes of 2008: The Governor of Nebraska Dave Heineman declares a state of emergency in relation to tornadoes in the towns of Kearney, Nebraska, and Aurora, Nebraska. ](/news/2008/05/29/tornadoes-of-2008-the-governor-of-nebraska-dave-heineman-declares-a-state-of-emergency-in-relation-to-tornadoes-in-the-towns-of-kearney-n.md)
-_Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoes of 2008, state of emergency, tornado_
+_Context: Aurora, Nebraska, Dave Heineman, Governor, Kearney, Nebraska, Tornadoes of 2008, states of emergency, tornado_
 
 ### [ In a 6-5 ruling, the Brazilian Supreme Federal Court upholds a 2005 law permitting embryonic stem cell research in the country. ](/news/2008/05/29/in-a-6a5-ruling-the-brazilian-supreme-federal-court-upholds-a-2005-law-permitting-embryonic-stem-cell-research-in-the-country.md)
 _Context: Brazil, Supreme Federal Court, embryonic stem cell_
@@ -28,7 +28,7 @@ _Context: Global food price crisis, Third World, US$, World Bank, grant_
 _Context: Bay Area Laboratory Co-operative, Trevor Graham, steroids, track and field_
 
 ### [ The United States Department of Commerce revises its estimate of economic growth in the United States to 0.9% for the first quarter of 2008. ](/news/2008/05/29/the-united-states-department-of-commerce-revises-its-estimate-of-economic-growth-in-the-united-states-to-0-9-for-the-first-quarter-of-2008.md)
-_Context: U.S. Commerce Department, United States, economic growth, quarter_
+_Context: U.S., U.S. Commerce Department, economic growth, quarter_
 
 ### [ At least 20 people are killed and 42 injured after two suicide bombings in northern Iraq. ](/news/2008/05/29/at-least-20-people-are-killed-and-42-injured-after-two-suicide-bombings-in-northern-iraq.md)
 _Context: Iraq, suicide bombing_

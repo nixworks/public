@@ -19,7 +19,7 @@ _Context: Mississippi, United States Supreme Court, cruel and unusual punishment
 President Bush on Tuesday named a retired Army lieutenant general and executive of a firm that earns most of its revenue from federal veterans programs to head the troubled Department of Veterans...
 
 ### [ The United States Congress votes to extend a ban on Internet taxes for another seven years. ](/news/2007/10/30/the-united-states-congress-votes-to-extend-a-ban-on-internet-taxes-for-another-seven-years.md)
-_Context: Internet taxes, United States Congress_
+_Context: Congress, Internet taxes_
 
 ### [ Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.date=December 2007 ](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suicide-bomb-attack-near-pakistan-army-headquarters-in-rawalpindi-date-december-2007.md)
 _Context: Pakistan army, Rawalpindi, attack, headquarters, suicide bomb_

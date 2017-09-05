@@ -25,7 +25,7 @@ _Context: Tay Ninh Province, Vietnam War_
 _Context: Taiwan, mainland China_
 
 ### [ Senator and President "pro tempore" of the United States Senate Robert C. Byrd of West Virginia becomes the longest serving member in the history of the United States Congress. ](/news/2009/11/18/senator-and-president-pro-tempore-of-the-united-states-senate-robert-c-byrd-of-west-virginia-becomes-the-longest-serving-member-in-the-h.md)
-_Context: President pro tempore of the United States Senate, Robert C. Byrd, United States Congress, United States Senate, West Virginia, longest serving member_
+_Context: Congress, President pro tempore of the United States Senate, Robert C. Byrd, United States Senate, West Virginia, longest serving member_
 
 ### [ Queen Elizabeth II officially opens the Parliament of the United Kingdom and delivers Her Majesty's Most Gracious Address. ](/news/2009/11/18/queen-elizabeth-ii-officially-opens-the-parliament-of-the-united-kingdom-and-delivers-her-majesty-s-most-gracious-address.md)
 The Government has unveiled its final legislative package before the General Election , with the Queen&#039;s Speech containing pledges to help the neediest pensioners and crack down on excesses in the financial sector.

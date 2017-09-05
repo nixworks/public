@@ -7,10 +7,10 @@ _Context: Fiji, Labasa, Vanua Levu, flood_
 _Context: China, Fushun, Shenyang, coal mine, flood, province_
 
 ### [ President George W. Bush approves 8,200 more United States troops for Iraq and Afghanistan. ](/news/2007/03/10/president-george-w-bush-approves-8-200-more-united-states-troops-for-iraq-and-afghanistan.md)
-_Context: Afghanistan's, George W. Bush, Iraq, President, United States_
+_Context: Afghanistan's, George W. Bush, Iraq, President, U.S._
 
 ### [ Thousands of supporters of legislation giving equal rights on issues to heterosexual and gay couples in Italy attend a rally in Rome. ](/news/2007/03/10/thousands-of-supporters-of-legislation-giving-equal-rights-on-issues-to-heterosexual-and-gay-couples-in-italy-attend-a-rally-in-rome.md)
-_Context: Italian, Rome_
+_Context: Italy, Rome_
 
 ### [ Sri Lankan Civil War: More than 30,000 Sri Lankans flee intensifying fighting between the Government and the Tamil Tigers in the east of Sri Lanka. ](/news/2007/03/10/sri-lankan-civil-war-more-than-30-000-sri-lankans-flee-intensifying-fighting-between-the-government-and-the-tamil-tigers-in-the-east-of-sr.md)
 _Context: Sri Lanka, Sri Lankan Civil War, Tamil Tigers_
@@ -28,7 +28,7 @@ _Context: Gladys Nyirongo, Lusaka, Zambia_
 _Context: Kosovo, Serbia, ethnic Albanian_
 
 ### [ A major international conference starts in Baghdad to look at ways to stabilise Iraq featuring representatives from Iran, Syria and the United States. ](/news/2007/03/10/a-major-international-conference-starts-in-baghdad-to-look-at-ways-to-stabilise-iraq-featuring-representatives-from-iran-syria-and-the-uni.md)
-_Context: Baghdad, Iran, Iraq, Syria, United States_
+_Context: Baghdad, Iran, Iraq, Syria, U.S._
 
 ## [Previous Day...](/news/2007/03/9/index.md)
 

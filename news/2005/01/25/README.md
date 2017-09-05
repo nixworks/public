@@ -31,7 +31,7 @@ Get the latest breaking news and top news headlines at Reuters.com
 _Context: Ewaso Kedong River, Great Rift Valley, Kenya, Kikuyu, Maasai, water_
 
 ### [ In the Republic of China/Taiwan, President Chen Shui-bian names fellow Democratic Progressive Party member Frank Hsieh, as the new premier. He calls for a reconciliation with the political opposition, which maintained its legislative majority in last month's elections. ](/news/2005/01/25/in-the-republic-of-china-taiwan-president-chen-shui-bian-names-fellow-democratic-progressive-party-member-frank-hsieh-as-the-new-premier.md)
-_Context: Chen Shui-bian, Democratic Progressive Party, Frank Hsieh, Premier of Taiwan, President of Taiwan, Taiwan, legislative majority_
+_Context: Chen Shui-bian, Democratic Progressive Party, Frank Hsieh, Premier of the Republic of China, President of Taiwan, Taiwan, legislative majority_
 
 ### [ Large scale strikes begin in Andhra Pradesh, India, in protest of the killing of Paritala Ravi, a senior leader of Telugu Desam Party assassinated two days ago. ](/news/2005/01/25/large-scale-strikes-begin-in-andhra-pradesh-india-in-protest-of-the-killing-of-paritala-ravi-a-senior-leader-of-telugu-desam-party-assas.md)
 _Context: Andhra Pradesh, India, Paritala Ravi, Telugu Desam Party, strike_

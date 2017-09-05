@@ -10,7 +10,7 @@ _Context: 'Amran Governorate, Yemen, soldiers_
 _Context: European Union, Nicolas Sarkozy, President of France, banking_
 
 ### [ The Prime Minister of the Czech Republic, Jan Fischer, says that President Barack Obama told him that the United States is abandoning plans for a missile shield based in Poland and the Czech Republic. ](/news/2009/09/17/the-prime-minister-of-the-czech-republic-jan-fischer-says-that-president-barack-obama-told-him-that-the-united-states-is-abandoning-plans.md)
-_Context: Barack Obama, Czech Republic, Jan Fischer, Polish, President, Prime Minister of the Czech Republic, United States, missile shield_
+_Context: Barack Obama, Czech Republic, Jan Fischer, Polish, President, Prime Minister of the Czech Republic, U.S., missile shield_
 
 ### [ Two large explosions hit the main base of African Union peacekeepers in Mogadishu, Somalia. ](/news/2009/09/17/two-large-explosions-hit-the-main-base-of-african-union-peacekeepers-in-mogadishu-somalia.md)
 _Context: African Union, Mogadishu, Somalia_
@@ -28,7 +28,7 @@ Colombia could consider quitting the South American Nations Union, Unasur, if th
 _Context: Ethiopia, International Crisis Group, Meles Zenawi, Prime Minister_
 
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: Afghanistan's, ISAF, Italian, Kabul, car bomb_
+_Context: Afghanistan's, ISAF, Italy, Kabul, car bomb_
 
 ### [ Egypt's top Islamic authority, Grand Mufti Ali Gomaa, defends women's rights to wear trousers in public following the high-profile court case in neighbouring Sudan where women, including Lubna al-Hussein, were flogged for dressing in the garments. ](/news/2009/09/17/egypt-s-top-islamic-authority-grand-mufti-ali-gomaa-defends-women-s-rights-to-wear-trousers-in-public-following-the-high-profile-court-ca.md)
 _Context: Ali Gomaa, Egypt, Grand Mufti, Lubna al-Hussein, Muslims, Sudan, lashes_

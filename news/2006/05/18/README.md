@@ -13,7 +13,7 @@ _Context: Ali Mohamed Gedi, Alliance for the Restoration of Peace and Counter-Te
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ New Italian prime minister Romano Prodi pledges to withdraw Italian troops from Iraq and calls the Iraq war a "grave mistake that has not solved but increased the problem of security". ](/news/2006/05/18/new-italian-prime-minister-romano-prodi-pledges-to-withdraw-italian-troops-from-iraq-and-calls-the-iraq-war-a-grave-mistake-that-has-not-s.md)
-_Context: Iraq, Iraq War, Italian, Prime Minister, Romano Prodi_
+_Context: Iraq, Iraq War, Italy, Prime Minister, Romano Prodi_
 
 ### [ Typhoon Chanchu, the strongest storm on record to have entered the South China Sea in May, makes landfall between the cities of Shantou, Guangdong and Xiamen, Fujian in China. ](/news/2006/05/18/typhoon-chanchu-the-strongest-storm-on-record-to-have-entered-the-south-china-sea-in-may-makes-landfall-between-the-cities-of-shantou-gu.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

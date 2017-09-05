@@ -19,7 +19,7 @@ General Motors Co made a triumphant return to Wall Street less than a year and a
 Police fire tear gas into a camp for displaced people as protests accusing UN troops of bringing cholera turn violent.
 
 ### [President of Colombia Juan Manuel Santos declares a state of emergency in Colombia after ongoing floods and landslides kill at least 136 people and the flooding spreads to the capital, Bogot. ](/news/2010/11/18/president-of-colombia-juan-manuel-santos-declares-a-state-of-emergency-in-colombia-after-ongoing-floods-and-landslides-kill-at-least-136-peo.md)
-_Context: Bogota, Colombia, Colombian President, Juan Manuel Santos, ongoing floods, state of emergency_
+_Context: Bogota, Colombia, Colombian President, Juan Manuel Santos, ongoing floods, states of emergency_
 
 ### [The Nobel Committee says the Nobel Peace Prize for Liu Xiaobo may not be handed out this year as China will not allow anyone from his family to attend the event. ](/news/2010/11/18/the-nobel-committee-says-the-nobel-peace-prize-for-liu-xiaobo-may-not-be-handed-out-this-year-as-china-will-not-allow-anyone-from-his-family.md)
 The presentation in Oslo next month will most likely be postponed because China is not allowing the dissident Liu Xiaobo or his family to attend.
@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Sweden, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
+_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_

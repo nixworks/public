@@ -1,7 +1,7 @@
 ## [2011-02-24](/news/2011/02/24/index.md)
 
 ### [Algeria officially lifts its 19-year-old state of emergency. ](/news/2011/02/24/algeria-officially-lifts-its-19-year-old-state-of-emergency.md)
-_Context: Algeria, state of emergency_
+_Context: Algeria, states of emergency_
 
 ### [Libyan workers fleeing to Tunisia claim that anti-Gaddafi forces control the town of Zuwara, 120 km west of Tripoli. ](/news/2011/02/24/libyan-workers-fleeing-to-tunisia-claim-that-anti-gaddafi-forces-control-the-town-of-zuwara-120-km-west-of-tripoli.md)
 Libyan leader Moammar Gadhafi,speaking on Libyan state TV, says the protesters have been drugged and sent into the streets.
@@ -25,7 +25,7 @@ _Context: Etta James, Riverside County, California, Superior Court, blues_
 CBS has pulled the plug on “Two and a Half Men”… for now.
 
 ### [Toyota recalls more than two million vehicles in the United States to address problems with accelerator pedals being trapped in floormats. ](/news/2011/02/24/toyota-recalls-more-than-two-million-vehicles-in-the-united-states-to-address-problems-with-accelerator-pedals-being-trapped-in-floormats.md)
-_Context: Toyota, United States, accelerator_
+_Context: Toyota, U.S., accelerator_
 
 ### [Allison Transmission, a maker of transmissions for trucks and buses, is planning an initial public offering expected to raise between US$500 million and $1 billion, according to Reuters, which cites "four sources familiar with the situation." ](/news/2011/02/24/allison-transmission-a-maker-of-transmissions-for-trucks-and-buses-is-planning-an-initial-public-offering-expected-to-raise-between-us-500.md)
 Private equity-backed Allison Transmission has hired banks and is planning an initial public offering that could raise around $1 billion in the third quarter of the year, four sources familiar with the situation said.
@@ -73,7 +73,7 @@ A carbon price scheme will be rolled out from July 2012 with a fixed price for t
 _Context: Providence Public School District, Providence, Rhode Island, School Board_
 
 ### [The United States Space Shuttle Discovery takes off for its final mission. ](/news/2011/02/24/the-united-states-space-shuttle-discovery-takes-off-for-its-final-mission.md)
-_Context: Discovery, United States, final mission_
+_Context: Discovery, U.S., final mission_
 
 ## [Previous Day...](/news/2011/02/23/index.md)
 

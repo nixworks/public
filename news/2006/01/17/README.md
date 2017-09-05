@@ -22,7 +22,7 @@ _Context: Free Software, GNU General Public License, coder, copy protection, pat
 _Context: Chan, Wu Men Guan, i4uuu, museum_
 
 ### [ Taiwanese Premier Frank Hsieh announces his resignation following the defeat of the Democratic Progressive Party in recent elections. ](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.md)
-_Context: Democratic Progressive Party, Frank Hsieh, Premier of Taiwan, recent elections_
+_Context: Democratic Progressive Party, Frank Hsieh, Premier of the Republic of China, recent elections_
 
 ### [ Japanese company Huser's president Susumu Ojima receives a summons of a witness by the Diet because of suspicions etc. that he instructed one-class authorized architect Hidetsugu Aneha to reduce the quantity of reinforced concrete. ](/news/2006/01/17/japanese-company-huser-s-president-susumu-ojima-receives-a-summons-of-a-witness-by-the-diet-because-of-suspicions-etc-that-he-instructed-o.md)
 _Context: Diet, Hidetsugu Aneha, Huser, Susumu Ojima, reinforced concrete, summons, witness_

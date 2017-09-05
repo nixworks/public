@@ -10,7 +10,7 @@ _Context: Pakistan, Shangla District_
 Elinor Ostrom and Oliver Williamson of the United States won the 2009 Nobel Economics Prize on Monday for their work on the organisation of cooperation in economic governance.
 
 ### [ Edgar Allan Poe receives a funeral in Baltimore, USA, 160 years after his death and 200 after his birth. ](/news/2009/10/12/edgar-allan-poe-receives-a-funeral-in-baltimore-usa-160-years-after-his-death-and-200-after-his-birth.md)
-_Context: Baltimore, Edgar Allan Poe, United States, his death_
+_Context: Baltimore, Edgar Allan Poe, U.S., his death_
 
 ### [ Kai Eide of Norway, the top United Nations official in Afghanistan, acknowledges "widespread fraud" took place during the recent presidential election in the country. ](/news/2009/10/12/kai-eide-of-norway-the-top-united-nations-official-in-afghanistan-acknowledges-widespread-fraud-took-place-during-the-recent-presidenti.md)
 The top UN official in Afghanistan today acknowledged &quot;widespread fraud&quot; in the disputed presidential election and rejected allegations from a former deputy that he covered up cheating to smooth the path to victory for President Hamid Karzai.
@@ -28,7 +28,7 @@ _Context: East Timor, Indonesia, crimes against humanity, no confidence_
 Vladimir Putin&#39;s United Russia party has won nearly 80% of the seats in local and regional elections held yesterday.
 
 ### [ Two people are injured in a bomb attack in Milan, Italy, after a Libyan man explodes a device at the entrance of an army barracks. ](/news/2009/10/12/two-people-are-injured-in-a-bomb-attack-in-milan-italy-after-a-libyan-man-explodes-a-device-at-the-entrance-of-an-army-barracks.md)
-_Context: Italian, Libya, Milan_
+_Context: Italy, Libya, Milan_
 
 ### [ India test fires two medium range Prithvi II missiles in the eastern state of Orissa. ](/news/2009/10/12/india-test-fires-two-medium-range-prithvi-ii-missiles-in-the-eastern-state-of-orissa.md)
 _Context: India, Orissa State, Prithvi II_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Both the FBI and NSD declare that they possess no records indicating that Trump Towers in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-towers-in-new-york-city-new-york-was-wiretapped-earlier-in.md) _Context: FBI_
+1. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: FBI_
 2. [The United States State Department orders Russia to close the Consulate-General in San Francisco and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-state-department-orders-russia-to-close-the-consulate-general-in-san-francisco-and-two-other-buildings-by-september-2-201.md) _Context: San Francisco_
 3. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: San Francisco_
 4. [A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detaine.md) _Context: FBI_

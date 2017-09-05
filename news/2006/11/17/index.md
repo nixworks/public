@@ -13,7 +13,7 @@ _Context: Dutch population, Government of the Netherlands, Muslim, bill into law
 _Context: Al Muthanna Governorate, Iraq, Military Intelligence and Security Service, Netherlands, de Volkskrant, governorate_
 
 ### [ Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alofa-yesterday-eight.md)
-_Context: Australia, New Zealand, Nuku'alofa, Tonga, Tongan government, search warrant, state of emergency_
+_Context: Australia, New Zealand, Nuku'alofa, Tonga, Tongan government, search warrant, states of emergency_
 
 ### [ Kazakh President Nursultan Nazarbayev calls on the Government to switch the alphabet used in the Kazakh language from Cyrillic letters to Latin. ](/news/2006/11/17/kazakh-president-nursultan-nazarbayev-calls-on-the-government-to-switch-the-alphabet-used-in-the-kazakh-language-from-cyrillic-letters-to-l.md)
 Kazakhstan is contemplating a switch to the Latin alphabet. With the President Nursultan Nazarbayev himself raising it, observers think it may well become reality. Addressing the Assembly of Peoples 
