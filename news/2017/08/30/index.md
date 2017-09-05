@@ -16,7 +16,7 @@ The death toll from Harvey was rising and officials said their rescue effort was
 _Context: Childhood leukemia, Food and Drug Administration, Novartis, U.S., acute lymphoblastic leukemia, gene therapy_
 
 ### [The Government of Hungary has decided to extend the state of emergency declared last year because of the increased migration to and through the country. Government spokesman Zoltan Kovacs stated that strict border controls were still needed because the "threat of terrorism in Europe has increased". ](/news/2017/08/30/the-government-of-hungary-has-decided-to-extend-the-state-of-emergency-declared-last-year-because-of-the-increased-migration-to-and-through.md)
-_Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, state of emergency_
+_Context: European migrant crisis, Government of Hungary, Zoltan Kovacs, states of emergency_
 
 ### [A shooting at a motel in Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect is later arrested. ](/news/2017/08/30/a-shooting-at-a-motel-in-sacramento-county-california-leaves-a-sacramento-county-sheriff-s-department-deputy-dead-and-two-california-highw.md)
 Deputy Robert French, a 21-year veteran of the Sacramento County Sheriff&#x27;s Department, died from a gunshot wound to his side, Sheriff Scott Jones said.
