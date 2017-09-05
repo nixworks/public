@@ -1,5 +1,8 @@
 ## [2017-09-5](/news/2017/09/5/index.md)
 
+### [The Syrian Army lifts the 28 month long siege of Deir Ezzor by the Islamic State. Syrian President Bashar al-Assad congratulates commanders for the victory. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ezzor-by-the-islamic-state-syrian-president-bashar-al-assad-congratulates-commanders.md)
+BEIRUT, LEBANON (1:40 P.M.) - Minutes ago, the first tank from the Syrian Arab Army&#039;s 17th Division reached the 137th Brigade Base in besieged Deir Ezzor,
+
 ### [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md)
 More than 35,000 new arrivals have been identified in 24 hours, the United Nations says.
 
