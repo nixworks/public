@@ -9,5 +9,8 @@ QC for one plaintiff says ‘putting to the public a vote on her family unit’ 
 ### [Tainan mayor William Lai is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
 _Context: Politics of Taiwan, Premier, President, Tainan, Tsai Ing-wen, William Lai, mayor, the Republic of China_
 
+### [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md)
+Prime Minister Narendra Modi on Tuesday left for Nay Pyi Taw for his first bilateral visit to Myanmar with an aim of charting a roadmap for closer cooperation between the two countries in areas like s
+
 ## [Previous Day...](/news/2017/09/4/index.md)
 
