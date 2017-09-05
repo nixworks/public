@@ -1,6 +1,6 @@
 ### [2017-09-5](/news/2017/09/5/index.md)
 
-# Hurricane Irma strengthens to the status of a maximum Category 5 hurricane, described as "extremely dangerous." The National Hurricane Center predicted that favorable conditions meant that the hurricane would strengthen still further. 
+# Hurricane Irma strengthens to the status of a maximum Category 5 hurricane, described as "extremely dangerous." The National Hurricane Center predicts that Irma could strengthen even more due to favorable conditions. 
 
 
 

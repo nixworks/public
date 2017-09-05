@@ -1,6 +1,6 @@
 ### [2017-09-3](/news/2017/09/3/index.md)
 
-# The La Tuna fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. 
+# The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. 
 
 The La Tuna fire, one of the largest wildfires in Los Angeles&apos; history, burns 5,800 acres as firefighters brace for more extreme heat and dangerous winds.
 
