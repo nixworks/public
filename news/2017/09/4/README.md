@@ -16,7 +16,7 @@ President Trump and South Korean President Moon Jae-in have agreed to&nbsp;remov
 _Context: 'Ndrangheta, Italy, Montevideo, Rocco Morabito, Uruguay_
 
 ### [Premier of the Republic of China Lin Chuan offers his resignation as head of the Executive Branch of Taiwan. ](/news/2017/09/4/premier-of-the-republic-of-china-lin-chuan-offers-his-resignation-as-head-of-the-executive-branch-of-taiwan.md)
-_Context: Executive Branch, Lin Chuan, Premier of the Republic of China, Taiwanese politics_
+_Context: Executive Branch, Lin Chuan, Premier, Taiwanese politics_
 
 ## [Previous Day...](/news/2017/09/3/index.md)
 
