@@ -10,6 +10,7 @@ BEIRUT, LEBANON (1:40 P.M.) - Minutes ago, the first tank from the Syrian Arab A
 1. [Al Masdar](https://www.almasdarnews.com/article/breaking-syrian-army-lifts-siege-deir-ezzor/)
 2. [Al Masdar](https://www.almasdarnews.com/article/president-al-assad-congratulates-three-syrian-commanders-deir-ezzor-victory/)
 3. [BBC](http://bbcspain.localizer.co/news/world-middle-east-41162683)
+4. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/syrian-army-allies-break-islamic-state-siege-in-eastern-city-idUSKCN1BG1G6)
 
 ### Related:
 
