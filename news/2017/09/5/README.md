@@ -6,6 +6,9 @@ More than 35,000 new arrivals have been identified in 24 hours, the United Natio
 ### [The High Court receives a complaint against gay marriage citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-survey-as-unique-and-offensive.md)
 QC for one plaintiff says ‘putting to the public a vote on her family unit’ before heated debate about powers of Bureau of Statistics
 
+### [Hurricane Irma strengthens to the status of a maximum Category 5 hurricane, described as "extremely dangerous." The National Hurricane Center predicted that favorable conditions meant that the hurricane would strengthen still further. ](/news/2017/09/5/hurricane-irma-strengthens-to-the-status-of-a-maximum-category-5-hurricane-described-as-extremely-dangerous-the-national-hurricane-cente.md)
+_Context: 2017 Atlantic hurricane season, Category 5 hurricane, Hurricane Irma_
+
 ### [Tainan mayor William Lai is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
 _Context: Politics of Taiwan, Premier, President, Tainan, Tsai Ing-wen, William Lai, mayor, the Republic of China_
 

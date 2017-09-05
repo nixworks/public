@@ -6,6 +6,9 @@ More than 35,000 new arrivals have been identified in 24 hours, the United Natio
 ### [The High Court receives a complaint against gay marriage citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-receives-a-complaint-against-gay-marriage-citing-the-postal-survey-as-unique-and-offensive.md)
 QC for one plaintiff says ‘putting to the public a vote on her family unit’ before heated debate about powers of Bureau of Statistics
 
+### [Hurricane Irma strengthens to the status of a maximum Category 5 hurricane, described as "extremely dangerous." The National Hurricane Center predicted that favorable conditions meant that the hurricane would strengthen still further. ](/news/2017/09/5/hurricane-irma-strengthens-to-the-status-of-a-maximum-category-5-hurricane-described-as-extremely-dangerous-the-national-hurricane-cente.md)
+_Context: 2017 Atlantic hurricane season, Category 5 hurricane, Hurricane Irma_
+
 ### [Tainan mayor William Lai is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
 _Context: Politics of Taiwan, Premier, President, Tainan, Tsai Ing-wen, William Lai, mayor, the Republic of China_
 
@@ -26,7 +29,7 @@ With a sudden lunge through jihadist lines, the Syrian military and its allies o
 ### [United Technologies Corp will buy airplane parts maker Rockwell Collins for USD$30 Billion, including seven billion in debt previously incurred by Rockwell Collins. ](/news/2017/09/4/united-technologies-corp-will-buy-airplane-parts-maker-rockwell-collins-for-usd-30-billion-including-seven-billion-in-debt-previously-incur.md)
 _Context: Rockwell Collins, United Technologies Corp_
 
-### [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 kp/h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-kp-h-hurricane-warnings-are-issued-for-the-leewa.md)
+### [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km/h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md)
 The island and the state of Florida, have declared states of emergency in anticipation of Irma, which could become the second major storm this year to hit the U.S. East Coast.
 
 ### [South Korean Defense Minister Song Young-moo says it is worth reviewing deployment of U.S. strategic assets (aircraft carriers, nuclear submarines, and B-52 bombers) to South Korea more regularly. ](/news/2017/09/4/south-korean-defense-minister-song-young-moo-says-it-is-worth-reviewing-deployment-of-u-s-strategic-assets-aircraft-carriers-nuclear-subm.md)
