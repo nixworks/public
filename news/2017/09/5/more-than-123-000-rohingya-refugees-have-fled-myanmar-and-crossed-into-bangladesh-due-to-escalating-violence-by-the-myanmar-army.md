@@ -7,7 +7,7 @@ More than 35,000 new arrivals have been identified in 24 hours, the United Natio
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-asia-41158703)
+1. [BBC News](http://www.bbc.com/news/world-asia-41158703)
 2. [Reuters](https://www.reuters.com/article/us-myanmar-rohingya-suukyi/myanmars-suu-kyi-under-pressure-as-almost-125000-rohingya-flee-violence-idUSKCN1BG0MY)
 
 ### Related:

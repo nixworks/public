@@ -7,7 +7,7 @@ The administration may undo the program shielding unauthorized immigrants who ar
 
 ### Source:
 
-1. [ABC News.go](http://abcnews.go.com/Politics/trump-expected-announce-daca-decision-today/story?id=49611829)
+1. [ABC News](http://abcnews.go.com/Politics/trump-expected-announce-daca-decision-today/story?id=49611829)
 2. [CNN](http://www.cnn.com/2017/09/04/politics/daca-dreamers-immigration-program/index.html)
 3. [The Atlantic](https://www.theatlantic.com/politics/archive/2017/09/trump-ends-daca/538248/)
 
