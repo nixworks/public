@@ -7,8 +7,8 @@ With a sudden lunge through jihadist lines, the Syrian military and its allies o
 
 ### Source:
 
-1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/syrian-army-thrusts-east-to-break-siege-of-deir-al-zor-city-idUSKCN1BF1G0)
-2. [Reuters²](https://www.reuters.com/article/us-mideast-crisis-syria-russia/two-russian-soldiers-killed-by-shelling-in-syrias-deir-al-zor-province-ifax-idUSKCN1BF2F7)
+1. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria-russia/two-russian-soldiers-killed-by-shelling-in-syrias-deir-al-zor-province-ifax-idUSKCN1BF2F7)
+2. [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/syrian-army-thrusts-east-to-break-siege-of-deir-al-zor-city-idUSKCN1BF1G0)
 
 ### Related:
 

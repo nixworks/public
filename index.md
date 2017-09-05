@@ -1,15 +1,4 @@
-## [News](/news/2017/09/5/index.md)
-
-### [U.S. President Donald Trump is expected to end the DACA policy, which protects from deportation more than 800,000 so-called "DREAMers," mostly Mexican-born undocumented children who illegally arrived in the United States as minors, in around six months if Congress were to act on it. ](/news/2017/09/5/u-s-president-donald-trump-is-expected-to-end-the-daca-policy-which-protects-from-deportation-more-than-800-000-so-called-dreamers-most.md)
-The administration may undo the program shielding unauthorized immigrants who arrived as children, rolling back a signature Obama-era initiative.
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
----
-
-## [Yesterday](/news/2017/09/4/index.md)
+## [News](/news/2017/09/4/index.md)
 
 ### [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md)
 With a sudden lunge through jihadist lines, the Syrian military and its allies on Monday came to within three kilometers of relieving the Euphrates city of Deir al-Zor, where Islamic State has besieged an army garrison and 93,000 civilians for years.
@@ -29,9 +18,13 @@ _Context: 'Ndrangheta, Italy, Montevideo, Rocco Morabito, Uruguay_
 ### [Premier of the Republic of China Lin Chuan offers his resignation as head of the Executive Branch of Taiwan. ](/news/2017/09/4/premier-of-the-republic-of-china-lin-chuan-offers-his-resignation-as-head-of-the-executive-branch-of-taiwan.md)
 _Context: Executive Branch, Lin Chuan, Premier of the Republic of China, Taiwanese politics_
 
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
 ---
 
-## [Day Before Yesterday](/news/2017/09/3/index.md)
+## [Yesterday](/news/2017/09/3/index.md)
 
 ### [The "Cambodia Daily" announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation, initiated by Prime Minister of Cambodia Hun Sen, into private companies operating in Cambodia. ](/news/2017/09/3/the-cambodia-daily-announces-it-will-publish-its-final-edition-after-being-ordered-to-pay-usd-6-3-million-in-taxes-as-a-result-of-an-inves.md)
 _Context: Cambodia, Cambodia Daily, Hun Sen, Prime Minister of Cambodia_
@@ -50,7 +43,26 @@ The test Sunday was an extraordinary show of defiance by the North’s leader, K
 
 ---
 
-## [Previous Day...](/news/2017/09/2/index.md)
+## [Day Before Yesterday](/news/2017/09/2/index.md)
+
+### [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md)
+Suicide bombers struck a state-run power station north of Baghdad early on Saturday, killing seven people and forcing the facility to shut down in an attack claimed by Islamic State, police and army sources said.
+
+### [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md)
+_Context: FBI, NSD, New York City, Trump Tower, Trump Tower wiretapping allegations, wiretapped_
+
+### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
+Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
+
+### [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md)
+Australia and Timor-Leste resolve their bitter and long-running dispute over maritime boundaries in the Timor Sea.
+
+### [Cambodian opposition leader Kem Sokha is arrested for alleged treason. ](/news/2017/09/2/cambodian-opposition-leader-kem-sokha-is-arrested-for-alleged-treason.md)
+Police in Cambodia arrested the leader of the country&apos;s main opposition party in a surprise raid on his home
+
+---
+
+## [Previous Day...](/news/2017/09/1/index.md)
 
 ---
 
