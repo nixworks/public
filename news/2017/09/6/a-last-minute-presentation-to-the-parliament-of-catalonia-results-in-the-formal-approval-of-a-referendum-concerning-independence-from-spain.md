@@ -1,6 +1,6 @@
 ### [2017-09-6](/news/2017/09/6/index.md)
 
-#  A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. 
+# A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. 
 
 Catalan lawmakers are voting on a bill that will allow regional authorities to officially call an Oct. 1 referendum on a split from Spain, making concrete a years-long defiance of central authorities, who see the vote as illegal. The so-called &quot;referendum bill&quot; was included at the last...
 
