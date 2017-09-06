@@ -9,6 +9,9 @@ The divide between Trump and the business community has only continued to grow s
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
 _Context: Arizona Air National Guard, F-16, Safford, Arizona_
 
+### [Hurricane Irma makes first landfall on Saint Martin. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-saint-martin.md)
+Sustained winds on the ground in Barbuda were recorded at 108 mph.
+
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
 _Context: Brussels', EU, European Court of Justice, European migrant crisis, Hungary, Slovakia_
 
