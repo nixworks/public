@@ -10,13 +10,13 @@ The divide between Trump and the business community has only continued to grow s
 _Context: Stanley Fischer, U.S. Federal Reserve_
 
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
-_Context: 2017 Arizona F-16 crash, Arizona Air National Guard, F-16, Safford, Arizona_
+_Context: Arizona Air National Guard, F-16, Safford, Arizona_
 
 ### [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md)
 Sustained winds on the ground in Barbuda were recorded at 108 mph.
 
-### [ A car crash involving a dump truck kills two people in Coquitlam, British Columbia. ](/news/2017/09/6/a-car-crash-involving-a-dump-truck-kills-two-people-in-coquitlam-british-columbia.md)
-_Context: British Columbia, Coquitlam_
+### [Hurricane watches are issued for the state of Veracruz on Mexico's Gulf coast. Category 1 Katia (75 mph/120 km/h) is about 185 miles off the Mexican coast, slowly moving at 3 mph. ](/news/2017/09/6/hurricane-watches-are-issued-for-the-state-of-veracruz-on-mexico-s-gulf-coast-category-1-katia-75-mph-120-km-h-is-about-185-miles-off-the.md)
+Hurricane Katia has formed in the Gulf of Mexico. Here&#039;s where it will go.
 
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
 _Context: Brussels', EU, European Court of Justice, European migrant crisis, Hungary, Slovakia_
@@ -26,6 +26,9 @@ Catalan lawmakers are voting on a bill that will allow regional authorities to o
 
 ### [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md)
 Lawyers for 15 states, led by New York and Washington, filed suit against President Trump on Wednesday over his planned repeal of the D...
+
+### [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md)
+President Donald Trump forged a surprising deal with Democrats in Congress on Wednesday to extend the U.S. debt limit and provide government funding until Dec. 15, embracing his political adversaries and blindsiding fellow Republicans in a rare bipartisan accord.
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
