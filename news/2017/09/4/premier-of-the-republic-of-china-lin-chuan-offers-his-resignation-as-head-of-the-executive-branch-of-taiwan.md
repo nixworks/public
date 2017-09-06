@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _Context: Politics of Taiwan, Premier_
+1. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _Context: Politics of Taiwan, Premier_
 2. [ The premier of the Republic of China (Taiwan), Liu Chao-shiuan, and his cabinet resign due to criticism and public anger over the slow handling of the disaster during Typhoon Morakot. ](/news/2009/09/7/the-premier-of-the-republic-of-china-taiwan-liu-chao-shiuan-and-his-cabinet-resign-due-to-criticism-and-public-anger-over-the-slow-hand.md) _Context: Executive Branch, Premier_
 3. [Jiang Yi-huah resigns as the Premier of Taiwan as the ruling Kuomintang suffers heavy losses in local government elections. ](/news/2014/11/29/jiang-yi-huah-resigns-as-the-premier-of-taiwan-as-the-ruling-kuomintang-suffers-heavy-losses-in-local-government-elections.md) _Context: Premier_
 4. [Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. ](/news/2014/03/23/protesters-opposed-to-the-vote-of-the-cross-strait-trade-agreement-without-a-clause-by-clause-review-continue-to-occupy-the-taiwanese-parlia.md) _Context: Executive Branch_

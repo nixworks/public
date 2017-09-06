@@ -21,6 +21,9 @@ The US orders Russia to close its San Francisco consulate in response to &quot;u
 ### [Two police officials found guilty of negligence and mistreatment of evidence are sentenced to 17 years in prison. Five accused TTP militants are acquitted. The main suspect, former president Pervez Musharraf, who now resides in Dubai, is declared a fugitive for having failed to show up in court and has his property confiscated. ](/news/2017/08/31/two-police-officials-found-guilty-of-negligence-and-mistreatment-of-evidence-are-sentenced-to-17-years-in-prison-five-accused-ttp-militants.md)
 Former military dictator has property confiscated as anti-terror court jails two police officials in relation to 2007 assassination
 
+### [Footage is released showing police officer Jeff Payne arresting the nurse Alex Wubbels after she refuses his request to draw blood from one of her patients. ](/news/2017/08/31/footage-is-released-showing-police-officer-jeff-payne-arresting-the-nurse-alex-wubbels-after-she-refuses-his-request-to-draw-blood-from-one.md)
+A nurse says she was assaulted and illegally arrested by a Salt Lake City police detective for following a hospital policy that does not allow blood draws from unconscious patients.
+
 ### [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md)
 _Context: 19th National Congress, Communist Party of China, Politics of China_
 
