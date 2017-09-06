@@ -6,13 +6,16 @@ Pope Francis is due to travel to Colombia today for a five day visit. He will be
 ### [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md)
 The divide between Trump and the business community has only continued to grow since he took office less than nine months ago.
 
+### [U.S. Federal Reserve Vice Chair Stanley Fischer announces he will resign in mid-October, eight months before his term expires. ](/news/2017/09/6/u-s-federal-reserve-vice-chair-stanley-fischer-announces-he-will-resign-in-mid-october-eight-months-before-his-term-expires.md)
+_Context: Stanley Fischer, U.S. Federal Reserve_
+
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
 _Context: 2017 Arizona F-16 crash, Arizona Air National Guard, F-16, Safford, Arizona_
 
 ### [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md)
 Sustained winds on the ground in Barbuda were recorded at 108 mph.
 
-### [ A car crash involving a dump truck kills two people in Coquitlam, British Columbia ](/news/2017/09/6/a-car-crash-involving-a-dump-truck-kills-two-people-in-coquitlam-british-columbia.md)
+### [ A car crash involving a dump truck kills two people in Coquitlam, British Columbia. ](/news/2017/09/6/a-car-crash-involving-a-dump-truck-kills-two-people-in-coquitlam-british-columbia.md)
 _Context: British Columbia, Coquitlam_
 
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
@@ -20,6 +23,9 @@ _Context: Brussels', EU, European Court of Justice, European migrant crisis, Hun
 
 ### [A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. ](/news/2017/09/6/a-last-minute-presentation-to-the-parliament-of-catalonia-results-in-the-formal-approval-of-a-referendum-concerning-independence-from-spain.md)
 Catalan lawmakers are voting on a bill that will allow regional authorities to officially call an Oct. 1 referendum on a split from Spain, making concrete a years-long defiance of central authorities, who see the vote as illegal. The so-called &quot;referendum bill&quot; was included at the last...
+
+### [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md)
+Lawyers for 15 states, led by New York and Washington, filed suit against President Trump on Wednesday over his planned repeal of the D...
 
 ## [Previous Day...](/news/2017/09/5/index.md)
 

@@ -1,6 +1,6 @@
 ### [2017-09-6](/news/2017/09/6/index.md)
 
-#  A car crash involving a dump truck kills two people in Coquitlam, British Columbia 
+#  A car crash involving a dump truck kills two people in Coquitlam, British Columbia. 
 
 
 

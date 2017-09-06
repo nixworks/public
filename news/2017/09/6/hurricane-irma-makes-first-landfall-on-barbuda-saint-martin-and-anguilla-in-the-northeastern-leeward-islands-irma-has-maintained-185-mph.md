@@ -9,7 +9,8 @@ Sustained winds on the ground in Barbuda were recorded at 108 mph.
 
 1. [ABC News](http://abcnews.go.com/US/hurricane-irma-slams-caribbean-florida-face-direct-impacts/story?id=49645643)
 2. [CNN](http://www.cnn.com/2017/09/06/us/hurricane-irma-puerto-rico-florida/index.html)
-3. [The Guardian](https://www.theguardian.com/world/live/2017/sep/06/hurricane-irma-caribbean-islands-category-5-storm?page=with:block-59afd634e4b046d20d3e8a02#block-59afd634e4b046d20d3e8a02)
+3. [KCRA-TV](http://www.kcra.com/article/path-of-irma/12182287)
+4. [The Guardian](https://www.theguardian.com/world/live/2017/sep/06/hurricane-irma-caribbean-islands-category-5-storm?page=with:block-59afd634e4b046d20d3e8a02#block-59afd634e4b046d20d3e8a02)
 
 ### Related:
 
