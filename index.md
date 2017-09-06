@@ -7,7 +7,7 @@ Pope Francis is due to travel to Colombia today for a five day visit. He will be
 The divide between Trump and the business community has only continued to grow since he took office less than nine months ago.
 
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
-_Context: 2017 Arisona F-16 crash, Arizona Air National Guard, F-16, Safford, Arizona_
+_Context: 2017 Arizona F-16 crash, Arizona Air National Guard, F-16, Safford, Arizona_
 
 ### [Hurricane Irma makes first landfall on Saint Martin. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-saint-martin.md)
 Sustained winds on the ground in Barbuda were recorded at 108 mph.
