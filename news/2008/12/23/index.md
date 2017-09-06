@@ -1,7 +1,7 @@
 ## [2008-12-23](/news/2008/12/23/index.md)
 
 ### [ Indian Prime Minister Manmohan Singh denies reports of possible war with Pakistan over the November terrorist attacks in Mumbai. ](/news/2008/12/23/indian-prime-minister-manmohan-singh-denies-reports-of-possible-war-with-pakistan-over-the-november-terrorist-attacks-in-mumbai.md)
-_Context: India, India's Prime Minister, Manmohan Singh, Mumbai, November terrorist attacks, Pakistan_
+_Context: India, Manmohan Singh, Mumbai, November terrorist attacks, Pakistan, Prime Minister_
 
 ### [ Sri Lankan Civil War: Heavy fighting continues as part of the Northern offensive between the country's Army and the Liberation Tigers of Tamil Eelam around the city of Kilinochchi. ](/news/2008/12/23/sri-lankan-civil-war-heavy-fighting-continues-as-part-of-the-northern-offensive-between-the-country-s-army-and-the-liberation-tigers-of-ta.md)
 _Context: 2008 SLA Northern offensive, Army, Kilinochchi, LTTE, Sri Lanka, Sri Lankan Civil War_

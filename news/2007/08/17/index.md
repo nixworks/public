@@ -40,7 +40,7 @@ _Context: Ashley Mote, Member of the European Parliament, South East England, fr
 Hurricane Dean has intensified and developed into a category three hurricane, with winds reaching 200 kilometres per hour, the United States National Hurricane Centre has announced.
 
 ### [ Stock prices in the United States and Europe rally after the Federal Reserve cuts its discount lending rate to restore confidence in the banking sector after the subprime mortgage crisis. ](/news/2007/08/17/stock-prices-in-the-united-states-and-europe-rally-after-the-federal-reserve-cuts-its-discount-lending-rate-to-restore-confidence-in-the-ba.md)
-_Context: Europe, Federal Reserve, U.S., housing crisis_
+_Context: Europe, Federal Reserve, United States, housing crisis_
 
 ### [ The death toll from the 2007 Peru earthquake rises to 510 with another 1,500 people being injured. Aid reaches affected areas with President Alan Garca appealing for calm after reports of looting. ](/news/2007/08/17/the-death-toll-from-the-2007-peru-earthquake-rises-to-510-with-another-1-500-people-being-injured-aid-reaches-affected-areas-with-presiden.md)
 _Context: 2007 Peru earthquake, Alan Garcia, President, illegally taken out_
@@ -61,7 +61,7 @@ The Age 404 Page
 Federal Indigenous Affairs Minister Mal Brough says the passing of the Commonwealth&#039;s Northern Territory Indigenous intervention legislation in the Senate gives the Government the authority to do what is necessary to secure the future of Aboriginal communities.
 
 ### [ 2007 Pacific typhoon season: Southeast China and Taiwan prepare for typhoon Sepat. ](/news/2007/08/17/2007-pacific-typhoon-season-southeast-china-and-taiwan-prepare-for-typhoon-sepat.md)
-_Context: 2007 Pacific typhoon season, China, Taiwan, Typhoon Sepat_
+_Context: 2007 Pacific typhoon season, China, Typhoon Sepat, the Republic of China_
 
 ### [ Six Islamic militants involved in planning the 2002 Bali bombings have their sentences reduced by five months due to good behaviour. ](/news/2007/08/17/six-islamic-militants-involved-in-planning-the-2002-bali-bombings-have-their-sentences-reduced-by-five-months-due-to-good-behaviour.md)
 _Context: 2002 Bali bombings, Muslims_

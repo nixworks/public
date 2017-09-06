@@ -16,7 +16,7 @@ Indonesian Navy confirms the cockpit voice recorder from the AirAsia plane that 
 _Context: Mozambique, contaminated beer_
 
 ### [The World Health Organization monitors an avian flu outbreak in Taiwan, as H5N8 avian flu virus infects nine farms. ](/news/2015/01/13/the-world-health-organization-monitors-an-avian-flu-outbreak-in-taiwan-as-h5n8-avian-flu-virus-infects-nine-farms.md)
-_Context: H5N8, Taiwan, World Health Organization, avian flu_
+_Context: H5N8, World Health Organization, avian flu, the Republic of China_
 
 ### [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md)
 _Context: China, Ebola virus epidemic in West Africa, People's Liberation Army, West Africa_

@@ -25,7 +25,7 @@ Heroic rescue efforts by the army have rescued 14,000 people days after Uttarakh
 _Context: Alberta, Calgary, Alberta, Canada, flooding in Alberta_
 
 ### [Taiwan reports the first human case of the H6N1 virus. ](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.md)
-_Context: H6N1, Taiwan_
+_Context: H6N1, the Republic of China_
 
 ### [Edward Snowden is charged by the United States with espionage. ](/news/2013/06/21/edward-snowden-is-charged-by-the-united-states-with-espionage.md)
 Hong Kong authorities asked to arrest leaker of documents that revealed secret surveillance program

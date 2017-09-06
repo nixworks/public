@@ -16,13 +16,13 @@ Pro-establishment group threatens to move against red shirts if government fails
 _Context: Timothy Torlot, United Kingdom, Yemen, suicide bombing_
 
 ### [Former dictator of Panama, Manuel Noriega is extradited from the United States to France. ](/news/2010/04/26/former-dictator-of-panama-manuel-noriega-is-extradited-from-the-united-states-to-france.md)
-_Context: France, Manuel Noriega, Panama, U.S., extradited_
+_Context: France, Manuel Noriega, Panama, United States, extradited_
 
 ### [Noma, located in Copenhagen, Denmark, is named as the "world's best restaurant" in "Restaurant" magazine's annual survey. ](/news/2010/04/26/noma-located-in-copenhagen-denmark-is-named-as-the-world-s-best-restaurant-in-restaurant-magazine-s-annual-survey.md)
 _Context: ''Restaurant'', Copenhagen, Denmark, Noma, annual survey_
 
 ### [ A 6.5~6.9 earthquake strikes near Taitung, south east of Taiwan. ](/news/2010/04/26/a-6-5-6-9-earthquake-strikes-near-taitung-south-east-of-taiwan.md)
-_Context: 6.5~6.9 earthquake, Taitung, Taiwan_
+_Context: 6.5~6.9 earthquake, Taitung, the Republic of China_
 
 ### [By a 6-5 margin, a United States federal appeals court rules that a sex-discrimination lawsuit, the largest employment discrimination case in history, against Wal-Mart can continue. ](/news/2010/04/26/by-a-6-5-margin-a-united-states-federal-appeals-court-rules-that-a-sex-discrimination-lawsuit-the-largest-employment-discrimination-case-i.md)
 Pay and promotions are at the root of a class action case first filed by six women in 2001 against the retailer.

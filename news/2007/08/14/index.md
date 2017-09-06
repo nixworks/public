@@ -91,7 +91,7 @@ _Context: Malaya Vishera, Novgorod, Russia, bomb, prosecutor, terrorism_
 South Australian Liberal Senator Alan Ferguson has been elected as the new Senate President.
 
 ### [ A Taiwanese court clears Ma Ying-jeou, the Kuomintang Party candidate for President of the Republic of China, of charges of corruption dating from when he was the mayor of Taipei. ](/news/2007/08/14/a-taiwanese-court-clears-ma-ying-jeou-the-kuomintang-party-candidate-for-president-of-the-republic-of-china-of-charges-of-corruption-dati.md)
-_Context: Kuomintang Party, Ma Ying-jeou, President of Taiwan, Taipei, Taiwan, mayor_
+_Context: Kuomintang Party, Ma Ying-jeou, President, Taipei, mayor, the Republic of China_
 
 ### [ Hundreds of people die in North Korea after days of torrential rain. ](/news/2007/08/14/hundreds-of-people-die-in-north-korea-after-days-of-torrential-rain.md)
 _Context: North Korea, rain_

@@ -4,7 +4,7 @@
 _Context: Karl Rove, Lawrence O'Donnell, MSNBC, Matthew Cooper, The McLaughlin Group, Valerie Plame, political analyst_
 
 ### [ Indian Prime Minister Manmohan Singh unveils the Sethusamudram Shipping Canal Project amidst protests from fishermen and environmentalists. Nearly 600 are arrested. ](/news/2005/07/2/indian-prime-minister-manmohan-singh-unveils-the-sethusamudram-shipping-canal-project-amidst-protests-from-fishermen-and-environmentalists.md)
-_Context: India, India's Prime Minister, Manmohan Singh, Sethusamudram Shipping Canal Project, environmentalist, fishermen_
+_Context: India, Manmohan Singh, Prime Minister, Sethusamudram Shipping Canal Project, environmentalist, fishermen_
 
 ### [ The Live 8 concerts begin their globe-spanning tour in Tokyo. Several famous artists and musical groups are joining in this effort to raise awareness about poverty and AIDS in the leadup to the G8 summit and on the anniversary of the 1985 Live Aid concerts. (Wikinews), [http://www.wired.com/news/digiwood/0,1412,68069,00.html?tw=rss.TOP (Wired)], [http://www.theglobeandmail.com/servlet/story/RTGAM.20050702.weight0702/BNStory/Entertainment/ (Globe and Mail)], [http://www.latimes.com/news/politics/la-et-live2jul02,1,7633303.story?coll=la-headlines-politics (LA Times)]. Related information: [http://www.live8live.com/ (Live 8 home page)], ONE Campaign, [http://music.aol.com/ (AOL Music (live webcast))]](/news/2005/07/2/the-live-8-concerts-begin-their-globe-spanning-tour-in-tokyo-several-famous-artists-and-musical-groups-are-joining-in-this-effort-to-raise.md)
 _Context: (Wikinews), 1985, AIDS, Group of Eight, Live 8, Live Aid, ONE Campaign, Tokyo, poverty_

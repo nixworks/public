@@ -4,7 +4,7 @@
 _Context: Bertie Ahern, Dublin, Easter Rising, Kilmainham Jail, Taoiseach_
 
 ### [ Hu Jintao, General Secretary of the Communist Party of China, holds an official meeting and banquet with the Honorary Chairman of the Nationalist Party of China (Kuomintang), Lien Chan. The two reached on the new "15 Favourable Policies" on relations between the Chinese mainland and Taiwan. ](/news/2006/04/16/hu-jintao-general-secretary-of-the-communist-party-of-china-holds-an-official-meeting-and-banquet-with-the-honorary-chairman-of-the-natio.md)
-_Context: Communist Party general secretary, Hu Jintao, Lien Chan, Nationalist Party of China, Taiwan_
+_Context: Communist Party general secretary, Hu Jintao, Lien Chan, Nationalist Party of China, the Republic of China_
 
 ## [Previous Day...](/news/2006/04/15/index.md)
 

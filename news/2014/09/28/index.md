@@ -19,7 +19,7 @@ Video shows the vehicle revving its engines before launching over the top of car
 Tens of thousands join mass civil disobedience over voting rights as authorities promise crackdown on sit-in
 
 ### [A student protester hurls the book "Formosa Betrayed" at President Ma Ying-jeou of Taiwan and hits the president; the Presidential Office condemns the act of violence. ](/news/2014/09/28/a-student-protester-hurls-the-book-formosa-betrayed-at-president-ma-ying-jeou-of-taiwan-and-hits-the-president-the-presidential-office-co.md)
-_Context: ''Formosa Betrayed'', Ma Ying-jeou, Presidential Office, Taiwan_
+_Context: ''Formosa Betrayed'', Ma Ying-jeou, Presidential Office, the Republic of China_
 
 ### [Antnio Costa, mayor of Lisbon, wins a landslide in the Portuguese Socialist Party prime ministerial primary against the incumbent Antnio Jos Seguro.](/news/2014/09/28/antonio-costa-mayor-of-lisbon-wins-a-landslide-in-the-portuguese-socialist-party-prime-ministerial-primary-against-the-incumbent-antonio-j.md)
 _Context: Antnio Costa, Antnio Jos Seguro, Lisbon, Portuguese Socialist Party prime ministerial primary_

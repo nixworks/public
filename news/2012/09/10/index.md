@@ -34,7 +34,7 @@ WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially
 _Context: IAEA, IAEA inspectors, Iran, Parchin, Yukiya Amano, contentious, nuclear program_
 
 ### [The Japanese government announces it will soon buy the disputed Senkaku Islands claimed by China (as Diaoyu Islands) and Taiwan (as Tiaoyutai Islands). Chinese leaders respond angrily. ](/news/2012/09/10/the-japanese-government-announces-it-will-soon-buy-the-disputed-senkaku-islands-claimed-by-china-as-diaoyu-islands-and-taiwan-as-tiaoyuta.md)
-_Context: China, Japanese government, Senkaku Islands, Senkaku Islands dispute, Taiwan, government_
+_Context: China, Japanese government, Senkaku Islands, Senkaku Islands dispute, government, the Republic of China_
 
 ### [The International Steering Group for Kosovo formally ends its supervision of the partially recognised Republic of Kosovo. ](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.md)
 _Context: International Steering Group for Kosovo, Kosovo_

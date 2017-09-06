@@ -4,7 +4,7 @@
 _Context: 2005 Kashmir earthquake, 8 October_
 
 ### [ Hurricane Wilma goes through one of the fastest and most amazing rapid intensification processes in hurricane history to become the third Category 5 storm of 2005. Its central pressure falls to 882 mb (hPa), becoming the most intense hurricane ever recorded in the Atlantic. To date, the 2005 Atlantic Basin Hurricane Season has seen 21 storms of tropical storm strength or greater and 12 hurricanes, both of which tie the records set in 1933 and 1969, respectively. ](/news/2005/10/19/hurricane-wilma-goes-through-one-of-the-fastest-and-most-amazing-rapid-intensification-processes-in-hurricane-history-to-become-the-third-c.md)
-_Context: 1933, 1969, 2005 Atlantic hurricane season, Wilma, hPa, mb_
+_Context: 1933, 1969, 2005 Atlantic hurricane season, Hurricane Wilma, hPa, mb_
 
 ### [ Saddam Hussein goes on trial in Baghdad for crimes against humanity. The former President of Iraq is led into court with seven associates, charged with ordering the killing of 143 Shi'a men in the town of Dujail in 1982. If convicted, Hussein could face capital punishment. ](/news/2005/10/19/saddam-hussein-goes-on-trial-in-baghdad-for-crimes-against-humanity-the-former-president-of-iraq-is-led-into-court-with-seven-associates.md)
 _Context: 1982, Baghdad, Dujail, President, Saddam Hussein, Shi'a, capital punishment, trial_

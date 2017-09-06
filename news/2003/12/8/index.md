@@ -4,7 +4,7 @@
 _Context: GMO, Trade war over genetically modified food, genetically modified wheat_
 
 ### [The United States Congress passes the Can Spam Act of 2003. [http://www.infoworld.com/article/03/12/08/HNspambill_1.html]](/news/2003/12/8/the-united-states-congress-passes-the-can-spam-act-of-2003-http-www-infoworld-com-article-03-12-08-hnspambill_1-html.md)
-_Context: CAN-SPAM Act of 2003, Congress_
+_Context: CAN-SPAM Act of 2003, United States Congress_
 
 ### [King Harald V of Norway successfully undergoes a 5-hour cancer operation in which his bladder is removed and a new one constructed, at Rikshospitalet University Hospital in Oslo. [http://www.aftenposten.no/english/local/article.jhtml?articleID=686979]](/news/2003/12/8/king-harald-v-of-norway-successfully-undergoes-a-51-2-hour-cancer-operation-in-which-his-bladder-is-removed-and-a-new-one-constructed-at-riks.md)
 _Context: King, Norway, Oslo, cancer_

@@ -16,7 +16,7 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 _Context: Islamic State of Iraq and the Levant, Steven Sotloff, Syrian Civil War_
 
 ### [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
-_Context: Iraqi insurgency (2011-present), U.S._
+_Context: Iraqi insurgency (2011-present), United States_
 
 ### [Former Kenyan presidential candidate Quincy Timberlake is charged with murder in the Australian city of Brisbane. ](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.md)
 Former presidential hopeful charged with murder of boy.

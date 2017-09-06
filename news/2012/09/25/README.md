@@ -13,7 +13,7 @@ Seven people - mainly members of the security forces - are killed in a blast in 
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
 ### [American singer Andy Williams dies at the age of 84 at his home in Branson, Missouri. ](/news/2012/09/25/american-singer-andy-williams-dies-at-the-age-of-84-at-his-home-in-branson-missouri.md)
-_Context: Andy Williams, Branson, Missouri, U.S._
+_Context: Andy Williams, Branson, Missouri, United States_
 
 ### [A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. ](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-california-peninsula-with-no-immediate-reports-of-injuries-or-damage.md)
 _Context: Baja California Peninsula, magnitude_
@@ -22,7 +22,7 @@ _Context: Baja California Peninsula, magnitude_
 * U.N. health agency gives global guidance on reporting newvirus* Two cases so far, Saudi and Qatari who went to Saudi* WHO working with Sau
 
 ### [Over 50 Taiwanese ships clash with ships from the Japan Coast Guard in waters off the Senkaku Islands. ](/news/2012/09/25/over-50-taiwanese-ships-clash-with-ships-from-the-japan-coast-guard-in-waters-off-the-senkaku-islands.md)
-_Context: Japan Coast Guard, Senkaku Islands, Taiwan_
+_Context: Japan Coast Guard, Senkaku Islands, the Republic of China_
 
 ### [South Korea expresses concern over China's plan to monitor the disputed Socotra Rock area with unmanned drones. ](/news/2012/09/25/south-korea-expresses-concern-over-china-s-plan-to-monitor-the-disputed-socotra-rock-area-with-unmanned-drones.md)
 SEOUL, Sept. 25 (Yonhap) -- South Korea is seeking to verify media reports that China plans to use unmanned drones to conduct marine surveillance of a submerged South Korean rocky outcropping in waters south of Jeju Island, officials said Tuesday.

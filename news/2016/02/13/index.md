@@ -10,7 +10,7 @@ Taliban insurgents in captured military Humvee vehicles launched suicide attacks
 Malian Islamist militant group Ansar Dine said it carried out a suicide and rocket attack on a U.N. base in Kidal, north Mali on Friday that killed six peacekeepers, the SITE Intelligence Group said.
 
 ### [The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. ](/news/2016/02/13/the-death-toll-from-the-earthquake-rises-to-113-with-four-people-still-in-the-rubble-of-the-weiguan-golden-dragon-high-rise-tower-in-tainan.md)
-_Context: 2016 Taiwan earthquake, Tainan's_
+_Context: 2016 Taiwan earthquake, Tainan_
 
 ### [A huge fire engulfs the under-construction Abu Dhabi Plaza in Astana, Kazakhstan. ](/news/2016/02/13/a-huge-fire-engulfs-the-under-construction-abu-dhabi-plaza-in-astana-kazakhstan.md)
 An 88-story tower still under construction in Kazakhstan’s capital, Astana, was engulfed in a massive blaze early on Saturday. Amateur footage showed the high-rise, dubbed Abu Dhabi Plaza, lit up like an enormous torch.

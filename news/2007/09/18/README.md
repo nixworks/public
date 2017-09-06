@@ -4,7 +4,7 @@
 Dozens of people living in a Peruvian town near Lake Titicaca reported vomiting and headaches after they went to look at a crater apparently left by a meteorite that crashed down over the weekend, health officials said on Tuesday.
 
 ### [ Nuclear program of Iran: The United States is drafting a United Nations Security Council resolution calling for sanctions against Iran prior to discussions amongst the five permanent members. ](/news/2007/09/18/nuclear-program-of-iran-the-united-states-is-drafting-a-united-nations-security-council-resolution-calling-for-sanctions-against-iran-prio.md)
-_Context: Iran, U.S., United Nations Security Council, nuclear program, sanctions_
+_Context: Iran, United Nations Security Council, United States, nuclear program, sanctions_
 
 ### [ The United States Federal Reserve cuts a key short-term interest rate by a half-percentage point, resulting in a stock market rally. ](/news/2007/09/18/the-united-states-federal-reserve-cuts-a-key-short-term-interest-rate-by-a-half-percentage-point-resulting-in-a-stock-market-rally.md)
 _Context: United States Federal Reserve, interest rates, stock market_

@@ -25,7 +25,7 @@ _Context: France, Mount Kanguru, Nepal, Sherpa, mountaineering_
 _Context: Alan Greenspan, Ben Bernanke, Federal Reserve Board, George W. Bush_
 
 ### [ Hurricane Wilma hits South Florida with Category 3 and makes landfall.](/news/2005/10/24/hurricane-wilma-hits-south-florida-with-category-3-and-makes-landfall.md)
-_Context: Florida, Wilma, hurricane_
+_Context: Florida, Hurricane Wilma, hurricane_
 
 ### [ Xbox Live is shut down to upgrade for the Xbox 360.](/news/2005/10/24/xbox-live-is-shut-down-to-upgrade-for-the-xbox-360.md)
 _Context: Xbox 360, Xbox Live_

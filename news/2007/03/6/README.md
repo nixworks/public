@@ -4,13 +4,13 @@
 _Context:  in a crowd of Muslim pilgrims, Al Hillah, Iraq War, suicide bomb_
 
 ### [ Foreign Minister of People's Republic of China Li Zhaoxing criticises President of the Republic of China Chen Shui-bian for making calls for Taiwan independence. ](/news/2007/03/6/foreign-minister-of-people-s-republic-of-china-li-zhaoxing-criticises-president-of-the-republic-of-china-chen-shui-bian-for-making-calls-fo.md)
-_Context: Chen Shui-bian, China, Foreign Minister, Li Zhaoxing, President of Taiwan, independence_
+_Context: Chen Shui-bian, China, Foreign Minister, Li Zhaoxing, President, independence_
 
 ### [ "United States v. Libby": Former Bush administration aide Lewis Libby is found guilty of perjury and obstruction of justice. ](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.md)
 _Context: George W. Bush administration, Scooter Libby, United States v. Libby, obstruction of justice, perjury_
 
 ### [ The United States Congress opens hearings into the dismissal of eight U.S. Attorneys, probing whether the Bush Administration had political motives for ousting the federal prosecutors. ](/news/2007/03/6/the-united-states-congress-opens-hearings-into-the-dismissal-of-eight-u-s-attorneys-probing-whether-the-bush-administration-had-political.md)
-_Context: Bush Administration, Congress, federal prosecutors, firings_
+_Context: Bush Administration, United States Congress, federal prosecutors, firings_
 
 ### [ Heavy security operations begin in Bogota, Colombia, for the visit of U.S. President Bush on March 11. Security forces expect protests on Wednesday. ](/news/2007/03/6/heavy-security-operations-begin-in-bogota-colombia-for-the-visit-of-u-s-president-bush-on-march-11-security-forces-expect-protests-on.md)
 _Context: Bogota, Colombia, George W. Bush, March 11, President, protest_

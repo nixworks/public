@@ -22,13 +22,13 @@ _Context: Bundu dia Kongo, Democratic Republic of the Congo, police_
 _Context: Darfur, Sudan, United Nations, World Food Programme, carjacking, food aid, truck_
 
 ### [ Hundreds of thousands of Taiwanese participate in rival political rallies ahead of the 2008 presidential election. ](/news/2008/03/16/hundreds-of-thousands-of-taiwanese-participate-in-rival-political-rallies-ahead-of-the-2008-presidential-election.md)
-_Context: 2008 presidential election, Taiwan, rallies_
+_Context: 2008 presidential election, rallies, the Republic of China_
 
 ### [ The United National Liberation Front attacks an Indian Army camp in Minou, in the Chandel district of Manipur, killing at least six soldiers. ](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.md)
 _Context: Chandel, India, Indian Army, Manipur, Minou, United National Liberation Front_
 
 ### [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md)
-_Context: Pakistan, South Waziristan, U.S., United States Army, Wana, rocket attacks, strike, tribe_
+_Context: Pakistan, South Waziristan, United States, United States Army, Wana, rocket attacks, strike, tribe_
 
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)
 _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
@@ -37,7 +37,7 @@ _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_
 _Context: 2008 municipal elections, France, Nicolas Sarkozy, President of France, UMP_
 
 ### [ United States Senator and Republican candidate to the 2008 presidential election John McCain makes a surprise visit to Iraq. ](/news/2008/03/16/united-states-senator-and-republican-candidate-to-the-2008-presidential-election-john-mccain-makes-a-surprise-visit-to-iraq.md)
-_Context: 2008, Iraq, John McCain, Republican candidate, U.S., United States Senator_
+_Context: 2008, Iraq, John McCain, Republican candidate, United States, United States Senator_
 
 ### [ Italian airline Alitalia is purchased by a consortium of Air France and KLM for EUR138 million. ](/news/2008/03/16/italian-airline-alitalia-is-purchased-by-a-consortium-of-air-france-and-klm-for-a-138-million.md)
 _Context: Air France, Alitalia, EUR, Italy, KLM_

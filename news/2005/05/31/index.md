@@ -10,7 +10,7 @@ _Context: Mirjana Markovic, Serbia, Slobodan Milosevic_
 _Context: Haiti, June 24, United Nations Security Council, peacekeepers_
 
 ### [ In Botswana, Australian lecturer Kenneth Good loses his appeal against deportation. He had criticized the government of president Festus Mogae ](/news/2005/05/31/in-botswana-australian-lecturer-kenneth-good-loses-his-appeal-against-deportation-he-had-criticized-the-government-of-president-festus-mo.md)
-_Context: Botswana, Festus Mogae, deportation_
+_Context: Botswana, Festus Mogae, deportees_
 
 ### [ India opens new naval base in Karwar in the state of Karnataka ](/news/2005/05/31/india-opens-new-naval-base-in-karwar-in-the-state-of-karnataka.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News

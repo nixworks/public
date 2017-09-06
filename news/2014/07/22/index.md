@@ -16,7 +16,7 @@ The search for victims of the Malaysia Airlines crash in Ukraine must go on as o
 A suicide driver rammed his explosive-laden car into a police checkpoint in the Iraqi capital killing 21 people, including more than a dozen civilians en route to a Shiite shrine in the final days of the Islamic holy month.
 
 ### [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md)
-_Context: China, Taiwan_
+_Context: China, the Republic of China_
 
 ### [Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/ivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md)
 _Context: Moscow Metro_

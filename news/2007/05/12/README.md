@@ -13,7 +13,7 @@ _Context: Altaf Hussain, Karachi, Muttahida Qaumi Movement, Pakistan_
 _Context: 2007 Eurovision Song Contest, Finland, Helsinki, Molitva, Serbia_
 
 ### [ Su Tseng-Chang resigns as the Premier of the Republic of China (Taiwan) following a loss in a primary election to be the Democratic Progressive Party candidate in the 2008 Taiwanese presidential election. ](/news/2007/05/12/su-tseng-chang-resigns-as-the-premier-of-the-republic-of-china-taiwan-following-a-loss-in-a-primary-election-to-be-the-democratic-progres.md)
-_Context: 2008 presidential election, Democratic Progressive Party, Premier of the Republic of China, Su Tseng-Chang, primary election_
+_Context: 2008 presidential election, Democratic Progressive Party, Premier, Su Tseng-Chang, primary election_
 
 ### [ Voters in Armenia go to the polls to elect a new National Assembly of Armenia. ](/news/2007/05/12/voters-in-armenia-go-to-the-polls-to-elect-a-new-national-assembly-of-armenia.md)
 _Context: Armenia, National Assembly of Armenia, elect_

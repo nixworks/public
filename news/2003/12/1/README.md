@@ -4,7 +4,7 @@
 _Context: Iraq, currency_
 
 ### [ US Health Secretary Tommy Thompson warns that the world is losing the war against AIDS. Thompson said, "We need America, the European Union and everybody. Nobody is going to be spared unless we all come together in the fight against this disease." ](/news/2003/12/1/us-health-secretary-tommy-thompson-warns-that-the-world-is-losing-the-war-against-aids-thompson-said-we-need-america-the-european-union.md)
-_Context: AIDS, European Union, Health and Human Services Secretary, Tommy Thompson, U.S._
+_Context: AIDS, European Union, Health and Human Services Secretary, Tommy Thompson, United States_
 
 ### [ The UN's International Criminal Tribunal for Rwanda hands down a life sentence to Juvenal Kajelijeli, a former mayor of Mukingo, for his role in the 1994 genocide in which more than 500,000 Rwandans were killed. [http://story.news.yahoo.com/news?tmpl=story&cid=515&ncid=723&e=5&u=/ap/20031201/ap_on_re_af/un_rwanda_tribunal]](/news/2003/12/1/the-un-s-international-criminal-tribunal-for-rwanda-hands-down-a-life-sentence-to-juvenal-kajelijeli-a-former-mayor-of-mukingo-for-his-ro.md)
 _Context: 1994, International Criminal Tribunal for Rwanda, Juvenal Kajelijeli, Mukingo, Rwanda, UN, genocide_
@@ -13,7 +13,7 @@ _Context: 1994, International Criminal Tribunal for Rwanda, Juvenal Kajelijeli, 
 _Context: Crown Prince Haakon, December 8, King, cancer, regent_
 
 ### [ President Chen Shui-bian says that the hundreds of missiles the People's Republic of China has aimed at Taiwan justifies holding a referendum on independence. The referendum bill recently passed by the Legislative Yuan only allows votes on sovereignty if the country is attacked by a foreign power. [http://news.bbc.co.uk/2/hi/asia-pacific/3252246.stm]](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.md)
-_Context: Chen Shui-bian, China, President of Taiwan, Taiwan, Taiwan, independence, legislative chamber_
+_Context: Chen Shui-bian, China, President, Taiwan, independence, legislative chamber, the Republic of China_
 
 ### [ Boeing Chairman and Chief Executive Officer Phil Condit resigns, a week after the aviation giant fires its Chief Financial Officer in an ethics scandal. The move comes as the company faces scrutiny by the Defense Department for a government plan to acquire Boeing 767 planes for use as refueling tankers and answers questions about the ousters of two executives for ethical misconduct during the period it was being negotiated. Former McDonnell Douglas CEO Harry Stonecipher will succeed Condit as CEO, while former Hewlett-Packard chairman and CEO Lewis Platt takes over as chairman. [http://www.reuters.co.uk/newsPackageArticle.jhtml?type=businessNews&storyID=412789&section=finance]](/news/2003/12/1/boeing-chairman-and-chief-executive-officer-phil-condit-resigns-a-week-after-the-aviation-giant-fires-its-chief-financial-officer-in-an-et.md)
 _Context: Boeing, Boeing 767, CFO, Harry Stonecipher, Hewlett-Packard, Lewis Platt, McDonnell Douglas, Phil Condit, U.S. military, aerial refueling tankers, aviation, chairman, chief executive officer, ethics, scandal_

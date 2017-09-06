@@ -1,7 +1,7 @@
 ## [2007-03-12](/news/2007/03/12/index.md)
 
 ### [ While identifying as a Unitarian, Representative Pete Stark (D-CA) becomes the first member of the United States Congress to openly acknowledge that he does not hold a "god-belief". ](/news/2007/03/12/while-identifying-as-a-unitarian-representative-pete-stark-d-ca-becomes-the-first-member-of-the-united-states-congress-to-openly-acknowl.md)
-_Context: California, Congress, Democratic, Pete Stark, Unitarian, United States House of Representatives_
+_Context: California, Democratic, Pete Stark, Unitarian, United States Congress, United States House of Representatives_
 
 ### [ The BBC's correspondent in the Gaza Strip, Alan Johnston, who is the only Gaza-based foreign reporter from a major media organisation, is kidnapped. All the main Palestinian militant groups have called for his release. ](/news/2007/03/12/the-bbc-s-correspondent-in-the-gaza-strip-alan-johnston-who-is-the-only-gaza-based-foreign-reporter-from-a-major-media-organisation-is-k.md)
 _Context: Alan Johnston, BBC, Gaza Strip, Palestinian_

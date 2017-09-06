@@ -4,7 +4,7 @@
 _Context: Geneva, World Summit on the Information Society_
 
 ### [ 2004 Taiwan Presidential Election: President Chen Shui-bian is officially nominated by his Democratic Progressive Party and picks Vice President Annette Lu as his running mate. [http://www.ajc.com/news/content/news/ap/ap_story.html/Intl/AP.V1414.AP-Taiwan-Vice-Pre.html]](/news/2003/12/10/2004-taiwan-presidential-election-president-chen-shui-bian-is-officially-nominated-by-his-democratic-progressive-party-and-picks-vice-pres.md)
-_Context: 2004 presidential election, Annette Lu, Chen Shui-bian, Democratic Progressive Party, President of Taiwan_
+_Context: 2004 presidential election, Annette Lu, Chen Shui-bian, Democratic Progressive Party, President_
 
 ### [ Campaign finance reform, passed as the Bipartisan Campaign Reform Act of 2002, is upheld by a slim majority of the U.S. Supreme Court. ](/news/2003/12/10/campaign-finance-reform-passed-as-the-bipartisan-campaign-reform-act-of-2002-is-upheld-by-a-slim-majority-of-the-u-s-supreme-court.md)
 _Context: Bipartisan Campaign Reform Act of 2002, Campaign finance reform, U.S. Supreme Court_

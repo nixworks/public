@@ -37,7 +37,7 @@ Russia, Turkey and Iran to set up trilateral commission to monitor breaches of c
 New deputy leader had previously vowed to prosecute ex-ruler Yahya Jammeh for alleged crimes committed by his regime.
 
 ### [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md)
-_Context: Dakota Access Pipeline, Donald Trump, Keystone XL, Presidency of Donald Trump, President_
+_Context: Dakota Access Pipeline, Donald Trump, Keystone XL, President, The Trump Administration_
 
 ## [Previous Day...](/news/2017/01/23/index.md)
 

@@ -13,7 +13,7 @@ _Context: Inter-Services Intelligence, Pakistan_
 _Context: Hurricane Dean, Mexico, Red Crescent, Tecolutla, Veracruz, Veracruz, Yucatan Peninsula, landfall_
 
 ### [ An American  A suicide bomber kills at least 20 people and wounding 40 more in the town of Baiji. ](/news/2007/08/22/an-american-a-suicide-bomber-kills-at-least-20-people-and-wounding-40-more-in-the-town-of-baiji.md)
-_Context: (Wikinews), Baiji, Iraq, U.S., suicide bomber_
+_Context: (Wikinews), Baiji, Iraq, United States, suicide bomber_
 
 ### [ Voters in Kiribati go to the polls for the Kiribatian parliamentary election, 2007. ](/news/2007/08/22/voters-in-kiribati-go-to-the-polls-for-the-kiribatian-parliamentary-election-2007.md)
 _Context: Kiribati, Kiribatian parliamentary election, 2007_

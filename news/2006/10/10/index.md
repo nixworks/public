@@ -22,7 +22,7 @@ _Context: Makilala, Philippines, Sultan Kudarat, Tacurong, bomb attack_
 _Context: Bayelsa, Nigeria_
 
 ### [ Hundreds of thousands of people made a protest against President Chen Shui-bian in Taipei, Taiwan, surrounding Office of the President, where Chen took part in ceremony marking Double Tenth Day. ](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-against-president-chen-shui-bian-in-taipei-taiwan-surrounding-office-of-the-president-whe.md)
-_Context: Chen Shui-bian, Double Tenth Day, Office of the President, President of Taiwan, Taipei, Taiwan, made a protest_
+_Context: Chen Shui-bian, Double Tenth Day, Office of the President, President, Taipei, made a protest, the Republic of China_
 
 ## [Previous Day...](/news/2006/10/9/index.md)
 

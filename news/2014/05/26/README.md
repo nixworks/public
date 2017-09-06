@@ -25,7 +25,7 @@ Storms in southern and central China have left at least 26 people dead and 10 mi
 _Context: 2014 Thai coup d'tat, Bhumibol Adulyadej, King, Prayuth Chan-ocha_
 
 ### [Shri Narendra Modi is sworn in as the 15th Prime Minister of India. ](/news/2014/05/26/shri-narendra-modi-is-sworn-in-as-the-15th-prime-minister-of-india.md)
-_Context: India's Prime Minister, Narendra Modi_
+_Context: Narendra Modi, Prime Minister_
 
 ### [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md)
 _Context: Abdel Fattah el-Sisi, Egypt, Egyptian presidential election, 2014_

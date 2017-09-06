@@ -19,7 +19,7 @@ Italian football club Inter Milan says that a group of Chinese investors will be
 _Context: Japanese, Sharp Corporation_
 
 ### [Taiwan closes schools and offices ahead of Typhoon Saola. ](/news/2012/08/2/taiwan-closes-schools-and-offices-ahead-of-typhoon-saola.md)
-_Context: Taiwan, Typhoon Saola_
+_Context: Typhoon Saola, the Republic of China_
 
 ### [One person dies and at least ten other people are seriously injured when a fully loaded double-decker Megabus crashes into a bridge support on Interstate 55 in Illinois, ten miles north of Litchfield.](/news/2012/08/2/one-person-dies-and-at-least-ten-other-people-are-seriously-injured-when-a-fully-loaded-double-decker-megabus-crashes-into-a-bridge-support.md)
 _Context: Interstate 55 in Illinois, Litchfield, Megabus_

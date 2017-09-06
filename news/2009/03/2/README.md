@@ -7,13 +7,13 @@ Kansas Gov. Kathleen Sebelius will help overhaul a health care system whose cost
 Consumer spending rose in January after falling for a record six straight months, pushed higher by purchases of food and other nondurable items.
 
 ### [ A winter storm in the eastern United States cancels 1,000 flights and cuts hundreds of thousands of people's electricity. ](/news/2009/03/2/a-winter-storm-in-the-eastern-united-states-cancels-1-000-flights-and-cuts-hundreds-of-thousands-of-people-s-electricity.md)
-_Context: East Coast of the United States, Electricity, U.S., winter storm_
+_Context: East Coast of the United States, Electricity, United States, winter storm_
 
 ### [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md)
 _Context: Bissau, Guinea-Bissau, Joo Bernardo Vieira, acting president, assassinated_
 
 ### [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md)
-_Context: Bustan, East Jerusalem, Israel, Palestinian, ethnic cleansing_
+_Context: Bustan, East Jerusalem, Israel, Palestinian, violence_
 
 ### [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md)
 North Korean generals met the U.S.-led U.N. military command in South Korea for the first time in about seven years on Monday after Pyongyang warned at the weekend &quot;arrogant&quot; acts by U.S. troops could spark a war.

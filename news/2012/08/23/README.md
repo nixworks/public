@@ -4,7 +4,7 @@
 _Context: Caribbean, Hispaniola, National Hurricane Center, Tropical Storm Isaac_
 
 ### [Typhoon Tembin (2012): Taiwanese authorities evacuate almost 5,000 people ahead of the typhoon. ](/news/2012/08/23/typhoon-tembin-2012-taiwanese-authorities-evacuate-almost-5-000-people-ahead-of-the-typhoon.md)
-_Context: Taiwan, Typhoon Tembin, typhoon_
+_Context: Typhoon Tembin, the Republic of China, typhoon_
 
 ### [At least 30 people are killed as a result of heavy monsoon rain in the northern Indian state of Rajasthan. ](/news/2012/08/23/at-least-30-people-are-killed-as-a-result-of-heavy-monsoon-rain-in-the-northern-indian-state-of-rajasthan.md)
 Heavy monsoon rains in northern India and north-western Pakistan claim dozens of lives as they trigger flash floods and destroy homes.

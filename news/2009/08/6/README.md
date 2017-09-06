@@ -16,7 +16,7 @@ _Context: Albert Zafy, Andry Rajoelina, Didier Ratsiraka, Madagascar, Maputo, Ma
 _Context: Commodore, Fiji, John Key, New Zealand, Pacific Islands Forum, Prime Minister, Prime Minister, Voreqe Bainimarama_
 
 ### [ Argentina, Brazil and Bolivia express concerns whilst Peru supports a planned accord by Colombian President Alvaro Uribe to allow United States troops to use several bases. Venezuela announces trade measures against Colombia. ](/news/2009/08/6/argentina-brazil-and-bolivia-express-concerns-whilst-peru-supports-a-planned-accord-by-colombian-president-alvaro-uribe-to-allow-united-s.md)
-_Context: Alvaro Uribe, Argentina, Bolivia, Brazil, Colombia, Colombian President, Peru, U.S., Venezuela_
+_Context: Alvaro Uribe, Argentina, Bolivia, Brazil, Colombia, Colombian President, Peru, United States, Venezuela_
 
 ### [ Brazil returns 1.500 tonnes of syringes, condoms and dirty nappies which were sent from the United Kingdom. ](/news/2009/08/6/brazil-returns-1-500-tonnes-of-syringes-condoms-and-dirty-nappies-which-were-sent-from-the-united-kingdom.md)
 Brazil announced it was returning 1.500 tonnes of hazardous waste that arrived from Britain labelled as recyclable plastic. The Brazilian Institute of Environment and Renewable Natural Resources said 89 containers left for Felixstowe, UK from the port of Santos on board MSC Oriane.

@@ -7,7 +7,7 @@ Israel said its aircraft attacked a Syrian army position on Tuesday after a stra
 SHIKARPUR - At least 13 people, including five cops, were injured after one of the two suicide bombers struck the Eid congregation in a Shikarpur mosque, police said Tuesday. The district police sa
 
 ### [Taiwan issues land and sea warnings for Typhoon Meranti which is expected to hit tomorrow the southern part of the island. ](/news/2016/09/13/taiwan-issues-land-and-sea-warnings-for-typhoon-meranti-which-is-expected-to-hit-tomorrow-the-southern-part-of-the-island.md)
-_Context: 2016 Pacific typhoon season, Taiwan, Typhoon Meranti_
+_Context: 2016 Pacific typhoon season, Typhoon Meranti, the Republic of China_
 
 ### [The Red Cross warns that North Korea faces a "major, complex disaster" after recent floods kill scores of people and leave more than 100,000 homeless. ](/news/2016/09/13/the-red-cross-warns-that-north-korea-faces-a-major-complex-disaster-after-recent-floods-kill-scores-of-people-and-leave-more-than-100-000.md)
 The Red Cross says flooding in North Korea has killed scores and left more than 100,000 homeless.

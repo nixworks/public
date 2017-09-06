@@ -13,7 +13,7 @@ _Context: Gurkha, Madan Tamang, West Bengal_
 _Context: Niger, Nigeria_
 
 ### [Delhi High Court acquits three accused in a 1984 anti-Sikh riots case at Shastri Nagar in North Delhi following the assassination of Prime Minister Indira Gandhi on October 31, 1984. ](/news/2010/05/21/delhi-high-court-acquits-three-accused-in-a-1984-anti-sikh-riots-case-at-shastri-nagar-in-north-delhi-following-the-assassination-of-prime-m.md)
-_Context: Delhi High Court, India's Prime Minister, Indira Gandhi, North Delhi_
+_Context: Delhi High Court, Indira Gandhi, North Delhi, Prime Minister_
 
 ### [At least 22 people are killed and at least 53 others are injured after a car bomb explodes at a market in Al Khalis, Diyala in Iraq. ](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.md)
 At least 30 people killed and 80 wounded in car bomb at market in Diyala province.
@@ -49,7 +49,7 @@ _Context: Gaza Strip, Israel, sniper_
 _Context: BP, Gulf of Mexico_
 
 ### [United States Director of National Intelligence, Dennis C. Blair, announces his resignation. (Al Jazeera)]](/news/2010/05/21/united-states-director-of-national-intelligence-dennis-c-blair-announces-his-resignation-al-jazeera.md)
-_Context: Dennis C. Blair, Director of National Intelligence, U.S._
+_Context: Dennis C. Blair, Director of National Intelligence, United States_
 
 ### [Around 125 people become ill at a wedding ceremony in Khanpur. ](/news/2010/05/21/around-125-people-become-ill-at-a-wedding-ceremony-in-khanpur.md)
 _Context: Khanpur_

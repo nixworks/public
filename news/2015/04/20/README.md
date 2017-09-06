@@ -13,7 +13,7 @@ Saudi-led airstrikes on weapons caches in Yemen&#39;s rebel-held capital Monday 
 _Context: 2015 Pulitzer Prize, All the Light We Cannot See, Anthony Doerr, Charleston, South Carolina, Elizabeth Kolbert, Pulitzer Prize, Pulitzer Prize for General Non-Fiction, South Carolina, The Post and Courier, The Sixth Extinction: An Unnatural History, World War II, domestic violence_
 
 ### [A strong 6.8 magnitude earthquake occurs off the east coast of Taiwan. ](/news/2015/04/20/a-strong-6-8-magnitude-earthquake-occurs-off-the-east-coast-of-taiwan.md)
-_Context: Taiwan_
+_Context: the Republic of China_
 
 ### [At least three people are dead after a boat carrying dozens of migrants runs aground on the Greek island of Rhodes. ](/news/2015/04/20/at-least-three-people-are-dead-after-a-boat-carrying-dozens-of-migrants-runs-aground-on-the-greek-island-of-rhodes.md)
 A distress call about a migrant boat sinking in the Mediterranean Sea with 300 people on board has been made to authorities in Rome.
@@ -22,7 +22,7 @@ A distress call about a migrant boat sinking in the Mediterranean Sea with 300 p
 Three people are killed in wild weather in NSW&#039;s Central Hunter region, where homes have been washed off their footings in the town of Dungog, north of Newcastle.
 
 ### [Blue Bell Creameries recalls all of its products in the United States due to a "Listeria monocytogenes" outbreak. ](/news/2015/04/20/blue-bell-creameries-recalls-all-of-its-products-in-the-united-states-due-to-a-listeria-monocytogenes-outbreak.md)
-_Context: Blue Bell Creameries, Listeria monocytogenes, U.S._
+_Context: Blue Bell Creameries, Listeria monocytogenes, United States_
 
 ### [A 13-year-old boy uses a home-made crossbow to kill a teacher and wound four other people at his school in the city of Barcelona. ](/news/2015/04/20/a-13-year-old-boy-uses-a-home-made-crossbow-to-kill-a-teacher-and-wound-four-other-people-at-his-school-in-the-city-of-barcelona.md)
 A student armed with a makeshift crossbow and a knife kills a teacher at a school in Barcelona, Spain.

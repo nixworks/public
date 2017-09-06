@@ -10,7 +10,7 @@ _Context: India, blackout_
 _Context: Forbes, Saudi Aramco_
 
 ### [Heading toward Taiwan, slow-moving Typhoon Saola's torrential rains lead to the deaths of at least 12 people and displacement of 154,000 in the Philippines. ](/news/2012/08/1/heading-toward-taiwan-slow-moving-typhoon-saola-s-torrential-rains-lead-to-the-deaths-of-at-least-12-people-and-displacement-of-154-000-in.md)
-_Context: Taiwan, The Philippines, Typhoon Saola_
+_Context: The Philippines, Typhoon Saola, the Republic of China_
 
 ### [The Tal Law, which granted a sweeping exemption from military service to a majority of the Israeli ultra-Orthodox population in Israel, expires. As a result Defense Minister Ehud Barak orders the Israeli Defense Forces to prepare for a universal draft of ultra-Orthodox Jewish males in 30 days. ](/news/2012/08/1/the-tal-law-which-granted-a-sweeping-exemption-from-military-service-to-a-majority-of-the-israeli-ultra-orthodox-population-in-israel-expi.md)
 No haredim slated to be drafted as defense minister orders IDF to create a plan within 30 days on enlistment.

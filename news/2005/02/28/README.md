@@ -43,7 +43,7 @@ _Context: Leonid Kuchma, Ukraine, retirement_
 _Context: 2000, Georgiy Gongadze_
 
 ### [ In Botswana, high court allows Australian professor Kenneth Good to remain in the country when he appeals against deportation. President Festus Mogae declared him an illegal immigrant when he criticized the government in a lecture ](/news/2005/02/28/in-botswana-high-court-allows-australian-professor-kenneth-good-to-remain-in-the-country-when-he-appeals-against-deportation-president-fe.md)
-_Context: Botswana, Festus Mogae, deportation, illegal immigrant_
+_Context: Botswana, Festus Mogae, deportees, illegal immigrant_
 
 ### [ In Cte d'Ivoire there are new clashes between rebels and government forces. United Nations peacekeepers try to intervene. Rebels state the that peace effort is now finished ](/news/2005/02/28/in-cote-d-ivoire-there-are-new-clashes-between-rebels-and-government-forces-united-nations-peacekeepers-try-to-intervene-rebels-state-the.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

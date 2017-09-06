@@ -10,19 +10,19 @@ ROME -- The operator of the Costa Concordia cruise ship, which struck rocks and 
 The biggest border crossing between North Korea and China has been closed to tourist groups, a Chinese official says, as nuclear tensions mounted, but business travel was allowed to continue.
 
 ### [Japan and Taiwan sign an agreement over fishing rights around the Senkaku Islands. China voices "extreme concerns" over the deal. ](/news/2013/04/10/japan-and-taiwan-sign-an-agreement-over-fishing-rights-around-the-senkaku-islands-china-voices-extreme-concerns-over-the-deal.md)
-_Context: China, Japan, Senkaku Islands, Taiwan, fishing_
+_Context: China, Japan, Senkaku Islands, fishing, the Republic of China_
 
 ### [An Arabian camel gifted to President of France Francois Hollande for liberating Mali is killed and stewed by a family in Timbuktu, in whose care Hollande had left it. ](/news/2013/04/10/an-arabian-camel-gifted-to-president-of-france-franassois-hollande-for-liberating-mali-is-killed-and-stewed-by-a-family-in-timbuktu-in-whose.md)
 With his pledge to create a morally irreproachable republic in tatters over a ministerial tax fraud scandal, Fran&ccedil;ois Hollande has already had to eat his hat. Now, it emerges, someone else has eaten his camel.
 
 ### [The United States, Canada, and Jordan boycott a meeting of the UN General Assembly organized by a former Serbian foreign minister, Vuk Jeremic. ](/news/2013/04/10/the-united-states-canada-and-jordan-boycott-a-meeting-of-the-un-general-assembly-organized-by-a-former-serbian-foreign-minister-vuk-jerem.md)
-_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, U.S., UN General Assembly, Vuk Jeremic, boycott_
+_Context: Canada, Jordan, Serbia, Serbia's Foreign Minister, UN General Assembly, United States, Vuk Jeremic, boycott_
 
 ### [Liu Zhijun, the leader of the construction of the Chinese bullet train system and Minister of Railways, is arrested on corruption charges for allegedly taking bribes and abusing his power as Minister of Railways. ](/news/2013/04/10/liu-zhijun-the-leader-of-the-construction-of-the-chinese-bullet-train-system-and-minister-of-railways-is-arrested-on-corruption-charges-fo.md)
 China charges once-powerful former Railways Minister Liu Zhijun with corruption and abuse of power, state media reports.
 
 ### [A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. ](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suwanee-georgia-united-states-is-killed-in-a-gun-battle-with-police.md)
-_Context: Georgia, Police, Suwanee, U.S., firefighter, hostage_
+_Context: Georgia, Police, Suwanee, United States, firefighter, hostage_
 
 ### [In Pakistan, a gunman kills one police officer and injures another who were guarding health workers fighting polio. ](/news/2013/04/10/in-pakistan-a-gunman-kills-one-police-officer-and-injures-another-who-were-guarding-health-workers-fighting-polio.md)
 There was no immediate claim of responsibility for the attack, but the Pakistani Taliban have repeatedly targeted health workers vaccinating against polio.

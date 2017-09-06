@@ -7,10 +7,10 @@ _Context: Abdullahi Yusuf Ahmed, Kenya, Mohammed Ali Ghedi, Somalia, government 
 _Context: Anglican Church, Anglican Church of Canada, Anglican Consultative Council, Gene Robinson, Lambeth Conference, New Hampshire, United States Episcopal Church, schism_
 
 ### [ In Taiwan, Chen Shui-bian and People First Party Chairman James Soong meet for the first time in four years. They issue a joint 10-point declaration emphasizing their agreement on preserving the "status quo" in cross strait relations. ](/news/2005/02/24/in-taiwan-chen-shui-bian-and-people-first-party-chairman-james-soong-meet-for-the-first-time-in-four-years-they-issue-a-joint-10-point-de.md)
-_Context: Chen Shui-bian, James Soong, People First Party, Taiwan, Taiwan Strait, status_
+_Context: Chen Shui-bian, James Soong, People First Party, Taiwan Strait, status, the Republic of China_
 
 ### [ The PRC objects to former US President Bill Clinton's plan to visit Taiwan and meet with the ROC President Chen Shui-bian. ](/news/2005/02/24/the-prc-objects-to-former-us-president-bill-clinton-s-plan-to-visit-taiwan-and-meet-with-the-roc-president-chen-shui-bian.md)
-_Context: Bill Clinton, Chen Shui-bian, China, President of Taiwan, Taiwan, Taiwan_
+_Context: Bill Clinton, Chen Shui-bian, China, President, Taiwan, the Republic of China_
 
 ### [ Pope John Paul II returns to hospital in Rome for more specialist treatments and tests. ](/news/2005/02/24/pope-john-paul-ii-returns-to-hospital-in-rome-for-more-specialist-treatments-and-tests.md)
 _Context: Pope John Paul II_

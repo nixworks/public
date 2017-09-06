@@ -25,7 +25,7 @@ _Context: Atlantic Ocean, Mexico, Tropical Storm Nate_
 Dozens of districts closed schools early due to flooding, power outages and concerns about bus transportation.
 
 ### [The Prime Minister of India Manmohan Singh and the Prime Minister of Bangladesh Sheikh Hasina sign an accord ending four decades of disputes over the borders of India and Bangladesh. ](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.md)
-_Context: Bangladesh, India, India's Prime Minister, Manmohan Singh, Prime Minister, Sheikh Hasina, borders_
+_Context: Bangladesh, India, Manmohan Singh, Prime Minister, Prime Minister, Sheikh Hasina, borders_
 
 ### [Scottish First Minister Alex Salmond unveils a legislative programme for the coming year which includes plans to create a single police force and a single fire service for Scotland. ](/news/2011/09/7/scottish-first-minister-alex-salmond-unveils-a-legislative-programme-for-the-coming-year-which-includes-plans-to-create-a-single-police-forc.md)
 Legislation to create a single police force and single fire service in Scotland is among 15 new bills to be introduced at Holyrood.

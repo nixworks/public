@@ -10,7 +10,7 @@ _Context: International Security Assistance Force, NATO, War in Afghanistan (200
 _Context: Haiti, United Nations, lynch_
 
 ### [ The United States and India confirm a deal on nuclear co-operation. ](/news/2007/07/27/the-united-states-and-india-confirm-a-deal-on-nuclear-co-operation.md)
-_Context: India, U.S., nuclear co-operation_
+_Context: India, United States, nuclear co-operation_
 
 ### [ Clinical trials for MVA85A, a new vaccine against tuberculosis, are started in South Africa. ](/news/2007/07/27/clinical-trials-for-mva85a-a-new-vaccine-against-tuberculosis-are-started-in-south-africa.md)
 _Context: MVA85A, South Africa, clinical trial, tuberculosis, vaccine_
@@ -25,7 +25,7 @@ _Context: The Lancet, marijuana, psychosis_
 _Context: NASA, astronaut, drunks_
 
 ### [ The United States Congress passes a bill containing measures recommended by the 9/11 Commission. ](/news/2007/07/27/the-united-states-congress-passes-a-bill-containing-measures-recommended-by-the-9-11-commission.md)
-_Context: 9/11 Commission, Congress_
+_Context: 9/11 Commission, United States Congress_
 
 ### [ The United Nations Educational, Scientific and Cultural Organisation dispatches a team to investigate the shooting of four mountain gorillas in the Virunga National Park in the Democratic Republic of the Congo. ](/news/2007/07/27/the-united-nations-educational-scientific-and-cultural-organisation-dispatches-a-team-to-investigate-the-shooting-of-four-mountain-gorilla.md)
 _Context: Democratic Republic of the Congo, United Nations Educational, Scientific and Cultural Organisation, Virunga National Park, mountain gorilla_

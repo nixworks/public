@@ -19,7 +19,7 @@ Repurposed fishing boat thought to have had Syrians on board sinks off coast of 
 For the first time, researchers have found a person in the United States carrying bacteria resistant to antibiotics of last resort. CDC chief says this could mean &quot;the end of the road&quot; for antibiotics.
 
 ### [Chinese state media Xinhua News Agency criticizes Taiwan President Tsai Ing-wen as politically extreme and lacking emotional balance because she is unmarried and does not have children. ](/news/2016/05/26/chinese-state-media-xinhua-news-agency-criticizes-taiwan-president-tsai-ing-wen-as-politically-extreme-and-lacking-emotional-balance-because.md)
-_Context: President of Taiwan, Taiwan, Tsai Ing-wen, Xinhua_
+_Context: President, Tsai Ing-wen, Xinhua, the Republic of China_
 
 ### [ South Korea plans to import arms worth about 3.5 trillion won (US$3 billion) this year to enhance its defense capabilities. ](/news/2016/05/26/south-korea-plans-to-import-arms-worth-about-3-5-trillion-won-us-3-billion-this-year-to-enhance-its-defense-capabilities.md)
 South Korea plans to import $3.5 billion worth of arms this year to enhance its defense capabilities, the Yonhap news agency reported Wednesday.

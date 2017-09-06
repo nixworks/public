@@ -4,7 +4,7 @@
 One of the biggest earthquakes in recorded history rocked Chile on Saturday, killing more than 300 people, toppling buildings and freeways, and setting off sirens thousands of miles away as...
 
 ### [Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. ](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.md)
-_Context: India's Prime Minister, Indira Gandhi, Manmohan Singh, Saudi Arabia_
+_Context: Indira Gandhi, Manmohan Singh, Prime Minister, Saudi Arabia_
 
 ### [Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. ](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.md)
 An Italian luxury cruise ship crashed into a pier at the Red Sea port of Sharm El Sheik in the early hours of Friday while attempting to dock in very rough weather. Three crew members aboard the ship were killed in the accident and a fouth crew member and three passengers were slightly injured,...

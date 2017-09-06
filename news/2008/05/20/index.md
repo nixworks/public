@@ -16,7 +16,7 @@ The argument is of a piece with Mrs. Clinton’s increasingly populist image, bu
 _Context: Belgium, Dutch, France, Germany, National Railway Company of Belgium, strike_
 
 ### [ Ma Ying-jeou is sworn in as the President of the Republic of China (Taiwan) with Liu Chao-shiuan as his Premier. ](/news/2008/05/20/ma-ying-jeou-is-sworn-in-as-the-president-of-the-republic-of-china-taiwan-with-liu-chao-shiuan-as-his-premier.md)
-_Context: Liu Chao-shiuan, Ma Ying-jeou, Premier of the Republic of China, President of Taiwan, Republic of China (Taiwan)_
+_Context: Liu Chao-shiuan, Ma Ying-jeou, Premier, President, Republic of China (Taiwan)_
 
 ### [ Manoel de Oliveira is awarded a palme d'or for his lifetime career achievement at the 2008 Cannes Film Festival. ](/news/2008/05/20/manoel-de-oliveira-is-awarded-a-palme-d-or-for-his-lifetime-career-achievement-at-the-2008-cannes-film-festival.md)
 _Context: 2008 Cannes Film Festival, Manoel de Oliveira, Palme d'Or_

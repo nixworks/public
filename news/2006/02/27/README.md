@@ -1,7 +1,7 @@
 ## [2006-02-27](/news/2006/02/27/index.md)
 
 ### [ President of the Republic of China (Taiwan) Chen Shui-bian announces the cease of the function of the National Unification Council and the application of the Guidelines for National Unification. The move is condemned by the pan-Blue Coalition and People's Republic of China. Chen says that the reversal is a response to aggression by the PRC. ](/news/2006/02/27/president-of-the-republic-of-china-taiwan-chen-shui-bian-announces-the-cease-of-the-function-of-the-national-unification-council-and-the.md)
-_Context: Chen Shui-bian, Guidelines for National Unification, National Unification Council, President of Taiwan, coalition allies_
+_Context: Chen Shui-bian, Guidelines for National Unification, National Unification Council, President, coalition allies_
 
 ### [ International Court of Justice (ICJ) begins hearing a landmark genocide case, Bosnia and Herzegovina vs. Serbia and Montenegro. Bosnia filed a claim alleging violations of the UN Convention on the Prevention and Punishment of Genocide against the former Yugoslavia during the 1992-1995 Bosnian war. Bosnian genocide case at the ICJ is a first ever genocide court case against a state in the 60 year history of ICJ. ](/news/2006/02/27/international-court-of-justice-icj-begins-hearing-a-landmark-genocide-case-bosnia-and-herzegovina-vs-serbia-and-montenegro-bosnia-file.md)
 _Context: Bosnia and Herzegovina, Bosnian War, Bosnian genocide case at the ICJ, International Court of Justice, Serbia and Montenegro, UN, Yugoslavia_

@@ -4,7 +4,7 @@
 Two of the most wanted Islamist rebels in Chechnya were among 13 killed in a shootout between Russian law enforcement officers and rebels in the volatile mountain province, Interfax news agency said on Thursday.
 
 ### [A Japan Coast Guard ship engages a Taiwanese ship carrying activists bound for the Senkaku Islands. ](/news/2013/01/24/a-japan-coast-guard-ship-engages-a-taiwanese-ship-carrying-activists-bound-for-the-senkaku-islands.md)
-_Context: Japan Coast Guard, Senkaku Islands, Taiwan, engages_
+_Context: Japan Coast Guard, Senkaku Islands, engages, the Republic of China_
 
 ### [The Malian army says it is investigating allegations that soldiers have carried out summary executions in the Islamist-controlled north of Mali. ](/news/2013/01/24/the-malian-army-says-it-is-investigating-allegations-that-soldiers-have-carried-out-summary-executions-in-the-islamist-controlled-north-of-m.md)
 The Malian army investigates claims that soldiers have carried out summary executions as they fight to recapture the Islamist-controlled north.

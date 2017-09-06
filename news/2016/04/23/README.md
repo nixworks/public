@@ -43,7 +43,7 @@ Regional Kurdish security forces and pro-Syrian government forces have declared 
 European Council President Donald Tusk has praised Turkey’s treatment of refugees, saying “it is the best example for the whole world.”
 
 ### [ Foreign Minister Ri Su-yong says North Korea is ready to halt nuclear tests if the United States suspends its annual military exercises with South Korea. ](/news/2016/04/23/foreign-minister-ri-su-yong-says-north-korea-is-ready-to-halt-nuclear-tests-if-the-united-states-suspends-its-annual-military-exercises-wit.md)
-_Context: North Korea, North Korea-United States relations, North Korean Foreign Minister, Ri Su-yong's, South Korea, U.S., nuclear tests_
+_Context: North Korea, North Korea-United States relations, North Korean Foreign Minister, Ri Su-yong's, South Korea, United States, nuclear tests_
 
 ### [Professor Rezaul Karim Siddique is killed in the Bangladeshi city of Rajshahi in an ISIL attack. ](/news/2016/04/23/professor-rezaul-karim-siddique-is-killed-in-the-bangladeshi-city-of-rajshahi-in-an-isil-attack.md)
 Unidentified attackers hacked to death a university teacher in northwestern Bangladesh on Saturday.

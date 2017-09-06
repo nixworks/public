@@ -7,7 +7,7 @@ _Context: Australian Transport Safety Bureau, Indian Ocean, Malaysia Airlines Fl
 _Context: Chinese state media, Chongqing, Yongchuan District_
 
 ### [United States State Department blocks the sale of firearms to the Philippines due to concerns of human rights violations. ](/news/2016/11/2/united-states-state-department-blocks-the-sale-of-firearms-to-the-philippines-due-to-concerns-of-human-rights-violations.md)
-_Context: Philippine Drug War, Philippines, Philippines-United States relations, State Department, U.S., firearms, human rights violations_
+_Context: Philippine Drug War, Philippines, Philippines-United States relations, State Department, United States, firearms, human rights violations_
 
 ### [Park Geun-hye seeks to appoint Kim Byong-joon as the new Prime Minister of South Korea in a bid to restore confidence after a political scandal. Kim Byong-joon replaces sacked prime minister Hwang Kyo-ahn. ](/news/2016/11/2/park-geun-hye-seeks-to-appoint-kim-byong-joon-as-the-new-prime-minister-of-south-korea-in-a-bid-to-restore-confidence-after-a-political-scan.md)
 _Context: Hwang Kyo-ahn, Kim Byong-joon, Park Geun-hye, Prime Minister, political scandal_

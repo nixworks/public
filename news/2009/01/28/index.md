@@ -16,7 +16,7 @@ _Context: Egypt, Gaza Strip, Israel, border, militant, rocket, smuggling, tunnel
 _Context: Army, Mullaitivu District, Tamil_
 
 ### [ The U.S. National Transportation Safety Board prepares its final report on the 2007 collision between two news helicopters in Phoenix, Arizona. ](/news/2009/01/28/the-u-s-national-transportation-safety-board-prepares-its-final-report-on-the-2007-collision-between-two-news-helicopters-in-phoenix-ariz.md)
-_Context: 2007, Arizona, National Transportation Safety Board, Phoenix, Arizona, U.S., collision, helicopter_
+_Context: 2007, Arizona, National Transportation Safety Board, Phoenix, Arizona, United States, collision, helicopter_
 
 ### [ Boeing announces it will cut 10,000 jobs. ](/news/2009/01/28/boeing-announces-it-will-cut-10-000-jobs.md)
 _Context: Boeing, layoff_

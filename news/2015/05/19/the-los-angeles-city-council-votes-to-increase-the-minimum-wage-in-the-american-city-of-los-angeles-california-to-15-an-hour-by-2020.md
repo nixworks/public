@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [The La Tuna fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: Los Angeles, California_
+1. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: Los Angeles, California_
 2. [The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/the-89th-academy-awards-are-held-in-los-angeles-california.md) _Context: Los Angeles, California_
 3. [The board for the US$1 billion Lucas Museum of Narrative Art announces it will construct the museum in Los Angeles, California. ](/news/2017/01/10/the-board-for-the-us-1-billion-lucas-museum-of-narrative-art-announces-it-will-construct-the-museum-in-los-angeles-california.md) _Context: Los Angeles, California_
 4. [Carl's Jr./Hardee's executive and minimum wage reform critic Andrew Puzder is selected as United States Secretary of Labor. ](/news/2016/12/8/carl-s-jr-hardee-s-executive-and-minimum-wage-reform-critic-andrew-puzder-is-selected-as-united-states-secretary-of-labor.md) _Context: minimum wage reform_

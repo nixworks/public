@@ -22,7 +22,7 @@ Foreign Ministry responds to report saying new UN sanctions resolution caused Ru
 Seven former British soldiers are suing an American defence firm, accusing it of exposing them to dangerous levels of toxic chemicals in Iraq.
 
 ### [Former president of Taiwan Chen Shui-bian's life sentence is cut to twenty years in prison. ](/news/2010/06/10/former-president-of-taiwan-chen-shui-bian-s-life-sentence-is-cut-to-twenty-years-in-prison.md)
-_Context: Chen Shui-bian, President of Taiwan, Taiwan_
+_Context: Chen Shui-bian, President, Taiwan_
 
 ### [Vujadin Popovic and Ljubisa Beara, former high-ranking officers of the Bosnian Serb army, are found guilty of genocide and sentenced to life imprisonment for their roles in the 1995 Srebrenica massacre, the harshest judgment ever delivered by the International Criminal Tribunal for the former Yugoslavia. ](/news/2010/06/10/vujadin-popovia-and-ljubia-a-beara-former-high-ranking-officers-of-the-bosnian-serb-army-are-found-guilty-of-genocide-and-sentenced-to-li.md)
 UN court delivers life sentence to two men involved in the Srebrenica massacre.

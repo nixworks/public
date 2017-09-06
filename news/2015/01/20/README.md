@@ -13,7 +13,7 @@ A supposed Boko Haram leader claims an attack that decimated the Nigerian town o
 Oil services company Baker Hughes Inc. has said that it will lay off about 7,000 workers as it prepares for a downturn. 
 
 ### [A fire in a bowling alley causes a roof collapse in Taoyuan City, Taiwan killing six firefighters. ](/news/2015/01/20/a-fire-in-a-bowling-alley-causes-a-roof-collapse-in-taoyuan-city-taiwan-killing-six-firefighters.md)
-_Context: Taiwan, Taoyuan City_
+_Context: Taoyuan City, the Republic of China_
 
 ### [An overpass of I-75 in Cincinnati, Ohio collapses while undergoing demolition, killing one worker and injuring a trucker whose vehicle was struck by debris. ](/news/2015/01/20/an-overpass-of-i-75-in-cincinnati-ohio-collapses-while-undergoing-demolition-killing-one-worker-and-injuring-a-trucker-whose-vehicle-was-s.md)
 _Context: Cincinnati, I-75, Ohio_
@@ -28,7 +28,7 @@ Still not clear why man shot cardiac surgeon, then himself.
 Heavy rains on Tuesday held up the start of voting in parts of Zambia, where a close-fought presidential election was under way to replace Michael Sata, who died in office last year. &quot;A number of polling stations will start tomorrow (Wednesday),&quot; elections director Priscilla Isaacs said la...
 
 ### [The President of the United States Barack Obama delivers a State of the Union address to the United States Congress. ](/news/2015/01/20/the-president-of-the-united-states-barack-obama-delivers-a-state-of-the-union-address-to-the-united-states-congress.md)
-_Context: 2015 State of the Union Address, Barack Obama, Congress, President, State of the Union_
+_Context: 2015 State of the Union Address, Barack Obama, President, State of the Union, United States Congress_
 
 ## [Previous Day...](/news/2015/01/19/index.md)
 

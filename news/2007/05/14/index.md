@@ -16,7 +16,7 @@ _Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
 _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, President, U.S._
+_Context: Auto, George W. Bush, President, United States_
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
 _Context: Military of the United States, MySpace, YouTube, video clips_
@@ -31,7 +31,7 @@ _Context: House of Councillors, Prime Minister of Japan, Shinzo Abe, constitutio
 _Context: Orsk, Russia, cafe_
 
 ### [ The President of the Republic of China Chen Shui-bian names Chang Chun-hsiung of the Democratic Progressive Party as the new Premier of the Republic of China. ](/news/2007/05/14/the-president-of-the-republic-of-china-chen-shui-bian-names-chang-chun-hsiung-of-the-democratic-progressive-party-as-the-new-premier-of-the.md)
-_Context: Chang Chun-hsiung, Chen Shui-bian, Democratic Progressive Party, Premier of the Republic of China, President of Taiwan_
+_Context: Chang Chun-hsiung, Chen Shui-bian, Democratic Progressive Party, Premier, President_
 
 ### [ Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. ](/news/2007/05/14/nominations-open-for-the-leadership-of-the-united-kingdom-labour-party-with-chancellor-of-the-exchequer-gordon-brown-as-the-favourite.md)
 _Context: Chancellor of the Exchequer, Gordon Brown, Labour, United Kingdom, confirmed_

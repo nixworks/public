@@ -25,7 +25,7 @@ _Context: Burger King, Wendy's_
 A U.S. law requiring large graphic health warnings on cigarette packaging and advertising does not violate the free speech rights of tobacco companies, a federal appeals court ruled on Monday.
 
 ### [A gravel ship sinks off the coast of Taiwan with six crew members dead and two missing. ](/news/2012/03/19/a-gravel-ship-sinks-off-the-coast-of-taiwan-with-six-crew-members-dead-and-two-missing.md)
-_Context: Taiwan_
+_Context: the Republic of China_
 
 ### [Six tourists are buried in an avalanche in Kaafjord, Norway, leaving four dead and one missing. ](/news/2012/03/19/six-tourists-are-buried-in-an-avalanche-in-kaafjord-norway-leaving-four-dead-and-one-missing.md)
 Five foreign tourists die and one is in hospital after an avalanche hits a group of skiers in northern Norway, police say.

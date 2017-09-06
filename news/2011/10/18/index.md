@@ -16,7 +16,7 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 _Context: Droid RAZR, Motorola_
 
 ### [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md)
-_Context: Apple Inc., HTC, Taiwan, U.S., United States International Trade Commission, iPhone, patent, patent infringement, smartphone_
+_Context: Apple Inc., HTC, United States, United States International Trade Commission, iPhone, patent, patent infringement, smartphone, the Republic of China_
 
 ### [A bill to takeover the capital city of Harrisburg, rather than have it file for Chapter 9, clears the Pennsylvania State Legislature. The Governor of Pennsylvania, Tom Corbett, is expected to sign it. ](/news/2011/10/18/a-bill-to-takeover-the-capital-city-of-harrisburg-rather-than-have-it-file-for-chapter-9-clears-the-pennsylvania-state-legislature-the-go.md)
 The Pennsylvania state Senate on Tuesday voted for a state takeover of the finances of its capital, Harrisburg, setting up a showdown with the city, which filed for bankruptcy last week.
@@ -34,7 +34,7 @@ _Context: Gilad Shalit, Gilad Shalit prisoner exchange, Hamas, Israel, Israeli A
 US Secretary of State Hillary Clinton makes an unannounced visit to Libya aimed at showing support for the Libyan people and building ties as fierce fighting breaks out in Sirte.
 
 ### [About 400,000 illegal immigrants were deported from the United States in the 2011 fiscal year, the most deportations ever in United States history, according to a report released by U.S. Immigration and Customs Enforcement. ](/news/2011/10/18/about-400-000-illegal-immigrants-were-deported-from-the-united-states-in-the-2011-fiscal-year-the-most-deportations-ever-in-united-states-h.md)
-_Context: U.S. Immigration and Customs Enforcement, United States history, deportation, fiscal year, illegal immigrants_
+_Context: U.S. Immigration and Customs Enforcement, United States history, deportees, fiscal year, illegal immigrants_
 
 ### [The World Health Organisation reports that global malaria deaths have fallen by over 20% since 2001, claiming that over 30 countries are on course to eradicate the mosquito-borne disease by 2020. ](/news/2011/10/18/the-world-health-organisation-reports-that-global-malaria-deaths-have-fallen-by-over-20-since-2001-claiming-that-over-30-countries-are-on.md)
 There has been a fall of just over 20% in the number of deaths from malaria worldwide in the past decade, the World Health Organization says.

@@ -1,7 +1,7 @@
 ## [2013-04-17](/news/2013/04/17/index.md)
 
 ### [A United States drone attack kills at least five people in the Pakistani city of Wana, located in the South Waziristan Agency. ](/news/2013/04/17/a-united-states-drone-attack-kills-at-least-five-people-in-the-pakistani-city-of-wana-located-in-the-south-waziristan-agency.md)
-_Context: Pakistan, South Waziristan, U.S., Wana, drones launch_
+_Context: Pakistan, South Waziristan, United States, Wana, drones launch_
 
 ### [Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/two-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no-damage-three-more-rocket.md)
 _Context: Egypt, Eilat, Israel, Jordan, Sinai_
@@ -22,7 +22,7 @@ Rescuers searched on Thursday for survivors in the rubble of homes destroyed by 
 H7N9 bird flu has claimed two more lives in Shanghai, Chinese state media said on Tuesday, bringing the death toll from the disease to 16.
 
 ### [Taiwan prepares to permanently ban killing of poultry in traditional markets amid concerns over the spread of the H7N9 avian flu virus in mainland China. ](/news/2013/04/17/taiwan-prepares-to-permanently-ban-killing-of-poultry-in-traditional-markets-amid-concerns-over-the-spread-of-the-h7n9-avian-flu-virus-in-ma.md)
-_Context: H7N9 avian flu virus, Taiwan, mainland China, markets, poultry_
+_Context: H7N9 avian flu virus, mainland China, markets, poultry, the Republic of China_
 
 ### [North Korea blocks a delegation of South Korean businessmen from delivering food and supplies to 200 of their staff inside the closed Kaesong joint industrial zone. ](/news/2013/04/17/north-korea-blocks-a-delegation-of-south-korean-businessmen-from-delivering-food-and-supplies-to-200-of-their-staff-inside-the-closed-kaeson.md)
 _Context: Kaesong area, North Korea, South Korea, businessmen_
@@ -46,7 +46,7 @@ _Context: Henrique Capriles, National Electoral Council, Venezuela, last month's
 A bill to legalise same-sex marriage has passed into law after its third reading in Parliament tonight, after months of emotional debate, parliamentary submissions, and passionate - New Zealand Herald
 
 ### [A proposal to tighten gun control in the United States fails in a Senate vote. ](/news/2013/04/17/a-proposal-to-tighten-gun-control-in-the-united-states-fails-in-a-senate-vote.md)
-_Context: Gun politics in the United States, U.S., United States Senate_
+_Context: Gun politics in the United States, United States, United States Senate_
 
 ## [Previous Day...](/news/2013/04/16/index.md)
 

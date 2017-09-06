@@ -19,7 +19,7 @@ _Context: National Poetry Competition_
 _Context: Kate Tempest, Ted Hughes Award, poetry_
 
 ### [2013 Nantou earthquake: At least one person is killed and 19 others are injured when a 6.0-magnitude earthquake strikes near Taipei, Taiwan, causing a fire and shaking buildings. ](/news/2013/03/27/2013-nantou-earthquake-at-least-one-person-is-killed-and-19-others-are-injured-when-a-6-0-magnitude-earthquake-strikes-near-taipei-taiwan.md)
-_Context: 2013 Nantou earthquake, Taipei, Taiwan, earthquake, hits, magnitude_
+_Context: 2013 Nantou earthquake, Taipei, earthquake, hits, magnitude, the Republic of China_
 
 ### [A mini-tornado in the Philippines kills 12 people when a motorboat capsized. ](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-people-when-a-motorboat-capsized.md)
 _Context: Philippines, speedboat, tornado_

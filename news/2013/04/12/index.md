@@ -58,7 +58,7 @@ _Context: Devinder Pal Singh Bhullar, India, Khalistan Liberation Force, Sikh, S
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [In Taiwan, 600 people are evacuated from a high-speed train en route to Zuoying from Taipei after timed explosives are found in a restroom. ](/news/2013/04/12/in-taiwan-600-people-are-evacuated-from-a-high-speed-train-en-route-to-zuoying-from-taipei-after-timed-explosives-are-found-in-a-restroom.md)
-_Context: Taipei, Taiwan, Zuoying, high-speed rail, restroom, timed explosives_
+_Context: Taipei, Zuoying, high-speed rail, restroom, the Republic of China, timed explosives_
 
 ### [North Carolina A&T State University, a college in Greensboro, North Carolina, is put into lockdown in response to reports of a gunman on campus. No gunman is found in the resulting search. ](/news/2013/04/12/north-carolina-a-t-state-university-a-college-in-greensboro-north-carolina-is-put-into-lockdown-in-response-to-reports-of-a-gunman-on-cam.md)
 SALEM, North Carolina (Reuters) - A university in Greensboro, North Carolina, lifted a campus-wide lockdown alert issued on Friday after reports that a man carrying a rifle was seen near a classroom building.

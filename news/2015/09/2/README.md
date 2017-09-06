@@ -7,7 +7,7 @@ _Context: Baghdad, Iraq War (2014-present), Turkish_
 At least ten people were killed and scores wounded when a car bomb exploded in the Syrian city of Latakia Wednesday, state television said, in a rare attack in a coastal stronghold of President Bashar al-Assad.
 
 ### [150 million workers go on strike in India to oppose Prime Minister Narendra Modi's labour market reforms. ](/news/2015/09/2/150-million-workers-go-on-strike-in-india-to-oppose-prime-minister-narendra-modi-s-labour-market-reforms.md)
-_Context: India, India's Prime Minister, Narendra Modi_
+_Context: India, Narendra Modi, Prime Minister_
 
 ### [French police arrest an arsonist for a fire in an apartment in the 18th arrondissement of Paris which killed eight people.](/news/2015/09/2/french-police-arrest-an-arsonist-for-a-fire-in-an-apartment-in-the-18th-arrondissement-of-paris-which-killed-eight-people.md)
 French police arrest a man suspected of starting a fire that killed eight people, including two children, in northern Paris.

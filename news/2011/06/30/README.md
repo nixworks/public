@@ -22,7 +22,7 @@ _Context: Amnesty International, China, Human rights_
 _Context: Al-Shamukh, jihad_
 
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: Iraq, Iraq War, Iraqi insurgency, U.S._
+_Context: Iraq, Iraq War, Iraqi insurgency, United States_
 
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
 _Context: Fox News, Glenn Beck_
@@ -73,7 +73,7 @@ _Context: Budapest, Hillary Clinton, United States Secretary of State_
 Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound Irish ship may have been sabotaged.
 
 ### [Taiwanese media reports that former President Lee Teng-hui has been indicted on charges of embezzlement from a state diplomatic fund. ](/news/2011/06/30/taiwanese-media-reports-that-former-president-lee-teng-hui-has-been-indicted-on-charges-of-embezzlement-from-a-state-diplomatic-fund.md)
-_Context: Lee Teng-hui, President of Taiwan, Taiwan, embezzlement, indicted_
+_Context: Lee Teng-hui, President, Taiwan, embezzlement, indicted_
 
 ### [A man who attempts to knock down President of France Nicolas Sarkozy in Brax is arrested by officers. ](/news/2011/06/30/a-man-who-attempts-to-knock-down-president-of-france-nicolas-sarkozy-in-brax-is-arrested-by-officers.md)
 _Context: Nicolas Sarkozy, President of France_

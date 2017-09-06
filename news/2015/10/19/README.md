@@ -58,7 +58,7 @@ The Obama administration said on Monday that it would require drone owners to re
 Soviet nostalgia rules as images of the former dictator go on display in the centre of Donetsk, the rebel capital of eastern Ukraine once called Stalino
 
 ### [Eric Chu, KMT party chairman, has replaced Hung Hsiu-chu as Taiwan's ruling party candidate just months ahead of elections. ](/news/2015/10/19/eric-chu-kmt-party-chairman-has-replaced-hung-hsiu-chu-as-taiwanas-ruling-party-candidate-just-months-ahead-of-elections.md)
-_Context: Eric Chu, Hung Hsiu-chu, KMT, Taiwan_
+_Context: Eric Chu, Hung Hsiu-chu, KMT, the Republic of China_
 
 ### [Apple pulls hundreds of iOS mobile applications from its App Store which, the company discovered, includes software that was secretly sending users' personal information to an advertising firm in China. ](/news/2015/10/19/apple-pulls-hundreds-of-ios-mobile-applications-from-its-app-store-which-the-company-discovered-includes-software-that-was-secretly-sendin.md)
 Apple has banned 256 apps, with an estimated total of 1 million downloads among them, for harboring spyware from a Chinese advertising company.

@@ -22,16 +22,16 @@ _Context: Baghdad, Bremer wall, Government of Iraq, Iraq_
 _Context: Khartoum, Nile, Sudan_
 
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, U.S., detained_
+_Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, United States, detained_
 
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
 _Context: Madagascar, Marc Ravalomanana_
 
 ### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
-_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, U.S., blog_
+_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, United States, blog_
 
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
-_Context: Collier Township, LA Fitness, Pennsylvania, U.S., shot_
+_Context: Collier Township, LA Fitness, Pennsylvania, United States, shot_
 
 ### [ Eight people are injured when an Airbus A320 plane catches fire on one of its engines at Paris-Orly Airport. The fire is quickly brought under control. ](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.md)
 _Context: Airbus A320, Paris-Orly Airport, catches fire_

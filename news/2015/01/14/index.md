@@ -19,7 +19,7 @@ A major highway in Mozambique splits as floods kill 73 people and displace tens 
 _Context: China, East China Sea, Japan, Lockheed Martin F-35 Lightning II, Prime Minister of Japan, Shinzo Abe_
 
 ### [Taiwan protests China's new air routes near the median line of the Taiwan Strait and vows to step up surveillance of aviation activity. ](/news/2015/01/14/taiwan-protests-chinaas-new-air-routes-near-the-median-line-of-the-taiwan-strait-and-vows-to-step-up-surveillance-of-aviation-activity.md)
-_Context: China, Taiwan, Taiwan Strait_
+_Context: China, Taiwan Strait, the Republic of China_
 
 ### [On the second day of his papal visit to Sri Lanka, Pope Francis canonizes Saint Joseph Vaz at a beachfront park at the Indian Ocean, and later visits the northern portion of the island for a prayer service at the Sri Lankan Shrine of Our Lady of Madhu, which was a prominent area landmark damaged in the Sri Lankan Civil War. ](/news/2015/01/14/on-the-second-day-of-his-papal-visit-to-sri-lanka-pope-francis-canonizes-saint-joseph-vaz-at-a-beachfront-park-at-the-indian-ocean-and-lat.md)
 _Context: Joseph Vaz, Shrine of Our Lady of Madhu_

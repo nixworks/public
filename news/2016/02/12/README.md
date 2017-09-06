@@ -13,7 +13,7 @@ _Context: Aden, Yemeni conflict, policemen_
 _Context: Evgeny Lebedev, The Independent, United Kingdom, newspaper_
 
 ### [The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. ](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-with-550-people-injured-and-at-least-30-more-missing-and-believed-buried-in-the-apartment-co.md)
-_Context: 2016 Taiwan earthquake, Tainan's_
+_Context: 2016 Taiwan earthquake, Tainan_
 
 ### [ University of British Columbia's Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. ](/news/2016/02/12/university-of-british-columbiaas-michael-brauer-reports-new-research-shows-more-than-5-5-million-people-die-prematurely-every-year-from-a.md)
 New research shows that more than 5.5 million people die prematurely every year due to household and outdoor air pollution. More than half of deaths occur in two of the world’s fastest growing econ…

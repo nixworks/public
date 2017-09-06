@@ -28,7 +28,7 @@ _Context: European Union, European constitution, Ireland, The Irish Times, opini
 _Context: Epcot, Mission: SPACE, Walt Disney World_
 
 ### [ According to "Washington Post", US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekista.md)
-_Context: NATO, Russia, U.S., Uzbekistan, Washington Post_
+_Context: NATO, Russia, United States, Uzbekistan, Washington Post_
 
 ### [ In Indonesia, lawyers of Schapelle Corby file appeal in Bali court ](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

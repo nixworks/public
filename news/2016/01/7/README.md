@@ -10,7 +10,7 @@ Two masked gunmen opened fire at a hotel to the pyramids in Cairo as tourists bo
 Iran has accused Saudi Arabia of using warplanes to attack the Iranian embassy in the Yemeni capital Sana&#039;a. Some guards were reportedly wounded in the attack, according to state news channel IRIB. 
 
 ### [Tribal chair Charlotte Rodrique of the local Burns Paiute Tribe has joined in asking the occupiers to leave saying "The protesters have no claim to this land". Rodrique further cites a treaty, never ratified by the United States Congress, giving ownership of the land to the tribe. ](/news/2016/01/7/tribal-chair-charlotte-rodrique-of-the-local-burns-paiute-tribe-has-joined-in-asking-the-occupiers-to-leave-saying-the-protesters-have-no-c.md)
-_Context: Burns Paiute Tribe, Congress, Militia occupation of the Malheur National Wildlife Refuge_
+_Context: Burns Paiute Tribe, Militia occupation of the Malheur National Wildlife Refuge, United States Congress_
 
 ### [French police shoot dead a knife-wielding man, who was shouting "Allahu Akbar", outside a police station in Goutte d'Or, located in the 18th arrondissement of Paris. A piece of paper with an Islamic State flag and claim for the attack written in Arabic was found on his body. The incident is noted for taking place on the anniversary of last year's "Charlie Hebdo" shooting. ](/news/2016/01/7/french-police-shoot-dead-a-knife-wielding-man-who-was-shouting-allahu-akbar-outside-a-police-station-in-goutte-d-or-located-in-the-18th.md)
 Paris police shoot dead a man carrying a meat cleaver exactly a year after the Charlie Hebdo massacre, as President Hollande promises to boost security.

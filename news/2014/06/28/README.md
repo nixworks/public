@@ -25,7 +25,7 @@ Rescuers using gas cutters and shovels were searching in construction rubble Sun
 _Context: Chennai_
 
 ### [China's top cross-strait negotiator for Taiwan, on a landmark visit, cancels three public appearances at the last minute after protests against his bridge-building trip turned violent; protesters earlier splashed white paint and threw ghost money at the negotiator's motorcade while shouting slogans such as "Taiwan, China, one country on each side". ](/news/2014/06/28/china-s-top-cross-strait-negotiator-for-taiwan-on-a-landmark-visit-cancels-three-public-appearances-at-the-last-minute-after-protests-agai.md)
-_Context: China, Cross-Strait relations, Taiwan, ghost money, negotiator, one country on each side_
+_Context: China, Cross-Strait relations, ghost money, negotiator, one country on each side, the Republic of China_
 
 ### [Libyan Islamist militia leader Ahmed Abu Khattala pleads not guilty in a Washington D.C. court to one charge of conspiracy in relation to the 2012 Benghazi attack in which four Americans were killed. ](/news/2014/06/28/libyan-islamist-militia-leader-ahmed-abu-khattala-pleads-not-guilty-in-a-washington-d-c-court-to-one-charge-of-conspiracy-in-relation-to-th.md)
 _Context: 2012 Benghazi attack, Ahmed Abu Khattala, Islamist, Libya, Washington, D.C., militia_

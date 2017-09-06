@@ -7,7 +7,7 @@ _Context: Pope Benedict XVI, Society of St. Pius X, ordained, priests, tradition
 _Context: Burnley, Exchequer Secretary to the Treasury, Kitty Ussher, MP, MPs expenses_
 
 ### [ United States President Barack Obama extends some benefits to the same-sex partners of federal government workers. ](/news/2009/06/17/united-states-president-barack-obama-extends-some-benefits-to-the-same-sex-partners-of-federal-government-workers.md)
-_Context: Barack Obama, President, U.S., some benefits_
+_Context: Barack Obama, President, United States, some benefits_
 
 ### [ Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following-the-presidential-election.md)
 The Iranian soccer team made a political statement in World Cup qualifying, but will have to wait and see if they still have a chance of advancing to the 2010 tournament in South Africa.
@@ -25,7 +25,7 @@ _Context: Al-Shabaab, Mogadishu, Transitional Federal Government, declares_
 _Context: Communist Party of India-Marxist, Maoist, West Bengal_
 
 ### [ Indian Prime Minister Manmohan Singh meets with Pakistani President Asif Ali Zardari. ](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.md)
-_Context: Asif Ali Zardari, India, India's Prime Minister, Manmohan Singh, Pakistan, president_
+_Context: Asif Ali Zardari, India, Manmohan Singh, Pakistan, Prime Minister, president_
 
 ### [ The Peruvian government is to revoke land laws that resulted in deadly clashes with indigenous protesters in the Amazon. ](/news/2009/06/17/the-peruvian-government-is-to-revoke-land-laws-that-resulted-in-deadly-clashes-with-indigenous-protesters-in-the-amazon.md)
 _Context: Amazon rainforest, Government of Peru, Peru, deadly clashes_

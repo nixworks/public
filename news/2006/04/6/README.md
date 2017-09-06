@@ -4,7 +4,7 @@
 _Context: Gujarat, earthquake_
 
 ### [ The World Meteorological Organization has announced the retirement of a record five storm names from the 2005 Atlantic hurricane season. Retired names include Dennis, Katrina, Rita, Stan and Wilma. ](/news/2006/04/6/the-world-meteorological-organization-has-announced-the-retirement-of-a-record-five-storm-names-from-the-2005-atlantic-hurricane-season-re.md)
-_Context: 2005 Atlantic hurricane season, Dennis, Hurricane Katrina, Rita, Stan, Wilma, World Meteorological Organization_
+_Context: 2005 Atlantic hurricane season, Dennis, Hurricane Katrina, Hurricane Wilma, Rita, Stan, World Meteorological Organization_
 
 ### [ The National Geographic Society unveils the restored Gospel of Judas in Washington, D.C. Written in Coptic, the document is thought to have come from the 2nd century. It had been deteriorating rapidly when found. ](/news/2006/04/6/the-national-geographic-society-unveils-the-restored-gospel-of-judas-in-washington-d-c-written-in-coptic-the-document-is-thought-to-have.md)
 Researchers say they have discovered the only known copy of the Gospel of Judas, which portrays Judas Iscariot not as a traitor, but as an essential player in helping Jesus carry out his mission. Alex Chadwick talks to Herb Krosney, author of The Lost Gospel.

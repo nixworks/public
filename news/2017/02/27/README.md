@@ -10,7 +10,7 @@ _Context: Communist Party of the Philippines, Communist rebellion in the Philipp
 _Context: Islamic State of Iraq and the Levant, Manbij, Syrian Civil War, Syrian Democratic Forces, Tiger Forces, al-Bab_
 
 ### [According to the Afghan Interior Ministry, Mullah Abdul Salam Akhund, a senior Taliban commander, is killed in a U.S. airstrike in Kunduz Province. ](/news/2017/02/27/according-to-the-afghan-interior-ministry-mullah-abdul-salam-akhund-a-senior-taliban-commander-is-killed-in-a-u-s-airstrike-in-kunduz-pr.md)
-_Context: Afghan Interior Ministry, Kunduz Province, Taliban, U.S., War in Afghanistan (2015-present)_
+_Context: Afghan Interior Ministry, Kunduz Province, Taliban, United States, War in Afghanistan (2015-present)_
 
 ### [A car bomb explodes near a checkpoint outside Mogadishu, wounding at least four Somali soldiers. ](/news/2017/02/27/a-car-bomb-explodes-near-a-checkpoint-outside-mogadishu-wounding-at-least-four-somali-soldiers.md)
 Explosion hits close to army checkpoint after al-Shabab threatens attacks against new president, Mohamed Abdullahi.

@@ -10,7 +10,7 @@ Dozens of people have been killed in a wave of explosions which tore through ove
 _Context: Dagestan, Russia_
 
 ### [Typhoon Soulik kills three people in China's Guangdong province after having killed two people in Taiwan. ](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.md)
-_Context: China, Guangdong, Taiwan, Typhoon Soulik_
+_Context: China, Guangdong, Typhoon Soulik, the Republic of China_
 
 ### [The Mexican Army captures Miguel Trevio Morales, a leader of the Los Zetas criminal gang. ](/news/2013/07/14/the-mexican-army-captures-miguel-trevino-morales-a-leader-of-the-los-zetas-criminal-gang.md)
 U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being leader of notoriously brutal cartel

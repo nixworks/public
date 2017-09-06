@@ -10,7 +10,7 @@ _Context: Barack Obama, Ben Bernanke, Federal Reserve, Janet Yellen_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [The United States government suspends military and cash aid to Egypt worth hundreds of millions of dollars. ](/news/2013/10/9/the-united-states-government-suspends-military-and-cash-aid-to-egypt-worth-hundreds-of-millions-of-dollars.md)
-_Context: Egypt, U.S._
+_Context: Egypt, United States_
 
 ### [The 25th Association of Southeast Asian Nations summit and 8th East Asia Summit are held in Brunei. ](/news/2013/10/9/the-25th-association-of-southeast-asian-nations-summit-and-8th-east-asia-summit-are-held-in-brunei.md)
 _Context: Association of Southeast Asian Nations, Brunei, East Asia Summit_

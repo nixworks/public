@@ -1,7 +1,7 @@
 ## [2008-07-17](/news/2008/07/17/index.md)
 
 ### [ Typhoon Kalmaegi (Helen) strikes Taiwan, resulting in at least one fatality, eight people missing and four people injured. ](/news/2008/07/17/typhoon-kalmaegi-helen-strikes-taiwan-resulting-in-at-least-one-fatality-eight-people-missing-and-four-people-injured.md)
-_Context: Taiwan, Typhoon Kalmaegi (Helen)_
+_Context: Typhoon Kalmaegi (Helen), the Republic of China_
 
 ### [ The European Court of Human Rights has ruled that an ethnic Tamil man denied asylum in Britain could not be sent back to his native Sri Lanka because he would be at risk of torture there. ](/news/2008/07/17/the-european-court-of-human-rights-has-ruled-that-an-ethnic-tamil-man-denied-asylum-in-britain-could-not-be-sent-back-to-his-native-sri-lan.md)
 _Context: European Court of Human Rights, Sri Lanka, Tamil, United Kingdom, asylum_

@@ -10,7 +10,7 @@ _Context: February 2013 Quetta bombing, Pakistan, Pakistani police_
 A Yemeni air force plane crashed in the capital Sanaa on Tuesday, killing at least 12 people, security sources said.
 
 ### [Two people are missing and at least 14 injured after a car struck a gas main causing an explosion at the Country Club Plaza in the American city of Kansas City, Missouri. ](/news/2013/02/19/two-people-are-missing-and-at-least-14-injured-after-a-car-struck-a-gas-main-causing-an-explosion-at-the-country-club-plaza-in-the-american.md)
-_Context: Country Club Plaza, Kansas City, Missouri, U.S._
+_Context: Country Club Plaza, Kansas City, Missouri, United States_
 
 ### [European sovereign-debt crisis: Workers for the Spanish flag carrier airline Iberia strike over plans to axe 3,807 jobs. ](/news/2013/02/19/european-sovereign-debt-crisis-workers-for-the-spanish-flag-carrier-airline-iberia-strike-over-plans-to-axe-3-807-jobs.md)
 _Context: European sovereign-debt crisis, Iberia, Spain, commercial air traffic, flag carrier_
@@ -28,7 +28,7 @@ An overwhelming percentage of the attacks on American companies and government a
 North Korea has been criticised for remarks about the &quot;final destruction&quot; of South Korea made during a UN debate on disarmament
 
 ### [A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. ](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-orange-county-california-united-states-results-in-the-death-of-4-people-including-the-alleged.md)
-_Context: California, Orange County, U.S., shooting spree_
+_Context: California, Orange County, United States, shooting spree_
 
 ### [A memorial service is held for South African Reeva Steenkamp, who was shot dead at the home of athlete Oscar Pistorius last week. Pistorius faced murder hearings. ](/news/2013/02/19/a-memorial-service-is-held-for-south-african-reeva-steenkamp-who-was-shot-dead-at-the-home-of-athlete-oscar-pistorius-last-week-pistorius.md)
 Adam Steenkamp, the brother of Reeva Steenkamp, says her family wants to remember his sister and &quot;all the goodness that she stood for&quot;, as her memorial service takes place on Tuesday. Athlete Oscar Pistorius denies a charge of pre-meditated murder.

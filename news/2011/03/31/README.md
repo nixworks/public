@@ -49,7 +49,7 @@ _Context: Baidu, Baidu Wenku_
 Austria police have arrested a man suspected of robbing banks while wearing a mask of US President Barack Obama.
 
 ### [A lynch mob in the Guatemalan village of La Democracia kills three men for allegedly stealing a truck full of coffee. ](/news/2011/03/31/a-lynch-mob-in-the-guatemalan-village-of-la-democracia-kills-three-men-for-allegedly-stealing-a-truck-full-of-coffee.md)
-_Context: Guatemala, La Democracia, lynch mob, truck_
+_Context: Guatemala, La Democracia, lynch, truck_
 
 ### [Keith Brown, the former manager and father of The 5 Browns classical music group is sentenced for ten years for sexual abuse of his daughters. ](/news/2011/03/31/keith-brown-the-former-manager-and-father-of-the-5-browns-classical-music-group-is-sentenced-for-ten-years-for-sexual-abuse-of-his-daughter.md)
 _Context: The 5 Browns, sexual abuse_

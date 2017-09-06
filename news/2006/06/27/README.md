@@ -7,7 +7,7 @@ _Context: Central African Republic, Chad_
 _Context: Armenia, Armenian President, Azerbaijan, Ilham Aliyev's, Nagorno-Karabakh region, President, Robert Kocharyan_
 
 ### [ The most recent attempt in the United States to adopt a flag desecration amendment fails in the Senate by one vote. ](/news/2006/06/27/the-most-recent-attempt-in-the-united-states-to-adopt-a-flag-desecration-amendment-fails-in-the-senate-by-one-vote.md)
-_Context: U.S., United States Senate, flag desecration amendment_
+_Context: United States, United States Senate, flag desecration amendment_
 
 ### [ Popular musician Axl Rose from the band Guns N' Roses is arrested in Stockholm, Sweden, for alleged violent conduct including biting a security guard on the leg. ](/news/2006/06/27/popular-musician-axl-rose-from-the-band-guns-n-roses-is-arrested-in-stockholm-sweden-for-alleged-violent-conduct-including-biting-a-secu.md)
 _Context: Axl Rose, Guns N' Roses, Stockholm, Sweden, popular music_
@@ -25,7 +25,7 @@ _Context: Eliyahu Asheri, Israel, Palestinian, kidnapped, tertiary_
 _Context: Anfal campaign, August 21, Iraqi Special Tribunal, Kurd, Saddam Hussein_
 
 ### [ A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. ](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwanese-president-chen-shui-bian-who-is-implicated-in-numerous-corruption-scandals-fails-to-ga.md)
-_Context: Chen Shui-bian, President of Taiwan, legislative chamber_
+_Context: Chen Shui-bian, President, legislative chamber_
 
 ### [ Nguyen Minh Triet becomes President of Vietnam with Nguyen TCNYn Dung expected to become the new Prime Minister of Vietnam. ](/news/2006/06/27/nguyen-minh-triet-becomes-president-of-vietnam-with-nguya-n-taocnyn-da-c-ng-expected-to-become-the-new-prime-minister-of-vietnam.md)
 _Context: Nguyen Minh Triet, Nguyen TCNYn Dung, President of Vietnam, prime minister_

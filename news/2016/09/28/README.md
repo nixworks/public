@@ -13,7 +13,7 @@ Prosecutors investigating the 2014 downing of flight MH17 over eastern Ukraine s
 Pepe the Frog, a cartoon character turned Internet meme, has been added to the Anti-Defamation League’s database of hate symbols.
 
 ### [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md)
-_Context: 2016 Pacific typhoon season, China, Taiwan, Typhoon Megi_
+_Context: 2016 Pacific typhoon season, China, Typhoon Megi, the Republic of China_
 
 ### [Indonesia authorities evacuate over 1,000 tourists from the island of Lombok after Mount Barujari erupts. ](/news/2016/09/28/indonesia-authorities-evacuate-over-1-000-tourists-from-the-island-of-lombok-after-mount-barujari-erupts.md)
 _Context: Indonesia, Lombok, Mount Barujari_

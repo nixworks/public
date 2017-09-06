@@ -40,7 +40,7 @@ _Context: Blair Peach, Metropolitan Police_
 _Context: Israeli Military, Palestinian, West Bank, civilians_
 
 ### [ A massive landslide hits a north Taiwan highway close to Keelung. ](/news/2010/04/27/a-massive-landslide-hits-a-north-taiwan-highway-close-to-keelung.md)
-_Context: Keelung, Taiwan_
+_Context: Keelung, the Republic of China_
 
 ### [Sierra Leone introduces free healthcare for pregnant and breast-feeding women and children under five. ](/news/2010/04/27/sierra-leone-introduces-free-healthcare-for-pregnant-and-breast-feeding-women-and-children-under-five.md)
 _Context: Sierra Leone, free healthcare_

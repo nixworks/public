@@ -7,7 +7,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 _Context: Bob Ney, Jack Abramoff, Ohio, United States House of Representatives_
 
 ### [ The U.S. National Transportation Safety Board states that a stiff wind blew the plane carrying New York Yankees pitcher Cory Lidle off-course and into an apartment building in New York City. ](/news/2006/11/3/the-u-s-national-transportation-safety-board-states-that-a-stiff-wind-blew-the-plane-carrying-new-york-yankees-pitcher-cory-lidle-off-cour.md)
-_Context: Cory Lidle, National Transportation Safety Board, New York City, New York Yankees, U.S., into an apartment building_
+_Context: Cory Lidle, National Transportation Safety Board, New York City, New York Yankees, United States, into an apartment building_
 
 ### [ The World Meteorological Organisation reports that greenhouse gases in the atmosphere reached a record high in 2005 and are still increasing. ](/news/2006/11/3/the-world-meteorological-organisation-reports-that-greenhouse-gases-in-the-atmosphere-reached-a-record-high-in-2005-and-are-still-increasin.md)
 _Context: World Meteorological Organisation, greenhouse gases_
@@ -22,7 +22,7 @@ _Context: Jamaica, Trevor Berbick_
 News and opinion from The Times &amp; The Sunday Times
 
 ### [ Wu Shu-chen, the wife of the President of the Republic of China, is indicted on corruption charges by Taiwan prosecutors. President Chen Shui-bian is not indicted due to presidential immunity, but prosecutors say he will be charged once he is no longer president. ](/news/2006/11/3/wu-shu-chen-the-wife-of-the-president-of-the-republic-of-china-is-indicted-on-corruption-charges-by-taiwan-prosecutors-president-chen-sh.md)
-_Context: Chen Shui-bian, President of Taiwan, Taiwan, Wu Shu-chen, anti-corruption_
+_Context: Chen Shui-bian, President, Wu Shu-chen, anti-corruption, the Republic of China_
 
 ### [ "The New York Times" reports that a website created at the request of United States Representative Peter Hoekstra and Senator Pat Roberts was found to contain detailed information which could help nuclear-capable states produce nuclear weapons. The website was shut down on November 2 following questioning by "The New York Times" and protests by International Atomic Energy Agency officials. ](/news/2006/11/3/the-new-york-times-reports-that-a-website-created-at-the-request-of-united-states-representative-peter-hoekstra-and-senator-pat-roberts-w.md)
 A federal government Web site, set up to make public Iraqi documents, included some that may constitute a basic guide to building an atom bomb.

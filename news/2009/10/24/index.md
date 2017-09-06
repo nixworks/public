@@ -16,7 +16,7 @@ _Context: Morrissey, The Smiths, This Charming Man_
 A journalist, 22, was sentenced for her connection to a Lebanese TV show in which a Saudi man talked about sex. She would not appeal the sentence, she said.
 
 ### [ Senior envoys from North Korea and the United States hold rare talks on North Korea's nuclear programme in New York City. ](/news/2009/10/24/senior-envoys-from-north-korea-and-the-united-states-hold-rare-talks-on-north-korea-s-nuclear-programme-in-new-york-city.md)
-_Context: New York City, North Korea, U.S., intercontinental ballistic_
+_Context: New York City, North Korea, United States, intercontinental ballistic_
 
 ### [ At least 15 people are killed after two trains collide in Al-Ayyat, near Cairo, Egypt. ](/news/2009/10/24/at-least-15-people-are-killed-after-two-trains-collide-in-al-ayyat-near-cairo-egypt.md)
 At least 18 people killed after two trains collide southwest of Cairo.

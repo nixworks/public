@@ -7,7 +7,7 @@ _Context: Alaksandar Kazulin, Alexander Lukashenko, Belarus_
 _Context: Harrier, RAF Fairford, Tackley_
 
 ### [ The United States vetoes a United Nations resolution condemning Israel's military operations in the Gaza Strip. ](/news/2006/07/13/the-united-states-vetoes-a-united-nations-resolution-condemning-israel-s-military-operations-in-the-gaza-strip.md)
-_Context: Gaza Strip, Operation Summer Rains, U.N., U.S._
+_Context: Gaza Strip, Operation Summer Rains, U.N., United States_
 
 ### [ North Korean diplomats quickly leave a meeting with South Korea and a U.S. diplomat, and leave the region after a week of diplomacy. ](/news/2006/07/13/north-korean-diplomats-quickly-leave-a-meeting-with-south-korea-and-a-u-s-diplomat-and-leave-the-region-after-a-week-of-diplomacy.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

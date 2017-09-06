@@ -19,7 +19,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Afghanistan's, Defense Secretary, Donald Rumsfeld, Iraq, Judge, Thomas Hogan, U.S. federal court, torture_
 
 ### [ Taiwan unveils an upgraded version of their Ching-kuo fighter aircraft called the Hsung Ying made by the Aerospace Industrial Development Corporation. ](/news/2007/03/27/taiwan-unveils-an-upgraded-version-of-their-ching-kuo-fighter-aircraft-called-the-hsung-ying-made-by-the-aerospace-industrial-development-c.md)
-_Context: Aerospace Industrial Development Corporation, Ching-kuo, Hsung Ying, Taiwan, fighter aircraft_
+_Context: Aerospace Industrial Development Corporation, Ching-kuo, Hsung Ying, fighter aircraft, the Republic of China_
 
 ### [ The Prime Minister of Israel Ehud Olmert and the President of the Palestinian National Authority Mahmoud Abbas agree to limited biweekly peace talks. ](/news/2007/03/27/the-prime-minister-of-israel-ehud-olmert-and-the-president-of-the-palestinian-national-authority-mahmoud-abbas-agree-to-limited-biweekly-pe.md)
 The announcement came after three days of shuttle diplomacy by Secretary of State Condoleezza Rice.

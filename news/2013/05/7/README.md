@@ -13,7 +13,7 @@ _Context: Ray Harryhausen, U.S., special effects_
 Metal singer taken into custody Tuesday after allegedly soliciting an undercover cop to have his estranged wife killed.
 
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: Bank of China, North Korea, U.S., intercontinental ballistic_
+_Context: Bank of China, North Korea, United States, intercontinental ballistic_
 
 ### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md)
 _Context: Microsoft, Windows 8, operating system_

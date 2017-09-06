@@ -25,7 +25,7 @@ An Islamist Web site said on Friday it would soon carry a new video of al Qaeda 
 _Context: FBI, Mayor, Mayor, Mims Hackett, New Jersey, Orange, Passaic, Samuel Rivera_
 
 ### [ A 6.5 magnitude earthquake hits off shore of Taiwan near the capital city Taipei. ](/news/2007/09/6/a-6-5-magnitude-earthquake-hits-off-shore-of-taiwan-near-the-capital-city-taipei.md)
-_Context: Taipei, Taiwan_
+_Context: Taipei, the Republic of China_
 
 ### [ Paras, Crown Prince of Nepal, undergoes angioplasty operation after a heart attack. ](/news/2007/09/6/paras-crown-prince-of-nepal-undergoes-angioplasty-operation-after-a-heart-attack.md)
 _Context: Paras, angioplasty_

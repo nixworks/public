@@ -7,7 +7,7 @@ The Syrian army and its allies fought intense clashes with insurgents in the opp
 _Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ### [Taiwan authorities close schools and offices as Typhoon Megi approaches the island. ](/news/2016/09/27/taiwan-authorities-close-schools-and-offices-as-typhoon-megi-approaches-the-island.md)
-_Context: 2016 Pacific typhoon season, Taiwan, Typhoon Megi_
+_Context: 2016 Pacific typhoon season, Typhoon Megi, the Republic of China_
 
 ### [A bus skids off a mountain road in central Nepal, killing at least 19 people and injuring more than a dozen others. ](/news/2016/09/27/a-bus-skids-off-a-mountain-road-in-central-nepal-killing-at-least-19-people-and-injuring-more-than-a-dozen-others.md)
 _Context: Nepal_

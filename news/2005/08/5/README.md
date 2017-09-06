@@ -25,7 +25,7 @@ _Context: Buyat Bay, Indonesia, Newmont Minahasa Raya, Newmont Mining, Sulawesi 
 _Context: China, Ching Cheong, Hong Kong, The Straits Times, spying_
 
 ### [ Typhoon Matsa hits Taiwan ](/news/2005/08/5/typhoon-matsa-hits-taiwan.md)
-_Context: Taiwan, Typhoon Matsa_
+_Context: Typhoon Matsa, the Republic of China_
 
 ### [ Russian Priz class mini-submarine AS-28 and its 7 crewmembers are stuck underwater off the Pacific coast ](/news/2005/08/5/russian-priz-class-mini-submarine-as-28-and-its-7-crewmembers-are-stuck-underwater-off-the-pacific-coast.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
