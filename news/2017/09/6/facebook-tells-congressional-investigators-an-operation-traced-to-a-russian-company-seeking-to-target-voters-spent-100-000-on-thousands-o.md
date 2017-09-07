@@ -1,6 +1,6 @@
 ### [2017-09-6](/news/2017/09/6/index.md)
 
-# Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 US election. 
+# Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 U.S. election. 
 
 The company told congressional investigators that it has discovered it sold ads totaling $100,000 to a Russian &ldquo;troll farm.&rdquo;
 
