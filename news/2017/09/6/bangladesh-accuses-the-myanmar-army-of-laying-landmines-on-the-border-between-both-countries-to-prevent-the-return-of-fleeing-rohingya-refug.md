@@ -9,6 +9,7 @@ Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Musl
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/myanmar-laying-landmines-bangladesh-border-reports-170906014211124.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-41176488)
+3. [Reuters](https://www.reuters.com/article/us-myanmar-rohingya-bangladesh-landmines/exclusive-bangladesh-protests-over-myanmars-suspected-landmine-use-near-border-idUSKCN1BH04F)
 
 ### Related:
 
