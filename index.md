@@ -18,6 +18,9 @@ Sustained winds on the ground in Barbuda were recorded at 108 mph.
 ### [Hurricane watches are issued for the state of Veracruz on Mexico's Gulf coast. Category 1 Katia (75 mph/120 km/h) is about 185 miles off the Mexican coast, slowly moving at 3 mph. ](/news/2017/09/6/hurricane-watches-are-issued-for-the-state-of-veracruz-on-mexico-s-gulf-coast-category-1-katia-75-mph-120-km-h-is-about-185-miles-off-the.md)
 Hurricane Katia has formed in the Gulf of Mexico. Here&#039;s where it will go.
 
+### [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md)
+Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Muslim refugees returning.
+
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
 _Context: Brussels', EU, European Court of Justice, European migrant crisis, Hungary, Slovakia_
 

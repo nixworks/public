@@ -1,18 +1,19 @@
-### [2017-08-31](/news/2017/08/31/index.md)
+### [2017-09-6](/news/2017/09/6/index.md)
 
-# Twenty-six bodies of women and children are recovered after three boats carrying ethnic Rohingya fleeing violence in Myanmar sink in the Naf River in Bangladesh's Cox's Bazar District. 
+# Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. 
 
-Three boats carrying ethnic Rohingya fleeing violence in Myanmar capsized in Bangladesh and 26 bodies of women and children have been recovered, officials said Thursday.
+Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Muslim refugees returning.
 
 
 ### Source:
 
-1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/boats-carrying-fleeing-rohingya-sink-in-bangladesh-26-dead/2017/08/31/5f5809e0-8eaf-11e7-9c53-6a169beb0953_story.html?utm_term=.b0d3254d4b90)
+1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/myanmar-laying-landmines-bangladesh-border-reports-170906014211124.html)
+2. [BBC](http://www.bbc.co.uk/news/world-asia-41176488)
 
 ### Related:
 
-1. [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md) _Context: 2016-17 Northern Rakhine State clashes, Bangladesh, Myanmar, Rohingya_
-2. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: 2016-17 Northern Rakhine State clashes, Bangladesh, Myanmar, Rohingya_
+1. [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md) _Context: 2016-17 Northern Rakhine State clashes, Bangladesh, Myanmar, Myanmar Army, Rohingya_
+2. [Twenty-six bodies of women and children are recovered after three boats carrying ethnic Rohingya fleeing violence in Myanmar sink in the Naf River in Bangladesh's Cox's Bazar District. ](/news/2017/08/31/twenty-six-bodies-of-women-and-children-are-recovered-after-three-boats-carrying-ethnic-rohingya-fleeing-violence-in-myanmar-sink-in-the-naf.md) _Context: 2016-17 Northern Rakhine State clashes, Bangladesh, Myanmar, Rohingya_
 3. [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md) _Context: 2016-17 Northern Rakhine State clashes, Bangladesh, Myanmar, Rohingya_
 4. [Government officials in Myanmar report that 12 security personnel (ten policemen, one soldier and one immigration officer) and 59 Rohingya insurgents were killed overnight during coordinated attacks by insurgents on at least 26 police posts and an army base in Rakhine State. ](/news/2017/08/25/government-officials-in-myanmar-report-that-12-security-personnel-ten-policemen-one-soldier-and-one-immigration-officer-and-59-rohingya-i.md) _Context: 2016-17 Northern Rakhine State clashes, Myanmar, Rohingya_
 5. [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-as.md) _Context: Bangladesh, Myanmar, Rohingya_
