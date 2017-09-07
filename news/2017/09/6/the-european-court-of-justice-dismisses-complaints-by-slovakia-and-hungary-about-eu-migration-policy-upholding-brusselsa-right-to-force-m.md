@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-europe-migrants-easteurope/eu-court-dismisses-hungary-slovak-case-against-taking-refugees-idUSKCN1BH0VR?il=0)
+1. [Reuters](http://www.reuters.com/article/us-europe-migrants-easteurope/eu-court-dismisses-hungary-slovak-case-against-taking-refugees-idUSKCN1BH0VR)
 
 ### Related:
 

@@ -7,16 +7,13 @@ Pope Francis is due to travel to Colombia today for a five day visit. He will be
 The divide between Trump and the business community has only continued to grow since he took office less than nine months ago.
 
 ### [U.S. Federal Reserve Vice Chair Stanley Fischer announces he will resign in mid-October, eight months before his term expires. ](/news/2017/09/6/u-s-federal-reserve-vice-chair-stanley-fischer-announces-he-will-resign-in-mid-october-eight-months-before-his-term-expires.md)
-_Context: Stanley Fischer, U.S. Federal Reserve_
+_Context: Economy of the United States, Stanley Fischer, U.S. Federal Reserve_
 
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
 _Context: Arizona Air National Guard, F-16, Safford, Arizona_
 
 ### [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md)
 Sustained winds on the ground in Barbuda were recorded at 108 mph.
-
-### [Hurricane watches are issued for the state of Veracruz on Mexico's Gulf coast. Category 1 Katia (75 mph/120 km/h) is about 185 miles off the Mexican coast, slowly moving at 3 mph. ](/news/2017/09/6/hurricane-watches-are-issued-for-the-state-of-veracruz-on-mexico-s-gulf-coast-category-1-katia-75-mph-120-km-h-is-about-185-miles-off-the.md)
-Hurricane Katia has formed in the Gulf of Mexico. Here&#039;s where it will go.
 
 ### [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md)
 Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Muslim refugees returning.
@@ -33,7 +30,7 @@ Lawyers for 15 states, led by New York and Washington, filed suit against Presid
 ### [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md)
 President Donald Trump forged a surprising deal with Democrats in Congress on Wednesday to extend the U.S. debt limit and provide government funding until Dec. 15, embracing his political adversaries and blindsiding fellow Republicans in a rare bipartisan accord.
 
-### [Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 election. ](/news/2017/09/6/facebook-tells-congressional-investigators-an-operation-traced-to-a-russian-company-seeking-to-target-voters-spent-100-000-on-thousands-o.md)
+### [Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 US election. ](/news/2017/09/6/facebook-tells-congressional-investigators-an-operation-traced-to-a-russian-company-seeking-to-target-voters-spent-100-000-on-thousands-o.md)
 The company told congressional investigators that it has discovered it sold ads totaling $100,000 to a Russian &ldquo;troll farm.&rdquo;
 
 ## [Previous Day...](/news/2017/09/5/index.md)
