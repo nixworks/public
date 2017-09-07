@@ -33,5 +33,8 @@ Lawyers for 15 states, led by New York and Washington, filed suit against Presid
 ### [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md)
 President Donald Trump forged a surprising deal with Democrats in Congress on Wednesday to extend the U.S. debt limit and provide government funding until Dec. 15, embracing his political adversaries and blindsiding fellow Republicans in a rare bipartisan accord.
 
+### [Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 election. ](/news/2017/09/6/facebook-tells-congressional-investigators-an-operation-traced-to-a-russian-company-seeking-to-target-voters-spent-100-000-on-thousands-o.md)
+The company told congressional investigators that it has discovered it sold ads totaling $100,000 to a Russian &ldquo;troll farm.&rdquo;
+
 ## [Previous Day...](/news/2017/09/5/index.md)
 
