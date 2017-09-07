@@ -49,7 +49,7 @@ _Context: Miriam Defensor Santiago, Philippine presidential election, 2016_
 _Context: Attorney General, Brazil, Dilma Rousseff, Impeachment process against Dilma Rousseff, President, Supreme Federal Court_
 
 ### [Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. ](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-galant-resigns-in-the-wake-of-the-recent-bombings-that-shook-brussels-last-march-galant-resig.md)
-_Context: 2016 Brussels bombings, Belgium, Brussels, European Union, Jacqueline Galant_
+_Context: 2016 Brussels bombings, Belgium, Brussels, EU, Jacqueline Galant_
 
 ### [Riot police violently break up an anti-Sisi protest in Cairo, Egypt. In the first sign of public discontent with President Sisi's rule, hundreds of people gathered and shouted slogans calling for his overthrow. ](/news/2016/04/15/riot-police-violently-break-up-an-anti-sisi-protest-in-cairo-egypt-in-the-first-sign-of-public-discontent-with-president-sisi-s-rule-hund.md)
 _Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egyptian President, police_

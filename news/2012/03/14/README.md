@@ -31,7 +31,7 @@ Distraught parents flew to Switzerland on Wednesday after a bus carrying a Belgi
 The authorities in Azerbaijan arrest 22 people on suspicion of spying for Iran, accusing them of links to the Iranian Revolutionary Guards.
 
 ### [The President of the United States Barack Obama and the Prime Minister of the United Kingdom David Cameron meet at the White House in Washington D.C. to discuss Afghanistan, Syria, the global economy and Iran. ](/news/2012/03/14/the-president-of-the-united-states-barack-obama-and-the-prime-minister-of-the-united-kingdom-david-cameron-meet-at-the-white-house-in-washin.md)
-_Context: Afghanistan's, Barack Obama, David Cameron, Iran, President, Prime Minister, Syria, Washington, D.C., White House_
+_Context: Afghanistan's, Barack Obama, David Cameron, District of Columbia, Iran, President, Prime Minister, Syria, White House_
 
 ### [The International Criminal Court in the Hague delivers a verdict of guilty in the case of Thomas Lubanga Dyilo of the Democratic Republic of the Congo on war crimes charges. ](/news/2012/03/14/the-international-criminal-court-in-the-hague-delivers-a-verdict-of-guilty-in-the-case-of-thomas-lubanga-dyilo-of-the-democratic-republic-of.md)
 The war crimes court at The Hague found Congolese warlord Thomas Lubanga Dyilo guilty on Wednesday in its first ever ruling after a decade of work limited largely to Africa while major cases elsewhere remain beyond its reach.

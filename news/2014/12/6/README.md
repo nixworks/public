@@ -19,7 +19,7 @@ _Context: Ethiopia, Red Sea, Yemen_
 The powerful Typhoon Hagupit makes landfall in the Philippines where over half a million people have fled coastal towns.
 
 ### [Demonstrations continue for a third day in New York City, Boston, Chicago, Cleveland, Jacksonville, Miami, and Washington, D.C. where protesters perform "die-ins" over the deaths of Michael Brown and Eric Garner. ](/news/2014/12/6/demonstrations-continue-for-a-third-day-in-new-york-city-boston-chicago-cleveland-jacksonville-miami-and-washington-d-c-where-protes.md)
-_Context: 2014 Ferguson unrest, Boston, Chicago, Cleveland, Eric Garner, Jacksonville, Florida, Miami, New York City, Washington, D.C., deaths of Michael Brown, die-in_
+_Context: 2014 Ferguson unrest, Boston, Chicago, Cleveland, District of Columbia, Eric Garner, Jacksonville, Florida, Miami, New York City, deaths of Michael Brown, die-in_
 
 ### [NASA's New Horizons spacecraft reawakens at 20:00&nbsp;UTC in preparation for observing the dwarf planet Pluto and its satellites. New Horizons, launched on January 19, 2006, will begin distant observations on January 15, 2015, culminating with its July 14, 2015 closest approach flyby. ](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.md)
 On December 6th, New Horizons spacecraft awakened from its final electronic hibernation. Seven months from now, it will make the first-ever visit to Pluto.

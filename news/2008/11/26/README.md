@@ -10,7 +10,7 @@ _Context: Czech Constitution, Czech Republic, Lisbon Treaty_
 _Context: DVD, United Kingdom, Woolworths Group PLC_
 
 ### [ The European Union proposes a EUR200 billion stimulus package that will include already-spent money ](/news/2008/11/26/the-european-union-proposes-a-a-200-billion-stimulus-package-that-will-include-already-spent-money.md)
-_Context: EUR, European Union_
+_Context: EU, EUR_
 
 ### [ U.S. President-elect Barack Obama announces that he will create a new "economic recovery board," headed by Paul Volcker, designed to provide "fresh perspective" on the current economic issues ](/news/2008/11/26/u-s-president-elect-barack-obama-announces-that-he-will-create-a-new-economic-recovery-board-headed-by-paul-volcker-designed-to-provid.md)
 _Context: Barack Obama, Paul Volcker, President-elect, U.S._

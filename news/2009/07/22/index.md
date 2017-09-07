@@ -16,7 +16,7 @@ _Context: Canada, H1N1, Tamiflu_
 President McAleese has indictated that her decision on whether she will refer two pieces of legislation to the Supreme Court to test their constitutionality will be announced tomorrow.
 
 ### [ U.S. Secretary of State Hillary Clinton warns that it could arm its allies in the Gulf and extend a "defense umbrella" over the region, if Iran goes nuclear. ](/news/2009/07/22/u-s-secretary-of-state-hillary-clinton-warns-that-it-could-arm-its-allies-in-the-gulf-and-extend-a-defense-umbrella-over-the-region-if.md)
-_Context: Hillary Clinton, Iran, Persian Gulf, United States, United States Secretary of State, nuclear warheads_
+_Context: Hillary Clinton, Iran, Persian Gulf, U.S., United States Secretary of State, nuclear warheads_
 
 ### [ Ukrainian former Interior Ministry official Oleksiy Pukach confesses to murdering journalist Georgiy R. Gongadze and implicates other high-ranking officials.](/news/2009/07/22/ukrainian-former-interior-ministry-official-oleksiy-pukach-confesses-to-murdering-journalist-georgiy-r-gongadze-and-implicates-other-high.md)
 _Context: Georgiy R. Gongadze, Oleksiy Pukach, Ukraine, Ukraine's Minister of the Interior_

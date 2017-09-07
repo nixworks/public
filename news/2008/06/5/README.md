@@ -1,7 +1,7 @@
 ## [2008-06-5](/news/2008/06/5/index.md)
 
 ### [ An Irish opinion poll shows the EU Treaty of Lisbon heading for defeat. ](/news/2008/06/5/an-irish-opinion-poll-shows-the-eu-treaty-of-lisbon-heading-for-defeat.md)
-_Context: European Union, Ireland, Treaty of Lisbon, opinion poll_
+_Context: EU, Ireland, Treaty of Lisbon, opinion poll_
 
 ### [ American and British diplomats are detained in Zimbabwe. ](/news/2008/06/5/american-and-british-diplomats-are-detained-in-zimbabwe.md)
 _Context: Zimbabwe, are detained_

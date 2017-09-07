@@ -4,7 +4,7 @@
 _Context: 50-ore coin, Riksdag, Sweden, abolish_
 
 ### [ A United States Air Force F-22 Raptor crashes near Edwards AF Base in California, killing its pilot. ](/news/2009/03/25/a-united-states-air-force-f-22-raptor-crashes-near-edwards-af-base-in-california-killing-its-pilot.md)
-_Context: Air Force, California, Edwards Air Force Base, United States, incidents, most advanced fighter jets, pilot_
+_Context: Air Force, California, Edwards Air Force Base, U.S., incidents, most advanced fighter jets, pilot_
 
 ### [ India's Board of Control for Cricket will relocate the 2009 Premier League to South Africa. ](/news/2009/03/25/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-to-south-africa.md)
 _Context: Board of Control for Cricket, India, Indian Premier League, South Africa, win_

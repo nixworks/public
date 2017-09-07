@@ -25,7 +25,7 @@ _Context: Amnesty International, Zimbabwe_
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ European Union postpones negotiations for Croatia's possible membership. Delegates state that Zagreb has not cooperated with the International Criminal Tribunal for the Former Yugoslavia in trying to arrest suspected war criminal Ante Golovina. ](/news/2005/03/16/european-union-postpones-negotiations-for-croatia-s-possible-membership-delegates-state-that-zagreb-has-not-cooperated-with-the-internatio.md)
-_Context: Ante Golovina, Croatia, European Union, International Criminal Tribunal for the former Yugoslavia, Zagreb_
+_Context: Ante Golovina, Croatia, EU, International Criminal Tribunal for the former Yugoslavia, Zagreb_
 
 ### [ A plane crash in Russia kills 28, some of them employees of Lukoil oil company. ](/news/2005/03/16/a-plane-crash-in-russia-kills-28-some-of-them-employees-of-lukoil-oil-company.md)
 _Context: Lukoil, Russia, plane crash_

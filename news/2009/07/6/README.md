@@ -40,13 +40,13 @@ A team of diplomats and negotiators are seeking to locate an Irish aid worker an
 _Context: Bolivia, cocaine_
 
 ### [ European Union foreign policy chief Javier Solana says he will not seek another term in office. ](/news/2009/07/6/european-union-foreign-policy-chief-javier-solana-says-he-will-not-seek-another-term-in-office.md)
-_Context: European Union, Javier Solana_
+_Context: EU, Javier Solana_
 
 ### [ The center-right Citizens for European Development of Bulgaria party wins big in the Bulgarian parliamentary elections ](/news/2009/07/6/the-center-right-citizens-for-european-development-of-bulgaria-party-wins-big-in-the-bulgarian-parliamentary-elections.md)
 _Context: Bulgarian parliamentary elections, GERB_
 
 ### [ Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. ](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-florida-united-states-killing-one-person-and-wounding-eleven-others.md)
-_Context: Florida, Miami, United States, shooting_
+_Context: Florida, Miami, U.S., shooting_
 
 ### [ Iran says it will hold the US responsible for any Israeli attack against their country, in response to US Vice President Joe Biden's claim that the US will not interfere in an Israeli attack on Iranian nuclear facilities. ](/news/2009/07/6/iran-says-it-will-hold-the-us-responsible-for-any-israeli-attack-against-their-country-in-response-to-us-vice-president-joe-biden-s-claim.md)
 US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to fix.

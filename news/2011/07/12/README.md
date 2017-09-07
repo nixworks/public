@@ -1,7 +1,7 @@
 ## [2011-07-12](/news/2011/07/12/index.md)
 
 ### [7 people are killed and 3 others are injured by a United States drone attack in Pakistan's South Waziristan region. ](/news/2011/07/12/7-people-are-killed-and-3-others-are-injured-by-a-united-states-drone-attack-in-pakistan-s-south-waziristan-region.md)
-_Context: Pakistan, South Waziristan, United States, drones launch_
+_Context: Pakistan, South Waziristan, U.S., drones launch_
 
 ### [Miners clash with police in Chile. ](/news/2011/07/12/miners-clash-with-police-in-chile.md)
 _Context: Chile_
@@ -73,7 +73,7 @@ _Context: Halle Berry, Hollywood Hills, felons_
 _Context: Bureau of Alcohol, Tobacco, Firearms and Explosives, CNN, Mexican drug cartel, Operation Fast and Furious_
 
 ### [Voters in California's 36th congressional district go to the polls for a special election to replace former Rep. Jane Harman with Democrat Janice Hahn defeating Republican Craig Huey. ](/news/2011/07/12/voters-in-california-s-36th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-rep-jane-harman-with-democrat-j.md)
-_Context: California's 36th congressional district, Craig Huey, Democratic, Jane Harman, Janice Hahn, Republican, special election_
+_Context: California's 36th congressional district, Craig Huey, Democrats, Jane Harman, Janice Hahn, Republican, special election_
 
 ### [The UK Government states its intention to support a Labour Party motion in the House of Commons calling for the withdrawal of News Corporation's bid to take over BSkyB. ](/news/2011/07/12/the-uk-government-states-its-intention-to-support-a-labour-party-motion-in-the-house-of-commons-calling-for-the-withdrawal-of-news-corporati.md)
 News Corporation boss Rupert Murdoch may appear before MPs next week over the phone hacking scandal - a senior MP has claimed.

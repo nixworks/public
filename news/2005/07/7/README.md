@@ -4,7 +4,7 @@
 _Context: (Wikinews), 7 July, London Underground, al-Qaeda, explosion_
 
 ### [ Malta becomes the 12th European Union member to ratify the EU constitution and the first to do so unanimously. ](/news/2005/07/7/malta-becomes-the-12th-european-union-member-to-ratify-the-eu-constitution-and-the-first-to-do-so-unanimously.md)
-_Context: EU constitution, European Union, Malta_
+_Context: EU, EU constitution, Malta_
 
 ### [ In the Philippines, president Gloria Arroyo asks all the members of her cabinet to resign. ](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.md)
 _Context: Gloria Arroyo, Philippines_

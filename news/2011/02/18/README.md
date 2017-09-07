@@ -10,7 +10,7 @@ _Context: Panama_
 _Context: Afghanistan's, Kunar Province_
 
 ### [Retired CIA officer-turned-political activist Ray McGovern is thrown out, bloodied and arrested while protesting a speech given by Hillary Clinton on internet freedomdate=August 2017 at George Washington University in Washington, D.C. Veterans for Peace requests that Clinton apologise. ](/news/2011/02/18/retired-cia-officer-turned-political-activist-ray-mcgovern-is-thrown-out-bloodied-and-arrested-while-protesting-a-speech-given-by-hillary-c.md)
-_Context: CIA, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, Washington, D.C., internet freedom_
+_Context: CIA, District of Columbia, George Washington University, Hillary Clinton, Ray McGovern, Veterans for Peace, internet freedom_
 
 ### [Troops and tanks patrol Manama as the Bahraini military sets up checkpoints; a ban on public gatherings is announced. ](/news/2011/02/18/troops-and-tanks-patrol-manama-as-the-bahraini-military-sets-up-checkpoints-a-ban-on-public-gatherings-is-announced.md)
 _Context: Manama_
@@ -62,7 +62,7 @@ A Chinese-born US geologist loses his appeal against an eight-year sentence in C
 _Context: Ergenekon, Turkey, Turkish government, dissident_
 
 ### [A McCann family spokesman insists reports that Madeleine McCann was taken to the United States after being snatched during a family holiday in Portugal must be treated with caution. ](/news/2011/02/18/a-mccann-family-spokesman-insists-reports-that-madeleine-mccann-was-taken-to-the-united-states-after-being-snatched-during-a-family-holiday.md)
-_Context: Madeleine McCann, Portugal, United States_
+_Context: Madeleine McCann, Portugal, U.S._
 
 ### [New Caledonia's coalition government collapses after the pro-independence Caledonian Union party withdraws its support for President Philippe Gomes in a dispute over the use of New Caledonian flags. ](/news/2011/02/18/new-caledonia-s-coalition-government-collapses-after-the-pro-independence-caledonian-union-party-withdraws-its-support-for-president-philipp.md)
 _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes, President of New Caledonia, governing coalition_
@@ -71,7 +71,7 @@ _Context: Caledonian Union, New Caledonia, New Caledonian flags, Philippe Gomes,
 Museveni confident of a fourth term while opposition threatens mass protests if vote is deemed to be rigged.
 
 ### [The "Washington Post" reports that United States Senator Jeff Bingaman of New Mexico will announce that he will not contest the 2012 Senate election for New Mexico. ](/news/2011/02/18/the-washington-post-reports-that-united-states-senator-jeff-bingaman-of-new-mexico-will-announce-that-he-will-not-contest-the-2012-senate.md)
-_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, United States, Washington Post_
+_Context: 2012 Senate election for New Mexico, Jeff Bingaman, New Mexico, Senator, U.S., Washington Post_
 
 ### [The Obama administration rescinds most of a regulation designed to protect health care workers who refuse to provide a service that they find objectionable but retains protections against performing abortions when you have strong anti-abortion convictions. ](/news/2011/02/18/the-obama-administration-rescinds-most-of-a-regulation-designed-to-protect-health-care-workers-who-refuse-to-provide-a-service-that-they-fin.md)
 _Context: Obama Administration, abortion, health care, regulation_

@@ -7,13 +7,13 @@ _Context: Mexico, current outbreak, swine flu_
 Two suicide bombers have blown themselves up at the gates of a revered Shiite Muslim shrine in Baghdad, killing at least 60.
 
 ### [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md)
-_Context: Current TV, North Korea, United States, indicted, journalism, trial_
+_Context: Current TV, North Korea, U.S., indicted, journalism, trial_
 
 ### [ Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. ](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.md)
 _Context: Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez, bribes, fraud, wire fraud_
 
 ### [ Democrat Scott Murphy wins New York's 20th congressional district special election. ](/news/2009/04/24/democrat-scott-murphy-wins-new-york-s-20th-congressional-district-special-election.md)
-_Context: 20th congressional district, Democratic, New York State, Scott Murphy, special election_
+_Context: 20th congressional district, Democrats, New York State, Scott Murphy, special election_
 
 ### [ American Southern Bank in Kennesaw, Georgia, is closed. ](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.md)
 _Context: American Southern Bank, Georgia, Kennesaw, banks failed_

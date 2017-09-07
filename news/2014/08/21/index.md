@@ -13,7 +13,7 @@ _Context: Bell 206, Guatemalan Military, Huehuetenango department_
 At least 36 people, including several children, were killed in Japan on Wednesday, when landslides triggered by torrential rain slammed into the outskirts of the western city of Hiroshima, and the toll could rise further, police said.
 
 ### [The governments of Romania and Hungary sign a framework agreement for opening 20 cross-border roads, strengthening traffic links with the entire European Union. ](/news/2014/08/21/the-governments-of-romania-and-hungary-sign-a-framework-agreement-for-opening-20-cross-border-roads-strengthening-traffic-links-with-the-en.md)
-_Context: European Union, Hungary, Romania_
+_Context: EU, Hungary, Romania_
 
 ### [The Ministry of Justice Investigation Bureau in Taiwan is investigating former deputy minister Chang Hsien-yao of the Mainland Affairs Council on suspicions of treason for allegedly leaking classified information to China. ](/news/2014/08/21/the-ministry-of-justice-investigation-bureau-in-taiwan-is-investigating-former-deputy-minister-chang-hsien-yao-of-the-mainland-affairs-counc.md)
 The Ministry of Justice’s Investigation Bureau yesterday said allegations brought by the Mainland Affairs Council against former deputy council minister Chang Hsien-yao (張顯耀) involved leaks of classified information to China, as other sources said that Chang could face trial for treason.

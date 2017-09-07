@@ -7,7 +7,7 @@ _Context: Aminatou Haidar, Canary Islands', Spain, Western Sahara, human rights,
 _Context: Ahmed Abdallah Mohamed Sambi, Comoros, President_
 
 ### [ Slovakia and the Czech Republic mark the 20th anniversary of the Velvet Revolution which overthrew the communist government of Czechoslovakia. ](/news/2009/11/17/slovakia-and-the-czech-republic-mark-the-20th-anniversary-of-the-velvet-revolution-which-overthrew-the-communist-government-of-czechoslovak.md)
-_Context: Czech Republic, Czechoslovakia, Slovakia's, Velvet Revolution, communism_
+_Context: Czech Republic, Czechoslovakia, Slovakia, Velvet Revolution, communism_
 
 ### [ A Russian icebreaker with 100 tourists on board is stranded in ice in the Antarctic. ](/news/2009/11/17/a-russian-icebreaker-with-100-tourists-on-board-is-stranded-in-ice-in-the-antarctic.md)
 _Context: Antarctic, Russia_

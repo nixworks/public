@@ -13,7 +13,7 @@ _Context: Augusto Pinochet, President, Villa Grimaldi_
 _Context: Ethiopia, Mogadishu, Muslim, Somalia, holy war_
 
 ### [ Washington D.C.-area sniper Lee Boyd Malvo admitted that he and partner John Allen Muhammad were responsible for the 2002 murder of a 60-year-old man on a Tucson golf course, police claim. ](/news/2006/10/27/washington-d-c-area-sniper-lee-boyd-malvo-admitted-that-he-and-partner-john-allen-muhammad-were-responsible-for-the-2002-murder-of-a-60-ye.md)
-_Context: John Allen Muhammad, Lee Boyd Malvo, Tucson, Washington, D.C._
+_Context: District of Columbia, John Allen Muhammad, Lee Boyd Malvo, Tucson_
 
 ### [ The Iranian Students' News Agency reports that Iran has injected gas into a second network of centrifuges and has obtained the output, a possible step in developing nuclear materials. ](/news/2006/10/27/the-iranian-students-news-agency-reports-that-iran-has-injected-gas-into-a-second-network-of-centrifuges-and-has-obtained-the-output-a-po.md)
 _Context: ISNA, centrifuge, nuclear materials_

@@ -7,7 +7,7 @@ _Context: Citrus Bowl, WrestleMania XXIV_
 _Context: Aloha Airlines, bankruptcy_
 
 ### [ The enlargement of the EU's borderless zone to eight Eastern European countries and Malta is completed through the lifting of air border controls between them and the 15 countries already part of the area. ](/news/2008/03/30/the-enlargement-of-the-eu-s-borderless-zone-to-eight-eastern-european-countries-and-malta-is-completed-through-the-lifting-of-air-border-co.md)
-_Context: European Union, Malta, Schengen Agreement_
+_Context: EU, Malta, Schengen Agreement_
 
 ### [ French architect Jean Nouvel wins one of the world's premier architecture honors, the Pritzker Prize. ](/news/2008/03/30/french-architect-jean-nouvel-wins-one-of-the-world-s-premier-architecture-honors-the-pritzker-prize.md)
 Jean Nouvel, known for diverse but distinctive projects, has won architecture’s top honor.

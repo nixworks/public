@@ -4,7 +4,7 @@
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
 ### [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md)
-_Context: Datta Khel, North Waziristan, Pakistan, United States, drones launch_
+_Context: Datta Khel, North Waziristan, Pakistan, U.S., drones launch_
 
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
 _Context: Peru, Trujillo, bus_
@@ -22,7 +22,7 @@ _Context: North Korea, North Korea-South Korea relations, South Korea_
 Venezuelans have been voting to choose a successor to late President Hugo Chavez, with the opposition already alleging irregularities.
 
 ### [In Croatia, people go to the polls to elect the first ever European MPs of the country, anticipating the formal entry of Croatia in the European Union, in July. ](/news/2013/04/14/in-croatia-people-go-to-the-polls-to-elect-the-first-ever-european-mps-of-the-country-anticipating-the-formal-entry-of-croatia-in-the-euro.md)
-_Context: Croatia, European Parliament, European Union, MP, country's first ever vote, formal entry of Croatia_
+_Context: Croatia, EU, European Parliament, MP, country's first ever vote, formal entry of Croatia_
 
 ### [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md)
 _Context: Canada, Canadian Prime Minister, Justin Trudeau, Liberal Party's, Pierre Trudeau_

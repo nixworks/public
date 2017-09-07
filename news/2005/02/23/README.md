@@ -1,7 +1,7 @@
 ## [2005-02-23](/news/2005/02/23/index.md)
 
 ### [ President Bush arrives in Slovakia for the Slovakia Summit, becoming the first sitting U.S. President to visit Slovakia. ([http://reuters.com/newsArticle.jhtml;jsessionid=JV2NEPDHEINKICRBAEZSFFA?type=topNews&storyID=7719193 Reuters])](/news/2005/02/23/president-bush-arrives-in-slovakia-for-the-slovakia-summit-becoming-the-first-sitting-u-s-president-to-visit-slovakia-http-reuters-c.md)
-_Context: Bush, Slovakia Summit, Slovakia's_
+_Context: Bush, Slovakia, Slovakia Summit_
 
 ### [ Three British soldiers are found guilty of abusing Iraqi prisoners; more British soldiers face the possibility of conviction. ](/news/2005/02/23/three-british-soldiers-are-found-guilty-of-abusing-iraqi-prisoners-more-british-soldiers-face-the-possibility-of-conviction.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

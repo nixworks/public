@@ -25,7 +25,7 @@ _Context: Dubai Ports World controversy, Eller & Company, P&O_
 _Context: Dan Brown, High Court, Michael Baigent, Random House, Richard Leigh, The Da Vinci Code, The Holy Blood and the Holy Grail_
 
 ### [ Facebook is opened to the public.](/news/2006/02/27/facebook-is-opened-to-the-public.md)
-_Context: Facebook, Inc._
+_Context: Facebook_
 
 ## [Previous Day...](/news/2006/02/26/index.md)
 

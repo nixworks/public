@@ -13,7 +13,7 @@ Israeli authorities said Tuesday that two Palestinians suspected of taking part 
 WHO-backed plan for Ebola is seen as intermediate step between treatment centers and home care.
 
 ### [President of Russia Vladimir Putin warns in a letter to his Ukrainian counterpart Petro Poroshenko that Moscow will restrict Ukraine's access to Russian markets if Kiev implements any part of a trade agreement with the European Union. ](/news/2014/09/23/president-of-russia-vladimir-putin-warns-in-a-letter-to-his-ukrainian-counterpart-petro-poroshenko-that-moscow-will-restrict-ukraine-s-acces.md)
-_Context: European Union, Petro Poroshenko, Russian President Vladimir Putin, Ukrainian President, Vladimir Putin_
+_Context: EU, Petro Poroshenko, Russian President Vladimir Putin, Ukrainian President, Vladimir Putin_
 
 ## [Previous Day...](/news/2014/09/22/index.md)
 

@@ -10,7 +10,7 @@ _Context: Mexico, People's Revolutionary Army, Secretary of the Interior, pipeli
 _Context: Bulgaria, HIV, Muammar al-Gaddafi, Palestinian_
 
 ### [ The European Union chooses Dominique Strauss-Kahn as its nominee to head the International Monetary Fund, making him the frontrunner to fill the position in October. ](/news/2007/07/10/the-european-union-chooses-dominique-strauss-kahn-as-its-nominee-to-head-the-international-monetary-fund-making-him-the-frontrunner-to-fil.md)
-_Context: Dominique Strauss-Kahn, European Union, International Monetary Fund_
+_Context: Dominique Strauss-Kahn, EU, International Monetary Fund_
 
 ### [ All 24 police officers missing after a fight between police and Maoist insurgents in Chhattisgarh central India have been found dead. ](/news/2007/07/10/all-24-police-officers-missing-after-a-fight-between-police-and-maoist-insurgents-in-chhattisgarh-central-india-have-been-found-dead.md)
 _Context: Chhattisgarh, India, Maoist_
@@ -37,10 +37,10 @@ _Context: Brian France, Cessna 310, Florida, International Speedway Corporation,
 _Context: Australia, Julian Moti, Solomon Islands, child-sex_
 
 ### [ Simn Trinidad, a high-ranking member of the Revolutionary Armed Forces of Colombia, is found guilty of conspiracy to hold three Americans hostage by a U.S. court. ](/news/2007/07/10/simon-trinidad-a-high-ranking-member-of-the-revolutionary-armed-forces-of-colombia-is-found-guilty-of-conspiracy-to-hold-three-americans.md)
-_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, United States_
+_Context: Revolutionary Armed Forces of Colombia, Simn Trinidad, U.S._
 
 ### [ In observance of Captive Nations Week, there was a brief ceremony and laying of a wreath today at the Victims of Communism Memorial, Massachusetts and New Jersey Avenues, NW, Washington, D.C.. On 10 July, George W. Bush issued a Proclamation, designating July 15 through 21 as Captive Nations Week and called upon the American people to reaffirm the country's "commitment to all those seeking liberty, justice and self-determination." This year marks the 49th observance of Captive Nations Week. ](/news/2007/07/10/in-observance-of-captive-nations-week-there-was-a-brief-ceremony-and-laying-of-a-wreath-today-at-the-victims-of-communism-memorial-massac.md)
-_Context: 10 July, Captive Nations Week, George W. Bush, Massachusetts, Proclamation, United States, Washington, D.C., communism, self-determination_
+_Context: 10 July, Captive Nations Week, District of Columbia, George W. Bush, Massachusetts, Proclamation, U.S., communism, self-determination_
 
 ### [ Thailand's highest court rules that a corruption case may proceed against former Prime Minister of Thailand Thaksin Shinawatra. ](/news/2007/07/10/thailand-s-highest-court-rules-that-a-corruption-case-may-proceed-against-former-prime-minister-of-thailand-thaksin-shinawatra.md)
 _Context: Prime Minister, Thailand, Thaksin Shinawatra_

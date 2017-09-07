@@ -1,7 +1,7 @@
 ## [2009-10-30](/news/2009/10/30/index.md)
 
 ### [ European Union leaders agree a climate aid deal to help developing countries adapt to global warming. ](/news/2009/10/30/european-union-leaders-agree-a-climate-aid-deal-to-help-developing-countries-adapt-to-global-warming.md)
-_Context: European Union, developing countries, global warming_
+_Context: EU, developing countries, global warming_
 
 ### [ Typhoon Mirinae makes landfall in the Philippines. ](/news/2009/10/30/typhoon-mirinae-makes-landfall-in-the-philippines.md)
 Manila prepares for the worst as fourth storm in last two months makes landfall.
@@ -13,7 +13,7 @@ _Context: Internet Corporation for Assigned Names and Numbers, Latin_
 _Context: Ares I-X, Atlantic Ocean, NASA, parachute, splashdown_
 
 ### [ A U.S. judge orders a trial for two doctors and a lawyer accused of providing American sex symbol Anna Nicole Smith with drugs. ](/news/2009/10/30/a-u-s-judge-orders-a-trial-for-two-doctors-and-a-lawyer-accused-of-providing-american-sex-symbol-anna-nicole-smith-with-drugs.md)
-_Context: Anna Nicole Smith, United States, sex symbol_
+_Context: Anna Nicole Smith, U.S., sex symbol_
 
 ### [ African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. ](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.md)
 _Context: African Union, Sudan, conflict_

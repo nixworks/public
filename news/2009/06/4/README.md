@@ -13,7 +13,7 @@ James Purnell, the work and pensions secretary, dealt a major blow to Gordon Bro
 _Context: A New Beginning, Barack Obama, Cairo, Egypt, Muslim, President_
 
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: European Parliament, European Union, Netherlands, United Kingdom, election_
+_Context: EU, European Parliament, Netherlands, United Kingdom, election_
 
 ### [ Irish Minister for Education and Science Batt O'Keeffe apologises for the postponement of a Leaving Certificate Examination. ](/news/2009/06/4/irish-minister-for-education-and-science-batt-o-keeffe-apologises-for-the-postponement-of-a-leaving-certificate-examination.md)
 An inquiry has begun into the security breach which forced the postponement of today&#39;s Leaving Cert English Paper Two.
@@ -22,7 +22,7 @@ An inquiry has begun into the security breach which forced the postponement of t
 _Context: Australia, Joel Fitzgibbon, Minister for Defence_
 
 ### [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md)
-_Context: Linguistic analysis, Moon, Neil Armstrong, United States, article, astronaut, phrase, walked_
+_Context: Linguistic analysis, Moon, Neil Armstrong, U.S., article, astronaut, phrase, walked_
 
 ### [ 150,000 people assemble in Hong Kong, China, to commemorate the 20th anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/4/150-000-people-assemble-in-hong-kong-china-to-commemorate-the-20th-anniversary-of-the-massacre-in-tiananmen-square-on-june-4-1989.md)
 _Context: China, Hong Kong, Tiananmen Square, Tiananmen Square protests of 1989_

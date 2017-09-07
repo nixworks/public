@@ -1,7 +1,7 @@
 ## [2016-11-24](/news/2016/11/24/index.md)
 
 ### [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md)
-_Context: Colombia, Colombian peace process, FARC_
+_Context: Colombia, FARC, peace agreement_
 
 ### [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md)
 Myanmar wants to rid the country of its Muslim minority, a senior UN official tells the BBC.
@@ -52,7 +52,7 @@ It’s a reminder to her supporters that more Americans voted the way they did t
 Police clashed with supporters of presidential candidate Maryse Narcisse in Port-au-Prince as the nation awaits elections results. 
 
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)
-_Context: Austrian presidential election, 2016, European Union, Freedom Party of Austria, Norbert Hofer_
+_Context: Austrian presidential election, 2016, EU, Freedom Party of Austria, Norbert Hofer_
 
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)
 _Context: Grenada, Grenadian constitutional referendum, 2016, United Kingdom_

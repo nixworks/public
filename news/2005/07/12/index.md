@@ -31,7 +31,7 @@ _Context: Elias Murr, Lebanon, Syria_
 _Context: France, Transports Schiocchet Excursions, carpool_
 
 ### [ In Washington, D.C., Presidential Press Secretary Scott McClellan refused for the second day in a row to respond to reporters' questions about Newsweek's revelation that Karl Rove disclosed the identity of CIA agent Valerie Plame. McClellan had asserted Rove's innocence on many occasions in the past. The President, at a photo-op today, ignored reporters who asked if his pledge to fire any staffer involved was still operative. ](/news/2005/07/12/in-washington-d-c-presidential-press-secretary-scott-mcclellan-refused-for-the-second-day-in-a-row-to-respond-to-reporters-questions-ab.md)
-_Context: CIA, George W. Bush, Karl Rove, Newsweek, Scott McClellan, Valerie Plame, Washington, D.C._
+_Context: CIA, District of Columbia, George W. Bush, Karl Rove, Newsweek, Scott McClellan, Valerie Plame_
 
 ### [ Stockholders of both Procter & Gamble and Gillette overwhelmingly approve a combination of the two huge consumer-product companies, although the deal faces regulatory scrutiny both in Europe and in the United States. ](/news/2005/07/12/stockholders-of-both-procter-gamble-and-gillette-overwhelmingly-approve-a-combination-of-the-two-huge-consumer-product-companies-althoug.md)
 _Context: Gillette, Procter & Gamble_

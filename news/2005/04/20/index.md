@@ -40,7 +40,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Canada, Maurice Strong, Tongsun, United Nations, oil-for-food_
 
 ### [ European Union representatives cancel meeting with a Pakistan delegation because of the inclusion of hardliner Maulana Sami ul-Haq, who allegedly has links to the Taliban. ](/news/2005/04/20/european-union-representatives-cancel-meeting-with-a-pakistan-delegation-because-of-the-inclusion-of-hardliner-maulana-sami-ul-haq-who-all.md)
-_Context: European Union, Maulana Sami ul-Haq, Pakistan, Taliban_
+_Context: EU, Maulana Sami ul-Haq, Pakistan, Taliban_
 
 ### [ Spanish officials state that they are "concerned" about an apparent disappearance of Severo Moto, leader of an opposition political movement in Equatorial Guinea, who has lived in Spain in exile. His wife reported him missing. ](/news/2005/04/20/spanish-officials-state-that-they-are-concerned-about-an-apparent-disappearance-of-severo-moto-leader-of-an-opposition-political-movemen.md)
 _Context: Equatorial Guinea, Severo Moto, Spain_

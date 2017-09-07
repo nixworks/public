@@ -22,7 +22,7 @@ _Context: Karachi, Pakistan, alcohol_
 NATO&#039;s alliance force in Afghanistan says its warplanes killed an unspecified number of Afghan civilians in an air strike during a battle with Taliban fighters.
 
 ### [ The Dutch Cabinet meets to decide whether to hold a referendum on the European Union's Reform Treaty. ](/news/2007/09/21/the-dutch-cabinet-meets-to-decide-whether-to-hold-a-referendum-on-the-european-union-s-reform-treaty.md)
-_Context: European Union, Netherlands, Reform Treaty, forming a government, referendum_
+_Context: EU, Netherlands, Reform Treaty, forming a government, referendum_
 
 ### [ Chilean Supreme Court approves extradition of Peruvian ex-president Alberto Fujimori on numerous charges, including the massacres of Barrios Altos and La Cantuta. ](/news/2007/09/21/chilean-supreme-court-approves-extradition-of-peruvian-ex-president-alberto-fujimori-on-numerous-charges-including-the-massacres-of-barrio.md)
 _Context: Alberto Fujimori, Barrios Altos, Chile, La Cantuta, Peru, Supreme Court, extradited_

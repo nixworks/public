@@ -12,7 +12,7 @@ The death toll from Saturday’s earthquake rose to 29 by press time last night 
 
 ### Related:
 
-1. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _Context: Tainan, the Republic of China_
+1. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _Context: Tainan, the Republic of China_
 2. [The death toll from Saturday's earthquake in Taiwan rises to 41 with 109 people missing. ](/news/2016/02/9/the-death-toll-from-saturday-s-earthquake-in-taiwan-rises-to-41-with-109-people-missing.md) _Context: 2016 Taiwan earthquake, the Republic of China_
 3. [The death toll from the Taiwan earthquake rises to 38 with more than 100 people missing. ](/news/2016/02/8/the-death-toll-from-the-taiwan-earthquake-rises-to-38-with-more-than-100-people-missing.md) _Context: 2016 Taiwan earthquake, the Republic of China_
 4. [The earthquake death toll rises to 116. Tainan's disaster response office says search and rescue operations have ended. The last body was found yesterday. Ninety-six, of the 289 people rescued, remain hospitalized. ](/news/2016/02/14/the-earthquake-death-toll-rises-to-116-tainan-s-disaster-response-office-says-search-and-rescue-operations-have-ended-the-last-body-was-fo.md) _Context: 2016 Taiwan earthquake, Tainan_

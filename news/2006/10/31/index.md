@@ -4,7 +4,7 @@
 _Context: California, Esperanza Fire, Palm Springs, California_
 
 ### [ A United States federal appeals court blocks a landmark judgment against the tobacco industry clearing the way for selling "light" and "low tar" cigarettes until industry appeals can be reviewed. ](/news/2006/10/31/a-united-states-federal-appeals-court-blocks-a-landmark-judgment-against-the-tobacco-industry-clearing-the-way-for-selling-light-and-low.md)
-_Context: United States, cigarette, tobacco_
+_Context: U.S., cigarette, tobacco_
 
 ### [ Hassan Nasrallah, the Secretary-General of Hezbollah, says that it has started negotiating with Israel on prisoner exchange. ](/news/2006/10/31/hassan-nasrallah-the-secretary-general-of-hezbollah-says-that-it-has-started-negotiating-with-israel-on-prisoner-exchange.md)
 _Context: Hassan Nasrallah, Hezbollah, Israel, Secretary General_
@@ -25,7 +25,7 @@ _Context: China, North Korea, intercontinental ballistic, six-party talks_
 _Context: Afghanistan's, NATO, Nuristan, Taliban insurgency_
 
 ### [ Chenagai airstrike: Pakistani officials confirm that a strike on a madrassah was based on United States intelligence that senior members of al-Qaeda were hiding there. The attack has generated protests by religious and tribal leaders in Pakistan. ](/news/2006/10/31/chenagai-airstrike-pakistani-officials-confirm-that-a-strike-on-a-madrassah-was-based-on-united-states-intelligence-that-senior-members-of.md)
-_Context: Chenagai airstrike, Pakistan, United States, al-Qaeda, madrassah_
+_Context: Chenagai airstrike, Pakistan, U.S., al-Qaeda, madrassah_
 
 ### [ Fiji's military stage exercises around the capital Suva and close off the city's army barracks as tensions rose due to fears of a coup d'etat. Fiji's military chief, Frank Bainimarama, has threatened to force the Prime Minister of Fiji Laisenia Qarase to resign unless the Prime Minister drops two Bills, one which will offer amnesty to some of those involved in a 2000 coup led by George Speight. ](/news/2006/10/31/fiji-s-military-stage-exercises-around-the-capital-suva-and-close-off-the-city-s-army-barracks-as-tensions-rose-due-to-fears-of-a-coup-d-a-c.md)
 _Context: 2000 coup, George Speight, Laisenia Qarase, Prime Minister, Suva, Voreqe Bainimarama, coup, military government_

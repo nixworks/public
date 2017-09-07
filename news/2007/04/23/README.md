@@ -13,13 +13,13 @@ _Context: Bali Nine, Denpasar, Matthew Norman, Si Yi Chen, Tan Duc Thanh Nguyen,
 _Context: ABN Amro, Barclays plc, EUR_
 
 ### [ Umaru Yar'Adua is declared the winner of Nigeria's presidential election that EU observers said "cannot be considered to have been credible." ](/news/2007/04/23/umaru-yar-adua-is-declared-the-winner-of-nigeria-s-presidential-election-that-eu-observers-said-cannot-be-considered-to-have-been-credible.md)
-_Context: European Union, Nigeria, Umaru Yar'Adua, presidential election_
+_Context: EU, Nigeria, Umaru Yar'Adua, presidential election_
 
 ### [ NASA releases the first 3D images of the Sun acquired by the STEREO spacecraft. ](/news/2007/04/23/nasa-releases-the-first-3d-images-of-the-sun-acquired-by-the-stereo-spacecraft.md)
 _Context: 3D, NASA, STEREO, Sun_
 
 ### [ The United States' 391st National Park Unit, Sand Creek Massacre National Historic Site, is formally established. ](/news/2007/04/23/the-united-states-391st-national-park-unit-sand-creek-massacre-national-historic-site-is-formally-established.md)
-_Context: National Park Unit, Sand Creek Massacre National Historic Site, United States_
+_Context: National Park Unit, Sand Creek Massacre National Historic Site, U.S._
 
 ### [ VA allows Wiccan symbols on headstones. ](/news/2007/04/23/va-allows-wiccan-symbols-on-headstones.md)
 After a lawsuit advocating the usage of Wiccan pentacles on headstones, the US Department of Veterans Affairs added the symbol to its list of approved emblems.

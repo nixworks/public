@@ -10,7 +10,7 @@ US singer Chris Brown postpones a UK tour after being denied a visa over his con
 Twelve people, including schoolchildren, perish as boat capsizes in lake.
 
 ### [The EU proposes that Romani issues should be integrated into housing, education and culture polices at EU and national level. ](/news/2010/06/8/the-eu-proposes-that-romani-issues-should-be-integrated-into-housing-education-and-culture-polices-at-eu-and-national-level.md)
-_Context: European Union, Roma_
+_Context: EU, Roma_
 
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
 _Context: Afghanistan's, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Gaza flotilla raid, Israel, Istanbul, Russia, Syria_
@@ -37,7 +37,7 @@ Prosecutors in Cyprus begin presenting evidence against a TV host accused of ord
 Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.85bn.
 
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: Governor of Illinois, Rod Blagojevich, United States, corruption_
+_Context: Governor of Illinois, Rod Blagojevich, U.S., corruption_
 
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
 _Context: Afghanistan's, UK Border Agency_

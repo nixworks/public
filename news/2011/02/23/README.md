@@ -10,7 +10,7 @@ Yemeni&#x20;protesters&#x20;remained&#x20;defiant&#x20;on&#x20;Wednesday&#x20;fo
 _Context: Enid Blyton_
 
 ### [Samsung releases, in South Korea, a camera that can post photos and videos directly to Facebook and YouTube. ](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.md)
-_Context: Facebook, Inc., Samsung, South Korea, YouTube_
+_Context: Facebook, Samsung, South Korea, YouTube_
 
 ### [Australian businessman Lachlan Murdoch is appointed as acting CEO of Network Ten following the sacking of Grant Blackley. ](/news/2011/02/23/australian-businessman-lachlan-murdoch-is-appointed-as-acting-ceo-of-network-ten-following-the-sacking-of-grant-blackley.md)
 _Context: Australia, Lachlan, Network Ten_
@@ -22,7 +22,7 @@ OIL PRICES have risen to fresh two-year highs near $US96 a barrel in Asia amid t
 _Context: Japan, trade deficit_
 
 ### [Stock markets in the United States and Europe fall due to uncertainty in the Middle East and rising oil prices. ](/news/2011/02/23/stock-markets-in-the-united-states-and-europe-fall-due-to-uncertainty-in-the-middle-east-and-rising-oil-prices.md)
-_Context: Europe, Middle East, United States, stock market_
+_Context: Europe, Middle East, U.S., stock market_
 
 ### [300 persons are estimated to be still missing in Christchurch, New Zealand, following yesterday's earthquake with the official death toll reaching 75. ](/news/2011/02/23/300-persons-are-estimated-to-be-still-missing-in-christchurch-new-zealand-following-yesterday-s-earthquake-with-the-official-death-toll-re.md)
 10.58pm That concludes our Christchurch earthquake updates for this evening. They will resume from early tomorrow morning. - New Zealand Herald

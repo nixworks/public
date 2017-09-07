@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Isabelle Dinoire, face transplant_
 
 ### [ A Slovak Antonov An-24 military aircraft carrying troops back from Kosovo crashes into a mountainside in northeastern Hungary, killing 42 people. Only one person survived. ](/news/2006/01/19/a-slovak-antonov-an-24-military-aircraft-carrying-troops-back-from-kosovo-crashes-into-a-mountainside-in-northeastern-hungary-killing-42-p.md)
-_Context: Antonov An-24, Hungary, Kosovo, Slovakia's, crashes, military_
+_Context: Antonov An-24, Hungary, Kosovo, Slovakia, crashes, military_
 
 ### [ At least thirty-one people have died during a four-day cold snap in Russia where temperatures have plunged to as low as [?]42&nbsp;degC ([?]44&nbsp;degF). ](/news/2006/01/19/at-least-thirty-one-people-have-died-during-a-four-day-cold-snap-in-russia-where-temperatures-have-plunged-to-as-low-as-a42-nbsp-adegc-a.md)
 A brutal, four-day cold snap in Russia, with temperatures plunging as low as -31 C, has killed at least 31 people.

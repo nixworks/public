@@ -10,7 +10,7 @@ _Context: China, Jack Lew, Treasury Secretary, Wang Yang, yuan_
 Voting booths open for state elections in South Australia and Tasmania, with the Liberals tipped to win both contests.
 
 ### [Voters go to the polls in Slovakia with partial results showing that Prime Minister Robert Fico and businessman-turned philanthropist Andrej Kiska are likely to be the two contenders in the second round. ](/news/2014/03/15/voters-go-to-the-polls-in-slovakia-with-partial-results-showing-that-prime-minister-robert-fico-and-businessman-turned-philanthropist-andrej.md)
-_Context: Andrej Kiska, Prime Minister, Robert Fico's, Slovakia's, presidential election_
+_Context: Andrej Kiska, Prime Minister, Robert Fico's, Slovakia, presidential election_
 
 ### [The March of Peace took place in Russia a day before the Crimean referendum. 30,000 people participated in anti-war protests in Moscow. ](/news/2014/03/15/the-march-of-peace-took-place-in-russia-a-day-before-the-crimean-referendum-30-000-people-participated-in-anti-war-protests-in-moscow.md)
 _Context: Crimean referendum, 2014, March of Peace_

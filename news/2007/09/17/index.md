@@ -7,19 +7,19 @@ _Context: John Kerry, United States Senate, apprehended by five police officers,
 _Context: Bernard Kouchner, Minister of Foreign Affairs, nuclear program_
 
 ### [ Iraq and the United States have pledged a "fair and transparent" investigation into a gunfight involving private security firm Blackwater Security that left eight people dead in Baghdad. ](/news/2007/09/17/iraq-and-the-united-states-have-pledged-a-fair-and-transparent-investigation-into-a-gunfight-involving-private-security-firm-blackwater-s.md)
-_Context: Baghdad, Blackwater Security, Iraq, United States_
+_Context: Baghdad, Blackwater Security, Iraq, U.S._
 
 ### [ Ernest Bai Koroma is sworn in as the President of Sierra Leone after winning a run-off election held 10 days ago. ](/news/2007/09/17/ernest-bai-koroma-is-sworn-in-as-the-president-of-sierra-leone-after-winning-a-run-off-election-held-10-days-ago.md)
 Sierra Leone&#039;s Opposition leader has been sworn in as the country&#039;s new President after being declared the victor 10 days after a run-off election.
 
 ### [ Hillary Clinton, a candidate for the Democratic Party's nomination in the United States presidential election, 2008, announces a proposal for a universal healthcare plan. ](/news/2007/09/17/hillary-clinton-a-candidate-for-the-democratic-party-s-nomination-in-the-united-states-presidential-election-2008-announces-a-proposal-f.md)
-_Context: 2008, Democratic, Hillary Clinton, universal healthcare_
+_Context: 2008, Democrats, Hillary Clinton, universal healthcare_
 
 ### [ President George W. Bush nominates Michael Mukasey to replace Alberto Gonzales as the next Attorney-General of the United States. ](/news/2007/09/17/president-george-w-bush-nominates-michael-mukasey-to-replace-alberto-gonzales-as-the-next-attorney-general-of-the-united-states.md)
 US President George W Bush has nominated a retired federal judge and law and order conservative to replace embattled Alberto Gonzales as US Attorney-General.
 
 ### [ Microsoft loses its appeal against a European Union antitrust ruling forcing it to pay a 497 million euro fine. ](/news/2007/09/17/microsoft-loses-its-appeal-against-a-european-union-antitrust-ruling-forcing-it-to-pay-a-497-million-euro-fine.md)
-_Context: EUR, European Union, Microsoft, antitrust_
+_Context: EU, EUR, Microsoft, antitrust_
 
 ### [ The Supreme Court of Pakistan hears petitions as to whether Pervez Musharraf should remain as head of the Pakistani Army while serving as the President of Pakistan. ](/news/2007/09/17/the-supreme-court-of-pakistan-hears-petitions-as-to-whether-pervez-musharraf-should-remain-as-head-of-the-pakistani-army-while-serving-as-t.md)
 _Context: Pakistani Army, Pervez Musharraf, Supreme Court, president_

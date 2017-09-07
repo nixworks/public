@@ -4,7 +4,7 @@
 _Context: 2006, Amtrak, US$, United States House of Representatives, United States Senate, passenger train_
 
 ### [ The United States Capitol in Washington D.C. was briefly evacuated due to an aircraft that entered restricted airspace.](/news/2005/06/29/the-united-states-capitol-in-washington-d-c-was-briefly-evacuated-due-to-an-aircraft-that-entered-restricted-airspace.md)
-_Context: United States Capitol, Washington, D.C._
+_Context: District of Columbia, United States Capitol_
 
 ### [ New York officials release the design for the signature building of the World Trade Center. The building will be called "The Freedom Tower" and shine a ray of light from its spire.](/news/2005/06/29/new-york-officials-release-the-design-for-the-signature-building-of-the-world-trade-center-the-building-will-be-called-the-freedom-tower.md)
 _Context: One World Trade Center, World Trade Center_

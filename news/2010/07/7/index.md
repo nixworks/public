@@ -22,7 +22,7 @@ Thirteen Farc rebels are killed in northern Colombia, an operation President Uri
 A complex in Norway housing rejected asylum seekers was burned to the ground following a second night of rioting to protest conditions at the facility.
 
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan's, Sangin, United Kingdom, United States_
+_Context: Afghanistan's, Sangin, U.S., United Kingdom_
 
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
 _Context: Brazil, Bruno Fernandes de Souza_
@@ -43,7 +43,7 @@ Homosexuals who cannot live an open life in their own countries without fear of 
 Ex-ruler of Panama sentenced to seven years in prison for laundering drug money.
 
 ### [The Constitutional Court of Turkey annuls key parts of government-backed constitutional reforms designed for possible European Union membership, rejecting opposition calls for the rest to be rejected as well and permitting the rest to be put to a national referendum in September. ](/news/2010/07/7/the-constitutional-court-of-turkey-annuls-key-parts-of-government-backed-constitutional-reforms-designed-for-possible-european-union-members.md)
-_Context: Constitutional Court of Turkey, European Union, referendum_
+_Context: Constitutional Court of Turkey, EU, referendum_
 
 ### [Israeli Uri Brodsky, suspected of assisting the assassination of Mahmoud al-Mabhouh in Dubai, is permitted to be extradited from Poland to Germany. ](/news/2010/07/7/israeli-uri-brodsky-suspected-of-assisting-the-assassination-of-mahmoud-al-mabhouh-in-dubai-is-permitted-to-be-extradited-from-poland-to-g.md)
 An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be extradited to Germany, a Polish court rules.
@@ -85,7 +85,7 @@ _Context: Apple Inc., iTunes Store_
 A row erupts after the firm behind World of Warcraft announced that users of its sites would have to use their real names.
 
 ### [The European Union reveals its list of 91 stress test banks. ](/news/2010/07/7/the-european-union-reveals-its-list-of-91-stress-test-banks.md)
-_Context: European Union_
+_Context: EU_
 
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
 _Context: 2010 FIFA World Cup Final, FIFA World Cup 2010, Germany, Netherlands, Spain, third_

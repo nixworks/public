@@ -16,7 +16,7 @@ A carefully worded statement from White House Press Secretary Sean Spicer on Thu
 Fraud bankers and consultants indulged in sex parties and luxury holidays as their victims lost homes and businesses
 
 ### [The National Liberation Army releases former congressman Odin Sanchez, who had been held hostage by the rebel group since April 2016, paving the way for peace talks to begin between the rebels and the Colombian government next week in Ecuador. ](/news/2017/02/2/the-national-liberation-army-releases-former-congressman-odin-sanchez-who-had-been-held-hostage-by-the-rebel-group-since-april-2016-paving.md)
-_Context: Colombian government, Colombian peace process, Ecuador, National Liberation Army_
+_Context: Colombian government, Ecuador, National Liberation Army, peace agreement_
 
 ## [Previous Day...](/news/2017/02/1/index.md)
 

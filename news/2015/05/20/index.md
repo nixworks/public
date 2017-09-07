@@ -10,7 +10,7 @@ _Context: People's Liberation Army Navy, South China Sea, United States Navy_
 Get the latest science news and technology news, read tech reviews and more at ABC News.
 
 ### [The last edition of the "Late Show with David Letterman" goes to air on CBS Television in the United States. Following his retirement, David Letterman will be succeeded by Stephen Colbert on September 8, 2015. ](/news/2015/05/20/the-last-edition-of-the-late-show-with-david-letterman-goes-to-air-on-cbs-television-in-the-united-states-following-his-retirement-david.md)
-_Context: CBS Television, David Letterman, Late Show with David Letterman, Stephen Colbert, United States_
+_Context: CBS Television, David Letterman, Late Show with David Letterman, Stephen Colbert, U.S._
 
 ### [A Shosholoza Meyl passenger train collides head-on with a goods train in Eastern Cape, South Africa, killing two people and injuring 20. ](/news/2015/05/20/a-shosholoza-meyl-passenger-train-collides-head-on-with-a-goods-train-in-eastern-cape-south-africa-killing-two-people-and-injuring-20.md)
 _Context: Eastern Cape, Shosholoza Meyl, South Africa_
@@ -37,7 +37,7 @@ Zambia has lifted a ban on the hunting of big cats that was imposed over allegat
 Barclays, RBS, Citi, JP Morgan and UBS forced to pay out over collusion by traders in several countries in another big blow to their reputations
 
 ### [An arrest warrant is issued for Daron Dylon Wint in the U.S. capital Washington, D.C. in connection to the alleged murder of four people on May 14. ](/news/2015/05/20/an-arrest-warrant-is-issued-for-daron-dylon-wint-in-the-u-s-capital-washington-d-c-in-connection-to-the-alleged-murder-of-four-people-on.md)
-_Context: Washington, D.C._
+_Context: District of Columbia_
 
 ### [The legislature in the American state of Nebraska votes to abolish the death penalty. ](/news/2015/05/20/the-legislature-in-the-american-state-of-nebraska-votes-to-abolish-the-death-penalty.md)
 Deeply-red Nebraska is on the verge of becoming the 19th state to abolish the death penalty.

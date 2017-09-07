@@ -1,7 +1,7 @@
 ## [2009-06-7](/news/2009/06/7/index.md)
 
 ### [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md)
-_Context: Austria, Belgium, Bulgaria, Denmark, Estonia, European Parliament, European Union, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, election_
+_Context: Austria, Belgium, Bulgaria, Denmark, EU, Estonia, European Parliament, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, Sweden, election_
 
 ### [ Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
 Search crews have spotted more bodies and found a large amount of debris from the Air France plane that plunged into the Atlantic ocean.
@@ -13,7 +13,7 @@ _Context: April 2009, Bolivia, Evo Morales, Ireland, President of Bolivia, assas
 _Context: China, Shanghai, festival, gay pride_
 
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
-_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italy, U.S. Supreme Court, United States, automakers, purchase_
+_Context: Chrysler, Fiat, Indiana State Police Pension Trust v. Chrysler, Italy, U.S., U.S. Supreme Court, automakers, purchase_
 
 ### [ Former Cuban President Fidel Castro dismisses allegations that ex-U.S. State Department employee Kendall Myers spied for his country. ](/news/2009/06/7/former-cuban-president-fidel-castro-dismisses-allegations-that-ex-u-s-state-department-employee-kendall-myers-spied-for-his-country.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

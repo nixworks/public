@@ -7,7 +7,7 @@ _Context: 2005 Atlantic hurricane season, Tropical Storm Gamma_
 _Context: Baghdad, Iraq, Shia, car bomb, mosque, suicide bomb_
 
 ### [ The United States House of Representatives reject a Republican resolution offered by Duncan Hunter (R-California) "expressing the sense of the House of Representatives that the deployment of United States forces in Iraq be terminated immediately" by a vote of 403-3. Ohio Republican Jean Schmidt is forced by Democratic (and quiet Republican) protests to apologise to Pennsylvania Democrat John Murtha for quoting a Marine who said those wishing to "cut and run" from Iraq are called "cowards" The Marine she claimed to be quoting told he never said any such thing. ](/news/2005/11/18/the-united-states-house-of-representatives-reject-a-republican-resolution-offered-by-duncan-hunter-r-california-expressing-the-sense-of.md)
-_Context: California, Democratic, Duncan Hunter, Jean Schmidt, John Murtha, Republican, United States House of Representatives_
+_Context: California, Democrats, Duncan Hunter, Jean Schmidt, John Murtha, Republican, United States House of Representatives_
 
 ### [ The film version of "Harry Potter and the Goblet of Fire" is released in the UK and USA.](/news/2005/11/18/the-film-version-of-harry-potter-and-the-goblet-of-fire-is-released-in-the-uk-and-usa.md)
 _Context: Harry Potter and the Goblet of Fire_

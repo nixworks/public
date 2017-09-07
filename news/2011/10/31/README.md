@@ -13,7 +13,7 @@ _Context: Japanese government, US$, exchange rate, yen_
 US brokerage firm MF Global files for bankruptcy protection after revealing £4bn of eurozone debt exposure.
 
 ### [UNESCO becomes the first United Nations agency to admit Palestine as a full member, with the United States withdrawing funding in protest. ](/news/2011/10/31/unesco-becomes-the-first-united-nations-agency-to-admit-palestine-as-a-full-member-with-the-united-states-withdrawing-funding-in-protest.md)
-_Context: Palestinian, UNESCO, United Nations, United States_
+_Context: Palestinian, U.S., UNESCO, United Nations_
 
 ### [A jury in the US state of Arizona convicts Mark Goodeau on all charges related to the Baseline Killer murders. ](/news/2011/10/31/a-jury-in-the-us-state-of-arizona-convicts-mark-goodeau-on-all-charges-related-to-the-baseline-killer-murders.md)
 _Context: Arizona, Baseline Killer_
@@ -28,7 +28,7 @@ _Context: Dean, Graeme Knowles, London, Occupy London, St Paul's Cathedral_
 _Context: Abdurrahim El-Keib, Libyan Prime Minister, National Transitional Council_
 
 ### [The Prime Minister of Greece George Papandreou calls a referendum on the new European Union debt deal. ](/news/2011/10/31/the-prime-minister-of-greece-george-papandreou-calls-a-referendum-on-the-new-european-union-debt-deal.md)
-_Context: European Union, George Papandreou, Greek Prime Minister, referendum_
+_Context: EU, George Papandreou, Greek Prime Minister, referendum_
 
 ### [The United Nations Population Division estimates that the world population has reached seven billion people. ](/news/2011/10/31/the-united-nations-population-division-estimates-that-the-world-population-has-reached-seven-billion-people.md)
 It took only a dozen years for humanity to add another billion people to the planet, reaching the milestone of 7 billion Monday — give or take a few months. Demographers at the United Nations...

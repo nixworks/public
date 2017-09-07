@@ -1,7 +1,7 @@
 ## [2017-06-5](/news/2017/06/5/index.md)
 
 ### [A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. ](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-and-kills-five-people-at-a-manufacturing-business-in-orlando-florida-united-states-the-sh.md)
-_Context: Florida, Orlando, United States, shoots and kills five people_
+_Context: Florida, Orlando, U.S., shoots and kills five people_
 
 ### [In Brighton, a suburb of Melbourne, Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police. The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. ](/news/2017/06/5/in-brighton-a-suburb-of-melbourne-australia-a-gunman-kills-one-man-and-holds-one-woman-hostage-before-he-is-shot-dead-by-victoria-police.md)
 Police say they are treating yesterday&#039;s shooting and hostage situation in Melbourne, which left two people dead, including the gunman, as terrorism. Yacqub Khayre (pictured) was shot dead after a stand-off with armed officers.
@@ -16,7 +16,7 @@ ASIO found classified files during a raid on the apartment of a suspected Chines
 Saudi Arabia said the move was necessary to protect the kingdom from what it described as extremism, reasoning that was echoed by Bahrain
 
 ### [Montenegro officially joins NATO as its 29th member at a ceremony in Washington, D.C. ](/news/2017/06/5/montenegro-officially-joins-nato-as-its-29th-member-at-a-ceremony-in-washington-d-c.md)
-_Context: Montenegro, Montenegro-NATO relations, NATO, Washington, D.C._
+_Context: District of Columbia, Montenegro, Montenegro-NATO relations, NATO_
 
 ### [After "The Intercept" publishes a classified NSA document describing Russian efforts to launch cyberattacks on U.S. voting software suppliers, the United States Department of Justice announces it had brought charges upon Reality Winner, the alleged leaker. ](/news/2017/06/5/after-the-intercept-publishes-a-classified-nsa-document-describing-russian-efforts-to-launch-cyberattacks-on-u-s-voting-software-supplier.md)
 The U.S. Department of Justice on Monday charged a federal contractor with sending classified material to a news organization that sources identified to Reuters as The Intercept, marking one of the first concrete efforts by the Trump administration to crack down on leaks to the media.

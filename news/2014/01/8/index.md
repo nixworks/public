@@ -19,7 +19,7 @@ _Context: Colorado, Vail Ski Resort, avalanche_
 _Context: 67th British Academy Film Awards, London_
 
 ### [Facebook buys the Indian start-up Little Eye Labs. ](/news/2014/01/8/facebook-buys-the-indian-start-up-little-eye-labs.md)
-_Context: Facebook, Inc., India_
+_Context: Facebook, India_
 
 ### [Alberta Health Services confirms first avian flu death in Alberta. A person admitted to hospital on January 1, 2014, died on January 3 in Calgary. ](/news/2014/01/8/alberta-health-services-confirms-first-avian-flu-death-in-alberta-a-person-admitted-to-hospital-on-january-1-2014-died-on-january-3-in-ca.md)
 _Context: Alberta, Alberta Health Services, Calgary, Alberta_

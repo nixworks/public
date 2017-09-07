@@ -19,7 +19,7 @@ _Context: Air France_
 Checks are ordered on all Airbus A380 superjumbos after cracks were found in wing components, extending an earlier safety ruling covering 20 planes.
 
 ### [A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. ](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprising-the-greek-government-breaks-up-without-agreeing-to-cuts-prescribed-by-the-european-union.md)
-_Context: European Central Bank, European Union, International Monetary Fund, government of Greece_
+_Context: EU, European Central Bank, International Monetary Fund, government of Greece_
 
 ### [Vincent Van Gogh, Edgar Degas and Camille Pissarro artworks, from the personal collection of Elizabeth Taylor, sell for GBP13.7 million at Christie's in London. ](/news/2012/02/8/vincent-van-gogh-edgar-degas-and-camille-pissarro-artworks-from-the-personal-collection-of-elizabeth-taylor-sell-for-gbp13-7-million-at-c.md)
 _Context: Camille Pissarro, Christie's, Edgar Degas, Elizabeth Taylor, Van Gogh_
@@ -43,7 +43,7 @@ _Context: Mohamed Nasheed, Mohammed Waheed Hassan, President, national unity gov
 _Context: Bharatiya Janata Party, C C Patil, India, J. Krishna Palemar, Karnataka, Laxman Savadi, Legislative Assembly_
 
 ### [The Washington State Legislature in the United States approves a bill that will allow same-sex marriage in the state. ](/news/2012/02/8/the-washington-state-legislature-in-the-united-states-approves-a-bill-that-will-allow-same-sex-marriage-in-the-state.md)
-_Context: United States, Washington State Legislature, same-sex marriage_
+_Context: U.S., Washington State Legislature, same-sex marriage_
 
 ### [Wang Lijun, former police chief of the central Chinese city of Chongqing, unexpectedly leaves his position and goes to the Chongqing U.S. Consulate, sparking rumours of his political downfall. ](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.md)
 A top Chinese policeman in charge of a major crackdown on organised crime goes on leave, amid rumours of an investigation and a bid for asylum.

@@ -25,7 +25,7 @@ North Korea is banning Malaysians from leaving the country.
 The start of the Thaad deployment comes a day after North Korea launched four ballistic missiles.
 
 ### [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md)
-_Context: CIA, United States, Vault 7, WikiLeaks_
+_Context: CIA, U.S., Vault 7, WikiLeaks_
 
 ### [The National Assembly of Hungary approves the automatic detention of all asylum seekers who enter the country. ](/news/2017/03/7/the-national-assembly-of-hungary-approves-the-automatic-detention-of-all-asylum-seekers-who-enter-the-country.md)
 Rights groups raise concerns as Hungary approves the automatic detention of asylum seekers.

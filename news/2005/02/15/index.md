@@ -19,10 +19,10 @@ _Context: European Court of Human Rights, Human rights, McDonald's restaurants, 
 _Context: President, Scorpions, Thabo Mbeki, management, vendetta_
 
 ### [ United States, India and European Union countries recall their ambassadors from Nepal in protest of the takeover by King Gyanendra. ](/news/2005/02/15/united-states-india-and-european-union-countries-recall-their-ambassadors-from-nepal-in-protest-of-the-takeover-by-king-gyanendra.md)
-_Context: European Union, Gyanendra of Nepal, Nepal, ambassador_
+_Context: EU, Gyanendra of Nepal, Nepal, ambassador_
 
 ### [ Germany's foreign minister Joschka Fischer accepts political responsibility for immigration policies that allowed criminals to enter the European Union. ](/news/2005/02/15/germany-s-foreign-minister-joschka-fischer-accepts-political-responsibility-for-immigration-policies-that-allowed-criminals-to-enter-the-eu.md)
-_Context: European Union, Joschka Fischer, migrants_
+_Context: EU, Joschka Fischer, migrants_
 
 ### [ Microsoft announces its intentions to release Internet Explorer version 7.0. This is seen by some as a response to the growing popularity of the Mozilla Firefox browser. ](/news/2005/02/15/microsoft-announces-its-intentions-to-release-internet-explorer-version-7-0-this-is-seen-by-some-as-a-response-to-the-growing-popularity-o.md)
 _Context: Firefox, Internet Explorer, Microsoft, Mozilla Foundation_

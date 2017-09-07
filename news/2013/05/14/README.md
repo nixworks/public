@@ -25,7 +25,7 @@ _Context: Myanmar, Rohingya_
 Russia is expelling a US diplomat briefly detained in Moscow for allegedly trying to recruit a Russian intelligence officer, officials say.
 
 ### [The United States fines the Indian pharmaceutical company Ranbaxy Laboratories US$500 million after they are found guilty of selling adulterated drugs to the United States. ](/news/2013/05/14/the-united-states-fines-the-indian-pharmaceutical-company-ranbaxy-laboratories-us-500-million-after-they-are-found-guilty-of-selling-adulter.md)
-_Context: India, Ranbaxy Laboratories, US$, United States_
+_Context: India, Ranbaxy Laboratories, U.S., US$_
 
 ### [Convicted murderer, abortion physician Kermit Gosnell, in a plea bargain, trades away his appeals in exchange for a life sentence without the possibility of parole. ](/news/2013/05/14/convicted-murderer-abortion-physician-kermit-gosnell-in-a-plea-bargain-trades-away-his-appeals-in-exchange-for-a-life-sentence-without-th.md)
 _Context: Kermit Gosnell, abortion, physician_
@@ -40,7 +40,7 @@ _Context: British Columbia, Canada, Legislative Assembly, go to the polls_
 _Context: Joseph Estrada, Manila, President of the Philippines_
 
 ### [The British Conservative Party publishes a draft European Union (Referendum) Bill aimed at holding a referendum on Britain's membership of the European Union by 2017. ](/news/2013/05/14/the-british-conservative-party-publishes-a-draft-european-union-referendum-bill-aimed-at-holding-a-referendum-on-britain-s-membership-of-t.md)
-_Context: Conservative Party, European Union, United Kingdom withdrawal from the European Union_
+_Context: Conservative Party, EU, United Kingdom withdrawal from the European Union_
 
 ### [Kenyan protestors release dozens of pigs in front of parliament to protest perceived greed. ](/news/2013/05/14/kenyan-protestors-release-dozens-of-pigs-in-front-of-parliament-to-protest-perceived-greed.md)
 _Context: Kenya_
@@ -49,7 +49,7 @@ _Context: Kenya_
 _Context: Brazil, same-sex marriage_
 
 ### [A Soyuz capsule carrying astronauts Chris Hadfield of Canada, Thomas Marshburn of the United States and Roman Romanenko of Russia of Expedition 35 back from the International Space Station lands safely in Kazakhstan. ](/news/2013/05/14/a-soyuz-capsule-carrying-astronauts-chris-hadfield-of-canada-thomas-marshburn-of-the-united-states-and-roman-romanenko-of-russia-of-expedit.md)
-_Context: Canada, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, United States_
+_Context: Canada, Chris Hadfield, Expedition 35, International Space Station, Kazakhstan, Roman Romanenko, Russia, Soyuz, Thomas Marshburn, U.S._
 
 ## [Previous Day...](/news/2013/05/13/index.md)
 

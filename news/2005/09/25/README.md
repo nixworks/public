@@ -13,16 +13,16 @@ _Context: 2005 Brazilian Grand Prix, Fernando Alonso, Formula One, Juan Pablo Mo
 _Context: Alliance of the Democratic Left, Civic Platform, Law and Justice Party, Polish parliamentary election, 2005_
 
 ### [ Swiss voters approve a referendum by 56% to 44% to allow citizens from the 10 newest European Union member countries to travel and work in Switzerland. Quotas will be applied until 2011 on the number of people allowed to settle. ](/news/2005/09/25/swiss-voters-approve-a-referendum-by-56-to-44-to-allow-citizens-from-the-10-newest-european-union-member-countries-to-travel-and-work-in.md)
-_Context: 2011, European Union, Switzerland, referendum_
+_Context: 2011, EU, Switzerland, referendum_
 
 ### [ At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a-u-s-raid-into-sad.md)
-_Context: Baghdad, Mahdi Army, Muslim, Sadr City, Shia, US soldiers, United States_
+_Context: Baghdad, Mahdi Army, Muslim, Sadr City, Shia, U.S., US soldiers_
 
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
 _Context: Afghanistan's, CH-47 Chinook, US soldiers, War in Afghanistan (2001-present), Zabul_
 
 ### [ Over 100,000 people attend Anti Iraq War rally held in Washington D.C.. ](/news/2005/09/25/over-100-000-people-attend-anti-iraq-war-rally-held-in-washington-d-c.md)
-_Context: Washington, D.C._
+_Context: District of Columbia_
 
 ### [ The Israeli Defense Force launches Operation First Rain, a series of air strikes on Palestinian targets in the Gaza Strip, including an alleged Hamas weapons factory and a children's school. According to Israel the operation's goal is to stop shelling of southern Israeli towns and villages by Palestinian militants, though several civilians have been injured, including an infant. At least 200 Palestinians have been arrested in overnight IDF raids in the West Bank. ](/news/2005/09/25/the-israeli-defense-force-launches-operation-first-rain-a-series-of-air-strikes-on-palestinian-targets-in-the-gaza-strip-including-an-all.md)
 IDF launches operation &#39;First Rain,&#39; hits Hamas, al-Aqsa Martyrs&#39; Brigades targets in Gaza Strip in response to Qassam rocket barrage directed at Israeli communities over weekend. More than 20 Palestinians hurt; earlier, cabinet approves harsh measures, including renewed targeted killing...

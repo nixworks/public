@@ -20,7 +20,7 @@ _Context: George W. Bush, John Negroponte, U.S. National Intelligence Director, 
 
 ### [ NASA announces '](/news/2007/01/4/nasa-announces.md)
 ### [ Keith Ellison, the first Muslim member of the United States Congress and the first African American elected to the House from Minnesota is sworn in using Thomas Jefferson's Qur'an. ](/news/2007/01/4/keith-ellison-the-first-muslim-member-of-the-united-states-congress-and-the-first-african-american-elected-to-the-house-from-minnesota-is.md)
-_Context: Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, United States Congress, United States House of Representatives_
+_Context: Congress, Keith Ellison, Minnesota, Qur'an, Thomas Jefferson, United States House of Representatives_
 
 ## [Previous Day...](/news/2007/01/3/index.md)
 

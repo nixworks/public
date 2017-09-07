@@ -58,7 +58,7 @@ Social networks may have known more than the US about Middle East revolts, asses
 _Context: Government of Egypt, Iran, Iranian navy, Suez Canal_
 
 ### [The United States imposes sanctions on Iran's Refah Bank for allegedly facilitating the purchase of weapons by Iran's Defense Ministry. ](/news/2011/02/17/the-united-states-imposes-sanctions-on-iran-s-refah-bank-for-allegedly-facilitating-the-purchase-of-weapons-by-iran-s-defense-ministry.md)
-_Context: Iran, Iran's Defense Ministry, Refah Bank, United States, sanctions_
+_Context: Iran, Iran's Defense Ministry, Refah Bank, U.S., sanctions_
 
 ### [The CBC releases information about an alleged attack originating from China against the computer networks of the Finance Department and Treasury Board in Canada, forcing the immediate shutdown of all internet access in both departments. ](/news/2011/02/17/the-cbc-releases-information-about-an-alleged-attack-originating-from-china-against-the-computer-networks-of-the-finance-department-and-trea.md)
 An unprecedented cyberattack on the Canadian government also targeted Defence Research and Development Canada, making it the third key department compromised by hackers, CBC News has learned. 
@@ -67,7 +67,7 @@ An unprecedented cyberattack on the Canadian government also targeted Defence Re
 An England football fan jailed in Portugal for his role in a riot during Euro 2004 is to be transferred to a UK prison to serve out his sentence.
 
 ### [United States authorities charge more than a hundred doctors, nurses and physical therapists in nine cities with Medicare fraud. ](/news/2011/02/17/united-states-authorities-charge-more-than-a-hundred-doctors-nurses-and-physical-therapists-in-nine-cities-with-medicare-fraud.md)
-_Context: Medicare, United States, fraud, physical therapists_
+_Context: Medicare, U.S., fraud, physical therapists_
 
 ### [Police arrest nine people allegedly involved in a United States-Mexico arms ring, and seize 300 weapons. ](/news/2011/02/17/police-arrest-nine-people-allegedly-involved-in-a-united-states-mexico-arms-ring-and-seize-300-weapons.md)
 Police arrested nine people and seized 300 firearms, including assault rifles, in a raid targeting an arms ring that allegedly sold weapons to Mexican drug traffickers, authorities said on Thursday.
@@ -91,7 +91,7 @@ Buckingham Palace has confirmed that US President Barack Obama will come to Brit
 _Context: Kosovo, Serbia_
 
 ### [The Governor of Alaska Sean Parnell says that he will not implement the United States Patient Protection and Affordable Care Act after a Florida judge ruled it was unconstitutional. ](/news/2011/02/17/the-governor-of-alaska-sean-parnell-says-that-he-will-not-implement-the-united-states-patient-protection-and-affordable-care-act-after-a-flo.md)
-_Context: Florida, Governor, Patient Protection and Affordable Care Act, Sean Parnell, United States_
+_Context: Florida, Governor, Patient Protection and Affordable Care Act, Sean Parnell, U.S._
 
 ## [Previous Day...](/news/2011/02/16/index.md)
 

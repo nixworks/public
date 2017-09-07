@@ -13,7 +13,7 @@ Some 29 people, 20 of them women, were killed on Saturday evening in an apartmen
 _Context: Istanbul, Turkey_
 
 ### [The European Union imposes sanctions on Aleksandr Borodai and ten other pro-Russian leaders including travel bans and asset freezes. ](/news/2014/07/12/the-european-union-imposes-sanctions-on-aleksandr-borodai-and-ten-other-pro-russian-leaders-including-travel-bans-and-asset-freezes.md)
-_Context: Aleksandr Borodai, European Union_
+_Context: Aleksandr Borodai, EU_
 
 ### [The disputed Afghan presidential election is to be recounted in full following an agreement between the two leading candidates Abdullah Abdullah and Ashraf Ghani. ](/news/2014/07/12/the-disputed-afghan-presidential-election-is-to-be-recounted-in-full-following-an-agreement-between-the-two-leading-candidates-abdullah-abdu.md)
 _Context: Abdullah Abdullah, Ashraf Ghani_

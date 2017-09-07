@@ -7,7 +7,7 @@ A suspicious bag containing a detonator, batteries and a clock was found in a Na
 _Context: Darfur, George Clooney, Haiti, Ripple of Hope award, Robert F. Kennedy Center for Justice and Human Rights_
 
 ### [Officials from the International Monetary Fund, the European Central Bank and the European Union arrive in Dublin to discuss the Irish debt crisis with the Irish Government. ](/news/2010/11/18/officials-from-the-international-monetary-fund-the-european-central-bank-and-the-european-union-arrive-in-dublin-to-discuss-the-irish-debt.md)
-_Context: Dublin, European Central Bank, European Union, Government of Ireland, International Monetary Fund, falls back into recession_
+_Context: Dublin, EU, European Central Bank, Government of Ireland, International Monetary Fund, falls back into recession_
 
 ### [About 40 Rolls-Royce Trent 900 engines on Airbus A380 aircraft around the world will be replaced due to the engine failure on Qantas Flight 32 earlier this month. ](/news/2010/11/18/about-40-rolls-royce-trent-900-engines-on-airbus-a380-aircraft-around-the-world-will-be-replaced-due-to-the-engine-failure-on-qantas-flight.md)
 _Context: Airbus A380, Qantas Flight 32, Rolls-Royce Trent 900, engine failure_
@@ -40,7 +40,7 @@ _Context: Julian Assange, Marianne Ny, Sweden, WikiLeaks, prosecutor_
 A woman in China is sentenced to a year in a labour camp after posting a message on the social networking website Twitter.
 
 ### [Australia deports Gabe Watson to face trial in the US state of Alabama for the alleged murder of his wife Tina. ](/news/2010/11/18/australia-deports-gabe-watson-to-face-trial-in-the-us-state-of-alabama-for-the-alleged-murder-of-his-wife-tina.md)
-_Context: Alabama, Australia, United States, death of his newlywed wife Tina_
+_Context: Alabama, Australia, U.S., death of his newlywed wife Tina_
 
 ### [Japanese police arrest Kiyoshi Takayama, the number two gangster in the Yamaguchi-gumi yakuza group in Kobe. ](/news/2010/11/18/japanese-police-arrest-kiyoshi-takayama-the-number-two-gangster-in-the-yamaguchi-gumi-yakuza-group-in-kobe.md)
 _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
@@ -49,7 +49,7 @@ _Context: Japanese police, Kiyoshi Takayama, Kobe, Yamaguchi-gumi, yakuza_
 Prominent Egyptian blogger Abdel Kareem Nabil Soliman is released from jail after four years.
 
 ### [The United States House Committee on Standards of Official Conduct recommends that the United States House of Representatives censure Rep. Charlie Rangel D-NY for ethics violations and be required to make restitution for any unpaid taxes. ](/news/2010/11/18/the-united-states-house-committee-on-standards-of-official-conduct-recommends-that-the-united-states-house-of-representatives-censure-rep-c.md)
-_Context: Charlie Rangel, Democratic, New York State, United States House Committee on Standards of Official Conduct, United States House of Representatives, censure_
+_Context: Charlie Rangel, Democrats, New York State, United States House Committee on Standards of Official Conduct, United States House of Representatives, censure_
 
 ### [US health insurers gave over $86.2million to the Chamber of Commerce last year for the purpose of opposing the health-care overhaul. ](/news/2010/11/18/us-health-insurers-gave-over-86-2million-to-the-chamber-of-commerce-last-year-for-the-purpose-of-opposing-the-health-care-overhaul.md)
 _Context: U.S. Chamber of Commerce, health care reform_

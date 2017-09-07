@@ -28,7 +28,7 @@ North Korea on Monday announced it is replacing its practically worthless curren
 New Liberal leader Tony Abbott has promised to take the fight to the Government over emissions trading after wresting the leadership from Malcolm Turnbull by just one vote today.
 
 ### [ The European Union now has legal personality and has acquired the competences previously conferred on the European Community. Community law therefore becomes European Union law. ](/news/2009/12/1/the-european-union-now-has-legal-personality-and-has-acquired-the-competences-previously-conferred-on-the-european-community-community-law.md)
-_Context: European Community, European Union_
+_Context: EU, European Community_
 
 ## [Previous Day...](/news/2009/11/30/index.md)
 

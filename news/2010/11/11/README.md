@@ -13,7 +13,7 @@ _Context: Kabul, Logar Province, Taliban_
 Large explosion hits Criminal Investigation Department in Pakistani city, killing at least 15 people and injuring 100.
 
 ### [International media are giving the impression that all of Mexico is awash with drug violence while ignoring other matters concerning the country, according to Mexico's ambassador to the United States at the American think tank Council on Foreign Relations. ](/news/2010/11/11/international-media-are-giving-the-impression-that-all-of-mexico-is-awash-with-drug-violence-while-ignoring-other-matters-concerning-the-cou.md)
-_Context: Council on Foreign Relations, Mexico, United States_
+_Context: Council on Foreign Relations, Mexico, U.S._
 
 ### [At least 11 deaths result from violence in Dagestan, North Caucasus. ](/news/2010/11/11/at-least-11-deaths-result-from-violence-in-dagestan-north-caucasus.md)
 _Context: Dagestan, North Caucasus_
@@ -67,7 +67,7 @@ World leaders gather in Seoul onThursday and Friday for a Group of 20 summit aim
 The UN says there has been no material change for people in Gaza since Israel eased its blockade of the Palestinian territory.
 
 ### [The Palestinian Authority arrests Walid Husayin for heresy, a charge carrying a potential life prison sentence, after he claims to be God and insults the Prophet Muhammad on Facebook and his blog. ](/news/2010/11/11/the-palestinian-authority-arrests-walid-husayin-for-heresy-a-charge-carrying-a-potential-life-prison-sentence-after-he-claims-to-be-god-an.md)
-_Context: Facebook, Inc., Palestinian Authority, Walid Husayin, heresy_
+_Context: Facebook, Palestinian Authority, Walid Husayin, heresy_
 
 ### [A Christian woman, Aasia Bibi, is sentenced to death for blasphemy by a court in Lahore, Pakistan. ](/news/2010/11/11/a-christian-woman-aasia-bibi-is-sentenced-to-death-for-blasphemy-by-a-court-in-lahore-pakistan.md)
 _Context: Aasia Bibi, Christian, Lahore, Pakistan, blasphemy_

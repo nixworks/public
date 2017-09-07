@@ -7,7 +7,7 @@ Military launches campaigns in three provinces as foreign governments reopen emb
 _Context: Afghanistan's, CIA, Humam Khalil Abu-Mulal al-Balawi, Jordan, al-Qaeda, killed, suicide bomber_
 
 ### [Facebook blocks a social network suicide website. ](/news/2010/01/5/facebook-blocks-a-social-network-suicide-website.md)
-_Context: Facebook, Inc., social network_
+_Context: Facebook, social network_
 
 ### [The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. ](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.md)
 _Context: Somalia, World Food Programme_
@@ -37,7 +37,7 @@ _Context: Iran_
 A third uninvited guest made it into a White House state dinner in honor of the Indian prime minister, but there is no evidence the person had contact with the president or first lady, the Secret Service said on Monday.
 
 ### [The United States reopens its embassy in Yemen after strikes on al-Qaeda. ](/news/2010/01/5/the-united-states-reopens-its-embassy-in-yemen-after-strikes-on-al-qaeda.md)
-_Context: United States, Yemen_
+_Context: U.S., Yemen_
 
 ### [Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. ](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.md)
 _Context: Andal Ampatuan Jr., Maguindanao massacre, Philippines_

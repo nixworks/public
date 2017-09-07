@@ -1,7 +1,7 @@
 ## [2008-03-12](/news/2008/03/12/index.md)
 
 ### [ The United States Environmental Protection Agency announces a major expansion of efforts to fight smog in cities and towns throughout the United States. ](/news/2008/03/12/the-united-states-environmental-protection-agency-announces-a-major-expansion-of-efforts-to-fight-smog-in-cities-and-towns-throughout-the-u.md)
-_Context: U.S. Environmental Protection Agency, United States, smog_
+_Context: U.S., U.S. Environmental Protection Agency, smog_
 
 ### [ The total amount of digital information is estimated at 281 exabytes in 2007, exceeding available data storage for the first time. ](/news/2008/03/12/the-total-amount-of-digital-information-is-estimated-at-281-exabytes-in-2007-exceeding-available-data-storage-for-the-first-time.md)
 _Context: data storage, digital information, exabyte_
@@ -22,7 +22,7 @@ Southwest Airlines Co said on Wednesday it had grounded more than three dozen pl
 _Context: First World War, France, French Foreign Legion, Italy, Lazare Ponticelli, trench, veteran_
 
 ### [ French Minister of Foreign Affairs Bernard Kouchner and his Swedish counterpart Carl Bildt pronounce their support for Serbian membership of the European Union. ](/news/2008/03/12/french-minister-of-foreign-affairs-bernard-kouchner-and-his-swedish-counterpart-carl-bildt-pronounce-their-support-for-serbian-membership-o.md)
-_Context: Bernard Kouchner, Carl Bildt, European Union, France, Minister of Foreign Affairs, Serbia, Sweden_
+_Context: Bernard Kouchner, Carl Bildt, EU, France, Minister of Foreign Affairs, Serbia, Sweden_
 
 ### [ Chinese police fire tear gas to disperse protesters during the second day of demonstrations by Buddhist monks in Lhasa, Tibet demanding the region's independence. ](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.md)
 _Context: China, Lhasa, Tibet Autonomous Region, free Tibet_

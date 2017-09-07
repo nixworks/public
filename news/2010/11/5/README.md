@@ -13,7 +13,7 @@ _Context: Dubai, UPS, Yemen bomb attacks, al-Qaida_
 Members of the National Union of Journalists working for BBC News take industrial action in a dispute over proposed changes to staff pensions.
 
 ### [MSNBC suspends U.S. television pundit Keith Olbermann indefinitely for making political donations to three Democratic Party candidates. ](/news/2010/11/5/msnbc-suspends-u-s-television-pundit-keith-olbermann-indefinitely-for-making-political-donations-to-three-democratic-party-candidates.md)
-_Context: Democratic, Keith Olbermann, MSNBC, political donation_
+_Context: Democrats, Keith Olbermann, MSNBC, political donation_
 
 ### ["Ready Steady Cook", thought to be the longest running cookery show currently on television, is axed by the BBC. ](/news/2010/11/5/ready-steady-cook-thought-to-be-the-longest-running-cookery-show-currently-on-television-is-axed-by-the-bbc.md)
 _Context: BBC, Ready Steady Cook_
@@ -52,10 +52,10 @@ China warns that there will be &quot;consequences&quot; if governments show supp
 Greece resumed the shipment of all mail and packages abroad after midnight on Friday, following a suspension it imposed in the wake of a spate of parcel bombs sent to embassies in Athens and to European governments.
 
 ### [The Government of Norway demands an explanation from the US Government on reports that the US embassy in Oslo conducted illegal surveillance on Norwegian citizens for more than ten years. ](/news/2010/11/5/the-government-of-norway-demands-an-explanation-from-the-us-government-on-reports-that-the-us-embassy-in-oslo-conducted-illegal-surveillance.md)
-_Context: Government of the United States, Norway, Oslo, United States, government of Norway_
+_Context: Government of the United States, Norway, Oslo, U.S., government of Norway_
 
 ### [A Peruvian judge orders that United States born militant Lori Berenson be released from prison in Lima. ](/news/2010/11/5/a-peruvian-judge-orders-that-united-states-born-militant-lori-berenson-be-released-from-prison-in-lima.md)
-_Context: Lima, Lori Berenson, Peru, United States_
+_Context: Lima, Lori Berenson, Peru, U.S._
 
 ### [Mexican drug cartel leader Ezequiel Cardenas Guilln is shot dead by Mexican security forces in Matamoros following a gun fight of several hours. ](/news/2010/11/5/mexican-drug-cartel-leader-ezequiel-cardenas-guillen-is-shot-dead-by-mexican-security-forces-in-matamoros-following-a-gun-fight-of-several-h.md)
 _Context: Ezequiel Cardenas Guilln, Matamoros, Mexico, drug cartel_

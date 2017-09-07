@@ -37,10 +37,10 @@ Heavy rains are forecast this week, potentially worsening floods which have kill
 Two people have died and another is in a critical condition after a plane carrying a medical team to a transplant crashed in Romania&#8217;s Apuseni mountains. Seven passengers were on board the Britten Norman 2 light aircraft, which crashed landed in remote terrain on Monday evening (January 20) wh...
 
 ### [The United States rejects the invitation of Iran by the United Nations in peace talks involving Syria. ](/news/2014/01/20/the-united-states-rejects-the-invitation-of-iran-by-the-united-nations-in-peace-talks-involving-syria.md)
-_Context: Iran, Syria, United Nations, United States_
+_Context: Iran, Syria, U.S., United Nations_
 
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: European Union, Iran, United States_
+_Context: EU, Iran, U.S._
 
 ### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
 Several senior US lawmakers allege that intelligence leaker Edward Snowden may have been working with a foreign power, possibly Russia.

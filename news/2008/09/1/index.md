@@ -13,7 +13,7 @@ _Context: ACLU, National Security Letter, gagged_
 Tropical Storm Hanna knocked out power to the southern Bahamas on Wednesday and officials from Nassau to South Carolina warned residents to prepare for possible evacuations. 
 
 ### [ The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-from-georgia.md)
-_Context: European Union, Georgian, Moscow_
+_Context: EU, Georgian, Moscow_
 
 ### [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md)
 _Context: Japan, Liberal Democratic Party (Japan) leadership election, 2008, Yasuo Fukuda_

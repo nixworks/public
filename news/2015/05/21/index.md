@@ -31,7 +31,7 @@ _Context: Brazilian, blogger_
 Get the latest breaking news across the U.S. on ABCNews.com
 
 ### [Daron Dylon Wint is arrested in the American capital of Washington D.C. in relation to the murder of four people on May 14. ](/news/2015/05/21/daron-dylon-wint-is-arrested-in-the-american-capital-of-washington-d-c-in-relation-to-the-murder-of-four-people-on-may-14.md)
-_Context: Washington, D.C._
+_Context: District of Columbia_
 
 ### [Mexican police find three dismembered bodies in a search for ten missing people in Chilapa, a city occupied by vigilantes with alleged links to drug rings between May 9-14. ](/news/2015/05/21/mexican-police-find-three-dismembered-bodies-in-a-search-for-ten-missing-people-in-chilapa-a-city-occupied-by-vigilantes-with-alleged-links.md)
 _Context: Chilapa, Mexican Drug War, Mexican police_

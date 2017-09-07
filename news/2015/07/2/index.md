@@ -25,7 +25,7 @@ The death toll from the ferry that capsized in the central Philippines rises to 
 The deceased include Pakistan Army Engineering Battalion Unit Commander Lt. Col Amir Jadoon, his wife and two kids.
 
 ### [Former Senator Jim Webb announces that he will seek the Democratic Party nomination. ](/news/2015/07/2/former-senator-jim-webb-announces-that-he-will-seek-the-democratic-party-nomination.md)
-_Context: 2016 U.S. presidential election, Democratic, Jim Webb, United States Senate_
+_Context: 2016 U.S. presidential election, Democrats, Jim Webb, United States Senate_
 
 ### [Health officials announced that a 21-year-old woman from Bishop, California had died June 20th at Renown Regional Medical Center in Reno, Nevada from cardiac arrest caused by the rare brain-eating amoeba "Naegleria fowleri". ](/news/2015/07/2/health-officials-announced-that-a-21-year-old-woman-from-bishop-california-had-died-june-20th-at-renown-regional-medical-center-in-reno-ne.md)
 Brain-eating amoeba are blamed in the death of a 21-year-old California woman. Health officials confirmed the unidentified woman reported to the Northern Inyo

@@ -1,7 +1,7 @@
 ## [2007-11-23](/news/2007/11/23/index.md)
 
 ### [ Polish parliament speaker Bronislaw Komorowski said that Poland's new government is set to be the first to ratify the EU's Reform Treaty. ](/news/2007/11/23/polish-parliament-speaker-bronislaw-komorowski-said-that-poland-s-new-government-is-set-to-be-the-first-to-ratify-the-eu-s-reform-treaty.md)
-_Context: Bronislaw Komorowski, European Union, Polish, Reform Treaty_
+_Context: Bronislaw Komorowski, EU, Polish, Reform Treaty_
 
 ### [ The Supreme Court of Pakistan orders the Election Commission to declare Pervez Musharraf the winner in the 2007 Pakistani presidential election. ](/news/2007/11/23/the-supreme-court-of-pakistan-orders-the-election-commission-to-declare-pervez-musharraf-the-winner-in-the-2007-pakistani-presidential-elec.md)
 _Context: 2007 Pakistani presidential election, Election Commission, Pervez Musharraf, Supreme Court_

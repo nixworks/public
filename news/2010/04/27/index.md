@@ -1,7 +1,7 @@
 ## [2010-04-27](/news/2010/04/27/index.md)
 
 ### [Standard & Poor's downgrades Greece's sovereign credit rating to junk, four days after the country's government requests the activation of a EUR45-billion EU-IMF bailout. ](/news/2010/04/27/standard-poor-s-downgrades-greece-s-sovereign-credit-rating-to-junk-four-days-after-the-country-s-government-requests-the-activation-of-a.md)
-_Context: EUR, European Union, Greek, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
+_Context: EU, EUR, Greek, International Monetary Fund, Standard & Poor's, bailout, downgrades, junk, sovereign credit rating_
 
 ### [Norway and Russia settle a 40-year-old conflict over their maritime border in the Barents Sea, announced during President Medvedev's state visit in Norway. ](/news/2010/04/27/norway-and-russia-settle-a-40-year-old-conflict-over-their-maritime-border-in-the-barents-sea-announced-during-president-medvedev-s-state-v.md)
 * Deal to divide Arctic region seen rich with oil and gas * Final deal due later in 2010, ending 4 decades of talks * Norway seeks to map

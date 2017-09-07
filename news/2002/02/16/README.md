@@ -4,7 +4,7 @@
 _Context: George W. Bush, Rowan Scarborough, Rumsfeld's War_
 
 ### [ 275 animal rights activists unite in front of the D.C. Neiman Marcus to demand that the company stop supporting the fur industry.](/news/2002/02/16/275-animal-rights-activists-unite-in-front-of-the-d-c-neiman-marcus-to-demand-that-the-company-stop-supporting-the-fur-industry.md)
-_Context: Neiman Marcus, Washington, D.C., animal rights activist_
+_Context: District of Columbia, Neiman Marcus, animal rights activist_
 
 ### [ George W. Bush's weekly Presidential Radio Address, titled Asia Trip, discusses foreign relations.](/news/2002/02/16/george-w-bush-s-weekly-presidential-radio-address-titled-asia-trip-discusses-foreign-relations.md)
 _Context: Asia Trip_

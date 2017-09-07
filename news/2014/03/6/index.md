@@ -16,7 +16,7 @@ The friendly-fire incident is considered one of the worst in the war&rsquo;s 12-
 LONDON -- The European Union has frozen the assets of former Ukrainian President Viktor Yanukovich , two of his sons and more than a dozen advisors who it says are responsible for stealing state funds.
 
 ### [The Government of Venezuela cuts diplomatic ties with Panama calling it a "lackey of the United States". ](/news/2014/03/6/the-government-of-venezuela-cuts-diplomatic-ties-with-panama-calling-it-a-lackey-of-the-united-states.md)
-_Context: Panama, United States, Venezuela_
+_Context: Panama, U.S., Venezuela_
 
 ### [Niger deports Saadi al-Gaddafi, son of Muammar al-Gaddafi, to Libya. ](/news/2014/03/6/niger-deports-saadi-al-gaddafi-son-of-muammar-al-gaddafi-to-libya.md)
 _Context: Libya, Muammar al-Gaddafi, Niger, Saadi al-Gaddafi_
@@ -28,7 +28,7 @@ _Context: Afghan presidential election, 2014, Afghanistan President, Hamid Karza
 _Context: Jasmine Revolution of 2011, Moncef Marzouki, President of Tunisia_
 
 ### [The 14th Dalai Lama delivers the Opening Prayer at the US Senate on Capitol Hill in Washington, D.C. ](/news/2014/03/6/the-14th-dalai-lama-delivers-the-opening-prayer-at-the-us-senate-on-capitol-hill-in-washington-d-c.md)
-_Context: 14th Dalai Lama, US Senate, Washington, D.C._
+_Context: 14th Dalai Lama, District of Columbia, US Senate_
 
 ## [Previous Day...](/news/2014/03/5/index.md)
 

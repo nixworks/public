@@ -10,7 +10,7 @@ Scores of bodies discovered in border town where 26 people were previously repor
 At least six people and four IS gunmen die in a battle at the Afghan state TV building in Jalalabad.
 
 ### [Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. ](/news/2017/05/17/representatives-of-the-european-parliament-and-european-council-sign-a-document-formally-granting-ukrainians-visa-free-travel-to-the-europea.md)
-_Context: European Council, European Parliament, European Union, Ukraine, Ukraine-European Union relations_
+_Context: EU, European Council, European Parliament, Ukraine, Ukraine-European Union relations_
 
 ### [Two Chinese aircraft intercept a US WC-135 aircraft over the East China Sea. ](/news/2017/05/17/two-chinese-aircraft-intercept-a-us-wc-135-aircraft-over-the-east-china-sea.md)
 One jet came within 150ft (45m) of the US plane and flew upside over it, officials tell US media.

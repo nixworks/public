@@ -28,7 +28,7 @@ Germany to make its final reparations payment for World War I on Oct. 3. The deb
 _Context: North Korea, South Korea_
 
 ### [The European Commission issues a statement saying it will take legal action against France unless it complies with European Union rules on freedom of movement in relation to recent expulsion of Romani within the next two weeks. ](/news/2010/09/29/the-european-commission-issues-a-statement-saying-it-will-take-legal-action-against-france-unless-it-complies-with-european-union-rules-on-f.md)
-_Context: European Commission, European Union, France, Roma, freedom of movement_
+_Context: EU, European Commission, France, Roma, freedom of movement_
 
 ### [Turkey's ambassador refuses visas to Australian and New Zealand archaeologists to conduct a survey of Gallipoli Campaign battlesites over concerns about a statue built by Sydney's Assyrian community commemorating the Assyrian Genocide in World War I. ](/news/2010/09/29/turkey-s-ambassador-refuses-visas-to-australian-and-new-zealand-archaeologists-to-conduct-a-survey-of-gallipoli-campaign-battlesites-over-co.md)
 The Federal Government says it is hoping to resolve a dispute that is threatening a planned survey of Gallilopi battlefields in Turkey.

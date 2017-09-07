@@ -49,7 +49,7 @@ _Context: Coahuila, Mexico, San Juan de Sabinas Municipality_
 As Palestinian political factions prepared Tuesday to formally sign a political reconciliation agreement in Cairo, Israeli Prime Minister Benjamin Netanyahu called on the Palestinian Authority to pull out of the deal, saying it would jeopardize the already-stalled Middle East peace process.
 
 ### [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md)
-_Context: Bandar Abbas, Catherine Ashton, European Union, Iran_
+_Context: Bandar Abbas, Catherine Ashton, EU, Iran_
 
 ### [A Tibetan parliament-in-exile delegation appeals to foreign embassies in New Delhi, India, for help to release three monks from the Kirti monastery in northeastern Tibet detained by Chinese authorities and to address additional human rights violations in Tibet by China. ](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.md)
 _Context: India, Kirti monastery, New Delhi, Tibet, exiled Tibetan parliament, repressive policies in Tibet_

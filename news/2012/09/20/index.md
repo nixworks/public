@@ -43,7 +43,7 @@ Hundreds of people held a spontaneous protest in Georgia’s capital Tbilisi ear
 _Context: Afghanistan's, Hamid Karzai, Mohammad Gulab Mangal_
 
 ### [Tim Pawlenty resigns as the co-chairman of Mitt Romney's electoral campaign. He is to head the Financial Services Roundtable in Washington, D.C.. ](/news/2012/09/20/tim-pawlenty-resigns-as-the-co-chairman-of-mitt-romney-s-electoral-campaign-he-is-to-head-the-financial-services-roundtable-in-washington.md)
-_Context: Financial Services Roundtable, Mitt Romney, Tim Pawlenty, Washington, D.C._
+_Context: District of Columbia, Financial Services Roundtable, Mitt Romney, Tim Pawlenty_
 
 ### [A specialist in communication from the University of Nebraska-Lincoln says that the use of unmanned aerial vehicles in journalism will soon become widespread. ](/news/2012/09/20/a-specialist-in-communication-from-the-university-of-nebraskaalincoln-says-that-the-use-of-unmanned-aerial-vehicles-in-journalism-will-soo.md)
 _Context: University of Nebraska-Lincoln, journalism_

@@ -1,7 +1,7 @@
 ## [2008-11-14](/news/2008/11/14/index.md)
 
 ### [ At a summit in Nice, France, the European Union and Russia agree to refrain from deploying missiles or missile defense systems at least before mid-2009, when a pan-European security framework is discussed between Russia, the United States and the EU. ](/news/2008/11/14/at-a-summit-in-nice-france-the-european-union-and-russia-agree-to-refrain-from-deploying-missiles-or-missile-defense-systems-at-least-bef.md)
-_Context: European Union, France, Nice, Russia, United States, missile defense shield, rocket attacks_
+_Context: EU, France, Nice, Russia, U.S., missile defense shield, rocket attacks_
 
 ### [ General Ann E. Dunwoody becomes the first female four-star general in the history of the United States Army. ](/news/2008/11/14/general-ann-e-dunwoody-becomes-the-first-female-four-star-general-in-the-history-of-the-united-states-army.md)
 _Context: Ann E. Dunwoody, General, United States Army, first female four-star general_

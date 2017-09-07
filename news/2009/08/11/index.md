@@ -31,7 +31,7 @@ _Context: Ganesh, Nepal, Ramechhap_
 Kuwait said today it had foiled an al-Qaeda-linked plan to bomb a US army camp and other &quot;important facilities&quot; in the country&hellip;
 
 ### [ Nine corpses are recovered from a Handlova coal mine following a fire and explosion in Slovakia. ](/news/2009/08/11/nine-corpses-are-recovered-from-a-handlova-coal-mine-following-a-fire-and-explosion-in-slovakia.md)
-_Context: Handlova, Slovakia's, fire and explosion_
+_Context: Handlova, Slovakia, fire and explosion_
 
 ### [ Argentina's Cabinet Chief Anibal Fernandez comments on the suspension of the debt-ridden Primera Division by saying that football transmission should be free because it is not only a national passion but an industry that generates many jobs and activity. ](/news/2009/08/11/argentina-s-cabinet-chief-anabal-ferna-ndez-comments-on-the-suspension-of-the-debt-ridden-primera-divisia3n-by-saying-that-football-transm.md)
 Argentina&rsquo;s cabinet Chief An&iacute;bal Fern&aacute;ndez said football transmission should be free because it is not only a national passion but an industry that generates many jobs and activity.

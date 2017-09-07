@@ -22,7 +22,7 @@ Japan faced the likelihood of a catastrophic nuclear accident after an explosion
 America&#039;s last World War 1 veteran is farewelled decades after returning to a pat on the back and little else.
 
 ### [The European Union holds talks with Aung San Suu Kyi and other Burmese opposition figures over the lifting of international sanctions. ](/news/2011/03/15/the-european-union-holds-talks-with-aung-san-suu-kyi-and-other-burmese-opposition-figures-over-the-lifting-of-international-sanctions.md)
-_Context: Aung San Suu Kyi, Burma, European Union_
+_Context: Aung San Suu Kyi, Burma, EU_
 
 ### [Egypt dissolves State Security Investigations Service, its former internal security and spying agency. ](/news/2011/03/15/egypt-dissolves-state-security-investigations-service-its-former-internal-security-and-spying-agency.md)
 _Context: Egypt, security personnel_
@@ -37,10 +37,10 @@ _Context: Florida, Indiana, Joey Merlino, Mafia, Scarfo crime family, halfway ho
 _Context: California, Christian Gerhartsreiter, German, San Marino_
 
 ### [The United States Drug Enforcement Administration seizes the state of Georgia's supply of a lethal injection drug due to questions over how it was imported to the US. ](/news/2011/03/15/the-united-states-drug-enforcement-administration-seizes-the-state-of-georgia-s-supply-of-a-lethal-injection-drug-due-to-questions-over-how.md)
-_Context: Georgia, U.S. Drug Enforcement Administration, United States, lethal injection_
+_Context: Georgia, U.S., U.S. Drug Enforcement Administration, lethal injection_
 
 ### [United States nurse William Francis Melchert-Dinkel is convicted of aiding the suicides of an English man and Canadian woman. ](/news/2011/03/15/united-states-nurse-william-francis-melchert-dinkel-is-convicted-of-aiding-the-suicides-of-an-english-man-and-canadian-woman.md)
-_Context: Canadian, English, United States, William Francis Melchert-Dinkel, suicide_
+_Context: Canadian, English, U.S., William Francis Melchert-Dinkel, suicide_
 
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
 Doctors at an emergency union meeting have called on the government to put a halt to its overhaul of the NHS in England, but have stopped short of opposing the plans outright.

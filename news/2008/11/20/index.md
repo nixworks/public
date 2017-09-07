@@ -10,7 +10,7 @@ _Context: Riksdag, Sweden, Treaty of Lisbon_
 _Context: Hellas Planitia, Los Angeles, Mars, Mars Reconnaissance Orbiter, NASA, ice, underground deposits, water_
 
 ### [ Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.md)
-_Context: Chrysler, Ford Motor Company, General Motors, United States Congress, automakers, global crisis_
+_Context: Chrysler, Congress, Ford Motor Company, General Motors, automakers, global crisis_
 
 ### [ At least one person is dead and twenty injured after a bomb is thrown into a People's Alliance for Democracy protest compound in Bangkok, Thailand. ](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-after-a-bomb-is-thrown-into-a-people-s-alliance-for-democracy-protest-compound-in-bangkok-t.md)
 At least one person has died in Bangkok after a bomb was thrown into a compound full of anti-government protesters.

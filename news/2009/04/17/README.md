@@ -31,7 +31,7 @@ Pakistani national faces death sentence for alleged role in attack on Indian cit
 _Context: Boris Tadic, Kosovo, President, Serbia_
 
 ### [ The Czech Republic invites Belarussian President Alexander Lukashenko to a European Union summit in May. ](/news/2009/04/17/the-czech-republic-invites-belarussian-president-alexander-lukashenko-to-a-european-union-summit-in-may.md)
-_Context: Alexander Lukashenko, Belarus, Belarussian President, Czech Republic, European Union, summit_
+_Context: Alexander Lukashenko, Belarus, Belarussian President, Czech Republic, EU, summit_
 
 ### [ Botswana will reduce its output of diamonds by more than 50% in 2009. ](/news/2009/04/17/botswana-will-reduce-its-output-of-diamonds-by-more-than-50-in-2009.md)
 _Context: Botswana, diamond_

@@ -22,7 +22,7 @@ _Context: Cambodia, Khmer Rouge, Nuon Chea, United Nations_
 A terror alert at the Eiffel Tower has been cleared after the monument was evacuated Saturday when an anonymous caller phoned in a bomb threat.
 
 ### [Three people are shot (one critically) at three stores at the Edgewood Towne Center shopping plaza near Pittsburgh, Pennsylvania, United States. The victims were taken to UPMC Presbyterian Hospital while police searched the area. ](/news/2013/03/30/three-people-are-shot-one-critically-at-three-stores-at-the-edgewood-towne-center-shopping-plaza-near-pittsburgh-pennsylvania-united-sta.md)
-_Context: Pennsylvania, Pittsburgh, United States_
+_Context: Pennsylvania, Pittsburgh, U.S._
 
 ### [Famous panda Mei Xiang is artificially inseminated in the U.S. National Zoo after natural breeding failed to occur. ](/news/2013/03/30/famous-panda-mei-xiang-is-artificially-inseminated-in-the-u-s-national-zoo-after-natural-breeding-failed-to-occur.md)
 _Context: Mei Xiang's, U.S. National Zoo, artificially inseminated, breeding, panda_

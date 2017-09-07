@@ -4,7 +4,7 @@
 _Context: Martin Brodeur, National Hockey League, New Jersey Devils, Patrick Roy, goaltender_
 
 ### [ Luxembourg becomes the European Union's third country to legalize euthanasia. ](/news/2009/03/17/luxembourg-becomes-the-european-union-s-third-country-to-legalize-euthanasia.md)
-_Context: European Union, Luxembourg, whether or not to continue_
+_Context: EU, Luxembourg, whether or not to continue_
 
 ### [ Madagascar's military installs former Antananarivo Mayor Andry Rajoelina as the country's new President, replacing Marc Ravalomanana. ](/news/2009/03/17/madagascar-s-military-installs-former-antananarivo-mayor-andry-rajoelina-as-the-country-s-new-president-replacing-marc-ravalomanana.md)
 _Context: Andry Rajoelina, Antananarivo, Madagascan Army, Madagascar, Marc Ravalomanana, Mayor, President, political crisis_
@@ -25,7 +25,7 @@ _Context: Arkhangelsk Oblast, European Space Agency, Goce, Plesetsk Cosmodrome, 
 _Context: Coahuila, Mexico, Saltillo, car accident_
 
 ### [ United States President Barack Obama meets Irish Taoiseach Brian Cowen and Northern Irish First Minister Peter Robinson and Deputy First Minister Martin McGuinness at the White House. ](/news/2009/03/17/united-states-president-barack-obama-meets-irish-taoiseach-brian-cowen-and-northern-irish-first-minister-peter-robinson-and-deputy-first-mi.md)
-_Context: Barack Obama, Brian Cowen, Ireland, Martin McGuinness, Northern Ireland, Peter Robinson, President, Taoiseach, United States, White House, deputy First Minister of Northern Ireland_
+_Context: Barack Obama, Brian Cowen, Ireland, Martin McGuinness, Northern Ireland, Peter Robinson, President, Taoiseach, U.S., White House, deputy First Minister of Northern Ireland_
 
 ## [Previous Day...](/news/2009/03/16/index.md)
 

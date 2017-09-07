@@ -31,7 +31,7 @@ As-Safir analyst says newly discovered Leviathan gas site extends into Lebanese 
 Defense Ministry reports that Barak will remain in Israel until team of experts investigating flotilla raid announced. Over weekend, sail participants declared intention to sue defense minister
 
 ### [Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. ](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.md)
-_Context: Ivan Gasparovic, President, Prime Minister, Robert Fico's, Slovakia's_
+_Context: Ivan Gasparovic, President, Prime Minister, Robert Fico's, Slovakia_
 
 ### [The Belgian elections take place amid a possibility of partition. ](/news/2010/06/13/the-belgian-elections-take-place-amid-a-possibility-of-partition.md)
 Initial results indicate that party advocating a split of Belgium wins general election.

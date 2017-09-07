@@ -25,7 +25,7 @@ The NSW State Emergency Services have issued an evacuation order for people with
 _Context: Bukavu, Democratic Republic of the Congo, Joseph Kabila, Matata Ponyo Mapon, President_
 
 ### [The International Air Transport Association calls for the United Nations to intervene in the dispute between the People's Republic of China and the European Union over airlines' involvement in the EU's carbon tax scheme for airlines. ](/news/2012/02/12/the-international-air-transport-association-calls-for-the-united-nations-to-intervene-in-the-dispute-between-the-people-s-republic-of-china.md)
-_Context: China, European Union, International Air Transport Association, United Nations, carbon tax_
+_Context: China, EU, International Air Transport Association, United Nations, carbon tax_
 
 ### [A teenage Tibetan Buddhist nun Tenzin Choedon dies after setting herself on fire in protest against Chinese rule of Tibet in Sichuan province. ](/news/2012/02/12/a-teenage-tibetan-buddhist-nun-tenzin-choedon-dies-after-setting-herself-on-fire-in-protest-against-chinese-rule-of-tibet-in-sichuan-provinc.md)
 An 18-year-old Tibetan nun has set herself on fire in western China in the latest such protest against Beijing&#039;s handling of the vast ethnic Tibetan regions it rules, an overseas activist group said Sunday.

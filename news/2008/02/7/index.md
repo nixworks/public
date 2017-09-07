@@ -10,7 +10,7 @@ _Context: Port Wentworth, Georgia, sugar refinery_
 Democrats agreed to add only payments for senior citizens and disabled veterans to a package already approved by the House with the backing of President Bush.
 
 ### [ The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. ](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.md)
-_Context: Lisbon Treaty, Parliament of Slovakia, Slovakia's_
+_Context: Lisbon Treaty, Parliament of Slovakia, Slovakia_
 
 ### [ The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. ](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.md)
 _Context: National Assembly, Treaty of Lisbon_
@@ -19,7 +19,7 @@ _Context: National Assembly, Treaty of Lisbon_
 Atlantis launches on schedule despite earlier forecasts of thunderstorms and heavy cloud cover.
 
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Abu Hamza al-Masri, Muslim, United States, extradited_
+_Context: Abu Hamza al-Masri, Muslim, U.S., extradited_
 
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
 Police in the United States and Italy arrested 77 suspected members of the Mafia on Thursday, including some of its most wanted leaders, for an array of crimes going back more than 30 years.

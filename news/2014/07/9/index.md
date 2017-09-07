@@ -22,7 +22,7 @@ _Context: 2014 Pacific typhoon season, Japan, Okinawa, Typhoon Neoguri_
 _Context: Korean Peninsula, North Korea, South Korea_
 
 ### [Former Mayor of the American city of New Orleans, Louisiana Ray Nagin (D) is sentenced to ten years in prison for corruption, money laundering and other related offences. ](/news/2014/07/9/former-mayor-of-the-american-city-of-new-orleans-louisiana-ray-nagin-d-is-sentenced-to-ten-years-in-prison-for-corruption-money-launderi.md)
-_Context: Democratic, Mayor, New Orleans, Ray Nagin_
+_Context: Democrats, Mayor, New Orleans, Ray Nagin_
 
 ### [2014 Harris County, Texas shooting: A gunman in Spring, Texas, a suburb of the US city of Houston, kills six people including four children. ](/news/2014/07/9/2014-harris-county-texas-shooting-a-gunman-in-spring-texas-a-suburb-of-the-us-city-of-houston-kills-six-people-including-four-children.md)
 _Context: 2014 Harris County, Texas shooting, Houston, Spring, Texas_

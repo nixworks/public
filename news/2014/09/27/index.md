@@ -19,7 +19,7 @@ _Context: Human Rights Council, LGBT rights, United Nations, favor_
 _Context: David Cunliffe, Labour Party, New Zealand general election_
 
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
-_Context: Artur Mas i Gavarr, Catalan, President of the Generalitat of Catalonia, Spain, national government_
+_Context: Artur Mas i Gavarr, Catalonia, President of the Generalitat of Catalonia, Spain, national government_
 
 ### [Dozens of people are arrested as Hong Kong pro-democracy rallies continue. ](/news/2014/09/27/dozens-of-people-are-arrested-as-hong-kong-pro-democracy-rallies-continue.md)
 _Context: Hong Kong_

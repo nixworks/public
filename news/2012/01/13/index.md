@@ -4,7 +4,7 @@
 Demonstrations held in support of Free Syrian Army, as Arab League chief warns of civil war and activists report deaths.
 
 ### [The Standard & Poor's credit rating agency lowers its long-term credit ratings on the eurozone countries of Cyprus, Italy, Portugal, and Spain by two notches each and Austria, France, Malta, Slovakia, and Slovenia by one notch each. ](/news/2012/01/13/the-standard-poor-s-credit-rating-agency-lowers-its-long-term-credit-ratings-on-the-eurozone-countries-of-cyprus-italy-portugal-and-spa.md)
-_Context: Austria, Cyprus, Eurozone, France, Italy, Malta, Portugal, Slovakia's, Slovenia, Spain, Standard & Poor's, credit ratings_
+_Context: Austria, Cyprus, Eurozone, France, Italy, Malta, Portugal, Slovakia, Slovenia, Spain, Standard & Poor's, credit ratings_
 
 ### [Lions Gate Entertainment, the largest independent studio in the United States, purchases Summit Entertainment for US$412.5 million. ](/news/2012/01/13/lions-gate-entertainment-the-largest-independent-studio-in-the-united-states-purchases-summit-entertainment-for-us-412-5-million.md)
 Jan 13 - Lions Gate Entertainment Corp boughtprivate studio Summit Entertainment, which produced thesuccessful &quot;Twilight&quot; series, for $412.5 million in cas

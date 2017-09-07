@@ -22,7 +22,7 @@ Aircraft en route to Moscow forced to return to Israel and perform emergency lan
 _Context: 1906 San Francisco earthquake_
 
 ### [ The head of Gazprom, Russia's natural-gas monopoly, told officials of the European Union not to "politicize" the gas market--the speech was part of an escalating war of words between Russia as supplier and the EU as customer. ](/news/2006/04/18/the-head-of-gazprom-russia-s-natural-gas-monopoly-told-officials-of-the-european-union-not-to-politicize-the-gas-marketathe-speech-wa.md)
-_Context: European Union, Gazprom_
+_Context: EU, Gazprom_
 
 ## [Previous Day...](/news/2006/04/17/index.md)
 

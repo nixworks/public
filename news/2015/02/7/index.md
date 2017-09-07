@@ -31,7 +31,7 @@ Three people have been hospitalised with gunshot wounds after a 17-year-old male
 Lawrence Springborg has been elected as leader of Qld&#039;s Liberal National Party, with John-Paul Langbroek as deputy leader.
 
 ### [Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-invalid-due-to-a-low-21-voter-turnout.md)
-_Context: Slovak same-sex marriage referendum, Slovakia's_
+_Context: Slovak same-sex marriage referendum, Slovakia_
 
 ## [Previous Day...](/news/2015/02/6/index.md)
 

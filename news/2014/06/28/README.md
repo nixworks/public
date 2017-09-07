@@ -28,7 +28,7 @@ _Context: Chennai_
 _Context: China, Cross-Strait relations, ghost money, negotiator, one country on each side, the Republic of China_
 
 ### [Libyan Islamist militia leader Ahmed Abu Khattala pleads not guilty in a Washington D.C. court to one charge of conspiracy in relation to the 2012 Benghazi attack in which four Americans were killed. ](/news/2014/06/28/libyan-islamist-militia-leader-ahmed-abu-khattala-pleads-not-guilty-in-a-washington-d-c-court-to-one-charge-of-conspiracy-in-relation-to-th.md)
-_Context: 2012 Benghazi attack, Ahmed Abu Khattala, Islamist, Libya, Washington, D.C., militia_
+_Context: 2012 Benghazi attack, Ahmed Abu Khattala, District of Columbia, Islamist, Libya, militia_
 
 ### [Two British thirteen-year-olds are arrested for desecrating graves in a Jewish cemetery in Manchester, England, causing over GBP100,000 in damage. Nazi slogans and swastikas were drawn on some gravestones, and about forty were toppled over. ](/news/2014/06/28/two-british-thirteen-year-olds-are-arrested-for-desecrating-graves-in-a-jewish-cemetery-in-manchester-england-causing-over-agbp100-000-in.md)
 Nazi slogans and swastikas were drawn on some gravestones, about 40 were toppled over in two attacks causing damage estimated in excess of £100,000.

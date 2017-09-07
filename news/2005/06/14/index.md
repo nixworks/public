@@ -22,13 +22,13 @@ _Context: George Best, Manchester United, Northern Ireland, arrest, indecently a
 _Context: Darfur conflict, International Criminal Court, Sudan, UN_
 
 ### [ A TNS/MRBI Irish Times opinion poll predicts that Ireland, previously seen as certain to vote "yes", is likely to vote "no" in its planned referendum on the European Constitution. Only 30% of voters indicated that they would vote for the constitution, the lowest level in any country in the European Union to date. ](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-that-ireland-previously-seen-as-certain-to-vote-yes-is-likely-to-vote-no-in-its-planned.md)
-_Context: European Union, European constitution, Ireland, The Irish Times, opinion poll, referendum_
+_Context: EU, European constitution, Ireland, The Irish Times, opinion poll, referendum_
 
 ### [ A four-year-old boy is reported dead shortly after losing consciousness while riding Mission: SPACE at Walt Disney World's Epcot. ](/news/2005/06/14/a-four-year-old-boy-is-reported-dead-shortly-after-losing-consciousness-while-riding-mission-space-at-walt-disney-world-s-epcot.md)
 _Context: Epcot, Mission: SPACE, Walt Disney World_
 
 ### [ According to "Washington Post", US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekista.md)
-_Context: NATO, Russia, United States, Uzbekistan, Washington Post_
+_Context: NATO, Russia, U.S., Uzbekistan, Washington Post_
 
 ### [ In Indonesia, lawyers of Schapelle Corby file appeal in Bali court ](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

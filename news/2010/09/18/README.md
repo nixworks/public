@@ -40,7 +40,7 @@ Shiva Nazar Ahari sentenced to six years in prison for plotting crimes against s
 Afghan officials hail a parliamentary vote as a success despite low turnout, attacks that killed 14 people and widespread fraud.
 
 ### [Voters in Slovakia go to the polls to vote on a referendum to reduce the size of the National Council of the Slovak Republic and cut political perks amongst other things. ](/news/2010/09/18/voters-in-slovakia-go-to-the-polls-to-vote-on-a-referendum-to-reduce-the-size-of-the-national-council-of-the-slovak-republic-and-cut-politic.md)
-_Context: National Council of the Slovak Republic, Slovakia's, a referendum_
+_Context: National Council of the Slovak Republic, Slovakia, a referendum_
 
 ### [Pope Benedict XVI apologizes to the victims of sexual abuse within the Roman Catholic Church during his visit to Britain. ](/news/2010/09/18/pope-benedict-xvi-apologizes-to-the-victims-of-sexual-abuse-within-the-roman-catholic-church-during-his-visit-to-britain.md)
 _Context:  within the church, Pope Benedict XVI, Roman Catholic Church_

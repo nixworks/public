@@ -40,7 +40,7 @@ It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea 
 _Context: Andre-Joseph Leonard, Archbishopric of Mechelen-Brussels, Belgium, Roman Catholic, sexual abuse_
 
 ### [US defense officials claim they are preparing to notify Congress of plans to sell $60 billion of military equipment to Saudi Arabia. ](/news/2010/09/13/us-defense-officials-claim-they-are-preparing-to-notify-congress-of-plans-to-sell-60-billion-of-military-equipment-to-saudi-arabia.md)
-_Context: Saudi Arabia, United States Congress_
+_Context: Congress, Saudi Arabia_
 
 ## [Previous Day...](/news/2010/09/12/index.md)
 

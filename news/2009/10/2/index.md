@@ -4,7 +4,7 @@
 _Context: Ireland, Treaty of Lisbon, the second Irish referendum_
 
 ### [ Croatia resumes membership talks with the European Union after Slovenia lifts its 10-month embargo. ](/news/2009/10/2/croatia-resumes-membership-talks-with-the-european-union-after-slovenia-lifts-its-10-month-embargo.md)
-_Context: Croatia, European Union, Slovenia, formal entry of Croatia_
+_Context: Croatia, EU, Slovenia, formal entry of Croatia_
 
 ### [ Rainstorms in Messina and other parts of Sicily sweep at least 18 people away to their deaths, wounding 40, causing 20 to disappear and surrounding the city with mud and rainwater. A state of emergency is declared by the Italian government. ](/news/2009/10/2/rainstorms-in-messina-and-other-parts-of-sicily-sweep-at-least-18-people-away-to-their-deaths-wounding-40-causing-20-to-disappear-and-sur.md)
 At least 18 people have been killed and 40 injured after rainstorms in Sicily washed away roads and destroyed homes around Messina.
@@ -25,7 +25,7 @@ _Context: International Criminal Court, Kenya, post-election violence_
 Around 50 activists of a Tamil outfit on Friday barged into the office of Sri Lankan high commission in Chankyapuri area.
 
 ### [ Pakistan's army probes a video posted on social networking website Facebook that appears to show soldiers abusing Taliban. ](/news/2009/10/2/pakistan-s-army-probes-a-video-posted-on-social-networking-website-facebook-that-appears-to-show-soldiers-abusing-taliban.md)
-_Context: Facebook, Inc., Pakistan, Taliban, social network_
+_Context: Facebook, Pakistan, Taliban, social network_
 
 ### [ Mexican authorities claim to have made their largest-ever seizure of chemicals used in the manufacture of the synthetic drug methamphetamine. ](/news/2009/10/2/mexican-authorities-claim-to-have-made-their-largest-ever-seizure-of-chemicals-used-in-the-manufacture-of-the-synthetic-drug-methamphetamin.md)
 _Context: Mexico, methamphetamine_

@@ -16,7 +16,7 @@ _Context: Columbia University Medical School, Nature Neuroscience, correlates_
 A Malaysian court finds a local man guilty of murdering two British medical students in Borneo.
 
 ### [A prisoner accused of multiple bank robberies escapes from a hospital in Falls Church, Virginia after stealing a guard's gun. Washington, D.C. police capture him. ](/news/2015/03/31/a-prisoner-accused-of-multiple-bank-robberies-escapes-from-a-hospital-in-falls-church-virginia-after-stealing-a-guard-s-gun-washington-d.md)
-_Context: Falls Church, Virginia, Washington, D.C._
+_Context: District of Columbia, Falls Church, Virginia_
 
 ### [In a courthouse in Istanbul, the Revolutionary People's Liberation Party-Front of Turkey takes hostage the prosecutor handling the case of a 15-year-old who died in a police gas attack. The situation ends with police killing the gunmen. The prosecutor later dies at a hospital. ](/news/2015/03/31/in-a-courthouse-in-istanbul-the-revolutionary-people-s-liberation-partyafront-of-turkey-takes-hostage-the-prosecutor-handling-the-case-of.md)
 A Turkish prosecutor and two gunmen who took him hostage have been killed after a shootout in Istanbul, officials say.

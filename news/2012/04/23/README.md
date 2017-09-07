@@ -22,7 +22,7 @@ _Context: White House_
 _Context: Borat Sagdiyev, Kazakhstan, Sacha Baron Cohen_
 
 ### [The European Union suspends most trade sanctions against Myanmar for a year but leaves an arms embargo in place. ](/news/2012/04/23/the-european-union-suspends-most-trade-sanctions-against-myanmar-for-a-year-but-leaves-an-arms-embargo-in-place.md)
-_Context: European Union, Myanmar_
+_Context: EU, Myanmar_
 
 ### [North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. ](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.md)
 _Context: North Korea, South Korea, failed North Korean rocket launch_

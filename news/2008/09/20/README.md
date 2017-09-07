@@ -10,7 +10,7 @@ _Context: Democratic Republic of the Congo, Lord's Resistance Army, Southern Sud
 _Context: Galveston Island, Hurricane Ike, Texas_
 
 ### [ The Bush administration asks the United States Congress for $700 billion to buy mortgage-related assets to try to resolve the subprime mortgage crisis. ](/news/2008/09/20/the-bush-administration-asks-the-united-states-congress-for-700-billion-to-buy-mortgage-related-assets-to-try-to-resolve-the-subprime-mort.md)
-_Context: George W. Bush administration, United States Congress, housing crisis_
+_Context: Congress, George W. Bush administration, housing crisis_
 
 ### [ A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. ](/news/2008/09/20/a-suicide-bomber-attacks-a-pakistan-army-convoy-killing-eight-soldiers.md)
 _Context: Pakistan army, suicide bomber_

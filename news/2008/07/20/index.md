@@ -4,10 +4,10 @@
 _Context: Ireland, Open Championship (British Open), Pdraig Harrington, golfer, second successive_
 
 ### [ "The Dark Knight" sets a new record for box office receipts for an opening weekend in the United States with US$158.4 million earned between Friday and Sunday. ](/news/2008/07/20/the-dark-knight-sets-a-new-record-for-box-office-receipts-for-an-opening-weekend-in-the-united-states-with-us-158-4-million-earned-betwee.md)
-_Context: The Dark Knight, US$, United States_
+_Context: The Dark Knight, U.S., US$_
 
 ### [ The Colombian diaspora celebrates Colombia's Independence Day with concerts and marches against violence, kidnapping and the FARC in Bogot, Leticia, the country's other 1,119 cities and municipalities, and events in cities around the world including Paris (attended by Ingrid Betancourt), London, Washington, D.C., New York City and Miami. ](/news/2008/07/20/the-colombian-diaspora-celebrates-colombia-s-independence-day-with-concerts-and-marches-against-violence-kidnapping-and-the-farc-in-bogota.md)
-_Context: Bogota, Colombia, FARC, Independence Day, Ingrid Betancourt, Leticia, London, Miami, New York City, Paris, Washington, D.C., diaspora_
+_Context: Bogota, Colombia, District of Columbia, FARC, Independence Day, Ingrid Betancourt, Leticia, London, Miami, New York City, Paris, diaspora_
 
 ### [ At least 13 Afghan police and civilians are killed in an airstrike by NATO forces two weeks after an airstrike killed 52 civilians at a wedding. ](/news/2008/07/20/at-least-13-afghan-police-and-civilians-are-killed-in-an-airstrike-by-nato-forces-two-weeks-after-an-airstrike-killed-52-civilians-at-a-wed.md)
 _Context: Afghanistan's, NATO, airstrike_

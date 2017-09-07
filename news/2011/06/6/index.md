@@ -10,7 +10,7 @@ _Context: Jisr al-Shughour, Syria_
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
 
 ### [Two United States drone missiles kill 14 people in Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: Pakistani Taliban, South Waziristan, United States, Wana, drone_
+_Context: Pakistani Taliban, South Waziristan, U.S., Wana, drone_
 
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
 Armed men killed sevensoldiers and wounded 12 others in clashes in the southern Yemenicity of Zinjibar on Monday, a local official and witnesses said.
@@ -49,7 +49,7 @@ The Apache County Sheriff&rsquo;s Office has issued a mandatory evacuation order
 _Context: Banjarmasin, Indonesia, South Kalimantan_
 
 ### [A European Union delegation visits North Korea to investigate claims of food shortages. ](/news/2011/06/6/a-european-union-delegation-visits-north-korea-to-investigate-claims-of-food-shortages.md)
-_Context: European Union, North Korea_
+_Context: EU, North Korea_
 
 ### [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md)
 _Context: Google, Internet, People's Daily, hackers, search engine_
@@ -70,7 +70,7 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York State, a
 _Context: Anwar Ibrahim, Malaysia, Mohamad Zabidin Diah_
 
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: FBI, Philadelphia, Sicilian Mafia, United States_
+_Context: FBI, Philadelphia, Sicilian Mafia, U.S._
 
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
 _Context: Dimeji Bankole, House of Representatives, Nigeria_

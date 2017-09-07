@@ -16,7 +16,7 @@ President Donald Trump said on Thursday he pulled back from the brink of killing
 All 78 personnel aboard the Black Sea Fleet ship were rescued, the Turkish coastal authority says.
 
 ### [A South Korean adviser says it is "impossible" for South Korea to purchase the THAAD missile complex since control of its operation would remain with the United States. The remarks come after United States president Donald Trump suggested that South Korea pay for the $1 billion system. ](/news/2017/04/27/a-south-korean-adviser-says-it-is-impossible-for-south-korea-to-purchase-the-thaad-missile-complex-since-control-of-its-operation-would-re.md)
-_Context: Donald Trump, South Korea, South Korea-United States relations, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, United States_
+_Context: Donald Trump, South Korea, South Korea-United States relations, U.S., U.S. Terminal High Altitude Area Defense (THAAD) system launchers_
 
 ### [A 27-year-old man carrying several knives in a backpack is arrested at Parliament Square, London, near the site of last month's Westminster attack. ](/news/2017/04/27/a-27-year-old-man-carrying-several-knives-in-a-backpack-is-arrested-at-parliament-square-london-near-the-site-of-last-month-s-westminster.md)
 Sky sources say the 27-year-old man, who was carrying a rucksack containing knives, was known to police prior to his arrest.

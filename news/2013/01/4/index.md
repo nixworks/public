@@ -19,7 +19,7 @@ _Context: Wegelin & Co._
 A fire at a private shelter for orphans and abandoned children in central China has killed at least seven youngsters and left&hellip;
 
 ### [Three people are killed when a Beechcraft BE35 plane crashes into a home near Daytona Beach, Florida, United States. ](/news/2013/01/4/three-people-are-killed-when-a-beechcraft-be35-plane-crashes-into-a-home-near-daytona-beach-florida-united-states.md)
-_Context: Beechcraft BE35, Daytona Beach, Florida, United States_
+_Context: Beechcraft BE35, Daytona Beach, Florida, U.S._
 
 ### [Six Russian tourists are killed and two tourists are seriously injured after a snowmobile towing a sled veers off a ski slope, crashes into a barrier, and flies into a ditch on Italy's Mount Cermis. ](/news/2013/01/4/six-russian-tourists-are-killed-and-two-tourists-are-seriously-injured-after-a-snowmobile-towing-a-sled-veers-off-a-ski-slope-crashes-into.md)
 Six Russian tourists die as their snowmobile flips over during a night-time run down an Alpine ski slope in north-eastern Italy, reports say.
@@ -49,7 +49,7 @@ _Context: Censorship in China, China, Guangdong province, liberal_
 _Context: Hugo Chavez, Venezuela, lung infection_
 
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: Barack Obama, President, United States Congress, United States presidential election, 2012_
+_Context: Barack Obama, Congress, President, United States presidential election, 2012_
 
 ### [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md)
 The leaders of Sudan and South Sudan reaffirm their commitment to setting up a buffer zone on their shared border and resuming oil exports.

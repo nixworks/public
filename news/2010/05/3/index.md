@@ -4,7 +4,7 @@
 _Context: 2008 Mumbai attacks, Ajmal Kasab, India_
 
 ### [American air carriers United and Continental officially announce a merger that will create the world's largest airline. ](/news/2010/05/3/american-air-carriers-united-and-continental-officially-announce-a-merger-that-will-create-the-world-s-largest-airline.md)
-_Context: Continental Airlines, United Airlines, United States_
+_Context: Continental Airlines, U.S., United Airlines_
 
 ### [Darfur rebel group, the Justice and Equality Movement, breaks off peace talks with the Sudanese government, accusing it of a renewing the conflict with a military offensive that has included airstrikes and ground attacks over the past week. ](/news/2010/05/3/darfur-rebel-group-the-justice-and-equality-movement-breaks-off-peace-talks-with-the-sudanese-government-accusing-it-of-a-renewing-the-co.md)
 _Context: Darfur, Justice and Equality Movement, Sudanese government, conflict_
@@ -43,7 +43,7 @@ Australian Neil Robertson has won the world snooker championship title at Sheffi
 Reports say reclusive leader on trip that could ease inter-Korea tensions.
 
 ### [The European Commission proposes rules for imports of fishery products from Greenland into the EU. ](/news/2010/05/3/the-european-commission-proposes-rules-for-imports-of-fishery-products-from-greenland-into-the-eu.md)
-_Context: European Commission, European Union, Greenland_
+_Context: EU, European Commission, Greenland_
 
 ### [Uganda's highest ice cap in the Rwenzori mountain range splits. ](/news/2010/05/3/uganda-s-highest-ice-cap-in-the-rwenzori-mountain-range-splits.md)
 _Context: Rwenzori mountain range, Uganda, ice cap_

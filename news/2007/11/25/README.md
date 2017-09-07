@@ -7,10 +7,10 @@ _Context: Brazil, Fonte Nova, Salvador de Bahia, footballer, stadium_
 _Context: Arnouville, France, Paris, Villiers-le-Bel, car accident, motorbike, police car, riot, suburb, teenager_
 
 ### [ Syria accepts a United States invitation to participate in the 2007 Mideast peace conference. ](/news/2007/11/25/syria-accepts-a-united-states-invitation-to-participate-in-the-2007-mideast-peace-conference.md)
-_Context: 2007 Mideast peace conference, Syria, United States_
+_Context: 2007 Mideast peace conference, Syria, U.S._
 
 ### [ Croatia's opposition Social Democrats take a narrow lead on in a close national election, according to exit polls, after a campaign fought over corruption, the economy and future European Union membership. ](/news/2007/11/25/croatia-s-opposition-social-democrats-take-a-narrow-lead-on-in-a-close-national-election-according-to-exit-polls-after-a-campaign-fought.md)
-_Context: Croatia, European Union, Social Democrats, in a close national election_
+_Context: Croatia, EU, Social Democrats, in a close national election_
 
 ### [ A wildfire in Malibu, California, destroys 51 structures, including 49 homes. The fire has also burned 4,720 acres (1,910 hectares) and caused the evacuation of 10,000 people. It is currently 40% contained, being fueled by Santa Ana winds that gusted up to 60 mph (96 km/h) on November 24. ](/news/2007/11/25/a-wildfire-in-malibu-california-destroys-51-structures-including-49-homes-the-fire-has-also-burned-4-720-acres-1-910-hectares-and-cau.md)
 _Context: California, Malibu, Santa Ana winds, wildfire_

@@ -10,7 +10,7 @@ _Context: Egypt, Protocols of the Elders of Zion, Ramadan, anti-Semitism, fastin
 _Context: Federal Reserve Board's, Iraq, terrorism_
 
 ### [Two Mig-29s of the Slovak Air Force crashed following a mid-air collision near Hnilec in central-eastern Slovakia. One pilot ejected safely, while the other, Major Marian Katuska, was killed in the accident.](/news/2002/11/6/two-mig-29s-of-the-slovak-air-force-crashed-following-a-mid-air-collision-near-hnilec-in-central-eastern-slovakia-one-pilot-ejected-safely.md)
-_Context: Hnilec, Mig-29, Slovak Air Force, Slovakia's_
+_Context: Hnilec, Mig-29, Slovak Air Force, Slovakia_
 
 ## [Previous Day...](/news/2002/11/5/index.md)
 

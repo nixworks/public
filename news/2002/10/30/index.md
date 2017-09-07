@@ -4,7 +4,7 @@
 _Context: Iran, Iraq, Libya, Sudan, Syria, travel advisories_
 
 ### [ The European Union accuses tobacco company R. J. Reynolds of selling black market cigarettes to drug traffickers and mobsters from Italy, Russia, Colombia and the Balkans.](/news/2002/10/30/the-european-union-accuses-tobacco-company-r-j-reynolds-of-selling-black-market-cigarettes-to-drug-traffickers-and-mobsters-from-italy-r.md)
-_Context: Balkans, Colombia, European Union, R. J. Reynolds, black market, cigarette, tobacco_
+_Context: Balkans, Colombia, EU, R. J. Reynolds, black market, cigarette, tobacco_
 
 ### [ The Minnesota Democratic-Farmer-Labor Party chose former Vice President of the United States Walter Mondale as their candidate for the United States Senate seat of recently deceased Senator Paul Wellstone from Minnesota.](/news/2002/10/30/the-minnesota-democraticafarmeralabor-party-chose-former-vice-president-of-the-united-states-walter-mondale-as-their-candidate-for-the.md)
 _Context: Democratic, Minnesota, Paul Wellstone, U.S. Vice President, United States Senate, Walter Mondale_

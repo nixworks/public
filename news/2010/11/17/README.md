@@ -25,7 +25,7 @@ Prime Minister Saad Hariri on Tuesday wrapped up a two-day official visit to Rus
 European finance ministers say they did not hold detailed discussions on a potential bail-out for the Irish Republic at a meeting in Brussels.
 
 ### [A United States bankruptcy judge orders Bank of America to return $500 million it seized from the bank accounts of the defunct Lehman Brothers trading firm a few weeks before Lehman declared bankruptcy in 2008. ](/news/2010/11/17/a-united-states-bankruptcy-judge-orders-bank-of-america-to-return-500-million-it-seized-from-the-bank-accounts-of-the-defunct-lehman-brothe.md)
-_Context: Bank of America, Lehman Brothers, US$, United States_
+_Context: Bank of America, Lehman Brothers, U.S., US$_
 
 ### [New home construction fell to its lowest level since April 2009. ](/news/2010/11/17/new-home-construction-fell-to-its-lowest-level-since-april-2009.md)
 _Context: April 2009, Economy of the United States_
@@ -49,7 +49,7 @@ _Context: organ trafficking_
 _Context: Cook Islands, MP, general election, referendum_
 
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Democratic, John Boehner, Minority Leader, Nancy Pelosi, Republican, U.S. Speaker of the House of Representatives, United States House of Representatives, caucus_
+_Context: Democrats, John Boehner, Minority Leader, Nancy Pelosi, Republican, U.S. Speaker of the House of Representatives, United States House of Representatives, caucus_
 
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
 _Context: Guinea, November's presidential poll, states of emergency_
@@ -58,7 +58,7 @@ _Context: Guinea, November's presidential poll, states of emergency_
 _Context: Alaska senate  election, Lisa Murkowski, United States Senate, write-in candidate_
 
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)
-_Context: Facebook, Inc._
+_Context: Facebook_
 
 ### [A study published by "The Lancet" medical journal describes how short blasts of radio waves to the kidney may help regulate blood pressure. ](/news/2010/11/17/a-study-published-by-the-lancet-medical-journal-describes-how-short-blasts-of-radio-waves-to-the-kidney-may-help-regulate-blood-pressure.md)
 A short blast of radio waves to the kidneys can help control high blood pressure in patients who do not respond to medication, a study shows.

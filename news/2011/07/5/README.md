@@ -34,7 +34,7 @@ Sony Music Ireland has said it is looking into an incident on its website after 
 Former French finance minister Christine Lagarde is beginning her official duties as the managing director of the IMF.
 
 ### [Bailouts for Greece's financial system are challenged in a German court amid concerns that the result may rock the European Union. ](/news/2011/07/5/bailouts-for-greece-s-financial-system-are-challenged-in-a-german-court-amid-concerns-that-the-result-may-rock-the-european-union.md)
-_Context: European Union_
+_Context: EU_
 
 ### [Trainmaker Bombardier Transportation cuts 1,400 jobs from its United Kingdom factory in the English city of Derby after missing out on the GBP1.4bn Thameslink project. ](/news/2011/07/5/trainmaker-bombardier-transportation-cuts-1-400-jobs-from-its-united-kingdom-factory-in-the-english-city-of-derby-after-missing-out-on-the-a.md)
 Train maker Bombardier, which missed out on the £1.4bn Thameslink contract, says it will cut more than 1,400 jobs at its Derby plant.

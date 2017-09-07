@@ -28,7 +28,7 @@ _Context: America's Most Wanted, Fox Broadcasting Company_
 _Context: Las Vegas, Nevada, Sahara Hotel and Casino_
 
 ### [European Union finance ministers approve a 78 billion euro bailout package for Portugal ](/news/2011/05/16/european-union-finance-ministers-approve-a-78-billion-euro-bailout-package-for-portugal.md)
-_Context: EUR, European Union, Portugal_
+_Context: EU, EUR, Portugal_
 
 ### [The International Monetary Fund approves another US$2 billion loan to Ireland. ](/news/2011/05/16/the-international-monetary-fund-approves-another-us-2-billion-loan-to-ireland.md)
 _Context: International Monetary Fund, Ireland_

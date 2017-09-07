@@ -16,7 +16,7 @@ _Context: Cedar Rapids, Cedar River_
 _Context: Conservative Party, David Davis, Haltemprice and Howden, Haltemprice and Howden by-election, MP, Shadow Home Secretary, civil liberties_
 
 ### [ The Salmonella outbreak in the United States caused by tainted tomatoes continues to worsen with 228 victims in 23 states. ](/news/2008/06/12/the-salmonella-outbreak-in-the-united-states-caused-by-tainted-tomatoes-continues-to-worsen-with-228-victims-in-23-states.md)
-_Context: United States, salmonella, tomato_
+_Context: U.S., salmonella, tomato_
 
 ### [ The United States Secretary of Defense Robert Gates invites Pakistan and Afghanistan to participate in an investigation of the Gora Prai airstrike. ](/news/2008/06/12/the-united-states-secretary-of-defense-robert-gates-invites-pakistan-and-afghanistan-to-participate-in-an-investigation-of-the-gora-prai-ai.md)
 _Context: Afghanistan's, Defense Secretary, Gora Prai airstrike, Pakistan, Robert Gates_
@@ -31,7 +31,7 @@ _Context: Afghanistan's, Paris, international aid_
 _Context: China, Cross-Strait relations, the Republic of China_
 
 ### [ Irish voters go to the polls for the Twenty-eighth Amendment of the Constitution of Ireland to enable ratification of the Treaty of Lisbon of the European Union. ](/news/2008/06/12/irish-voters-go-to-the-polls-for-the-twenty-eighth-amendment-of-the-constitution-of-ireland-to-enable-ratification-of-the-treaty-of-lisbon.md)
-_Context: European Union, Ireland, Treaty of Lisbon, ratified, the second Irish referendum_
+_Context: EU, Ireland, Treaty of Lisbon, ratified, the second Irish referendum_
 
 ### [ In "Boumediene v. Bush", the U.S. Supreme Court holds that foreign terrorism suspects held at Guantanamo Bay have constitutional rights to challenge their detention there in US courts. ](/news/2008/06/12/in-boumediene-v-bush-the-u-s-supreme-court-holds-that-foreign-terrorism-suspects-held-at-guanta-namo-bay-have-constitutional-rights-to.md)
 The Supreme Court rejected the Bush administration’s argument that the Guantánamo Bay detainees had adequate protections under a 2005 law.

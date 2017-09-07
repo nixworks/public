@@ -1,7 +1,7 @@
 ## [2006-07-10](/news/2006/07/10/index.md)
 
 ### [ The United Kingdom unveils a new terror alert status system, similar to the United States' Homeland Security Advisory System. It is currently at "severe" on a scale of low, moderate, substantial, severe and critical. ](/news/2006/07/10/the-united-kingdom-unveils-a-new-terror-alert-status-system-similar-to-the-united-states-homeland-security-advisory-system-it-is-current.md)
-_Context: Homeland Security Advisory System, United Kingdom, United States_
+_Context: Homeland Security Advisory System, U.S., United Kingdom_
 
 ### [ Hundreds of thousands of children are potentially fingerprinted in the UK, some as young as five years old and without parental consent. ](/news/2006/07/10/hundreds-of-thousands-of-children-are-potentially-fingerprinted-in-the-uk-some-as-young-as-five-years-old-and-without-parental-consent.md)
 _Context: UK_
@@ -22,7 +22,7 @@ Authorities were investigating whether a doctor who survived the explosion of a 
 Sources in Gaza Strip say 10-year-old girl was critically wounded by rocket that hit her Beit Lahiya home, add that gunmen aimed errant rocket towards Israel
 
 ### [ Israeli prime minister Ehud Olmert criticises the European Union for its refusal to condemn the daily Palestinian rocket attacks against Israeli civilians, leaving Israel to take effective measures by itself. ](/news/2006/07/10/israeli-prime-minister-ehud-olmert-criticises-the-european-union-for-its-refusal-to-condemn-the-daily-palestinian-rocket-attacks-against-is.md)
-_Context: Ehud Olmert, European Union, Israel, Israeli Prime Minister, Palestinian National Authority, Qassam rocket_
+_Context: EU, Ehud Olmert, Israel, Israeli Prime Minister, Palestinian National Authority, Qassam rocket_
 
 ### [ Fighting erupts in Somalia, with fighting between Somalian fighters aligned with defeated warlords and Islamic militants killing 60 people and wounding 100. ](/news/2006/07/10/fighting-erupts-in-somalia-with-fighting-between-somalian-fighters-aligned-with-defeated-warlords-and-islamic-militants-killing-60-people.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

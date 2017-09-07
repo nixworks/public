@@ -25,7 +25,7 @@ _Context: China, Hanlong Group, Hubei, sentencing him to death_
 _Context: 2014 Isla Vista shootings, Santa Barbara, California, University of California, drive-by shooting_
 
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-ireland-and-the-czech-republic-vote.md)
-_Context: Czech Republic, European Union, Ireland, newly elected_
+_Context: Czech Republic, EU, Ireland, newly elected_
 
 ### [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md)
 By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x27;s military rulers detained former Prime Minister Yingluck Shinawatra on Friday, a senior officer said, after summoning her for talks a day after the army overthrew her caretaker government in a coup. As the army moved

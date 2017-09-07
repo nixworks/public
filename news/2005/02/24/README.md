@@ -43,7 +43,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 _Context: Diego Maradona, EUR, back taxes_
 
 ### [ New EU laws declare lottery scams illegal ](/news/2005/02/24/new-eu-laws-declare-lottery-scams-illegal.md)
-_Context: European Union, lottery scam_
+_Context: EU, lottery scam_
 
 ### [ The parliament of Turkey grants amnesty to 677,000 people who have been expelled from university in recent years ](/news/2005/02/24/the-parliament-of-turkey-grants-amnesty-to-677-000-people-who-have-been-expelled-from-university-in-recent-years.md)
 _Context: Turkey, university_

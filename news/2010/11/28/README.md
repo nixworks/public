@@ -32,7 +32,7 @@ Heavy falls of snow in some parts of the country have disrupted road, rail, bus 
 _Context: Mogadishu, Somalia, Uganda, Yoweri Museveni_
 
 ### [Sudanese President Omar al-Bashir is to boycott an African Union-European Union meeting in the Libyan capital Tripoli to "avoid embarrassment to Libya". ](/news/2010/11/28/sudanese-president-omar-al-bashir-is-to-boycott-an-african-union-european-union-meeting-in-the-libyan-capital-tripoli-to-avoid-embarrassmen.md)
-_Context: African Union, European Union, Libya, Omar al-Bashir, Sudan, Tripoli_
+_Context: African Union, EU, Libya, Omar al-Bashir, Sudan, Tripoli_
 
 ### [More than 2,000 Brazilian police and military personnel enter the AlemGBPo slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemagbpo-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts.md)
 Security forces seized control of a violent slum, claiming victory in a weeklong battle against drug gangs that has claimed dozens of lives.
@@ -50,10 +50,10 @@ _Context: Egypt, Egyptian parliamentary elections_
 _Context: Moldova, parliamentary elections_
 
 ### [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md)
-_Context: Catalan, Spain, parliamentary elections_
+_Context: Catalonia, Spain, parliamentary elections_
 
 ### [Voters in Okinawa Prefecture, Japan, go to the polls for the gubernatorial election with anti-US base governor Hirokazu Nakaima reelected. ](/news/2010/11/28/voters-in-okinawa-prefecture-japan-go-to-the-polls-for-the-gubernatorial-election-with-anti-us-base-governor-hirokazu-nakaima-reelected.md)
-_Context: Hirokazu Nakaima, Japan, Okinawa, United States, governor, gubernatorial election_
+_Context: Hirokazu Nakaima, Japan, Okinawa, U.S., governor, gubernatorial election_
 
 ## [Previous Day...](/news/2010/11/27/index.md)
 

@@ -25,7 +25,7 @@ _Context: Argentina, Santiago del Estero, earthquake_
 _Context: Canadians, Iran, Iranian human rights, Lawrence Cannon, Minister of Foreign Affairs, dual nationality_
 
 ### [Hungary takes over the presidency of the European Union. ](/news/2011/01/1/hungary-takes-over-the-presidency-of-the-european-union.md)
-_Context: European Union, Hungary, the Council of_
+_Context: EU, Hungary, the Council of_
 
 ### [Specialist prison guards and firefighters are sent into Ford Open Prison in West Sussex, United Kingdom, after 40 inmates started a riot. Part of the prison has been destroyed by fire. ](/news/2011/01/1/specialist-prison-guards-and-firefighters-are-sent-into-ford-open-prison-in-west-sussex-united-kingdom-after-40-inmates-started-a-riot-pa.md)
 _Context: Ford Open Prison, West Sussex, prison riot_

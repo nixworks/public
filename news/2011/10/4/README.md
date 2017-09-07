@@ -28,10 +28,10 @@ _Context: Japan, North Korean defectors, South Korea_
 _Context: 2011 Syrian uprising, China, Russia, Syria, United Nations Security Council_
 
 ### [The European Court of Justice rules against "the imposition of national borders to sell broadcasting rights on a territory-by-territory basis", as this is in contravention of EU laws on free trade. It would allow members of the public to seek cheaper providers of Premier League football, whilst finding against a landlady who used Greek television to show live football in her public house. ](/news/2011/10/4/the-european-court-of-justice-rules-against-the-imposition-of-national-borders-to-sell-broadcasting-rights-on-a-territory-by-territory-basi.md)
-_Context: English Premier League, European Court of Justice, European Union, public house_
+_Context: EU, English Premier League, European Court of Justice, public house_
 
 ### [Voters in the US state of West Virginia go to the polls for a gubernatorial special election with acting Governor, Democrat Earl Ray Tomblin, being elected as Governor of West Virginia. ](/news/2011/10/4/voters-in-the-us-state-of-west-virginia-go-to-the-polls-for-a-gubernatorial-special-election-with-acting-governor-democrat-earl-ray-tomblin.md)
-_Context: Democratic, Earl Ray Tomblin, Governor of West Virginia, US state, West Virginia, gubernatorial special election_
+_Context: Democrats, Earl Ray Tomblin, Governor of West Virginia, US state, West Virginia, gubernatorial special election_
 
 ### [Voters in the Canadian province of Manitoba go to the polls for a general election, with the NDP led by Greg Selinger being elected to a fourth term. ](/news/2011/10/4/voters-in-the-canadian-province-of-manitoba-go-to-the-polls-for-a-general-election-with-the-ndp-led-by-greg-selinger-being-elected-to-a-fou.md)
 Polls Voters in Manitoba are set to elect their next government on Tuesday.

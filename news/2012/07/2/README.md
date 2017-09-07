@@ -7,7 +7,7 @@ _Context: Kenya, Somalia_
 _Context: Ja'ar, Yemen_
 
 ### [Officials in Kenya say that two Iranian Islamic Revolutionary Guards arrested with explosives planned to attack Israeli, American, British and Saudi Arabian targets inside Kenya. ](/news/2012/07/2/officials-in-kenya-say-that-two-iranian-islamic-revolutionary-guards-arrested-with-explosives-planned-to-attack-israeli-american-british-a.md)
-_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, United Kingdom, United States_
+_Context: Iran, Islamic Revolutionary Guards, Israelis, Kenya, Saudi Arabian, U.S., United Kingdom_
 
 ### [Finland says it will block the euro zone's permanent bailout fund (ESM) from buying government bonds in the open market, while The Netherlands also indicates opposition to the bond-buying idea. ](/news/2012/07/2/finland-says-it-will-block-the-euro-zone-s-permanent-bailout-fund-esm-from-buying-government-bonds-in-the-open-market-while-the-netherlan.md)
 _Context: Finland, Netherlands_
@@ -19,7 +19,7 @@ Plans to build a $600 million plant in Mobile, Alabama to produce A320 passenger
 GlaxoSmithKline Plc agreed to plead guilty to misdemeanor criminal charges and pay $3 billion to settle what government officials on Monday described as the largest case of healthcare fraud in U.S. history.
 
 ### [Despite early frustration and strife about their IPO, Facebook decides to remain on the Nasdaq. ](/news/2012/07/2/despite-early-frustration-and-strife-about-their-ipo-facebook-decides-to-remain-on-the-nasdaq.md)
-_Context: Facebook, Inc., IPO, Nasdaq_
+_Context: Facebook, IPO, Nasdaq_
 
 ### [The British government announces a parliamentary investigation into the Barclays Libor scandal, with reports hoped to be filed by the end of the year. ](/news/2012/07/2/the-british-government-announces-a-parliamentary-investigation-into-the-barclays-libor-scandal-with-reports-hoped-to-be-filed-by-the-end-of.md)
 _Context: Barclays, Libor, United Kingdom_

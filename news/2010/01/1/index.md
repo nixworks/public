@@ -25,10 +25,10 @@ _Context: Schwann cell, Tasmanian devil, devil facial tumour disease, transmissi
 _Context: Cambodia, Sam Rainsy, Vietnam_
 
 ### [ North Korea calls for the end of hostilities with the United States and a nuclear free Korean Peninsula, to restart talks; in its annual New Year editorial. ](/news/2010/01/1/north-korea-calls-for-the-end-of-hostilities-with-the-united-states-and-a-nuclear-free-korean-peninsula-to-restart-talks-in-its-annual-ne.md)
-_Context: Korean Peninsula, New Year editorial, North Korea, United States_
+_Context: Korean Peninsula, New Year editorial, North Korea, U.S._
 
 ### [ Spain takes over the Presidency of the Council of the European Union from Sweden. ](/news/2010/01/1/spain-takes-over-the-presidency-of-the-council-of-the-european-union-from-sweden.md)
-_Context: Council of the European Union, European Union, Spain, Sweden, the Council of_
+_Context: Council of the European Union, EU, Spain, Sweden, the Council of_
 
 ## [Previous Day...](/news/2009/12/31/index.md)
 

@@ -7,7 +7,7 @@ _Context: France, pension, public transport_
 _Context: John Fahey, Premier, World Anti-Doping Agency_
 
 ### [ The Dalai Lama is awarded the Congressional Gold Medal by the United States Congress; the decision is defended by George W. Bush.date=December 2007](/news/2007/10/17/the-dalai-lama-is-awarded-the-congressional-gold-medal-by-the-united-states-congress-the-decision-is-defended-by-george-w-bush-date-decem.md)
-_Context: Congressional Gold Medal, Dalai Lama, George W. Bush, United States Congress_
+_Context: Congress, Congressional Gold Medal, Dalai Lama, George W. Bush_
 
 ### [ Burmese activist and Nobel laureate Aung San Suu Kyi is granted honorary citizenship by Canada. ](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.md)
 _Context: Aung San Suu Kyi, Burma, Canada, Honorary Canadian citizenship_

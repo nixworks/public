@@ -46,7 +46,7 @@ _Context: Ali Akbar Salehi, Iran nuclear chief, Tehran, nuclear research reactor
 The US welcomes the release by a Rwandan court of genocide lawyer Peter Erlinder on medical grounds.
 
 ### [Two people die during a series of tornadoes in Wadena and Otter Tail County, Minnesota, United States. ](/news/2010/06/18/two-people-die-during-a-series-of-tornadoes-in-wadena-and-otter-tail-county-minnesota-united-states.md)
-_Context: Otter Tail County, Minnesota, United States, Wadena, tornado_
+_Context: Otter Tail County, Minnesota, U.S., Wadena, tornado_
 
 ### [FIFA receives a complaint about its security after a football fan breaks into the dressing room of the England national football team during a 2010 FIFA World Cup game in which the team were booed in South Africa. ](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.md)
 _Context: 2010 FIFA World Cup, England, FIFA, South Africa_
