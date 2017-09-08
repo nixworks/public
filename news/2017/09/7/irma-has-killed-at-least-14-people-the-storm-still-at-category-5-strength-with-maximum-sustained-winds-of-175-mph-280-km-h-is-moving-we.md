@@ -8,8 +8,9 @@ The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed ac
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-41194959)
-2. [Reuters](https://news.trust.org/item/20170907081607-vjoad/)
-3. [The Washington Post](https://www.washingtonpost.com/national/2017/live-updates/weather/hurricane-irma-a-monster-storms-devastating-path/?nid&utm_term=.3849f6d434b1)
+2. [Reuters](http://www.reuters.com/article/us-storm-irma-nuclearpower/florida-nuclear-plants-to-shut-ahead-of-hurricane-irma-idUSKCN1BI2IA)
+3. [Reuters](https://news.trust.org/item/20170907081607-vjoad/)
+4. [The Washington Post](https://www.washingtonpost.com/national/2017/live-updates/weather/hurricane-irma-a-monster-storms-devastating-path/?nid&utm_term=.3849f6d434b1)
 
 ### Related:
 
