@@ -24,7 +24,7 @@ _Context: Hurricane Harvey, Qatar, Texas_
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
 The High Court has ruled in favour of the Turnbull government&#039;s same-sex marriage postal survey.
 
-### [Education secretary Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-administration.md)
+### [United States Secretary of Education Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/united-states-secretary-of-education-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-a.md)
 She says the due-process rights of the accused need to be protected.
 
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)

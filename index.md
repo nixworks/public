@@ -1,4 +1,15 @@
-## [News](/news/2017/09/7/index.md)
+## [News](/news/2017/09/8/index.md)
+
+### [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md)
+_Context: 2017 Chiapas earthquake, Mexico_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/7/index.md)
 
 ### [Israeli jets bomb a suspected chemical weapons depot near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. ](/news/2017/09/7/israeli-jets-bomb-a-suspected-chemical-weapons-depot-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-army-soldiers.md)
 Thursday&rsquo;s attack marked an escalation in Israel&rsquo;s campaign against Hezbollah in Syria.
@@ -24,7 +35,7 @@ _Context: Hurricane Harvey, Qatar, Texas_
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
 The High Court has ruled in favour of the Turnbull government&#039;s same-sex marriage postal survey.
 
-### [Education secretary Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-administration.md)
+### [United States Secretary of Education Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/united-states-secretary-of-education-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-a.md)
 She says the due-process rights of the accused need to be protected.
 
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
@@ -42,13 +53,9 @@ Philippine President Rodrigo Duterte’s son denied any involvement in a drug sm
 ### [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-as-50-year-family-dynasty-pa.md)
 _Context: Faure Gnassingbe, Parliament, President, Togo_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/6/index.md)
+## [Day Before Yesterday](/news/2017/09/6/index.md)
 
 ### [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md)
 Pope Francis is due to travel to Colombia today for a five day visit. He will be the third Pope to visit Colombia, i...
@@ -85,38 +92,7 @@ The company told congressional investigators that it has discovered it sold ads 
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/5/index.md)
-
-### [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md)
-Some 93,000 civilians were trapped there for years, leaving them dependent on aid air drops.
-
-### [More than 123,000 Rohingya refugees have fled Myanmar and crossed into Bangladesh due to escalating violence by the Myanmar Army. ](/news/2017/09/5/more-than-123-000-rohingya-refugees-have-fled-myanmar-and-crossed-into-bangladesh-due-to-escalating-violence-by-the-myanmar-army.md)
-More than 35,000 new arrivals have been identified in 24 hours, the United Nations says.
-
-### [Hurricane Irma strengthens to a maximum Category 5 hurricane, becoming the strongest Atlantic hurricane since 2005's Hurricane Wilma in terms of maximum sustained winds, described as "extremely dangerous." The National Hurricane Center (NHC) predicts that Irma could strengthen even more due to favorable conditions. ](/news/2017/09/5/hurricane-irma-strengthens-to-a-maximum-category-5-hurricane-becoming-the-strongest-atlantic-hurricane-since-2005-s-hurricane-wilma-in-term.md)
-As of Tuesday night, the hurricane is a Category 5.
-
-### [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md)
-Prime Minister Narendra Modi on Tuesday left for Nay Pyi Taw for his first bilateral visit to Myanmar with an aim of charting a roadmap for closer cooperation between the two countries in areas like s
-
-### [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md)
-Donald Trump has announced his is selling Japan and South Korea a “substantially increased” amount of US military equipment, as the President and his allies look for ways to counter the threat from North Korea.
-
-### [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md)
-A senior Indian journalist was shot dead on Tuesday in the southern city of Bengaluru by unidentified assailants, police said.
-
-### [The High Court of Australia receives a complaint against the Australian Marriage Law Postal Survey citing the postal survey as "unique and offensive." ](/news/2017/09/5/the-high-court-of-australia-receives-a-complaint-against-the-australian-marriage-law-postal-survey-citing-the-postal-survey-as-unique-and-o.md)
-QC for one plaintiff says ‘putting to the public a vote on her family unit’ before heated debate about powers of Bureau of Statistics
-
-### [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md)
-_Context: Mayor, Politics of Taiwan, Premier, President, Tainan, Tsai Ing-wen, William Lai Ching-te, the Republic of China_
-
-### [The Trump Administration announces that, during the next six months, it will be ending the DACA program that has halted the deportation of about 800,000 people who were brought to the U.S. illegally as children. Congress is called upon to pass legislation to correct the situation. ](/news/2017/09/5/the-trump-administration-announces-that-during-the-next-six-months-it-will-be-ending-the-daca-program-that-has-halted-the-deportation-of-a.md)
-As early as March, officials said, some of the roughly 800,000 beneficiaries of the program could become eligible for deportation.
-
----
-
-## [Previous Day...](/news/2017/09/4/index.md)
+## [Previous Day...](/news/2017/09/5/index.md)
 
 ---
 
