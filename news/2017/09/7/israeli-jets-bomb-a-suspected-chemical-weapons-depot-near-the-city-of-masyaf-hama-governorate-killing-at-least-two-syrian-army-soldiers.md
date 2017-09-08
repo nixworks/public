@@ -7,8 +7,8 @@ Thursday&rsquo;s attack marked an escalation in Israel&rsquo;s campaign against 
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA?)
-2. [The Washington Post](https://www.washingtonpost.com/world/israeli-airstrikes-target-syrian-research-center-linked-to-chemical-weapons/2017/09/07/2230abda-93a5-11e7-b9bc-b2f7903bab0d_story.html?utm_term=.c187c089bd3d)
+1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_SYRIA)
+2. [The Washington Post](https://www.washingtonpost.com/world/israeli-airstrikes-target-syrian-research-center-linked-to-chemical-weapons/2017/09/07/2230abda-93a5-11e7-b9bc-b2f7903bab0d_story.html)
 
 ### Related:
 

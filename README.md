@@ -24,13 +24,13 @@ Criminals gained access to certain files in the company’s system from mid-May 
 The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed across the Caribbean.
 
 ### [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least two deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md)
-An earthquake of magnitude 8.1 struck off the southern coast of Mexico late on Thursday, the U.S. Geological Survey (USGS) said, shaking buildings as far away as Guatemala and sending people running into the streets in the capital. Mexico&#x27;s civil protection agency said it was the strongest eart...
+By Frank Jack Daniel MEXICO CITY (Reuters) - An earthquake of magnitude 8.1 struck off the southern coast of Mexico late on Thursday, the U.S. Geological Survey (USGS) said, killing at least six people and triggering small tsunami waves but no major destruction. The quake was apparently stronger tha...
 
 ### [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md)
 The Latest on tensions on the Korean Peninsula (all times local):
 
 ### [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md)
-_Context: Hurricane Harvey, Qatar, Texas_
+_Context: Hurricane Harvey, Qatar, Qatar-United States relations, Texas_
 
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
 The High Court has ruled in favour of the Turnbull government&#039;s same-sex marriage postal survey.
@@ -44,14 +44,14 @@ _Context: Executive Order 13780, Trump administration, United States Court of Ap
 ### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)
 Members of Catalonia&#39;s parliament who voted in favour of a referendum on independence set to face legal challenge.
 
-### [ Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environm.md)
+### [Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven people, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environme.md)
 Police officers sickened by fumes from explosions at an Arkema SA chemical plant near Houston accused the company in a lawsuit of not warning them about toxic chemicals that left them vomiting and unable to catch their breath.
 
 ### [The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal. ](/news/2017/09/7/the-philippine-senate-investigates-paolo-duterte-the-son-of-current-philippine-president-rodrigo-duterte-in-an-alleged-methamphetamine-smu.md)
 Philippine President Rodrigo Duterte’s son denied any involvement in a drug smuggling case that is captivating the nation.
 
-### [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-as-50-year-family-dynasty-pa.md)
-_Context: Faure Gnassingbe, Parliament, President, Togo_
+### [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-s-50-year-family-dynasty-parl.md)
+Togo security forces fired tear gas at hundreds of anti-government protesters carrying out a late night sit-in at an intersection in central Lome as part of a bid to end the 50-year-old Gnassingbe family dynasty, witnesses said on Thursday.
 
 ---
 
