@@ -9,6 +9,9 @@ _Context: ACT, Education in the United States_
 ### [More than 143 million Americans have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-credit-r.md)
 Criminals gained access to certain files in the company’s system from mid-May to July, according to an investigation by Equifax.
 
+### [Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD ](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.md)
+The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.
+
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
 The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed across the Caribbean.
 
