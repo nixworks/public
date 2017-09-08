@@ -6,6 +6,9 @@
 ### [Hurricane Jose intensifies into an "extremely dangerous" Category 4 hurricane as it nears the northern Leeward Islands, according to the National Hurricane Center. ](/news/2017/09/8/hurricane-jose-intensifies-into-an-extremely-dangerous-category-4-hurricane-as-it-nears-the-northern-leeward-islands-according-to-the-nat.md)
 Hurricane Jose threatening Caribbean islands already devastated by Hurricane Irma
 
+### [The U.S. State Department has approved a package of potential arms sales worth more than USD$ 3.8 billion to the Kingdom of Bahrain including F-16 jets, upgrades, missiles and patrol boats. ](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.md)
+The U.S. State Department has approved a package of potential arms sales worth more than $3.8 billion to Bahrain including F-16 jets, upgrades, missiles and patrol boats, a U.S. Official said on Friday.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
