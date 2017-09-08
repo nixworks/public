@@ -1,0 +1,23 @@
+### [2017-09-8](/news/2017/09/8/index.md)
+
+# The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. 
+
+
+
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-philippines-northkorea/philippines-suspends-trade-with-north-korea-to-comply-with-u-n-resolution-idUSKCN1BJ10K)
+
+### Related:
+
+1. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _Context: North Korea, United Nations Security Council, missile tests_
+2. [The Philippines impounds a North Korean cargo ship in line with new UN sanctions on North Korea in response to Pyongyang's recent nuclear test and missile launch. Presidential spokesman, Manolo Quezon, said the 6,830-tonne cargo ship would not be allowed to leave the Port of Subic, Luzon, where it has been docked for three days, and that its crew would be deported. ](/news/2016/03/5/the-philippines-impounds-a-north-korean-cargo-ship-in-line-with-new-un-sanctions-on-north-korea-in-response-to-pyongyang-s-recent-nuclear-te.md) _Context: North Korea, North Korea-Philippines relations, Philippines_
+3. [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md) _Context: North Korea, missile tests_
+4. [U.S. and South Korean officials confirm that North Korea launched a test missile from the west coast city of Kusong. The projectile travelled to the east for 30 minutes and 435 mi reaching an altitude of more than 1245 mi before landing in the Sea of Japan, 60 mi south of the Russian city of Vladivostok. ](/news/2017/05/14/u-s-and-south-korean-officials-confirm-that-north-korea-launched-a-test-missile-from-the-west-coast-city-of-kusong-the-projectile-travelle.md) _Context: North Korea, missile tests_
+5. [China opposes any new sanctions against North Korea during a meeting in the United Nations Security Council. ](/news/2016/12/10/china-opposes-any-new-sanctions-against-north-korea-during-a-meeting-in-the-united-nations-security-council.md) _Context: North Korea, United Nations Security Council_
+6. [The United Nations Security Council condemns North Korea's most recent ballistic missile launches as a grave violation of the international ban, and urges all countries "to redouble their efforts" to fully implement the March sanctions. ](/news/2016/06/23/the-united-nations-security-council-condemns-north-korea-s-most-recent-ballistic-missile-launches-as-a-grave-violation-of-the-international.md) _Context: North Korea, United Nations Security Council_
+7. [The United Nations Security Council condemns North Korea's failed ballistic missile test yesterday, as well as two other unsuccessful ones in April. ](/news/2016/06/1/the-united-nations-security-council-condemns-north-korea-s-failed-ballistic-missile-test-yesterday-as-well-as-two-other-unsuccessful-ones-i.md) _Context: North Korea, United Nations Security Council_
+8. [China's Ministry of Commerce says that it is restricting trade with North Korea, in line with the recent sanctions approved by the United Nations Security Council last March. China will be banning the export of jet fuel and import of gold, some coal and "rare earth metals" used in high-tech goods. ](/news/2016/04/5/china-s-ministry-of-commerce-says-that-it-is-restricting-trade-with-north-korea-in-line-with-the-recent-sanctions-approved-by-the-united-na.md) _Context: North Korea, United Nations Security Council_
+9. [The People's Republic of China urges North Korea to abide by a United Nations Security Council resolution that bans the North from conducting ballistic missile tests, two days after Pyongyang claimed it conducted a test from a submarine. ](/news/2016/04/25/the-people-s-republic-of-china-urges-north-korea-to-abide-by-a-united-nations-security-council-resolution-that-bans-the-north-from-conductin.md) _Context: North Korea, United Nations Security Council_
+10. [The United Nations Security Council adopts the toughest sanctions on North Korea in twenty years due to continued efforts to develop a nuclear weapons program. ](/news/2016/03/2/the-united-nations-security-council-adopts-the-toughest-sanctions-on-north-korea-in-twenty-years-due-to-continued-efforts-to-develop-a-nucle.md) _Context: North Korea, United Nations Security Council_

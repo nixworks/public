@@ -7,8 +7,10 @@
 
 ### Source:
 
-1. [AP](https://apnews.com/b0d76584fe804fb39c337ad5db7f51b8/The-Latest:-Death-toll-in-Mexico-earthquake-rises-to-58)
-2. [Fox News](http://www.foxnews.com/world/2017/09/08/tsunami-waves-confirmed-in-mexico-ptwc-says.html)
+1. [AFP via Focus News Agency](http://www.focus-fen.net/news/2017/09/08/422842/afpdeath-toll-in-mexico-earthquake-rises-to-at-least-58.html)
+2. [AP](https://apnews.com/b0d76584fe804fb39c337ad5db7f51b8/The-Latest:-Death-toll-in-Mexico-earthquake-rises-to-58)
+3. [Fox News](http://www.foxnews.com/world/2017/09/08/tsunami-waves-confirmed-in-mexico-ptwc-says.html)
+4. [Sky News](http://www.skynews.com.au/news/top-stories/2017/09/09/at-least-32-people-dead-in-mexico-earthquake.html)
 
 ### Related:
 
