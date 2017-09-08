@@ -22,7 +22,7 @@ _Context: India, Japanese encephalitis, death toll, outbreak_
 _Context: Australia, Australian Prime Minister, Australian Securities and Investment Commission, John Howard, Telstra, share price_
 
 ### [ Philippine President Gloria Macapagal-Arroyo survives the 2005 political crisis as the plenary session of the House of Representatives of the Philippines dropped the impeachment complaint filed against her. ](/news/2005/09/6/philippine-president-gloria-macapagal-arroyo-survives-the-2005-political-crisis-as-the-plenary-session-of-the-house-of-representatives-of-t.md)
-_Context: 2005 political crisis, Gloria Macapagal Arroyo, Philippines, President of the Philippines, lower house of the Philippine Congress_
+_Context: 2005 political crisis, Gloria Macapagal Arroyo, Philippines, President, lower house of the Philippine Congress_
 
 ## [Previous Day...](/news/2005/09/5/index.md)
 

@@ -7,7 +7,7 @@ Current and former world leaders gathered Saturday to bid farewell to former Ger
 _Context: Enzo Ferrari, Italy, Modena, Modena Park 2017, Vasco Rossi, a-Ha_
 
 ### [President of the Philippines Rodrigo Duterte threatens the "Philippine Daily Inquirer" with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family (ever since the 1986 EDSA People Power Revolution), as well as the minority opposition Liberal Party (of which the Vice President of the Philippines Leni Robredo is its prominent member); both have been consistent in their criticisms of the Duterty presidency and its policies since its inauguration in 2016. ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time-a.md)
-_Context: 1986 EDSA People Power Revolution, Aquino family, Duterty presidency, Freedom of speech in the Philippines, Leni Robredo, Liberal Party, Philippine Daily Inquirer, President of the Philippines, Rodrigo Duterte, Vice President of the Philippines, expose_
+_Context: 1986 EDSA People Power Revolution, Aquino family, Duterty presidency, Freedom of speech in the Philippines, Leni Robredo, Liberal Party, Philippine Daily Inquirer, President, Rodrigo Duterte, Vice President of the Philippines, expose_
 
 ### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
 The overhaul existing laws was carried out at a special midnight session of parliament.
@@ -31,7 +31,7 @@ _Context: Canada, Canada Day, Canadian Confederation, sesquicentennial_
 Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in as the city&#39;s new leader on the 20th anniversary of its handover from British to Chinese rule.
 
 ### [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md)
-_Context: California, Donald Trump, Kentucky, Mississippi, New York State, President, The Trump Administration, U.S. state, voter fraud_
+_Context: California, Donald Trump, Kentucky, Mississippi, New York State, Presidency of Donald Trump, President, U.S. state, voter fraud_
 
 ### [Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. ](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shuts-down-the-state-government-of-new-jersey.md)
 _Context: Chris Christie, New Jersey, Politics of New Jersey, budget crisis_

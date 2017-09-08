@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Brussels, Kazakhstan, London, Nursultan Nazarbayev's, OSCE, Tony Blair_
 
 ### [ President of the Philippines Gloria Arroyo declares a "state of national calamity" following the death and destruction caused by Typhoon Durian. ](/news/2006/12/4/president-of-the-philippines-gloria-arroyo-declares-a-state-of-national-calamity-following-the-death-and-destruction-caused-by-typhoon-du.md)
-_Context: Gloria Arroyo, President of the Philippines, Typhoon Durian_
+_Context: Gloria Arroyo, President, Typhoon Durian_
 
 ### [ A US Marine is jailed for raping a woman at Subic Bay after joint exercises with the Philippines. Three other Marines were acquitted in a case which caused anti-American protests. ](/news/2006/12/4/a-us-marine-is-jailed-for-raping-a-woman-at-subic-bay-after-joint-exercises-with-the-philippines-three-other-marines-were-acquitted-in-a-c.md)
 _Context: Marines, Philippines, Subic Bay, anti-American_

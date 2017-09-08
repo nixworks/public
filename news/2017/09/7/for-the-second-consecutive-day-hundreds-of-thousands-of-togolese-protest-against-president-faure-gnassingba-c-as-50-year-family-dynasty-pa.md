@@ -1,6 +1,6 @@
 ### [2017-09-7](/news/2017/09/7/index.md)
 
-# For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. Security forces, that have violently suppressed protests in the past, stand by as these protesters wind through the streets. 
+# For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. 
 
 
 

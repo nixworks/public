@@ -25,7 +25,7 @@ _Context: 2007 subprime mortgage financial crisis, Bank of England, Northern Roc
 _Context: Dagestan, Rappani Khalilov, Russia_
 
 ### [ North Korea denies allegations that it is helping Syria to develop a nuclear weapons facility. ](/news/2007/09/18/north-korea-denies-allegations-that-it-is-helping-syria-to-develop-a-nuclear-weapons-facility.md)
-_Context: North Korea, Syria, nuclear warheads_
+_Context: North Korea, Syria, nuclear weapon_
 
 ### [ Australia, the second largest wheat exporter in the world, cuts its forecast production by 30 per cent due to an ongoing drought. ](/news/2007/09/18/australia-the-second-largest-wheat-exporter-in-the-world-cuts-its-forecast-production-by-30-per-cent-due-to-an-ongoing-drought.md)
 _Context: Australia, wheat_
@@ -34,7 +34,7 @@ _Context: Australia, wheat_
 _Context: 2007 Pacific typhoon season, China, Shanghai_
 
 ### [ The son of Philippine House Speaker Jose De Venecia, Jr., Jose "Joey" De Venecia III, disclosed in a Senate inquiry that First Gentleman Mike Arroyo is the "mystery man" behind the controversial $ 329-million broadband contract with ZTE Corp. in China. ](/news/2007/09/18/the-son-of-philippine-house-speaker-jose-de-venecia-jr-jose-joey-de-venecia-iii-disclosed-in-a-senate-inquiry-that-first-gentleman-mi.md)
-_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippine senate, Philippines, ZTE, broadband_
+_Context: China, First Gentleman, Jose De Venecia, Jr., Mike Arroyo, Philippine Senate, Philippines, ZTE, broadband_
 
 ### [ O.J. Simpson is charged with several felonies in Las Vegas, Nevada. ](/news/2007/09/18/o-j-simpson-is-charged-with-several-felonies-in-las-vegas-nevada.md)
 _Context: Las Vegas, Nevada, O. J. Simpson, felons_

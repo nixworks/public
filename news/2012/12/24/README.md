@@ -10,7 +10,7 @@ A Nato adviser is shot dead by a woman police officer in Kabul, as five Afghan p
 US actor Jack Klugman, who starred in the 1970s hit TV series The Odd Couple and Quincy M.E., dies at the age of 90.
 
 ### [American actor Charles Durning, the two-time Oscar award nominee, dies at the age 89 in New York City. ](/news/2012/12/24/american-actor-charles-durning-the-two-time-oscar-award-nominee-dies-at-the-age-89-in-new-york-city.md)
-_Context: Charles Durning, New York City, Oscar award, U.S._
+_Context: Americans, Charles Durning, New York City, Oscar award_
 
 ### [A band of rain sweeping the United Kingdom brings fresh flooding and disrupted rail services to south-west England and Scotland. ](/news/2012/12/24/a-band-of-rain-sweeping-the-united-kingdom-brings-fresh-flooding-and-disrupted-rail-services-to-south-west-england-and-scotland.md)
 A band of rain sweeping the UK brings fresh flooding to south-west England and Scotland, with train services disrupted.

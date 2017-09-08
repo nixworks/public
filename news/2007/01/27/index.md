@@ -4,7 +4,7 @@
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ North Korea denies reports by British newspapers that it is helping Iran prepare to test an atomic bomb. ](/news/2007/01/27/north-korea-denies-reports-by-british-newspapers-that-it-is-helping-iran-prepare-to-test-an-atomic-bomb.md)
-_Context: Iran, North Korea, United Kingdom, nuclear test, nuclear warheads_
+_Context: Iran, North Korea, United Kingdom, nuclear test, nuclear weapon_
 
 ### [ Iraq War troop surge of 2007: Tens of thousands of people protest at Washington D.C.'s National Mall demanding the withdrawal of U.S. troops from Iraq. ](/news/2007/01/27/iraq-war-troop-surge-of-2007-tens-of-thousands-of-people-protest-at-washington-d-c-s-national-mall-demanding-the-withdrawal-of-u-s-troop.md)
 Tens of thousands of protesters converged on the National Mall in Washington in a show of antiwar sentiment.

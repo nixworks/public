@@ -1,7 +1,7 @@
 ## [2008-11-10](/news/2008/11/10/index.md)
 
 ### [ Reports surface that a United States nuclear weapon was lost somewhere in the ice after the January 21, 1968 crash of a B-52 Stratofortress outside Thule Air Base, Greenland. ](/news/2008/11/10/reports-surface-that-a-united-states-nuclear-weapon-was-lost-somewhere-in-the-ice-after-the-january-21-1968-crash-of-a-b-52-stratofortress.md)
-_Context: B-52 Stratofortress, Greenland, January 21, 1968 crash, Thule Air Base, U.S., nuclear warheads_
+_Context: B-52 Stratofortress, Greenland, January 21, 1968 crash, Thule Air Base, U.S., nuclear weapon_
 
 ### [ Ryanair Flight 4102 is forced to make an emergency landing at Rome's Ciampino Airport after several birds were sucked into its engines as it prepared to land. ](/news/2008/11/10/ryanair-flight-4102-is-forced-to-make-an-emergency-landing-at-rome-s-ciampino-airport-after-several-birds-were-sucked-into-its-engines-as-i.md)
 _Context: Ciampino Airport, Rome, Ryanair Flight 4102_

@@ -13,7 +13,7 @@ _Context: Baghdad, Conflict in Iraq, Donald Rumsfeld, Secretary of Defense_
 _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian, militant_
 
 ### [ An estimated two million Iranians demonstrate against a possible U.S. pre-emptive strike aimed at preventing Iran from deploying nuclear weapons &ndash; a strike which top US military leaders deny considering. ](/news/2005/02/11/an-estimated-two-million-iranians-demonstrate-against-a-possible-u-s-pre-emptive-strike-aimed-at-preventing-iran-from-deploying-nuclear-we.md)
-_Context: Iran, nuclear warheads, pre-emptive strike_
+_Context: Iran, nuclear weapon, pre-emptive strike_
 
 ### [ The 485-foot-long Shakidor Dam in Baluchistan, southwest Pakistan, bursts under the pressure of a weeks' worth of rain, sending the Pakistani military into emergency search and rescue operations. Some 400 to 500 people are still unaccounted for. ](/news/2005/02/11/the-485-foot-long-shakidor-dam-in-baluchistan-southwest-pakistan-bursts-under-the-pressure-of-a-weeks-worth-of-rain-sending-the-pakista.md)
 _Context: Balochistan, Pakistan, Shakidor Dam_

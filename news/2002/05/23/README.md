@@ -4,7 +4,7 @@
 _Context: Golfer, Recent celebrity deaths, Sam Snead_
 
 ### [ The Indian-Pakistani conflict intensifies in the Kashmir region. Both powers have nuclear weapons.](/news/2002/05/23/the-indian-pakistani-conflict-intensifies-in-the-kashmir-region-both-powers-have-nuclear-weapons.md)
-_Context: India, Kashmir, Pakistan, conflict, nuclear warheads_
+_Context: India, Kashmir, Pakistan, conflict, nuclear weapon_
 
 ## [Previous Day...](/news/2002/05/22/index.md)
 

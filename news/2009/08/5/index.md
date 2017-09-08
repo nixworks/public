@@ -7,7 +7,7 @@ _Context: Cairns, Pacific Islands Forum_
 _Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
-_Context: Asia, Corazon Aquino, Philippines, President of the Philippines, first female_
+_Context: Asia, Corazon Aquino, Philippines, President, first female_
 
 ### [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md)
 President Lula da Silva said that Brazil is climbing out, and strengthened, from the deep global financial crisis and underlined that &ldquo;Brazil is now advising the International Monetary Fund, IMF&rdquo;.

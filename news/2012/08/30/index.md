@@ -49,7 +49,7 @@ _Context: 2012 Maldives Crisis, Commonwealth, Maldives, Mohamed Nasheed, coup, f
 _Context: Bundestag, German government, Leistungsschutzrecht_
 
 ### [Supreme Leader of Iran Ali Khamenei calls nuclear weapons and their use "an unforgivable sin" and defends Iran's right to use nuclear energy for medical and peaceful purposes. ](/news/2012/08/30/supreme-leader-of-iran-ali-khamenei-calls-nuclear-weapons-and-their-use-an-unforgivable-sin-and-defends-iran-s-right-to-use-nuclear-energy.md)
-_Context: Ali Khamenei, Supreme Leader of Iran, nuclear program, nuclear warheads_
+_Context: Ali Khamenei, Supreme Leader of Iran, nuclear program, nuclear weapon_
 
 ### [Mitt Romney accepts the nomination of the Republican Party to be its candidate in the 2012 US presidential election. ](/news/2012/08/30/mitt-romney-accepts-the-nomination-of-the-republican-party-to-be-its-candidate-in-the-2012-us-presidential-election.md)
 _Context: Mitt Romney, Republican, United States presidential election, 2012_

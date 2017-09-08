@@ -10,7 +10,7 @@ The UK economy emerged from recession in the three months from July to September
 Costa Coffee, given approval to open in Totnes, pulls out after &quot;recognising the strength of feeling&quot; against it.
 
 ### [Hurricane Sandy heads towards The Bahamas after making landfall in Cuba and Jamaica. ](/news/2012/10/25/hurricane-sandy-heads-towards-the-bahamas-after-making-landfall-in-cuba-and-jamaica.md)
-_Context: Cuba, Hurricane Sandy, Jamaica, the Bahamas_
+_Context: Cuba, Hurricane Sandy, Jamaica, The Bahamas_
 
 ### [A rape claim against a major Irish celebrity is investigated. The victim was made pregnant during her ordeal. ](/news/2012/10/25/a-rape-claim-against-a-major-irish-celebrity-is-investigated-the-victim-was-made-pregnant-during-her-ordeal.md)
 ### [A jury fails to reach a verdict in the retrial of a policeman thought to have racially abused a suspect in the aftermath of the 2011 England riots. ](/news/2012/10/25/a-jury-fails-to-reach-a-verdict-in-the-retrial-of-a-policeman-thought-to-have-racially-abused-a-suspect-in-the-aftermath-of-the-2011-england.md)

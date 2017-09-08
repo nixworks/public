@@ -31,7 +31,7 @@ _Context: 160 small pockets of land, Bangladesh, India_
 President Francois Hollande denies claims France has agreed to pay compensation to Russia for cancelling the sale of two warships.
 
 ### [President Benigno Aquino III endorses the presidential candidacy of Interior and Local Government Secretary Mar Roxas in 2016. ](/news/2015/07/31/president-benigno-aquino-iii-endorses-the-presidential-candidacy-of-interior-and-local-government-secretary-mar-roxas-in-2016.md)
-_Context: Mar Roxas, President of the Philippines, his predecessor_
+_Context: Mar Roxas, President, his predecessor_
 
 ## [Previous Day...](/news/2015/07/30/index.md)
 

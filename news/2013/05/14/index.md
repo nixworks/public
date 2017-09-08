@@ -7,7 +7,7 @@ Three US soldiers with the Nato-led force in Kandahar province in southern Afgha
 _Context: Adamawa State, Borno State, Goodluck Jonathan, Islamist, President, Yobe State, states of emergency_
 
 ### [American actress Angelina Jolie announces that she underwent an elective double mastectomy due to her family history of lethal cases of breast cancer. ](/news/2013/05/14/american-actress-angelina-jolie-announces-that-she-underwent-an-elective-double-mastectomy-due-to-her-family-history-of-lethal-cases-of-brea.md)
-_Context: Angelina Jolie, U.S., breast cancer, mastectomy_
+_Context: Americans, Angelina Jolie, breast cancer, mastectomy_
 
 ### [Greek civil servants hold a 24-hour strike after the government proposes to use emergency powers to stop striking teachers from disrupting university exams. ](/news/2013/05/14/greek-civil-servants-hold-a-24-hour-strike-after-the-government-proposes-to-use-emergency-powers-to-stop-striking-teachers-from-disrupting-u.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -37,7 +37,7 @@ The IRS’s admission it targeted conservative groups for special scrutiny has d
 _Context: British Columbia, Canada, Legislative Assembly, go to the polls_
 
 ### [Former President of the Philippines Joseph Estrada is declared as the winner of the mayoral election in the capital Manila. ](/news/2013/05/14/former-president-of-the-philippines-joseph-estrada-is-declared-as-the-winner-of-the-mayoral-election-in-the-capital-manila.md)
-_Context: Joseph Estrada, Manila, President of the Philippines_
+_Context: Joseph Estrada, Manila, President_
 
 ### [The British Conservative Party publishes a draft European Union (Referendum) Bill aimed at holding a referendum on Britain's membership of the European Union by 2017. ](/news/2013/05/14/the-british-conservative-party-publishes-a-draft-european-union-referendum-bill-aimed-at-holding-a-referendum-on-britain-s-membership-of-t.md)
 _Context: Conservative Party, EU, United Kingdom withdrawal from the European Union_

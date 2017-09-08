@@ -31,7 +31,7 @@ _Context: Australia, Malaysia, UNICEF, asylum seekers_
 _Context: Kiev, Ukraine, Yulia Tymoshenko, opposition party_
 
 ### [Philippine President Benigno Aquino III meets with rebel Moro Islamic Liberation Front leader Al Haj Murad Ibrahim in Tokyo. ](/news/2011/08/5/philippine-president-benigno-aquino-iii-meets-with-rebel-moro-islamic-liberation-front-leader-al-haj-murad-ibrahim-in-tokyo.md)
-_Context: Moro Islamic Liberation Front, Philippine, President of the Philippines, Tokyo, his predecessor_
+_Context: Moro Islamic Liberation Front, Philippine, President, Tokyo, his predecessor_
 
 ### [Yingluck Shinawatra is officially elected as the Prime Minister of Thailand by the parliament. ](/news/2011/08/5/yingluck-shinawatra-is-officially-elected-as-the-prime-minister-of-thailand-by-the-parliament.md)
 _Context: Parliament, Prime Minister, Yingluck Shinawatra_

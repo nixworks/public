@@ -4,7 +4,7 @@
 _Context: Cash for honours, Cashpoint, John Yates, Labour, Lord Levy, Scotland Yard, Tony Blair_
 
 ### [ French President Jacques Chirac, in an interview with the "International Herald Tribune", says that if the Government of Iran produces one or two nuclear weapons it will pose little danger to its neighbors. If Iran were to try to use a nuclear weapon against Israel, "It would not have gone off 200 meters into the atmosphere before Tehran would be razed to the ground." He later retracts his statements, saying he did not realize his comments were on the record. ](/news/2007/01/31/french-president-jacques-chirac-in-an-interview-with-the-international-herald-tribune-says-that-if-the-government-of-iran-produces-one.md)
-_Context: International Herald Tribune, Iranian government, Israel, Jacques Chirac, Middle East, Tehran, nuclear warheads_
+_Context: International Herald Tribune, Iranian government, Israel, Jacques Chirac, Middle East, Tehran, nuclear weapon_
 
 ### [ Ross Wilson, the Ambassador of the United States to Turkey, says the Bush administration opposes a bill in the United States Congress that will recognize the Armenian Genocide, which the United States Government does not recognize. ](/news/2007/01/31/ross-wilson-the-ambassador-of-the-united-states-to-turkey-says-the-bush-administration-opposes-a-bill-in-the-united-states-congress-that.md)
 _Context: Congress, George W. Bush administration, Turkey, United States, genocide of Armenians_

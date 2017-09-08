@@ -34,7 +34,7 @@ The death toll in three weeks of violence at anti-government protests in Venezue
 _Context: Hassan Rouhani, re-elected_
 
 ### [The White House dismisses U.S. Surgeon General Vivek Murthy in its continuing transition from the prior presidential administration. The current Deputy Surgeon General, Rear Admiral Sylvia Trent-Adams, will serve as the acting SG. ](/news/2017/04/21/the-white-house-dismisses-u-s-surgeon-general-vivek-murthy-in-its-continuing-transition-from-the-prior-presidential-administration-the-cur.md)
-_Context: Sylvia Trent-Adams, The Trump Administration, U.S. Surgeon General, Vivek Murthy, White House_
+_Context: Presidency of Donald Trump, Sylvia Trent-Adams, U.S. Surgeon General, Vivek Murthy, White House_
 
 ### [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-his.md)
 Pakistani opposition party lawmakers tore up the agenda and shouted in a parliament session on Friday as they demanded that Prime Minister Nawaz Sharif step down during an investigation into his finances.

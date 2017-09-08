@@ -16,7 +16,7 @@ _Context: Continental Airlines Flight 128, Houston, Miami, Rio de Janeiro_
 _Context: English, haggis_
 
 ### [ Iran is reportedly ready to build a nuclear weapon, according to Western intelligence services. ](/news/2009/08/3/iran-is-reportedly-ready-to-build-a-nuclear-weapon-according-to-western-intelligence-services.md)
-_Context: Iran, nuclear warheads_
+_Context: Iran, nuclear weapon_
 
 ### [ Barclays posts a profit of GBP2.98bn for the first half of the year, up 8% on the same period of 2008. ](/news/2009/08/3/barclays-posts-a-profit-of-gbp2-98bn-for-the-first-half-of-the-year-up-8-on-the-same-period-of-2008.md)
 _Context: Barclays_

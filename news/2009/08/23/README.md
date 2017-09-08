@@ -43,7 +43,7 @@ _Context: Zimbabwe, cabinet members, electoral fraud, ruling party_
 _Context: Costa Rica, Honduras, Manuel Zelaya, President, Supreme Court_
 
 ### [ Stefania Fernandez of Venezuela was crowned Miss Universe 2009 by her compatriot Dayana Mendoza, the first in the history. She was crowned at the Atlantis Paradise Island, Nassau, The Bahamas.](/news/2009/08/23/stefania-fernandez-of-venezuela-was-crowned-miss-universe-2009-by-her-compatriot-dayana-mendoza-the-first-in-the-history-she-was-crowned.md)
-_Context: Atlantis Paradise Island, Dayana Mendoza, Miss Universe 2009, Nassau, Stefania Fernandez, Venezuela, the Bahamas_
+_Context: Atlantis Paradise Island, Dayana Mendoza, Miss Universe 2009, Nassau, Stefania Fernandez, The Bahamas, Venezuela_
 
 ## [Previous Day...](/news/2009/08/22/index.md)
 

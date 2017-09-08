@@ -11,4 +11,5 @@
 
 ### Related:
 
-1. [ The wildfire grows to 8,500 acres. ](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.md) _Context: 2015 Alaska Sockeye wildfire_
+1. [Five children, ranging in age from 3 to 12, are killed in a mobile home fire in the Matanuska-Susitna Borough community of Butte, Alaska. The cause of the fire is under investigation. ](/news/2017/09/7/five-children-ranging-in-age-from-3-to-12-are-killed-in-a-mobile-home-fire-in-the-matanuska-susitna-borough-community-of-butte-alaska-th.md) _Context: Matanuska-Susitna Borough_
+2. [ The wildfire grows to 8,500 acres. ](/news/2015/06/15/the-wildfire-grows-to-8-500-acres.md) _Context: 2015 Alaska Sockeye wildfire_

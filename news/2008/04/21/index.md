@@ -7,7 +7,7 @@ _Context: Boston Bruins, Montreal, Montreal Canadiens, NHL, first round playoff 
 _Context: Baghdad, Supreme Islamic Iraqi Council, political party, rocket attacks_
 
 ### [ A boat carrying Haitian immigrants capsizes off the coast of the Bahamas. At least 20 deaths are reported by the United States Coast Guard. ](/news/2008/04/21/a-boat-carrying-haitian-immigrants-capsizes-off-the-coast-of-the-bahamas-at-least-20-deaths-are-reported-by-the-united-states-coast-guard.md)
-_Context: Haiti, United States Coast Guard, the Bahamas_
+_Context: Haiti, The Bahamas, United States Coast Guard_
 
 ## [Previous Day...](/news/2008/04/20/index.md)
 

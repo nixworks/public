@@ -19,7 +19,7 @@ An Islamist rebel says he regrets destroying cultural and religious sites in Tim
 Senator Leila de Lima, a staunch critic of the president, started a two-day congressional inquiry into the &quot;unprecedented&quot; killings.
 
 ### [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md)
-_Context: President of the Philippines, Rodrigo Duterte, his predecessor_
+_Context: President, Rodrigo Duterte, his predecessor_
 
 ### [Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. ](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-officially-declares-his-candidacy-for-president-in-2017.md)
 Former leader says key issue for France is ‘how to defend our lifestyle without cutting ourselves off from the world’

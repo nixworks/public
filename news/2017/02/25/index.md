@@ -28,7 +28,7 @@ The 105-page draft legislation, obtained by NBC News, repeals much of the curren
 Perez was elected Saturday as the new DNC chair, tasked with rebuilding the factionalized party after the November election.
 
 ### [Donald Trump announces he will not attend the 2017 White House Correspondents' Dinner, following recent friction between his administration and various news organizations. ](/news/2017/02/25/donald-trump-announces-he-will-not-attend-the-2017-white-house-correspondents-dinner-following-recent-friction-between-his-administration.md)
-_Context: The Trump Administration, White House Correspondents' Dinner_
+_Context: Presidency of Donald Trump, White House Correspondents' Dinner_
 
 ## [Previous Day...](/news/2017/02/24/index.md)
 
