@@ -2,13 +2,13 @@
 
 # Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. 
 
-At least 32 people have been killed after a powerful earthquake with a magnitude of 8.1 struck southern Mexico overnight, triggering a tsunami. Mexico&amp;#39;s president Enrique Pena Nieto said it was the biggest quake to hit the country for a century. There have been a further 62 aftershocks causing extensive damage. 
+ MEXICO CITY (AP) — The Latest on the Mexico earthquake (all times local): 3:15 p.m. The head of Mexico&#39;s civil defense agency says the death toll from 
 
 
 ### Source:
 
-1. [Fox News](http://www.foxnews.com/world/2017/09/08/tsunami-waves-confirmed-in-mexico-ptwc-says.html)
-2. [ITV News](http://www.itv.com/news/2017-09-08/mexico-earthquake/)
+1. [AP](https://apnews.com/b0d76584fe804fb39c337ad5db7f51b8/The-Latest:-Death-toll-in-Mexico-earthquake-rises-to-58)
+2. [Fox News](http://www.foxnews.com/world/2017/09/08/tsunami-waves-confirmed-in-mexico-ptwc-says.html)
 
 ### Related:
 

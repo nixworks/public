@@ -7,7 +7,7 @@ The online retail giant said it is seeking a location in North America for a new
 
 ### Source:
 
-1. [NY Times](https://www.nytimes.com/2017/09/07/technology/amazon-headquarters-north-america.html?mcubz=0&_r=0)
+1. [The New York Times](https://www.nytimes.com/2017/09/07/technology/amazon-headquarters-north-america.html?mcubz=0&_r=0)
 
 ### Related:
 
