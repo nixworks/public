@@ -1,7 +1,7 @@
 ## [2017-09-7](/news/2017/09/7/index.md)
 
-### [it is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumored to contain chemical weapons and North Korean scientists. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md)
-Thursday&rsquo;s attack marked an escalation in Israel&rsquo;s campaign against Hezbollah in Syria.
+### [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md)
+Syrian military appears to confirm media reports of attack on research centre near Mediterranean coast in night-time raid
 
 ### [Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. ](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is-cancelled-at-some-of-its-international-test-centers-because-of-leaks-of-test-materials.md)
 _Context: ACT, Education in the United States_
