@@ -9,26 +9,32 @@ _Context: ACT, Education in the United States_
 ### [More than 143 million Americans have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-credit-r.md)
 Criminals gained access to certain files in the company’s system from mid-May to July, according to an investigation by Equifax.
 
-### [Irma has killed at least 10 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-10-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
-_Context: 2017 Atlantic hurricane season, Category 5, Cuba, Hispaniola, Hurricane Irma, Puerto Rico, The Bahamas, Turks and Caicos Islands_
+### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
+The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed across the Caribbean.
 
-### [Five children, ranging in age from 3 to 12, are killed in a mobile home fire in the Matanuska-Susitna Borough community of Butte, Alaska. The cause of the fire is under investigation. ](/news/2017/09/7/five-children-ranging-in-age-from-3-to-12-are-killed-in-a-mobile-home-fire-in-the-matanuska-susitna-borough-community-of-butte-alaska-th.md)
-Five children, all believed to be girls between the ages of 3 and 12, died in a trailer fire in suburban Anchorage Thursday morning
+### [A magnitude 8.0 earthquake is recorded 96km south of Pijijiapan, Chiapas, Mexico. ](/news/2017/09/7/a-magnitude-8-0-earthquake-is-recorded-96km-south-of-pijijiapan-chiapas-mexico.md)
+An earthquake of magnitude 8.1 struck off the southern coast of Mexico late on Thursday, the U.S. Geological Survey (USGS) said, shaking buildings as far away as Guatemala and sending people running into the streets in the capital. Mexico&#x27;s civil protection agency said it was the strongest eart...
 
 ### [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md)
 The Latest on tensions on the Korean Peninsula (all times local):
 
-### [Spain plans to sue the propagators of the independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-the-propagators-of-the-independence-referendum-in-catalonia.md)
-Members of Catalonia&#39;s parliament who voted in favour of a referendum on independence set to face legal challenge.
+### [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md)
+_Context: Hurricane Harvey, Qatar, Texas_
 
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
 The High Court has ruled in favour of the Turnbull government&#039;s same-sex marriage postal survey.
 
-### [Education secretary Betsy DeVos plans to scrap a sexual assault guideline in college campuses placed by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-scrap-a-sexual-assault-guideline-in-college-campuses-placed-by-the-previous-administration.md)
+### [Education secretary Betsy DeVos plans to change the sexual assault guidelines on college campuses created by the previous administration. ](/news/2017/09/7/education-secretary-betsy-devos-plans-to-change-the-sexual-assault-guidelines-on-college-campuses-created-by-the-previous-administration.md)
 She says the due-process rights of the accused need to be protected.
 
-### [The 9th Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-9th-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents-cousins-and-others-with-a-bona-fide-r.md)
-_Context: Executive Order 13780, Trump administration, bona fide_
+### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
+_Context: Executive Order 13780, Trump administration, United States Court of Appeals for the Ninth Circuit, bona fide_
+
+### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)
+Members of Catalonia&#39;s parliament who voted in favour of a referendum on independence set to face legal challenge.
+
+### [ Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environm.md)
+Police officers sickened by fumes from explosions at an Arkema SA chemical plant near Houston accused the company in a lawsuit of not warning them about toxic chemicals that left them vomiting and unable to catch their breath.
 
 ### [The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal. ](/news/2017/09/7/the-philippine-senate-investigates-paolo-duterte-the-son-of-current-philippine-president-rodrigo-duterte-in-an-alleged-methamphetamine-smu.md)
 Philippine President Rodrigo Duterte’s son denied any involvement in a drug smuggling case that is captivating the nation.

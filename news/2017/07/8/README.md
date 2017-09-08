@@ -12,8 +12,8 @@ _Context: 2017 G20 Hamburg summit, U.S., climate change_
 ### [A shooting at a gender reveal party in Cincinnati kills 1 and injures 8. The unborn child, revealed to be a boy, also dies. ](/news/2017/07/8/a-shooting-at-a-gender-reveal-party-in-cincinnati-kills-1-and-injures-8-the-unborn-child-revealed-to-be-a-boy-also-dies.md)
 _Context: Cincinnati, Crime in Cincinnati, gender reveal_
 
-### [The Venezuelan oppositor leader Leopoldo Lopez, leader of the Popular Will party, leaves the jail after almost 3 years and a half of confinement, to happen to comply house arrest with an electronic shackle. According to the Supreme Tribunal, this measure was taken for humanitarian reasons. Lopez was sentenced to 13 years and 9 months of imprisonment for supposedly instigate to violence during the 2014 anti-Goverment protests, although his supporters and much of the international community deny this version and consider that exist a political persecution against him. ](/news/2017/07/8/the-venezuelan-oppositor-leader-leopoldo-la3pez-leader-of-the-popular-will-party-leaves-the-jail-after-almost-3-years-and-a-half-of-confin.md)
-Venezuela opposition leader Leopoldo Lopez was released from prison and placed under house arrest Saturday after more than three years in a military lockup
+### [Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. ](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-leader-of-the-popular-will-party-is-granted-house-arrest-after-over-three-years-of-imprisonme.md)
+_Context: Leopoldo Lopez, Popular Will, Venezuelan, ongoing protests_
 
 ## [Previous Day...](/news/2017/07/7/index.md)
 

@@ -7,7 +7,8 @@ The Latest on tensions on the Korean Peninsula (all times local):
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/the_americas/the-latest-seoul-us-adds-launchers-to-anti-missile-system/2017/09/06/e835d278-936f-11e7-8482-8dc9a7af29f9_story.html)
+1. [AP](http://hosted.ap.org/dynamic/stories/K/KOREAS_TENSIONS_THE_LATEST?)
+2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/the-latest-seoul-us-adds-launchers-to-anti-missile-system/2017/09/06/e835d278-936f-11e7-8482-8dc9a7af29f9_story.html)
 
 ### Related:
 
@@ -18,6 +19,6 @@ The Latest on tensions on the Korean Peninsula (all times local):
 5. [ North Korea denies allegations that it is helping Syria to develop a nuclear weapons facility. ](/news/2007/09/18/north-korea-denies-allegations-that-it-is-helping-syria-to-develop-a-nuclear-weapons-facility.md) _Context: North Korea, nuclear weapon_
 6. [ North Korea denies reports by British newspapers that it is helping Iran prepare to test an atomic bomb. ](/news/2007/01/27/north-korea-denies-reports-by-british-newspapers-that-it-is-helping-iran-prepare-to-test-an-atomic-bomb.md) _Context: North Korea, nuclear weapon_
 7. [ The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.md) _Context: North Korea, nuclear weapon_
-8. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: North Korea_
-9. [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _Context: North Korea_
-10. [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-mo.md) _Context: Mexico_
+8. [A magnitude 8.0 earthquake is recorded 96km south of Pijijiapan, Chiapas, Mexico. ](/news/2017/09/7/a-magnitude-8-0-earthquake-is-recorded-96km-south-of-pijijiapan-chiapas-mexico.md) _Context: Mexico_
+9. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: North Korea_
+10. [North Korea releases imprisoned Canadian pastor Hyeon Soo Lim on "sick bail." ](/news/2017/08/9/north-korea-releases-imprisoned-canadian-pastor-hyeon-soo-lim-on-sick-bail.md) _Context: North Korea_
