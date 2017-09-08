@@ -1,15 +1,14 @@
 ### [2017-09-7](/news/2017/09/7/index.md)
 
-# A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least two deaths have been recorded.
+# A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.
 
-By Frank Jack Daniel MEXICO CITY (Reuters) - An earthquake of magnitude 8.1 struck off the southern coast of Mexico late on Thursday, the U.S. Geological Survey (USGS) said, killing at least six people and triggering small tsunami waves but no major destruction. The quake was apparently stronger than
+The death toll from an 8.2-magnitude earthquake that hit Mexico has reached at least 32, according to tallies from local authorities.
 
 
 ### Source:
 
-1. [Reuters via ''Canberra Times](http://www.canberratimes.com.au/world/mexico-earthquake-major-earthquake-hits-in-countrys-south-20170908-gydnu7.html)
-2. [Reuters via Yahoo!](https://www.yahoo.com/news/quake-magnitude-8-hits-off-south-mexico-usgs-051421103.html)
-3. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0#executive)
+1. [RT](https://www.rt.com/news/402449-mexico-quake-death-toll/)
+2. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0#executive)
 
 ### Related:
 
