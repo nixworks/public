@@ -22,7 +22,7 @@ The U.S. State Department has approved a package of potential arms sales worth m
 _Context: North Korea, North Korea-Philippines relations, Philippines, United Nations Security Council, missile tests_
 
 ### [Qatar Emir Sheikh Tamim bin Hamad al-Than telephones Saudi Arabia Crown Prince Mohammad bin Salman to discuss the three-month old crisis. ](/news/2017/09/8/qatar-emir-sheikh-tamim-bin-hamad-al-than-telephones-saudi-arabia-crown-prince-mohammad-bin-salman-to-discuss-the-three-month-old-crisis.md)
-Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot;distorting facts&quot;, just after a report of a phone call between the leaders of both countries suggested a breakthrough in the Gulf dispute.
+Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essential to promoting regional stability and countering the threat of Iran,&quot; according to a White House read out of the calls.
 
 ### [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md)
 The son of a Russian lawmaker accused of stealing credit card data and other personal information has pleaded guilty in two criminal cases stemming from a probe into a $50 million online identity theft scheme, the U.S. Justice Department said on Friday.

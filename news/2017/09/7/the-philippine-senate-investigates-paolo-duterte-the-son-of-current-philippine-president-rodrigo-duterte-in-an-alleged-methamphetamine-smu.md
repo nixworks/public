@@ -7,7 +7,7 @@ Philippine President Rodrigo Duterte’s son denied any involvement in a drug sm
 
 ### Source:
 
-1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-09-07/duterte-s-son-denies-meth-smuggling-claims-as-case-rivets-manila)
+1. [Bloomberg News](https://www.bloomberg.com/news/articles/2017-09-07/duterte-s-son-denies-meth-smuggling-claims-as-case-rivets-manila)
 
 ### Related:
 

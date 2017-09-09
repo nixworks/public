@@ -1,4 +1,15 @@
-## [News](/news/2017/09/8/index.md)
+## [News](/news/2017/09/9/index.md)
+
+### [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md)
+Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot;distorting facts&quot;, just after a report of a phone call between the leaders of both countries suggested a breakthrough in the Gulf dispute.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/8/index.md)
 
 ### [Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country, during his talk in Villavicencio urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-rebel-leader-rodrigo-londono-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicted-on-t.md)
 Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be open to reconciliation with those who have repented, speaking hours after a top rebel leader asked the pontiff for forgiveness.
@@ -22,7 +33,7 @@ The U.S. State Department has approved a package of potential arms sales worth m
 _Context: North Korea, North Korea-Philippines relations, Philippines, United Nations Security Council, missile tests_
 
 ### [Qatar Emir Sheikh Tamim bin Hamad al-Than telephones Saudi Arabia Crown Prince Mohammad bin Salman to discuss the three-month old crisis. ](/news/2017/09/8/qatar-emir-sheikh-tamim-bin-hamad-al-than-telephones-saudi-arabia-crown-prince-mohammad-bin-salman-to-discuss-the-three-month-old-crisis.md)
-Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot;distorting facts&quot;, just after a report of a phone call between the leaders of both countries suggested a breakthrough in the Gulf dispute.
+Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essential to promoting regional stability and countering the threat of Iran,&quot; according to a White House read out of the calls.
 
 ### [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md)
 The son of a Russian lawmaker accused of stealing credit card data and other personal information has pleaded guilty in two criminal cases stemming from a probe into a $50 million online identity theft scheme, the U.S. Justice Department said on Friday.
@@ -30,13 +41,9 @@ The son of a Russian lawmaker accused of stealing credit card data and other per
 ### [ Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic.md)
 _Context: Brazil, Brazilian Democratic Movement Party, Michel Temer, Rodrigo Janot, Supreme Court_
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/7/index.md)
+## [Day Before Yesterday](/news/2017/09/7/index.md)
 
 ### [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md)
 Syrian military appears to confirm media reports of attack on research centre near Mediterranean coast in night-time raid
@@ -44,14 +51,14 @@ Syrian military appears to confirm media reports of attack on research centre ne
 ### [Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. ](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is-cancelled-at-some-of-its-international-test-centers-because-of-leaks-of-test-materials.md)
 _Context: ACT, Education in the United States_
 
-### [More than 143 million Americans have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-credit-r.md)
+### [More than 143 million Americans may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-cred.md)
 Criminals gained access to certain files in the company’s system from mid-May to July, according to an investigation by Equifax.
 
 ### [Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD ](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.md)
 The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.
 
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
-The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed across the Caribbean.
+Hurricane Irma strengthened and made landfall in Cuba on Friday as a Category 5 storm, as millions of Florida residents were ordered to evacuate after the storm killed 21 people in the eastern Caribbean and left catastrophic destruction in its wake.
 
 ### [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md)
 The death toll from an 8.2-magnitude earthquake that hit Mexico has reached at least 32, according to tallies from local authorities.
@@ -85,44 +92,7 @@ Togo security forces fired tear gas at hundreds of anti-government protesters ca
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/6/index.md)
-
-### [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md)
-Pope Francis is due to travel to Colombia today for a five day visit. He will be the third Pope to visit Colombia, i...
-
-### [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md)
-The divide between Trump and the business community has only continued to grow since he took office less than nine months ago.
-
-### [U.S. Federal Reserve Vice Chair Stanley Fischer announces he will resign in mid-October, eight months before his term expires. ](/news/2017/09/6/u-s-federal-reserve-vice-chair-stanley-fischer-announces-he-will-resign-in-mid-october-eight-months-before-his-term-expires.md)
-_Context: Economy of the United States, Stanley Fischer, U.S. Federal Reserve_
-
-### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
-_Context: Arizona Air National Guard, F-16, Safford, Arizona_
-
-### [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md)
-Sustained winds on the ground in Barbuda were recorded at 108 mph.
-
-### [Bangladesh accuses the Myanmar Army of laying landmines on the border between both countries to prevent the return of fleeing Rohingya refugees. Myanmar denies the Bangladeshi claims. ](/news/2017/09/6/bangladesh-accuses-the-myanmar-army-of-laying-landmines-on-the-border-between-both-countries-to-prevent-the-return-of-fleeing-rohingya-refug.md)
-Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Muslim refugees returning.
-
-### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
-_Context: Brussels', EU, European Court of Justice, European migrant crisis, Hungary, Slovakia_
-
-### [A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. ](/news/2017/09/6/a-last-minute-presentation-to-the-parliament-of-catalonia-results-in-the-formal-approval-of-a-referendum-concerning-independence-from-spain.md)
-Catalan lawmakers are voting on a bill that will allow regional authorities to officially call an Oct. 1 referendum on a split from Spain, making concrete a years-long defiance of central authorities, who see the vote as illegal. The so-called &quot;referendum bill&quot; was included at the last...
-
-### [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md)
-Lawyers for 15 states, led by New York and Washington, filed suit against President Trump on Wednesday over his planned repeal of the D...
-
-### [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md)
-President Donald Trump forged a surprising deal with Democrats in Congress on Wednesday to extend the U.S. debt limit and provide government funding until Dec. 15, embracing his political adversaries and blindsiding fellow Republicans in a rare bipartisan accord.
-
-### [Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 U.S. election. ](/news/2017/09/6/facebook-tells-congressional-investigators-an-operation-traced-to-a-russian-company-seeking-to-target-voters-spent-100-000-on-thousands-o.md)
-The company told congressional investigators that it has discovered it sold ads totaling $100,000 to a Russian &ldquo;troll farm.&rdquo;
-
----
-
-## [Previous Day...](/news/2017/09/5/index.md)
+## [Previous Day...](/news/2017/09/6/index.md)
 
 ---
 

@@ -2,7 +2,7 @@
 
 # Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. 
 
-The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed across the Caribbean.
+Hurricane Irma strengthened and made landfall in Cuba on Friday as a Category 5 storm, as millions of Florida residents were ordered to evacuate after the storm killed 21 people in the eastern Caribbean and left catastrophic destruction in its wake.
 
 
 ### Source:
@@ -10,8 +10,8 @@ The hurricane strikes the Turks and Caicos Islands as 14 deaths are confirmed ac
 1. [BBC](http://www.bbc.com/news/world-latin-america-41194959)
 2. [Georgia's Irma page](http://irma.georgia.org/hurricane/)
 3. [Reuters](http://www.reuters.com/article/us-storm-irma-nuclearpower/florida-nuclear-plants-to-shut-ahead-of-hurricane-irma-idUSKCN1BI2IA)
-4. [Reuters](https://news.trust.org/item/20170907081607-vjoad/)
-5. [The Washington Post](https://www.washingtonpost.com/national/2017/live-updates/weather/hurricane-irma-a-monster-storms-devastating-path/?nid&utm_term=.3849f6d434b1)
+4. [Reuters](http://www.reuters.com/article/us-storm-irma/millions-in-florida-evacuate-as-hurricane-irma-pounds-cuba-idUSKCN1BG0KL?il=0)
+5. [The Washington Post](https://www.washingtonpost.com/national/2017/live-updates/weather/hurricane-irma-a-monster-storms-devastating-path/)
 6. [eTurboNews](https://eturbonews.com/163821/georgia-governor-nathan-deal-hurricane-irma-mandatory-evacuation-order)
 
 ### Related:
