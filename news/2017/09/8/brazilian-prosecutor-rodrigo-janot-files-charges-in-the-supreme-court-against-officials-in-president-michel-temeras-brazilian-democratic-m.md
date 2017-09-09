@@ -1,9 +1,13 @@
 ### [2017-09-8](/news/2017/09/8/index.md)
 
-# Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges.{{cn}}
+# Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. 
 
 
 
+
+### Source:
+
+1. [Reuters](https://www.reuters.com/article/us-brazil-corruption-temer/brazil-prosecutor-charges-members-of-temers-party-with-criminal-organization-idUSKCN1BJ2PU)
 
 ### Related:
 

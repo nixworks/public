@@ -1,7 +1,7 @@
 ## [2017-09-9](/news/2017/09/9/index.md)
 
-### [SDF announces an operation against ISIL militants in northern Deir ez-Zor province, Syria. ](/news/2017/09/9/sdf-announces-an-operation-against-isil-militants-in-northern-deir-ez-zor-province-syria.md)
-The U.S.-backed Syrian Democratic Forces alliance (SDF) has launched an operation against Islamic State militants in the north of Deir al-Zor province in eastern Syria, a statement said on Saturday.
+### [The Syrian army breaks the Islamic States' nine month long siege of the Deir ez-Zor airport. ](/news/2017/09/9/the-syrian-army-breaks-the-islamic-states-nine-month-long-siege-of-the-deir-ez-zor-airport.md)
+The Syrian army and its allies reached an air base besieged for years by Islamic State militants on the outskirts of the eastern city of Deir al-Zor on Saturday, said a commander in the alliance fighting in support of President Bashar al-Assad.
 
 ### [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md)
 _Context: 18th Dynasty, African archaeology, Egypt, Luxor, goldsmith_

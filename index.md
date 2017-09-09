@@ -1,7 +1,7 @@
 ## [News](/news/2017/09/9/index.md)
 
-### [SDF announces an operation against ISIL militants in northern Deir ez-Zor province, Syria. ](/news/2017/09/9/sdf-announces-an-operation-against-isil-militants-in-northern-deir-ez-zor-province-syria.md)
-The U.S.-backed Syrian Democratic Forces alliance (SDF) has launched an operation against Islamic State militants in the north of Deir al-Zor province in eastern Syria, a statement said on Saturday.
+### [The Syrian army breaks the Islamic States' nine month long siege of the Deir ez-Zor airport. ](/news/2017/09/9/the-syrian-army-breaks-the-islamic-states-nine-month-long-siege-of-the-deir-ez-zor-airport.md)
+The Syrian army and its allies reached an air base besieged for years by Islamic State militants on the outskirts of the eastern city of Deir al-Zor on Saturday, said a commander in the alliance fighting in support of President Bashar al-Assad.
 
 ### [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md)
 _Context: 18th Dynasty, African archaeology, Egypt, Luxor, goldsmith_
@@ -41,7 +41,7 @@ Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essen
 ### [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md)
 The son of a Russian lawmaker accused of stealing credit card data and other personal information has pleaded guilty in two criminal cases stemming from a probe into a $50 million online identity theft scheme, the U.S. Justice Department said on Friday.
 
-### [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges.{{cn}}](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md)
+### [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md)
 _Context: Brazil, Brazilian Democratic Movement Party, Law of Brazil, Michel Temer, Rodrigo Janot, Supreme Court_
 
 ---
