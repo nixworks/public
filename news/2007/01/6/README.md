@@ -19,7 +19,7 @@ _Context: Mexico, Michoacn, Uruapan_
 _Context: British Army_
 
 ### [ Jeff Bezos, Amazon.com founder and billionaire has joined the "budget space race" with a test burn of the Blue Origin passenger rocket, the New Shepard. ](/news/2007/01/6/jeff-bezos-amazon-com-founder-and-billionaire-has-joined-the-budget-space-race-with-a-test-burn-of-the-blue-origin-passenger-rocket-the.md)
-_Context: Amazon, Blue Origin, Jeff Bezos, New Shepard, billionaire_
+_Context: Amazon.com, Blue Origin, Jeff Bezos, New Shepard, billionaire_
 
 ### [ The eastern United States enjoyed record high temperatures, including 72 degrees Fahrenheit (22 Celsius) in New York City. ](/news/2007/01/6/the-eastern-united-states-enjoyed-record-high-temperatures-including-72-degrees-fahrenheit-22-celsius-in-new-york-city.md)
 ## [Previous Day...](/news/2007/01/5/index.md)

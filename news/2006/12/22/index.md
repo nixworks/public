@@ -4,7 +4,7 @@
 _Context: 2006 Malaysian floods, Johor, Malaysia_
 
 ### [ Rape charges are dropped against the three Duke University lacrosse players who were accused of raping a stripper in the 2006 Duke University lacrosse team scandal. ](/news/2006/12/22/rape-charges-are-dropped-against-the-three-duke-university-lacrosse-players-who-were-accused-of-raping-a-stripper-in-the-2006-duke-universi.md)
-_Context: 2006 Duke University lacrosse team scandal, Duke_
+_Context: 2006 Duke University lacrosse team scandal, Duke University_
 
 ### [ Andrew Wallis of "The Times" accuses the French government of aiding and abetting genocidaires in the Rwandan Genocide in 1994. Current Rwandan President Paul Kagame has also expressed his belief that the French and Belgian governments were complicit. ](/news/2006/12/22/andrew-wallis-of-the-times-accuses-the-french-government-of-aiding-and-abetting-genocidaires-in-the-rwandan-genocide-in-1994-current-rwa.md)
 News and opinion from The Times &amp; The Sunday Times

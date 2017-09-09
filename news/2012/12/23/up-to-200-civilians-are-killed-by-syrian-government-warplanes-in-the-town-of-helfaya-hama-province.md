@@ -13,7 +13,7 @@ Dozens of people are killed in a government air strike on a bakery in central Sy
 
 ### Related:
 
-1. [Israeli jets bomb a suspected chemical weapons depot near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. ](/news/2017/09/7/israeli-jets-bomb-a-suspected-chemical-weapons-depot-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-army-soldiers.md) _Context: Hama Governorate_
+1. [It is suspected that Israeli jets bomb a military research facility near the city of Masyaf, Hama Governorate, killing at least two Syrian Army soldiers. The facility was rumoured to contain chemical weapons. ](/news/2017/09/7/it-is-suspected-that-israeli-jets-bomb-a-military-research-facility-near-the-city-of-masyaf-hama-governorate-killing-at-least-two-syrian-a.md) _Context: Hama Governorate_
 2. [Syrian government forces advance around and encircle Aleppo in order to try and impose a siege. ](/news/2016/09/4/syrian-government-forces-advance-around-and-encircle-aleppo-in-order-to-try-and-impose-a-siege.md) _Context: Syrian Government_
 3. [The Syrian Government continues its offensive against Fatah Halab in Aleppo with hundreds of bombing raids. ](/news/2016/09/23/the-syrian-government-continues-its-offensive-against-fatah-halab-in-aleppo-with-hundreds-of-bombing-raids.md) _Context: Syrian Government_
 4. [Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md) _Context: Syrian Government_

@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_QATAR_HARVEY)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_QATAR_HARVEY?SITE=TNMOR)
 
 ### Related:
 

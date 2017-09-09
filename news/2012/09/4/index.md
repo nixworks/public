@@ -4,7 +4,7 @@
 _Context: Gulf Cartel, Jorge Eduardo Costilla Sanchez, Mario Cardenas Guillen_
 
 ### [The peace talks between FARC and the Colombian government will take place in October in Norway and then in Cuba. ](/news/2012/09/4/the-peace-talks-between-farc-and-the-colombian-government-will-take-place-in-october-in-norway-and-then-in-cuba.md)
-_Context: Cuba, FARC_
+_Context: Cuba, rebel leader_
 
 ### [The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. ](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.md)
 Kismayo, last stronghold of Islamist group al-Shabab militia, attacked in preparation for ground forces to capture town.

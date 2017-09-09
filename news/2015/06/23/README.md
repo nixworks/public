@@ -22,7 +22,7 @@ _Context: South Sudan, cholera_
 Hungary on Tuesday suspended European Union asylum rules requiring it to take back refugees who have traveled through Hungary to other countries, and Brussels immediately called on it to clarify its action.
 
 ### [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md)
-_Context: Amazon, Charleston church shooting, Confederate Battle Flag_
+_Context: Amazon.com, Charleston church shooting, Confederate Battle Flag_
 
 ## [Previous Day...](/news/2015/06/22/index.md)
 

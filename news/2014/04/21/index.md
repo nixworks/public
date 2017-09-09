@@ -33,6 +33,9 @@ A 16-year-old boy survived a harrowing trip halfway across the Pacific Ocean on 
 ### [A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. ](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.md)
 A tropical cyclone was threatening to hamper the search for a missing Malaysian jetliner in a remote stretch of the Indian Ocean on Monday, as a submarine drone neared the end of its mission scouring the sea bed with still no sign of wreckage.
 
+### [: The American city of Flint, Michigan switches its water source to the Flint River, beginning the ongoing Flint water crisis which has caused lead poisoning in up to 12,000 people, and 15 deaths from Legionnaires disease, ultimately leading to criminal indictments against 15 people, five of whom have been charged with involuntary manslaughter.](/news/2014/04/21/the-american-city-of-flint-michigan-switches-its-water-source-to-the-flint-river-beginning-the-ongoing-flint-water-crisis-which-has-caus.md)
+_Context: Flint River, Flint water crisis, Flint, Michigan, Legionnaires' disease, involuntary manslaughter, lead contamination_
+
 ### [Five people are sentenced to death and 37 others given prison sentences for their roles in the 2003 bombings in Riyadh, Saudi Arabia. ](/news/2014/04/21/five-people-are-sentenced-to-death-and-37-others-given-prison-sentences-for-their-roles-in-the-2003-bombings-in-riyadh-saudi-arabia.md)
 A Saudi court sentences five men to death for their role in three suicide bomb attacks on expatriate residential compounds in Riyadh in May 2003.
 

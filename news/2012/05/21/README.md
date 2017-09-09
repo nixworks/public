@@ -4,7 +4,7 @@
 More than 90 people have been killed in a suicide bomb attack claimed by al-Qaeda on soldiers in the Yemeni capital, Sanaa, security officials say.
 
 ### [FARC rebels kill 12 Colombian soldiers and wound four more in an ambush near the Colombian border with Venezuela. ](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.md)
-_Context: Colombia, FARC, Venezuela_
+_Context: Colombia, Venezuela, rebel leader_
 
 ### [Two people are killed in ongoing clashes in the Lebanese capital Beirut between supporters and opponents of Syrian President Bashar al-Assad. ](/news/2012/05/21/two-people-are-killed-in-ongoing-clashes-in-the-lebanese-capital-beirut-between-supporters-and-opponents-of-syrian-president-bashar-al-assad.md)
 _Context: Bashar al-Assad, Beirut, Lebanon, President, Syria_

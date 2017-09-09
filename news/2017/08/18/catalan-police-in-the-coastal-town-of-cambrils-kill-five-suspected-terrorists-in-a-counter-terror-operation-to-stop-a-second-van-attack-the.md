@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Spain plans to sue the propagators of the independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-the-propagators-of-the-independence-referendum-in-catalonia.md) _Context: Catalonia_
+1. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Catalonia_
 2. [A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. ](/news/2017/09/6/a-last-minute-presentation-to-the-parliament-of-catalonia-results-in-the-formal-approval-of-a-referendum-concerning-independence-from-spain.md) _Context: Catalonia_
 3. [Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. ](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-last-thursday-s-van-attack-in-barcelona-shoot-dead-a-man-to-the-west-of-the-city-who-appeared-to.md) _Context: van attack_
 4. [A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. ](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla-barcelona-in-what-spanish-police-are-calling-a-terrorist-attack-killing-at-least-12-peopl.md) _Context: van attack_

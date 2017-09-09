@@ -25,7 +25,7 @@ Police rule out any form of radicalisation in the fatal stabbing of a 21-year-ol
 FBI-led investigation was part of a civil rights program focused on official misconduct, including excessive force by police.
 
 ### [The government of Colombia and FARC finalise a peace deal ending 50 years of conflict. ](/news/2016/08/24/the-government-of-colombia-and-farc-finalise-a-peace-deal-ending-50-years-of-conflict.md)
-_Context: Colombia, Colombian conflict, FARC_
+_Context: Colombia, Colombian conflict, rebel leader_
 
 ### [Proxima Centauri b is discovered as the closest exoplanet to Earth that may be habitable. ](/news/2016/08/24/proxima-centauri-b-is-discovered-as-the-closest-exoplanet-to-earth-that-may-be-habitable.md)
 Scientists identify a planet only slightly larger than Earth that is orbiting Proxima Centauri - the closest star to our Solar System.

@@ -7,7 +7,7 @@ She says the due-process rights of the accused need to be protected.
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_CAMPUS_SEXUAL_ASSAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_CAMPUS_SEXUAL_ASSAULT?SITE=TNMOR)
 2. [Politico](http://www.politico.com/story/2017/09/07/betsy-devos-to-revamp-obama-era-schools-sexual-assault-policy-242444)
 
 ### Related:

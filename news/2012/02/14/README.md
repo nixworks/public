@@ -49,7 +49,7 @@ _Context: Barack Obama, President, U.S., Vice President, Xi Jinping_
 _Context: Islamabad, Pakistan, Peshawar, U.S._
 
 ### [The Venezuelan Supreme Tribunal orders the opposition not to destroy the voter list following its primary. ](/news/2012/02/14/the-venezuelan-supreme-tribunal-orders-the-opposition-not-to-destroy-the-voter-list-following-its-primary.md)
-_Context: Supreme Tribunal, Venezuela, opposition_
+_Context: Supreme Court, Venezuela, opposition_
 
 ### [The World Bank announces that its President, Robert Zoellick, is stepping down when his term ends in June. ](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.md)
 _Context: Robert Zoellick, World Bank_

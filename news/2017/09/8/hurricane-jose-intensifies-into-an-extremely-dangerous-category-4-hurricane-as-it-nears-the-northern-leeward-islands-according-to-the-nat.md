@@ -7,9 +7,11 @@ Hurricane Jose threatening Caribbean islands already devastated by Hurricane Irm
 
 ### Source:
 
-1. [CBS News](https://www.cbsnews.com/news/hurricane-jose-strengthens-extremely-dangerous-category-4-storm/)
-2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/082055.shtml)
-3. [Reuters](http://www.reuters.com/article/us-storm-irma/irma-lashes-bahamas-cuba-on-a-path-toward-florida-idUSKCN1BG0KL?il=0)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_IRMA_FLORIDA)
+2. [CBS News](https://www.cbsnews.com/news/hurricane-jose-strengthens-extremely-dangerous-category-4-storm/)
+3. [Fox News](http://www.foxnews.com/us/2017/09/08/hurricane-irmas-storm-path-what-should-know.html)
+4. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/082055.shtml)
+5. [Reuters](http://www.reuters.com/article/us-storm-irma/irma-lashes-bahamas-cuba-on-a-path-toward-florida-idUSKCN1BG0KL?il=0)
 
 ### Related:
 

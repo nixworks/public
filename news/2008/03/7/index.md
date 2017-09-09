@@ -13,7 +13,7 @@ A former East German Stasi informant who betrayed local church officials has won
 _Context: Marion Jones, Olympic Games, Texas, gold medal, perjury, steroid_
 
 ### [ Colombia confirms the killing of FARC leader Ivn Ros by his chief of security. ](/news/2008/03/7/colombia-confirms-the-killing-of-farc-leader-ivan-rios-by-his-chief-of-security.md)
-_Context: Colombia, FARC, Ivn Ros_
+_Context: Colombia, Ivn Ros, rebel leader_
 
 ### [ A United States Department of Labor report shows that the United States economy lost 63,000 jobs in February. ](/news/2008/03/7/a-united-states-department-of-labor-report-shows-that-the-united-states-economy-lost-63-000-jobs-in-february.md)
 _Context: United States Department of Labor, United States economy_

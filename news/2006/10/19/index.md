@@ -13,7 +13,7 @@ _Context: California, California's 47th congressional district, Hispanic, Orange
 _Context: Antonov An-2, Tashkent, Uzbek military, Uzbekistan_
 
 ### [ Scientists at Duke University have created a device out of metamaterials that makes objects harder to detect at microwave frequencies. ](/news/2006/10/19/scientists-at-duke-university-have-created-a-device-out-of-metamaterials-that-makes-objects-harder-to-detect-at-microwave-frequencies.md)
-_Context: Duke, metamaterials_
+_Context: Duke University, metamaterials_
 
 ### [ The Dow Jones Industrial Average index closes at a record high just above 12,000 points in today's trading, as investors welcome the latest batch of corporate earnings. ](/news/2006/10/19/the-dow-jones-industrial-average-index-closes-at-a-record-high-just-above-12-000-points-in-today-s-trading-as-investors-welcome-the-latest.md)
 _Context: Dow Jones Industrial Average_

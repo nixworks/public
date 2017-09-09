@@ -7,7 +7,7 @@ _Context: 2016 Brussels bombings_
 WASHINGTON – An even split among the current eight justices of the U.S. Supreme Court today gave a victory to public unions in a case that seemed destined to deal a major blow to public sector unions’ throughout the country, including the Bay State.
 
 ### [The U.S. National Labor Relations Board files an official complaint against a California warehouse after finding evidence it violated workers' rights to organize. The allegations of wrongdoing submitted by a worker group against California Cartage Company, LLC, which serves Amazon.com, Inc., Lowe's Companies. Inc., New Balance, and Sears Holdings Corp., will be heard by an NLRB administrative law judge in June 2016. None of the retailers were named in the NLRB complaint. ](/news/2016/03/29/the-u-s-national-labor-relations-board-files-an-official-complaint-against-a-california-warehouse-after-finding-evidence-it-violated-worker.md)
-_Context: Amazon, California, Lowe's Companies. Inc., National Labor Relations Board, New Balance, Sears Holdings, administrative law judge_
+_Context: Amazon.com, California, Lowe's Companies. Inc., National Labor Relations Board, New Balance, Sears Holdings, administrative law judge_
 
 ### [Alaska Airlines cancels additional flights, due to the ongoing eruption of Mount Pavlof on the Alaska Peninsula. ](/news/2016/03/29/alaska-airlines-cancels-additional-flights-due-to-the-ongoing-eruption-of-mount-pavlof-on-the-alaska-peninsula.md)
 _Context: Alaska Airlines, Alaska Peninsula, Mount Pavlof_

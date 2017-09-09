@@ -28,7 +28,7 @@ UN-mandated report says leaders, including Kim Jong-un, complicit in exterminati
 Iran&#39;s ambassador to Moscow says Russia could build the Islamic republic a second nuclear power reactor in exchange for massive oil shipments that have raised grave concern in Washington.
 
 ### [Venezuela orders the expulsion of three US consular officials amid rising tensions over anti-government protests after accusing the US of working with the opposition to undermine President Nicolas Maduro's government. ](/news/2014/02/17/venezuela-orders-the-expulsion-of-three-us-consular-officials-amid-rising-tensions-over-anti-government-protests-after-accusing-the-us-of-wo.md)
-_Context: 2014 anti-Goverment protests, Nicolas Maduro, United States-Venezuela relations, Venezuela_
+_Context: 2014 Venezuelan protests, Nicolas Maduro, United States-Venezuela relations, Venezuela_
 
 ### [The legality of private gambling is taken before the United States Supreme Court. ](/news/2014/02/17/the-legality-of-private-gambling-is-taken-before-the-united-states-supreme-court.md)
 _Context: United States Supreme Court_

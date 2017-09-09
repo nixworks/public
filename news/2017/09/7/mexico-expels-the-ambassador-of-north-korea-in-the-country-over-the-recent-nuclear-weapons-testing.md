@@ -7,7 +7,7 @@ The Latest on tensions on the Korean Peninsula (all times local):
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/K/KOREAS_TENSIONS_THE_LATEST)
+1. [AP](http://hosted.ap.org/dynamic/stories/K/KOREAS_TENSIONS_THE_LATEST?SITE=TNMOR)
 2. [The Washington Post](https://www.washingtonpost.com/world/the_americas/the-latest-seoul-us-adds-launchers-to-anti-missile-system/2017/09/06/e835d278-936f-11e7-8482-8dc9a7af29f9_story.html)
 
 ### Related:

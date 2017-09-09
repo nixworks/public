@@ -40,7 +40,7 @@ Almost 6,000 web shops are unknowingly harbouring malicious code that is stealin
 Thailand&#039;s King Bhumibol Adulyadej, the world&#039;s longest-reigning monarch, has died after a long illness.
 
 ### [Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. ](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-his-ceasefire-with-the-farc-rebels-through-the-end-of-the-year.md)
-_Context: Colombian President, FARC, Juan Manuel Santos, ceasefire, peace agreement_
+_Context: Colombian President, Juan Manuel Santos, ceasefire, peace deal, rebel leader_
 
 ## [Previous Day...](/news/2016/10/12/index.md)
 

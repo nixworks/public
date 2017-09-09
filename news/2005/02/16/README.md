@@ -19,7 +19,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Food and Drug Administration, approved drug, complications_
 
 ### [ According to African envoys negotiating with the new government of Togo, the negotiations are making progress and the country agrees to organize new elections within 60 days. A crackdown on private media continues in the country. ](/news/2005/02/16/according-to-african-envoys-negotiating-with-the-new-government-of-togo-the-negotiations-are-making-progress-and-the-country-agrees-to-org.md)
-_Context: Togo, diplomat, negotiation, new government_
+_Context: Politics of Togo, Togo, diplomat, negotiation_
 
 ### [ In Uganda, some of the child soldiers that had escaped the Lord's Resistance Army are recruited into the national army. ](/news/2005/02/16/in-uganda-some-of-the-child-soldiers-that-had-escaped-the-lord-s-resistance-army-are-recruited-into-the-national-army.md)
 _Context: Lord's Resistance Army, Uganda, child soldiers, national army_

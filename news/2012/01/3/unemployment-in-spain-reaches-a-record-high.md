@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Spain plans to sue the propagators of the independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-the-propagators-of-the-independence-referendum-in-catalonia.md) _Context: Spain_
+1. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Spain_
 2. [The U.S. economy added over 200,000 jobs last month, dropping the country's unemployment rate to match a previous 16-year low at 4.3%. Wage growth remained below the Federal Reserve Board's target of 3.5%. ](/news/2017/08/4/the-u-s-economy-added-over-200-000-jobs-last-month-dropping-the-country-s-unemployment-rate-to-match-a-previous-16-year-low-at-4-3-wage.md) _Context: unemployment_
 3. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _Context: Spain_
 4. [A fire forces the evacuation of more than 22,000 concertgoers at the Tomorrowland music festival at the Parc de Can Zam in Barcelona, Spain. There were no serious injuries. This is the first time the festival has been held in Spain; Belgium had been the home since 2005. ](/news/2017/07/29/a-fire-forces-the-evacuation-of-more-than-22-000-concertgoers-at-the-tomorrowland-music-festival-at-the-parc-de-can-zam-in-barcelona-spain.md) _Context: Spain_

@@ -4,7 +4,7 @@
 _Context: NATO, NATO airstrike, Pakistani_
 
 ### [Colombian military forces raid a FARC rebel hideout in the province of Caqueta, freeing police sergeant Luis Alberto Erazu, who had been held hostage by FARC for 12 years. Four other hostages are killed by the rebels during the raid. ](/news/2011/11/26/colombian-military-forces-raid-a-farc-rebel-hideout-in-the-province-of-caqueta-freeing-police-sergeant-luis-alberto-erazu-who-had-been-he.md)
-_Context: Caquet Department, Colombia, FARC_
+_Context: Caquet Department, Colombia, rebel leader_
 
 ### [Voters in New Zealand go to the polls for a general election and voting method referendum. ](/news/2011/11/26/voters-in-new-zealand-go-to-the-polls-for-a-general-election-and-voting-method-referendum.md)
 12:05am: Final result gives National 60 seats, Labour 34, the Greens 13, NZ First 8, Maori Party 3, while Mana, UnitedFuture and ACT all win a seat each.

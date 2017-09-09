@@ -1,7 +1,7 @@
 ## [2007-08-26](/news/2007/08/26/index.md)
 
 ### [ Gunmen raid a farm in Putumayo Department in Colombia killing 9 people with authorities blaming FARC. ](/news/2007/08/26/gunmen-raid-a-farm-in-putumayo-department-in-colombia-killing-9-people-with-authorities-blaming-farc.md)
-_Context: Colombia, FARC, Putumayo_
+_Context: Colombia, Putumayo, rebel leader_
 
 ### [ 2007 Midwest flooding: Tornadoes hit parts of central and southeast Ohio as hundreds of thousands of people in the Midwest are without power. ](/news/2007/08/26/2007-midwest-flooding-tornadoes-hit-parts-of-central-and-southeast-ohio-as-hundreds-of-thousands-of-people-in-the-midwest-are-without-powe.md)
 Beleaguered residents of flood-ravaged Midwest find fresh damage from a batch of tornado-bearing thunderstorms that knocked out power to hundreds of thousands of customers.

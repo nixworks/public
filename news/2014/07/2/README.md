@@ -34,7 +34,7 @@ Former PM criticised over link to United Arab Emirates-funded programme that pro
 _Context: Wonsan_
 
 ### [A Danish ship carrying hundreds of tons of Syrian chemical weapons arrives in the Italian port of Gioia Tauro prior to a rendezvous with an American ship that will destroy the weapons at sea. ](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.md)
-_Context:  chemical weapons, Gioia Tauro_
+_Context: Gioia Tauro, chemical weapons_
 
 ### [Former President of France Nicolas Sarkozy is charged with corruption and influence peddling. ](/news/2014/07/2/former-president-of-france-nicolas-sarkozy-is-charged-with-corruption-and-influence-peddling.md)
 _Context: Nicolas Sarkozy, President of France_

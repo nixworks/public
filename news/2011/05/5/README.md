@@ -76,7 +76,7 @@ _Context: Carl Lewis, Democrats, New Jersey State Senate, United States court, p
 _Context: 2010 presidential election, Alassane Ouattara, Ivory Coast Constitutional Council, Laurent Gbagbo, war_
 
 ### [The Brazilian Supreme Federal Court unanimously rules in favour of extending to same-sex couples the same rights of existing civil unions. ](/news/2011/05/5/the-brazilian-supreme-federal-court-unanimously-rules-in-favour-of-extending-to-same-sex-couples-the-same-rights-of-existing-civil-unions.md)
-_Context: Brazil, Supreme Federal Court, civil union, same-sex couples_
+_Context: Brazil, Supreme Court, civil union, same-sex couples_
 
 ### [Republican Party candidates for the nomination in the 2012 United States presidential election hold their first debate in Greenville, South Carolina. ](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.md)
 _Context: Greenville, Republican, South Carolina, United States presidential election, 2012, nomination_

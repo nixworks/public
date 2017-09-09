@@ -1,5 +1,8 @@
 ## [News](/news/2017/09/8/index.md)
 
+### [Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country, during his talk in Villavicencio urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-rebel-leader-rodrigo-londono-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicted-on-t.md)
+Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be open to reconciliation with those who have repented, speaking hours after a top rebel leader asked the pontiff for forgiveness.
+
 ### [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md)
  MEXICO CITY (AP) — The Latest on the Mexico earthquake (all times local): 3:15 p.m. The head of Mexico&#39;s civil defense agency says the death toll from 
 
@@ -23,6 +26,9 @@ Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot
 
 ### [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md)
 The son of a Russian lawmaker accused of stealing credit card data and other personal information has pleaded guilty in two criminal cases stemming from a probe into a $50 million online identity theft scheme, the U.S. Justice Department said on Friday.
+
+### [ Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic.md)
+_Context: Brazil, Brazilian Democratic Movement Party, Michel Temer, Rodrigo Janot, Supreme Court_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)

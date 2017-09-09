@@ -8,7 +8,7 @@ Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/qatar-emir-speaks-saudi-crown-prince-gulf-row-170908215922382.html)
-2. [Reuters](https://www.reuters.com/article/us-gulf-qatar/saudi-crown-prince-talks-with-qatari-emir-on-gulf-crisis-idUSKCN1BJ2OW)
+2. [Reuters](https://www.reuters.com/article/us-gulf-qatar/saudi-arabia-suspends-any-dialogue-with-qatar-spa-idUSKCN1BJ2OW)
 
 ### Related:
 

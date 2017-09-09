@@ -13,7 +13,7 @@ _Context: California, Gypsy Hill killings, Oregon, San Mateo County_
 The state&#39;s attorney general said he would seek a stay of the ruling.
 
 ### [Custodian of the Two Holy Mosques King Abdullah of Saudi Arabia dies at the age of 90. His half brother Salman of Saudi Arabia succeeds him. His half brother Muqrin bin Abdulaziz Al Saud becomes the Crown Prince. ](/news/2015/01/23/custodian-of-the-two-holy-mosques-king-abdullah-of-saudi-arabia-dies-at-the-age-of-90-his-half-brother-salman-of-saudi-arabia-succeeds-him.md)
-_Context: Abdullah, Crown Prince, Custodian of the Two Holy Mosques, King, Muqrin bin Abdulaziz Al Saud, Salman of Saudi Arabia_
+_Context: Abdullah, Custodian of the Two Holy Mosques, King, Muqrin bin Abdulaziz Al Saud, Salman of Saudi Arabia, Saudi Arabia Crown Prince_
 
 ### [Thailand's military-appointed legislature votes to impeach former Prime Minister Yingluck Shinawatra for her role in overseeing a government rice subsidy program that lost billions of dollars. ](/news/2015/01/23/thailand-s-military-appointed-legislature-votes-to-impeach-former-prime-minister-yingluck-shinawatra-for-her-role-in-overseeing-a-government.md)
 _Context: Thailand, Yingluck Shinawatra_

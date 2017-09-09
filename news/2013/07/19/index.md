@@ -4,7 +4,7 @@
 A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 people, police say, in the latest of a recent surge of attacks on mosques.
 
 ### [Colombian FARC offer to release Kevin Scott Sutay, an American soldier captured last month. ](/news/2013/07/19/colombian-farc-offer-to-release-kevin-scott-sutay-an-american-soldier-captured-last-month.md)
-_Context: Colombia, FARC_
+_Context: Colombia, rebel leader_
 
 ### [The Prime Minister of Australia, Kevin Rudd, announces a plan to settle asylum seekers who come by boat in Papua New Guinea. ](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.md)
 _Context: Australian Prime Minister, Kevin Rudd, Papua New Guinea, asylum seeker_

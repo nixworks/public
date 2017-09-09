@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/U/US_TRAVEL_BAN?)
+1. [AP](http://hosted.ap.org/dynamic/stories/U/US_TRAVEL_BAN?SITE=TNMOR)
 2. [Politico](http://www.politico.com/story/2017/09/07/court-rejects-trump-administration-attempt-to-include-extended-family-in-travel-ban-242461)
 
 ### Related:

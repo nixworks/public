@@ -8,7 +8,7 @@
 ### Related:
 
 1. [Google agrees to pay $7 millions to settle a privacy lawsuit over the handling of wireless data. ](/news/2013/03/12/google-agrees-to-pay-7-millions-to-settle-a-privacy-lawsuit-over-the-handling-of-wireless-data.md) _Context: US$, sue_
-2. [Spain plans to sue the propagators of the independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-the-propagators-of-the-independence-referendum-in-catalonia.md) _Context: sue_
+2. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: sue_
 3. [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md) _Context: sue_
 4. [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md) _Context: patent_
 5. [The parent company of Burger King announces plans to purchase Popeyes Louisiana Kitchen, operator of the Popeyes chicken restaurant chain in a US$1.8 billion deal. ](/news/2017/02/21/the-parent-company-of-burger-king-announces-plans-to-purchase-popeyes-louisiana-kitchen-operator-of-the-popeyes-chicken-restaurant-chain-in.md) _Context: US$_

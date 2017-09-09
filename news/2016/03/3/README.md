@@ -31,7 +31,7 @@ _Context: Georgetown, Guyana, mobile phone_
 New Zealanders can now begin voting by post in the final stage of a referendum on whether to ditch the existing flag and adopt a new design.
 
 ### [Violence breaks out in the Venezuelan city of San Cristobal between students and police after a supreme court ruling curtailed the power of the opposition-controlled National Assembly to review government appointments of Supreme Court justices. ](/news/2016/03/3/violence-breaks-out-in-the-venezuelan-city-of-san-crista3bal-between-students-and-police-after-a-supreme-court-ruling-curtailed-the-power-of.md)
-_Context: 2014-16 Venezuelan protests, National Assembly, San Cristobal, Supreme Tribunal, Venezuela, Venezuelan police_
+_Context: 2014-16 Venezuelan protests, National Assembly, San Cristobal, Supreme Court, Venezuela, Venezuelan police_
 
 ### [The eleventh Republican Party presidential debate of the election cycle takes place at the Fox Theatre in downtown Detroit, Michigan, airing live on Fox News Channel. The debate features four Republican candidates, Donald Trump, Ted Cruz, Marco Rubio and John Kasich. Ben Carson was also invited to the debate but he said that he would not be attending. An estimated 16.9 million viewers watched the debate, 5.5 million of them adults aged 25-54, making it the most watched debate since December 2015. ](/news/2016/03/3/the-eleventh-republican-party-presidential-debate-of-the-election-cycle-takes-place-at-the-fox-theatre-in-downtown-detroit-michigan-airing.md)
 The Republican presidential primary debates, hosted by Fox News, held at The Fox Theater in Detroit, Michigan.

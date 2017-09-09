@@ -10,7 +10,7 @@ Rescue workers said more than 45 people had been killed in artillery bombardment
 Israeli jets fired two missiles from Lebanese airspace that struck near Damascus, Syrian state media say.
 
 ### [The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. ](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a-peace-deal-between-the-government-and-rebel-group-farc-to-end-the-colombian-conflict.md)
-_Context: Colombian conflict, Colombian government, Congress of Colombia, FARC, peace agreement_
+_Context: Colombian conflict, Colombian government, Congress of Colombia, peace deal, rebel leader_
 
 ### [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sothebyas.md)
 A handwritten score by Gustav Mahler fetches a record-breaking £4.5m at auction.

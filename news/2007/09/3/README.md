@@ -22,7 +22,7 @@ _Context: Chile, Free Trade Agreement, Japan_
 _Context: Arcelor, ArcelorMittal, Europe, Mittal Steel, steel, stock exchange_
 
 ### [ Tomas Medina Caracas (known by his nom de guerre "Negro Acacio"), one of FARC's most important leaders and the liaison between this Colombian guerrilla and Brazilian drug dealers, is killed in action by Colombian armed forces in Guaviare. ](/news/2007/09/3/toma-s-medina-caracas-known-by-his-nom-de-guerre-negro-acacio-one-of-farc-s-most-important-leaders-and-the-liaison-between-this-colomb.md)
-_Context: Brazil, Colombia, FARC, Guaviare, Tomas Medina Caracas, anti-drug plan, guerrilla, military, nom de guerre_
+_Context: Brazil, Colombia, Guaviare, Tomas Medina Caracas, anti-drug plan, guerrilla, military, nom de guerre, rebel leader_
 
 ### [ The Israeli Defense Forces announce plans for a force upgrade following problems in the 2006 Lebanon War and a perceived threat from Iran. ](/news/2007/09/3/the-israeli-defense-forces-announce-plans-for-a-force-upgrade-following-problems-in-the-2006-lebanon-war-and-a-perceived-threat-from-iran.md)
 _Context: Iran, Israeli Defense Forces, Israeli-Lebanese war of 2006_

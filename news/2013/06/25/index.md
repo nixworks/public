@@ -40,7 +40,7 @@ Four prisoners have been hanged in southern Nigeria, officials say, in what are 
 Representative Edward J. Markey of Massachusetts won a promotion to the Senate over his Republican challenger, Gabriel Gomez.
 
 ### [The Emir of Qatar Sheikh Hamad bin Khalifa Al Thani abdicates in favour of his son Sheikh Tamim bin Hamad Al Thani. ](/news/2013/06/25/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-abdicates-in-favour-of-his-son-sheikh-tamim-bin-hamad-al-thani.md)
-_Context: Emir of Qatar, Hamad bin Khalifa Al Thani, Tamim bin Hamad Al Thani_
+_Context: Hamad bin Khalifa Al Thani, Qatar Emir, Sheikh Tamim bin Hamad al-Than_
 
 ### [The Prime Minister of Greece, Antonis Samaras, reshuffles his cabinet giving more positions to his Panhellenic Socialist Movement coalition partner, appointing its leader Evangelos Venizelos as Deputy Prime Minister and Foreign Minister. ](/news/2013/06/25/the-prime-minister-of-greece-antonis-samaras-reshuffles-his-cabinet-giving-more-positions-to-his-panhellenic-socialist-movement-coalition.md)
 _Context: Antonis Samaras, Deputy Prime Minister, Evangelos Venizelos, Foreign Minister, Greek Prime Minister, PASOK_

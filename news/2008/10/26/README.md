@@ -16,7 +16,7 @@ _Context: Acting Prime Minister, Israel, Kadima party, Next Israeli legislative 
 _Context: Abkhazia, Abkhazian, Georgian, Inguri, soldiers_
 
 ### [ Oscar Tulio Lizcano, a Conservative congressman kidnapped by the FARC in August 2000, is freed by the military in Choco Department, Colombia. ](/news/2008/10/26/ascar-tulio-lizcano-a-conservative-congressman-kidnapped-by-the-farc-in-august-2000-is-freed-by-the-military-in-choca3-department-colom.md)
-_Context: Choco, Colombia, Congress of Colombia, Conservative, FARC, Oscar Tulio Lizcano, military_
+_Context: Choco, Colombia, Congress of Colombia, Conservative, Oscar Tulio Lizcano, military, rebel leader_
 
 ### [ Municipal elections take place in Chile. The conservative opposition Alliance for Chile reaches 40% of the mayoral vote, winning an election for the first time in 50 years, in what is considered a barometer for the 2009 presidential election. ](/news/2008/10/26/municipal-elections-take-place-in-chile-the-conservative-opposition-alliance-for-chile-reaches-40-of-the-mayoral-vote-winning-an-electio.md)
 _Context: Alliance for Chile, Chile, Municipal elections, presidential election_

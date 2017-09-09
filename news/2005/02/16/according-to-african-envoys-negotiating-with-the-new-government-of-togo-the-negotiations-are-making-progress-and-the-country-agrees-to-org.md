@@ -13,7 +13,7 @@
 
 ### Related:
 
-1. [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-as-50-year-family-dynasty-pa.md) _Context: Togo_
+1. [For the second consecutive day, hundreds of thousands of Togolese protest against President Faure Gnassingbe's 50-year family dynasty. Parliament is set to consider presidential term limits when it reconvenes in October. ](/news/2017/09/7/for-the-second-consecutive-day-hundreds-of-thousands-of-togolese-protest-against-president-faure-gnassingba-c-s-50-year-family-dynasty-parl.md) _Context: Politics of Togo, Togo_
 2. [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md) _Context: diplomat_
 3. [A Russian Navy spy ship sinks off the coast of Turkey after colliding with a Togo-flagged freighter. All 78 crew aboard the ship were safely evacuated, according to Turkish officials. ](/news/2017/04/27/a-russian-navy-spy-ship-sinks-off-the-coast-of-turkey-after-colliding-with-a-togo-flagged-freighter-all-78-crew-aboard-the-ship-were-safely.md) _Context: Togo_
 4. [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md) _Context: Togo_

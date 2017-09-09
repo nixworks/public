@@ -16,7 +16,7 @@ _Context: 2011-2012 conflict in Lebanon, assassination of  Wissam al-Hassan_
 _Context: South Africa, the shooting of 34 miners_
 
 ### [A Kindle user from Norway has her account wiped and all her paid-for books deleted by the American multinational electronic commerce company Amazon.com. ](/news/2012/10/22/a-kindle-user-from-norway-has-her-account-wiped-and-all-her-paid-for-books-deleted-by-the-american-multinational-electronic-commerce-company.md)
-_Context: Amazon, Kindle, Norway_
+_Context: Amazon.com, Kindle, Norway_
 
 ### [A former Goldman Sachs employee blows the whistle on the investment bank having routinely taken advantage of charities and pension funds to increase its profits. ](/news/2012/10/22/a-former-goldman-sachs-employee-blows-the-whistle-on-the-investment-bank-having-routinely-taken-advantage-of-charities-and-pension-funds-to.md)
 _Context: Goldman Sachs, whistleblower_

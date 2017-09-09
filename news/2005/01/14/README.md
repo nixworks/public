@@ -22,7 +22,7 @@ _Context: Adolfo Scilingo, Argentina, Dirty War, hunger strike, political prison
 _Context: Ali Mohammed Ghedi, Kenya, Somalia_
 
 ### [ Venezuela recalls its ambassador to Colombia because of the disagreement over capture of FARC member Rodrigo Granda ](/news/2005/01/14/venezuela-recalls-its-ambassador-to-colombia-because-of-the-disagreement-over-capture-of-farc-member-rodrigo-granda.md)
-_Context: Colombia, FARC, Rodrigo Granda, Venezuela, ambassador_
+_Context: Colombia, Rodrigo Granda, Venezuela, ambassador, rebel leader_
 
 ### [ Malaysia and Singapore have agreed to a truce on the disagreement over land reclamation project in Johor Straits ](/news/2005/01/14/malaysia-and-singapore-have-agreed-to-a-truce-on-the-disagreement-over-land-reclamation-project-in-johor-straits.md)
 _Context: Johor Strait, Malaysia, Singapore_

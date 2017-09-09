@@ -4,7 +4,7 @@
 _Context: Hizb ut-Tahrir, Komiljon Usmanov, Uzbekistan, amnesty_
 
 ### [ Former Peruvian spy chief Vladimiro Montesinos is sentenced to a 20-year prison term for running guns to Colombian FARC guerrillas. ](/news/2006/09/21/former-peruvian-spy-chief-vladimiro-montesinos-is-sentenced-to-a-20-year-prison-term-for-running-guns-to-colombian-farc-guerrillas.md)
-_Context: Colombia, FARC, Peru, Vladimiro Montesinos_
+_Context: Colombia, Peru, Vladimiro Montesinos, rebel leader_
 
 ### [ Israeli troops raid a branch of Jordan National Bank and 23 other financial institutions, seizing the equivalent of over US$1.5 million in cash from West Bank cities. ](/news/2006/09/21/israeli-troops-raid-a-branch-of-jordan-national-bank-and-23-other-financial-institutions-seizing-the-equivalent-of-over-us-1-5-million-in.md)
 _Context: Israel, Jordan National Bank, USD_

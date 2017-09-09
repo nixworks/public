@@ -70,7 +70,7 @@ The French foreign minister defends her handling of the Tunisian crisis, saying 
 Irish PM Brian Cowen survives a secret confidence vote on his leadership in the economic crisis, after a key minister questions his judgment.
 
 ### [Emir of Qatar Sheikh Hamad bin Khalifa Al Thani appoints Mohammed Saleh al-Sada as Energy Minister, succeeding Abdullah Al-Attiyah in a cabinet reshuffle. ](/news/2011/01/18/emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-appoints-mohammed-saleh-al-sada-as-energy-minister-succeeding-abdullah-al-attiyah-in-a-cabi.md)
-_Context: Abdullah Al-Attiyah, Emir of Qatar, Energy Minister, Hamad bin Khalifa Al Thani, Qatar_
+_Context: Abdullah Al-Attiyah, Energy Minister, Hamad bin Khalifa Al Thani, Qatar, Qatar Emir_
 
 ### [Voting continues at a congress of the Communist Party of Vietnam as it selects a new leadership. ](/news/2011/01/18/voting-continues-at-a-congress-of-the-communist-party-of-vietnam-as-it-selects-a-new-leadership.md)
 _Context: Communist Party, Vietnam_
