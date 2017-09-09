@@ -15,5 +15,8 @@ _Context: Frankfurt, Germany, Royal Air Force, World War II_
 ### [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md)
 The test Sunday was an extraordinary show of defiance by the North’s leader, Kim Jong-un, against President Trump.
 
+### [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md)
+_Context: European X-ray free-electron laser, Free-electron laser, Germany, Hamburg_
+
 ## [Previous Day...](/news/2017/09/2/index.md)
 
