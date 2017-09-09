@@ -1,6 +1,6 @@
 ### [2017-09-8](/news/2017/09/8/index.md)
 
-# The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. 
+# The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. 
 
 The son of a Russian lawmaker accused of stealing credit card data and other personal information has pleaded guilty in two criminal cases stemming from a probe into a $50 million online identity theft scheme, the U.S. Justice Department said on Friday.
 
