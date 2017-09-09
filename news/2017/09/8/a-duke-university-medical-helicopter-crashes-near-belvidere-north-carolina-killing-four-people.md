@@ -2,12 +2,13 @@
 
 # A Duke University medical helicopter crashes near Belvidere, North Carolina, killing four people. 
 
-
+The accident happened hours before the duo was due to perform at a resort connected to the airport where the helicopter crashed.
 
 
 ### Source:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-4866448/Four-killed-helicopter-crash-eastern-North-Carolina.html)
+2. [Sky News](http://news.sky.com/story/troy-gentry-of-duo-montgomery-gentry-dies-in-helicopter-crash-11026168)
 
 ### Related:
 

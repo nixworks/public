@@ -1,5 +1,8 @@
 ## [News](/news/2017/09/9/index.md)
 
+### [SDF announces an operation against ISIL militants in northern Deir ez-Zor province, Syria. ](/news/2017/09/9/sdf-announces-an-operation-against-isil-militants-in-northern-deir-ez-zor-province-syria.md)
+The U.S.-backed Syrian Democratic Forces alliance (SDF) has launched an operation against Islamic State militants in the north of Deir al-Zor province in eastern Syria, a statement said on Saturday.
+
 ### [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md)
 Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot;distorting facts&quot;, just after a report of a phone call between the leaders of both countries suggested a breakthrough in the Gulf dispute.
 
@@ -11,7 +14,7 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/09/8/index.md)
 
-### [Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country, during his talk in Villavicencio urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-rebel-leader-rodrigo-londono-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicted-on-t.md)
+### [Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country, during his talk in Villavicencio urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-rebel-leader-rodrigo-londoa-o-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicted-on.md)
 Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be open to reconciliation with those who have repented, speaking hours after a top rebel leader asked the pontiff for forgiveness.
 
 ### [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md)
@@ -21,9 +24,6 @@ Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be op
 Hurricane Jose threatening Caribbean islands already devastated by Hurricane Irma
 
 ### [A Duke University medical helicopter crashes near Belvidere, North Carolina, killing four people. ](/news/2017/09/8/a-duke-university-medical-helicopter-crashes-near-belvidere-north-carolina-killing-four-people.md)
-_Context: Belvidere, North Carolina, Duke University_
-
-### [A helicopter crashes in Medford, New Jersey, leaving two people dead, including Troy Gentry of Montgomery Gentry. ](/news/2017/09/8/a-helicopter-crashes-in-medford-new-jersey-leaving-two-people-dead-including-troy-gentry-of-montgomery-gentry.md)
 The accident happened hours before the duo was due to perform at a resort connected to the airport where the helicopter crashed.
 
 ### [The U.S. State Department has approved a package of potential arms sales worth more than USD$ 3.8 billion to the Kingdom of Bahrain including F-16 jets, upgrades, missiles and patrol boats. ](/news/2017/09/8/the-u-s-state-department-has-approved-a-package-of-potential-arms-sales-worth-more-than-usd-3-8-billion-to-the-kingdom-of-bahrain-includin.md)
@@ -38,8 +38,8 @@ Trump emphasized that unity among Washington&#039;s Arab partners &quot;is essen
 ### [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md)
 The son of a Russian lawmaker accused of stealing credit card data and other personal information has pleaded guilty in two criminal cases stemming from a probe into a $50 million online identity theft scheme, the U.S. Justice Department said on Friday.
 
-### [ Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic.md)
-_Context: Brazil, Brazilian Democratic Movement Party, Michel Temer, Rodrigo Janot, Supreme Court_
+### [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges.{{cn}}](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md)
+_Context: Brazil, Brazilian Democratic Movement Party, Law of Brazil, Michel Temer, Rodrigo Janot, Supreme Court_
 
 ---
 
