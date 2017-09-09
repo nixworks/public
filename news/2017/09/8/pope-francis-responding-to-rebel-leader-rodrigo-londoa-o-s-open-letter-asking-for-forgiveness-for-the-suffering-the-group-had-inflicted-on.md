@@ -1,6 +1,6 @@
 ### [2017-09-8](/news/2017/09/8/index.md)
 
-# Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country, during his talk in Villavicencio urges Colombians skeptical of the peace deal to be open to reconciliation. 
+# Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country during his talk in Villavicencio, urges Colombians skeptical of the peace deal to be open to reconciliation. 
 
 Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be open to reconciliation with those who have repented, speaking hours after a top rebel leader asked the pontiff for forgiveness.
 
