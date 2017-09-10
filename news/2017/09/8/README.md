@@ -3,9 +3,6 @@
 ### [Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country during his talk in Villavicencio, urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-rebel-leader-rodrigo-londoa-o-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicted-on.md)
 Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be open to reconciliation with those who have repented, speaking hours after a top rebel leader asked the pontiff for forgiveness.
 
-### [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect as many as 5,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md)
-The University of California sued the Trump administration Friday for rescinding protections for immigrant students without legal statu...
-
 ### [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md)
  MEXICO CITY (AP) — The Latest on the Mexico earthquake (all times local): 3:15 p.m. The head of Mexico&#39;s civil defense agency says the death toll from 
 
@@ -29,6 +26,9 @@ The son of a Russian lawmaker accused of stealing credit card data and other per
 
 ### [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md)
 _Context: Brazil, Brazilian Democratic Movement Party, Law of Brazil, Michel Temer, Rodrigo Janot, Supreme Court_
+
+### [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md)
+The University of California sued the Trump administration Friday for rescinding protections for immigrant students without legal statu...
 
 ## [Previous Day...](/news/2017/09/7/index.md)
 
