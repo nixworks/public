@@ -1,0 +1,10 @@
+### [2017-09-9](/news/2017/09/9/index.md)
+
+# Film director Guillermo del Toro wins for "The Shape of Water". 
+
+
+
+
+### Source:
+
+1. [Vulture](http://www.vulture.com/2017/09/complete-list-of-74th-venice-film-festival-award-winners.html)
