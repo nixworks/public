@@ -1,6 +1,6 @@
 ## [News](/news/2017/09/10/index.md)
 
-### [Hurricane Irma makes its way to Florida and is excepted to make landfall near Key West today. ](/news/2017/09/10/hurricane-irma-makes-its-way-to-florida-and-is-excepted-to-make-landfall-near-key-west-today.md)
+### [Hurricane Irma makes its way to Florida and is expected to make landfall near Key West today. ](/news/2017/09/10/hurricane-irma-makes-its-way-to-florida-and-is-expected-to-make-landfall-near-key-west-today.md)
 _Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma, Key West_
 
 ## Opinion
@@ -26,7 +26,7 @@ _Context: 2017 Venice Film Festival, Guillermo del Toro, The Shape of Water_
 ### [Hurricane Irma makes landfall in Cuba. ](/news/2017/09/9/hurricane-irma-makes-landfall-in-cuba.md)
 _Context: 2017 Atlantic hurricane season, Cuba, Hurricane Irma_
 
-### [The death toll in the earrhquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earrhquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md)
+### [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md)
 _Context: 2017 Chiapas earthquake, Chiapas, Mexico_
 
 ### [Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. ](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.md)

@@ -14,7 +14,7 @@
 
 ### Related:
 
-1. [The death toll in the earrhquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earrhquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: 2017 Chiapas earthquake, Mexico_
+1. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: 2017 Chiapas earthquake, Mexico_
 2. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: 2017 Chiapas earthquake, Mexico_
 3. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
 4. [Hurricane Franklin, the Atlantic Ocean's first hurricane of the season, is set to hit Mexico's Gulf state of Veracruz tonight or tomorrow morning. The category 1 storm is expected to lose strength as it moves inland through the oil-producing state. ](/news/2017/08/9/hurricane-franklin-the-atlantic-ocean-s-first-hurricane-of-the-season-is-set-to-hit-mexico-s-gulf-state-of-veracruz-tonight-or-tomorrow-mo.md) _Context: Mexico_
