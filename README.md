@@ -6,6 +6,9 @@ _Context: Deir ez-Zor, Euphrates, Russia, Russian military intervention in the S
 ### [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md)
 _Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma_
 
+### [Floods, following torrential rain, kill at least six people in the port city of Livorno, Italy. ](/news/2017/09/10/floods-following-torrential-rain-kill-at-least-six-people-in-the-port-city-of-livorno-italy.md)
+The mayor of Livorno lamented that the forecast underestimated the intensity of the storms that first struck overnight. The city only issued a code &quot;orange&quot; warning instead of a code &quot;red,&quot; which might have saved lives.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
