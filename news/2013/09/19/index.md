@@ -4,7 +4,7 @@
 An Egyptian police general is killed in fighting as security forces storm the Muslim Brotherhood stronghold of Kerdasa, in the suburbs of Cairo.
 
 ### [Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-army.md)
-_Context: Al Qaida's, Azaz, Free Syrian Army, Islamic State of Iraq and the Levant_
+_Context: Al Qaida's, Azaz, Free Syrian Army, ISIL_
 
 ### [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md)
 _Context: China, Japan, Senkaku Islands, Senkaku Islands dispute, territorial waters_

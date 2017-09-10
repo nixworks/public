@@ -1,0 +1,23 @@
+### [2017-09-7](/news/2017/09/7/index.md)
+
+# Fifteen states sue the Trump administration for what they see as "racial animus" against Mexicans because most people covered under the Deferred Action for Childhood Arrivals are from Mexico. 
+
+
+
+
+### Source:
+
+1. [NPR](http://www.npr.org/sections/thetwo-way/2017/09/07/549047054/states-sue-to-block-daca-termination-citing-trumps-racial-animus)
+
+### Related:
+
+1. [Mexican photojournalist Daniel Alejandro Martinez Bazaldua is found dead in Saltillo, Coahuila, an area where Los Zetas drug cartel operates. With his death, Mexico consolidates itself as one of the most dangerous countries for journalists, where more than 80 have been killed since 2000. ](/news/2013/04/25/mexican-photojournalist-daniel-alejandro-martanez-bazaldaoa-is-found-dead-in-saltillo-coahuila-an-area-where-los-zetas-drug-cartel-operat.md) _Context: Mexicans, Mexico_
+2. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
+3. [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect as many as 5,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md) _Context: Deferred Action for Childhood Arrivals_
+4. [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md) _Context: Trump administration_
+5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+6. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: Mexico_
+7. [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md) _Context: Deferred Action for Childhood Arrivals_
+8. [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md) _Context: Deferred Action for Childhood Arrivals_
+9. [The Trump Administration announces that, during the next six months, it will be ending the DACA program that has halted the deportation of about 800,000 people who were brought to the U.S. illegally as children. Congress is called upon to pass legislation to correct the situation. ](/news/2017/09/5/the-trump-administration-announces-that-during-the-next-six-months-it-will-be-ending-the-daca-program-that-has-halted-the-deportation-of-a.md) _Context: Deferred Action for Childhood Arrivals_
+10. [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md) _Context: Deferred Action for Childhood Arrivals_

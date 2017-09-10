@@ -20,6 +20,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Pope Francis, responding to rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country during his talk in Villavicencio, urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-rebel-leader-rodrigo-londoa-o-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicted-on.md)
 Pope Francis urged Colombians skeptical of a peace deal with guerrillas to be open to reconciliation with those who have repented, speaking hours after a top rebel leader asked the pontiff for forgiveness.
 
+### [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect as many as 5,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md)
+The University of California sued the Trump administration Friday for rescinding protections for immigrant students without legal statu...
+
 ### [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md)
  MEXICO CITY (AP) — The Latest on the Mexico earthquake (all times local): 3:15 p.m. The head of Mexico&#39;s civil defense agency says the death toll from 
 
@@ -59,6 +62,9 @@ Criminals gained access to certain files in the company’s system from mid-May 
 
 ### [Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD ](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.md)
 The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.
+
+### [Fifteen states sue the Trump administration for what they see as "racial animus" against Mexicans because most people covered under the Deferred Action for Childhood Arrivals are from Mexico. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-for-what-they-see-as-racial-animus-against-mexicans-because-most-people-covered-under-the-defe.md)
+_Context: Deferred Action for Childhood Arrivals, Mexicans, Mexico, Trump administration, racial animus_
 
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
 Hurricane Irma strengthened and made landfall in Cuba on Friday as a Category 5 storm, as millions of Florida residents were ordered to evacuate after the storm killed 21 people in the eastern Caribbean and left catastrophic destruction in its wake.

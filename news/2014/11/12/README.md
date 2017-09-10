@@ -13,7 +13,7 @@ _Context: Al Bayda Governorate, Ansar al-Sharia, Houthi, Houthi militants, Sunni
 _Context: Armenia, Azerbaijan, Mi-24, shoots down_
 
 ### [Suicide bombings kill at least 23 people across Iraq. ](/news/2014/11/12/suicide-bombings-kill-at-least-23-people-across-iraq.md)
-_Context: Iraq, Islamic State of Iraq and the Levant, suicide bombing_
+_Context: ISIL, Iraq, suicide bombing_
 
 ### [Gunmen attack an Egyptian Navy ship on the Mediterranean Sea with eight sailors missing and four injured after the attack. Thirty-two of the gunmen have been captured with four reported as dead. ](/news/2014/11/12/gunmen-attack-an-egyptian-navy-ship-on-the-mediterranean-sea-with-eight-sailors-missing-and-four-injured-after-the-attack-thirty-two-of-the.md)
 _Context: Islamist unrest in Egypt (2013-14), Mediterranean Sea, navy_

@@ -7,7 +7,7 @@ Three bridges on roads leading into Donetsk are destroyed ahead of an expected b
 More than 85 rockets fired on Monday; Hamas claims responsibility for some of launches; IDF to call up 1,500 reserve soldiers.
 
 ### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
-_Context: Baghdad, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal), Islamic State of Iraq and the Levant_
+_Context: Baghdad, ISIL, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal)_
 
 ### [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md)
 A military helicopter has crashed close to the Vietnamese capital of Hanoi, killing 16 people and injuring five others, officials say.

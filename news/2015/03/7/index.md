@@ -7,7 +7,7 @@ _Context: Boko Haram, Nigeria_
 _Context: Bamako, Mali_
 
 ### [In Iraq, ISIL destroys the ancient city of Hatra following the destruction of Nimrud. ](/news/2015/03/7/in-iraq-isil-destroys-the-ancient-city-of-hatra-following-the-destruction-of-nimrud.md)
-_Context: Hatra, Iraq, Islamic State of Iraq and the Levant, Nimrud_
+_Context: Hatra, ISIL, Iraq, Nimrud_
 
 ### [The US Secret Service locks down the White House after a loud noise (later revealed to be a burned-out souvenir truck) is heard on the South Lawn, moments before U.S. President Barack Obama and his family were due to take off by helicopter. He and his family were not yet on the South Lawn when the noise was heard. ](/news/2015/03/7/the-us-secret-service-locks-down-the-white-house-after-a-loud-noise-later-revealed-to-be-a-burned-out-souvenir-truck-is-heard-on-the-south.md)
 A security lockdown at the White House triggered by a loud bang just as President Barack Obama was due to leave was caused by a souvenir truck catching fire in a nearby street, the Secret Service said on Saturday.

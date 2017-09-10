@@ -1,7 +1,7 @@
 ## [2016-10-15](/news/2016/10/15/index.md)
 
 ### [Attacks targeting a Shi'ite Muslim gathering, a police check-point, and the family of an anti-Islamic State Sunni paramilitary leader, kill at least 55 people in Iraq. ](/news/2016/10/15/attacks-targeting-a-shi-ite-muslim-gathering-a-police-check-point-and-the-family-of-an-anti-islamic-state-sunni-paramilitary-leader-kill.md)
-_Context: 2016 October Baghdad attacks, Iraq, Iraqi Civil War (2014-present), Islamic State of Iraq and the Levant, Shi'ite, Sunni Muslim_
+_Context: 2016 October Baghdad attacks, ISIL, Iraq, Iraqi Civil War (2014-present), Shi'ite, Sunni Muslim_
 
 ### [Russian border patrol officers open fire on a North Korean fishing vessel, leaving one fisherman dead, and eight others injured. ](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.md)
 Russian border patrol was forced to open fire during inspection of a fishing vessel with North Korean crew onboard. The crew resisted search, behaved aggressively, and tried to flee with the members of the Russian security forces on board, according to the Russian Federal Security Service (FSB).

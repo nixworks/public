@@ -39,6 +39,9 @@ _Context: Delta Air Lines, LaGuardia Airport, McDonnell Douglas MD-88, New York 
 ### [American actor Harrison Ford is in stable condition after he crash-lands his 1942 Ryan Aeronautical ST3KR single-engine World War II-era training plane at the Penmar Golf Course, in Venice, Los Angeles, California, just west of the Santa Monica Airport. ](/news/2015/03/5/american-actor-harrison-ford-is-in-stable-condition-after-he-crash-lands-his-1942-ryan-aeronautical-st3kr-single-engine-world-war-ii-era-tra.md)
 _Context: California, Harrison Ford, Ryan Aeronautical, Santa Monica Airport, Venice, Los Angeles, World War II_
 
+### [A strong wind-hurricane struck Versilia at around 3 AM at a speed of 220 to 240m/ph (350-385 km/ph) causing 12 deaths and pulling down a lot of trees, fences, roofs and antennas. This is probably one of the biggest storm events and probably the biggest one in Italian history.](/news/2015/03/5/a-strong-wind-hurricane-struck-versilia-at-around-3-am-at-a-speed-of-220-to-240m-ph-350-385-km-ph-causing-12-deaths-and-pulling-down-a-lot.md)
+_Context: Versilia_
+
 ### [Liberia's last known ebola patient is discharged from a treatment center in Monrovia. The country now needs 42 days without a subsequent diagnosed infection to be declared disease free. ](/news/2015/03/5/liberia-s-last-known-ebola-patient-is-discharged-from-a-treatment-center-in-monrovia-the-country-now-needs-42-days-without-a-subsequent-dia.md)
 _Context: Ebola, Ebola virus epidemic in West Africa, Liberia, Monrovia_
 
