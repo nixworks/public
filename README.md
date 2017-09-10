@@ -1,7 +1,10 @@
 ## [News](/news/2017/09/10/index.md)
 
-### [Hurricane Irma makes its way to Florida and is expected to make landfall near Key West today. ](/news/2017/09/10/hurricane-irma-makes-its-way-to-florida-and-is-expected-to-make-landfall-near-key-west-today.md)
-_Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma, Key West_
+### [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor, kill at least 34 people, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-people-according-to-the-syrian-o.md)
+_Context: Deir ez-Zor, Euphrates, Russia, Russian military intervention in the Syrian Civil War, Syrian Observatory for Human Rights_
+
+### [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md)
+_Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
