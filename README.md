@@ -23,6 +23,9 @@ _Context: 2016-17 Northern Rakhine State clashes, Arakan Rohingya Salvation Army
 ### [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md)
 _Context: 18th Dynasty, Egypt, Egyptology, Luxor, goldsmith_
 
+### [Archaeologists discover a cache of Roman Britain-era artefacts, including weapons, at an ancient Roman cavalry barracks near Hadrian's Wall in northern England. Archaeologists liken the discovery to winning the lottery. ](/news/2017/09/9/archaeologists-discover-a-cache-of-roman-britain-era-artefacts-including-weapons-at-an-ancient-roman-cavalry-barracks-near-hadrian-s-wall.md)
+Dig team stumble across thousands of pristine artefacts at ancient garrison site in Northumberland, writes Dalya Alberge
+
 ### [Film director Guillermo del Toro wins for "The Shape of Water". ](/news/2017/09/9/film-director-guillermo-del-toro-wins-for-the-shape-of-water.md)
 _Context: 2017 Venice Film Festival, Guillermo del Toro, The Shape of Water_
 
