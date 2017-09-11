@@ -9,6 +9,7 @@ Aid workers responding to devastation from Hurricane Irma have been stalled by t
 
 1. [CNN](http://www.cnn.com/2017/09/09/americas/cuba-caribbean-hurricane-irma/index.html)
 2. [The New York Times](https://www.nytimes.com/2017/09/09/world/americas/irma-relief-stalls-caribbean-hurricane-jose.html)
+3. [UPI](https://www.upi.com/Top_News/World-News/2017/09/09/2-dead-damage-in-Mexico-after-Hurricane-Katia-strikes/7711504978608/)
 
 ### Related:
 
