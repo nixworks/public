@@ -1,6 +1,6 @@
 ### [2017-09-10](/news/2017/09/10/index.md)
 
-# Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor, kill at least 34 civilians including 9 children, according to the Syrian Observatory for Human Rights. 
+# Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights. 
 
 
 
