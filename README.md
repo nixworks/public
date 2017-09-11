@@ -29,6 +29,9 @@ _Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma_
 ### [Floods, following torrential rain, kill at least six people in the port city of Livorno, Italy. ](/news/2017/09/10/floods-following-torrential-rain-kill-at-least-six-people-in-the-port-city-of-livorno-italy.md)
 The mayor of Livorno lamented that the forecast underestimated the intensity of the storms that first struck overnight. The city only issued a code &quot;orange&quot; warning instead of a code &quot;red,&quot; which might have saved lives.
 
+### [A gunman shoots seven people dead at a house party in Plano, Texas, amid a domestic dispute. The gunman was then killed after exchanging fire with a Plano Police Department officer. ](/news/2017/09/10/a-gunman-shoots-seven-people-dead-at-a-house-party-in-plano-texas-amid-a-domestic-dispute-the-gunman-was-then-killed-after-exchanging-fir.md)
+Seven people have died after a gunman opened fire at house party in Plano, Texas. The shooter was then killed by police. It is believed the shoot-out was prompted by a &quot;domestic dispute&quot; at the party for fans of NFL team the Dallas Cowboys.
+
 ---
 
 ## [Day Before Yesterday](/news/2017/09/9/index.md)
