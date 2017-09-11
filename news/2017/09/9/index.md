@@ -15,8 +15,8 @@ Dig team stumble across thousands of pristine artefacts at ancient garrison site
 ### [Film director Guillermo del Toro wins for "The Shape of Water". ](/news/2017/09/9/film-director-guillermo-del-toro-wins-for-the-shape-of-water.md)
 _Context: 2017 Venice Film Festival, Guillermo del Toro, The Shape of Water_
 
-### [Hurricane Irma makes landfall in Cuba. ](/news/2017/09/9/hurricane-irma-makes-landfall-in-cuba.md)
-_Context: 2017 Atlantic hurricane season, Cuba, Hurricane Irma_
+### [Hurricane Irma makes landfall in Cuba. The death toll across the Caribbean is at least 25 people, ](/news/2017/09/9/hurricane-irma-makes-landfall-in-cuba-the-death-toll-across-the-caribbean-is-at-least-25-people.md)
+Aid workers responding to devastation from Hurricane Irma have been stalled by the next dangerous storm: Hurricane Jose.
 
 ### [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md)
 _Context: 2017 Chiapas earthquake, Chiapas, Mexico_
