@@ -12,8 +12,8 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 ### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
 _Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
 
-### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition senator Risa Hontiveros.](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
-_Context: Justice, Philippine, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senator_
+### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
+_Context: Justice, Philippine, Risa Hontiveros, Senator, Vitaliano Aguirre, lawsuit_
 
 ## [Previous Day...](/news/2017/09/10/index.md)
 
