@@ -1,7 +1,7 @@
 ## [2009-07-17](/news/2009/07/17/index.md)
 
 ### [ Footage of FARC leader Jorge Briceno saying he financed Ecuadorian President Rafael Correa's 2006 campaign is broadcast on Colombian television. ](/news/2009/07/17/footage-of-farc-leader-jorge-bricea-o-saying-he-financed-ecuadorian-president-rafael-correa-s-2006-campaign-is-broadcast-on-colombian-telev.md)
-_Context: 2006 campaign, Colombia, Ecuador, Jorge Briceno, President, Rafael Correa, rebel leader_
+_Context: 2006 campaign, Colombia, Ecuador, FARC, Jorge Briceno, President, Rafael Correa_
 
 ### [ Timothy Kirkhope MEP defends alleged homophobic remarks made by European Conservatives and Reformists' leader Michal Kaminski in a television interview. ](/news/2009/07/17/timothy-kirkhope-mep-defends-alleged-homophobic-remarks-made-by-european-conservatives-and-reformists-leader-michaa-kamiaski-in-a-televi.md)
 _Context: ECR, Member of the European Parliament, Michal Kaminski, Timothy Kirkhope, homophobia_

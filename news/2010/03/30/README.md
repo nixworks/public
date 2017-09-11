@@ -1,7 +1,7 @@
 ## [2010-03-30](/news/2010/03/30/index.md)
 
 ### [Colombian soldier Pablo Emilio Moncayo is released after 12 years in FARC captivity. ](/news/2010/03/30/colombian-soldier-pablo-emilio-moncayo-is-released-after-12-years-in-farc-captivity.md)
-_Context: Colombia, Pablo Emilio Moncayo, rebel leader_
+_Context: Colombia, FARC, Pablo Emilio Moncayo_
 
 ### [Russia has a day of mourning following the train bombs in Moscow. ](/news/2010/03/30/russia-has-a-day-of-mourning-following-the-train-bombs-in-moscow.md)
 Russians observed an official day of mourning Tuesday after suicide bombers attacked two Moscow subway stations during the rush-hour commute Monday morning, killing 39 people.

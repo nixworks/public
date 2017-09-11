@@ -4,7 +4,7 @@
 Muslim militants linked to so-called Islamic State are freed from jail in the Philippines in what officials say was a deal made to look like a &quot;raid&quot;.
 
 ### [The FARC orders all its fighters to observe a ceasefire from midnight local time (Monday 1 a.m. EDT). ](/news/2016/08/28/the-farc-orders-all-its-fighters-to-observe-a-ceasefire-from-midnight-local-time-monday-1-a-m-edt.md)
-_Context: Colombian conflict, rebel leader_
+_Context: Colombian conflict, FARC_
 
 ### [A suicide bombing kills at least 15 people at a wedding in the southern Shiite city of Kerbala. ](/news/2016/08/28/a-suicide-bombing-kills-at-least-15-people-at-a-wedding-in-the-southern-shiite-city-of-kerbala.md)
 _Context: Iraqi Civil War (2014-present), Kerbala, Shiite, suicide bombing_

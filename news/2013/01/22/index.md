@@ -7,7 +7,7 @@ _Context: Jordan, Syria_
 Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 people and wounded dozens more, police say.
 
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: Colombia, ceasefire, oil pipeline, rebel leader_
+_Context: Colombia, FARC, ceasefire, oil pipeline_
 
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
 _Context: Censorship in China, China, James Bond, Skyfall_

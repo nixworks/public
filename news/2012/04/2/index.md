@@ -1,7 +1,7 @@
 ## [2012-04-2](/news/2012/04/2/index.md)
 
 ### [The Colombian leftist group FARC releases its last remaining police and military captives. ](/news/2012/04/2/the-colombian-leftist-group-farc-releases-its-last-remaining-police-and-military-captives.md)
-_Context: Colombia, rebel leader_
+_Context: Colombia, FARC_
 
 ### [The U.S. Federal Trade Commission allows the proposed merger of two large firms within the market for pharmacy benefit management, Express Scripts and Medco Health Solutions, despite the arguments of many that the degree of concentration that will create in the PBM market will prove unhealthy. ](/news/2012/04/2/the-u-s-federal-trade-commission-allows-the-proposed-merger-of-two-large-firms-within-the-market-for-pharmacy-benefit-management-express-s.md)
 _Context: Express Scripts, Medco Health Solutions, U.S. Federal Trade Commission, pharmacy benefit management_

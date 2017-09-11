@@ -7,7 +7,7 @@ _Context: Afghanistan's, British military_
 _Context: China, Hu Jintao, India, New Delhi, Tibet, sets herself alight_
 
 ### [Colombian forces kill 32 FARC rebels in the latest government offensive. ](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.md)
-_Context: Colombia, rebel leader_
+_Context: Colombia, FARC_
 
 ### [Somali pirates hijack an Iranian-owned cargo ship with 23 crew in waters off the Maldives - the first hijacking in such territory. ](/news/2012/03/26/somali-pirates-hijack-an-iranian-owned-cargo-ship-with-23-crew-in-waters-off-the-maldives-the-first-hijacking-in-such-territory.md)
 _Context: Iran, Maldives, Somali pirates_

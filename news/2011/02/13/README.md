@@ -19,7 +19,7 @@ Women hold protests in Italy and abroad against embattled Prime Minister Silvio 
 Eighteen injured in explosion in city of Yala, which triggered a large fire that engulfed nearby shops.
 
 ### [The International Red Cross states that the Colombian FARC rebel group has released its fourth captive over the past few days but failed to release two others. ](/news/2011/02/13/the-international-red-cross-states-that-the-colombian-farc-rebel-group-has-released-its-fourth-captive-over-the-past-few-days-but-failed-to.md)
-_Context: Colombia, International Red Cross, rebel leader_
+_Context: Colombia, FARC, International Red Cross_
 
 ### [Egypt's Minister of State for Antiquities Zahi Hawass says several pieces have been stolen from the Egyptian Museum during the revolution. ](/news/2011/02/13/egypt-s-minister-of-state-for-antiquities-zahi-hawass-says-several-pieces-have-been-stolen-from-the-egyptian-museum-during-the-revolution.md)
 _Context: 2011 Egyptian revolution, Egypt, Egyptian Museum, Zahi Hawass_

@@ -28,7 +28,7 @@ _Context: Bangladesh, Khaleda Zia, National Board of Revenue_
 Canadian police have arrested a man who was found carrying three bombs in the boot of his car.
 
 ### [ Hugo Chavez, the President of Venezuela, states that he will meet with FARC guerillas to mediate a dispute with the Government of Colombia about the release of captives. ](/news/2007/08/31/hugo-cha-vez-the-president-of-venezuela-states-that-he-will-meet-with-farc-guerillas-to-mediate-a-dispute-with-the-government-of-colombia.md)
-_Context: Colombia, Hugo Chavez, President, rebel leader_
+_Context: Colombia, FARC, Hugo Chavez, President_
 
 ### [ Provisional data from the United Kingdom Meteorological Office shows that the 2007 British summer was the wettest on record with five areas of England on flood warning. ](/news/2007/08/31/provisional-data-from-the-united-kingdom-meteorological-office-shows-that-the-2007-british-summer-was-the-wettest-on-record-with-five-areas.md)
 _Context: England, Meteorological Office, United Kingdom_

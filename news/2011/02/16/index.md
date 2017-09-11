@@ -16,7 +16,7 @@ _Context: Egypt, Protesters_
 _Context: 2011 Yemeni protests, Aden, policemen_
 
 ### [The Colombian FARC movement releases another two hostages. ](/news/2011/02/16/the-colombian-farc-movement-releases-another-two-hostages.md)
-_Context: Colombia, rebel leader_
+_Context: Colombia, FARC_
 
 ### [U.S. pop singer Bruno Mars pleads guilty to cocaine possession in Las Vegas, Nevada. ](/news/2011/02/16/u-s-pop-singer-bruno-mars-pleads-guilty-to-cocaine-possession-in-las-vegas-nevada.md)
 _Context: Bruno Mars, Las Vegas, Nevada, Nevada, cocaine, pop_

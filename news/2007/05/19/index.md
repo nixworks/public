@@ -19,7 +19,7 @@ _Context: Afghanistan's, Germany, Kunduz, suicide bombing_
 _Context: President, Romania, Traian Basescu, go to the polls, impeach_
 
 ### [ Colombian President Alvaro Uribe has ordered the national army to rescue several hostages from FARC rebels, including Ingrid Betancourt, a former senator and presidential candidate. ](/news/2007/05/19/colombian-president-alvaro-uribe-has-ordered-the-national-army-to-rescue-several-hostages-from-farc-rebels-including-angrid-betancourt.md)
-_Context: Alvaro Uribe, Colombian President, Ingrid Betancourt, rebel leader_
+_Context: Alvaro Uribe, Colombian President, FARC, Ingrid Betancourt_
 
 ### [ Curlin wins the Preakness Stakes, extending the Triple Crown drought to 29 years. ](/news/2007/05/19/curlin-wins-the-preakness-stakes-extending-the-triple-crown-drought-to-29-years.md)
 _Context: Curlin, Preakness, Triple Crown_

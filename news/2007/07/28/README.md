@@ -4,7 +4,7 @@
 _Context: Congress, Pakistan, Taliban, U.S., al-Qaeda, foreign aid_
 
 ### [ Colombia's intelligence chief Andres Penate claims FARC rebels accidentally killed 11 politicians it was holding, after running into another rebel unit. ](/news/2007/07/28/colombia-s-intelligence-chief-andra-c-s-pea-ate-claims-farc-rebels-accidentally-killed-11-politicians-it-was-holding-after-running-into-anot.md)
-_Context: Andres Penate, Colombia, rebel leader_
+_Context: Andres Penate, Colombia, FARC_
 
 ### [ The President of the United States George W. Bush urges Congress to pass legislation to expand potential surveillance targets. ](/news/2007/07/28/the-president-of-the-united-states-george-w-bush-urges-congress-to-pass-legislation-to-expand-potential-surveillance-targets.md)
 _Context: Congress, George W. Bush, President_

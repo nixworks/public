@@ -10,7 +10,7 @@ _Context: Japan, North Korea, resume bilateral talks_
 _Context: Andean diplomatic crisis, Colombia, Ecuador, restore relations_
 
 ### [ A Venezuelan National Guard sergeant and 3 more people are captured in the Colombian Department of Vichada with 40,000 AK-47 rounds for the rebel group FARC. ](/news/2008/06/6/a-venezuelan-national-guard-sergeant-and-3-more-people-are-captured-in-the-colombian-department-of-vichada-with-40-000-ak-47-rounds-for-the.md)
-_Context: AK-47s, Colombia, Department of Vichada, National Guard, Venezuela, rebel leader_
+_Context: AK-47s, Colombia, Department of Vichada, FARC, National Guard, Venezuela_
 
 ### [ The Diet of Japan recognizes the Ainu as an indigenous people for the first time. ](/news/2008/06/6/the-diet-of-japan-recognizes-the-ainu-as-an-indigenous-people-for-the-first-time.md)
 _Context: Ainu, Diet, indigenous_

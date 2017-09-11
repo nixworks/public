@@ -16,7 +16,7 @@ Venezuela says it has &quot;ended&quot; its rapprochement with the United States
 Israel has agreed to release Palestinian prisoners in order to resume peace talks, but will not yield to other demands the Palestinians say must be met before they return to the negotiating table.
 
 ### [17 government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca. ](/news/2013/07/20/17-government-soldiers-are-killed-in-an-attack-by-farc-revolutionaries-in-the-colombian-department-of-arauca.md)
-_Context: Arauca, Colombia, an attack, rebel leader_
+_Context: Arauca, Colombia, FARC, an attack_
 
 ### [Five Costa Crociere employees plead guilty to manslaughter and negligence charges in relation to the Costa Concordia disaster that cost 32 crew and passengers their lives off the coast of Italy. Captain Francesco Schettino is being tried separately. ](/news/2013/07/20/five-costa-crociere-employees-plead-guilty-to-manslaughter-and-negligence-charges-in-relation-to-the-costa-concordia-disaster-that-cost-32-c.md)
 _Context: ''Costa Concordia'' disaster, Costa Crociere, manslaughter by gross negligence, negligence_

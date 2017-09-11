@@ -10,7 +10,7 @@ _Context: 2015 Sousse attacks, Tunisia_
 _Context: Afghanistan's, U.S., War in Afghanistan (2015-present), car bomb_
 
 ### [The Government of Colombia and FARC announce plans to negotiate a ceasefire to end the fifty year old dispute. ](/news/2015/07/12/the-government-of-colombia-and-farc-announce-plans-to-negotiate-a-ceasefire-to-end-the-fifty-year-old-dispute.md)
-_Context: Colombian conflict (1964-present), Colombian government, rebel leader_
+_Context: Colombian conflict (1964-present), Colombian government, FARC_
 
 ### [A European Union leaders' summit to discuss the Greek debt crisis is cancelled due to failure of finance ministers to agree on Greek proposals. However, Eurozone leaders do meet, with discussions continuing into the night. ](/news/2015/07/12/a-european-union-leaders-summit-to-discuss-the-greek-debt-crisis-is-cancelled-due-to-failure-of-finance-ministers-to-agree-on-greek-proposa.md)
 Alexis Tsipras remains hopeful for compromise but opinion is divided as France seeks agreement but Germany retains tough stance in climate of bailout mistrust

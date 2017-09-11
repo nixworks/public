@@ -13,7 +13,7 @@ _Context: Avraham Hirchson, Israel, unionize_
 _Context: 2007 Pacific hurricane season, Baja California, hurricane_
 
 ### [ Ten Colombian soldiers are killed and five are missing during a shootout with FARC guerillas in the mountainous border areas between Quindio and Tolima departments. ](/news/2007/09/2/ten-colombian-soldiers-are-killed-and-five-are-missing-during-a-shootout-with-farc-guerillas-in-the-mountainous-border-areas-between-quinda.md)
-_Context: Colombia, Quindio, Tolima department, rebel leader_
+_Context: Colombia, FARC, Quindio, Tolima department_
 
 ### [ At least two people are killed and a dozen injured in three simultaneous explosions in Kathmandu in Nepal. ](/news/2007/09/2/at-least-two-people-are-killed-and-a-dozen-injured-in-three-simultaneous-explosions-in-kathmandu-in-nepal.md)
 _Context: Kathmandu, Nepal_

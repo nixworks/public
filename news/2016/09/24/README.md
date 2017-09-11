@@ -7,7 +7,7 @@ _Context: Iraqi Civil War (2014-present), Iraqi security forces, Tikrit_
 HUNGARIAN police are hunting a man they believed plotted a cold blooded terror attack after a massive explosion seriously injured two officers in the capital Budapest on Saturday.
 
 ### [The Revolutionary Armed Forces of Colombia (FARC), the country's largest rebel group, gives its approval to a peace deal agreement with the government. President Juan Manuel Santos and FARC leader Timoleon Jimenez, known as Timochenko, will sign the agreement on September 26. To complete the approval process, a referendum will be held on October 2. ](/news/2016/09/24/the-revolutionary-armed-forces-of-colombia-farc-the-country-s-largest-rebel-group-gives-its-approval-to-a-peace-deal-agreement-with-the.md)
-_Context: Colombian conflict, Colombian peace agreement referendum, 2016, Juan Manuel Santos, Rodrigo Londono's, rebel leader_
+_Context: Colombian conflict, Colombian peace agreement referendum, 2016, FARC, Juan Manuel Santos, Rodrigo Londono's_
 
 ### [The New South Wales State Emergency Service warns residents of the Australian town of Forbes to evacuate as the Lachlan River floods. ](/news/2016/09/24/the-new-south-wales-state-emergency-service-warns-residents-of-the-australian-town-of-forbes-to-evacuate-as-the-lachlan-river-floods.md)
 _Context: Australia, Forbes, Lachlan River_

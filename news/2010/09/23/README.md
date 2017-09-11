@@ -4,7 +4,7 @@
 Somali journalists refuse to obey the editorial orders of an Islamist group which seized their radio station, amid heavy fighting in the capital, Mogadishu.
 
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)
-_Context: Colombian Armed Forces, Victor Julio Suarez Rojas, nom de guerre, rebel leader_
+_Context: Colombian Armed Forces, FARC, Victor Julio Suarez Rojas, nom de guerre_
 
 ### [2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. ](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-launch-a-new-round-of-strikes-over-plans-by-the-president-nicolas-sarkozy-to-lift-the-pension-ag.md)
 Tens of thousands of people take to the streets for the second major protest against pension reform plans in a month.

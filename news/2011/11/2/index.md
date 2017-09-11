@@ -13,7 +13,7 @@ _Context: Australian, High Court, Julian Assange, Sweden, WikiLeaks_
 Four Georgia men have been accused of plotting to buy explosives and manufacture a deadly biological toxin: Ricin.
 
 ### [Russian arms dealer Viktor Bout is convicted in New York City for conspiracy to smuggle weapons to the Colombian terrorist group FARC. ](/news/2011/11/2/russian-arms-dealer-viktor-bout-is-convicted-in-new-york-city-for-conspiracy-to-smuggle-weapons-to-the-colombian-terrorist-group-farc.md)
-_Context: Colombia, New York City, Russian, Viktor Bout, rebel leader_
+_Context: Colombia, FARC, New York City, Russian, Viktor Bout_
 
 ### [American actress Lindsay Lohan is sentenced to 30 days in a Los Angeles jail for breaching the terms of her parole. ](/news/2011/11/2/american-actress-lindsay-lohan-is-sentenced-to-30-days-in-a-los-angeles-jail-for-breaching-the-terms-of-her-parole.md)
 _Context: American, Lindsay Lohan, Los Angeles_
