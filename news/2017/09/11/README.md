@@ -28,7 +28,7 @@ Eight to 10 members of a remote indigenous group were allegedly killed by men wo
 California on Monday sued the Trump administration, challenging as unconstitutional the president’s plan to rescind a program to protec...
 
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
-_Context: Justice, Philippine, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
+_Context: Justice, Philippines, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
 
 ### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)
 _Context: Barcelona, Catalan independence, National Day of Catalonia, independence referendum_
