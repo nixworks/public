@@ -43,7 +43,7 @@ Up to 26 people were injured, three seriously, when a Luas tram collided with a 
 _Context: East Africa, TEAMS, broadband_
 
 ### [ Egyptian border guards shoot dead two sub-Saharan migrants, bringing to at least 14 the number killed this year as they try to cross illegally into Israel. ](/news/2009/09/16/egyptian-border-guards-shoot-dead-two-sub-saharan-migrants-bringing-to-at-least-14-the-number-killed-this-year-as-they-try-to-cross-illega.md)
-_Context: Egypt, Israel, Sahara_
+_Context: Egypt's, Israel, Sahara_
 
 ### [ A lightning bolt kills five children at their school in Bamali, Cameroon, as they are preparing to begin their school day. ](/news/2009/09/16/a-lightning-bolt-kills-five-children-at-their-school-in-bamali-cameroon-as-they-are-preparing-to-begin-their-school-day.md)
 _Context: Bamali, Cameroon_

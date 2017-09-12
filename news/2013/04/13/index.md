@@ -31,7 +31,7 @@ _Context: China, U.S., cybersecurity_
 _Context: Magnitsky Act, Russia, U.S., diplomat_
 
 ### [Former Egyptian President Hosni Mubarak's retrial on charges of corruption and conspiracy to kill protesters during the 2011 Egyptian revolution is transferred to another court. ](/news/2013/04/13/former-egyptian-president-hosni-mubarak-s-retrial-on-charges-of-corruption-and-conspiracy-to-kill-protesters-during-the-2011-egyptian-revolu.md)
-_Context: 2011 Egyptian revolution, Egypt, Egyptian President, Hosni Mubarak, conspiracy, corruption, protester_
+_Context: 2011 Egyptian revolution, Egypt's, Egyptian President, Hosni Mubarak, conspiracy, corruption, protester_
 
 ### [A man suspected of a shooting at the New River Community College in Christiansburg, Virginia, United States, is charged with multiple counts of malicious wounding and use of a firearm during the commission of a felony, and held without bail. ](/news/2013/04/13/a-man-suspected-of-a-shooting-at-the-new-river-community-college-in-christiansburg-virginia-united-states-is-charged-with-multiple-counts.md)
 CHRISTIANSBURG, Va. (AP) — An 18-year-old college student was charged Friday with shooting and wounding two women at a mall branch of a southwest Virginia community college before he was subdued, the city&#x27;s police chief said.

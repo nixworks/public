@@ -49,7 +49,7 @@ _Context: Mitt Romney, Republican primaries, Rick Santorum, candidacy_
 The wife of Bo Xilai, who had been seen as one of the handful of rising leaders slated to run China, is being investigated in the killing of a businessman, Neil Heywood, last year.
 
 ### [An Egyptian court halts the creation of a constitutional assembly pending a ruling on its legality. ](/news/2012/04/10/an-egyptian-court-halts-the-creation-of-a-constitutional-assembly-pending-a-ruling-on-its-legality.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ## [Previous Day...](/news/2012/04/9/index.md)
 

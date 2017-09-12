@@ -10,7 +10,7 @@ _Context: 2010-2011 Ivorian crisis, Abidjan_
 Twenty-one of the 23 oil workers kidnapped on Monday in the eastern department of Vichada have been rescued by Colombia&#8217;s armed forces, W Radio reports. According to the army, one&hellip;
 
 ### [One person is killed in clashes between Coptic Christians and Muslims in the Egyptian capital Cairo. ](/news/2011/03/8/one-person-is-killed-in-clashes-between-coptic-christians-and-muslims-in-the-egyptian-capital-cairo.md)
-_Context: Cairo, Christian, Copt, Egypt, Muslim_
+_Context: Cairo, Christian, Copt, Egypt's, Muslim_
 
 ### [Police in Pakistan arrest a suspect over a car bombing in the eastern city of Faisalabad. ](/news/2011/03/8/police-in-pakistan-arrest-a-suspect-over-a-car-bombing-in-the-eastern-city-of-faisalabad.md)
 Pakistan arrests a man after at least 25 people killed in an apparent car bomb blast at a gas station in Faisalabad.
@@ -28,7 +28,7 @@ _Context: California, Los Angeles, California, Redondo Beach_
 _Context: Harrisburg, PA_
 
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
-_Context: China, Philippines, Spratly Islands, Vietnam_
+_Context: China, Philippine, Spratly Islands, Vietnam_
 
 ### [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-deve.md)
 _Context: Hideyuki Yoshioka, Japan, Ministry of Defense, stealth fighter_

@@ -46,7 +46,7 @@ Dozens protesting arrest of opposition Islamic party leaders injured in clashes.
 _Context: 6.2-magnitude earthquake, Mexico, Mexico City, Pinotepa Nacional_
 
 ### [An unfinished secret tomb is found in Egypt. ](/news/2010/06/30/an-unfinished-secret-tomb-is-found-in-egypt.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ### [The discovery of fossilized remains of "Leviathan melvillei", an extinct species of physeteroid whale, is announced in "Nature". ](/news/2010/06/30/the-discovery-of-fossilized-remains-of-leviathan-melvillei-an-extinct-species-of-physeteroid-whale-is-announced-in-nature.md)
 _Context: Leviathan melvillei, Nature, physeteroid, whale_

@@ -10,7 +10,7 @@ The UN Security Council is preparing to meet in emergency session on the growing
 5:00 AM PT (8/29) -- Melissa Rivers released a statement saying Joan is now &quot;resting comfortably.&quot;8:49 AM PT -- The NYPD tells us ... Joan is currently in&hellip;
 
 ### [The Philippines economy grows by 6.4% in Q2 showing signs of recovery after it was devastated by Typhoon Haiyan in 2013. ](/news/2014/08/28/the-philippines-economy-grows-by-6-4-in-q2-showing-signs-of-recovery-after-it-was-devastated-by-typhoon-haiyan-in-2013.md)
-_Context: Philippines, Typhoon Haiyan (Yolanda)_
+_Context: Philippine, Typhoon Haiyan (Yolanda)_
 
 ### [Health Ministers from the Economic Community of West African States will meet in Accra, Ghana to discuss the crisis. ](/news/2014/08/28/health-ministers-from-the-economic-community-of-west-african-states-will-meet-in-accra-ghana-to-discuss-the-crisis.md)
 A top US public health official says the Ebola outbreak is set to get worse before it gets better, as West African health ministers meet in Ghana.

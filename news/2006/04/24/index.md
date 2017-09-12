@@ -13,7 +13,7 @@ _Context: Mahmoud Ahmadinejad, President, sporting events in Iran_
 _Context: Maoist, reinstated last week after a 4-year hiatus_
 
 ### [ 2006 Dahab bombings: Witnesses reporting hearing three explosions in the Egyptian Sinai resort town of Dahab at about 1715 UTC. Dr. Said Essa, who runs the Sinai Peninsula rescue squad, estimates there were at least 100 dead or wounded. ](/news/2006/04/24/2006-dahab-bombings-witnesses-reporting-hearing-three-explosions-in-the-egyptian-sinai-resort-town-of-dahab-at-about-1715-utc-dr-said-es.md)
-_Context: 2006 Dahab bombings, Dahab, Egypt, Sinai_
+_Context: 2006 Dahab bombings, Dahab, Egypt's, Sinai Peninsula_
 
 ### [ Pope Benedict XVI is reported to have agreed to a relaxation of rules for the use of condoms. ](/news/2006/04/24/pope-benedict-xvi-is-reported-to-have-agreed-to-a-relaxation-of-rules-for-the-use-of-condoms.md)
 _Context: Pope Benedict XVI, condoms_

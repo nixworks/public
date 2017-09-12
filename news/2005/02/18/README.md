@@ -22,7 +22,7 @@ _Context: Gyanendra of Nepal, King, National Democratic Day, Nepal, government, 
 _Context: Hunting Act 2004_
 
 ### [ Iraq War: The American Civil Liberties Union releases documents obtained from the United States Army alleging the destruction of photographs documenting the army's abuse of prisoners in Iraq, following the exposure of the Abu Ghraib scandal. ([http://story.news.yahoo.com/news?tmpl=story2&u=/ap/20050218/ap_on_go_ca_st_pe/afghan_abuse AP]).](/news/2005/02/18/iraq-war-the-american-civil-liberties-union-releases-documents-obtained-from-the-united-states-army-alleging-the-destruction-of-photograph.md)
-_Context: Abu Ghraib, Abu Ghraib abuse, Abu Ghraib prison, American Civil Liberties Union, Iraq War, United States Army, scandal_
+_Context: Abu Ghraib, Abu Ghraib abuse, Abu Ghraib prison, American Civil Liberties Union, Iraq War, U.S. soldiers, scandal_
 
 ### [ Sir Mark Thatcher returns to court in Cape Town, South Africa, to answer charges about his involvement in a coup attempt in Equatorial Guinea. ](/news/2005/02/18/sir-mark-thatcher-returns-to-court-in-cape-town-south-africa-to-answer-charges-about-his-involvement-in-a-coup-attempt-in-equatorial-guin.md)
 _Context: Cape Town, Equatorial Guinea, Mark Thatcher, coup d'tat_

@@ -7,13 +7,13 @@ _Context: Giridih district, India, Jharkhand_
 Terrorist group ISIS released a video Saturday purportedly showing the execution of British aid worker David Cawthorne Haines.
 
 ### [At least 29 people are missing after the ferry MV "Maharlika II" sinks off the Philippines coast. ](/news/2014/09/13/at-least-29-people-are-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-coast.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [Yeh Wen-hsiang, the chairman of Chang Guann Co, is arrested for fraud for his role in the scandal. ](/news/2014/09/13/yeh-wen-hsiang-the-chairman-of-chang-guann-co-is-arrested-for-fraud-for-his-role-in-the-scandal.md)
 The head of a Taiwanese company at the centre of a widening food safety scandal has been detained for selling hundreds of tonnes of &quot;gutter oil&quot; that caused mass product recalls, authorities said Saturday.
 
 ### [The government of Qatar asks exiled leaders of Egypt's Muslim Brotherhood to leave. ](/news/2014/09/13/the-government-of-qatar-asks-exiled-leaders-of-egypt-s-muslim-brotherhood-to-leave.md)
-_Context: Egypt, Egyptian Muslim Brotherhood, Qatar_
+_Context: Egypt's, Egyptian Muslim Brotherhood, Qatar_
 
 ## [Previous Day...](/news/2014/09/12/index.md)
 

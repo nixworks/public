@@ -1,7 +1,7 @@
 ## [2006-07-7](/news/2006/07/7/index.md)
 
 ### [ Craigslist is sued because of illegal posts to that website. Amazon, eBay, AOL, Yahoo, and Google all file briefs as friends of the court in support of Craigslist. ](/news/2006/07/7/craigslist-is-sued-because-of-illegal-posts-to-that-website-amazon-ebay-aol-yahoo-and-google-all-file-briefs-as-friends-of-the-court-i.md)
-_Context: AOL, Amazon.com, Craigslist, Google, Yahoo!, eBay, friends of the court, sue_
+_Context: AOL, Amazon.com, Craigslist, Google, Yahoo!, eBay, friends of the court, lawsuit_
 
 ### [ Ayman al Zawahri, deputy of al-Qaeda claims that two of the London bombers trained with al-Qaeda on a video posted on a website. The two men he identified as training with them are Shehzad Tanweer and Mohammad Sidique Khan. ](/news/2006/07/7/ayman-al-zawahri-deputy-of-al-qaeda-claims-that-two-of-the-london-bombers-trained-with-al-qaeda-on-a-video-posted-on-a-website-the-two-me.md)
 The Sydney Morning Herald 404 Page

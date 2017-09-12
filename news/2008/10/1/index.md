@@ -13,7 +13,7 @@ _Context: California, Chatsworth train collision, Los Angeles, California, Metro
 _Context: John So, Mayor, Melbourne_
 
 ### [ United States Army General David D. McKiernan, the commander of NATO forces in Afghanistan, says that a greater military presence is "needed as quickly as possible." ](/news/2008/10/1/united-states-army-general-david-d-mckiernan-the-commander-of-nato-forces-in-afghanistan-says-that-a-greater-military-presence-is-neede.md)
-_Context: Afghanistan's, David D. McKiernan, NATO, United States Army, general_
+_Context: Afghanistan's, David D. McKiernan, NATO, U.S. soldiers, general_
 
 ### [ U.S. Representative Carol Shea-Porter says that "more than 400 economists, including Nobel laureates, appealed to Congress to slow down and make sure [they] got [the bailout bill] right". ](/news/2008/10/1/u-s-representative-carol-shea-porter-says-that-more-than-400-economists-including-nobel-laureates-appealed-to-congress-to-slow-down-and.md)
 _Context: Carol Shea-Porter, Congress, Nobel Memorial Prize in Economic Sciences, United States House of Representatives, proposed bailout plan_

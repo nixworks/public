@@ -13,7 +13,7 @@ _Context: Germany, Holocaust, John Demjanjuk, Polish, Sobibor extermination camp
 _Context: A Holocaust survivor group, Holocaust, The Church of Jesus Christ of Latter-day Saints, posthumous baptism_
 
 ### [ Egypt's antiquities chief, Zahi Hawass, announces the discovery of a 4,300-year-old pyramid belonging to Queen Sesheshet, mother of King Teti. ](/news/2008/11/11/egypt-s-antiquities-chief-zahi-hawass-announces-the-discovery-of-a-4-300-year-old-pyramid-belonging-to-queen-sesheshet-mother-of-king-te.md)
-_Context: Egypt, Sesheshet, Teti, Zahi Hawass_
+_Context: Egypt's, Sesheshet, Teti, Zahi Hawass_
 
 ### [ Former President Chen Shui-bian of the Republic of China is arrested while the anti-corruption prosecutors have asked a three-judge panel to formally detain the former President. ](/news/2008/11/11/former-president-chen-shui-bian-of-the-republic-of-china-is-arrested-while-the-anti-corruption-prosecutors-have-asked-a-three-judge-panel-t.md)
 _Context: Chen Shui-bian, President, Taiwan_

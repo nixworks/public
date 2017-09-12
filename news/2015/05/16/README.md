@@ -4,10 +4,10 @@
 _Context: Abu Sayyaf, ISIL, special forces_
 
 ### [An Egyptian court sentences deposed President Mohamed Morsi to death for his part in the Egyptian Revolution of 2011. ](/news/2015/05/16/an-egyptian-court-sentences-deposed-president-mohamed-morsi-to-death-for-his-part-in-the-egyptian-revolution-of-2011.md)
-_Context: 2011 Egyptian revolution, Egypt, Egyptian President, Mohamed Morsi_
+_Context: 2011 Egyptian revolution, Egypt's, Egyptian President, Mohamed Morsi_
 
 ### [Sinai insurgency: In response to Morsi's sentence, gunmen fatally shoot three Egyptian judges in the Sinai Peninsula. ](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.md)
-_Context: Sinai, Sinai insurgency, term_
+_Context: Sinai Peninsula, Sinai insurgency, term_
 
 ### [An Egyptian court bans hardcore football clubs over terrorism accusations. In 2012 over 70 football fans were killed and 500 injured in the Port Said Stadium riot. ](/news/2015/05/16/an-egyptian-court-bans-hardcore-football-clubs-over-terrorism-accusations-in-2012-over-70-football-fans-were-killed-and-500-injured-in-the.md)
 _Context: Port Said Stadium riot, football_

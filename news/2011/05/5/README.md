@@ -46,7 +46,7 @@ Foreign Secretary William Hague ordered the expulsion of two more Libyan diploma
 _Context: Ayatollah Khamenei, Binyamin Netanyahu, Israeli Prime Minister, Osama bin Laden, Supreme Leader of Iran, father's killing_
 
 ### [Former Egyptian interior minister Habib al-Adli is sentenced to 12 years imprisonment on corruption charges. ](/news/2011/05/5/former-egyptian-interior-minister-habib-al-adli-is-sentenced-to-12-years-imprisonment-on-corruption-charges.md)
-_Context: Egypt, Habib al-Adli_
+_Context: Egypt's, Habib al-Adli_
 
 ### [Sandor Kepiro goes on trial in Hungary for alleged war crimes during World War II while serving with the Hungarian Army in Serbia in 1942. ](/news/2011/05/5/sa-ndor-ka-c-para3-goes-on-trial-in-hungary-for-alleged-war-crimes-during-world-war-ii-while-serving-with-the-hungarian-army-in-serbia-in-194.md)
 A 97-year-old Hungarian, Sandor Kepiro, goes on trial in Budapest accused of massacring civilians in Serbia in 1942.

@@ -34,7 +34,7 @@ SEOUL (AFP) - South Korea on Saturday confirmed nine more cases of the MERS viru
 Agreement signed in Dhaka to allow people living stateless in border enclaves finally to choose their nationality.
 
 ### [Reuters reports that an Egyptian court has overturned a ruling that Hamas is a terrorist organisation. ](/news/2015/06/6/reuters-reports-that-an-egyptian-court-has-overturned-a-ruling-that-hamas-is-a-terrorist-organisation.md)
-_Context: Egypt, Hamas, Reuters, terrorism_
+_Context: Egypt's, Hamas, Reuters, terrorism_
 
 ### [Five police are injured following violent protests at a gay pride march in Kiev. ](/news/2015/06/6/five-police-are-injured-following-violent-protests-at-a-gay-pride-march-in-kiev.md)
 _Context: Kiev, gay pride, police_

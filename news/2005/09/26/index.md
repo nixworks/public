@@ -1,7 +1,7 @@
 ## [2005-09-26](/news/2005/09/26/index.md)
 
 ### [ U.S. Army PFC Lynndie England is found guilty of six of seven charges by a military court in connection with the Abu Ghraib prisoner abuse scandal. A sentencing hearing is scheduled to begin September 27. [http://news.yahoo.com/s/ap/20050926/ap_on_go_ca_st_pe/prisoner_abuse_england (Yahoo!News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/u-s-army-pfc-lynndie-england-is-found-guilty-of-six-of-seven-charges-by-a-military-court-in-connection-with-the-abu-ghraib-prisoner-abuse.md)
-_Context: Abu Ghraib abuse, Lynndie England, PFC, September 27, United States Army_
+_Context: Abu Ghraib abuse, Lynndie England, PFC, September 27, U.S. soldiers_
 
 ### [ Anti-Iraq War activist Cindy Sheehan is arrested while protesting outside the White House. [http://news.yahoo.com/s/ap/20050926/ap_on_re_us/war_demonstrations_8 (Yahoo! News)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/anti-iraq-war-activist-cindy-sheehan-is-arrested-while-protesting-outside-the-white-house-http-news-yahoo-com-s-ap-20050926-ap_on_re_us.md)
 _Context: 2003 invasion of Iraq, Cindy Sheehan, White House, arrest_
@@ -16,7 +16,7 @@ _Context: Al Jazeera, Driss Chebli, Imad Yarkas, September 11, 2001 attacks, Spa
 _Context: Baghdad, Iraqi insurgency, Iskandariya, school_
 
 ### [ Israeli-Palestinian conflict: Israeli Airstrikes on Palestinian targets continue, with the Israel Defense Forces firing missiles in Gaza, knocking out the power supply to the East of the city, the Khan Yunis refugee camp and Rafah. Hamas had earlier declared an end to rocket attacks following pressure from the Palestinian National Authority and Egypt. ](/news/2005/09/26/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-targets-continue-with-the-israel-defense-forces-firing-missiles-in-gaza-k.md)
-_Context: Egypt, Gaza Strip, Hamas, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, Palestinian, Palestinian National Authority, Rafah, airstrike_
+_Context: Egypt's, Gaza Strip, Hamas, Israel, Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, Palestinian, Palestinian National Authority, Rafah, airstrike_
 
 ### [ An Israeli citizen from an Israeli settlement east of Jerusalem was found murdered in Ramallah after Hamas killed the man they accused of being a member of the Shabak. ](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.md)
 _Context: Hamas, Israel, Israeli settlement, Jerusalem, Ramallah, Shin Bet's_

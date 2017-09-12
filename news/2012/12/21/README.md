@@ -1,7 +1,7 @@
 ## [2012-12-21](/news/2012/12/21/index.md)
 
 ### [Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md)
-_Context: Alexandria, Egypt, constitutional referendum_
+_Context: Alexandria, Egypt's, constitutional referendum_
 
 ### [At least 39 people are killed in clashes between rival communities in Kenya. ](/news/2012/12/21/at-least-39-people-are-killed-in-clashes-between-rival-communities-in-kenya.md)
 At least 39 people have been killed in fresh clashes between rival communities in southern Kenya, police say, stoking fears of election violence.

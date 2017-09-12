@@ -7,7 +7,7 @@ _Context: National Resistance Movement, Uganda, national service_
 The passenger plane that crashed and burned on landing in Brazil killing about 200 people was flying with a fault in the equipment meant to slow it down, the airline&#039;s owner says.
 
 ### [ Two United States Army soldiers are charged with murder of an Iraqi and their battalion commander is relieved of duty due to the incident. ](/news/2007/07/19/two-united-states-army-soldiers-are-charged-with-murder-of-an-iraqi-and-their-battalion-commander-is-relieved-of-duty-due-to-the-incident.md)
-_Context: Iraq, United States Army, battalion_
+_Context: Iraq, U.S. soldiers, battalion_
 
 ### [ In the United Kingdom, the Labour Party wins a by-election in the seat of Sedgefield formerly held by Tony Blair as well as the constituency of Ealing Southall. ](/news/2007/07/19/in-the-united-kingdom-the-labour-party-wins-a-by-election-in-the-seat-of-sedgefield-formerly-held-by-tony-blair-as-well-as-the-constituenc.md)
 _Context: Ealing Southall, Labour, Sedgefield, Tony Blair, by-election_

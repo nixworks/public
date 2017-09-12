@@ -25,7 +25,7 @@ _Context: Christian Council of Korea, Christmas tree, North Korea, South Korea_
 _Context: Athens, Greek, anarchist_
 
 ### [An Egyptian court sentences 185 people to death over their alleged involvement in a lethal attack on a police station on the outskirts of Cairo. ](/news/2014/12/2/an-egyptian-court-sentences-185-people-to-death-over-their-alleged-involvement-in-a-lethal-attack-on-a-police-station-on-the-outskirts-of-ca.md)
-_Context: Cairo, Egypt_
+_Context: Cairo, Egypt's_
 
 ### [Israeli prime minister Benjamin Netanyahu fires Justice Minister Tzipi Livni and Finance Minister Yair Lapid amid the imminent breakup of the government coalition and dissolution of the Knesset ahead of new elections. ](/news/2014/12/2/israeli-prime-minister-benjamin-netanyahu-fires-justice-minister-tzipi-livni-and-finance-minister-yair-lapid-amid-the-imminent-breakup-of-th.md)
 PM says he won&#8217;t tolerate presence of cabinet members who &#8216;attack government policies&#8217;; Yesh Atid party: Sacking minister &#8216;is an act of cowardice and loss of control&#8217;

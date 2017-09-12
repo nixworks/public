@@ -10,7 +10,7 @@ _Context: Carlos Vielman, El Salvador, Guatemala_
 _Context: Action democratique du Quebec, Liberal Party, Parti Quebecois, Quebec general election, Quebec sovereignty movement, conservative, minority government_
 
 ### [ Nine United States Army officers including four generals could face disciplinary proceedings as a result of mistakes made in the aftermath of the friendly-fire death of Pat Tillman. ](/news/2007/03/26/nine-united-states-army-officers-including-four-generals-could-face-disciplinary-proceedings-as-a-result-of-mistakes-made-in-the-aftermath.md)
-_Context: General, Pat Tillman, United States Army, friendly fire_
+_Context: General, Pat Tillman, U.S. soldiers, friendly fire_
 
 ### [ India's DRDO successfully test fires a new version of the Astra air-to-air missile. ](/news/2007/03/26/india-s-drdo-successfully-test-fires-a-new-version-of-the-astra-air-to-air-missile.md)
 _Context: Astra, DRDO, India, air-to-air missile_

@@ -22,7 +22,7 @@ Eighteen injured in explosion in city of Yala, which triggered a large fire that
 _Context: Colombia, FARC, International Red Cross_
 
 ### [Egypt's Minister of State for Antiquities Zahi Hawass says several pieces have been stolen from the Egyptian Museum during the revolution. ](/news/2011/02/13/egypt-s-minister-of-state-for-antiquities-zahi-hawass-says-several-pieces-have-been-stolen-from-the-egyptian-museum-during-the-revolution.md)
-_Context: 2011 Egyptian revolution, Egypt, Egyptian Museum, Zahi Hawass_
+_Context: 2011 Egyptian revolution, Egypt's, Egyptian Museum, Zahi Hawass_
 
 ### [A giant Andy Scott sculpture is knocked over in a car accident in Tullibody, Clackmannanshire. ](/news/2011/02/13/a-giant-andy-scott-sculpture-is-knocked-over-in-a-car-accident-in-tullibody-clackmannanshire.md)
 A giant steel sculpture of a striding man by public artist Andy Scott is knocked over in a car accident.

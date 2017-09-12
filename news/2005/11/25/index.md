@@ -4,13 +4,13 @@
 _Context: Polish Minister of National Defence, Radek Sikorski, Soviet, Warsaw Pact, Western Europe_
 
 ### [ The European Commission starts a legal action against the Bank of Italy and its President, Antonio Fazio, who allegedly favoured the Italian bank Banca Popolare Italiana in the race to acquire Banca Antonveneta, thus penalising Dutch group ABN AMRO. ](/news/2005/11/25/the-european-commission-starts-a-legal-action-against-the-bank-of-italy-and-its-president-antonio-fazio-who-allegedly-favoured-the-italia.md)
-_Context: ABN Amro, Antonio Fazio, Banca Antonveneta, Banca Popolare Italiana, Bank of Italy, European Commission, Italy, Netherlands, sue_
+_Context: ABN Amro, Antonio Fazio, Banca Antonveneta, Banca Popolare Italiana, Bank of Italy, European Commission, Italy, Netherlands, lawsuit_
 
 ### [ Conflict in Iraq: German archaeologist Susanne Osthoff is kidnapped in Iraq. ](/news/2005/11/25/conflict-in-iraq-german-archaeologist-susanne-osthoff-is-kidnapped-in-iraq.md)
 _Context: Archaeologist, Conflict in Iraq, Germany, Iraq, Susanne Osthoff_
 
 ### [ Cebu leads the "soft-opening" of the 23rd Southeast Asian Games in the Philippines. Games will formally start on November 27, 2005, at Manila's Quirino Grandstand. ](/news/2005/11/25/cebu-leads-the-soft-opening-of-the-23rd-southeast-asian-games-in-the-philippines-games-will-formally-start-on-november-27-2005-at-mani.md)
-_Context: Cebu City, Manila, Philippines, Southeast Asian Games_
+_Context: Cebu City, Manila, Philippine, Southeast Asian Games_
 
 ### [ The president of Ukraine, Viktor Yushchenko, calls for the Holodomor to be internationally recognised as an act of genocide. ](/news/2005/11/25/the-president-of-ukraine-viktor-yushchenko-calls-for-the-holodomor-to-be-internationally-recognised-as-an-act-of-genocide.md)
 _Context: Ukraine, Viktor Yushchenko, famine in Ukraine in 1932-1933, genocide_

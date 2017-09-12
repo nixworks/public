@@ -37,7 +37,7 @@ The Vatican says the detention of priests in a Belgian inquiry into alleged chil
 Thousands protest in the Taiwanese capital about a trade deal with China, which they fear will lead to a Chinese takeover.
 
 ### [Several thousand Egyptians, joined by opposition leader Mohamed ElBaradei, protest systematic use of torture by authorities in the largest demonstration yet resulting from the alleged fatal beating to death of Khaled Said by police. ](/news/2010/06/26/several-thousand-egyptians-joined-by-opposition-leader-mohamed-elbaradei-protest-systematic-use-of-torture-by-authorities-in-the-largest-d.md)
-_Context: Egypt, Mohamed ElBaradei, death of Khaled Said_
+_Context: Egypt's, Mohamed ElBaradei, death of Khaled Said_
 
 ### [Two Palestinians are killed in an Israeli strike on two underground tunnels from the Gaza Strip to Israel. The IDF claims the attack was a response to Thursday's firing of a dozen mortar rounds towards Israel. ](/news/2010/06/26/two-palestinians-are-killed-in-an-israeli-strike-on-two-underground-tunnels-from-the-gaza-strip-to-israel-the-idf-claims-the-attack-was-a-r.md)
 _Context: Gaza Strip, Israel, Israel Defense Forces_

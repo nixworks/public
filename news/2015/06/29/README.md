@@ -13,7 +13,7 @@ Police say security forces arrested Palestinian woman who approached checkpoint 
 _Context: Chad, N'Djamena_
 
 ### [Egypt's state prosecutor Hisham Barakat dies in a bomb attack in Cairo. ](/news/2015/06/29/egypt-s-state-prosecutor-hisham-barakat-dies-in-a-bomb-attack-in-cairo.md)
-_Context: Cairo, Egypt, Hisham Barakat_
+_Context: Cairo, Egypt's, Hisham Barakat_
 
 ### [According to witnesses who fled fighting in Nangarhar province, fighters loyal to Islamic State seize substantial territory in Afghanistan for the first time, wresting areas in the east from rival Taliban insurgents in a new threat to stability, scorching opium poppy fields that help to fund the Taliban's campaign to overthrow the Afghan government. ](/news/2015/06/29/according-to-witnesses-who-fled-fighting-in-nangarhar-province-fighters-loyal-to-islamic-state-seize-substantial-territory-in-afghanistan-f.md)
 Hundreds of insurgents pledging allegiance to Islamic State pushed out the Taliban.

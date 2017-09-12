@@ -19,7 +19,7 @@ _Context: Aung San Suu Kyi, Burma_
 The Nobel Peace Prize, which President Obama described as a “call to action,” was an extraordinary recognition for so early in a presidential term and a potential political liability at home.
 
 ### [ More than 181 people are killed in floods in the Philippines. ](/news/2009/10/9/more-than-181-people-are-killed-in-floods-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [ Six Vietnamese pro-democracy activists are sentenced to up to six years in prison for "spreading propaganda" against the government. ](/news/2009/10/9/six-vietnamese-pro-democracy-activists-are-sentenced-to-up-to-six-years-in-prison-for-spreading-propaganda-against-the-government.md)
 Vietnam jailed six people on Friday for advocating democracy after similar sentences to three others earlier in the week, moves that analysts say look choreographed to deter dissent in the run up to a major Communist meeting.

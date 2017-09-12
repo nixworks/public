@@ -7,10 +7,10 @@ _Context: Beck, Guero_
 _Context: Neil Young, neuroradiological_
 
 ### [ The E-mail spammer Scott Richter of "OptInRealBig.com" has filed for bankruptcy protection in Denver. The reason claimed is a costly legal battle with Microsoft. ](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.md)
-_Context: Denver, Microsoft, Scott Richter, bankruptcy, spam, sue_
+_Context: Denver, Microsoft, Scott Richter, bankruptcy, lawsuit, spam_
 
 ### [ "MGM Studios v. Grokster", an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-suprem.md)
-_Context: File sharing, MGM Studios v. Grokster, P2P, United States Supreme Court, sue_
+_Context: File sharing, MGM Studios v. Grokster, P2P, United States Supreme Court, lawsuit_
 
 ### [ Lord Paddy Ashdown, High Representative in Bosnia and Herzegovina has sacked Dragan Covic, Croat member of the Presidency of Bosnia and Herzegovina, after he has been charged (but not tried yet) for financial corruption. ](/news/2005/03/29/lord-paddy-ashdown-high-representative-in-bosnia-and-herzegovina-has-sacked-dragan-aovia-croat-member-of-the-presidency-of-bosnia-and-h.md)
 _Context: Bosnia and Herzegovina, Croat, Dragan Covic, High Representative, Lord, Paddy Ashdown, anti-corruption, presidency_

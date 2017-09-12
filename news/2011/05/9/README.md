@@ -10,7 +10,7 @@ Forensic experts have unearthed about 68 bodies from another cluster of mass gra
 Not everyone regards Victory Day as a cause for celebration. In Western Ukraine, nationalist party members have violently disrupted a memorial service as veterans paid tribute to those who perished in the war.
 
 ### [Ali Gomaa, the Islamic Grand Mufti of Egypt, warns of the potential of civil war because of "outlaws who want to defy the authority of the state". ](/news/2011/05/9/ali-gomaa-the-islamic-grand-mufti-of-egypt-warns-of-the-potential-of-civil-war-because-of-outlaws-who-want-to-defy-the-authority-of-the-s.md)
-_Context: Ali Gomaa, Egypt, Grand Mufti, Muslims_
+_Context: Ali Gomaa, Egypt's, Grand Mufti, Muslims_
 
 ### [2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. ](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripoli-in-libya-following-the-heaviest-nato-bombing-offensive-in-a-week.md)
 _Context: Libya, Libyan Civil War, NATO, Tripoli_

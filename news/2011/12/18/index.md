@@ -22,7 +22,7 @@ _Context: Binzhou City, China, Hunan Province, coal mine_
 Rescuers have saved 14 of the 67 people who were on board a floating oil rig which capsized in the Sea of Okhotsk in Russia’s Far East, according to latest reports.
 
 ### [The Philippines Red Cross estimates that the death toll from the floods caused by Tropical Storm Washi has risen to 521. ](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.md)
-_Context: Philippines, Red Cross, Tropical Storm Washi_
+_Context: Philippine, Red Cross, Tropical Storm Washi_
 
 ### [Iran releases two Kuwaiti journalists accused of spying. ](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.md)
 _Context: Iran, Kuwait, spying_

@@ -46,7 +46,7 @@ U.S. health regulators on Thursday cleared the way for a type of genetically eng
 Extensive advertisements of direct-to-consumer prescription drugs and medical devices should be banned because patients are now driven to opt for inappropriate, expensive treatments even if cheaper ones have the same potentials.
 
 ### [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md)
-_Context: APEC Philippines 2015, Asia Pacific, Asia-Pacific Economic Cooperation, November 2015 Paris Attacks, Philippines, terrorism_
+_Context: APEC Philippines 2015, Asia Pacific, Asia-Pacific Economic Cooperation, November 2015 Paris Attacks, Philippine, terrorism_
 
 ### [A Pew Research Center report finds, from 2009 to 2014, more Mexicans, including unauthorized immigrants, are leaving the United States than entering it. An increasing share of Mexicans says life north of the border is neither better nor worse than life in Mexico. ](/news/2015/11/19/a-pew-research-center-report-finds-from-2009-to-2014-more-mexicans-including-unauthorized-immigrants-are-leaving-the-united-states-than.md)
 More Mexicans are leaving the United States than entering it according to a report released on Thursday, at a time when some Republicans, including presidential candidate Donald Trump, have taken a hard line on illegal immigration.

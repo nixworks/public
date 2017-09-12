@@ -61,7 +61,7 @@ _Context: Chinese, Japan, Naoto Kan, Prime Minister of Japan_
 A man can beat his wife and kids as long as no physical marks are left, the highest court in the United Arab Emirates has found.
 
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
-_Context: Philippines, Saudi Arabia, migrant workers_
+_Context: Philippine, Saudi Arabia, migrant workers_
 
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
 _Context: Kurdistan Workers' Party, Turkey_

@@ -25,7 +25,7 @@ _Context: China, Ebola virus epidemic in West Africa, People's Liberation Army, 
 _Context: Asia, Pope Francis, Sri Lanka_
 
 ### [Egypt's highest court overturns and initiates a retrial on the only remaining conviction against former President Hosni Mubarak (a May 2014 sentencing of three years in prison for embezzlement). ](/news/2015/01/13/egypt-s-highest-court-overturns-and-initiates-a-retrial-on-the-only-remaining-conviction-against-former-president-hosni-mubarak-a-may-2014.md)
-_Context: Egypt, Egyptian President, Hosni Mubarak_
+_Context: Egypt's, Egyptian President, Hosni Mubarak_
 
 ### [The U.S. Supreme Court rules 9&ndash;0 in favor of homeowners that the Truth in Lending Act clearly states that a simple notice by the homeowner to the bank within three years seeking to rescind their mortgage suffices over an actual court-filed lawsuit. ](/news/2015/01/13/the-u-s-supreme-court-rules-9-ndash-0-in-favor-of-homeowners-that-the-truth-in-lending-act-clearly-states-that-a-simple-notice-by-the-homeo.md)
 The U.S. Supreme Court on Tuesday ruled in favor of homeowners seeking to back out of mortgages when lenders are accused of failing to follow a federal “truth in lending” law.

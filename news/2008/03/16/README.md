@@ -28,7 +28,7 @@ _Context: 2008 presidential election, rallies, the Republic of China_
 _Context: Chandel, India, Indian Army, Manipur, Minou, United National Liberation Front_
 
 ### [ A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. ](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-south-waziristan-pakistan-kills-at-least-16-people-a-local-tribesman-accuses-the-united-state.md)
-_Context: Pakistan, South Waziristan, U.S., United States Army, Wana, rocket attacks, strike, tribe_
+_Context: Pakistan, South Waziristan, U.S., U.S. soldiers, Wana, rocket attacks, strike, tribe_
 
 ### [ Scientists from Harvard Medical School announce a breakthrough technique that could stop cancer cells' growth by inhibiting the enzyme pyruvate kinase. ](/news/2008/03/16/scientists-from-harvard-medical-school-announce-a-breakthrough-technique-that-could-stop-cancer-cells-growth-by-inhibiting-the-enzyme-pyru.md)
 _Context: Harvard Medical School, cancer, enzyme, inhibiting, pyruvate kinase_

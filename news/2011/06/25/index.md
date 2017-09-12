@@ -34,7 +34,7 @@ _Context: Amtrak, California Zephyr, Nevada_
 Computer hackers appear to have accessed the personal details of Tony Blair after a document containing the former prime minister&rsquo;s national insurance number was published online.
 
 ### [Former Egyptian trade minister, Rashid Mohamed Rashid, is convicted in absentia of profiteering and unlawfully taking money from the country's Export Development Fund and is sentenced to five years in prison and fined nearly 9.4 million Egyptian pound ($1.6 million). ](/news/2011/06/25/former-egyptian-trade-minister-rashid-mohamed-rashid-is-convicted-in-absentia-of-profiteering-and-unlawfully-taking-money-from-the-country.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ### [Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. ](/news/2011/06/25/activist-hu-jia-is-released-after-serving-three-and-a-half-years-in-jail-for-criticising-human-rights-conditions-in-china.md)
 Hu was imprisoned for criticising human rights conditions in China ahead of the 2008 Beijing Olympic Games.

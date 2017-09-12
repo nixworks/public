@@ -16,7 +16,7 @@ _Context: Atlantic Airways Flight 670, Norway, Stord Airport_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Six people die in a bomb attack on a festival in the town of Makilala in the Philippines. Two others are killed and four injured in a blast at a market in Tacurong, Sultan Kudarat. Officials blame Muslim extremist groups. ](/news/2006/10/10/six-people-die-in-a-bomb-attack-on-a-festival-in-the-town-of-makilala-in-the-philippines-two-others-are-killed-and-four-injured-in-a-blast.md)
-_Context: Makilala, Philippines, Sultan Kudarat, Tacurong, bomb attack_
+_Context: Makilala, Philippine, Sultan Kudarat, Tacurong, bomb attack_
 
 ### [ A naval base and oil facility in Bayelsa State, Nigeria, are captured by armed attackers who are now thought to be holding 60 people hostage. ](/news/2006/10/10/a-naval-base-and-oil-facility-in-bayelsa-state-nigeria-are-captured-by-armed-attackers-who-are-now-thought-to-be-holding-60-people-hostag.md)
 _Context: Bayelsa, Nigeria_

@@ -49,7 +49,7 @@ _Context: Arnaldo Otegi, Basque, ETA, Herri Batasuna, Spain, bail_
 _Context: Bislan Ismailov, Chechen, France, Theo van Gogh_
 
 ### [ In Egypt, referendum favours constitutional changes for presidential elections with 83% in favour ](/news/2005/05/26/in-egypt-referendum-favours-constitutional-changes-for-presidential-elections-with-83-in-favour.md)
-_Context: Egypt, constitution, referendum_
+_Context: Egypt's, constitution, referendum_
 
 ### [ The Judiciary Committee of the U.S. Senate approved a bill to create a $140 billion trust fund for the payment of asbestos-related claims. The bill now goes to the Senate floor, no analogous bill is yet before the House of Representatives. ](/news/2005/05/26/the-judiciary-committee-of-the-u-s-senate-approved-a-bill-to-create-a-140-billion-trust-fund-for-the-payment-of-asbestos-related-claims.md)
 _Context: U.S. Senate, U.S. Senate Committee on the Judiciary, United States House of Representatives, asbestos-related claims_

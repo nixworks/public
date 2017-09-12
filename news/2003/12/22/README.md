@@ -10,7 +10,7 @@ _Context: China, U.S. dollar, currency, yuan_
 _Context: Italian Prime Minister, Parmalat, Silvio Berlusconi, government_
 
 ### [ Egyptian Foreign Minister Ahmed Maher is assaulted by Palestinians during prayer at the al-Aqsa Mosque in Jerusalem. Mr. Maher was taken to an Israeli hospital for observation as a result of the incident after being treated at the scene by the Magen David Adom. After several hours care in the hospital, he was escorted to his airplane by an Israeli cardiologist and paramedic. ](/news/2003/12/22/egyptian-foreign-minister-ahmed-maher-is-assaulted-by-palestinians-during-prayer-at-the-al-aqsa-mosque-in-jerusalem-mr-maher-was-taken-to.md)
-_Context: Ahmed Maher, Al-Aqsa Mosque, Egypt, Foreign Minister, Jerusalem, Magen David Adom, Palestinians, prayer_
+_Context: Ahmed Maher, Al-Aqsa Mosque, Egypt's, Foreign Minister, Jerusalem, Magen David Adom, Palestinians, prayer_
 
 ### [ A list of people who have declined a British honour was leaked to "The Sunday Times". The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldous.md)
 _Context: Aldous Huxley, David Bowie, David Hockney, Harold Pinter, Nigella Lawson, The Sunday Times (UK), list of people who have declined a British honour_
@@ -25,7 +25,7 @@ _Context: DMCA, SCO Group_
 _Context: California, Paso Robles, San Simeon, UTC, earthquake, magnitude, time zone_
 
 ### [ The Philippines declares a calamity in a southern province after floods killed up to 209 people. [http://asia.news.yahoo.com/031223/3/19vvc.html]](/news/2003/12/22/the-philippines-declares-a-calamity-in-a-southern-province-after-floods-killed-up-to-209-people-http-asia-news-yahoo-com-031223-3-19vvc.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [ Drive-By Truckers' bassist, Earl Hicks, leaves the band and is replaced by Shonna Tucker.](/news/2003/12/22/drive-by-truckers-bassist-earl-hicks-leaves-the-band-and-is-replaced-by-shonna-tucker.md)
 _Context: Drive-By Truckers_

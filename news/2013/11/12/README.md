@@ -10,7 +10,7 @@ Tributes are paid to Sir John Tavener, one of the leading British composers of t
 _Context: Nasdaq, stock exchanges_
 
 ### [The Philippines faces a health crisis in the aftermath of Typhoon Haiyan with the official death toll at 1,774 and expected to rise quickly. ](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.md)
-_Context: Philippines, Typhoon Haiyan (Yolanda), health_
+_Context: Philippine, Typhoon Haiyan (Yolanda), health_
 
 ### [Hawaii becomes the 15th state in the United States to legalize same-sex marriage. ](/news/2013/11/12/hawaii-becomes-the-15th-state-in-the-united-states-to-legalize-same-sex-marriage.md)
 The Aloha State is poised to allow gay couples to get married beginning Dec. 2.

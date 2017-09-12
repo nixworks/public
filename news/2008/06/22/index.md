@@ -16,7 +16,7 @@ The Saudis pledged to make only a slight increase in oil production, and the sum
 Zimbabwean opposition leader Morgan Tsvangirai pulled out of a run-off election against President Robert Mugabe on Sunday, saying his supporters would be risking their lives if they voted.
 
 ### [ The death toll in the Philippines from Typhoon Fengshen rises to at least 155 according to Red Cross estimates with 59 people dead and 40 people missing in Iloilo province alone. ](/news/2008/06/22/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-155-according-to-red-cross-estimates-with-59-people-dead-and-40-p.md)
-_Context: Iloilo, Philippines, Red Cross_
+_Context: Iloilo, Philippine, Red Cross_
 
 ### [ A large bus collides head-on with a smaller minibus in Cox's Bazar, Bangladesh, leaving nine dead. ](/news/2008/06/22/a-large-bus-collides-head-on-with-a-smaller-minibus-in-cox-s-bazar-bangladesh-leaving-nine-dead.md)
 _Context: Bangladesh, Cox's Bazar_

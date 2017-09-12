@@ -1,7 +1,7 @@
 ## [2014-10-24](/news/2014/10/24/index.md)
 
 ### [Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. ](/news/2014/10/24/two-attacks-by-militants-on-egyptian-military-positions-in-the-sinai-peninsula-kill-at-least-33-security-personnel.md)
-_Context: Sinai, recent attacks_
+_Context: Sinai Peninsula, recent attacks_
 
 ### [A student and a student gunman of Marysville Pilchuck High School in Marysville, Washington, are fatally shot along with six others injured. ](/news/2014/10/24/a-student-and-a-student-gunman-of-marysville-pilchuck-high-school-in-marysville-washington-are-fatally-shot-along-with-six-others-injured.md)
 _Context: Marysville Pilchuck High School, Marysville Pilchuck High School shooting, Marysville, Washington_

@@ -7,7 +7,7 @@ _Context: 2005 elections, Coalition for Unity and Democracy, EPRDF, Ethiopia, UE
 _Context: (Wikinews), 2005 Atlantic hurricane season, Cuba, Dennis, Gulf Coast of the United States, hurricane_
 
 ### [ In the Bulacan province of the Philippines, medical authorities report the country's first case of avian influenza. ](/news/2005/07/8/in-the-bulacan-province-of-the-philippines-medical-authorities-report-the-country-s-first-case-of-avian-influenza.md)
-_Context: Avian flu virus, Bulacan, Philippines_
+_Context: Avian flu virus, Bulacan, Philippine_
 
 ### [ Also in the Philippines, resigned ministers, other politicians and businessmen call president Gloria Arroyo to resign as well and hand the reins of the country over to vice president Noli de Castro. ](/news/2005/07/8/also-in-the-philippines-resigned-ministers-other-politicians-and-businessmen-call-president-gloria-arroyo-to-resign-as-well-and-hand-the.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

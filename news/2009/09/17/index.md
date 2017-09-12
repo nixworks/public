@@ -31,7 +31,7 @@ _Context: Ethiopia, International Crisis Group, Meles Zenawi, Prime Minister_
 _Context: Afghanistan's, ISAF, Italy, Kabul, car bomb_
 
 ### [ Egypt's top Islamic authority, Grand Mufti Ali Gomaa, defends women's rights to wear trousers in public following the high-profile court case in neighbouring Sudan where women, including Lubna al-Hussein, were flogged for dressing in the garments. ](/news/2009/09/17/egypt-s-top-islamic-authority-grand-mufti-ali-gomaa-defends-women-s-rights-to-wear-trousers-in-public-following-the-high-profile-court-ca.md)
-_Context: Ali Gomaa, Egypt, Grand Mufti, Lubna al-Hussein, Muslims, Sudan, lashes_
+_Context: Ali Gomaa, Egypt's, Grand Mufti, Lubna al-Hussein, Muslims, Sudan, lashes_
 
 ### [ Seven explosions hit the Burmese city of Yangon with no casualties. ](/news/2009/09/17/seven-explosions-hit-the-burmese-city-of-yangon-with-no-casualties.md)
 _Context: Burma, Yangon_

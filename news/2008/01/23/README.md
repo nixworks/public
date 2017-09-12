@@ -7,13 +7,13 @@ _Context: Miroslawiec, Polish, Polish Air Force_
 _Context: Scaled Composites, Scaled Composites SpaceShipTwo, Virgin Galactic's, spacecraft_
 
 ### [ Contractors for the Big Dig project pay $400 million to settle a lawsuit from the Massachusetts government over a fatal tunnel collapse and associated flaws. ](/news/2008/01/23/contractors-for-the-big-dig-project-pay-400-million-to-settle-a-lawsuit-from-the-massachusetts-government-over-a-fatal-tunnel-collapse-and.md)
-_Context: Big Dig, Contractors, Massachusetts, US$, associated flaws, fatal tunnel collapse, sue_
+_Context: Big Dig, Contractors, Massachusetts, US$, associated flaws, fatal tunnel collapse, lawsuit_
 
 ### [ Asian stock markets recover, with the Hong Kong Hang Seng Index rising 10.7% and the Mumbai BSE Sensex rising 5.2%, but European markets are still weak, with the London FTSE 100 Index, the Paris CAC 40 and the Frankfurt DAX all posting significant losses. ](/news/2008/01/23/asian-stock-markets-recover-with-the-hong-kong-hang-seng-index-rising-10-7-and-the-mumbai-bse-sensex-rising-5-2-but-european-markets-ar.md)
 _Context: Asia, BSE Sensex, CAC 40, DAX, Europe, FTSE 100 Index, Hang Seng Index_
 
 ### [ Thousands of Palestinians flee into Egypt, as the border wall with Gaza in Rafah is blown up by militants. ](/news/2008/01/23/thousands-of-palestinians-flee-into-egypt-as-the-border-wall-with-gaza-in-rafah-is-blown-up-by-militants.md)
-_Context: Egypt, Gaza Strip, Palestinians, Rafah_
+_Context: Egypt's, Gaza Strip, Palestinians, Rafah_
 
 ### [ Police in Zimbabwe arrest Morgan Tsvangirai, the leader of the Movement for Democratic Change, the principal opposition party. ](/news/2008/01/23/police-in-zimbabwe-arrest-morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-the-principal-opposition-party.md)
 The lawyer for Zimbabwe&#039;s main opposition leader Morgan Tsvangirai say police took him away in the middle of the night for questioning about a demonstration planned for later today.

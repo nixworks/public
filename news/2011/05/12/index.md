@@ -73,7 +73,7 @@ _Context: President, Uganda, Yoweri Museveni_
 _Context: Belarus, election protesters_
 
 ### [The Muslim Brotherhood in Egypt says it will expel any member that attempts to run for President. ](/news/2011/05/12/the-muslim-brotherhood-in-egypt-says-it-will-expel-any-member-that-attempts-to-run-for-president.md)
-_Context: Egypt, Egyptian President, Muslim Brotherhood_
+_Context: Egypt's, Egyptian President, Muslim Brotherhood_
 
 ### [A petition is delivered to the Chinese parliament by underground Christian churches asking for their religious freedom to be respected. ](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.md)
 _Context: China, Christian, parliament, religious freedom_

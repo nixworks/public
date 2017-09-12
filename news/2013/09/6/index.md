@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Aaron Hernandez, arraigned, first-degree murder_
 
 ### [Egypt's army-backed authorities decide to annul the Muslim Brotherhood's non-governmental organization status. ](/news/2013/09/6/egypt-s-army-backed-authorities-decide-to-annul-the-muslim-brotherhood-s-non-governmental-organization-status.md)
-_Context: Egypt, Muslim Brotherhood_
+_Context: Egypt's, Muslim Brotherhood_
 
 ## [Previous Day...](/news/2013/09/5/index.md)
 

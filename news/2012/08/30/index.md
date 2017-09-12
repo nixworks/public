@@ -1,7 +1,7 @@
 ## [2012-08-30](/news/2012/08/30/index.md)
 
 ### [Egyptian president Mohammed Morsi describes the conflict as an uprising against an "oppressive regime" and likens it to the Palestinians, sparking a walkout from the Syrian delegation at a meeting of the Non-Aligned Movement in Iran. ](/news/2012/08/30/egyptian-president-mohammed-morsi-describes-the-conflict-as-an-uprising-against-an-oppressive-regime-and-likens-it-to-the-palestinians-sp.md)
-_Context: Egypt, Iran, Mohammed Morsi, Non-aligned Movement, Palestinian_
+_Context: Egypt's, Iran, Mohammed Morsi, Non-aligned Movement, Palestinian_
 
 ### [The Venezuelan government is to investigate an alleged massacre of indigenous people in the Amazon rainforest whom were attacked from a helicopter. ](/news/2012/08/30/the-venezuelan-government-is-to-investigate-an-alleged-massacre-of-indigenous-people-in-the-amazon-rainforest-whom-were-attacked-from-a-heli.md)
 Venezuela announced it is investigating an alleged massacre of indigenous people in the Amazon rainforest, after a tribal group told the government that a village of 80 natives was attacked in July from a helicopter.
@@ -22,7 +22,7 @@ An explosion in a Chinese coal mine killed 26 miners and 21 others were still un
 Gripped by its worst cholera outbreak in nearly 15 years, which has already left 229 dead, Sierra Leone is likely to see cases triple in the next month as the rainy season hits its peak, estimates show.
 
 ### [Iran and Egypt describe each other as "strategic allies" at the 16th Summit of the Non-Aligned Movement in Iran. ](/news/2012/08/30/iran-and-egypt-describe-each-other-as-strategic-allies-at-the-16th-summit-of-the-non-aligned-movement-in-iran.md)
-_Context: 16th Summit of the Non-Aligned Movement, Egypt, Iran_
+_Context: 16th Summit of the Non-Aligned Movement, Egypt's, Iran_
 
 ### [United Nations Secretary-General Ban Ki-moon urges Iran to comply with U.N. Security Council resolutions concerning the nuclear program of Iran, and implicitly criticises it for its Israel policy at a meeting of the Non-Aligned Movement. ](/news/2012/08/30/united-nations-secretary-general-ban-ki-moon-urges-iran-to-comply-with-u-n-security-council-resolutions-concerning-the-nuclear-program-of-i.md)
 _Context: Ban Ki-moon, Iran, Israel, Non-aligned Movement, Secretary General, United Nations Security Council, United Nations Security Council resolution, nuclear program_

@@ -4,7 +4,7 @@
 Investigators say government forces and rebel fighters have killed, tortured and raped on a huge scale.
 
 ### [Two suicide bombers ram a car with explosives. Egyptian military says one hit the local branch of military intelligence, while the other struck an army checkpoint in Rafah killing nine soldiers and wounding 17 others. ](/news/2013/09/11/two-suicide-bombers-ram-a-car-with-explosives-egyptian-military-says-one-hit-the-local-branch-of-military-intelligence-while-the-other-str.md)
-_Context: Egypt, Egyptian Army, Rafah_
+_Context: Egypt's, Egyptian Army, Rafah_
 
 ### [On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreign-ministry-building-in-the-city.md)
 On the anniversary of the 9/11 bombings on the US, a car bomb causes serious damage to a foreign ministry building in Benghazi.

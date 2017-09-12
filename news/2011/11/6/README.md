@@ -7,7 +7,7 @@ _Context: 5.6 magnitude earthquake, Oklahoma!, Shawnee_
 _Context: Caldas Department, Colombia, Manizales, landslide_
 
 ### [Eleven Hungarian tourists die after a bus overturns near the Egyptian resort of Hurghada. ](/news/2011/11/6/eleven-hungarian-tourists-die-after-a-bus-overturns-near-the-egyptian-resort-of-hurghada.md)
-_Context: Egypt, Hungarian, Hurghada_
+_Context: Egypt's, Hungarian, Hurghada_
 
 ### [Thousands of people protest in Washington DC against the proposed Keystone XL project. ](/news/2011/11/6/thousands-of-people-protest-in-washington-dc-against-the-proposed-keystone-xl-project.md)
 Demonstrators circle White House demanding Obama reject Keystone XL pipeline over concerns of drinking water contamination

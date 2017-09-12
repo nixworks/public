@@ -7,7 +7,7 @@
 _Context: Bojonegoro, East Java, Indonesia, Pertamina, PetroChina, oil well_
 
 ### [ Somali Premier Ali Mohammed Ghedi alleges that Libya, Egypt, and Iran are supplying the Islamic Courts Union with weaponry. ](/news/2006/07/29/somali-premier-ali-mohammed-ghedi-alleges-that-libya-egypt-and-iran-are-supplying-the-islamic-courts-union-with-weaponry.md)
-_Context: Ali Mohammed Ghedi, Egypt, Iran, Islamic Courts Union, Libya_
+_Context: Ali Mohammed Ghedi, Egypt's, Iran, Islamic Courts Union, Libya_
 
 ## [Previous Day...](/news/2006/07/28/index.md)
 

@@ -31,7 +31,7 @@ _Context: India, Kashmir, Muslims, gunbattle_
 _Context: Central African Republic, Dembia_
 
 ### [2 Egyptian peacekeepers are killed and 3 are injured by gunmen near Edd al-Fursan, South Darfur. ](/news/2010/05/7/2-egyptian-peacekeepers-are-killed-and-3-are-injured-by-gunmen-near-edd-al-fursan-south-darfur.md)
-_Context: Edd al-Fursan, Egypt, South Darfur_
+_Context: Edd al-Fursan, Egypt's, South Darfur_
 
 ### [Confederation of African Football (CAF) president Issa Hayatou asks his executive committee to lift sanctions imposed on the Togo national football team following an attack on their team bus ahead of the 2010 Africa Cup of Nations in Angola. ](/news/2010/05/7/confederation-of-african-football-caf-president-issa-hayatou-asks-his-executive-committee-to-lift-sanctions-imposed-on-the-togo-national-f.md)
 _Context: 2010 Africa Cup of Nations, Angola, Confederation of African Football, Issa Hayatou, Togo national football team, Togo national football team attack_

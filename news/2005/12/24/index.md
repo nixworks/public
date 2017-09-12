@@ -1,7 +1,7 @@
 ## [2005-12-24](/news/2005/12/24/index.md)
 
 ### [ The Egyptian opposition leader, Ayman Nour, was found guilty of fraud and jailed for five years. ](/news/2005/12/24/the-egyptian-opposition-leader-ayman-nour-was-found-guilty-of-fraud-and-jailed-for-five-years.md)
-_Context: Ayman Nour, Egypt, fraud_
+_Context: Ayman Nour, Egypt's, fraud_
 
 ### [ The United Kingdom began commemorations for the victims of the 2004 Indian Ocean tsunami ahead of the official Thai commemorations in Thailand. ](/news/2005/12/24/the-united-kingdom-began-commemorations-for-the-victims-of-the-2004-indian-ocean-tsunami-ahead-of-the-official-thai-commemorations-in-thail.md)
 _Context: 2004 Indian Ocean tsunami, Thailand, United Kingdom_

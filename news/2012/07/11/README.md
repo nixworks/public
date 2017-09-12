@@ -13,7 +13,7 @@ _Context: Democratic Republic of the Congo, Goma, M23, United Nations_
 At least eight people have been killed in a suicide bomb attack at the police academy in the Yemeni capital Sanaa, officials say.
 
 ### [An ambush by suspected Abu Sayyaf rebels kills 6 rubber plantation workers and injures a further 22 in the southern Philippines. ](/news/2012/07/11/an-ambush-by-suspected-abu-sayyaf-rebels-kills-6-rubber-plantation-workers-and-injures-a-further-22-in-the-southern-philippines.md)
-_Context: Abu Sayyaf, Philippines_
+_Context: Abu Sayyaf, Philippine_
 
 ### [520 men and boys killed in the Srebrenica massacre in 1995 are buried in Potocari, Bosnia and Herzegovina. ](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.md)
 _Context: Bosnia and Herzegovina, Potocari, Srebrenica massacre_

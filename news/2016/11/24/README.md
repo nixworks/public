@@ -28,7 +28,7 @@ Israeli police have arrested four Palestinians in connection with one of several
 Amnesty says Nigerian security forces have killed more than 150 protesters since August 2015.
 
 ### [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md)
-_Context: Egyptian Army, Sinai, Sinai insurgency, suicide bomber_
+_Context: Egyptian Army, Sinai Peninsula, Sinai insurgency, suicide bomber_
 
 ### [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

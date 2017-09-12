@@ -10,7 +10,7 @@ Emails obtained via a hack of intelligence agency Stratfor have shed light on a 
 Cosmopolitan editor Helen Gurley Brown, who decreed good girls go to heaven but bad girls go everywhere, has died aged 90.
 
 ### [Two new potential pyramid sites are discovered in Egypt. ](/news/2012/08/13/two-new-potential-pyramid-sites-are-discovered-in-egypt.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ### [Outgoing BBC Director-General Mark Thompson is appointed CEO of "The New York Times", taking up his role in November. ](/news/2012/08/13/outgoing-bbc-director-general-mark-thompson-is-appointed-ceo-of-the-new-york-times-taking-up-his-role-in-november.md)
 The New York Times Company announces that outgoing BBC director general Mark Thompson will become its chief executive and president in November.

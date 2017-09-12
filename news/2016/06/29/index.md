@@ -25,7 +25,7 @@ _Context: CASA C-212 Aviocar, Coast Guard, Su-30, Vietnamese Ministry of Defense
 _Context: Airbus A320, EgyptAir Flight 804, flight recorder_
 
 ### [On his final day as President of the Philippines, Benigno Aquino III says he was right when he sued China over the South China Sea. ](/news/2016/06/29/on-his-final-day-as-president-of-the-philippines-benigno-aquino-iii-says-he-was-right-when-he-sued-china-over-the-south-china-sea.md)
-_Context: China, Philippines, President, South China Sea, his predecessor_
+_Context: China, Philippine, President, South China Sea, his predecessor_
 
 ### [European Union leaders advise the United Kingdom that, after their EU exit, to retain access to the bloc's lucrative single market, the UK must allow free movement for EU workers. German Chancellor Angela Merkel and French President Francois Hollande reiterated that freedom of movement of EU citizens is non-negotiable. ](/news/2016/06/29/european-union-leaders-advise-the-united-kingdom-that-after-their-eu-exit-to-retain-access-to-the-bloc-s-lucrative-single-market-the-uk-m.md)
 There can be no pick and choose in the single market, EU leaders meeting in Brussels say, after discussing the UK vote to leave.

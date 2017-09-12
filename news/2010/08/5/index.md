@@ -16,7 +16,7 @@ Kyrgyz troops fire shots in the air to disperse protesters in Bishkek supporting
 _Context: Kunduz, Tajikistan_
 
 ### [Somali pirates seized a Syrian freighter flagged in Saint Vincent and the Grenadines carrying sugar with 24 crew (22 Syrian and 2 Egyptian) in the Gulf of Aden. ](/news/2010/08/5/somali-pirates-seized-a-syrian-freighter-flagged-in-saint-vincent-and-the-grenadines-carrying-sugar-with-24-crew-22-syrian-and-2-egyptian.md)
-_Context: Egypt, Gulf of Aden, Saint Vincent and the Grenadines, Somali pirates, Syria_
+_Context: Egypt's, Gulf of Aden, Saint Vincent and the Grenadines, Somali pirates, Syria_
 
 ### [Israel releases the MV "Mavi Marmara", the aid ship which it impounded after killing nine activists during May's Gaza flotilla raid. ](/news/2010/08/5/israel-releases-the-mv-mavi-marmara-the-aid-ship-which-it-impounded-after-killing-nine-activists-during-may-s-gaza-flotilla-raid.md)
 Israel releases an impounded Turkish aid ship on which nine activists were killed as they tried to break the Gaza blockade two months ago.
@@ -76,7 +76,7 @@ A Polish appeals court upholds a decision to hand over to Germany an alleged Isr
 Israel charges three Arab men with spying, saying they passed intelligence to Syria and plotted to kidnap a Syrian pilot who had defected to Israel.
 
 ### [A woman who is alleged to have been raped by two police officers appears on Egyptian television where she is interviewed about the experience. ](/news/2010/08/5/a-woman-who-is-alleged-to-have-been-raped-by-two-police-officers-appears-on-egyptian-television-where-she-is-interviewed-about-the-experienc.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ### [Supporters of California Proposition 8 banning same-sex marriage lodge an appeal against the decision of United States district court Vaughn R. Walker overturning it. ](/news/2010/08/5/supporters-of-california-proposition-8-banning-same-sex-marriage-lodge-an-appeal-against-the-decision-of-united-states-district-court-vaughn.md)
 _Context: California, U.S. federal court, Vaughn R. Walker, reversed its legalization, same-sex marriage_

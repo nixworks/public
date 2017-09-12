@@ -10,7 +10,7 @@ _Context: Hajj, Mina, Saudi Arabia, Stoning the Devil, disaster, pilgrims_
 _Context: Mehmet Ali Agca, Pope John Paul&nbsp;II_
 
 ### [ The French warship Clemenceau reaches Egypt and is barred access to the Suez Canal. Two Greenpeace activists board the ship. ](/news/2006/01/12/the-french-warship-clemenceau-reaches-egypt-and-is-barred-access-to-the-suez-canal-two-greenpeace-activists-board-the-ship.md)
-_Context: Clemenceau, Egypt, Greenpeace India's, Suez Canal_
+_Context: Clemenceau, Egypt's, Greenpeace India's, Suez Canal_
 
 ## [Previous Day...](/news/2006/01/11/index.md)
 

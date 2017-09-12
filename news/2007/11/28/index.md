@@ -13,7 +13,7 @@ _Context: Arlington High School (LaGrange, New York), Columbine, New York State 
 _Context: Google, geothermal power, renewable energy, solar thermal power, wind power_
 
 ### [ Ford Motor Company settles class action lawsuits in California, Connecticut, Illinois and Texas over 1991-2001 models of the Ford Explorer. ](/news/2007/11/28/ford-motor-company-settles-class-action-lawsuits-in-california-connecticut-illinois-and-texas-over-1991-2001-models-of-the-ford-explorer.md)
-_Context: California, Connecticut, Ford Explorer, Ford Motor Company, Illinois, Texas, class action, sue_
+_Context: California, Connecticut, Ford Explorer, Ford Motor Company, Illinois, Texas, class action, lawsuit_
 
 ### [ The United States Secretary of State Condoleezza Rice announces that retired United States Marine Corps General James L. Jones will be a special envoy for Middle East security. ](/news/2007/11/28/the-united-states-secretary-of-state-condoleezza-rice-announces-that-retired-united-states-marine-corps-general-james-l-jones-will-be-a-sp.md)
 U.S. Secretary of State Condoleezza Rice on Wednesday named retired Marine Gen. James Jones as special envoy for Middle East security, focusing on Palestinian and Israeli security issues.

@@ -10,7 +10,7 @@ _Context: Iran, Iranian government, protestors_
 Clashes reported across the country, as security forces and government supporters confront demonstrators.
 
 ### [The Egyptian Ministry for Health estimates that at least 365 people were killed and 5,500 injured in the 2011 Egyptian protests. ](/news/2011/02/16/the-egyptian-ministry-for-health-estimates-that-at-least-365-people-were-killed-and-5-500-injured-in-the-2011-egyptian-protests.md)
-_Context: Egypt, Protesters_
+_Context: Egypt's, Protesters_
 
 ### [Yemeni police shoot and kill two protestors in the southern city of Aden. ](/news/2011/02/16/yemeni-police-shoot-and-kill-two-protestors-in-the-southern-city-of-aden.md)
 _Context: 2011 Yemeni protests, Aden, policemen_

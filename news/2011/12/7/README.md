@@ -19,7 +19,7 @@ After two high-profile killings this week, legislators approved a decree late We
 The first and only president of the Soviet Union, Mikhail Gorbachev has said that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday’s parliamentary election and hold a new poll.
 
 ### [Egypt's Freedom and Justice Party claims to have won a majority of seats in the runoff election. ](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.md)
-_Context: Egypt, Freedom and Justice Party, lower house of the national parliament_
+_Context: Egypt's, Freedom and Justice Party, lower house of the national parliament_
 
 ### [The Russian Federal Space Agency officially gives up attempting to rescue Fobos-Grunt and Yinghuo-1, and expects them to fall back to Earth in January 2012. ](/news/2011/12/7/the-russian-federal-space-agency-officially-gives-up-attempting-to-rescue-fobos-grunt-and-yinghuo-1-and-expects-them-to-fall-back-to-earth.md)
 The troubled Russian Phobos-Grunt spacecraft, which has been stuck in low-Earth orbit since early November, appears to be doomed, with small pieces of the wayward Mars probe already falling to Earth.

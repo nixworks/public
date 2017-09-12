@@ -28,7 +28,7 @@ President Kabila bans mining in three provinces of DR Congo to allow the governm
 Accidental rupture leaves 10 workers dead and 20 injured, as firefighters bring blaze under control after three hours.
 
 ### [Officials in 3 Egyptian governorates declare a state of emergency after a barge leaked some 100 tons of gasoline into the Nile River north of Aswan. ](/news/2010/09/11/officials-in-3-egyptian-governorates-declare-a-state-of-emergency-after-a-barge-leaked-some-100-tons-of-gasoline-into-the-nile-river-north-o.md)
-_Context: Aswan, Egypt, Nile River, gas, governorates_
+_Context: Aswan, Egypt's, Nile River, gas, governorates_
 
 ### [Mexico experiences its record worst ever rainy season. ](/news/2010/09/11/mexico-experiences-its-record-worst-ever-rainy-season.md)
 Mexico said Thursday it is experiencing its worst rainy season on record and the rains are set to intensify, as the latest storms left 10 people dead and affected almost one million people.

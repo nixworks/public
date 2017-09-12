@@ -10,7 +10,7 @@ _Context: Deutsche Bahn, Germany, passenger, strike, train driver_
 _Context: Third Committee, United Nations, United Nations General Assembly, capital punishment, moratorium, unenforceable resolution_
 
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
-_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, U.S., United Kingdom, extradited, terrorism_
+_Context: Abu Hamza al-Masri, City of Westminster, Egypt's, Magistrates' Court, Muslim, U.S., United Kingdom, extradited, terrorism_
 
 ### [ A New South Wales coroner concludes that a group of five journalists, known as the Balibo Five, were deliberately killed by Indonesian forces in 1975 in order to prevent them exposing Indonesia's 1975 invasion of East Timor. ](/news/2007/11/15/a-new-south-wales-coroner-concludes-that-a-group-of-five-journalists-known-as-the-balibo-five-were-deliberately-killed-by-indonesian-forc.md)
 _Context: Balibo Five, East Timor, Indonesia, New South Wales_
@@ -25,7 +25,7 @@ _Context: Iran, White House_
 _Context: AWOL, Brandon Hughey, Canada, Iraq War, Jeremy Hinzman, Supreme Court of Canada, U.S., asylum_
 
 ### [ Iraqi insurgency: The United States Army announces it has killed 25 insurgents in Taji, but the Taji Awakening Council says airstrikes killed 45 pro-U.S. fighters. ](/news/2007/11/15/iraqi-insurgency-the-united-states-army-announces-it-has-killed-25-insurgents-in-taji-but-the-taji-awakening-council-says-airstrikes-kill.md)
-_Context: Iraqi insurgency, Taji, Taji Awakening Council, U.S., United States Army, airstrike_
+_Context: Iraqi insurgency, Taji, Taji Awakening Council, U.S., U.S. soldiers, airstrike_
 
 ### [ A Saudi Arabian gang rape victim is sentenced to jail and 200 lashes for being in the car of an unrelated man. ](/news/2007/11/15/a-saudi-arabian-gang-rape-victim-is-sentenced-to-jail-and-200-lashes-for-being-in-the-car-of-an-unrelated-man.md)
 _Context: Saudi Arabia, gang rape, lashes_

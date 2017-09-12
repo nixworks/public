@@ -19,7 +19,7 @@ _Context: Colombo, Sri Lankan Civil War, suicide bombing_
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Egyptian troops close the last breach in Egypt's border with the Gaza Strip. ](/news/2008/02/3/egyptian-troops-close-the-last-breach-in-egypt-s-border-with-the-gaza-strip.md)
-_Context: Egypt, Gaza Strip_
+_Context: Egypt's, Gaza Strip_
 
 ### [ Super Bowl XLII: The New York Giants defeat the New England Patriots 17-14 in Glendale, Arizona. ](/news/2008/02/3/super-bowl-xlii-the-new-york-giants-defeat-the-new-england-patriots-17-14-in-glendale-arizona.md)
 _Context: Glendale, Arizona, New England Patriots, New York Giants, Super Bowl XLII_

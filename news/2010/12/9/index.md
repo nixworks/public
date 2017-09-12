@@ -16,7 +16,7 @@ The former chief executive of Italian food conglomerate Parmalat is sentenced to
 Official figures show that the increase in total unemployment is slowing down, but long-term unemployment is rising sharply.
 
 ### [A stretch of beach in Sharm el-Sheikh, Egypt, re-opens after a series of shark attacks. ](/news/2010/12/9/a-stretch-of-beach-in-sharm-el-sheikh-egypt-re-opens-after-a-series-of-shark-attacks.md)
-_Context: Egypt, Sharm el-Sheikh_
+_Context: Egypt's, Sharm el-Sheikh_
 
 ### [Floods across South America: Panama experiences its heaviest ever rains, with the Panama Canal shut for the first time due to weather. Millions of people are affected across the region, and there are deaths, including in Colombia and Venezuela. ](/news/2010/12/9/floods-across-south-america-panama-experiences-its-heaviest-ever-rains-with-the-panama-canal-shut-for-the-first-time-due-to-weather-milli.md)
 Panama is latest of countries in region to be hit by floods this week after Colombia and Venezuela.

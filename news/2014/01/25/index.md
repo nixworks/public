@@ -1,10 +1,10 @@
 ## [2014-01-25](/news/2014/01/25/index.md)
 
 ### [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md)
-_Context: Civil conflict in the Philippines, Filipino Muslims, Philippines, peace deal_
+_Context: Civil conflict in the Philippines, Filipino Muslims, Philippine, peace deal_
 
 ### [Five Egyptian embassy staff are kidnapped in the Libyan capital of Tripoli. ](/news/2014/01/25/five-egyptian-embassy-staff-are-kidnapped-in-the-libyan-capital-of-tripoli.md)
-_Context: Egypt, Libya, Tripoli_
+_Context: Egypt's, Libya, Tripoli_
 
 ### [64 people are killed in anti-government marches. ](/news/2014/01/25/64-people-are-killed-in-anti-government-marches.md)
 At least 49 people are killed in clashes in Egypt as rallies mark the anniversary of the 2011 uprising which overthrew President Hosni Mubarak.

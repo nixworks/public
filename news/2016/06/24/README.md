@@ -1,7 +1,7 @@
 ## [2016-06-24](/news/2016/06/24/index.md)
 
 ### [Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. ](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-coast-of-sulu-near-mindanao-in-the-southern-philippines-raising-terrorism-fears.md)
-_Context: Indonesia, Mindanao, Moro conflict, Philippines, Sulu_
+_Context: Indonesia, Mindanao, Moro conflict, Philippine, Sulu_
 
 ### [At least three people are killed and 32 more are wounded by a bomb blast in Quetta. ](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-are-wounded-by-a-bomb-blast-in-quetta.md)
 _Context: Quetta, War in North-West Pakistan_

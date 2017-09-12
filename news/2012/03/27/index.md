@@ -4,7 +4,7 @@
 _Context: India, Maharashtra, Naxalite-Maoist insurgency_
 
 ### [Two smugglers, allegedly including an Israeli-Arab, are killed in an exchange of fire with Israel Defense Forces troops and Egyptian Border Guards. ](/news/2012/03/27/two-smugglers-allegedly-including-an-israeli-arab-are-killed-in-an-exchange-of-fire-with-israel-defense-forces-troops-and-egyptian-border.md)
-_Context: Arab citizen, Egypt, Israel Defense Forces_
+_Context: Arab citizen, Egypt's, Israel Defense Forces_
 
 ### [Several people are arrested in Kabul, the capital of Afghanistan, as alleged suicide bombings are foiled. ](/news/2012/03/27/several-people-are-arrested-in-kabul-the-capital-of-afghanistan-as-alleged-suicide-bombings-are-foiled.md)
 Afghan authorities arrest 18 people, some of them soldiers, after foiling plans for an apparent mass suicide attack in Kabul, intelligence officials say.

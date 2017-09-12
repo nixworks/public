@@ -7,7 +7,7 @@ _Context: Asia, Jean-Louis Bruguiere, Singapore, Sydney, Tokyo, al-Qaeda, invest
 _Context: Arab-Israeli conflict, Fajr-3 rocket, Galilee, Gaza Strip, Hizb Allah, Iran, Israel, Lebanon, Margaliot, Mortar, Moshav, Palestinian, Qassam rocket, Sderot_
 
 ### [ Two Egyptian policemen die following two explosions in northern Sinai. ](/news/2005/08/25/two-egyptian-policemen-die-following-two-explosions-in-northern-sinai.md)
-_Context: Egypt, Sinai_
+_Context: Egypt's, Sinai Peninsula_
 
 ### [ At least 42 people die following a series of floods throughout Europe. ](/news/2005/08/25/at-least-42-people-die-following-a-series-of-floods-throughout-europe.md)
 _Context: 2005 European floods, Europe_

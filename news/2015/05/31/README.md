@@ -1,7 +1,7 @@
 ## [2015-05-31](/news/2015/05/31/index.md)
 
 ### [Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish-the-provincial-ca.md)
-_Context: Egypt, Israel, North Sinai, Sinai insurgency, el-Arish, natural gas_
+_Context: Egypt's, Israel, North Sinai, Sinai insurgency, el-Arish, natural gas_
 
 ### [A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md)
 _Context: Libyan Civil War (2014-present), Misrata, suicide bomber_

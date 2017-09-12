@@ -7,7 +7,7 @@ _Context: Cairns, Pacific Islands Forum_
 _Context: Iran, Mahmoud Ahmadinejad, President, re-election_
 
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
-_Context: Asia, Corazon Aquino, Philippines, President, first female_
+_Context: Asia, Corazon Aquino, Philippine, President, first female_
 
 ### [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md)
 President Lula da Silva said that Brazil is climbing out, and strengthened, from the deep global financial crisis and underlined that &ldquo;Brazil is now advising the International Monetary Fund, IMF&rdquo;.
@@ -28,7 +28,7 @@ _Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, U.S., deta
 _Context: Madagascar, Marc Ravalomanana_
 
 ### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
-_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, U.S., blog_
+_Context: Anwar El Sadat, Egypt's, Egyptian President, I Love You, Man, U.S., blog_
 
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
 _Context: Collier Township, LA Fitness, Pennsylvania, U.S., shot_

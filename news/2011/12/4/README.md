@@ -19,7 +19,7 @@ _Context: Croatia, Kukuriku coalition, centre-left, exit poll, parliamentary ele
 United Russia, the governing party of Prime Minister Vladimir V. Putin, suffered surprisingly steep losses in parliamentary elections and was clinging to a 50 percent majority.
 
 ### [Islamist parties win the first stage of the Egyptian parliamentary election, with the Muslim Brotherhood-aligned Freedom and Justice Party first at 37% of the vote, and the more hardline Salafi Al Nour Party in second place with 24% of the vote. ](/news/2011/12/4/islamist-parties-win-the-first-stage-of-the-egyptian-parliamentary-election-with-the-muslim-brotherhood-aligned-freedom-and-justice-party-f.md)
-_Context: Al Nour Party, Egypt, Freedom and Justice Party, Muslim Brotherhood, Salafi, lower house of the national parliament, radical Islamists_
+_Context: Al Nour Party, Egypt's, Freedom and Justice Party, Muslim Brotherhood, Salafi, lower house of the national parliament, radical Islamists_
 
 ### [The President of Peru Ollanta Humala declares a state of emergency in the Cajamarca region to stop anti-mining protests. ](/news/2011/12/4/the-president-of-peru-ollanta-humala-declares-a-state-of-emergency-in-the-cajamarca-region-to-stop-anti-mining-protests.md)
 _Context: Cajamarca, Ollanta Humala, President, states of emergency_

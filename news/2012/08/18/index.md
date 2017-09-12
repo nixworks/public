@@ -7,7 +7,7 @@ The insurgents’ seizure of areas near the airport comes as the United Nations 
 A top Taliban commander and his deputy are among dozens of insurgents killed in a Nato air strike in eastern Afghanistan, the alliance says.
 
 ### [Four Egyptian Army soldiers are injured in a raid on militants in the Sinai Peninsula. ](/news/2012/08/18/four-egyptian-army-soldiers-are-injured-in-a-raid-on-militants-in-the-sinai-peninsula.md)
-_Context: Egyptian Army, Sinai_
+_Context: Egyptian Army, Sinai Peninsula_
 
 ### [Bahraini security forces kill a 16-year-old boy during rioting in the city of Muharraq. ](/news/2012/08/18/bahraini-security-forces-kill-a-16-year-old-boy-during-rioting-in-the-city-of-muharraq.md)
 Police in the Gulf state of Bahrain claim self-defence after a youth of 16 is killed during a riot but the opposition say he was kicked on the ground.
@@ -22,7 +22,7 @@ _Context: Mexico, Tropical Storm Leslie_
 _Context: Reserve Bank of India, monsoon_
 
 ### [Egypt's state news agency says President Mohammed Morsi is to attend the upcoming Non-Aligned Movement meeting in Iran at the end of August. ](/news/2012/08/18/egypt-s-state-news-agency-says-president-mohammed-morsi-is-to-attend-the-upcoming-non-aligned-movement-meeting-in-iran-at-the-end-of-august.md)
-_Context: Egypt, Iran, Mohammed Morsi, Non-aligned Movement_
+_Context: Egypt's, Iran, Mohammed Morsi, Non-aligned Movement_
 
 ### [A U.S. District Court judge declines Facebook's $20 million offer to settle a lawsuit revolving around privacy, expressing among other concerns that up to half of that money would be paid to attorneys, and none to the victims. ](/news/2012/08/18/a-u-s-district-court-judge-declines-facebook-s-20-million-offer-to-settle-a-lawsuit-revolving-around-privacy-expressing-among-other-conce.md)
 _Context: Facebook, U.S. district court_

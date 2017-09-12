@@ -16,7 +16,7 @@ _Context: Diyala Governorate, Nineveh_
 _Context: Barack Obama, Dmitry Medvedev, President, Russia, Russian President Vladimir Putin, U.S., new arms reduction treaty_
 
 ### [Israeli Prime Minister Benjamin Netanyahu will send deputy prime-minister to a summit on nuclear weapons in the United States over concerns that Egypt and Turkey might shift the focus away from preventing militants from obtaining nuclear weapons by insisting that Israel sign the Nuclear Non-Proliferation Treaty (NPT). ](/news/2010/04/8/israeli-prime-minister-benjamin-netanyahu-will-send-deputy-prime-minister-to-a-summit-on-nuclear-weapons-in-the-united-states-over-concerns.md)
-_Context: Benjamin Netanyahu, Egypt, Israel, Israeli Prime Minister, Nuclear Non-Proliferation Treaty, Turkey, U.S._
+_Context: Benjamin Netanyahu, Egypt's, Israel, Israeli Prime Minister, Nuclear Non-Proliferation Treaty, Turkey, U.S._
 
 ### [A Palestinian teen reported to have been killed returns home safely. ](/news/2010/04/8/a-palestinian-teen-reported-to-have-been-killed-returns-home-safely.md)
 _Context: Palestinian_

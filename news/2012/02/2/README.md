@@ -1,7 +1,7 @@
 ## [2012-02-2](/news/2012/02/2/index.md)
 
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippines, Umbra Jumdail, Zulkifli bin Hir_
+_Context: Abu Sayyaf, Jemaah Islamiyah, Malaysian, Philippine, Umbra Jumdail, Zulkifli bin Hir_
 
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
 _Context: Yemen_
@@ -31,7 +31,7 @@ _Context: A. Raja, Supreme Court of India, telecommunication_
 _Context: Church of Scientology, French-born, fraud_
 
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)
-_Context: Adel Emam, Egypt, insulting Islam_
+_Context: Adel Emam, Egypt's, insulting Islam_
 
 ### [The Prime Minister of Egypt Kamal Ganzouri calls an emergency Cabinet meeting to discuss the Port Said Stadium clashes which resulted in at least 74 deaths. ](/news/2012/02/2/the-prime-minister-of-egypt-kamal-ganzouri-calls-an-emergency-cabinet-meeting-to-discuss-the-port-said-stadium-clashes-which-resulted-in-at.md)
 At least 74 people were killed and the army deployed after sport fan violence in the Egyptian city of Port Said, in what FIFA called a &#039;black day for football.&#039;

@@ -7,7 +7,7 @@ _Context: Gaza Strip, Gush Katif, Isaac Herzog, Israel, Israel Defense Forces, I
 _Context: Aaron Broussard, CBS, Jefferson Parish, Louisiana_
 
 ### [ Cairo: At least 34 people were killed and 60 injured by flames and an ensuing stampede when a fire broke out in the theater run by Egypt's Culture Ministry; about 1,000 people were watching the play. ](/news/2005/09/6/cairo-at-least-34-people-were-killed-and-60-injured-by-flames-and-an-ensuing-stampede-when-a-fire-broke-out-in-the-theater-run-by-egypt-s.md)
-_Context: Cairo, Egypt_
+_Context: Cairo, Egypt's_
 
 ### [ Four people died and 27 were wounded following an explosion in Gaza City at the home of Nidal Farhat, a senior Hamas member.](/news/2005/09/6/four-people-died-and-27-were-wounded-following-an-explosion-in-gaza-city-at-the-home-of-nidal-farhat-a-senior-hamas-member.md)
 _Context: Gaza, Hamas, Nidal Farhat_
@@ -22,7 +22,7 @@ _Context: India, Japanese encephalitis, death toll, outbreak_
 _Context: Australia, Australian Prime Minister, Australian Securities and Investment Commission, John Howard, Telstra, share price_
 
 ### [ Philippine President Gloria Macapagal-Arroyo survives the 2005 political crisis as the plenary session of the House of Representatives of the Philippines dropped the impeachment complaint filed against her. ](/news/2005/09/6/philippine-president-gloria-macapagal-arroyo-survives-the-2005-political-crisis-as-the-plenary-session-of-the-house-of-representatives-of-t.md)
-_Context: 2005 political crisis, Gloria Macapagal Arroyo, Philippines, President, lower house of the Philippine Congress_
+_Context: 2005 political crisis, Gloria Macapagal Arroyo, Philippine, President, lower house of the Philippine Congress_
 
 ## [Previous Day...](/news/2005/09/5/index.md)
 

@@ -40,7 +40,7 @@ Chinese hackers have pilfered classified documents from the India&rsquo;s securi
 Police detain at least 14 military officers over alleged plot to topple government.
 
 ### [Baton-wielding Egyptian police disperse a pro-democracy demonstration in Cairo. ](/news/2010/04/6/baton-wielding-egyptian-police-disperse-a-pro-democracy-demonstration-in-cairo.md)
-_Context: Cairo, Egypt_
+_Context: Cairo, Egypt's_
 
 ### [South African police build a barricade from razor wire to curtail people scuffles outside Ventersdorp Magistrate's court where two farm workers, aged 15 and 28, are charged with Saturday's murder of white supremacist leader Eugene Terre'Blanche. ](/news/2010/04/6/south-african-police-build-a-barricade-from-razor-wire-to-curtail-people-scuffles-outside-ventersdorp-magistrate-s-court-where-two-farm-work.md)
 _Context: Eugene Terre'Blanche, South Africa, Ventersdorp_

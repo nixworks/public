@@ -28,7 +28,7 @@ _Context: North Korea, United Nations, United Nations Security Council, missile 
 _Context: Mogadishu, Somalia, United Nations, violence_
 
 ### [ Two bombs explode in the southern Philippines, killing two and injuring 53. ](/news/2009/07/7/two-bombs-explode-in-the-southern-philippines-killing-two-and-injuring-53.md)
-_Context: Philippines, explode_
+_Context: Philippine, explode_
 
 ### [ Pope Benedict XVI calls for a new financial world order guided by ethics, dignity and the search for a common good. ](/news/2009/07/7/pope-benedict-xvi-calls-for-a-new-financial-world-order-guided-by-ethics-dignity-and-the-search-for-a-common-good.md)
 _Context: Benedict XVI, Pope_

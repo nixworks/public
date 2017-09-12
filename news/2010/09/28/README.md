@@ -37,7 +37,7 @@ The Eiffel Tower and the surrounding Champ de Mars park were briefly evacuated o
 _Context: AK47, Austin, University of Texas at Austin_
 
 ### [Hisham Talaat Moustafa, an Egyptian millionaire who had been sentenced to death in 2009 for inciting the murder of pop star Suzanne Tamim, is sentenced to 15 years' imprisonment in a retrial. ](/news/2010/09/28/hisham-talaat-moustafa-an-egyptian-millionaire-who-had-been-sentenced-to-death-in-2009-for-inciting-the-murder-of-pop-star-suzanne-tamim-i.md)
-_Context: Egypt, Hisham Talaat Moustafa, Suzanne Tamim_
+_Context: Egypt's, Hisham Talaat Moustafa, Suzanne Tamim_
 
 ### [The United States Court of Appeals for the District of Columbia Circuit permanently lifts an injunction thereby allowing the United States Government to fund embryonic stem cell research. ](/news/2010/09/28/the-united-states-court-of-appeals-for-the-district-of-columbia-circuit-permanently-lifts-an-injunction-thereby-allowing-the-united-states-g.md)
 _Context: U.S. Appeals Court Judge, United States government, embryonic stem cell_

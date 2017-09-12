@@ -4,7 +4,7 @@
 _Context: Chinese President, Hu Jintao, Seattle_
 
 ### [ The H5N1 strain of avian influenza is reported in Sudan following reports in neighbouring Egypt. ](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.md)
-_Context: Avian flu virus, Egypt, Sudan, bird flu_
+_Context: Avian flu virus, Egypt's, Sudan, bird flu_
 
 ### [ The New York Stock Exchange is in merger talks with London Stock Exchange. If the merger went ahead, it would create a stock exchange giant. ](/news/2006/04/18/the-new-york-stock-exchange-is-in-merger-talks-with-london-stock-exchange-if-the-merger-went-ahead-it-would-create-a-stock-exchange-giant.md)
 _Context: London Stock Exchange, New York Stock Exchange_

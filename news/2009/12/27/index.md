@@ -7,7 +7,7 @@ A consortium led by the Korea Electric Power Corp. won a $40 billion contract Su
 _Context: Abdul-Malik al-Houthi, Houthi, Shia insurgency in Yemen, Yemen_
 
 ### [ At least six people are dead and many missing after a ferry sinks off Verde Island near Batangas, Philippines, the second such disaster in as many days. ](/news/2009/12/27/at-least-six-people-are-dead-and-many-missing-after-a-ferry-sinks-off-verde-island-near-batangas-philippines-the-second-such-disaster-in.md)
-_Context: Batangas, Philippines, Verde Island_
+_Context: Batangas, Philippine, Verde Island_
 
 ### [ The nephew of opposition leader Mir-Hossein Mousavi is killed by security forces in clashes with protestors. ](/news/2009/12/27/the-nephew-of-opposition-leader-mir-hossein-mousavi-is-killed-by-security-forces-in-clashes-with-protestors.md)
 _Context: Mir-Hossein Mousavi_

@@ -25,7 +25,7 @@ _Context:  ban on tobacco advertising, EU_
 _Context: (Wikinews), John R. Bolton, United States Ambassador to the United Nations_
 
 ### [ In Egypt, opposition party al-Wafd (Delegation Party) announces that it will endorse its leader Numan Gumaa as a candidate in presidential election next September ](/news/2005/08/1/in-egypt-opposition-party-al-wafd-delegation-party-announces-that-it-will-endorse-its-leader-numan-gumaa-as-a-candidate-in-presidential.md)
-_Context: Delegation Party, Egypt, Numan Gumaa, al-Wafd_
+_Context: Delegation Party, Egypt's, Numan Gumaa, al-Wafd_
 
 ### [ NASA announces that astronauts will make repairs on the bottom of the space shuttle Discovery to ensure its safety in re-entry [http://www.space.com/missionlaunches/050801_sts114_spacewalk_repair.html (Space.com)] [http://www.sciencedaily.com/upi/index.php?feed=Science&article=UPI-1-20050801-21423000-bc-us-shuttle-1stld.xml (Science Daily)] [http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-02T004549Z_01_KWA637703_RTRUKOC_0_SPACE-SHUTTLE.xml (Reuters)] (Link dead as of 02:29, 15 January 2007 (UTC))](/news/2005/08/1/nasa-announces-that-astronauts-will-make-repairs-on-the-bottom-of-the-space-shuttle-discovery-to-ensure-its-safety-in-re-entry-http-www.md)
 _Context: Discovery, NASA, Space Shuttle_

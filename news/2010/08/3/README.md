@@ -16,7 +16,7 @@ At least two killed as security forces fire on protesters defying curfew.
 Poland delays the planned removal of a cross dedicated to the late President Kaczynski after hundreds of his supporters clashed with police.
 
 ### [Jordan says it has evidence that a fatal Grad-type rocket strike on Aqaba originated in Egypt's Sinai Peninsula. ](/news/2010/08/3/jordan-says-it-has-evidence-that-a-fatal-grad-type-rocket-strike-on-aqaba-originated-in-egypt-s-sinai-peninsula.md)
-_Context: Aqaba, Egypt, Jordan, Sinai_
+_Context: Aqaba, Egypt's, Jordan, Sinai Peninsula_
 
 ### [At least 5 police officers are shot dead at a checkpoint in Baghdad, Iraq. ](/news/2010/08/3/at-least-5-police-officers-are-shot-dead-at-a-checkpoint-in-baghdad-iraq.md)
 _Context: Baghdad, Iraq_

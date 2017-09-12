@@ -7,7 +7,7 @@ Harry, 22, is a junior officer in the upper-crust Blues and Royals regiment of t
 _Context: Italian Prime Minister, Italy, Romano Prodi_
 
 ### [ Abdel Kareem Soliman is convicted of insulting Islam and Egyptian President Hosni Mubarak on his weblog and is sentenced to four years in prison. ](/news/2007/02/22/abdel-kareem-soliman-is-convicted-of-insulting-islam-and-egyptian-president-hosni-mubarak-on-his-weblog-and-is-sentenced-to-four-years-in-p.md)
-_Context: Abdel Kareem Soliman, Egypt, Egyptian President, Hosni Mubarak, Muslims, prison, weblog_
+_Context: Abdel Kareem Soliman, Egypt's, Egyptian President, Hosni Mubarak, Muslims, prison, weblog_
 
 ### [ Four men are arrested in Guatemala for the killing of three Central American Parliament members from El Salvador and their driver. ](/news/2007/02/22/four-men-are-arrested-in-guatemala-for-the-killing-of-three-central-american-parliament-members-from-el-salvador-and-their-driver.md)
 _Context: Central American Parliament, El Salvador, Guatemala_

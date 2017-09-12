@@ -34,7 +34,7 @@ Barack Obama has condemned an American pastor&rsquo;s plan to burn copies of the
 _Context: China, Shandong, anti-corruption, bribe_
 
 ### [Investigators in the Philippines admit that Manila Police District officers may have shot dead some of the tourists killed in the Manila hostage crisis in August. ](/news/2010/09/9/investigators-in-the-philippines-admit-that-manila-police-district-officers-may-have-shot-dead-some-of-the-tourists-killed-in-the-manila-hos.md)
-_Context: Manila Police District, Manila hostage crisis, Philippines_
+_Context: Manila Police District, Manila hostage crisis, Philippine_
 
 ### [US District Court Judge Virginia A. Phillips rules that the United States military's don't ask, don't tell policy violates the First Amendment rights of gay men and lesbians. ](/news/2010/09/9/us-district-court-judge-virginia-a-phillips-rules-that-the-united-states-military-s-don-t-ask-don-t-tell-policy-violates-the-first-amendme.md)
 _Context: First Amendment, US District Court Judge, United States military, Virginia A. Phillips, don't ask, don't tell, gay, lesbian_

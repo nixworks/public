@@ -7,7 +7,7 @@ _Context: Democratic Republic of the Congo, Fizi, Medecins Sans Frontieres, Sout
 At least 14 people have been killed in ethnic clashes in the western Ivory Coast city of Duekoue, a United Nations official said on Thursday declining to make a link with the presidential crisis in Abidjan.
 
 ### [Egyptian police increases security around Coptic churches on the eve of Coptic Christmas, following a bombing in Alexandria on New Year's Day that killed 23 people and sparked protests and riots across the country. ](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.md)
-_Context: Alexandria, Copt, Coptic Christmas, Egypt, New Year's Day, New Year's Day church bombing_
+_Context: Alexandria, Copt, Coptic Christmas, Egypt's, New Year's Day, New Year's Day church bombing_
 
 ### [An abducted Hungarian civilian, who worked for the UN-African Union peacekeeping mission in Sudan's Darfur region, is released. ](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-the-un-african-union-peacekeeping-mission-in-sudan-s-darfur-region-is-released.md)
 _Context: Darfur, Hungary, Sudan, UNAMID, conflict_

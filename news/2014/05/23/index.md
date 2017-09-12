@@ -1,7 +1,7 @@
 ## [2014-05-23](/news/2014/05/23/index.md)
 
 ### [Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-members-in-overnigh.md)
-_Context: Egypt, extremist groups_
+_Context: Egypt's, extremist groups_
 
 ### [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
 _Context: Afghanistan's, Herat Province, attack the Indian consulate_

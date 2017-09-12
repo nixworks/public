@@ -10,7 +10,7 @@ The last UK base and a key US base in Afghanistan are handed over to Afghan secu
 Egyptian report claims perpetrators of Friday attack on army post in Sinai that killed 30 troops arrived via Gaza tunnel
 
 ### [Peace talks between Hamas and Israel have been canceled after the Hamas delegation was refused entry into Egypt following recent attacks against the Egyptian Army. ](/news/2014/10/26/peace-talks-between-hamas-and-israel-have-been-canceled-after-the-hamas-delegation-was-refused-entry-into-egypt-following-recent-attacks-aga.md)
-_Context: Egypt, Gaza-Israel conflict, Hamas, Israel, recent attacks_
+_Context: Egypt's, Gaza-Israel conflict, Hamas, Israel, recent attacks_
 
 ### [Senzo Meyiwa, the goalkeeper and captain of the South Africa national football team, is fatally shot in a township near Johannesburg. ](/news/2014/10/26/senzo-meyiwa-the-goalkeeper-and-captain-of-the-south-africa-national-football-team-is-fatally-shot-in-a-township-near-johannesburg.md)
 _Context: Johannesburg, Senzo Meyiwa, South Africa national football team, goalkeeper_

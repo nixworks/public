@@ -52,7 +52,7 @@ _Context: Iran, two American citizens_
 _Context: Blaise Compaore, Burkina Faso, President_
 
 ### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International. ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
-_Context: Amnesty International, Egypt, Egyptian parliamentary elections_
+_Context: Amnesty International, Egypt's, Egyptian parliamentary elections_
 
 ### [Iranian President Mahmoud Ahmadinejad rejects the country's once effective family planning program as an "ungodly Western import" and urges girls to marry at age of 16. ](/news/2010/11/21/iranian-president-mahmoud-ahmadinejad-rejects-the-country-s-once-effective-family-planning-program-as-an-ungodly-western-import-and-urges.md)
 Iranian president criticizes family planning program that reduced birth rate as &#39;ungodly Western import&#39;

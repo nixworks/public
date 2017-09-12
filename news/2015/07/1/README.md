@@ -7,7 +7,7 @@ _Context: Aden, Houthi, United Nations, Yemeni Civil War (2015), dengue fever_
 At least 60 Egyptian soldiers were on Wednesday killed as heavily-armed IS militants launched a wave of simultaneous attacks on army checkpoints, including three suicide bombings, in one of the biggest assaults in the restive Sinai Peninsula.
 
 ### [Egypt's security forces kill nine 'terrorists' during a raid in a Western Cairo suburb. The group were among "the most dangerous terrorists" wanted in Egypt according to Giza deputy security director Magdy Abd El-Aal. It has also been reported that Nasser al-Hafi, a former MP and a leading lawyer for the Muslim Brotherhood was among those killed. ](/news/2015/07/1/egypt-s-security-forces-kill-nine-terrorists-during-a-raid-in-a-western-cairo-suburb-the-group-were-among-the-most-dangerous-terrorists.md)
-_Context: Cairo, Egypt, Egyptian Muslim Brotherhood, Giza, Nasser al-Hafi_
+_Context: Cairo, Egypt's, Egyptian Muslim Brotherhood, Giza, Nasser al-Hafi_
 
 ### [The Episcopal Church in the United States adopts its liturgy for same sex marriages. ](/news/2015/07/1/the-episcopal-church-in-the-united-states-adopts-its-liturgy-for-same-sex-marriages.md)
 The measure passed by an overwhelming margin at the denomination&#x27;s national assembly in Salt Lake City on Wednesday.

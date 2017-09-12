@@ -4,7 +4,7 @@
 _Context: Luhansk Oblast, Ukrainian military, War in Donbass_
 
 ### [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md)
-_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S., U.S. airstrikes, United States Army_
+_Context: Delta Force, ISIL, Iraq, Iraqi Civil War (2014-present), U.S., U.S. airstrikes, U.S. soldiers_
 
 ### [Faulty readings from a GPS system apparently resulted in two Israeli soldiers driving into the Qalandiya refugee camp in the occupied West Bank. Israeli forces sent in on a rescue mission, engaged armed Palestinians. One 22-year-old Palestinian man was killed with 10 others wounded, one seriously, in the ensuing gun battle. At least 10 Israeli soldiers were wounded. ](/news/2016/03/1/faulty-readings-from-a-gps-system-apparently-resulted-in-two-israeli-soldiers-driving-into-the-qalandiya-refugee-camp-in-the-occupied-west-b.md)
 Two Israeli troops were following directions from the Waze app when they drove into Qalandiya refugee camp
@@ -31,7 +31,7 @@ Britain is to send troops to Tunisia to help prevent Islamic State fighters from
 The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a humanitarian crisis as disunity and inconsistency continue to mar European response plans.
 
 ### [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md)
-_Context: China, Philippines, South China Sea, South China Sea disputes_
+_Context: China, Philippine, South China Sea, South China Sea disputes_
 
 ### [A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.md)
 Hundreds of children in western Pennsylvania were sexually assaulted by about 50 Roman Catholic priests over four decades while bishops covered up their actions, according to a state grand jury report released on Tuesday.

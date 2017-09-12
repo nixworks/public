@@ -4,7 +4,7 @@
 _Context: New York City, U.S., arrest, bomb, synagogue, warplanes_
 
 ### [ Egyptian businessman Hisham Talaat Moustafa is convicted of murdering Lebanese pop singer Suzanne Tamim. ](/news/2009/05/21/egyptian-businessman-hisham-talaat-moustafa-is-convicted-of-murdering-lebanese-pop-singer-suzanne-tamim.md)
-_Context: Egypt, Hisham Talaat Moustafa, Lebanon, Suzanne Tamim, businessman, convicted, murder, pop_
+_Context: Egypt's, Hisham Talaat Moustafa, Lebanon, Suzanne Tamim, businessman, convicted, murder, pop_
 
 ### [ A man who entered the President's official residence in Belgrade, Serbia, with at least one hand grenade surrenders. ](/news/2009/05/21/a-man-who-entered-the-president-s-official-residence-in-belgrade-serbia-with-at-least-one-hand-grenade-surrenders.md)
 _Context: Belgrade, President, Serbia, grenade, official residence_

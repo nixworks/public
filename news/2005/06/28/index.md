@@ -34,7 +34,7 @@ _Context: Guinea-Bissau, Kumba Yala_
 _Context: Manfred Nowak, POWs, United Nations, rapporteur_
 
 ### [ In Egypt presidential candidate Ayman Nour pleads not guilty in forging signatures in his party's registration. His supporters demonstrate outside the courthouse. Nour is regarded as the main rival candidate to incumbent president Hosni Mubarak. ](/news/2005/06/28/in-egypt-presidential-candidate-ayman-nour-pleads-not-guilty-in-forging-signatures-in-his-party-s-registration-his-supporters-demonstrate.md)
-_Context: Ayman Nour, Egypt, Hosni Mubarak_
+_Context: Ayman Nour, Egypt's, Hosni Mubarak_
 
 ### [ Ugandan parliament votes to remove the law that limits presidential terms to two 5-year terms. Opposition critics say that it intended to make Yoweri Museveni president-for-life. Police disperses opposition demonstrators with tear gas. ](/news/2005/06/28/ugandan-parliament-votes-to-remove-the-law-that-limits-presidential-terms-to-two-5-year-terms-opposition-critics-say-that-it-intended-to-m.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

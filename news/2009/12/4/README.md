@@ -16,13 +16,13 @@ _Context: Indonesia, Medan, North Sumatra_
 _Context: Hifikepunye Pohamba, Namibia, SWAPO, elections last week_
 
 ### [ At least 50 people are missing after two ferries collide on the River Nile near Rashid (Rosetta) in Egypt. ](/news/2009/12/4/at-least-50-people-are-missing-after-two-ferries-collide-on-the-river-nile-near-rashid-rosetta-in-egypt.md)
-_Context: Egypt, Rashid, River Nile_
+_Context: Egypt's, Rashid, River Nile_
 
 ### [ Two Rwandan soldiers are killed while on a peacekeeping mission in Darfur. ](/news/2009/12/4/two-rwandan-soldiers-are-killed-while-on-a-peacekeeping-mission-in-darfur.md)
 _Context: Darfur, Rwanda, conflict, peacekeeping mission_
 
 ### [ Security forces in the Philippines raid the compounds of clans suspected of being involved in the Maguindanao massacre. ](/news/2009/12/4/security-forces-in-the-philippines-raid-the-compounds-of-clans-suspected-of-being-involved-in-the-maguindanao-massacre.md)
-_Context: Maguindanao massacre, Philippines_
+_Context: Maguindanao massacre, Philippine_
 
 ### [ An Italian jury finds Amanda Knox and Raffaele Sollecito guilty in the case of the 2007 murder of Meredith Kercher in Perugia. Knox is sentenced to 26 years in prison, Sollecito to 25. ](/news/2009/12/4/an-italian-jury-finds-amanda-knox-and-raffaele-sollecito-guilty-in-the-case-of-the-2007-murder-of-meredith-kercher-in-perugia-knox-is-sent.md)
 _Context: Amanda Knox, Italy, Perugia, Raffaele Sollecito, killing Meredith Kercher_

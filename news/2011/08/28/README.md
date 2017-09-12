@@ -13,7 +13,7 @@ _Context: 2011 MTV Video Music Awards, Firework, Katy Perry, Los Angeles, Video 
 President Obama issued a state of emergency for Maryland on Saturday as the state&#039;s coast began to experience the first of Hurricane Irene&#039;s rain bands and deadly winds.
 
 ### [Typhoon Nanmadol kills eight people in the Philippines and is headed for Taiwan. ](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.md)
-_Context: Philippines, Typhoon Nanmadol, the Republic of China_
+_Context: Philippine, Typhoon Nanmadol, the Republic of China_
 
 ### [Five people are killed and at least 27 injured when a tram derails in the Santa Teresa neighborhood of Rio de Janeiro. ](/news/2011/08/28/five-people-are-killed-and-at-least-27-injured-when-a-tram-derails-in-the-santa-teresa-neighborhood-of-rio-de-janeiro.md)
 A tram popular with tourists derails in the Brazilian city of Rio de Janeiro killing its driver and four passengers, with another 27 injured.

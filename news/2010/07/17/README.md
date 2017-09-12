@@ -43,7 +43,7 @@ British tour operator Goldtrail collapses, leaving thousands of holidaymakers ab
 _Context: Israel, West Bank_
 
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Hai Phong, Philippines, Typhoon Conson, Vietnam_
+_Context: Hai Phong, Philippine, Typhoon Conson, Vietnam_
 
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
 _Context: Gaza Strip, Israel_

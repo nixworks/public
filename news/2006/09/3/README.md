@@ -1,7 +1,7 @@
 ## [2006-09-3](/news/2006/09/3/index.md)
 
 ### [ Egyptian daily "Al Akhbar" reports that three Palestinian terrorists are planning to carry out attacks on Israelis on holiday on Egypt's Sinai Peninsula. ](/news/2006/09/3/egyptian-daily-al-akhbar-reports-that-three-palestinian-terrorists-are-planning-to-carry-out-attacks-on-israelis-on-holiday-on-egypt-s-si.md)
-_Context: Al Akhbar, Egypt, Israel, Israeli-Palestinian conflict, Palestinian terrorist, Sinai_
+_Context: Al Akhbar, Egypt's, Israel, Israeli-Palestinian conflict, Palestinian terrorist, Sinai Peninsula_
 
 ### [ Europe's first lunar probe, "SMART-1," successfully crash-lands onto the moon, ending its 16-month mission. ](/news/2006/09/3/europe-s-first-lunar-probe-smart-1-successfully-crash-lands-onto-the-moon-ending-its-16-month-mission.md)
 _Context: Europe, SMART-1, The Moon_

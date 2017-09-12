@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [Philippine Senator Bong Revilla surrenders to the Sandiganbayan after the court issued a warrant for his arrest in relation to the PDAF scam. ](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-the-sandiganbayan-after-the-court-issued-a-warrant-for-his-arrest-in-relation-to-the-pdaf-scam.md)
-_Context: Bong Revilla, PDAF scam, Philippine Senate, Sandiganbayan_
+_Context: Bong Revilla, PDAF scam, Sandiganbayan, Senator_
 
 ### [Italy's Five Star Movement joins the eurosceptic political group Europe of Freedom and Democracy in the European Parliament, a group otherwise dominated by the United Kingdom Independence Party. ](/news/2014/06/20/italy-s-five-star-movement-joins-the-eurosceptic-political-group-europe-of-freedom-and-democracy-in-the-european-parliament-a-group-otherwi.md)
 _Context: Europe of Freedom and Democracy, European Parliament, Five Star Movement, United Kingdom Independence Party_

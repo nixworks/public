@@ -16,7 +16,7 @@ _Context: Army's Strategic Rocket Force, United Nations Security Council, interc
 The Russian government continues to partially remove sanctions on Turkey. A new decree lifted the ban on some agricultural products and some Turkish firms. Tomato imports might be allowed for some special uses, as Russia supports its own production
 
 ### [At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. ](/news/2017/06/2/at-least-37-people-are-killed-in-a-deliberately-lit-fire-at-resorts-world-manila-in-the-philippines-the-perpetrator-stole-gaming-chips-and.md)
-_Context: 2017 Resorts World Manila attack, Philippines, Resorts World Manila_
+_Context: 2017 Resorts World Manila attack, Philippine, Resorts World Manila_
 
 ### [Five anti-government/anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md)
 _Context: Kabul, May 2017 Kabul attack, War in Afghanistan (2015-present)_

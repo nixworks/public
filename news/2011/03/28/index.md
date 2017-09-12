@@ -40,7 +40,7 @@ Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer char
 _Context: southern Vietnam, tiger_
 
 ### [Egypt is to hold parliamentary elections in September 2011. ](/news/2011/03/28/egypt-is-to-hold-parliamentary-elections-in-september-2011.md)
-_Context: Egypt, parliamentary elections_
+_Context: Egypt's, parliamentary elections_
 
 ### [Barry O'Farrell is sworn as the Premier of the Australian state of New South Wales following Saturday's state election. ](/news/2011/03/28/barry-o-farrell-is-sworn-as-the-premier-of-the-australian-state-of-new-south-wales-following-saturday-s-state-election.md)
 _Context: Australia, Barry O'Farrell, New South Wales, Premier, state election_

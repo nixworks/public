@@ -19,7 +19,7 @@ At least 17 people are killed and hundreds injured, state media report, as huge 
 _Context: Japan, Okinawa, U.S. Army, U.S. Navy, UH-60 Black Hawk, helicopter_
 
 ### [The death toll from a heat wave in Egypt this week rises to 60. ](/news/2015/08/12/the-death-toll-from-a-heat-wave-in-egypt-this-week-rises-to-60.md)
-_Context: Egypt, heat wave_
+_Context: Egypt's, heat wave_
 
 ### [In a two year period, 280 to 300 children have been sexually abused and filmed doing forced sex acts in Pakistan by a gang consisting of 20 to 25 culprits. ](/news/2015/08/12/in-a-two-year-period-280-to-300-children-have-been-sexually-abused-and-filmed-doing-forced-sex-acts-in-pakistan-by-a-gang-consisting-of-20.md)
 Seven people are arrested in eastern Pakistan on suspicion of involvement in a widespread child sexual abuse and extortion scandal.

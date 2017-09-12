@@ -22,7 +22,7 @@ Record high snowfall blanketed the central part of the Korean peninsula on the f
 More snow is forecast to fall as icy conditions continue to hamper road users throughout the country.
 
 ### [Egyptian archaeologists discover the largest tomb yet discovered in the ancient Saqqara necropolis. ](/news/2010/01/4/egyptian-archaeologists-discover-the-largest-tomb-yet-discovered-in-the-ancient-saqqara-necropolis.md)
-_Context: Egypt, Saqqara_
+_Context: Egypt's, Saqqara_
 
 ### [A diesel fuel leak in Shaanxi, China reaches the Yellow River, a water source for millions of people. ](/news/2010/01/4/a-diesel-fuel-leak-in-shaanxi-china-reaches-the-yellow-river-a-water-source-for-millions-of-people.md)
 A spill of around 150,000 litresof diesel oil from a broken pipeline in northwestern China intoa river has started reaching the Yellow River, but drinkingwater is safe for now, state media said on Monday.

@@ -19,7 +19,7 @@ _Context: Fiji, flood_
 Aung San Suu Kyi&#039;s party claims she has won a seat in Burma&#039;s parliament after Sunday&#039;s historic election, setting the stage for her to hold public office for the first time.
 
 ### [The Muslim Brotherhood in Egypt nominates chairman Khairat El-Shater as a candidate for the presidential elections in May 2012. ](/news/2012/04/1/the-muslim-brotherhood-in-egypt-nominates-chairman-khairat-el-shater-as-a-candidate-for-the-presidential-elections-in-may-2012.md)
-_Context: Egypt, Khairat el-Shater, Muslim Brotherhood, presidential election_
+_Context: Egypt's, Khairat el-Shater, Muslim Brotherhood, presidential election_
 
 ### [Former President of Mexico Miguel de la Madrid dies of complications of lung disease in Mexico City at the age of 77. ](/news/2012/04/1/former-president-of-mexico-miguel-de-la-madrid-dies-of-complications-of-lung-disease-in-mexico-city-at-the-age-of-77.md)
 Miguel de la Madrid, who led Mexico between 1982 and 1988, helped open up the country economically and politically. His tenure was besmirched by Mexico&apos;s lingering financial troubles and a weak response to the catastrophic 1985 quake.

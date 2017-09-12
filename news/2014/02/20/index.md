@@ -4,7 +4,7 @@
 The EU agrees to impose sanctions on Ukrainian officials &quot;responsible for violence and excessive force&quot; after the bloodiest day of clashes in Kiev.
 
 ### [Egyptian security officials say army helicopter gunships have rocketed several houses where militants were thought to have gathered in the northern region of the Sinai Peninsula, killing at least 10. ](/news/2014/02/20/egyptian-security-officials-say-army-helicopter-gunships-have-rocketed-several-houses-where-militants-were-thought-to-have-gathered-in-the-n.md)
-_Context: Egypt, Sinai_
+_Context: Egypt's, Sinai Peninsula_
 
 ### [A shooter opens fire inside a Native American tribal office in Alturas, California, United States, killing four and wounding two. ](/news/2014/02/20/a-shooter-opens-fire-inside-a-native-american-tribal-office-in-alturas-california-united-states-killing-four-and-wounding-two.md)
 _Context: Alturas, California, Native American_

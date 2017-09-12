@@ -19,7 +19,7 @@ _Context: Foreign Minister of Japan, Japan, Liberal Democratic Party, Liberal De
 _Context: 2008 general elections, Edward Natapei, Ham Lini, Prime Minister of Vanuatu, Vanuatu_
 
 ### [ 15 people, including 11 foreign nationals, are kidnapped near Aswan in southern Egypt. ](/news/2008/09/22/15-people-including-11-foreign-nationals-are-kidnapped-near-aswan-in-southern-egypt.md)
-_Context: Aswan, Egypt_
+_Context: Aswan, Egypt's_
 
 ### [ Radiocarbon dating estimates that Stonehenge was constructed around 2300 BC. ](/news/2008/09/22/radiocarbon-dating-estimates-that-stonehenge-was-constructed-around-2300-bc.md)
 _Context: Stonehenge, radiocarbon dating_

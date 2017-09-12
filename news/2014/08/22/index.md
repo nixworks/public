@@ -19,7 +19,7 @@ _Context: Hiroshima prefecture, Japan, landslide_
 _Context: Kuala Lumpur, Malaysia Airlines Flight 17, Malaysian, Ukraine_
 
 ### [44 people are killed and 41 injured after two buses crash in the south of Egypt's Sinai Peninsula. ](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.md)
-_Context: Egypt, Sinai_
+_Context: Egypt's, Sinai Peninsula_
 
 ### [The murder conviction of David Eastman for allegedly killing former Australian Federal Police Assistant Commissioner Colin Winchester is quashed after Eastman has served a 19-year prison sentence. ](/news/2014/08/22/the-murder-conviction-of-david-eastman-for-allegedly-killing-former-australian-federal-police-assistant-commissioner-colin-winchester-is-qua.md)
 David Eastman&#039;s conviction has been quashed and he could soon walk from prison a free man after serving more than 19 years of a life sentence.

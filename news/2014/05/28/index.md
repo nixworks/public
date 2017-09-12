@@ -25,7 +25,7 @@ Police in the northern French city of Calais are dismantling camps housing hundr
 _Context: Jos Rodrigo Archiga Gamboa, Sinaloa Cartel_
 
 ### [Voting in Egypt continues for an unscheduled third day due to concerns about low turnout. Official results show former military chief Abdul Fattah al-Sisi headed for a massive victory with 92% of the vote. ](/news/2014/05/28/voting-in-egypt-continues-for-an-unscheduled-third-day-due-to-concerns-about-low-turnout-official-results-show-former-military-chief-abdul.md)
-_Context: Abdul Fattah al-Sisi, Egypt_
+_Context: Abdul Fattah al-Sisi, Egypt's_
 
 ### [US President Barack Obama announces a $5 billion "terrorism partnership fund" to help other countries tackle extremists. ](/news/2014/05/28/us-president-barack-obama-announces-a-5-billion-terrorism-partnership-fund-to-help-other-countries-tackle-extremists.md)
 President Barack Obama promises a US foreign policy based on &quot;collective action&quot; with allies abroad and funds to train allies to fight terrorism.

@@ -13,7 +13,7 @@ News and opinion from The Times &amp; The Sunday Times
 _Context: Al Qaida's, Interpol, SANAA, USS ''Cole'' bombing, Yemen_
 
 ### [ Egypt's Supreme Council of Antiquities announces the discovery of an intact pharaonic tomb in the Valley of the Kings&nbsp;&ndash; the first to be discovered since King Tutankhamun's in 1922. ](/news/2006/02/9/egypt-s-supreme-council-of-antiquities-announces-the-discovery-of-an-intact-pharaonic-tomb-in-the-valley-of-the-kings-nbsp-ndash-the-firs.md)
-_Context: Egypt, KV63, Supreme Council of Antiquities, Valley of the Kings, the tomb_
+_Context: Egypt's, KV63, Supreme Council of Antiquities, Valley of the Kings, the tomb_
 
 ### [ In Turkey, Istanbul's police chief said a bomb blast at an Internet cafe in the city had wounded 14 people. ](/news/2006/02/9/in-turkey-istanbul-s-police-chief-said-a-bomb-blast-at-an-internet-cafe-in-the-city-had-wounded-14-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

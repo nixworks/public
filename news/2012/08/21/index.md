@@ -10,7 +10,7 @@ The Army Bomb Disposal Team has been called out on four separate occasions in Du
 _Context: China, Iran, Oil imports_
 
 ### [A search and rescue team recovers the body of former Philippines Interior and Local Government Secretary Jesse Robredo after a crash that claimed his life and two others on Saturday off Masbate. ](/news/2012/08/21/a-search-and-rescue-team-recovers-the-body-of-former-philippines-interior-and-local-government-secretary-jesse-robredo-after-a-crash-that-cl.md)
-_Context: Jesse Robredo, Masbate, Philippines, crash_
+_Context: Jesse Robredo, Masbate, Philippine, crash_
 
 ### [At least 20 people in the Democratic Republic of the Congo die from the Ebola virus disease. ](/news/2012/08/21/at-least-20-people-in-the-democratic-republic-of-the-congo-die-from-the-ebola-virus-disease.md)
 _Context: Democratic Republic of the Congo, Ebola_

@@ -16,7 +16,7 @@ Turkish-backed rebels in Syria are advancing on the symbolically important IS st
 At least one missile was fired at the destroyer, but the ship deployed countermeasures and was not struck. It was targeted twice earlier this week.
 
 ### [Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. ](/news/2016/10/15/egyptian-government-airstrikes-on-jihadist-targets-in-north-sinai-governorate-leave-at-least-100-terrorists-killed-and-40-others-wounded.md)
-_Context: Egypt, North Sinai Governorate, Sinai insurgency, jihadist_
+_Context: Egypt's, North Sinai Governorate, Sinai insurgency, jihadist_
 
 ### [A wildlife sanctuary for rescued elephants opens in Brazil. ](/news/2016/10/15/a-wildlife-sanctuary-for-rescued-elephants-opens-in-brazil.md)
 An elephant sanctuary has opened in Brazil to provide a home for an estimated 50 circus animals from across Latin America.

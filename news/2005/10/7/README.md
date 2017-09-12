@@ -1,7 +1,7 @@
 ## [2005-10-7](/news/2005/10/7/index.md)
 
 ### [ Conflict in Afghanistan: U.S. Troops kill four Afghan police, after mistaking them for militants in the Girishk district of the Helmand Province. ](/news/2005/10/7/conflict-in-afghanistan-u-s-troops-kill-four-afghan-police-after-mistaking-them-for-militants-in-the-girishk-district-of-the-helmand-pro.md)
-_Context: Afghanistan's, Helmand Province, United States Army, War in Afghanistan (2001-present)_
+_Context: Afghanistan's, Helmand Province, U.S. soldiers, War in Afghanistan (2001-present)_
 
 ### [ Militants kill at least 8 members of the Ahmadiyya faith inside a Mosque as worshippers were performing Salah. The attack occurred in Mandi Bahauddin in Punjab, Pakistan. ](/news/2005/10/7/militants-kill-at-least-8-members-of-the-ahmadiyya-faith-inside-a-mosque-as-worshippers-were-performing-salah-the-attack-occurred-in-mandi.md)
 _Context: Ahmadiyya, Mandi Bahauddin, Pakistan, Punjab, Salah, mosque_

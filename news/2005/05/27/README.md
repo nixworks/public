@@ -4,7 +4,7 @@
 _Context: BBC, King Fahd, hospital, lungs_
 
 ### [ Qur'an desecration by US military: Protests have occurred in Egypt, Pakistan, Jordan, Lebanon and Malaysia after the US military admitted that the Qur'an had been "mishandled" by soldiers. ](/news/2005/05/27/qur-an-desecration-by-us-military-protests-have-occurred-in-egypt-pakistan-jordan-lebanon-and-malaysia-after-the-us-military-admitted-t.md)
-_Context: Egypt, Jordan, Lebanon, Malaysia, Pakistan, Qur'an, Qur'an desecration by US military, US military_
+_Context: Egypt's, Jordan, Lebanon, Malaysia, Pakistan, Qur'an, Qur'an desecration by US military, US military_
 
 ### [ The Bundesrat of Germany ratifies the Treaty establishing a Constitution for Europe. ](/news/2005/05/27/the-bundesrat-of-germany-ratifies-the-treaty-establishing-a-constitution-for-europe.md)
 _Context: European constitution, upper house of parliament_

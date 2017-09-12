@@ -16,7 +16,7 @@ More than 3,000 Toyota workers are striking for a fifth day this month over a pa
 (The following statement was released by the rating agency) Sept 23- U.S. commercial properties have seen some minor improvements of late, but the
 
 ### [Floods in the Filipino province of Maguindanao affect 16,000 families. ](/news/2011/09/23/floods-in-the-filipino-province-of-maguindanao-affect-16-000-families.md)
-_Context: Maguindanao, Philippines, flood_
+_Context: Maguindanao, Philippine, flood_
 
 ### [During the opening of the General Assembly of the United Nations, the President of the Palestinian National Authority, Mahmoud Abbas, makes a bid for UN recognition in a unilateral declaration of a Palestinian state, which would exist in the Gaza Strip and the West Bank, and have East Jerusalem as its capital. ](/news/2011/09/23/during-the-opening-of-the-general-assembly-of-the-united-nations-the-president-of-the-palestinian-national-authority-mahmoud-abbas-makes.md)
 The Middle East Quartet urges Israel and the Palestinians to resume peace talks within a month, after the Palestinians ask the UN to recognise their state.

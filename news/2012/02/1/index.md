@@ -4,7 +4,7 @@
 _Context: Afghanistan's, NATO, Pakistan, Taliban, Times_
 
 ### [The Xinhua news agency reports that 25 Chinese workers held captive in the Sinai region of Egypt have been released. ](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.md)
-_Context: Chinese, Egypt, Sinai, Xinhua_
+_Context: Chinese, Egypt's, Sinai, Xinhua_
 
 ### [Pakistan Air Force jets bomb militant positions in the Orakzai and Kurram Agency areas near the border with Afghanistan with claims that 31 alleged insurgents were killed. ](/news/2012/02/1/pakistan-air-force-jets-bomb-militant-positions-in-the-orakzai-and-kurram-agency-areas-near-the-border-with-afghanistan-with-claims-that-31.md)
 _Context: Afghanistan's, Kurram, Orakzai Tribal Area, Pakistan Air Force_

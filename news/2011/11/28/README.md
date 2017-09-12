@@ -4,7 +4,7 @@
 _Context: 2011 Yemeni uprising, Shia, Sunni, Yemen_
 
 ### [Saboteurs attack Egypt's gas pipeline to Israel and Jordan, destroying a section of the pipeline west of al-Arish in Sinai. ](/news/2011/11/28/saboteurs-attack-egypt-s-gas-pipeline-to-israel-and-jordan-destroying-a-section-of-the-pipeline-west-of-al-arish-in-sinai.md)
-_Context: Al-Arish, Egypt, Israel, Jordan, Saboteur, Sinai_
+_Context: Al-Arish, Egypt's, Israel, Jordan, Saboteur, Sinai_
 
 ### [Fitch Ratings maintains the credit rating of the United States government at AAA, but downgrades its outlook on the government to negative. This follows rival ratings agency Standard & Poor's downgrade of the U.S. credit rating in August. ](/news/2011/11/28/fitch-ratings-maintains-the-credit-rating-of-the-united-states-government-at-aaa-but-downgrades-its-outlook-on-the-government-to-negative.md)
 Fitch said it was revising its outlook on the U.S. credit rating to negative from stable, while keeping its ‘AAA’ rating intact.
@@ -19,7 +19,7 @@ _Context: High Court, Kenya, Omar al-Bashir, President of Sudan, Sudan_
 _Context: 2011 United Nations Climate Change Conference, Durban, South Africa_
 
 ### [Voters in Egypt go to the polls for the first round of voting in parliamentary elections. ](/news/2011/11/28/voters-in-egypt-go-to-the-polls-for-the-first-round-of-voting-in-parliamentary-elections.md)
-_Context: Egypt, lower house of the national parliament_
+_Context: Egypt's, lower house of the national parliament_
 
 ### [The Prime Minister of Kuwait, Sheikh Nasser Mohammed Al-Ahmed Al-Sabah, and his cabinet resign after protesters storm the national Parliament. ](/news/2011/11/28/the-prime-minister-of-kuwait-sheikh-nasser-mohammed-al-ahmed-al-sabah-and-his-cabinet-resign-after-protesters-storm-the-national-parliamen.md)
 Kuwait&#039;s PM and his government have resigned after protesters stormed parliament last week.

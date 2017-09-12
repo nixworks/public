@@ -19,7 +19,7 @@ The Northern Ireland Secretary of State Owen Paterson has received a copy of the
 _Context: Wen Jiabao, labour unrest in China_
 
 ### [Egypt and Al Jazeera Sports clash over claims of interference in the transmission of 2010 FIFA World Cup soccer matches. ](/news/2010/06/14/egypt-and-al-jazeera-sports-clash-over-claims-of-interference-in-the-transmission-of-2010-fifa-world-cup-soccer-matches.md)
-_Context: 2010 FIFA World Cup, Al Jazeera Sports, Egypt_
+_Context: 2010 FIFA World Cup, Al Jazeera Sports, Egypt's_
 
 ### [A California judge refuses to suspend the medical licence of Conrad Murray, the doctor charged in connection with Michael Jackson's death. ](/news/2010/06/14/a-california-judge-refuses-to-suspend-the-medical-licence-of-conrad-murray-the-doctor-charged-in-connection-with-michael-jackson-s-death.md)
 _Context: California, Conrad Murray, Michael Jackson, death_
@@ -28,7 +28,7 @@ _Context: California, Conrad Murray, Michael Jackson, death_
 _Context: Ganges River, India_
 
 ### [At least 14 people are killed and at least 30 are injured when a tourist bus disappears over the edge of a ravine in the Philippines. ](/news/2010/06/14/at-least-14-people-are-killed-and-at-least-30-are-injured-when-a-tourist-bus-disappears-over-the-edge-of-a-ravine-in-the-philippines.md)
-_Context: Philippines_
+_Context: Philippine_
 
 ### [10 police are killed and several others are wounded in an ambush by drug hitmen in Zitacuaro Michoacan. ](/news/2010/06/14/10-police-are-killed-and-several-others-are-wounded-in-an-ambush-by-drug-hitmen-in-zita-cuaro-michoaca-n.md)
 Armed attacks on Mexican federal police Monday in violent Michoacan state sparked shootouts that killed at least 10 officers and an unknown number of gunmen, authorities said.The twin ambushes in...

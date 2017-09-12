@@ -73,7 +73,7 @@ _Context: Medicare, U.S., fraud, physical therapists_
 Police arrested nine people and seized 300 firearms, including assault rifles, in a raid targeting an arms ring that allegedly sold weapons to Mexican drug traffickers, authorities said on Thursday.
 
 ### [Former Egyptian Interior Minister Habib Ibrahim El Adly is arrested pending investigation of corruption allegations along with former Housing Minister Ahmed Maghrabi, former Tourism Minister Zuhair Garana and a former official from the National Democratic Party. ](/news/2011/02/17/former-egyptian-interior-minister-habib-ibrahim-el-adly-is-arrested-pending-investigation-of-corruption-allegations-along-with-former-housin.md)
-_Context: Ahmed Maghrabi, Egypt, Habib Ibrahim El Adly, National Democratic Party, Zuhair Garana_
+_Context: Ahmed Maghrabi, Egypt's, Habib Ibrahim El Adly, National Democratic Party, Zuhair Garana_
 
 ### [Anthony Graves, an American man found innocent of the murders which left him on death row for 18 years, is denied restitution due to a technicality. ](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.md)
 FOX 26 Houston News, Breaking News, Local, Weather, Traffic, Sports

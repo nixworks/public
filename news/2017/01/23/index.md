@@ -4,7 +4,7 @@
 Army forces enter southwestern port city of Mokha, as dozens of families flee ongoing clashes and bombardments.
 
 ### [At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. ](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed-by-unknown-gunmen-in-the-sinai-peninsula.md)
-_Context: Egyptian Army, Sinai, Sinai insurgency_
+_Context: Egyptian Army, Sinai Peninsula, Sinai insurgency_
 
 ### [John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. ](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.md)
 _Context: Aetna, Humana, John D. Bates, U.S. District Court for the District of Columbia, United States federal judge, health insurance_

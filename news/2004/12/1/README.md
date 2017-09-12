@@ -22,7 +22,7 @@ _Context: AIDS, patent_
 _Context: Secretary General, United Nations Security Council reform, reform of the United Nations_
 
 ### [Egypt and Israel hold talks in Jerusalem to discuss the planned Israeli withdrawal from the Gaza Strip. ](/news/2004/12/1/egypt-and-israel-hold-talks-in-jerusalem-to-discuss-the-planned-israeli-withdrawal-from-the-gaza-strip.md)
-_Context: Egypt, Gaza Strip, Israel, Jerusalem_
+_Context: Egypt's, Gaza Strip, Israel, Jerusalem_
 
 ### [U.S. President George W. Bush holds talks with Prime Minister Paul Martin of Canada in his first official visit to the country and agrees to work together to combat terrorism. ](/news/2004/12/1/u-s-president-george-w-bush-holds-talks-with-prime-minister-paul-martin-of-canada-in-his-first-official-visit-to-the-country-and-agrees-to.md)
 _Context: Canadian Prime Minister, George W. Bush, Paul Martin, President, terrorism_

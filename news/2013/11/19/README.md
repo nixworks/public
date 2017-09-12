@@ -16,7 +16,7 @@ When president Abraham Lincoln dedicated a cemetery on the Gettysburg battlefiel
 Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliners to Iraqi Airways, the Canadian plane and train maker said on Tuesday.
 
 ### [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
-_Context: Philippines, World Bank_
+_Context: Philippine, World Bank_
 
 ### [At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md)
 At least 18 people are killed in flooding after a cyclone lashes the island of Sardinia, prompting Italy to declare a state of emergency.

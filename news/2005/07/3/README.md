@@ -7,7 +7,7 @@ _Context: Andy Roddick, Roger Federer_
 _Context: 1919, Alcock and Brown, Clifden, Connemara, First World War, Ireland, St. John's, Steve Fossett, Vickers Vimy, transatlantic flight_
 
 ### [ Ihab al-Sherif, Egypt's most senior envoy to Iraq is kidnapped by gunmen while buying a newspaper. He was to be promoted to ambassador, representing the first Arab nation to recognize the new Iraqi government. ](/news/2005/07/3/ihab-al-sherif-egypt-s-most-senior-envoy-to-iraq-is-kidnapped-by-gunmen-while-buying-a-newspaper-he-was-to-be-promoted-to-ambassador-rep.md)
-_Context: Arab world, Egypt, Ihab al-Sherif, Iraq, ambassador, kidnapped, newspaper_
+_Context: Arab world, Egypt's, Ihab al-Sherif, Iraq, ambassador, kidnapped, newspaper_
 
 ### [ Albanians vote in parliamentary elections. Final results are expected in Tuesday ](/news/2005/07/3/albanians-vote-in-parliamentary-elections-final-results-are-expected-in-tuesday.md)
 _Context: 2005 Albanian general election, Albania_

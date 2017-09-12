@@ -61,7 +61,7 @@ _Context: Tunisia_
 _Context: Jacques Chirac, Mayor of Paris, Paris, President of France, Rally for the Republic_
 
 ### [A new cabinet of Egypt is sworn in by the Chairman of the Supreme Council of the Armed Forces Mohamed Hussein Tantawi. ](/news/2011/03/7/a-new-cabinet-of-egypt-is-sworn-in-by-the-chairman-of-the-supreme-council-of-the-armed-forces-mohamed-hussein-tantawi.md)
-_Context: Egypt, Mohamed Hussein Tantawi, governing body_
+_Context: Egypt's, Mohamed Hussein Tantawi, governing body_
 
 ### [Seiji Maehara resigns as Foreign Minister of Japan after becoming involved in an illegal political donation scandal. ](/news/2011/03/7/seiji-maehara-resigns-as-foreign-minister-of-japan-after-becoming-involved-in-an-illegal-political-donation-scandal.md)
 Japan’s foreign minister of barely six months, Seiji Maehara, may have earned himself a distinction: the nation’s shortest-serving foreign minister.

@@ -28,7 +28,7 @@ _Context: April 2015 Mediterranean Sea migrant shipwrecks, Italian, Mediterranea
 _Context: American, Bali_
 
 ### [An Egyptian court sentences former President Mohammed Morsi to twenty years imprisonment for involvement in the killing of protesters when he was in power. ](/news/2015/04/21/an-egyptian-court-sentences-former-president-mohammed-morsi-to-twenty-years-imprisonment-for-involvement-in-the-killing-of-protesters-when-h.md)
-_Context: Egypt, Egyptian President, Mohammed Morsi_
+_Context: Egypt's, Egyptian President, Mohammed Morsi_
 
 ### [The U.S. Justice Department has charged Navinder Singh Sarao with commodities fraud and related offenses, alleging that he played a part in the flash crash of May 2010. ](/news/2015/04/21/the-u-s-justice-department-has-charged-navinder-singh-sarao-with-commodities-fraud-and-related-offenses-alleging-that-he-played-a-part-in.md)
 A high-frequency trader was arrested in London over his alleged role in the May 2010 &quot;flash crash&quot; that briefly wiped out nearly $1 trillion in market value, the first time authorities have blamed manipulation for the turbulence.

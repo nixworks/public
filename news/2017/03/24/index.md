@@ -19,7 +19,7 @@ An aid group finds two capsized boats capable of carrying 100 migrants each, and
 _Context: EU, France-Russia relations, Marine Le Pen, National Front, Russia, Vladimir Putin_
 
 ### [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md)
-_Context: Cairo, Egypt, Hosni Mubarak_
+_Context: Cairo, Egypt's, Hosni Mubarak_
 
 ### [The Gambia's justice minister Abubacarr Tambadou states that the country will establish a Truth and Reconciliation Commission "within the next six months" to investigate allegations of abuse dating from the time of former President Yahya Jammeh. According to Tambadou, public hearings are scheduled to get underway by year's end. ](/news/2017/03/24/the-gambia-s-justice-minister-abubacarr-tambadou-states-that-the-country-will-establish-a-truth-and-reconciliation-commission-within-the-ne.md)
 _Context: Abubacarr Tambadou, President, Yahya Jammeh, the Gambia_

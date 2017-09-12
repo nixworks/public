@@ -28,7 +28,7 @@ _Context: Asif Ali Zardari, Prime Minister of Pakistan, Raja Pervez Ashraf, Supr
 The Burmese President Thein Sein announces a cabinet reshuffle, replacing the hardline information minister and eight others.
 
 ### [The Leuven municipal council holds a minute of silence for a deceased deminer. ](/news/2012/08/27/the-leuven-municipal-council-holds-a-minute-of-silence-for-a-deceased-deminer.md)
-_Context: Leuven, deminer_
+_Context: Leuven, demining_
 
 ## [Previous Day...](/news/2012/08/26/index.md)
 

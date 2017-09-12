@@ -40,7 +40,7 @@ _Context: Cuba, President, Raul Castro_
 _Context: Malaysia, National Front, Sarawak_
 
 ### [An Egyptian court orders the dissolution of the former ruling National Democratic Party of Hosni Mubarak. ](/news/2011/04/16/an-egyptian-court-orders-the-dissolution-of-the-former-ruling-national-democratic-party-of-hosni-mubarak.md)
-_Context: Egypt, Hosni Mubarak, National Democratic Party_
+_Context: Egypt's, Hosni Mubarak, National Democratic Party_
 
 ### [A presidential election takes place in Nigeria. ](/news/2011/04/16/a-presidential-election-takes-place-in-nigeria.md)
 _Context: Nigeria, presidential election_

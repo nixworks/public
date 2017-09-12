@@ -16,7 +16,7 @@ Gordon Brown insisted tonight that Britain would remain a powerful voice in Brus
 _Context: Houthi, Shia insurgency in Yemen, Yemen, ongoing fight_
 
 ### [ Egypt recalls its ambassador to Algeria after complaints about violence towards its football fans after a World Cup play off. Sudan also summons its envoy to Egypt over media coverage of the game's aftermath. ](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.md)
-_Context: 2010 FIFA World Cup, Algeria, Egypt, Sudan, play off_
+_Context: 2010 FIFA World Cup, Algeria, Egypt's, Sudan, play off_
 
 ### [ Irish politicians, including Taoiseach Brian Cowen, call for a controversial football playoff for the 2010 FIFA World Cup between France and Republic of Ireland to be replayed as the Football Association of Ireland lodges an official complaint with FIFA. ](/news/2009/11/19/irish-politicians-including-taoiseach-brian-cowen-call-for-a-controversial-football-playoff-for-the-2010-fifa-world-cup-between-france-an.md)
 The Taoiseach has joined the FAI in calling for a replay following last night&#39;s controversial World Cup play-off match.

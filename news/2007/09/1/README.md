@@ -31,7 +31,7 @@ _Context: Iraq, Syria, United Nations, refugee_
 _Context: Polish, Radom, air show_
 
 ### [ The National Assembly of Panama selects Pedro Miguel Gonzalez Pinzon as its President despite the fact that he is wanted in the United States for an alleged murder of a United States Army sergeant and the attempted murder of another. Gonzalez has been cleared by a Panamanian court of these charges. ](/news/2007/09/1/the-national-assembly-of-panama-selects-pedro-miguel-gonza-lez-pinza3n-as-its-president-despite-the-fact-that-he-is-wanted-in-the-united-st.md)
-_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, U.S., United States Army_
+_Context: National Assembly of Panama, Panama, Pedro Miguel Gonzalez Pinzon, U.S., U.S. soldiers_
 
 ### [ Iraq is to free up to 6,000 Sunni insurgents in an attempt at reconciliation by the Government. ](/news/2007/09/1/iraq-is-to-free-up-to-6-000-sunni-insurgents-in-an-attempt-at-reconciliation-by-the-government.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

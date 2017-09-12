@@ -16,7 +16,7 @@ The Vatican has confirmed that Pope Benedict XVI has accepted the resignation of
 _Context: Delta State, James Ibori, Nigeria_
 
 ### [ Egyptian archaeologists recover from the Mediterranean Sea an ancient temple pylon belonging to the palace complex of Cleopatra. ](/news/2009/12/17/egyptian-archaeologists-recover-from-the-mediterranean-sea-an-ancient-temple-pylon-belonging-to-the-palace-complex-of-cleopatra.md)
-_Context: Archaeologist, Cleopatra, Egypt, Mediterranean Sea, pylon_
+_Context: Archaeologist, Cleopatra, Egypt's, Mediterranean Sea, pylon_
 
 ### [ It is revealed that Iraqi militants intercepted live video feeds from U.S. MQ-1 Predator drones, potentially acquiring information they need to evade or monitor U.S. military operations. ](/news/2009/12/17/it-is-revealed-that-iraqi-militants-intercepted-live-video-feeds-from-u-s-mq-1-predator-drones-potentially-acquiring-information-they-nee.md)
 _Context: Iraq, MQ-1 Predator_

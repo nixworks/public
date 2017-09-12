@@ -13,7 +13,7 @@ _Context: Colombia, Ingrid Betancourt, Revolutionary Armed Forces of Colombia_
 Joint Chiefs of Staff Chairman Adm. Mike Mullen, who was in Israel over the weekend, issued a strong warning today about the dangers of a military attack on Iran. At a Pentagon press conference, Mullen was asked, &quot;How concerned are you ... that Israel may undertake a unilateral strike against I...
 
 ### [ The President of Zambia Levy Mwanawasa is flown to Paris for treatment after suffering a stroke at the African Union summit in Sharm el-Sheikh, Egypt. ](/news/2008/07/2/the-president-of-zambia-levy-mwanawasa-is-flown-to-paris-for-treatment-after-suffering-a-stroke-at-the-african-union-summit-in-sharm-el-she.md)
-_Context: African Union, Egypt, Levy Mwanawasa, Paris, President, Sharm el-Sheikh, stroke_
+_Context: African Union, Egypt's, Levy Mwanawasa, Paris, President, Sharm el-Sheikh, stroke_
 
 ### [ 2008 Jerusalem bulldozer rampage: A man drives a construction loader into several vehicles on Jaffa Road in Jerusalem, killing three and leaving dozens other injured, before being shot dead by an off-duty IDF officer. ](/news/2008/07/2/2008-jerusalem-bulldozer-rampage-a-man-drives-a-construction-loader-into-several-vehicles-on-jaffa-road-in-jerusalem-killing-three-and-le.md)
 (Video) Bulldozer driven by Palestinian resident of east Jerusalem tramples over pedestrians, cars in central Jerusalem; driver shot dead by police officer; three women killed, dozens injured in attack. Reports say two buses flipped over by tractor 

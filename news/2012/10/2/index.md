@@ -7,7 +7,7 @@ At least 25 people, mostly students, have been killed by unknown gunmen in Mubi,
 A member of parliament in the Maldives is stabbed to death near his home amid political turmoil in the Indian Ocean nation.
 
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)
-_Context: Afghanistan's, United States Army_
+_Context: Afghanistan's, U.S. soldiers_
 
 ### [A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. ](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

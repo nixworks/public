@@ -1,7 +1,7 @@
 ## [2014-04-15](/news/2014/04/15/index.md)
 
 ### [A bomb detonates at a traffic police post in Cairo, Egypt, injuring 3 people. ](/news/2014/04/15/a-bomb-detonates-at-a-traffic-police-post-in-cairo-egypt-injuring-3-people.md)
-_Context: Cairo, Egypt_
+_Context: Cairo, Egypt's_
 
 ### [Shots are fired at Kramatorsk air base as Ukrainian Ground Forces are dispatched to take on separatists. Unconfirmed reports state that 4 pro-Russian militants have been killed and 2 people have been injured. Some reports claim up to 10 deaths. ](/news/2014/04/15/shots-are-fired-at-kramatorsk-air-base-as-ukrainian-ground-forces-are-dispatched-to-take-on-separatists-unconfirmed-reports-state-that-4-pr.md)
 Ukrainian troops defy pro-Russian separatists and take control of an air base in the eastern city of Kramatorsk.

@@ -28,7 +28,7 @@ Brazilian police say they have regained control of the Vila Cruzeiro shanty town
 The European Commission is to ban the chemical bisphenol A from plastic baby bottles - but one expert calls it an &quot;overreaction&quot;.
 
 ### [156 people are detained in Egypt following clashes between police and Copts after authorities blocked construction of a church. ](/news/2010/11/25/156-people-are-detained-in-egypt-following-clashes-between-police-and-copts-after-authorities-blocked-construction-of-a-church.md)
-_Context: Copt, Egypt_
+_Context: Copt, Egypt's_
 
 ### [Tongans go to the polls in the first general election in the nation's history in which the majority of parliament will be popularly elected. ](/news/2010/11/25/tongans-go-to-the-polls-in-the-first-general-election-in-the-nation-s-history-in-which-the-majority-of-parliament-will-be-popularly-elected.md)
 _Context: Tonga, first general election_

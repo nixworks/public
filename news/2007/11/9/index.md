@@ -16,7 +16,7 @@ _Context: Ethiopia, Islamist, Mogadishu, Somalia_
 _Context: Joseph Kony, Lord's Resistance Army, Norbert Mao, Uganda, Vincent Otti, espionage, house arrest, negotiation_
 
 ### [ Iraqi insurgency: The United States Army releases five Iranian suspects who had been arrested in Iraq. ](/news/2007/11/9/iraqi-insurgency-the-united-states-army-releases-five-iranian-suspects-who-had-been-arrested-in-iraq.md)
-_Context: Iran, Iraq, Iraqi insurgency, United States Army_
+_Context: Iran, Iraq, Iraqi insurgency, U.S. soldiers_
 
 ### [ 2007 North Sea flood: The Environment Agency of England and Wales issues eight severe flood warnings for eastern England with residents ordered to evacuate from 7,500 homes in Great Yarmouth. ](/news/2007/11/9/2007-north-sea-flood-the-environment-agency-of-england-and-wales-issues-eight-severe-flood-warnings-for-eastern-england-with-residents-ord.md)
 _Context: 2007 North Sea flood, England, Environment Agency, Great Yarmouth, Wales, flood_

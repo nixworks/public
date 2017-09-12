@@ -13,10 +13,10 @@ _Context: Aden Governorate, ISIL, Sheikh Othman, Yemen, Yemeni conflict, al-Qaed
 Cyclone Stan is starting to weaken as it moves over WA&#039;s Pilbara but locals are still urged to take shelter due to the system&#039;s strong winds and potential flash flooding.
 
 ### [Seven people are killed after a truck collides with a train near Cairo, Egypt. ](/news/2016/01/31/seven-people-are-killed-after-a-truck-collides-with-a-train-near-cairo-egypt.md)
-_Context: Cairo, Egypt_
+_Context: Cairo, Egypt's_
 
 ### [At least 21 people are killed and 16 injured in a multi-car pile-up on a road near the city of Beni Suef, Egypt. ](/news/2016/01/31/at-least-21-people-are-killed-and-16-injured-in-a-multi-car-pile-up-on-a-road-near-the-city-of-beni-suef-egypt.md)
-_Context: Beni Suef, Egypt, pile-up_
+_Context: Beni Suef, Egypt's, pile-up_
 
 ### [A huge fire at a factory in Moscow's eastern Sokolniki District, kills at least 12 people. Police suspect arson may be involved. ](/news/2016/01/31/a-huge-fire-at-a-factory-in-moscow-s-eastern-sokolniki-district-kills-at-least-12-people-police-suspect-arson-may-be-involved.md)
 Twelve bodies have been recovered from a factory fire in eastern Moscow, Russia’s Emergencies Ministry says. Police are investigating to determine the causes of death and if arson was involved. Sources suggest the massive blaze may have been a cover-up.

@@ -19,7 +19,7 @@ Two trains collide on the Warsaw-Krakow mainline in southern Poland, leaving 16 
 _Context: Guinea_
 
 ### [Egypt appoints new judges for the trial of 43 non-government organisation workers including six Americans who left earlier in the week. ](/news/2012/03/3/egypt-appoints-new-judges-for-the-trial-of-43-non-government-organisation-workers-including-six-americans-who-left-earlier-in-the-week.md)
-_Context: American, Egypt, non-government organisation_
+_Context: American, Egypt's, non-government organisation_
 
 ### [The criminal case associated with the wreck of the "Costa Concordia" starts in Italy. ](/news/2012/03/3/the-criminal-case-associated-with-the-wreck-of-the-costa-concordia-starts-in-italy.md)
 Lawyers and survivors of the Costa Concordia accident converged on Saturday for the first evidence hearing in the case against the ship’s captain and others.

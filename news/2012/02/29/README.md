@@ -28,7 +28,7 @@ _Context: Jenny Tonge, Liberal Democrats_
 _Context: Cuba, Hugo Chvez, President, tumour_
 
 ### [Egypt announces that a presidential election will held on May 23-24. ](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.md)
-_Context: Egypt, presidential election_
+_Context: Egypt's, presidential election_
 
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)
 _Context: Mitt Romney, Republican, Wyoming, Wyoming_

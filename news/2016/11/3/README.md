@@ -4,7 +4,7 @@
 Dozens of Afghan civilians were killed on Thursday in air strikes called in when U.S. and local troops came under heavy fire during an operation in the north of the country in which two American service members also died.
 
 ### [Muslim rebel group Moro National Liberation Front leader Nur Misuari meets with Philippines president Rodrigo Duterte in Malacanang Palace after receiving a reprieve from previous crimes of rebellion. ](/news/2016/11/3/muslim-rebel-group-moro-national-liberation-front-leader-nur-misuari-meets-with-philippines-president-rodrigo-duterte-in-malacaa-ang-palace.md)
-_Context: Malacanang Palace, Moro National Liberation Front, Moro conflict, Nur Misuari, Philippines, Rodrigo Duterte_
+_Context: Malacanang Palace, Moro National Liberation Front, Moro conflict, Nur Misuari, Philippine, Rodrigo Duterte_
 
 ### [Security forces killed at least 2 insurgents and another 5 were injured in Cairo. ](/news/2016/11/3/security-forces-killed-at-least-2-insurgents-and-another-5-were-injured-in-cairo.md)
 ### [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md)

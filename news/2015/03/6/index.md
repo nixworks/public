@@ -13,7 +13,7 @@ Two Vietnamese citizens and a Canadian have been charged with running a massive 
 _Context: AT&T, Apple Inc., Dow Jones Industrial Average, S&P Dow Jones Indices_
 
 ### [A road accident along the highway between Ismalia and Cairo in Egypt, east of Cairo, involving a bus that collided with a microbus kills fifteen people. ](/news/2015/03/6/a-road-accident-along-the-highway-between-ismailia-and-cairo-in-egypt-east-of-cairo-involving-a-bus-that-collided-with-a-microbus-kills-fi.md)
-_Context: Cairo, Egypt, Ismalia_
+_Context: Cairo, Egypt's, Ismalia_
 
 ### [Two massive snowy traffic jams in Kentucky strand motorists for 24 hours or longer. One stretched for about 26 miles along Interstate 65 from just north of Elizabethtown past Shepherdsville, and the other stretched the entire length of Interstate 24 in Kentucky, more than 90 miles. ](/news/2015/03/6/two-massive-snowy-traffic-jams-in-kentucky-strand-motorists-for-24-hours-or-longer-one-stretched-for-about-26-miles-along-interstate-65-fro.md)
 _Context: Elizabethtown, Interstate 24 in Kentucky, Interstate 65, Kentucky, Shepherdsville_

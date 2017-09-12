@@ -25,7 +25,7 @@ _Context: 2008, 2008 National Convention, Democratic Party primary, Hillary Clin
 _Context: India, Jaipur, bomb blasts_
 
 ### [ Eleven people are killed and 20 wounded in clashes between Iraqi militias and the United States Army in the Sadr City district of Baghdad. ](/news/2008/05/13/eleven-people-are-killed-and-20-wounded-in-clashes-between-iraqi-militias-and-the-united-states-army-in-the-sadr-city-district-of-baghdad.md)
-_Context: Baghdad, Iraq, Sadr City, United States Army, militia_
+_Context: Baghdad, Iraq, Sadr City, U.S. soldiers, militia_
 
 ### [ The United States Department of Defense drops charges against Mohammed al Qahtani, who was suspected of being the "20th hijacker" in the September 11, 2001 attacks. ](/news/2008/05/13/the-united-states-department-of-defense-drops-charges-against-mohammed-al-qahtani-who-was-suspected-of-being-the-20th-hijacker-in-the-se.md)
 _Context: Mohammed al Qahtani, September 11, 2001 attacks, U.S. military_

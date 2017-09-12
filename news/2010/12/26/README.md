@@ -22,7 +22,7 @@ _Context: Julian Assange, Sweden, WikiLeaks, sexual assault_
 Clashes erupt between security forces and residents in Sidi Bouzid amid wave of social unrest.
 
 ### [Eight people are killed and 21 injured after a bus crash in Egypt. ](/news/2010/12/26/eight-people-are-killed-and-21-injured-after-a-bus-crash-in-egypt.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ### [A collision between a bus and a mini-truck kills 34 people and leaves 30 injured, near the town of Badaun in Uttar Pradesh state, in northern India. ](/news/2010/12/26/a-collision-between-a-bus-and-a-mini-truck-kills-34-people-and-leaves-30-injured-near-the-town-of-badaun-in-uttar-pradesh-state-in-norther.md)
 _Context: Badaun, India, Uttar Pradesh_
@@ -55,7 +55,7 @@ The US has been pressed by various government for help with wiretapping criminal
 _Context: Iran, Israel_
 
 ### [Egypt sends to Damascus a dossier of sensitive technical information involving details of an Israeli spy ring in Syria, including a high ranking chemical expert who assisted Israel for 13 years. ](/news/2010/12/26/egypt-sends-to-damascus-a-dossier-of-sensitive-technical-information-involving-details-of-an-israeli-spy-ring-in-syria-including-a-high-ran.md)
-_Context: Damascus, Egypt, Syria_
+_Context: Damascus, Egypt's, Syria_
 
 ### [A Saudi woman, accused of attacking and torturing her Indonesian maid last month in a case that strained Saudi-Indonesia relations, now denies the charges, claiming that the maid tortured herself because she was "not normal." ](/news/2010/12/26/a-saudi-woman-accused-of-attacking-and-torturing-her-indonesian-maid-last-month-in-a-case-that-strained-saudi-indonesia-relations-now-deni.md)
 _Context: Indonesia, Indonesian maid, Saudi Arabia_

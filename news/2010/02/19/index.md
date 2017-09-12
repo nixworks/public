@@ -34,7 +34,7 @@ Hamas official warns nations to stay out of Israeli-Palestinian conflict.
 _Context: (Wikinews), Facebook, crashed his plane in Austin, United States_
 
 ### [Ex-IAEA head Mohamed ElBaradei is set to return to Egypt hoping to run for the presidency in the 2011 election. ](/news/2010/02/19/ex-iaea-head-mohamed-elbaradei-is-set-to-return-to-egypt-hoping-to-run-for-the-presidency-in-the-2011-election.md)
-_Context: Egypt, Egyptian President, Egyptian presidential election in September, IAEA, Mohamed ElBaradei_
+_Context: Egypt's, Egyptian President, Egyptian presidential election in September, IAEA, Mohamed ElBaradei_
 
 ### [Mary MacKillop is to become Australia's first saint, after being approved by the Holy See for canonization. ](/news/2010/02/19/mary-mackillop-is-to-become-australia-s-first-saint-after-being-approved-by-the-holy-see-for-canonization.md)
 _Context: Australia, Holy See, Mary MacKillop, canonize, saints_

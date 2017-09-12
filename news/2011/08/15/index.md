@@ -28,7 +28,7 @@ _Context: New Zealand, North Island, South Island, Wellington International Airp
 _Context: Environment Ministry, Japan_
 
 ### [Former Egyptian President Hosni Mubarak appears in court for the second session of his trial with his two sons Alaa and Gamal who share corruption charges with him; the trial is subsequently adjourned and ordered to be merged with that of former Interior Minister Habib al-Adly. ](/news/2011/08/15/former-egyptian-president-hosni-mubarak-appears-in-court-for-the-second-session-of-his-trial-with-his-two-sons-alaa-and-gamal-who-share-corr.md)
-_Context: Alaa Mubarak, Egypt, Egyptian President, Egyptian interior minister, Gamel, Habib al-Adly, Hosni Mubarak_
+_Context: Alaa Mubarak, Egypt's, Egyptian President, Egyptian interior minister, Gamel, Habib al-Adly, Hosni Mubarak_
 
 ## [Previous Day...](/news/2011/08/14/index.md)
 

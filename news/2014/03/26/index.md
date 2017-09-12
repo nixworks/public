@@ -34,7 +34,7 @@ _Context: Al Qaida's, New York City, Osama bin Laden, Sulaiman Abu Ghaith_
 _Context: California Highway Patrol, FBI, Leland Yee_
 
 ### [Egyptian Field Marshal Abdel Fattah el-Sisi resigns from his position as Minister of Defense and announces his bid for the upcoming presidential election. ](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.md)
-_Context: Abdel Fattah el-Sisi, Egypt, Egyptian military, Egyptian presidential election, 2014_
+_Context: Abdel Fattah el-Sisi, Egypt's, Egyptian military, Egyptian presidential election, 2014_
 
 ### [Taavi Roivas is sworn in as Prime Minister of Estonia, succeeding Andrus Ansip and becoming the youngest government leader in the European Union at 34 years. ](/news/2014/03/26/taavi-rauivas-is-sworn-in-as-prime-minister-of-estonia-succeeding-andrus-ansip-and-becoming-the-youngest-government-leader-in-the-european.md)
 Taavi Rõivas&#039;s Reform Party and Social Democrat coalition has been sworn in as the new government of Estonia.

@@ -40,7 +40,7 @@ The head of the International Monetary Fund, Dominique Strauss-Kahn, faces sex a
 _Context: PlayStation Network, PlayStation Network outage, Sony_
 
 ### [Three de-miners are killed in an explosion during landmine detection and removal operations in Kampong Speu Province, western Cambodia. ](/news/2011/05/15/three-de-miners-are-killed-in-an-explosion-during-landmine-detection-and-removal-operations-in-kampong-speu-province-western-cambodia.md)
-_Context: Cambodia, Kampong Speu Province, deminer, landmine_
+_Context: Cambodia, Kampong Speu Province, demining, landmine_
 
 ### [The Morganza Spillway on the Mississippi River has been opened for the first time in 37 years, deliberately flooding 3,000 square miles of rural Louisiana to save most of Baton Rouge and New Orleans. ](/news/2011/05/15/the-morganza-spillway-on-the-mississippi-river-has-been-opened-for-the-first-time-in-37-years-deliberately-flooding-3-000-square-miles-of-r.md)
 Residents of towns along the swollen Mississippi River on Sunday packed up their valuables and made last-ditch efforts to place sandbags and makeshift levees outside their homes, trying to protect themselves and their homes from rising waters.

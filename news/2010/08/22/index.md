@@ -4,7 +4,7 @@
 Police in Venezuela search for a soldier who shot dead two officers and wounded six soldiers at a military base in the capital, Caracas.
 
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: Philippines, U.S._
+_Context: Philippine, U.S._
 
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
 _Context: Brazil, InterContinental, Rio de Janeiro, So Conrado_

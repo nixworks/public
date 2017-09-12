@@ -16,10 +16,10 @@ _Context: Chernobyl disaster, Ukraine_
 _Context: Honiara, Prime Minister of the Solomon Islands, Snyder Rini, no confidence_
 
 ### [ Egyptian police arrest 10 people in relation to the 2006 Dahab bombings, which has killed 24 people and injured more than 80 on 24 April. ](/news/2006/04/26/egyptian-police-arrest-10-people-in-relation-to-the-2006-dahab-bombings-which-has-killed-24-people-and-injured-more-than-80-on-24-april.md)
-_Context: 2006 Dahab bombings, Egypt_
+_Context: 2006 Dahab bombings, Egypt's_
 
 ### [ Peacekeeping Forces in Egypt were attacked outside the Nile Delta by two suicide bombers. No casualties. ](/news/2006/04/26/peacekeeping-forces-in-egypt-were-attacked-outside-the-nile-delta-by-two-suicide-bombers-no-casualties.md)
-_Context: Egypt, Nile, peacekeepers_
+_Context: Egypt's, Nile, peacekeepers_
 
 ## [Previous Day...](/news/2006/04/25/index.md)
 

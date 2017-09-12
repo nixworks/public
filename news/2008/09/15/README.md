@@ -22,7 +22,7 @@ _Context: Pink Floyd, Richard Wright, cancer_
 _Context: Butembo, Democratic Republic of the Congo, animist, association football, goalkeeper, stampede_
 
 ### [ Twelve tourists are killed and 37 injured when a coach collides with a delivery truck outside of Ras Sidr in Egypt. Reports suggest 7 of the 12 dead are foreign nationals. ](/news/2008/09/15/twelve-tourists-are-killed-and-37-injured-when-a-coach-collides-with-a-delivery-truck-outside-of-ras-sidr-in-egypt-reports-suggest-7-of-th.md)
-_Context: Egypt, Ras Sidr, coach_
+_Context: Egypt's, Ras Sidr, coach_
 
 ### [ A power-sharing agreement between Zimbabwean president Robert Mugabe and opposition leader Morgan Tsvangirai is officially signed, making Tsvangirai Prime Minister of Zimbabwe and chair of cabinet meetings. Mugabe maintains his position as president and remains in control of the country's army. ](/news/2008/09/15/a-power-sharing-agreement-between-zimbabwean-president-robert-mugabe-and-opposition-leader-morgan-tsvangirai-is-officially-signed-making-t.md)
 Zimbabwe&#039;s President Robert Mugabe and the opposition leader Morgan Tsvangirai have signed a power-sharing deal in Harare designed to solve the political and economic crisis crippling the country.

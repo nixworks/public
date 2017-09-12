@@ -1,7 +1,7 @@
 ## [2012-02-5](/news/2012/02/5/index.md)
 
 ### [An explosion hits the gas pipeline between Egypt, Israel and Jordan in the North Sinai Governorate west of Arish. ](/news/2012/02/5/an-explosion-hits-the-gas-pipeline-between-egypt-israel-and-jordan-in-the-north-sinai-governorate-west-of-arish.md)
-_Context: Arish, Egypt, Israel, Jordan, North Sinai Governorate_
+_Context: Arish, Egypt's, Israel, Jordan, North Sinai Governorate_
 
 ### [At least three people die and nine are injured by an explosion in the Afghan city of Kandahar. ](/news/2012/02/5/at-least-three-people-die-and-nine-are-injured-by-an-explosion-in-the-afghan-city-of-kandahar.md)
 At least nine people are killed in a car bomb attack on police headquarters in the southern Afghan city of Kandahar, officials say.

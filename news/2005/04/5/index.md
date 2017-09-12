@@ -23,7 +23,7 @@ _Context: Aloys Mutabingwa, France, International Criminal Tribunal for Rwanda, 
 _Context: India, Mumbai, Russian Circus on Ice, circus_
 
 ### [ In Egypt, thousands of university students demonstrate for reform. ](/news/2005/04/5/in-egypt-thousands-of-university-students-demonstrate-for-reform.md)
-_Context: Egypt_
+_Context: Egypt's_
 
 ### [ Nigerian senate speaker Adolphus Wabara resigns because of accusations that he took a large bribe from the education minister. ](/news/2005/04/5/nigerian-senate-speaker-adolphus-wabara-resigns-because-of-accusations-that-he-took-a-large-bribe-from-the-education-minister.md)
 _Context: Adolphus Wabara, Nigeria, bribes_

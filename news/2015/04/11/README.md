@@ -16,7 +16,7 @@ President Obama and Cuban President Raul Castro met face-to-face Saturday, holdi
 _Context: US Capitol Building_
 
 ### [An Egyptian court sentences the leader of the Muslim Brotherhood Mohamed Badie and fourteen other people to death for inciting violence. ](/news/2015/04/11/an-egyptian-court-sentences-the-leader-of-the-muslim-brotherhood-mohamed-badie-and-fourteen-other-people-to-death-for-inciting-violence.md)
-_Context: Egypt, Mohamed Badie, Muslim Brotherhood_
+_Context: Egypt's, Mohamed Badie, Muslim Brotherhood_
 
 ### [Bangladeshi Jamaat-e-Islami leader Muhammad Kamaruzzaman is executed for war crimes committed during the 1971 Liberation War. ](/news/2015/04/11/bangladeshi-jamaat-e-islami-leader-muhammad-kamaruzzaman-is-executed-for-war-crimes-committed-during-the-1971-liberation-war.md)
 Muhammad Kamaruzzaman was found guilty of mass killing, murder, abduction, torture, rape, persecution and abetment of torture in central Mymensingh region.

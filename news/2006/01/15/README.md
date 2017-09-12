@@ -25,7 +25,7 @@ _Context: Dugway Proving Ground, Stardust spacecraft, Wild 2, comet_
 _Context: MP, Tony Blair_
 
 ### [ The French warship Clemenceau's transit through the Suez Canal is approved by Egyptian authorities. This decision is heavily criticized by Greenpeace and other environmental groups. ](/news/2006/01/15/the-french-warship-clemenceau-s-transit-through-the-suez-canal-is-approved-by-egyptian-authorities-this-decision-is-heavily-criticized-by.md)
-_Context: Clemenceau, Egypt, Greenpeace India's, Suez Canal_
+_Context: Clemenceau, Egypt's, Greenpeace India's, Suez Canal_
 
 ### [ Canadian diplomat Glyn Berry is killed and two Canadian soldiers critically injured by a bomb blast in Afghanistan. He is the first Canadian diplomat to be killed on duty. ](/news/2006/01/15/canadian-diplomat-glyn-berry-is-killed-and-two-canadian-soldiers-critically-injured-by-a-bomb-blast-in-afghanistan-he-is-the-first-canadia.md)
 _Context: Afghanistan's, Glyn Berry, diplomat_

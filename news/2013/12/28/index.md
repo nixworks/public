@@ -1,7 +1,7 @@
 ## [2013-12-28](/news/2013/12/28/index.md)
 
 ### [Supporters of the Islamist Muslim Brotherhood clash with police at Al-Azhar University in Cairo, Egypt. One person is killed and two campus buildings are set on fire. ](/news/2013/12/28/supporters-of-the-islamist-muslim-brotherhood-clash-with-police-at-al-azhar-university-in-cairo-egypt-one-person-is-killed-and-two-campus.md)
-_Context: Al-Azhar University, Cairo, Egypt, Islamist protests in Egypt (July 2013-present), Muslim Brotherhood_
+_Context: Al-Azhar University, Cairo, Egypt's, Islamist protests in Egypt (July 2013-present), Muslim Brotherhood_
 
 ### [A Syrian army airstrike in a market in the northern city of Aleppo kills 25 people. ](/news/2013/12/28/a-syrian-army-airstrike-in-a-market-in-the-northern-city-of-aleppo-kills-25-people.md)
 A Syrian army air strike on a vegetable market in the northern city of Aleppo killed at least 25 people on Saturday, a monitoring group said, continuing a campaign of improvised &quot;barrel bombs&quot; that has drawn international condemnation.

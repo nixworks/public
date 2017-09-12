@@ -28,7 +28,7 @@ _Context: ECOWAS, Franois Boko, Togo, Togolese presidential election, civil war,
 _Context: Nepal, political prisoner_
 
 ### [ Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [http://www.nytimes.com/2005/04/23/business/23medronic.html]](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.md)
-_Context: Gary K. Michelson, Medtronic, US$, patent, sue_
+_Context: Gary K. Michelson, Medtronic, US$, lawsuit, patent_
 
 ## [Previous Day...](/news/2005/04/21/index.md)
 

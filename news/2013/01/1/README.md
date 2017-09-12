@@ -37,7 +37,7 @@ The UK has begun its year-long presidency of the G8 group of nations, which will
 _Context: New Year's Eve, Sacramento, California_
 
 ### [Celebratory gunfire kills a four-year-old boy and more than 400 others are injured by powerful firecrackers in typically rowdy New Year celebrations in the Philippines. ](/news/2013/01/1/celebratory-gunfire-kills-a-four-year-old-boy-and-more-than-400-others-are-injured-by-powerful-firecrackers-in-typically-rowdy-new-year-cele.md)
-_Context: Celebratory gunfire, New Year, Philippines, firecracker_
+_Context: Celebratory gunfire, New Year, Philippine, firecracker_
 
 ### [Similar to numbers in previous years, 1193 empty parked cars are set on fire during New Year's Eve 'celebrations' across France. ](/news/2013/01/1/similar-to-numbers-in-previous-years-1193-empty-parked-cars-are-set-on-fire-during-new-year-s-eve-celebrations-across-france.md)
 PARIS (AP) — Hundreds of empty, parked cars go up in flames in France each New Year&#x27;s Eve, set afire by young revelers, a much lamented tradition that remained intact this year with 1,193 vehicles burned, Interior Minister Manuel Valls said Tuesday.

@@ -4,13 +4,13 @@
 _Context: BBC, CNN, Gaza Strip, Hamas, Israeli Air Force, Palestinians, Qassam rocket, West Bank_
 
 ### [ The chemist Magdi al-Nashar, sought by British police in relation to the 7 July London bombings, has been arrested in Egypt. ](/news/2005/07/15/the-chemist-magdi-al-nashar-sought-by-british-police-in-relation-to-the-7-july-london-bombings-has-been-arrested-in-egypt.md)
-_Context: 7 July London bombings, Egypt, Magdi al-Nashar, chemist_
+_Context: 7 July London bombings, Egypt's, Magdi al-Nashar, chemist_
 
 ### [ In the Philippines, opposition demonstrators demanding resignation of president Gloria Arroyo seize the building of the Department of Agriculture and smash windows before dispersing before police. Her political opponents in the senate want to begin impeachment procedures ](/news/2005/07/15/in-the-philippines-opposition-demonstrators-demanding-resignation-of-president-gloria-arroyo-seize-the-building-of-the-department-of-agric.md)
-_Context: Gloria Arroyo, Philippines, impeach, resignation_
+_Context: Gloria Arroyo, Philippine, impeach, resignation_
 
 ### [ 5.0 Richter scale earthquake hits central Philippines. There are no reports of any casualties ](/news/2005/07/15/5-0-richter-scale-earthquake-hits-central-philippines-there-are-no-reports-of-any-casualties.md)
-_Context: Philippines, Richter scale_
+_Context: Philippine, Richter scale_
 
 ### [ Paediatrician Sir Roy Meadow is struck off the medical register by the General Medical Council after finding that he had committed "serious professional misconduct" relating to his testimony as an expert witness in the trial of Sally Clark. ](/news/2005/07/15/paediatrician-sir-roy-meadow-is-struck-off-the-medical-register-by-the-general-medical-council-after-finding-that-he-had-committed-serious.md)
 _Context: General Medical Council, Paediatrician, Roy Meadow, Sally Clark, expert witness_

@@ -10,7 +10,7 @@ _Context: ISIL, Raqqa, Syrian Air Force_
 They carried the bombs under their hijabs, detonating them in a double suicide attack.
 
 ### [A block of flats collapses in the Egyptian capital Cairo killing at least 10 people. ](/news/2014/11/25/a-block-of-flats-collapses-in-the-egyptian-capital-cairo-killing-at-least-10-people.md)
-_Context: Cairo, Egypt_
+_Context: Cairo, Egypt's_
 
 ### [Portuguese police arrest the ex-prime minister of Portugal, Jose Socrates. They accuse him of corruption, fiscal fraud, and money laundering. ](/news/2014/11/25/portuguese-police-arrest-the-ex-prime-minister-of-portugal-josa-c-socrates-they-accuse-him-of-corruption-fiscal-fraud-and-money-launderin.md)
 {{ og_description }}

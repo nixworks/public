@@ -19,7 +19,7 @@ _Context: Chuncheon, South Korea, landslide_
 _Context: Mogadishu, Somalia, United Nations, World Food Programme, famine_
 
 ### [At least seventeen people are dead and 25 missing after Severe Tropical Storm Nock-ten (Juaning) hits the Philippines. ](/news/2011/07/27/at-least-seventeen-people-are-dead-and-25-missing-after-severe-tropical-storm-nock-ten-juaning-hits-the-philippines.md)
-_Context: 2011 Pacific typhoon season, Philippines_
+_Context: 2011 Pacific typhoon season, Philippine_
 
 ### [A tropical storm watch is issued for Tropical Storm Don in the US state of Texas between Port Mansfield north to San Luis Pass. ](/news/2011/07/27/a-tropical-storm-watch-is-issued-for-tropical-storm-don-in-the-us-state-of-texas-between-port-mansfield-north-to-san-luis-pass.md)
 _Context: Port Mansfield, San Luis Pass, Texas, Tropical Storm Don, tropical storm_

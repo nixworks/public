@@ -13,7 +13,7 @@ _Context: Libyan Civil War, Muammar Gaddafi, Tripoli_
 Sanaa, Feb 25 (DPA) At least nine people were wounded after security forces opened fire at anti-government protesters in the southern Yemeni port city of...
 
 ### [2011 Egyptian protests: Egyptian protestors claims that the Egyptian Army beat them up in Cairo's Tahrir Square. ](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.md)
-_Context: Cairo, Egypt, Egyptian Army, Protesters, Tahrir Square_
+_Context: Cairo, Egypt's, Egyptian Army, Protesters, Tahrir Square_
 
 ### [Rebels in the Ivory Coast seize another town from the control of incumbent President Laurent Gbagbo, who refused to step down following a disputed presidential election. Unrest occurs in the capital Yamoussoukro. ](/news/2011/02/25/rebels-in-the-ivory-coast-seize-another-town-from-the-control-of-incumbent-president-laurent-gbagbo-who-refused-to-step-down-following-a-di.md)
 Ivory Coast rebels take the town of Zouan-Hounien in the west, as the UN warns that the country may be heading towards civil war.
@@ -49,7 +49,7 @@ Iran told atomic inspectors that it had run into a serious problem at a newly co
 _Context: Burma_
 
 ### [Representative Ronald Singson of the Philippines is sentenced to 18 months in a Hong Kong jail for cocaine possession. ](/news/2011/02/25/representative-ronald-singson-of-the-philippines-is-sentenced-to-18-months-in-a-hong-kong-jail-for-cocaine-possession.md)
-_Context: Hong Kong, Philippines, Ronald Singson, cocaine, lower house of the Philippine Congress_
+_Context: Hong Kong, Philippine, Ronald Singson, cocaine, lower house of the Philippine Congress_
 
 ### [The People's Republic of China gets rid of the death penalty for 13 non-violent economic crimes. ](/news/2011/02/25/the-people-s-republic-of-china-gets-rid-of-the-death-penalty-for-13-non-violent-economic-crimes.md)
 _Context: China, death penalty_

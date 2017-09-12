@@ -7,13 +7,13 @@ _Context: (Wikinews), 7 July, London Underground, al-Qaeda, explosion_
 _Context: EU, EU constitution, Malta_
 
 ### [ In the Philippines, president Gloria Arroyo asks all the members of her cabinet to resign. ](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.md)
-_Context: Gloria Arroyo, Philippines_
+_Context: Gloria Arroyo, Philippine_
 
 ### [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. [http://www.guardian.co.uk/worldlatest/story/0,1280,-5125518,00.html (Guardian)] [http://www.emergencyemail.org/homeland2005.asp (EmergencyEmail)] [http://www.cnn.com/2005/US/07/07/us.response/index.html (CNN)] (Wikinews) ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings-htt.md)
 _Context: (Wikinews), 7 July, Homeland Security Advisory System, public transport_
 
 ### [ Egypt confirms its most senior envoy to Iraq, Ihab al-Sherif, has been killed after being kidnapped last week. A group related to Abu Musab al-Zarqawi has claimed responsibility. ](/news/2005/07/7/egypt-confirms-its-most-senior-envoy-to-iraq-ihab-al-sherif-has-been-killed-after-being-kidnapped-last-week-a-group-related-to-abu-musab.md)
-_Context: Abu Musab al-Zarqawi, Egypt, Ihab al-Sherif, Iraq, kidnapped_
+_Context: Abu Musab al-Zarqawi, Egypt's, Ihab al-Sherif, Iraq, kidnapped_
 
 ### [ Researchers halt a study in Africa after results indicate that circumcised men are 70% less likely to contract AIDS. The study will be presented at the Third International AIDS Society Conference on HIV Pathogenesis and Treatment later this month. Meanwhile, others argue that ritual circumcision "increases" the risk of infection because of poor sanitary conditions. ](/news/2005/07/7/researchers-halt-a-study-in-africa-after-results-indicate-that-circumcised-men-are-70-less-likely-to-contract-aids-the-study-will-be-pres.md)
 _Context: AIDS, circumcision_

@@ -13,7 +13,7 @@ _Context: Activision, Call of Duty: Black Ops II_
 _Context: Gulf of Mexico, Louisiana, offshore oil platform_
 
 ### [Egyptian Prime Minister Hesham Qandil makes a visit to Gaza City in hopes of lulling the ongoing conflict between Israel and Hamas. ](/news/2012/11/16/egyptian-prime-minister-hesham-qandil-makes-a-visit-to-gaza-city-in-hopes-of-lulling-the-ongoing-conflict-between-israel-and-hamas.md)
-_Context: Egypt, Gaza, Hamas, Hesham Qandil, Israel, prime minister_
+_Context: Egypt's, Gaza, Hamas, Hesham Qandil, Israel, prime minister_
 
 ### [The war crime convictions of Ante Gotovina and Mladen Markac are overturned by a war crimes tribunal in The Hague. The Croatian generals had been convicted and sentenced last year for atrocities against Serbs during the 1990's Yugoslav Wars. ](/news/2012/11/16/the-war-crime-convictions-of-ante-gotovina-and-mladen-markaa-are-overturned-by-a-war-crimes-tribunal-in-the-hague-the-croatian-generals-ha.md)
 _Context: Ante Gotovina, Croatia, Croatian Serb, International Criminal Tribunal for the former Yugoslavia, Mladen Markac, The Hague, Yugoslav Wars_

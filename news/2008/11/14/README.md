@@ -4,7 +4,7 @@
 _Context: EU, France, Nice, Russia, U.S., missile defense shield, rocket attacks_
 
 ### [ General Ann E. Dunwoody becomes the first female four-star general in the history of the United States Army. ](/news/2008/11/14/general-ann-e-dunwoody-becomes-the-first-female-four-star-general-in-the-history-of-the-united-states-army.md)
-_Context: Ann E. Dunwoody, General, United States Army, first female four-star general_
+_Context: Ann E. Dunwoody, General, U.S. soldiers, first female four-star general_
 
 ### [ An Italian court convicts 16 and acquits 13 police officers of beating protesters at the 2001 G8 summit in Genoa.](/news/2008/11/14/an-italian-court-convicts-16-and-acquits-13-police-officers-of-beating-protesters-at-the-2001-g8-summit-in-genoa.md)
 An Italian court has cleared 16 senior police officers accused of orchestrating a brutal crackdown on anti-globalisation protesters at the 2001 G8 summit in Genoa.

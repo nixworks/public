@@ -52,7 +52,7 @@ _Context: Attorney General, Brazil, Dilma Rousseff, Impeachment process against 
 _Context: 2016 Brussels bombings, Belgium, Brussels, EU, Jacqueline Galant_
 
 ### [Riot police violently break up an anti-Sisi protest in Cairo, Egypt. In the first sign of public discontent with President Sisi's rule, hundreds of people gathered and shouted slogans calling for his overthrow. ](/news/2016/04/15/riot-police-violently-break-up-an-anti-sisi-protest-in-cairo-egypt-in-the-first-sign-of-public-discontent-with-president-sisi-s-rule-hund.md)
-_Context: Abdel Fattah el-Sisi, Cairo, Egypt, Egyptian President, police_
+_Context: Abdel Fattah el-Sisi, Cairo, Egypt's, Egyptian President, police_
 
 ### [Leaders of the Czech Republic choose "Czechia" as the one-word alternative name of their country to make it easier for companies, politicians and sportsmen to use on products, name tags and sporting jerseys. However, this change must still win cabinet approval before the foreign ministry can lodge the name with the United Nations for it to become the country's official short name. ](/news/2016/04/15/leaders-of-the-czech-republic-choose-aczechiaa-as-the-one-word-alternative-name-of-their-country-to-make-it-easier-for-companies-politi.md)
 Czech Republic’s leaders settle on official short name for country and await cabinet and United Nations approval

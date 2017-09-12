@@ -4,7 +4,7 @@
 _Context: Fiji, Niue, Pacific Islands Leaders Forum, Voreqe Bainimarama_
 
 ### [ Egypt's upper house of Parliament is destroyed in a huge fire. ](/news/2008/08/19/egypt-s-upper-house-of-parliament-is-destroyed-in-a-huge-fire.md)
-_Context: Egypt, Egyptian parliament, a huge fire_
+_Context: Egypt's, Egyptian parliament, a huge fire_
 
 ### [ North Korea declares Sweden its enemy and a United States war puppet. ](/news/2008/08/19/north-korea-declares-sweden-its-enemy-and-a-united-states-war-puppet.md)
 _Context: North Korea, Sweden, U.S._

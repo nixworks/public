@@ -19,7 +19,7 @@ _Context: 21 July 2005 London bombings, Al Qaida's_
 An official in Indonesia says Mount Gamkonora, in the east of the country, has started spitting out flaming rocks and sending showers of sparks into the air, indicating the volcano is likely to erupt.
 
 ### [ 14 Philippines Marines are killed by insurgents in fighting. ](/news/2007/07/11/14-philippines-marines-are-killed-by-insurgents-in-fighting.md)
-_Context: Philippines, killed by insurgents_
+_Context: Philippine, killed by insurgents_
 
 ### [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md)
 _Context: Bulgaria, HIV trial in Libya, Libya, Palestinian, death penalty_

@@ -31,7 +31,7 @@ _Context: Failed States Index, Fund for Peace, Japan, Syria_
 Former Romanian Prime Minister Adrian Nastase shoots himself in the neck hours after a jail sentence against him on corruption charges is upheld.
 
 ### [In Egypt, Hosni Mubarak, ousted from power in last year's revolution, is reported to in a coma and has been taken off life support. ](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.md)
-_Context: 2011 Egyptian revolution, Egypt, Hosni Mubarak_
+_Context: 2011 Egyptian revolution, Egypt's, Hosni Mubarak_
 
 ### [The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. ](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.md)
 Authorities gave no new date for the announcement of the winner of the presidential election.

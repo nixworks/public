@@ -1,7 +1,7 @@
 ## [2013-12-20](/news/2013/12/20/index.md)
 
 ### [A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. ](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy-aquino-international-airport-in-manila-philippines-killing-four-people-including-the-mayo.md)
-_Context: Labangan, Manila, Ninoy Aquino International Airport, Philippines, airport terminal_
+_Context: Labangan, Manila, Ninoy Aquino International Airport, Philippine, airport terminal_
 
 ### [Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsula.md)
 A security official in Egypt says clashes between soldiers and wanted al-Qaida-inspired militants in the northern Sinai Peninsula have killed two soldiers and wounded eight.

@@ -52,7 +52,7 @@ An Irish-American who took part in the Gaza aid flotilla has denied he is involv
 At least two tonnes of cocaine with a street value of some $1bn is seized in The Gambia, destined for Europe.
 
 ### [Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-taking-42-of-the-vote-about-16-percenta.md)
-_Context: Joseph Estrada, Noynoy Aquino, Philippine presidential election, Philippines, President_
+_Context: Joseph Estrada, Noynoy Aquino, Philippine, Philippine presidential election, President_
 
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)
 _Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
@@ -64,7 +64,7 @@ _Context: Spain_
 _Context: China, blocks mentions_
 
 ### [Egypt permits legislators from the Muslim Brotherhood and other groups to enter the blockaded Gaza Strip. ](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.md)
-_Context: Egypt, Gaza Strip, Muslim Brotherhood_
+_Context: Egypt's, Gaza Strip, Muslim Brotherhood_
 
 ### [The 11th Panchen Lama, the 20-year-old living Buddha on Monday visited south Tibet's Shannan Prefecture, held large prayer services and gave head-touch blessings to more than 5,000 local devotees. ](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.md)
 _Context: 11th Panchen Lama, Buddha, Shannan Prefecture, Tibet_
