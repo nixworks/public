@@ -9,6 +9,9 @@ The public is questioning the legitimacy of a qualification process so narrow th
 ### [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md)
 _Context: Justice, Politics of the Philippines, Vitaliano Aguirre, senators_
 
+### [The right-wing coaltition lead by Erna Solberg wins their second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coaltition-lead-by-erna-solberg-wins-their-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
+The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
+
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.

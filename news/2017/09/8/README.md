@@ -30,5 +30,8 @@ _Context: Brazil, Brazilian Democratic Movement Party, Law of Brazil, Michel Tem
 ### [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md)
 The University of California sued the Trump administration Friday for rescinding protections for immigrant students without legal statu...
 
+### [ In Groton Massachusetts, Orion Krause, just graduated from Oberlin college, was arrested after bodies were found and he confessed to his neighbors naked to killing his mother, grandparents and a caretaker in their home. Authorities believe it was domestic violence which posed no threat to general community. ](/news/2017/09/8/in-groton-massachusetts-orion-krause-just-graduated-from-oberlin-college-was-arrested-after-bodies-were-found-and-he-confessed-to-his-ne.md)
+Police say the community should not be alarmed after four people were found dead at a home in Groton.
+
 ## [Previous Day...](/news/2017/09/7/index.md)
 
