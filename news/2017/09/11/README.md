@@ -6,6 +6,9 @@ Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
 _Context: Deir ez-Zor Governorate, Russia, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining_
 
+### [PETA and the photographer involved settle the 'monkey selfie copyright dispute.' ](/news/2017/09/11/peta-and-the-photographer-involved-settle-the-monkey-selfie-copyright-dispute.md)
+_Context: PETA, monkey selfie copyright dispute_
+
 ### [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md)
 Two trains collided on Monday in a station in central Switzerland, Swiss police said, injuring around 30 people.
 
@@ -17,6 +20,9 @@ The United Nations Security Council approved new sanctions aimed at punishing No
 
 ### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly handed himself into police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-handed-hims.md)
 _Context: Alfred Gadenne, Mouscron_
+
+### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
+Eight to 10 members of a remote indigenous group were allegedly killed by men working for illegal prospectors in Javari Valley
 
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
 _Context: Justice, Philippine, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
