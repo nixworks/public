@@ -26,7 +26,7 @@ Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on
 ### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
 _Context: Deir ez-Zor Governorate, Russia, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining_
 
-### [PETA and the photographer involved settle the 'monkey selfie copyright dispute.' ](/news/2017/09/11/peta-and-the-photographer-involved-settle-the-monkey-selfie-copyright-dispute.md)
+### [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md)
 _Context: PETA, monkey selfie copyright dispute_
 
 ### [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md)
