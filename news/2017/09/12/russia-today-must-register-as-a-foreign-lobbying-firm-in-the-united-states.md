@@ -1,6 +1,6 @@
 ### [2017-09-12](/news/2017/09/12/index.md)
 
-# Russia Today must register as a "foreign lobbying firm" in the United States. 
+# Russia Today must register as a foreign lobbying firm in the United States. 
 
 
 
