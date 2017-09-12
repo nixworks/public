@@ -6,7 +6,7 @@ Syrian military appears to confirm media reports of attack on research centre ne
 ### [Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. ](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is-cancelled-at-some-of-its-international-test-centers-because-of-leaks-of-test-materials.md)
 _Context: ACT, Education in the United States, entrance exam test_
 
-### [More than 143 million Americans may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-americans-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on-the-cred.md)
+### [More than 143 million people in the U.S. may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-people-in-the-u-s-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on.md)
 Criminals gained access to certain files in the company’s system from mid-May to July, according to an investigation by Equifax.
 
 ### [Amazon.com announces bidding for a second headquarters campus in North America, to house 50,000 workers and cost $5 billion USD ](/news/2017/09/7/amazon-com-announces-bidding-for-a-second-headquarters-campus-in-north-america-to-house-50-000-workers-and-cost-5-billion-usd.md)
