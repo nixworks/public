@@ -1,0 +1,23 @@
+### [2017-09-11](/news/2017/09/11/index.md)
+
+# California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. 
+
+California on Monday sued the Trump administration, challenging as unconstitutional the president’s plan to rescind a program to protec...
+
+
+### Source:
+
+1. [The Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-california-sues-trump-administration-1505150334-htmlstory.html)
+
+### Related:
+
+1. [Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage-while-minnesota-votes-down-an-a.md) _Context: Maine, Maryland, Minnesota_
+2. [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md) _Context: Deferred Action for Childhood Arrivals, Trump administraion_
+3. [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to stop, on constitutional grounds, the revised federal immigration/refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-on.md) _Context: California, Maryland_
+4. [The University of California files a lawsuit against the potential termination of the Deferred Action for Childhood Arrivals programme which may affect more than 4,000 students. ](/news/2017/09/8/the-university-of-california-files-a-lawsuit-against-the-potential-termination-of-the-deferred-action-for-childhood-arrivals-programme-which.md) _Context: Deferred Action for Childhood Arrivals_
+5. [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md) _Context: Trump administraion_
+6. [Fifteen states and the District of Columbia file suit challenging President Donald Trump's decision to end the Deferred Action for Childhood Arrivals (DACA) program, arguing, in part, that federal government has reneged on the promise to protect young immigrants who came forward and registered with the government. ](/news/2017/09/6/fifteen-states-and-the-district-of-columbia-file-suit-challenging-president-donald-trumpas-decision-to-end-the-deferred-action-for-childho.md) _Context: Deferred Action for Childhood Arrivals_
+7. [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md) _Context: Deferred Action for Childhood Arrivals_
+8. [The Trump Administration announces that, during the next six months, it will be ending the DACA program that has halted the deportation of about 800,000 people who were brought to the U.S. illegally as children. Congress is called upon to pass legislation to correct the situation. ](/news/2017/09/5/the-trump-administration-announces-that-during-the-next-six-months-it-will-be-ending-the-daca-program-that-has-halted-the-deportation-of-a.md) _Context: Deferred Action for Childhood Arrivals_
+9. [California is to become a sanctuary state. ](/news/2017/09/12/california-is-to-become-a-sanctuary-state.md) _Context: California_
+10. [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md) _Context: Deferred Action for Childhood Arrivals_

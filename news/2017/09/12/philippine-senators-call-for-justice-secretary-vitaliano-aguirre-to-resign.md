@@ -7,8 +7,9 @@
 
 ### Source:
 
-1. [Philippine Canadian Inquirer](http://www.canadianinquirer.net/2017/09/12/minority-senators-support-hontiveros-call-on-aguirres-resignation/)
-2. [Rappler](https://www.rappler.com/technology/social-media/181952-commission-on-human-rights-2018-budget-house-of-representatives-social-media-reaction)
+1. [BBC](http://www.bbc.com/news/world-asia-41244704)
+2. [Philippine Canadian Inquirer](http://www.canadianinquirer.net/2017/09/12/minority-senators-support-hontiveros-call-on-aguirres-resignation/)
+3. [Rappler](https://www.rappler.com/technology/social-media/181952-commission-on-human-rights-2018-budget-house-of-representatives-social-media-reaction)
 
 ### Related:
 

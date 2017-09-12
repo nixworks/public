@@ -13,7 +13,7 @@ Criminals gained access to certain files in the company’s system from mid-May 
 The online retail giant said it is seeking a location in North America for a new complex that would cost as much as $5 billion to build and operate.
 
 ### [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md)
-_Context: Deferred Action for Childhood Arrivals, Due Process Clause, Trump administration_
+_Context: Deferred Action for Childhood Arrivals, Due Process Clause, Trump administraion_
 
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km/h), is moving west-northwest at 16 mph (26 km/h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
 Hurricane Irma strengthened and made landfall in Cuba on Friday as a Category 5 storm, as millions of Florida residents were ordered to evacuate after the storm killed 21 people in the eastern Caribbean and left catastrophic destruction in its wake.
@@ -34,7 +34,7 @@ The High Court has ruled in favour of the Turnbull government&#039;s same-sex ma
 She says the due-process rights of the accused need to be protected.
 
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
-_Context: Executive Order 13780, Trump administration, United States Court of Appeals for the Ninth Circuit, bona fide_
+_Context: Executive Order 13780, Trump administraion, United States Court of Appeals for the Ninth Circuit, bona fide_
 
 ### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)
 Members of Catalonia&#39;s parliament who voted in favour of a referendum on independence set to face legal challenge.

@@ -24,6 +24,9 @@ _Context: Alfred Gadenne, Mouscron_
 ### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
 Eight to 10 members of a remote indigenous group were allegedly killed by men working for illegal prospectors in Javari Valley
 
+### [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md)
+California on Monday sued the Trump administration, challenging as unconstitutional the president’s plan to rescind a program to protec...
+
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
 _Context: Justice, Philippine, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
 

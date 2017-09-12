@@ -1,7 +1,19 @@
 ## [News](/news/2017/09/12/index.md)
 
+### [Hillary Clinton releases the book "What Happened. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened.md)
+_Context: Hillary Clinton, What Happened_
+
+### [Apple Inc. releases iPhone X. ](/news/2017/09/12/apple-inc-releases-iphone-x.md)
+Apple unveiled a new high-end smartphone called the iPhone X, as well as an iPhone 8 and 8 Plus and other products. Read our analysis of the event.
+
+### [Bangladeshi Prime Minister Sheikh Hasina says that alleged atrocities against the Rohingya must stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-says-that-alleged-atrocities-against-the-rohingya-must-stop.md)
+&quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 
+
 ### [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md)
 Turkey has already paid a deposit to Russia for the purchase of the S-400 anti-ballistic missile system despite opposition from its NATO allies, President Recep Tayyip Erdoğan has said, underlining that both Ankara and Moscow were committed to accomplish the sale process of the high-tech defense eq...
+
+### [California is to become a sanctuary state. ](/news/2017/09/12/california-is-to-become-a-sanctuary-state.md)
+Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a &quot;sanctuary state&quot; bill that would limit the role of sta...
 
 ### [Halimah Yacob is appointed as the first female President of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md)
 The public is questioning the legitimacy of a qualification process so narrow that only one candidate made the cut, bypassing a vote.
@@ -43,6 +55,9 @@ _Context: Alfred Gadenne, Mouscron_
 
 ### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
 Eight to 10 members of a remote indigenous group were allegedly killed by men working for illegal prospectors in Javari Valley
+
+### [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md)
+California on Monday sued the Trump administration, challenging as unconstitutional the president’s plan to rescind a program to protec...
 
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
 _Context: Justice, Philippine, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
