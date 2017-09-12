@@ -12,6 +12,9 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 ### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
 _Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
 
+### [The mayor of Mouscron Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly handed himself into police. ](/news/2017/09/11/the-mayor-of-mouscron-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-hand.md)
+_Context: Alfred Gadenne, Mouscron_
+
 ### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
 _Context: Justice, Philippine, Politics of the Philippines, Risa Hontiveros, Senator, Vitaliano Aguirre, lawsuit_
 
