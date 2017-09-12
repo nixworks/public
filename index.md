@@ -35,7 +35,7 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 ### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
 _Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
 
-### [The United Nations Security Council approves new sanctions on North Korea as punishment for its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-as-punishment-for-its-recent-nuclear-test.md)
+### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
 The United Nations Security Council approved new sanctions aimed at punishing North Korea for its latest missile and nuclear tests after the U.S. dropped key demands in order to win support from Russia and China.
 
 ### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly handed himself into police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-handed-hims.md)

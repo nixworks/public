@@ -30,7 +30,7 @@ _Context: Kenya, Kenyan general election, 2017, National Super Alliance, ODM, Pr
 ### [Because of a recent pair of deadly crashes, the U.S. Marine Corps will ground its flight operations for 24 hours for an operational reset. The suspensions will be spread out over the next two weeks. ](/news/2017/08/11/because-of-a-recent-pair-of-deadly-crashes-the-u-s-marine-corps-will-ground-its-flight-operations-for-24-hours-for-an-operational-reset-t.md)
 The U.S. Marine Corps on Friday ordered its aircraft squadrons to suspend flight operations for 24 hours sometime during the next two weeks to review procedures after two of its planes crashed, killing dozens.
 
-### [A white supremacist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-supremacist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md)
+### [A white nationalist rally called "Unite the Right" takes place in Charlottesville, Virginia. ](/news/2017/08/11/a-white-nationalist-rally-called-unite-the-right-takes-place-in-charlottesville-virginia.md)
 _Context: Charlottesville, Virginia, Unite the Right rally_
 
 ## [Previous Day...](/news/2017/08/10/index.md)
