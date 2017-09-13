@@ -19,7 +19,7 @@ _Context: Seoul National University, Snuppy, South Korea, cloning_
 _Context: 2008, 2020, Labour Party, Waitangi Tribunal_
 
 ### [ Negotiations between the Philippines government and the National Democratic Front, the political wings of the Communist Party of the Philippines, break down. The Government has ended immunity of their members from arrest ](/news/2005/08/4/negotiations-between-the-philippines-government-and-the-national-democratic-front-the-political-wings-of-the-communist-party-of-the-philip.md)
-_Context: Communist Party of the Philippines, Philippine_
+_Context: Communist Party of the Philippines, Philippines_
 
 ### [ The African Union suspends Mauritania from the group after the recent coup. ](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.md)
 _Context: African Union, Mauritanian, coup_

@@ -46,7 +46,7 @@ Roxana Baldetti, a former vice-president of Guatemala, appears in court accused 
 Guinea-Bissau&#x27;s new Prime Minister Baciro Dja on Monday sacked the chiefs of the state-owned radio and television services for &quot;bias&quot; in their reporting of a recent government shake-up. Dja was appointed last week after President Jose Mario Vaz fired his predecessor Domingos Simoes Pe...
 
 ### [The President of Turkey Recep Tayyip Erdogan calls for new elections after a deadline to form a new government following an inconclusive election in June. ](/news/2015/08/24/the-president-of-turkey-recep-tayyip-erdoaan-calls-for-new-elections-after-a-deadline-to-form-a-new-government-following-an-inconclusive-el.md)
-_Context: President, Recep Tayyip Erdogan, Turkish general election, November 2015, election in June_
+_Context: President of Turkey, Recep Tayyip Erdogan, Turkish general election, November 2015, election in June_
 
 ### [Jakobshavn Glacier sheds and creates an iceberg 12.4 square km in size. ](/news/2015/08/24/jakobshavn-glacier-sheds-and-creates-an-iceberg-12-4-square-km-in-size.md)
 Scientists are studying a big mass of ice that has broken off the Jakobshavn Glacier in Greenland.

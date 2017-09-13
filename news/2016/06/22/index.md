@@ -7,7 +7,7 @@ The so-called Islamic State, or ISIS, released a video early on Wednesday in an 
 At least 18 civilians have been killed in air strikes in the Syrian city of Raqqa, the headquarters of so-called Islamic State, activists say.
 
 ### [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md)
-_Context: Fallujah, ISIL, Iraqi and allied forces, Shi'ite volunteers, United Nations, during fighting_
+_Context: Fallujah, Iraqi and allied forces, Islamic State of Iraq and the Levant, Shi'ite volunteers, United Nations, during fighting_
 
 ### [Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-responsibility.md)
 _Context: Amjad Sabri, Pakistan, Pakistani Taliban, Sectarianism in Pakistan, Sufi_

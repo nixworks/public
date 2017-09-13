@@ -22,7 +22,7 @@ _Context: 17th Screen Actors Guild Awards, Screen Actors Guild Awards, The King'
 Alpha Natural Resources said on Saturday it agreed to a $7.1 billion deal to buy Massey Energy Co, which was rocked by a deadly coal mining accident last year.
 
 ### [12 people are killed and 360 families left homeless after a fire in Navotas City, near Manila, Philippines. ](/news/2011/01/30/12-people-are-killed-and-360-families-left-homeless-after-a-fire-in-navotas-city-near-manila-philippines.md)
-_Context: Manila, Navotas City, Philippine_
+_Context: Manila, Navotas City, Philippines_
 
 ### [1 person is killed and at least 40 others are injured due to an explosion and a fire in Maracay, Aragua. ](/news/2011/01/30/1-person-is-killed-and-at-least-40-others-are-injured-due-to-an-explosion-and-a-fire-in-maracay-aragua.md)
 A series of explosions at an arms depot in Venezuela leaves one person dead and forces thousands of people to flee their homes.
@@ -40,7 +40,7 @@ Grass fires erupted in parts of Oklahoma on Saturday, damaging several homes and
 A Vietnamese journalist, set on fire after being doused with chemicals as he slept 10 days ago, dies of his injuries.
 
 ### [The directors of two companies based in York and Kent are charged with conspiring to illegally export Chinese-produced weapons to the United States after having imported them into the UK via Germany. The incident breaches an embargo by the United States, which disagrees with the importation of weapons made in China. ](/news/2011/01/30/the-directors-of-two-companies-based-in-york-and-kent-are-charged-with-conspiring-to-illegally-export-chinese-produced-weapons-to-the-united.md)
-_Context: Kent, U.S., York_
+_Context: Kent, United States, York_
 
 ### [Ahead of his court case Julian Assange is interviewed at the Norfolk country house where he is staying, having been up all night preparing U.S. State Department cables relevant to ongoing events in Egypt for inclusion on the WikiLeaks website. ](/news/2011/01/30/ahead-of-his-court-case-julian-assange-is-interviewed-at-the-norfolk-country-house-where-he-is-staying-having-been-up-all-night-preparing-u.md)
 _Context: 250,000 documents, Julian Assange, Norfolk, Protesters, WikiLeaks_

@@ -9,5 +9,8 @@ _Context: Siberia Airlines Flight 1812_
 ### [ First case of anthrax in the US (attack) is announced by federal officials.](/news/2001/10/4/first-case-of-anthrax-in-the-us-attack-is-announced-by-federal-officials.md)
 _Context: 2001 anthrax attacks, case of anthrax_
 
+### [ The film "Harry Potter And The Sorcerer's Stone" is released.](/news/2001/10/4/the-film-harry-potter-and-the-sorcerer-s-stone-is-released.md)
+_Context: Harry Potter And The Sorcerer's Stone_
+
 ## [Previous Day...](/news/2001/10/3/index.md)
 

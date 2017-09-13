@@ -13,7 +13,7 @@ _Context: 2011 MTV Video Music Awards, Firework, Katy Perry, Los Angeles, Video 
 President Obama issued a state of emergency for Maryland on Saturday as the state&#039;s coast began to experience the first of Hurricane Irene&#039;s rain bands and deadly winds.
 
 ### [Typhoon Nanmadol kills eight people in the Philippines and is headed for Taiwan. ](/news/2011/08/28/typhoon-nanmadol-kills-eight-people-in-the-philippines-and-is-headed-for-taiwan.md)
-_Context: Philippine, Typhoon Nanmadol, the Republic of China_
+_Context: Philippines, Typhoon Nanmadol, the Republic of China_
 
 ### [Five people are killed and at least 27 injured when a tram derails in the Santa Teresa neighborhood of Rio de Janeiro. ](/news/2011/08/28/five-people-are-killed-and-at-least-27-injured-when-a-tram-derails-in-the-santa-teresa-neighborhood-of-rio-de-janeiro.md)
 A tram popular with tourists derails in the Brazilian city of Rio de Janeiro killing its driver and four passengers, with another 27 injured.
@@ -25,7 +25,7 @@ _Context: 10 Downing Street, Libya, London, Tripoli, WPC, murder of PC Yvonne Fl
 Anna Hazare ended his 12-day fast on Sunday morning before thousands of cheering supporters at Ramlila Maidan. Special
 
 ### [Tony Tan Keng Yam becomes the President-elect of Singapore after winning the presidential election. ](/news/2011/08/28/tony-tan-keng-yam-becomes-the-president-elect-of-singapore-after-winning-the-presidential-election.md)
-_Context: President-elect, Singapore, Tony Tan Keng Yam, presidential election_
+_Context: President, Singapore, Tony Tan Keng Yam, presidential election_
 
 ### [Nepal elects Baburam Bhattarai as its new Prime Minister. ](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.md)
 _Context: Baburam Bhattarai, Nepal, Prime Minister_

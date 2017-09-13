@@ -43,7 +43,7 @@ _Context: Mexico, Santiago de Queretaro_
 _Context: U.S. government, ban on ballistic missile tests, nuclear program_
 
 ### [Rwandan opposition parties appeal to the United States and the UN Security Council to intervene on behalf of the opposition FDU party leader, Victoire Ingabire Umuhoza, arrested last week, and other political prisoners. ](/news/2010/10/18/rwandan-opposition-parties-appeal-to-the-united-states-and-the-un-security-council-to-intervene-on-behalf-of-the-opposition-fdu-party-leader.md)
-_Context: Rwanda, U.S., UN Security Council, Victoire Ingabire_
+_Context: Rwanda, UN Security Council, United States, Victoire Ingabire_
 
 ### [Fears mount that the Ugandan rebel group, the Lord's Resistance Army, which has ties to the Sudanese government, is poised to destabilize South Sudan as it prepares for a referendum on independence. ](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.md)
 _Context: Lord's Resistance Army, Southern Sudan, Southern Sudanese Independence Referendum, Sudanese cabinet, Uganda_
@@ -61,7 +61,7 @@ _Context: Chinese, Japan, Naoto Kan, Prime Minister of Japan_
 A man can beat his wife and kids as long as no physical marks are left, the highest court in the United Arab Emirates has found.
 
 ### [Five migrant Filipino workers are arrested in Saudi Arabia for filing a labor complaint against their employer according to a Philippine migrant workers' rights group. ](/news/2010/10/18/five-migrant-filipino-workers-are-arrested-in-saudi-arabia-for-filing-a-labor-complaint-against-their-employer-according-to-a-philippine-mig.md)
-_Context: Philippine, Saudi Arabia, migrant workers_
+_Context: Philippines, Saudi Arabia, migrant workers_
 
 ### [More than 150 people, including 12 mayors and some politicians, go on trial for alleged links to the Kurdistan Workers' Party (PKK) in Turkey. ](/news/2010/10/18/more-than-150-people-including-12-mayors-and-some-politicians-go-on-trial-for-alleged-links-to-the-kurdistan-workers-party-pkk-in-turke.md)
 _Context: Kurdistan Workers' Party, Turkey_

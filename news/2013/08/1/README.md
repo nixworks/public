@@ -10,7 +10,7 @@ U.S. stocks rise sharply after data that show jobless claims falling to a five-y
 NSA whistleblower Edward Snowden has been granted temporary asylum in Russia and is allowed to enter the country’s territory.
 
 ### [In talks in Manila, the Philippines and Vietnam agree to work together on a framework for resolving maritime territorial disputes in the South China Sea. ](/news/2013/08/1/in-talks-in-manila-the-philippines-and-vietnam-agree-to-work-together-on-a-framework-for-resolving-maritime-territorial-disputes-in-the-sou.md)
-_Context: Manila, Philippine, Vietnam_
+_Context: Manila, Philippines, Vietnam_
 
 ### [Russian police detain 1,200 illegal Vietnamese migrants in raids in Moscow. ](/news/2013/08/1/russian-police-detain-1-200-illegal-vietnamese-migrants-in-raids-in-moscow.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 _Context: Greek, Turkey_
 
 ### [The U.S. states of Minnesota and Rhode Island begin issuing marriage licenses to same-sex couples. ](/news/2013/08/1/the-u-s-states-of-minnesota-and-rhode-island-begin-issuing-marriage-licenses-to-same-sex-couples.md)
-_Context: Minnesota, Rhode Island, U.S., same-sex marriage_
+_Context: Minnesota, Rhode Island, United States, same-sex marriage_
 
 ### [The Dhaka High Court rules the registration of Bangladesh's largest Islamic group Jamaat-e-Islami as a political party illegal making it potentially ineligible to contest elections. ](/news/2013/08/1/the-dhaka-high-court-rules-the-registration-of-bangladesh-s-largest-islamic-group-jamaat-e-islami-as-a-political-party-illegal-making-it-pot.md)
 _Context: Bangladesh, Bangladesh Jamaat-e-Islami, Dhaka, High Court, Muslims_

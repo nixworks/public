@@ -19,13 +19,13 @@ _Context: Wegelin & Co._
 A fire at a private shelter for orphans and abandoned children in central China has killed at least seven youngsters and left&hellip;
 
 ### [Three people are killed when a Beechcraft BE35 plane crashes into a home near Daytona Beach, Florida, United States. ](/news/2013/01/4/three-people-are-killed-when-a-beechcraft-be35-plane-crashes-into-a-home-near-daytona-beach-florida-united-states.md)
-_Context: Beechcraft BE35, Daytona Beach, Florida, U.S._
+_Context: Beechcraft BE35, Daytona Beach, Florida, United States_
 
 ### [Six Russian tourists are killed and two tourists are seriously injured after a snowmobile towing a sled veers off a ski slope, crashes into a barrier, and flies into a ditch on Italy's Mount Cermis. ](/news/2013/01/4/six-russian-tourists-are-killed-and-two-tourists-are-seriously-injured-after-a-snowmobile-towing-a-sled-veers-off-a-ski-slope-crashes-into.md)
 Six Russian tourists die as their snowmobile flips over during a night-time run down an Alpine ski slope in north-eastern Italy, reports say.
 
 ### [A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. ](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-rampage-in-kawit-the-philippines.md)
-_Context: Kawit, Philippine, kills eight people_
+_Context: Kawit, Philippines, kills eight people_
 
 ### [The Nigerian police announces that Hyundai has paid a ransom of GBP118,000 ($190,000) to free 6 kidnapped workers in the Niger Delta region. ](/news/2013/01/4/the-nigerian-police-announces-that-hyundai-has-paid-a-ransom-of-agbp118-000-190-000-to-free-6-kidnapped-workers-in-the-niger-delta-region.md)
 South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six workers kidnapped last month, Nigerian police say.

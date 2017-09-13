@@ -19,7 +19,7 @@ _Context: Florida, Mark Foley, Republican, United States House of Representative
 _Context: Anousheh Ansari, Expedition 13, Iranian-American, Kazakhstan, Soyuz TMA-8, space tourist, steppe_
 
 ### [ Typhoon Xangsane lashes the northern Philippines, killing at least 48 people and causing extensive damage. ](/news/2006/09/29/typhoon-xangsane-lashes-the-northern-philippines-killing-at-least-48-people-and-causing-extensive-damage.md)
-_Context: Philippine, Typhoon Xangsane_
+_Context: Philippines, Typhoon Xangsane_
 
 ### [ Lenovo recalls 526,000 Sony laptop batteries due to fire risk. ](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.md)
 _Context: Lenovo, Sony_

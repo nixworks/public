@@ -7,7 +7,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 The Phillies beat the Dodgers in Game 5 of the N.L.C.S. to advance to the World Series for the first time since 1993.
 
 ### [ Retail sales in the United States decline by 1.2% in September 2008, a third successive month in decline and the sharpest decline in three years, further evidence that the United States economy is in a recession. ](/news/2008/10/15/retail-sales-in-the-united-states-decline-by-1-2-in-september-2008-a-third-successive-month-in-decline-and-the-sharpest-decline-in-three.md)
-_Context: Retail sales, September 2008, U.S., United States economy, recession_
+_Context: Retail sales, September 2008, United States, United States economy, recession_
 
 ### [ The International Maritime Bureau claims that pirates have hijacked a bulk carrier with 21 crew members in the Gulf of Aden near Somalia. ](/news/2008/10/15/the-international-maritime-bureau-claims-that-pirates-have-hijacked-a-bulk-carrier-with-21-crew-members-in-the-gulf-of-aden-near-somalia.md)
 _Context: Gulf of Aden, International Maritime Bureau, Pirate, Somali pirates, Somalia, bulk carrier_

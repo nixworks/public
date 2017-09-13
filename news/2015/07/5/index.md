@@ -16,7 +16,7 @@ Boko Haram militants are blamed for a suicide bomb attack in a Nigerian church a
 Early Sunday, a delegation from San Antonio was in Bonn, Germany, to witness the World Heritage Committee of the United Nations Educational, Scientific and Cultural Organization, known as UNESCO, approve the missions’ nomination. “The city of San Antonio is delighted with UNESCO’s action today...
 
 ### [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md)
-_Context: 2015 Pacific typhoon season, Palawan, Philippine_
+_Context: 2015 Pacific typhoon season, Palawan, Philippines_
 
 ### [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md)
 B.C. has seen more than 50 new wildfires over the weekend that have put people out of their homes or on evacuation alert, resulting in several communities declaring states of emergency. 

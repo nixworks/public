@@ -25,7 +25,7 @@ The Red Arrows are cleared to fly again following a fatal crash, but the RAF is 
 With Hurricane Irene bearing down on New York City, subways, buses and commuter trains will likely be suspended starting Saturday and nursing homes and hospitals are being ordered out of primary evacuation...
 
 ### [2011 Pacific typhoon season: At least one person in the Philippines is missing and several towns are flooded as a result of Typhoon Nanmadol which is now heading for Taiwan. ](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.md)
-_Context: 2011 Pacific typhoon season, Philippine, Typhoon Nanmadol, the Republic of China_
+_Context: 2011 Pacific typhoon season, Philippines, Typhoon Nanmadol, the Republic of China_
 
 ### [London's Metropolitan Police Service says that it has now made over 2,000 arrests in connection with the riots which occurred in London. ](/news/2011/08/25/london-s-metropolitan-police-service-says-that-it-has-now-made-over-2-000-arrests-in-connection-with-the-riots-which-occurred-in-london.md)
 The number of people arrested over rioting and looting in London earlier this month passes 2,000, the Metropolitan Police reveal.

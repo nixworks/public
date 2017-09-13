@@ -19,7 +19,7 @@ _Context: Italy, smoking ban_
 _Context: Almatti canal, Bijapur district, Karnataka, India, bus_
 
 ### [ In the Philippines, the truce between the army and Islamist rebels collapses. Government forces exchange fire with the MILF rebels in Mindanao. The peace talks are still ongoing. ](/news/2005/01/10/in-the-philippines-the-truce-between-the-army-and-islamist-rebels-collapses-government-forces-exchange-fire-with-the-milf-rebels-in-minda.md)
-_Context: Mindanao, Moro Islamic Liberation Front, Philippine, truce_
+_Context: Mindanao, Moro Islamic Liberation Front, Philippines, truce_
 
 ### [ Tides of over 2 meters inundate Port Blair, Andaman Islands, India, raising fears that the 2004 Indian Ocean earthquake has changed tidal patterns. ](/news/2005/01/10/tides-of-over-2-meters-inundate-port-blair-andaman-islands-india-raising-fears-that-the-2004-indian-ocean-earthquake-has-changed-tidal-p.md)
 _Context: 2004 Indian Ocean earthquake, Andaman Islands, India, Port Blair_

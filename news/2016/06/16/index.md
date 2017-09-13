@@ -40,7 +40,7 @@ MOMBASA, Kenya (AP) — A Kenyan court on Thursday upheld the use of anal examin
 An agreement was apparently reached to allow votes on whether to ban people on a terror watch list from buying guns and to expand background checks.
 
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: City Council, Pennsylvania, Philadelphia, U.S., sugar-sweetened and diet beverages, sugary drinks tax_
+_Context: City Council, Pennsylvania, Philadelphia, United States, sugar-sweetened and diet beverages, sugary drinks tax_
 
 ## [Previous Day...](/news/2016/06/15/index.md)
 

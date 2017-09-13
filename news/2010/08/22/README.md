@@ -4,7 +4,7 @@
 Police in Venezuela search for a soldier who shot dead two officers and wounded six soldiers at a military base in the capital, Caracas.
 
 ### [The Philippines and the United States hold a joint exercise of their forces. ](/news/2010/08/22/the-philippines-and-the-united-states-hold-a-joint-exercise-of-their-forces.md)
-_Context: Philippine, U.S._
+_Context: Philippines, United States_
 
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
 _Context: Brazil, InterContinental, Rio de Janeiro, So Conrado_
@@ -31,7 +31,7 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&#x20;weeks&#x20;underground&#x20;sent&#x20;up&#x20;a&#x20;message&#x20;tied&#x20;to&#x20;a&#x20;drill&#x20;that&#x20;said&#x20;they&#x20;were&#x20;all&#x20;alive.&#x20;President&#x20;Pinera&#x20;said&#x20;he&#x20;was&#x2...
 
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, U.S._
+_Context: Bolivia, Cyprus, Ehud Barak, France, Gaza Strip, Israel, United States_
 
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
 _Context: Iran, drone aircraft_

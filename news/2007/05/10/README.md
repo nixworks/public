@@ -13,10 +13,10 @@ _Context: Korean Demilitarized Zone, Korean War, North Korea, South Korea_
 _Context: Bashar al-Assad, President, Prime Minister, Rafiq al-Hariri, Syria, United Nations, assassinated_
 
 ### [ The Grand National Assembly of Turkey votes overwhelmingly in favour of a proposal for the direct election of the President of Turkey. ](/news/2007/05/10/the-grand-national-assembly-of-turkey-votes-overwhelmingly-in-favour-of-a-proposal-for-the-direct-election-of-the-president-of-turkey.md)
-_Context: President, Turkish Parliament, direct election_
+_Context: President of Turkey, Turkish Parliament, direct election_
 
 ### [ Syrian dissident Kamal Labwani is jailed for 12 years for allegedly undermining national security by visiting the United States. ](/news/2007/05/10/syrian-dissident-kamal-labwani-is-jailed-for-12-years-for-allegedly-undermining-national-security-by-visiting-the-united-states.md)
-_Context: Kamal Labwani, Syria, U.S., dissident_
+_Context: Kamal Labwani, Syria, United States, dissident_
 
 ### [ The Prime Minister of the United Kingdom Tony Blair announces he will step down on June 27, once the Labour Party has elected a successor. ](/news/2007/05/10/the-prime-minister-of-the-united-kingdom-tony-blair-announces-he-will-step-down-on-june-27-once-the-labour-party-has-elected-a-successor.md)
 _Context: Labour, Prime Minister, Tony Blair_

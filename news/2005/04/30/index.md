@@ -4,7 +4,7 @@
 _Context: Cairo, Cairo terrorism, Egypt's, terrorism_
 
 ### [ U.S. Senator John Kerry formally endorses a candidate for mayor of Los Angeles, Antonio Villaraigosa, repaying Mr. Villaraigosa's support for his own presidential campaign in 2004(AP)](/news/2005/04/30/u-s-senator-john-kerry-formally-endorses-a-candidate-for-mayor-of-los-angeles-antonio-villaraigosa-repaying-mr-villaraigosa-s-support-f.md)
-_Context: 2004, Antonio Villaraigosa, John Kerry, Los Angeles, U.S._
+_Context: 2004, Antonio Villaraigosa, John Kerry, Los Angeles, United States_
 
 ### [ King Gyanendra of Nepal ends the state of emergency. Press censorship and ban of political activities continues. ](/news/2005/04/30/king-gyanendra-of-nepal-ends-the-state-of-emergency-press-censorship-and-ban-of-political-activities-continues.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News

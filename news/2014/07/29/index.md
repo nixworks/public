@@ -31,7 +31,7 @@ A West African airline halts flights to Liberia and Sierra Leone amid concern ab
 _Context: Japan, Malaysia Airlines Flight 17, Russia_
 
 ### [The European Union and United States impose tougher sanctions against Russia over the Ukraine crisis. ](/news/2014/07/29/the-european-union-and-united-states-impose-tougher-sanctions-against-russia-over-the-ukraine-crisis.md)
-_Context: EU, Russia, U.S._
+_Context: EU, Russia, United States_
 
 ### [Chinese state media report that former Politburo Standing Committee member and security chief Zhou Yongkang is undergoing investigation for "disciplinary violations." ](/news/2014/07/29/chinese-state-media-report-that-former-politburo-standing-committee-member-and-security-chief-zhou-yongkang-is-undergoing-investigation-for.md)
 _Context: Politburo Standing Committee, Zhou Yongkang_

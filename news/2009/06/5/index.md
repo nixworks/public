@@ -43,7 +43,7 @@ _Context: China, Chongqing, landslide_
 _Context: Pakistan, Upper Dir District, War in North-West Pakistan, mosque, suicide bombing_
 
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
-_Context: Cuba, Kendall Myers, State Department, U.S., espionage, government_
+_Context: Cuba, Kendall Myers, State Department, United States, espionage, government_
 
 ### [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md)
 _Context: David Bain, Dunedin, New Zealand, murdering, retrial_

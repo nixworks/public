@@ -28,7 +28,7 @@ _Context: Elections, Electoral Commission, Police and Crime Commissioner_
 Labour wins a seat from the Conservatives in a by-election for the first time in 15 years, taking Corby in Northamptonshire.
 
 ### [The U.S. House of Representatives voted overwhelmingly to end a Jackson-Vanik amendment, long-standing trade restriction with Russia. Also Magnitsky Law was adopted instead, it requires the United States to place financial and visa restrictions on a list of officials associated with the torture and death, three years ago, of Sergei Magnitsky. ([http://www.washingtonpost.com/world/europe/russia-chafes-as-house-passes-magnitsky-bill/2012/11/16/b589e544-300f-11e2-a30e-5ca76eeec857_story.html Washington Post])](/news/2012/11/16/the-u-s-house-of-representatives-voted-overwhelmingly-to-end-a-jacksonavanik-amendment-long-standing-trade-restriction-with-russia-also.md)
-_Context: Jackson-Vanik amendment, Magnitsky Law, Russia, Sergei Magnitsky, U.S., U.S. House of Representatives_
+_Context: Jackson-Vanik amendment, Magnitsky Law, Russia, Sergei Magnitsky, U.S. House of Representatives, United States_
 
 ## [Previous Day...](/news/2012/11/15/index.md)
 

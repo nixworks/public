@@ -10,7 +10,7 @@ _Context: Fort Benning_
 _Context: IAEA, United Nations Security Council, nuclear program_
 
 ### [ A stampede at a sports stadium in Pasig City, Metro Manila, Philippines, kills 73 and injures more than 320, mostly women. Tens of thousands of people had gathered to watch the anniversary presentation of the popular ABS-CBN early afternoon TV gameshow, "Wowowee". ](/news/2006/02/4/a-stampede-at-a-sports-stadium-in-pasig-city-metro-manila-philippines-kills-73-and-injures-more-than-320-mostly-women-tens-of-thousand.md)
-_Context: A stampede, ABS-CBN, Metro Manila, Pasig City, Philippine, Wowowee_
+_Context: A stampede, ABS-CBN, Metro Manila, Pasig City, Philippines, Wowowee_
 
 ### [ The Danish, and as a consequence of sharing the same building, the Chilean and Swedish embassies in Damascus, are firebombed by protestors denouncing the publication of what they consider sacrilegious cartoons depicting the Prophet Muhammad. The Norwegian embassy is also burned. ](/news/2006/02/4/the-danish-and-as-a-consequence-of-sharing-the-same-building-the-chilean-and-swedish-embassies-in-damascus-are-firebombed-by-protestors.md)
 _Context: Chile, Damascus, Denmark, Jyllands-Posten Muhammad cartoons controversy, Norway, Sweden_

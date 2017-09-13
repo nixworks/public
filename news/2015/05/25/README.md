@@ -7,7 +7,7 @@ The United States and Turkey have agreed &quot;in principle&quot; to give air su
 A Tunisian corporal shot dead seven of his comrades before himself being killed, the defence ministry said, adding that he had family and psychological problems.
 
 ### [Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md)
-_Context: ISIL, Iraq, Ramadi_
+_Context: Iraq, Islamic State of Iraq and the Levant, Ramadi_
 
 ### [Australia announces that it will repatriate the bodies of up to 25 soldiers killed in the early stages of the Vietnam War. ](/news/2015/05/25/australia-announces-that-it-will-repatriate-the-bodies-of-up-to-25-soldiers-killed-in-the-early-stages-of-the-vietnam-war.md)
 _Context: Australia, Vietnam War, soldiers_
@@ -28,10 +28,10 @@ _Context: China, Henan Province, Lushan County, nursing home_
 _Context: Colombia, gold mine_
 
 ### [Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. ](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.md)
-_Context: Malaysia, Philippine, a dispute regarding the ownership of Sabah_
+_Context: Malaysia, Philippines, a dispute regarding the ownership of Sabah_
 
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: China, South China Sea, U.S._
+_Context: China, South China Sea, United States_
 
 ### [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md)
 The Sudanese government has denied supporting rebels in South Sudan after it accused Khartoum of supplying arms to the insurgents threatening its oil fields.

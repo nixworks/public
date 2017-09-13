@@ -1,7 +1,7 @@
 ## [2015-12-22](/news/2015/12/22/index.md)
 
 ### [The Iraqi Army advances into the center of Ramadi, the latest development in the effort, which began in November, to regain the city from the Islamic State of Iraq and the Levant. ](/news/2015/12/22/the-iraqi-army-advances-into-the-center-of-ramadi-the-latest-development-in-the-effort-which-began-in-november-to-regain-the-city-from-th.md)
-_Context: Battle of Ramadi, ISIL, Iraqi Army, Ramadi_
+_Context: Battle of Ramadi, Iraqi Army, Islamic State of Iraq and the Levant, Ramadi_
 
 ### [More than 1 million children have been forced out of school as a result of Boko Haram terrorism in northeastern Nigeria and its neighboring countries, which leaves the children more susceptible to violence, poverty and child marriage, Manuel Fontaine, UNICEF's West and Central Africa regional director, said in a statement. ](/news/2015/12/22/more-than-1-million-children-have-been-forced-out-of-school-as-a-result-of-boko-haram-terrorism-in-northeastern-nigeria-and-its-neighboring.md)
 By Kieran GuilbertDAKAR (Thomson Reuters Foundation) - Violence in northeast Nigeria and neighboring countries targeted by Boko Haram has forced more
@@ -31,7 +31,7 @@ _Context: India, India's health ministry, Sanofi Pasteur's, clinical trial, deng
 _Context: Colombia, Colombian President, Juan Manuel Santos, Legality of cannabis, medical marijuana, personal possession_
 
 ### [The Philippine Commission on Elections disqualifies presidential frontrunner Grace Poe, who is a rival of Mar Roxas, the candidate favored by President Benigno Aquino III. The move is widely believed to be politically motivated. ](/news/2015/12/22/the-philippine-commission-on-elections-disqualifies-presidential-frontrunner-grace-poe-who-is-a-rival-of-mar-roxas-the-candidate-favored-b.md)
-_Context: Commission on Elections, Grace Poe, Mar Roxas, Philippine, Philippine presidential election, 2016, his predecessor, politically motivated_
+_Context: Commission on Elections, Grace Poe, Mar Roxas, Philippine presidential election, 2016, Philippines, his predecessor, politically motivated_
 
 ### [Central African Republic's National Election Authority announces voters approved (93%) the new constitution in the December 13 referendum. Amid sporatic violence, 39 percent of registered citizens voted in the two-day poll. The first round of the presidential elections and Parliamentary elections now can be held on December 27, 2015. Acting President Catherine Samba-Panza and current members of the legislature cannot participate. ](/news/2015/12/22/central-african-republic-s-national-election-authority-announces-voters-approved-93-the-new-constitution-in-the-december-13-referendum-a.md)
 Citizens of the CAR have voted for a new constitution that will replace a transitional charter for governing the country. Legislative and presidential elections are due to take place on December 27.

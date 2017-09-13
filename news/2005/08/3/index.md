@@ -1,7 +1,7 @@
 ## [2005-08-3](/news/2005/08/3/index.md)
 
 ### [ The U.S. Federal Communications Commission (FCC) and United States Department of Justice give approval to the proposed merger of Sprint and Nextel, to create the new company of Sprint Nextel](/news/2005/08/3/the-u-s-federal-communications-commission-fcc-and-united-states-department-of-justice-give-approval-to-the-proposed-merger-of-sprint-and.md)
-_Context: Federal Communications Commission, Sprint Nextel, U.S. Justice Department_
+_Context: Federal Communications Commission, Sprint Nextel, United States Department of Justice_
 
 ### [ Prime Minister of Canada Paul Martin will announce on Thursday that Michalle Jean has been chosen to succeed Adrienne Clarkson as Governor General of Canada. ](/news/2005/08/3/prime-minister-of-canada-paul-martin-will-announce-on-thursday-that-michaelle-jean-has-been-chosen-to-succeed-adrienne-clarkson-as-governor.md)
 _Context: Adrienne Clarkson, Canadian Prime Minister, Governor General, Michalle Jean, Paul Martin_

@@ -4,7 +4,7 @@
 A Pakistani police official says a twin bombing has killed a police officer and wounded nine people in northwestern Peshawar city.
 
 ### [Iraqi police claim ISIL militants fired chemical weapons, suspected to be mustard gas or chlorine, in the May 8 attacks on Bashir near Kirkuk, Iraq. ](/news/2016/05/18/iraqi-police-claim-isil-militants-fired-chemical-weapons-suspected-to-be-mustard-gas-or-chlorine-in-the-may-8-attacks-on-bashir-near-kirku.md)
-_Context: Bashir, ISIL, Iraqi Civil War (2014-present), Iraqi police, Kirkuk, Use of chemical weapons in the Iraqi civil war, chlorine, mustard gas_
+_Context: Bashir, Iraqi Civil War (2014-present), Iraqi police, Islamic State of Iraq and the Levant, Kirkuk, Use of chemical weapons in the Iraqi civil war, chlorine, mustard gas_
 
 ### [One of the girls kidnapped in 2014 by Boko Haram in Nigeria is found and reunited with her family. ](/news/2016/05/18/one-of-the-girls-kidnapped-in-2014-by-boko-haram-in-nigeria-is-found-and-reunited-with-her-family.md)
 One of the 219 missing Chibok schoolgirls is found in Nigeria, the first to be rescued since their capture two years ago.

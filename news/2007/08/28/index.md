@@ -22,7 +22,7 @@ Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science 
 _Context: France, Manuel Noriega, Panamanian President, United States federal judge, extradited, in absentia, money laundering_
 
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
-_Context: Abdullah Gl, President, ruling party_
+_Context: Abdullah Gl, President of Turkey, ruling party_
 
 ### [ The Cockpit voice recorder is retrieved from the wreckage of Adam Air Flight 574, 24 hours after the recovery of the Flight data recorder. ](/news/2007/08/28/the-cockpit-voice-recorder-is-retrieved-from-the-wreckage-of-adam-air-flight-574-24-hours-after-the-recovery-of-the-flight-data-recorder.md)
 Black box data recorders from an Adam Air jet have been found, eight months after the plane crashed in Indonesia killing all 102 people aboard.

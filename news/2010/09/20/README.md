@@ -19,10 +19,10 @@ The Colombian armed forces say they killed a senior Farc rebel leader in an atta
 _Context: Glastonbury Abbey, Hollywood, King Arthur, Nicolas Cage_
 
 ### [More than 600 antiquities lost in mysterious circumstances due to "inappropriate handover procedures" after being repatriated by the United States in 2009 are found and returned to the National Museum of Iraq. ](/news/2010/09/20/more-than-600-antiquities-lost-in-mysterious-circumstances-due-to-inappropriate-handover-procedures-after-being-repatriated-by-the-united.md)
-_Context: National Museum of Iraq, U.S._
+_Context: National Museum of Iraq, United States_
 
 ### [Jailed U.S. entertainer Lindsay Lohan has her probation revoked by Judge Elden Fox following a failed drug test. ](/news/2010/09/20/jailed-u-s-entertainer-lindsay-lohan-has-her-probation-revoked-by-judge-elden-fox-following-a-failed-drug-test.md)
-_Context: Lindsay Lohan, U.S., drug test, probation_
+_Context: Lindsay Lohan, United States, drug test, probation_
 
 ### [110 people are wounded as a stadium collapses during a car race in Paran, Brazil. ](/news/2010/09/20/110-people-are-wounded-as-a-stadium-collapses-during-a-car-race-in-parana-brazil.md)
 About 110 people have been injured, 22 seriously, when part of the seating at a stadium in Brazil collapsed during a car race, rescue services say.
@@ -43,7 +43,7 @@ _Context: BP, Deepwater Horizon oil spill, Macondo, Thad Allen, United States Co
 _Context: IAEA, Vienna_
 
 ### [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md)
-_Context: Australia, Delhi, India, Jama Masjid, U.S., mosque, the Republic of China_
+_Context: Australia, Delhi, India, Jama Masjid, United States, mosque, the Republic of China_
 
 ### [World leaders arrive in New York City for a United Nations summit to discuss progress in implementing Millennium Development Goals. ](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.md)
 _Context: Millennium Development Goal, New York City, United Nations_

@@ -13,7 +13,7 @@ BERLIN -- The 63rd Berlin International Film Festival handed out its awards Satu
 Japan&#039;s aggressive attempts to spur on its struggling economy were set to escape censure from the G20 nations today as bickering in Moscow kept alive fears of a &quot;currency war&quot;.
 
 ### [A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. ](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.md)
-_Context: Mindanao, Philippine, earthquake, hits, magnitude_
+_Context: Mindanao, Philippines, earthquake, hits, magnitude_
 
 ### [Two firefighters are killed and two others are injured extinguishing an inferno at a Knights of Columbus fraternal lodge in Bryan, Texas, United States. ](/news/2013/02/16/two-firefighters-are-killed-and-two-others-are-injured-extinguishing-an-inferno-at-a-knights-of-columbus-fraternal-lodge-in-bryan-texas-un.md)
 Two Texas firefighters died and two others were seriously injured battling a fire that engulfed a Knights of Columbus lodge near College Station, an official said Saturday. Eric Wallace, 36, and...

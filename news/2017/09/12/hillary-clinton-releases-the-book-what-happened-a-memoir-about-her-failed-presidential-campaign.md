@@ -1,6 +1,6 @@
 ### [2017-09-12](/news/2017/09/12/index.md)
 
-# Hillary Clinton releases the book "What Happened", a memoir about her failed Presidential campaign. 
+# Hillary Clinton releases the book "What Happened", a memoir about her failed presidential campaign. 
 
 
 
@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md) _Context: Hillary Clinton, Presidential campaign_
+1. [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md) _Context: Hillary Clinton, presidential campaign_
 2. [Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. ](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-and-rob-goldstone-discuss-gathering-opposition-research-against-hillary-clinton-through-a-june.md) _Context: Hillary Clinton_
 3. [The former Democratic National Committee chair and ex-CNN contributor Donna Brazile admits that she had forwarded some debate questions to Hillary Clinton's campaign during last year's Democratic primary before two debates with Bernie Sanders. ](/news/2017/03/17/the-former-democratic-national-committee-chair-and-ex-cnn-contributor-donna-brazile-admits-that-she-had-forwarded-some-debate-questions-to-h.md) _Context: Hillary Clinton_
 4. [A declassified U.S. intelligence report claims that Vladimir Putin ordered a campaign to influence the U.S. presidential election against Democratic Party candidate Hillary Clinton. ](/news/2017/01/6/a-declassified-u-s-intelligence-report-claims-that-vladimir-putin-ordered-a-campaign-to-influence-the-u-s-presidential-election-against-de.md) _Context: Hillary Clinton_

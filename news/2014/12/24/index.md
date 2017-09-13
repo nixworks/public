@@ -4,7 +4,7 @@
 A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (15 miles) south of Baghdad, on Wednesday, Iraqi police and medical officials said.
 
 ### [A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the-levant-militants-near-the-city-of-a.md)
-_Context: Ar-Raqqah, ISIL, Jordanian air force, Syria_
+_Context: Ar-Raqqah, Islamic State of Iraq and the Levant, Jordanian air force, Syria_
 
 ### [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)
 _Context: Google Play, Sony Pictures Entertainment hack, The Interview, YouTube_

@@ -7,7 +7,7 @@ _Context: Ansar al-Sharia, Hadhramaut Governorate, soldiers, suicide bomb_
 Three Turkish soldiers are killed by gunfire in the town of Ceylanpinar on the border with Syria, Turkish news agencies report.
 
 ### [Another bomb explodes (the previous was November 6, 2014) on a passenger bus, killing at least 11 people and injuring 21 in the southern Philippines province of Bukidnon. ](/news/2014/12/9/another-bomb-explodes-the-previous-was-november-6-2014-on-a-passenger-bus-killing-at-least-11-people-and-injuring-21-in-the-southern-phi.md)
-_Context: Bukidnon, Philippine_
+_Context: Bukidnon, Philippines_
 
 ### [Al Qaeda in the Islamic Maghreb release Serge Lazarevic, a French hostage seized three years ago in Mali. ](/news/2014/12/9/al-qaeda-in-the-islamic-maghreb-release-serge-lazarevic-a-french-hostage-seized-three-years-ago-in-mali.md)
 _Context: French-born, Mali, al-Qaeda_

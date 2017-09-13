@@ -7,7 +7,7 @@ The conservative coalition led by Erna Solberg is projected to win 89 of 169 sea
 
 ### Source:
 
-1. [BBC](http://www.bbc.com/news/world-europe-41234901)
+1. [BBC News](http://www.bbc.com/news/world-europe-41234901)
 
 ### Related:
 

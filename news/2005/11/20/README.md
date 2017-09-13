@@ -1,7 +1,7 @@
 ## [2005-11-20](/news/2005/11/20/index.md)
 
 ### [ At least forty people died following a series of insurgent and American led attacks. ](/news/2005/11/20/at-least-forty-people-died-following-a-series-of-insurgent-and-american-led-attacks.md)
-_Context: Iraqi insurgency, U.S._
+_Context: Iraqi insurgency, United States_
 
 ### [ Israeli army radio reports Ariel Sharon, the current Prime Minister of Israel, will leave Likud and create a new centrist party positioned between it and Israeli Labor Party. This move ends more than a year of Likud infighting between Sharon and hard-right members led by Benjamin Netanyahu who opposed withdrawal from Gaza, and closely follows Labour's departure from the present grand coalition government. Early elections are now a near-certainty. ](/news/2005/11/20/israeli-army-radio-reports-ariel-sharon-the-current-prime-minister-of-israel-will-leave-likud-and-create-a-new-centrist-party-positioned.md)
 _Context: Ariel Sharon, Benjamin Netanyahu, Israeli Labor Party, Israeli Prime Minister, Israeli army radio, Israeli legislative election, Kadima, Likud, disengagement, grand coalition_

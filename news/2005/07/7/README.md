@@ -7,7 +7,7 @@ _Context: (Wikinews), 7 July, London Underground, al-Qaeda, explosion_
 _Context: EU, EU constitution, Malta_
 
 ### [ In the Philippines, president Gloria Arroyo asks all the members of her cabinet to resign. ](/news/2005/07/7/in-the-philippines-president-gloria-arroyo-asks-all-the-members-of-her-cabinet-to-resign.md)
-_Context: Gloria Arroyo, Philippine_
+_Context: Gloria Arroyo, Philippines_
 
 ### [ The United States raises the terror level from code yellow to code orange for mass transit systems in response to the London bombings. [http://www.guardian.co.uk/worldlatest/story/0,1280,-5125518,00.html (Guardian)] [http://www.emergencyemail.org/homeland2005.asp (EmergencyEmail)] [http://www.cnn.com/2005/US/07/07/us.response/index.html (CNN)] (Wikinews) ](/news/2005/07/7/the-united-states-raises-the-terror-level-from-code-yellow-to-code-orange-for-mass-transit-systems-in-response-to-the-london-bombings-htt.md)
 _Context: (Wikinews), 7 July, Homeland Security Advisory System, public transport_

@@ -4,10 +4,10 @@
 Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenian forces over the disputed Nagorno-Karabakh region, but its opponents say fighting continues.
 
 ### [The Syrian Army retakes control of al-Qaryatayn, Homs Governorate, after driving out ISIL militants. ](/news/2016/04/3/the-syrian-army-retakes-control-of-al-qaryatayn-homs-governorate-after-driving-out-isil-militants.md)
-_Context: Battle of al-Qaryatayn (March-April 2016), Homs Governorate, ISIL, Syrian Army, Syrian Civil War, al-Qaryatayn_
+_Context: Battle of al-Qaryatayn (March-April 2016), Homs Governorate, Islamic State of Iraq and the Levant, Syrian Army, Syrian Civil War, al-Qaryatayn_
 
 ### [Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf-a-group-linked-to-the-islamic-state.md)
-_Context: Abu Sayyaf, ISIL, Malaysians, Moro attacks on Sabah, Moro conflict, Sabah, Sarawak_
+_Context: Abu Sayyaf, Islamic State of Iraq and the Levant, Malaysians, Moro attacks on Sabah, Moro conflict, Sabah, Sarawak_
 
 ### [The United States military reports a drone attack killed ISIL rocket expert Jasim Khadijah. The unmanned airstrike also killed other IS militants and destroyed at least one makeshift drone. Khadijah, a former Iraqi officer, is believed responsible for the March attack that killed a U.S. Marine in northern Iraq. ](/news/2016/04/3/the-united-states-military-reports-a-drone-attack-killed-isil-rocket-expert-jasim-khadijah-the-unmanned-airstrike-also-killed-other-is-mili.md)
 HIT, Iraq (AP) — Iraqi forces took the northern edge of the Islamic State-held town of Hit, west of Baghdad, on Sunday in an operation led by the country&#039;s elite counterterrorism forces, military officials said. The operation…
@@ -43,7 +43,7 @@ RIYADH, Saudi Arabia (AP) — India&#039;s Prime Minister Narendra Modi met with
 ATHENS, Greece (AP) — An agreement between the European Union and Turkey to deport migrants currently on Greek islands back to the Turkish mainland is to take effect Monday morning, but the operation is threatened by a…
 
 ### [A Japanese Navy submarine makes a port call in the Philippines, the first in fifteen years, in a show of growing military cooperation amid tension triggered by China's growing assertiveness in the South China Sea. It was escorted into the former U.S. Naval Base at Subic Bay by two Japanese destroyers on a tour of Southeast Asia. ](/news/2016/04/3/a-japanese-navy-submarine-makes-a-port-call-in-the-philippines-the-first-in-fifteen-years-in-a-show-of-growing-military-cooperation-amid-t.md)
-_Context: China, Japan-Philippines relations, Japanese Navy, Philippine, South China Sea, Subic Bay, former U.S. Naval Base_
+_Context: China, Japan-Philippines relations, Japanese Navy, Philippines, South China Sea, Subic Bay, former U.S. Naval Base_
 
 ### [Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. ](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.md)
 PARIS (AP) — The head of the French national rail service says that train marshals, armed and allowed to use their weapons, will be patrolling some passenger trains, one of a series of new security measures. Guillaume…

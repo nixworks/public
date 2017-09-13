@@ -28,13 +28,13 @@ Hungary&#039;s centre-right opposition has won a two-thirds general election vic
 Heinz Fischer easily defeats controversial leader of far-right Freedom Party.
 
 ### [Nearly 100,000 people rally in Okinawa, Japan, demanding the removal of an American base from the island. ](/news/2010/04/25/nearly-100-000-people-rally-in-okinawa-japan-demanding-the-removal-of-an-american-base-from-the-island.md)
-_Context: Japan, Okinawa, U.S._
+_Context: Japan, Okinawa, United States_
 
 ### [Thousands of people rally in Beirut to ask for the separation of religion and state in Lebanon. ](/news/2010/04/25/thousands-of-people-rally-in-beirut-to-ask-for-the-separation-of-religion-and-state-in-lebanon.md)
 Thousands of demonstrators demand an end to the religious-based political system.
 
 ### [A huge fire destroys hundreds of homes and leaves thousands homeless in Quezon City, Philippines. ](/news/2010/04/25/a-huge-fire-destroys-hundreds-of-homes-and-leaves-thousands-homeless-in-quezon-city-philippines.md)
-_Context: Philippine, Quezon City_
+_Context: Philippines, Quezon City_
 
 ### [The Spanish Navy captures eight suspected pirates off the Somalia coast. ](/news/2010/04/25/the-spanish-navy-captures-eight-suspected-pirates-off-the-somalia-coast.md)
 _Context: Somalia, Spanish Navy_
@@ -43,7 +43,7 @@ _Context: Somalia, Spanish Navy_
 _Context: Havana, Ladies in White_
 
 ### [Cuba's Speaker of the Parliament Ricardo Alarcon challenges the United States to lift its 48-year embargo on the island if it believes Cuba benefits from the embargo, as Hillary Clinton suggested. ](/news/2010/04/25/cuba-s-speaker-of-the-parliament-ricardo-alarca3n-challenges-the-united-states-to-lift-its-48-year-embargo-on-the-island-if-it-believes-cuba.md)
-_Context: Cuba, Hillary Clinton, Ricardo Alarcon, U.S._
+_Context: Cuba, Hillary Clinton, Ricardo Alarcon, United States_
 
 ### [Iranian Minister for Foreign Affairs Manouchehr Mottaki meets the head of the International Atomic Energy Agency (IAEA) in Vienna and says Iran remains interested in a nuclear fuel swap drafted by the United Nations. ](/news/2010/04/25/iranian-minister-for-foreign-affairs-manouchehr-mottaki-meets-the-head-of-the-international-atomic-energy-agency-iaea-in-vienna-and-says-i.md)
 Iranian foreign minister discusses fuel proposal with head of UN nuclear agency.

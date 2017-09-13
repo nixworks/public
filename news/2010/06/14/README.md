@@ -28,7 +28,7 @@ _Context: California, Conrad Murray, Michael Jackson, death_
 _Context: Ganges River, India_
 
 ### [At least 14 people are killed and at least 30 are injured when a tourist bus disappears over the edge of a ravine in the Philippines. ](/news/2010/06/14/at-least-14-people-are-killed-and-at-least-30-are-injured-when-a-tourist-bus-disappears-over-the-edge-of-a-ravine-in-the-philippines.md)
-_Context: Philippine_
+_Context: Philippines_
 
 ### [10 police are killed and several others are wounded in an ambush by drug hitmen in Zitacuaro Michoacan. ](/news/2010/06/14/10-police-are-killed-and-several-others-are-wounded-in-an-ambush-by-drug-hitmen-in-zita-cuaro-michoaca-n.md)
 Armed attacks on Mexican federal police Monday in violent Michoacan state sparked shootouts that killed at least 10 officers and an unknown number of gunmen, authorities said.The twin ambushes in...

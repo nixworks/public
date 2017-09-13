@@ -22,7 +22,7 @@ Police detain more than 50 people, but protests over disputed vote said to be ov
 _Context: Aung San Suu Kyi, Burma, National League for Democracy_
 
 ### [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md)
-_Context: Japan, North Korea, Russia, South Korea, U.S., enriched uranium, intercontinental ballistic_
+_Context: Japan, North Korea, Russia, South Korea, United States, enriched uranium, intercontinental ballistic_
 
 ### [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel-t.md)
 As many as 40 Afghan civilians were feared to be among the 90 people killed in a Nato air strike that hit two fuel tankers hijacked by the Taliban.
@@ -49,7 +49,7 @@ A plan to approve new West Bank construction before a building freeze drew prote
 _Context: Air India Flight 829, Chhatrapati Shivaji International Airport, Mumbai_
 
 ### [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md)
-_Context: Bangladesh, Daily Manab Zamin, Moon, New Nation, The Onion, U.S._
+_Context: Bangladesh, Daily Manab Zamin, Moon, New Nation, The Onion, United States_
 
 ### [ Former US soldier Steven D. Green is sentenced to life in prison with no possibility of release for the murder of an Iraqi girl and her family.](/news/2009/09/4/former-us-soldier-steven-d-green-is-sentenced-to-life-in-prison-with-no-possibility-of-release-for-the-murder-of-an-iraqi-girl-and-her-fam.md)
 Ex-soldier receives five life terms for rape and killing of Iraqi family members.

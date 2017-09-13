@@ -16,7 +16,7 @@ _Context: Diet, Liberal Democratic Party, Prime Minister of Japan, Taro Aso_
 _Context: Serbian Progressive Party, Serbian Radical Party, Tomislav Nikolic_
 
 ### [ Typhoon Hagupit hits Vietnam, the Philippines and southern China, killing at least eight. ](/news/2008/09/24/typhoon-hagupit-hits-vietnam-the-philippines-and-southern-china-killing-at-least-eight.md)
-_Context: China, Philippine, Typhoon Hagupit, Vietnam_
+_Context: China, Philippines, Typhoon Hagupit, Vietnam_
 
 ## [Previous Day...](/news/2008/09/23/index.md)
 

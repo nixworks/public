@@ -7,7 +7,7 @@ Even the mayor was there. On Wednesday night, Rainforest Farms made the first le
 Top OPEC oil exporter Saudi Arabia has told the producer group it will not attend talks on Monday with non-OPEC producers to discuss limiting supply, OPEC sources said, as it wants to focus on having consensus within the organization first.
 
 ### [Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. ](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-announces-the-cancellation-of-20-flights-due-to-bad-weather-in-the-philippines-caused-by-tropic.md)
-_Context: 2016 Pacific typhoon season, Manila, Ninoy Aquino International Airport, Philippine_
+_Context: 2016 Pacific typhoon season, Manila, Ninoy Aquino International Airport, Philippines_
 
 ### [Two passenger trains collide in Iran's Semnan Province resulting in at least 44 deaths and 100 people injured. ](/news/2016/11/25/two-passenger-trains-collide-in-iran-s-semnan-province-resulting-in-at-least-44-deaths-and-100-people-injured.md)
 Forty-four people were killed and 103 injured when one Iranian passenger train collided with another at a station about 150 miles (250 km) east of the capital Tehran, state media reported.

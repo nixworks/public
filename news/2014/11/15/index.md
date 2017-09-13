@@ -7,7 +7,7 @@ The federal Chemical Safety Board said it was sending a seven-person investigati
 _Context: Kyrgyzstan, magnitude earthquake_
 
 ### [A 7.1 magnitude earthquake occurs in waters off Kota Ternate in Indonesia with the potential to trigger a tsunami to hit Indonesia and the Philippines. ](/news/2014/11/15/a-7-1-magnitude-earthquake-occurs-in-waters-off-kota-ternate-in-indonesia-with-the-potential-to-trigger-a-tsunami-to-hit-indonesia-and-the-p.md)
-_Context: Indonesia, Kota Ternate, Philippine, tsunami_
+_Context: Indonesia, Kota Ternate, Philippines, tsunami_
 
 ### [The ninth G-20 summit gets underway in the Australian city of Brisbane. ](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

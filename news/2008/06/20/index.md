@@ -4,7 +4,7 @@
 _Context: Iran_
 
 ### [ At least two people die in a landslide in Cotabato City in Mindanao as Typhoon Fengshen hits the Philippines. ](/news/2008/06/20/at-least-two-people-die-in-a-landslide-in-cotabato-city-in-mindanao-as-typhoon-fengshen-hits-the-philippines.md)
-_Context: Cotabato City, Mindanao, Philippine, landslide_
+_Context: Cotabato City, Mindanao, Philippines, landslide_
 
 ### [ UAE wins the first ever Arab Cup of Ice Hockey by defeating Kuwait 4-1. ](/news/2008/06/20/uae-wins-the-first-ever-arab-cup-of-ice-hockey-by-defeating-kuwait-4-1.md)
 _Context: Arab Cup of Ice Hockey, Kuwait, UAE_

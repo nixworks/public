@@ -1,7 +1,7 @@
 ## [2016-11-18](/news/2016/11/18/index.md)
 
 ### [ At least 14 are killed in clashes with suspected Abu Sayyaf militants in Sulu, Philippines. ](/news/2016/11/18/at-least-14-are-killed-in-clashes-with-suspected-abu-sayyaf-militants-in-sulu-philippines.md)
-_Context: Abu Sayyaf, Moro conflict, Philippine, Sulu_
+_Context: Abu Sayyaf, Moro conflict, Philippines, Sulu_
 
 ### [Syrian government air raid hits a children's hospital in rebel-held east Aleppo, forcing medical staff to evacuate patients, including several newborn babies still in incubators. ](/news/2016/11/18/syrian-government-air-raid-hits-a-children-s-hospital-in-rebel-held-east-aleppo-forcing-medical-staff-to-evacuate-patients-including-sever.md)
 Al Jazeera crew captures dramatic footage of attack as babies are rescued from incubators by panicked staff.

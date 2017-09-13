@@ -10,7 +10,7 @@ Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsul
 Jihadists shot down a Syrian warplane conducting strikes on the Islamic State stronghold of Raqa on Tuesday, the Syrian Observatory for Human Rights monitoring group said.
 
 ### [Twelve thousand people have been evacuated from the area near the Mayon Volcano on the Philippines island of Luzon due to concerns over a possible eruption. ](/news/2014/09/16/twelve-thousand-people-have-been-evacuated-from-the-area-near-the-mayon-volcano-on-the-philippines-island-of-luzon-due-to-concerns-over-a-po.md)
-_Context: Luzon, Mayon Volcano, Philippine_
+_Context: Luzon, Mayon Volcano, Philippines_
 
 ### [Typhoon Kalmaegi sweeps past Hong Kong after causing six deaths in the Philippines on Saturday. ](/news/2014/09/16/typhoon-kalmaegi-sweeps-past-hong-kong-after-causing-six-deaths-in-the-philippines-on-saturday.md)
 Hong Kong was shuttered today as a powerful typhoon swept past the city, bringing stro

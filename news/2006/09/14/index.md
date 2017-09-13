@@ -18,8 +18,8 @@ The U.A.W. agreed on a program to offer buyouts of up to $140,000 to all of Ford
 ### [ Amnesty International accuses Hezbollah of war crimes, in its deliberate targeting of civilians in Israel during the recent Israel-Lebanon conflict. ](/news/2006/09/14/amnesty-international-accuses-hezbollah-of-war-crimes-in-its-deliberate-targeting-of-civilians-in-israel-during-the-recent-israel-lebanon.md)
 _Context: Amnesty International, Hezbollah, Israel, targeting of civilians, war, war crime_
 
-### [ A partial roof collapse occurred in part of the Mahon Airport terminal building in Minorca, Spain while undergoing renovations/construction work. The collapse may have been caused by a build-up of heavy rain water. The debris temporarily trapped 20 and injured three workers ](/news/2006/09/14/a-partial-roof-collapse-occurred-in-part-of-the-mahon-airport-terminal-building-in-minorca-spain-while-undergoing-renovations-construction.md)
-_Context: Mahon Airport, Minorca, Spain_
+### [ A partial roof collapse occurred in part of the Mahon Airport terminal building in Menorca, Spain while undergoing renovations/construction work. The collapse may have been caused by a build-up of heavy rain water. The debris temporarily trapped 20 and injured three workers ](/news/2006/09/14/a-partial-roof-collapse-occurred-in-part-of-the-mahon-airport-terminal-building-in-menorca-spain-while-undergoing-renovations-construction.md)
+_Context: Mahon Airport, Menorca, Spain_
 
 ### [ The African Union has endorsed an IGAD peacekeeping operation in Somalia, to be known as IGASOM. ](/news/2006/09/14/the-african-union-has-endorsed-an-igad-peacekeeping-operation-in-somalia-to-be-known-as-igasom.md)
 _Context: African Union, IGAD, IGASOM, Somalia, peacekeepers_

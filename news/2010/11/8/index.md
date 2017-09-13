@@ -55,7 +55,7 @@ _Context: Obama Administration, Somalia, Yemen bomb attacks_
 Israel reveals plans to build nearly 1,300 housing units for Jewish settlers in occupied East Jerusalem.
 
 ### [The United States offers to drop Sudan from its list of "state sponsors of terrorism", ending its isolation, if two scheduled referendums take place with respected results. ](/news/2010/11/8/the-united-states-offers-to-drop-sudan-from-its-list-of-state-sponsors-of-terrorism-ending-its-isolation-if-two-scheduled-referendums-ta.md)
-_Context: Sudan, U.S._
+_Context: Sudan, United States_
 
 ### [Libyan authorities arrest 10 reporters apparently for criticizing Libya's leadership. ](/news/2010/11/8/libyan-authorities-arrest-10-reporters-apparently-for-criticizing-libya-s-leadership.md)
 _Context: Libya_

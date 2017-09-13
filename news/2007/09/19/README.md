@@ -10,7 +10,7 @@ _Context: Central African Republic, Chad, Darfur, EU, France, Sudan, United Nati
 _Context: 2007 Pacific hurricane season, Baja California_
 
 ### [ The United States Senate fails to pass a bill providing more home leave to United States troops in Iraq with the necessary 60 percent margin with 56 for and 44 against. ](/news/2007/09/19/the-united-states-senate-fails-to-pass-a-bill-providing-more-home-leave-to-united-states-troops-in-iraq-with-the-necessary-60-percent-margi.md)
-_Context: Iraq, U.S., United States Senate_
+_Context: Iraq, United States, United States Senate_
 
 ### [ Four fossil skeletons of early human ancestors are discovered in Georgia. ](/news/2007/09/19/four-fossil-skeletons-of-early-human-ancestors-are-discovered-in-georgia.md)
 The discovery of four fossil skeletons of human ancestors in Georgia, a former Soviet republic, offers a look at a species in transition.
@@ -25,7 +25,7 @@ _Context: Chelsea F.C., Jose Mourinho_
 Flooded regions across Africa have been warned to expect further heavy rain after more than 600,000 people have already been made homeless by the floods.
 
 ### [ Nevada authorities call off the search for missing US adventurer Steve Fossett two weeks after he goes missing. ](/news/2007/09/19/nevada-authorities-call-off-the-search-for-missing-us-adventurer-steve-fossett-two-weeks-after-he-goes-missing.md)
-_Context: Nevada, Steve Fossett, U.S._
+_Context: Nevada, Steve Fossett, United States_
 
 ### [ Prime Minister of Turkey Recep Tayyip Erdogan calls for a change to the country's Constitution to end the ban on the wearing of headscarves in universities. ](/news/2007/09/19/prime-minister-of-turkey-recep-tayyip-erdoaan-calls-for-a-change-to-the-country-s-constitution-to-end-the-ban-on-the-wearing-of-headscarve.md)
 _Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, constitution, headscarves_

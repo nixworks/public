@@ -19,7 +19,7 @@ Japan&#039;s main opposition party won the most seats in the Tokyo metropolitan 
 _Context: Abu Sayyaf, Italy, Red Cross_
 
 ### [ Head of the CIA Leon Panetta accuses former United States Vice President Dick Cheney of hiding an intelligence program from Congress. ](/news/2009/07/12/head-of-the-cia-leon-panetta-accuses-former-united-states-vice-president-dick-cheney-of-hiding-an-intelligence-program-from-congress.md)
-_Context: CIA, Congress, Dick Cheney, Leon Panetta, U.S., U.S. Vice President_
+_Context: CIA, Congress, Dick Cheney, Leon Panetta, U.S. Vice President, United States_
 
 ## [Previous Day...](/news/2009/07/11/index.md)
 

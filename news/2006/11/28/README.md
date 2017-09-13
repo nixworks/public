@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Canada, Canadian House of Commons, Quebec, nation_
 
 ### [ Ben Bernanke, the Chairman of the United States Federal Reserve predicts that the US economy should undertake a moderate expansion but inflation risks are "primarily to the upside." ](/news/2006/11/28/ben-bernanke-the-chairman-of-the-united-states-federal-reserve-predicts-that-the-us-economy-should-undertake-a-moderate-expansion-but-infl.md)
-_Context: Ben Bernanke, Federal Reserve, U.S., inflation_
+_Context: Ben Bernanke, Federal Reserve, United States, inflation_
 
 ### [ Chadian rebels said they shot down a government military plane with a captured ground-to-air missile in fighting near the eastern town of Abeche, which they briefly seized at the weekend. ](/news/2006/11/28/chadian-rebels-said-they-shot-down-a-government-military-plane-with-a-captured-ground-to-air-missile-in-fighting-near-the-eastern-town-of-a.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -28,7 +28,7 @@ _Context: Pope Benedict XVI, Turkey_
 _Context: Sonthi Boonyaratglin, Thailand, coup, martial law_
 
 ### [ Nuclear envoys from North Korea, China and the United States meet to discuss North Korea's nuclear program. ](/news/2006/11/28/nuclear-envoys-from-north-korea-china-and-the-united-states-meet-to-discuss-north-korea-s-nuclear-program.md)
-_Context: China, North Korea, U.S._
+_Context: China, North Korea, United States_
 
 ### [ The Prime Minister of Fiji Laisenia Qarase flies to New Zealand to hold talks with Commodore Frank Bainimarama tomorrow as part of efforts sponsored by the New Zealand Government to avert a coup d'etat. ](/news/2006/11/28/the-prime-minister-of-fiji-laisenia-qarase-flies-to-new-zealand-to-hold-talks-with-commodore-frank-bainimarama-tomorrow-as-part-of-efforts.md)
 _Context: Laisenia Qarase, New Zealand, Prime Minister, Voreqe Bainimarama, coup_

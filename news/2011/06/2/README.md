@@ -40,7 +40,7 @@ _Context: Russia, Udmurt Republic, ammo depot_
 UN says up to 150 bodies found off the Tunisian coast a day after a boat reportedly carrying 850 people capsized.
 
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S., U.S. soldiers_
+_Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S. soldiers, United States_
 
 ### [WikiLeaks releases secret documents on Egypt's nuclear power plant. [http://www.almasryalyoum.com/en/node/460603 "(Al-Masry Al-Youm)"]](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant-http-www-almasryalyoum-com-en-node-460603-al-masry-al-youm.md)
 _Context: Egypt's, WikiLeaks, nuclear power plants_

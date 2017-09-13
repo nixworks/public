@@ -10,7 +10,7 @@ _Context: Democratic Republic of the Congo, United Nations_
 _Context: UNICEF, Yemeni Civil War (2015)_
 
 ### [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md)
-_Context: Anbar province, ISIL, Iraqi Army_
+_Context: Anbar province, Iraqi Army, Islamic State of Iraq and the Levant_
 
 ### [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md)
 _Context: Boko Haram, Boko Haram insurgency, Marte, Nigerian Army_

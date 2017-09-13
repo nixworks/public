@@ -22,7 +22,7 @@ _Context: Spanish Royal Academy, Spanish grammar, Spanish-speaking countries_
 India will carve a newstate out of southern Andhra Pradesh, home to several majorinternational companies, a move that could fuel social unrestand separatist demands in other states.
 
 ### [ 18 hostages are released after at least 65 people are kidnapped by gunmen in Agusan del Sur, Mindanao, the Philippines. ](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.md)
-_Context: Agusan del Sur, Mindanao, Philippine_
+_Context: Agusan del Sur, Mindanao, Philippines_
 
 ### [ A failed launch of an intercontinental missile RSM-56 Bulava by Russia is reported to be the cause of the mysterious spiral light seen over Northern Norway yesterday. ](/news/2009/12/10/a-failed-launch-of-an-intercontinental-missile-rsm-56-bulava-by-russia-is-reported-to-be-the-cause-of-the-mysterious-spiral-light-seen-over.md)
 _Context: Northern Norway, RSM-56 Bulava, Russia, mysterious spiral light_

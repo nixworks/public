@@ -16,7 +16,7 @@ CHINA said today its economy grew at a slower pace in the third quarter as gover
 _Context: Droid RAZR, Motorola_
 
 ### [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md)
-_Context: Apple Inc., HTC, U.S., United States International Trade Commission, iPhone, patent, patent infringement, smartphone, the Republic of China_
+_Context: Apple Inc., HTC, United States, United States International Trade Commission, iPhone, patent, patent infringement, smartphone, the Republic of China_
 
 ### [A bill to takeover the capital city of Harrisburg, rather than have it file for Chapter 9, clears the Pennsylvania State Legislature. The Governor of Pennsylvania, Tom Corbett, is expected to sign it. ](/news/2011/10/18/a-bill-to-takeover-the-capital-city-of-harrisburg-rather-than-have-it-file-for-chapter-9-clears-the-pennsylvania-state-legislature-the-go.md)
 The Pennsylvania state Senate on Tuesday voted for a state takeover of the finances of its capital, Harrisburg, setting up a showdown with the city, which filed for bankruptcy last week.

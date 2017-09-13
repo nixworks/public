@@ -16,7 +16,7 @@ _Context: Russia, United Russia, Vladimir Putin, parliamentary elections_
 French commuters dusted off old bikes and aired their walking shoes on Tuesday in anticipation of a transport strike that is set to last for days and could become the biggest the country has seen in more than 10 years.
 
 ### [ An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. ](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-of-representatives-of-the-philippines-in-quezon-city-killing-three-people-including-congres.md)
-_Context: Congressman, Philippine, Quezon City, Wahab Akbar, explosion, lower house of the Philippine Congress_
+_Context: Congressman, Philippines, Quezon City, Wahab Akbar, explosion, lower house of the Philippine Congress_
 
 ### [ Clean-up operations continue in the Strait of Kerch after the oil spill disaster. Ten ships have sunk, 2,000 tons of fuel oil and 6,000 tons of sulphur have been spilled, three sailors have died and about 20 are missing. ](/news/2007/11/13/clean-up-operations-continue-in-the-strait-of-kerch-after-the-oil-spill-disaster-ten-ships-have-sunk-2-000-tons-of-fuel-oil-and-6-000-ton.md)
 _Context: Strait of Kerch, environmental disaster, fuel oil, oil spill, sailor, ship, sulphur, tons_
@@ -25,7 +25,7 @@ _Context: Strait of Kerch, environmental disaster, fuel oil, oil spill, sailor, 
 _Context: Fatah, Hamas, Yasser Arafat_
 
 ### [ The President of Israel, Shimon Peres, meets the President of Turkey, Abdullah Gl, in Ankara, and he will also address the Grand National Assembly of Turkey. ](/news/2007/11/13/the-president-of-israel-shimon-peres-meets-the-president-of-turkey-abdullah-gul-in-ankara-and-he-will-also-address-the-grand-national.md)
-_Context: Abdullah Gl, Ankara, President, President, Shimon Peres, Turkish Parliament_
+_Context: Abdullah Gl, Ankara, President, President of Turkey, Shimon Peres, Turkish Parliament_
 
 ### [ Danish voters go to the polls for an early parliamentary election called by Prime Minister Anders Fogh Rasmussen. ](/news/2007/11/13/danish-voters-go-to-the-polls-for-an-early-parliamentary-election-called-by-prime-minister-anders-fogh-rasmussen.md)
 _Context: Anders Fogh Rasmussen, Denmark, Prime Minister of Denmark, Voters, early parliamentary elections_

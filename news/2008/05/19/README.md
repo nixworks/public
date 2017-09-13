@@ -19,7 +19,7 @@ _Context: South Africa, attacks on foreigners_
 _Context: Xinhua, deadly earthquake, earthquake, mudslide_
 
 ### [ A gunman kills eight people in Calamba City in the Philippines. ](/news/2008/05/19/a-gunman-kills-eight-people-in-calamba-city-in-the-philippines.md)
-_Context: Calamba City, Philippine_
+_Context: Calamba City, Philippines_
 
 ### [ Foreign Ministers of the member states of ASEAN including Nyan Win of Myanmar meet to discuss Cyclone Nargis. ](/news/2008/05/19/foreign-ministers-of-the-member-states-of-asean-including-nyan-win-of-myanmar-meet-to-discuss-cyclone-nargis.md)
 _Context: Association of Southeast Asian Nations, Cyclone Nargis, Foreign Minister, Myanmar, Nyan Win_

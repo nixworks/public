@@ -1,7 +1,7 @@
 ## [2014-08-31](/news/2014/08/31/index.md)
 
 ### [Thirty-two United Nations peacekeepers from the Philippines were evacuated under fire from the Golan Heights border checkpoint between Syria and Israel, while others remain under fire from groups including the Al-Nusra Front. ](/news/2014/08/31/thirty-two-united-nations-peacekeepers-from-the-philippines-were-evacuated-under-fire-from-the-golan-heights-border-checkpoint-between-syria.md)
-_Context: Golan Heights, Philippine, United Nations, al-Nusra_
+_Context: Golan Heights, Philippines, United Nations, al-Nusra_
 
 ### [Iraqi security forces reach the town of Amerli which had been besieged by Islamic State of Iraq and the Levant forces. ](/news/2014/08/31/iraqi-security-forces-reach-the-town-of-amerli-which-had-been-besieged-by-islamic-state-of-iraq-and-the-levant-forces.md)
 Iraqi forces reach the besieged town of Amerli, where thousands of people have been trapped by jihadists, military officials say.

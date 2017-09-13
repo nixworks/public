@@ -7,7 +7,7 @@ Three bridges on roads leading into Donetsk are destroyed ahead of an expected b
 More than 85 rockets fired on Monday; Hamas claims responsibility for some of launches; IDF to call up 1,500 reserve soldiers.
 
 ### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
-_Context: Baghdad, ISIL, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal)_
+_Context: Baghdad, Iraqi Army, Iraqi Parliament, Iraqi insurgency (post-U.S. withdrawal), Islamic State of Iraq and the Levant_
 
 ### [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md)
 A military helicopter has crashed close to the Vietnamese capital of Hanoi, killing 16 people and injuring five others, officials say.
@@ -19,7 +19,7 @@ _Context: 2014 Pacific typhoon season, Japan, Kyushu, Okinawa, Typhoon Neoguri_
 A strong earthquake rocked southern Mexico and Guatemala, killing at least four people and causing damage across the region.
 
 ### [Angela Merkel, the Chancellor of Germany, says that if allegations that a German intelligence officer was working for the United States are true, it would be a "clear contradiction" of trust between allies. ](/news/2014/07/7/angela-merkel-the-chancellor-of-germany-says-that-if-allegations-that-a-german-intelligence-officer-was-working-for-the-united-states-are.md)
-_Context: Angela Merkel, German Chancellor, German intelligence, U.S._
+_Context: Angela Merkel, German Chancellor, German intelligence, United States_
 
 ### [An antitrust trial begins pitting the U.S. Justice Department against American Express over tactics the latter has employed in the credit card market. ](/news/2014/07/7/an-antitrust-trial-begins-pitting-the-u-s-justice-department-against-american-express-over-tactics-the-latter-has-employed-in-the-credit-ca.md)
 American Express Co (AXP.N) has hindered price competition in the U.S. credit card market and prevented merchants and consumers from reaping cost savings, a lawyer for the U.S. government said on Monday during the first day of a trial in Brooklyn federal court.

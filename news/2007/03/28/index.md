@@ -4,7 +4,7 @@
 _Context: Guinea, fishing boat, pirogue_
 
 ### [ The Czech government announced that it will open negotiations with the US Government over participation in the missile defense shield. ](/news/2007/03/28/the-czech-government-announced-that-it-will-open-negotiations-with-the-us-government-over-participation-in-the-missile-defense-shield.md)
-_Context: Czech Republic, U.S., missile defense shield_
+_Context: Czech Republic, United States, missile defense shield_
 
 ### [ Ecuadorean judge Juan Ramirez reinstates 57 members of the National Congress of Ecuador only to be dismissed by the electoral tribunal that dismissed the members of Congress. ](/news/2007/03/28/ecuadorean-judge-juan-ramirez-reinstates-57-members-of-the-national-congress-of-ecuador-only-to-be-dismissed-by-the-electoral-tribunal-that.md)
 _Context: Congress, Ecuador, Juan Ramirez_
@@ -43,7 +43,7 @@ _Context: North Korea, World Food Programme, starvation_
 _Context: Khyber Pakhtunkhwa, Pakistan, Tank_
 
 ### [ Armed gunmen take 32 children and two teachers hostage in the centre of Manila, the capital of the Philippines. The gunmen later surrendered and released the hostages. ](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-hostage-in-the-centre-of-manila-the-capital-of-the-philippines-the-gunmen-later-surrendere.md)
-_Context: Manila, Philippine, teacher_
+_Context: Manila, Philippines, teacher_
 
 ## [Previous Day...](/news/2007/03/27/index.md)
 

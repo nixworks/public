@@ -7,7 +7,7 @@ India and Pakistan exchangedgunfire and mortar bombs along their disputed fronti
 _Context: Abd Rabbuh Mansur Hadi, Aden, Yemen, Yemeni Crisis (2011-present), Yemeni President_
 
 ### [The Islamic State of Iraq and Greater Syria (ISIS) has claimed that it sank an Egyptian patrol boat in the Mediterranean, just off the coast of Rafah. The Egyptian military claimed the ship sank from a fire not caused by attacks. ](/news/2015/07/16/the-islamic-state-of-iraq-and-greater-syria-isis-has-claimed-that-it-sank-an-egyptian-patrol-boat-in-the-mediterranean-just-off-the-coast.md)
-_Context: Egypt's, ISIL, Rafah, Sinai insurgency, patrol boat_
+_Context: Egypt's, Islamic State of Iraq and the Levant, Rafah, Sinai insurgency, patrol boat_
 
 ### [Twin blasts at a market in Gombe, Nigeria kill at least 49 people. ](/news/2015/07/16/twin-blasts-at-a-market-in-gombe-nigeria-kill-at-least-49-people.md)
 At least 49 people in Nigeria shopping ahead of Eid celebrations have been killed following explosions at a market in Gombe, officials say.

@@ -49,7 +49,7 @@ Chinese factories appear to have passed on rising costs to buyers who are findin
 Fifty-four Somalis fleeing the Libyan war are believed dead after an crowded boat capsized off Tripoli, the Somali ambassador said Tuesday.
 
 ### [Tropical Storm Bebeng kills at least 20 people in the Philippines. ](/news/2011/05/10/tropical-storm-bebeng-kills-at-least-20-people-in-the-philippines.md)
-_Context: Philippine, Tropical Storm Bebeng_
+_Context: Philippines, Tropical Storm Bebeng_
 
 ### [China reports that 95% of post-earthquake reconstruction is complete in Sichuan, three years after a deadly earthquake, in a "victory" for the country. ](/news/2011/05/10/china-reports-that-95-of-post-earthquake-reconstruction-is-complete-in-sichuan-three-years-after-a-deadly-earthquake-in-a-victory-for-t.md)
 _Context: China, Sichuan, deadly earthquake_

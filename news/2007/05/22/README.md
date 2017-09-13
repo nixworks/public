@@ -13,13 +13,13 @@ Israeli air strikes on Hamas weapon sheds in Gaza Strip leave 7 Palestinians wou
 _Context: Anglican, Archbishop of Canterbury, Convocation of Anglicans in North America, Gene Robinson, Lambeth Conference, Martyn Minns, New Hampshire, Rowan Williams, bishop, gay_
 
 ### [ Skybus Airlines, a new U.S.-based ultra-low-cost carrier airline, launches inaugural flights to and from Columbus, Ohio, with $10 tickets enabled by on-plane advertising and charging people for baggage, pillows, boarding priority, and refreshments. ](/news/2007/05/22/skybus-airlines-a-new-u-s-based-ultra-low-cost-carrier-airline-launches-inaugural-flights-to-and-from-columbus-ohio-with-10-tickets-e.md)
-_Context: Columbus, Skybus, U.S., low-cost carrier_
+_Context: Columbus, Skybus, United States, low-cost carrier_
 
 ### [ A suicide attack occurs at a shopping centre in the Ulus district of Ankara, the capital of Turkey. Authorities say there were six fatalities, and 79 injuries. ](/news/2007/05/22/a-suicide-attack-occurs-at-a-shopping-centre-in-the-ulus-district-of-ankara-the-capital-of-turkey-authorities-say-there-were-six-fataliti.md)
 _Context: A suicide attack, Ankara, Turkey, Ulus district_
 
 ### [ The U.S. National Oceanic and Atmospheric Administration issues its forecast for an above-normal 2007 Atlantic hurricane season with 13 to 17 named storms, 7 to 10 hurricanes and 3 to 5 major hurricanes. ](/news/2007/05/22/the-u-s-national-oceanic-and-atmospheric-administration-issues-its-forecast-for-an-above-normal-2007-atlantic-hurricane-season-with-13-to.md)
-_Context: 2007 Atlantic hurricane season, U.S., U.S.  National Oceanic and Atmospheric Administration, hurricane, tropical storm_
+_Context: 2007 Atlantic hurricane season, U.S.  National Oceanic and Atmospheric Administration, United States, hurricane, tropical storm_
 
 ### [ The UK Crown Prosecution Service announces that Andrei Lugovoi, an ex-KGB agent, will be charged in connection with the poisoning of Alexander Litvinenko, also a former KGB agent. ](/news/2007/05/22/the-uk-crown-prosecution-service-announces-that-andrei-lugovoi-an-ex-kgb-agent-will-be-charged-in-connection-with-the-poisoning-of-alexan.md)
 _Context: Alexander Litvinenko, Andrei Lugovoi, Crown Prosecution Service, KGB, United Kingdom_

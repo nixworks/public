@@ -4,7 +4,7 @@
 Ethiopian forces have killed 123 separatist rebels in the eastern region of the country, a senior Ethiopian official has told the BBC.
 
 ### [At least 12 people die in Pakistan's North Waziristan province as United States drone attacks continue for a second day. ](/news/2010/09/15/at-least-12-people-die-in-pakistan-s-north-waziristan-province-as-united-states-drone-attacks-continue-for-a-second-day.md)
-_Context: North Waziristan, Pakistan, U.S., drones launch_
+_Context: North Waziristan, Pakistan, United States, drones launch_
 
 ### [Hamas militants fire two Qassam rockets and mortar rounds into Israel from the Gaza Strip. Israeli aircraft then bombed a smuggling tunnel under the Gaza Strip's border with Egypt.](/news/2010/09/15/hamas-militants-fire-two-qassam-rockets-and-mortar-rounds-into-israel-from-the-gaza-strip-israeli-aircraft-then-bombed-a-smuggling-tunnel-u.md)
 _Context: Egypt's, Gaza Strip, Hamas, Israel, Qassam rocket, mortar_
@@ -37,7 +37,7 @@ Israel is aware of the reports and preparing itself for possible row at the Inte
 _Context: China, Japan Coast Guard, Quanzhou, Senkaku Islands, fishing boat_
 
 ### [The United States and Russia establish a working group to improve relations between the United States military and Russian military. ](/news/2010/09/15/the-united-states-and-russia-establish-a-working-group-to-improve-relations-between-the-united-states-military-and-russian-military.md)
-_Context: Russia, Russian military, U.S., United States military_
+_Context: Russia, Russian military, United States, United States military_
 
 ### [Northern Territory Police call for reinforcements as violence breaks out amongst Australian aborigines in the town of Yuendumu following the death of an indigenous man. ](/news/2010/09/15/northern-territory-police-call-for-reinforcements-as-violence-breaks-out-amongst-australian-aborigines-in-the-town-of-yuendumu-following-the.md)
 Police are sheltering a number of people in a house at Yuendumu, as more forces arrive to deal with violence at the remote NT community.
@@ -49,7 +49,7 @@ _Context: Guinea, November's presidential poll_
 _Context: Goodluck Jonathan, Nigeria, President, presidential election_
 
 ### [An anti-American protest in Kabul, sparked in part by the 2010 Qur'an-burning controversy, turns violent with five members of the Afghan National Police being injured and two demonstrators being shot. ](/news/2010/09/15/an-anti-american-protest-in-kabul-sparked-in-part-by-the-2010-qur-an-burning-controversy-turns-violent-with-five-members-of-the-afghan-nat.md)
-_Context: 2010 Qur'an-burning controversy, Afghan police, Kabul, U.S._
+_Context: 2010 Qur'an-burning controversy, Afghan police, Kabul, United States_
 
 ### [North Korea's ruling Workers' Party of Korea cancels its largest political convention in thirty years officially due to floods caused by Typhoon Kompasu but sparking speculation about the health of Kim Jong-il. ](/news/2010/09/15/north-korea-s-ruling-workers-party-of-korea-cancels-its-largest-political-convention-in-thirty-years-officially-due-to-floods-caused-by-typ.md)
 _Context: Kim Jong-il, North Korea, Typhoon Kompasu, Workers' Party of Korea, flood_

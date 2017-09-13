@@ -13,7 +13,7 @@ Somali Interior Minister Abdi Shakur Sheikh Hassan is killed in a suicide attack
 _Context: NATO, Tripoli_
 
 ### [The People's Republic of China's only ratings house that grades sovereign entities, the Dagong Global Credit Rating Company, states that the United States is already defaulting on its debt by allowing the U.S. dollar to devalue against other currencies, diminishing the wealth of China as a U.S. creditor. ](/news/2011/06/10/the-people-s-republic-of-china-s-only-ratings-house-that-grades-sovereign-entities-the-dagong-global-credit-rating-company-states-that-the.md)
-_Context:  debt, China, Dagong Global Credit Rating, U.S., US$, creditor, defaults_
+_Context:  debt, China, Dagong Global Credit Rating, US$, United States, creditor, defaults_
 
 ### [The South Korean Central Bank raises its benchmark interest rate by 25 basis points to 3.25 percent. ](/news/2011/06/10/the-south-korean-central-bank-raises-its-benchmark-interest-rate-by-25-basis-points-to-3-25-percent.md)
 _Context: Bank of Korea, South Korea_

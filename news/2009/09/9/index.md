@@ -1,7 +1,7 @@
 ## [2009-09-9](/news/2009/09/9/index.md)
 
 ### [ US Representative Joe Wilson (R-SC) interrupts President Barack Obama's health care speech to the Congress with an audible shout of "You lie!" ](/news/2009/09/9/us-representative-joe-wilson-r-sc-interrupts-president-barack-obama-s-health-care-speech-to-the-congress-with-an-audible-shout-of-you-li.md)
-_Context: Barack Obama, Congress, Joe Wilson, Representative, Republican, South Carolina, U.S._
+_Context: Barack Obama, Congress, Joe Wilson, Representative, Republican, South Carolina, United States_
 
 ### [ Aeromxico Flight 576, a Boeing 737 carrying 104 people, is hijacked shortly after take-off from Cancn, and forced to land at Mexico City International Airport. ](/news/2009/09/9/aeromexico-flight-576-a-boeing-737-carrying-104-people-is-hijacked-shortly-after-take-off-from-cancun-and-forced-to-land-at-mexico-city.md)
 _Context: 737, Aeromxico Flight 576, Cancun, Mexico City International Airport_
@@ -22,7 +22,7 @@ Police in Tehran shut offices of Mehdi Karroubi, prominent opposition politician
 _Context: China, Urumqi, hypodermic needle, stabbings_
 
 ### [ The son of former Filipino President Corazon Aquino, Benigno Aquino III, announces his intention to run for the presidency. ](/news/2009/09/9/the-son-of-former-filipino-president-corazon-aquino-benigno-aquino-iii-announces-his-intention-to-run-for-the-presidency.md)
-_Context: Corazon Aquino, Philippine, President, his predecessor_
+_Context: Corazon Aquino, Philippines, President, his predecessor_
 
 ### [ North Korea holds celebrations to mark the 61st anniversary of its founding. ](/news/2009/09/9/north-korea-holds-celebrations-to-mark-the-61st-anniversary-of-its-founding.md)
 ### [ Stephen Farrell, a journalist with "The New York Times", is rescued in northern Afghanistan after four days as a captive of the Taliban, but his Afghan colleague Mohammad Sultan Munadi is shot dead during the raid. ](/news/2009/09/9/stephen-farrell-a-journalist-with-the-new-york-times-is-rescued-in-northern-afghanistan-after-four-days-as-a-captive-of-the-taliban-bu.md)

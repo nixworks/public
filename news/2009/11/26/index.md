@@ -13,7 +13,7 @@ Exclusive: Gary McKinnon is set to be sent to America to answer computer hacking
 _Context: Namibia, elections last week_
 
 ### [ The Committee to Protect Journalists (CPJ) labels the Maguindanao massacre in the Philippines the "single deadliest event for the press" ever documented. ](/news/2009/11/26/the-committee-to-protect-journalists-cpj-labels-the-maguindanao-massacre-in-the-philippines-the-single-deadliest-event-for-the-press-ev.md)
-_Context: Committee to Protect Journalists, Maguindanao massacre, Philippine, media_
+_Context: Committee to Protect Journalists, Maguindanao massacre, Philippines, media_
 
 ### [ The Supreme Court in Bogot convicts and sentences former general Jaime Usctegui to 40 years in prison for his role in the Mapiripn Massacre in 1997 by far right militias. ](/news/2009/11/26/the-supreme-court-in-bogota-convicts-and-sentences-former-general-jaime-uscategui-to-40-years-in-prison-for-his-role-in-the-mapiripan-massa.md)
 _Context: Bogota, Jaime Usctegui, Mapiripn Massacre in 1997, Supreme Court, far right militias_

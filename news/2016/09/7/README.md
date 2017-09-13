@@ -7,7 +7,7 @@ _Context: Aleppo, Syrian Civil War, chlorine_
 A gang brought down a helicopter during a police operation in Mexico&#39;s troubled western state of Michoacan on Tuesday, killing the pilot and three officers, the governor said.
 
 ### [The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. ](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.md)
-_Context: Americans, Guy Ritchie, Madonna, pop_
+_Context: Guy Ritchie, Madonna, U.S., pop_
 
 ### [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md)
 _Context: Burial of Ferdinand Marcos, Ferdinand Marcos, Rodrigo Duterte_

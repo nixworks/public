@@ -1,7 +1,7 @@
 ## [2007-05-14](/news/2007/05/14/index.md)
 
 ### [ Legislative and local elections are being held currently in the Philippines. ](/news/2007/05/14/legislative-and-local-elections-are-being-held-currently-in-the-philippines.md)
-_Context: Philippine, Philippine general election_
+_Context: Philippine general election, Philippines_
 
 ### [ Jorge Daniel Castro, the head of the Colombian National Police force and Guillermo Chavez, the intelligence chief, resign over an illegal wiretapping scandal. ](/news/2007/05/14/jorge-daniel-castro-the-head-of-the-colombian-national-police-force-and-guillermo-chavez-the-intelligence-chief-resign-over-an-illegal-w.md)
 _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wiretapped_
@@ -10,13 +10,13 @@ _Context: Colombian National Police, Guillermo Chavez, Jorge Daniel Castro, wire
 _Context: CHP, DYP, Hakkri, Kurdistan Workers' Party, MHP, Turkey, Van, death threat, general elections, ruling party, was mailed_
 
 ### [ United States Deputy Attorney General Paul McNulty will resign, two Justice Department officials tell The Associated Press. ](/news/2007/05/14/united-states-deputy-attorney-general-paul-mcnulty-will-resign-two-justice-department-officials-tell-the-associated-press.md)
-_Context: Deputy Attorney General, Paul McNulty, U.S. Justice Department_
+_Context: Deputy Attorney General, Paul McNulty, United States Department of Justice_
 
 ### [ Top Palestinian Security Official, Hani Kawasmeh, quits in protest on Monday as Sunday's ceasefire is broken, with fighting across Gaza between Hamas and Fatah killing 8 and wounding 40. Fighting began as both sides set up security checkpoints and kidnapped rivals as bargaining chips. ](/news/2007/05/14/top-palestinian-security-official-hani-kawasmeh-quits-in-protest-on-monday-as-sunday-s-ceasefire-is-broken-with-fighting-across-gaza-bet.md)
 _Context: Fatah, Hamas, Hani Kawasmeh, Palestinian, ceasefire_
 
 ### [ President George W. Bush orders United States government agencies to take regulatory steps to reduce automobile emissions. ](/news/2007/05/14/president-george-w-bush-orders-united-states-government-agencies-to-take-regulatory-steps-to-reduce-automobile-emissions.md)
-_Context: Auto, George W. Bush, President, U.S._
+_Context: Auto, George W. Bush, President, United States_
 
 ### [ The U.S. military is to block troops from using YouTube and MySpace and 11 other popular websites for sharing photos, video clips and messages. ](/news/2007/05/14/the-u-s-military-is-to-block-troops-from-using-youtube-and-myspace-and-11-other-popular-websites-for-sharing-photos-video-clips-and-messa.md)
 _Context: Military of the United States, MySpace, YouTube, video clips_

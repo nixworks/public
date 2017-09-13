@@ -1,0 +1,19 @@
+### [2003-01-31](/news/2003/01/31/index.md)
+
+# France strongly advises its citizens to leave the Ivory Coast. 1,500 French nationals remain trapped in the airport of the commercial capital Abidjan, which is surrounded by a crowd of around 5,000 supporters of President Laurent Gbagbo. Last week, the French brokered a power-sharing deal between the Government and the Northern rebels.
+
+
+
+
+### Related:
+
+1. [2010-2011 Ivorian crisis: Heavy fighting continues in Abidjan, the largest city in the Ivory Coast between forces loyal to current President of the Ivory Coast Laurent Gbagbo and internationally-recognised claimant Alassane Ouattara. ](/news/2011/04/1/2010a2011-ivorian-crisis-heavy-fighting-continues-in-abidjan-the-largest-city-in-the-ivory-coast-between-forces-loyal-to-current-preside.md) _Context: Abidjan, Ivory Coast, Laurent Gbagbo_
+2. [State television is taken off air in the city of Abidjan, Ivory Coast, during clashes between forces loyal to incumbent President Laurent Gbagbo and rival groups. ](/news/2011/02/27/state-television-is-taken-off-air-in-the-city-of-abidjan-ivory-coast-during-clashes-between-forces-loyal-to-incumbent-president-laurent-gb.md) _Context: Abidjan, Ivory Coast, Laurent Gbagbo_
+3. [At least three prisoners die in a prison riot in Abidjan, Ivory Coast. ](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-in-abidjan-ivory-coast.md) _Context: Abidjan, Ivory Coast_
+4. [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md) _Context: Abidjan, Ivory Coast_
+5. [2013 Houphouet-Boigny stampede: At least 60 people are killed and more than 200 injured in a stampede during a New Year's fireworks celebration near the Stade Felix Houphouet-Boigny in Abidjan, Ivory Coast. ](/news/2013/01/1/2013-houphoua-t-boigny-stampede-at-least-60-people-are-killed-and-more-than-200-injured-in-a-stampede-during-a-new-year-s-fireworks-celebra.md) _Context: Abidjan, Ivory Coast_
+6. [An attack on an army base in Abidjan, Ivory Coast, kills six people. ](/news/2012/08/6/an-attack-on-an-army-base-in-abidjan-ivory-coast-kills-six-people.md) _Context: Abidjan, Ivory Coast_
+7. [A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. ](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.md) _Context: Abidjan, Ivory Coast_
+8. [In the wake of the 2010-2011 Ivorian crisis, the United Nations High Commissioner for Human Rights states that mass graves containing 68 bodies have been found in the Ivorian city of Abidjan. ](/news/2011/05/9/in-the-wake-of-the-2010a2011-ivorian-crisis-the-united-nations-high-commissioner-for-human-rights-states-that-mass-graves-containing-68-b.md) _Context: Abidjan, Ivory Coast_
+9. [Dozens of people are killed in fighting between the National Armed Forces of Cote d'Ivoire and forces loyal to former President of the Ivory Coast Laurent Gbagbo in Abidjan. ](/news/2011/05/3/dozens-of-people-are-killed-in-fighting-between-the-national-armed-forces-of-ca-te-d-ivoire-and-forces-loyal-to-former-president-of-the-ivor.md) _Context: Abidjan, Laurent Gbagbo_
+10. [Forces loyal to Laurent Gbagbo regain ground in Abidjan. ](/news/2011/04/9/forces-loyal-to-laurent-gbagbo-regain-ground-in-abidjan.md) _Context: Abidjan, Laurent Gbagbo_

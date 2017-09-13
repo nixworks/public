@@ -25,7 +25,7 @@ _Context: Everglades, Florida, US Sugar Corporation_
 Defence Minister Franz Josef Jung said on Tuesday that Germany planned to increase the number of troops it can send to Afghanistan by 1,000 later this year.
 
 ### [ Divers see bodies in the wreck of the MV "Princess of the Stars" off the coast of the Philippines, but no sign of survivors. ](/news/2008/06/24/divers-see-bodies-in-the-wreck-of-the-mv-princess-of-the-stars-off-the-coast-of-the-philippines-but-no-sign-of-survivors.md)
-_Context: MV ''Princess of the Stars, Philippine_
+_Context: MV ''Princess of the Stars, Philippines_
 
 ### [ Ireland's Economic and Social Research Institute (ESRI) says the country is in the grip of a recession for the first time in a quarter of a century. However, it predicts the economy will return to positive growth in 2009 and normal growth by 2010. ](/news/2008/06/24/ireland-s-economic-and-social-research-institute-esri-says-the-country-is-in-the-grip-of-a-recession-for-the-first-time-in-a-quarter-of-a.md)
 Brian Lenihan has said the latest report from the ESRI indicated that there was a serious problem in the economy.

@@ -19,7 +19,7 @@ Less than a fortnight into his job as CEO, Kazuo Hirai sketched out a strategy t
 Plus: a lot of talk about Android.
 
 ### [Japan and the Philippines are on alert for the North Korean rocket launch over the next few days. ](/news/2012/04/12/japan-and-the-philippines-are-on-alert-for-the-north-korean-rocket-launch-over-the-next-few-days.md)
-_Context: Japan, North Korea, Philippine_
+_Context: Japan, North Korea, Philippines_
 
 ### [The Philippines sends another ship to join the current ship it has involved in a confrontation with two Chinese surveillance ships on the South China Sea, although both sides claim to be committed to a peaceful solution. ](/news/2012/04/12/the-philippines-sends-another-ship-to-join-the-current-ship-it-has-involved-in-a-confrontation-with-two-chinese-surveillance-ships-on-the-so.md)
 The Philippines says it has withdrawn its largest warship from a stand-off with Chinese vessels in the South China Sea, as both sides pledge diplomacy.

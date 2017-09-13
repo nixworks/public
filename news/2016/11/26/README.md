@@ -37,7 +37,7 @@ Mass protests in capital Seoul and other provincial cities demand President Park
 _Context: Kuwait, Kuwaiti general election, 2016, parliament's dissolution, snap election_
 
 ### [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md)
-_Context: 2016 United States presidential election recount and audit, Clinton campaign, Jill Stein, Michigan, Pennsylvania, Wisconsin_
+_Context: 2016 United States presidential election recount and audit, Jill Stein, Michigan, Pennsylvania, Wisconsin, presidential campaign_
 
 ## [Previous Day...](/news/2016/11/25/index.md)
 

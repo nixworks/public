@@ -7,10 +7,10 @@ Hard-line militants seeking to gain territory after the end of the NATO combat m
 At least 38 people are reported to have been killed in an air strike on a wedding party in south-western Yemen.
 
 ### [ISIL claims responsibility for the killing of an Italian man in Dhaka. If verified, it would be Islamic State's first attack in Bangladesh. ](/news/2015/09/28/isil-claims-responsibility-for-the-killing-of-an-italian-man-in-dhaka-if-verified-it-would-be-islamic-state-s-first-attack-in-bangladesh.md)
-_Context: Bangladesh, Dhaka, ISIL, Italian_
+_Context: Bangladesh, Dhaka, Islamic State of Iraq and the Levant, Italian_
 
 ### [Pope Francis returns to Rome after finishing his trip to Cuba and the United States. ](/news/2015/09/28/pope-francis-returns-to-rome-after-finishing-his-trip-to-cuba-and-the-united-states.md)
-_Context: Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome, U.S._
+_Context: Cuba, Pope Francis, Pope Francis%27 visit to the United States, Rome, United States_
 
 ### [Royal Dutch Shell halts its drilling program for oil and gas off the coast of Alaska citing high costs and a challenging regulatory environment. ](/news/2015/09/28/royal-dutch-shell-halts-its-drilling-program-for-oil-and-gas-off-the-coast-of-alaska-citing-high-costs-and-a-challenging-regulatory-environm.md)
 Royal Dutch Shell Plc will halt exploration in the U.S. Arctic after $7 billion of spending ended with a well off Alaska that failed to find any meaningful quantities of oil or natural gas.

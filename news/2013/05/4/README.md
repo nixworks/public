@@ -13,7 +13,7 @@ _Context: Nigeria, Wukari_
 _Context: Cesar Portillo de la Luz, Cuban, Filin_
 
 ### [American author Harper Lee files a lawsuit claiming that a literary agent tricked her into relinquishing the copyright on her book, "To Kill a Mockingbird". ](/news/2013/05/4/american-author-harper-lee-files-a-lawsuit-claiming-that-a-literary-agent-tricked-her-into-relinquishing-the-copyright-on-her-book-to-kill.md)
-_Context: Americans, Harper Lee, To Kill a Mockingbird_
+_Context: Harper Lee, To Kill a Mockingbird, U.S._
 
 ### [Hundreds of protestors gather in Chinese cities to rally against planned large-scale industrial projects. ](/news/2013/05/4/hundreds-of-protestors-gather-in-chinese-cities-to-rally-against-planned-large-scale-industrial-projects.md)
 _Context: China_

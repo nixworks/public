@@ -10,7 +10,7 @@ _Context: Australia, Gippsland, Victoria, bushfire_
 _Context: Islamic Court Union, Somalia, fight Ethiopian forces_
 
 ### [ Officials organizing the 2006 ASEAN summit in the Philippines, originally due to begin on December 10, have announced that it has been postponed due to Severe Tropical Storm Utor. Officials also denied that the postponement was due to a terror threat. ](/news/2006/12/8/officials-organizing-the-2006-asean-summit-in-the-philippines-originally-due-to-begin-on-december-10-have-announced-that-it-has-been-post.md)
-_Context: ASEAN Summit, December 10, Philippine, Severe Tropical Storm Utor_
+_Context: ASEAN Summit, December 10, Philippines, Severe Tropical Storm Utor_
 
 ### [ Research linking the spread of the AIDS virus with malarial infections in Africa is published in "Science". ](/news/2006/12/8/research-linking-the-spread-of-the-aids-virus-with-malarial-infections-in-africa-is-published-in-science.md)
 _Context: AIDS, Africa, Science, malaria, virus_

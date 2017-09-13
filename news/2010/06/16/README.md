@@ -1,7 +1,7 @@
 ## [2010-06-16](/news/2010/06/16/index.md)
 
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: Christopher "Dudus" Coke, Jamaica, Kingston, U.S., drug kingpin_
+_Context: Christopher "Dudus" Coke, Jamaica, Kingston, United States, drug kingpin_
 
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
 Seattle police review training procedures after video of an officer punching a teenage girl circulates widely on TV and online.
@@ -58,7 +58,7 @@ A court bails two Dutch women over an alleged marketing stunt at the World Cup, 
 _Context: Dragon Boat Festival, Lhasa_
 
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: Jesus Christ, Ohio, U.S._
+_Context: Jesus Christ, Ohio, United States_
 
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)
 Remains found in a Tuscany church almost certainly belong to Renaissance artist Caravaggio, researchers say.
