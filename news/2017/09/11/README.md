@@ -18,7 +18,7 @@ _Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
 ### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
 The United Nations Security Council approved new sanctions aimed at punishing North Korea for its latest missile and nuclear tests after the U.S. dropped key demands in order to win support from Russia and China.
 
-### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly handed himself into police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-handed-hims.md)
+### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly turned himself in to police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-turned-hims.md)
 _Context: Alfred Gadenne, Crime in Belgium, Mouscron_
 
 ### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)

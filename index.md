@@ -20,9 +20,6 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ## [Yesterday](/news/2017/09/12/index.md)
 
-### [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md)
-A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
-
 ### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)
 _Context: 2020, Hillary Clinton, United States presidential election, 2016, What Happened, memoir, presidential campaign_
 
@@ -32,9 +29,6 @@ _Context: Moscow, RT America, Russia, Russian interference in the 2016 United St
 ### [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md)
 Turkey has already paid a deposit to Russia for the purchase of the S-400 anti-ballistic missile system despite opposition from its NATO allies, President Recep Tayyip Erdoğan has said, underlining that both Ankara and Moscow were committed to accomplish the sale process of the high-tech defense eq...
 
-### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of atrocities against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-allege.md)
-&quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 
-
 ### [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md)
 Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a &quot;sanctuary state&quot; bill that would limit the role of sta...
 
@@ -43,6 +37,9 @@ Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a
 
 ### [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md)
 The U.S. Supreme Court on Tuesday allowed President Donald Trump to broadly implement a ban on refugees entering the country from around the world.
+
+### [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md)
+A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
 
 ### [Halimah Yacob is elected as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-elected-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md)
 The public is questioning the legitimacy of a qualification process so narrow that only one candidate made the cut, bypassing a vote.
@@ -55,6 +52,9 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 
 ### [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
+
+### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of atrocities against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-allege.md)
+&quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 
 
 ### [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md)
 Apple unveiled a new high-end smartphone called the iPhone X, as well as an iPhone 8 and 8 Plus and other products. Read our analysis of the event.
@@ -81,7 +81,7 @@ _Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
 ### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
 The United Nations Security Council approved new sanctions aimed at punishing North Korea for its latest missile and nuclear tests after the U.S. dropped key demands in order to win support from Russia and China.
 
-### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly handed himself into police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-handed-hims.md)
+### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly turned himself in to police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-turned-hims.md)
 _Context: Alfred Gadenne, Crime in Belgium, Mouscron_
 
 ### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
