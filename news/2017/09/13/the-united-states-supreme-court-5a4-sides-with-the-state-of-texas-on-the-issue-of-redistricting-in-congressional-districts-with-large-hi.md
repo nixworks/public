@@ -1,6 +1,6 @@
 ### [2017-09-13](/news/2017/09/13/index.md)
 
-# The United States Supreme Court (5--4) sides with the state of Texas on the issue of redistricting in congressional districts with large Hispanic and African populations. 
+# The United States Supreme Court (5-4) sides with the state of Texas on the issue of redistricting in congressional districts with large Hispanic and African populations. 
 
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
 
