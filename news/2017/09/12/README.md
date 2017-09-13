@@ -3,7 +3,7 @@
 ### [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md)
 A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
 
-### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Hillary has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-hillary-has-implied-that-she-may-no.md)
+### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)
 _Context: 2020, Hillary Clinton, United States presidential election, 2016, What Happened, memoir, presidential campaign_
 
 ### [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md)
@@ -24,7 +24,7 @@ Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a
 ### [The Sagrada Familia basilica in Barcelona is evacuated due to an anti-terrorism operation. ](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-evacuated-due-to-an-anti-terrorism-operation.md)
  MADRID (AP) — Police in Barcelona said a false alarm involving a suspicious van prompted the evacuation of the landmark Sagrada Familia basilica and its surroundings Tuesday eveni
 
-### [Halimah Yacob is appointed as the first female President of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md)
+### [Halimah Yacob is appointed as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md)
 The public is questioning the legitimacy of a qualification process so narrow that only one candidate made the cut, bypassing a vote.
 
 ### [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md)

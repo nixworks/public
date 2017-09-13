@@ -1,10 +1,7 @@
 ## [News](/news/2017/09/13/index.md)
 
-### [A suicide bombing occurs at a checkpoint near a cricket stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-a-cricket-stadium-in-kabul-afghanistan.md)
+### [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md)
 A suicide bomber blew himself up at a checkpoint near the main cricket stadium in the Afghan capital Kabul on Wednesday, killing at least three people as a tournament was under way, officials said.
-
-### [Australian actress, comedian and performer Rebel Wilson is awarded AUS$4.56 million (US$3.66 million) in relation to a defamation lawsuit. This is twenty times higher than Wilson's ask price. She claims she will donate some of the amount to charities for the performing arts. ](/news/2017/09/13/australian-actress-comedian-and-performer-rebel-wilson-is-awarded-aus-4-56-million-us-3-66-million-in-relation-to-a-defamation-lawsuit-t.md)
-_Context: AUS$, Australian, Culture of Australia, Rebel Wilson, US$, ask price, defamation_
 
 ### [Aung San Suu Kyi will skip the United Nations General Assembly meeting amid the Rohingya refugees crisis in Bangladesh. ](/news/2017/09/13/aung-san-suu-kyi-will-skip-the-united-nations-general-assembly-meeting-amid-the-rohingya-refugees-crisis-in-bangladesh.md)
 _Context: Aung San Suu Kyi, Bangladesh, Rohingya, Rohingya refugees in Bangladesh, United Nations General Assembly_
@@ -26,7 +23,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md)
 A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
 
-### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Hillary has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-hillary-has-implied-that-she-may-no.md)
+### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)
 _Context: 2020, Hillary Clinton, United States presidential election, 2016, What Happened, memoir, presidential campaign_
 
 ### [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md)
@@ -47,7 +44,7 @@ Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a
 ### [The Sagrada Familia basilica in Barcelona is evacuated due to an anti-terrorism operation. ](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-evacuated-due-to-an-anti-terrorism-operation.md)
  MADRID (AP) — Police in Barcelona said a false alarm involving a suspicious van prompted the evacuation of the landmark Sagrada Familia basilica and its surroundings Tuesday eveni
 
-### [Halimah Yacob is appointed as the first female President of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md)
+### [Halimah Yacob is appointed as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md)
 The public is questioning the legitimacy of a qualification process so narrow that only one candidate made the cut, bypassing a vote.
 
 ### [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md)
