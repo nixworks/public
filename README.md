@@ -33,7 +33,7 @@ _Context: Justice, Politics of the Philippines, Vitaliano Aguirre, senators_
 ### [The right-wing coaltition lead by Erna Solberg wins their second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coaltition-lead-by-erna-solberg-wins-their-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
 
-### [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers decades ago. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-decades-ago.md)
+### [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970's and 80's. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970-s-and-80-s.md)
 Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — made public allegations Murray molested him when he was a child.
 
 ## Opinion
