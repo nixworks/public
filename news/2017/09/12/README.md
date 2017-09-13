@@ -1,6 +1,6 @@
 ## [2017-09-12](/news/2017/09/12/index.md)
 
-### [In a promotion video, the Islamic State of Iraq and the Levant instructs its followers to go to the Philippines instead of the Middle East. ](/news/2017/09/12/in-a-promotion-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-to-the-philippines-instead-of-the-middle-east.md)
+### [In a promotion video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-a-promotion-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the-mid.md)
 A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
 
 ### [Hillary Clinton releases the book "What Happened", a memoir about her failed presidential campaign. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-failed-presidential-campaign.md)
@@ -15,8 +15,8 @@ Apple unveiled a new high-end smartphone called the iPhone X, as well as an iPho
 ### [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md)
 Turkey has already paid a deposit to Russia for the purchase of the S-400 anti-ballistic missile system despite opposition from its NATO allies, President Recep Tayyip Erdoğan has said, underlining that both Ankara and Moscow were committed to accomplish the sale process of the high-tech defense eq...
 
-### [The United States Department of Justice has requested media organization Russia Today to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-media-organization-russia-today-to-register-as-a-foreign-lobbying-firm-in-the-united-s.md)
-_Context: Russia Today, United States, United States Department of Justice, foreign lobbying firm_
+### [The United States Department of Justice has requested media organization RT to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-media-organization-rt-to-register-as-a-foreign-lobbying-firm-in-the-united-states.md)
+_Context: RT, United States, United States Department of Justice, foreign lobbying firm_
 
 ### [The Sagrada Familia basilica in Barcelona is evacuated due to an anti-terrorism operation. ](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-evacuated-due-to-an-anti-terrorism-operation.md)
  MADRID (AP) — Police in Barcelona said a false alarm involving a suspicious van prompted the evacuation of the landmark Sagrada Familia basilica and its surroundings Tuesday eveni
@@ -30,10 +30,10 @@ The public is questioning the legitimacy of a qualification process so narrow th
 ### [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md)
 _Context: Justice, Politics of the Philippines, Vitaliano Aguirre, senators_
 
-### [The right-wing coaltition lead by Erna Solberg wins their second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coaltition-lead-by-erna-solberg-wins-their-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
+### [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
 
-### [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970's and 80's. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970-s-and-80-s.md)
+### [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970s and 80s. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970s-and-80s.md)
 Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — made public allegations Murray molested him when he was a child.
 
 ## [Previous Day...](/news/2017/09/11/index.md)
