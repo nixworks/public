@@ -1,15 +1,4 @@
-## [News](/news/2017/09/14/index.md)
-
-### [Russia and Belarus begin a six day joint strategic military exercise inside Belarus and Russia's Kaliningrad Oblast. The military exercise similuates war against the fictional state of Veyshnoria. According to the Defence Ministry of Belarus, fewer than 13,000 personnel will be taking part in the exercise, however Western analysts believe the total number will range from 60,000 to 100,000. ](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.md)
-_Context: Belarus, Belarus-Russia relations, Defence Ministry of Belarus, Kaliningrad Oblast, Russia, Veyshnoria, Zapad 2017 exercise, military exercise_
-
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
----
-
-## [Yesterday](/news/2017/09/13/index.md)
+## [News](/news/2017/09/13/index.md)
 
 ### [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md)
 A suicide bomber blew himself up at a checkpoint near the main cricket stadium in the Afghan capital Kabul on Wednesday, killing at least three people as a tournament was under way, officials said.
@@ -17,15 +6,19 @@ A suicide bomber blew himself up at a checkpoint near the main cricket stadium i
 ### [Aung San Suu Kyi will skip the United Nations General Assembly meeting amid the Rohingya refugees crisis in Bangladesh. ](/news/2017/09/13/aung-san-suu-kyi-will-skip-the-united-nations-general-assembly-meeting-amid-the-rohingya-refugees-crisis-in-bangladesh.md)
 _Context: Aung San Suu Kyi, Bangladesh, Rohingya, Rohingya refugees in Bangladesh, United Nations General Assembly_
 
-### [The United States Supreme Court sides (5-4) with the state of Texas on not redistricting congressional districts with large Hispanic and African populations. ](/news/2017/09/13/the-united-states-supreme-court-sides-5a4-with-the-state-of-texas-on-not-redistricting-congressional-districts-with-large-hispanic-and-a.md)
+### [The United States Supreme Court sides (5-4) with the state of Texas on not redistricting congressional districts with large Hispanic and African American populations. ](/news/2017/09/13/the-united-states-supreme-court-sides-5a4-with-the-state-of-texas-on-not-redistricting-congressional-districts-with-large-hispanic-and-a.md)
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
 
 ### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
 European Commission President Jean-Claude Juncker made key proposals in his annual State of the European Union address to the European Parliament on Wednesday.
 
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
 ---
 
-## [Day Before Yesterday](/news/2017/09/12/index.md)
+## [Yesterday](/news/2017/09/12/index.md)
 
 ### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)
 _Context: 2020, Hillary Clinton, United States presidential election, 2016, What Happened, memoir, presidential campaign_
@@ -68,7 +61,44 @@ Apple unveiled a new high-end smartphone called the iPhone X, as well as an iPho
 
 ---
 
-## [Previous Day...](/news/2017/09/11/index.md)
+## [Day Before Yesterday](/news/2017/09/11/index.md)
+
+### [ Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others. ](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.md)
+Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on Monday, killing 18 police and wounding seven others in one of the deadliest attacks this year in the restive region bordering Israel and the Gaza Strip.
+
+### [Russia sends 175 demining combat engineers to defuse mines in Deir ez-Zor Governorate. ](/news/2017/09/11/russia-sends-175-demining-combat-engineers-to-defuse-mines-in-deir-ez-zor-governorate.md)
+_Context: Deir ez-Zor Governorate, Russia, Siege of Deir ez-Zor (2014-17), Syrian Civil War, combat engineers, demining_
+
+### [PETA and David Slater settle the monkey selfie copyright dispute. ](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-copyright-dispute.md)
+_Context: PETA, monkey selfie copyright dispute_
+
+### [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md)
+Two trains collided on Monday in a station in central Switzerland, Swiss police said, injuring around 30 people.
+
+### [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md)
+_Context: Aurora 17, Gotland, NATO, Sweden, U.S. soldiers_
+
+### [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md)
+The United Nations Security Council approved new sanctions aimed at punishing North Korea for its latest missile and nuclear tests after the U.S. dropped key demands in order to win support from Russia and China.
+
+### [Mouscron mayor Alfred Gadenne is found dead with his throat slashed inside the Belgian city's cemetery. A suspect has reportedly turned himself in to police. ](/news/2017/09/11/mouscron-mayor-alfred-gadenne-is-found-dead-with-his-throat-slashed-inside-the-belgian-city-s-cemetery-a-suspect-has-reportedly-turned-hims.md)
+_Context: Alfred Gadenne, Crime in Belgium, Mouscron_
+
+### [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md)
+Eight to 10 members of a remote indigenous group were allegedly killed by men working for illegal prospectors in Javari Valley
+
+### [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md)
+California on Monday sued the Trump administration, challenging as unconstitutional the president’s plan to rescind a program to protec...
+
+### [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md)
+_Context: Justice, Philippines, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
+
+### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)
+_Context: Barcelona, Catalan independence, National Day of Catalonia, independence referendum_
+
+---
+
+## [Previous Day...](/news/2017/09/10/index.md)
 
 ---
 
