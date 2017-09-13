@@ -6,7 +6,7 @@ A suicide bomber blew himself up at a checkpoint near the main cricket stadium i
 ### [Aung San Suu Kyi will skip the United Nations General Assembly meeting amid the Rohingya refugees crisis in Bangladesh. ](/news/2017/09/13/aung-san-suu-kyi-will-skip-the-united-nations-general-assembly-meeting-amid-the-rohingya-refugees-crisis-in-bangladesh.md)
 _Context: Aung San Suu Kyi, Bangladesh, Rohingya, Rohingya refugees in Bangladesh, United Nations General Assembly_
 
-### [The United States Supreme Court (5-4) sides with the state of Texas on the issue of redistricting in congressional districts with large Hispanic and African populations. ](/news/2017/09/13/the-united-states-supreme-court-5a4-sides-with-the-state-of-texas-on-the-issue-of-redistricting-in-congressional-districts-with-large-hi.md)
+### [The United States Supreme Court sides (5-4) with the state of Texas on not redistricting congressional districts with large Hispanic and African populations. ](/news/2017/09/13/the-united-states-supreme-court-sides-5a4-with-the-state-of-texas-on-not-redistricting-congressional-districts-with-large-hispanic-and-a.md)
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
 
 ### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
