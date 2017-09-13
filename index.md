@@ -1,4 +1,15 @@
-## [News](/news/2017/09/12/index.md)
+## [News](/news/2017/09/13/index.md)
+
+### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
+European Commission President Jean-Claude Juncker made key proposals in his annual State of the European Union address to the European Parliament on Wednesday.
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/12/index.md)
 
 ### [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md)
 A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
@@ -36,13 +47,9 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 ### [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/11/index.md)
+## [Day Before Yesterday](/news/2017/09/11/index.md)
 
 ### [ Militants ambush a police convoy in Egypt's Sinai Peninsula killing 18 police and wounding seven others. ](/news/2017/09/11/militants-ambush-a-police-convoy-in-egypt-s-sinai-peninsula-killing-18-police-and-wounding-seven-others.md)
 Islamic State militants ambushed a police convoy in Egypt’s Sinai Peninsula on Monday, killing 18 police and wounding seven others in one of the deadliest attacks this year in the restive region bordering Israel and the Gaza Strip.
@@ -79,23 +86,7 @@ _Context: Barcelona, Catalan independence, National Day of Catalonia, independen
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/10/index.md)
-
-### [Russian airstrikes on several ferries attempting to cross the Euphrates near Deir ez-Zor kill at least 34 civilians, including 9 children, according to the Syrian Observatory for Human Rights. ](/news/2017/09/10/russian-airstrikes-on-several-ferries-attempting-to-cross-the-euphrates-near-deir-ez-zor-kill-at-least-34-civilians-including-9-children-a.md)
-_Context: Deir ez-Zor, Euphrates, Russia, Russian military intervention in the Syrian Civil War, Syrian Observatory for Human Rights_
-
-### [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md)
-_Context: 2017 Atlantic hurricane season, Florida, Hurricane Irma_
-
-### [Floods, following torrential rain, kill at least six people in the port city of Livorno, Italy. ](/news/2017/09/10/floods-following-torrential-rain-kill-at-least-six-people-in-the-port-city-of-livorno-italy.md)
-The mayor of Livorno lamented that the forecast underestimated the intensity of the storms that first struck overnight. The city only issued a code &quot;orange&quot; warning instead of a code &quot;red,&quot; which might have saved lives.
-
-### [A gunman shoots seven people dead at a house party in Plano, Texas, amid a domestic dispute. The gunman was then killed after exchanging fire with a Plano Police Department officer. ](/news/2017/09/10/a-gunman-shoots-seven-people-dead-at-a-house-party-in-plano-texas-amid-a-domestic-dispute-the-gunman-was-then-killed-after-exchanging-fir.md)
-Seven people have died after a gunman opened fire at house party in Plano, Texas. The shooter was then killed by police. It is believed the shoot-out was prompted by a &quot;domestic dispute&quot; at the party for fans of NFL team the Dallas Cowboys.
-
----
-
-## [Previous Day...](/news/2017/09/9/index.md)
+## [Previous Day...](/news/2017/09/10/index.md)
 
 ---
 
