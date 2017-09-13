@@ -3,9 +3,6 @@
 ### [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md)
 A suicide bomber blew himself up at a checkpoint near the main cricket stadium in the Afghan capital Kabul on Wednesday, killing at least three people as a tournament was under way, officials said.
 
-### [Aung San Suu Kyi will skip the United Nations General Assembly meeting amid the Rohingya refugees crisis in Bangladesh. ](/news/2017/09/13/aung-san-suu-kyi-will-skip-the-united-nations-general-assembly-meeting-amid-the-rohingya-refugees-crisis-in-bangladesh.md)
-_Context: Aung San Suu Kyi, Bangladesh, Rohingya, Rohingya refugees in Bangladesh, United Nations General Assembly_
-
 ### [The United States Supreme Court sides (5-4) with the state of Texas on not redistricting congressional districts with large Hispanic and African American populations. ](/news/2017/09/13/the-united-states-supreme-court-sides-5a4-with-the-state-of-texas-on-not-redistricting-congressional-districts-with-large-hispanic-and-a.md)
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
 
@@ -53,7 +50,7 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 ### [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
 
-### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of atrocities against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-allege.md)
+### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of "atrocities" against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-alle.md)
 &quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 
 
 ### [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md)

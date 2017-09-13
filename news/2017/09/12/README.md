@@ -33,7 +33,7 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 ### [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
 
-### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of atrocities against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-allege.md)
+### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of "atrocities" against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-alle.md)
 &quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 
 
 ### [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md)
