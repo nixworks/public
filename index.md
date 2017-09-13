@@ -15,7 +15,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.
 
 ### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Hillary has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-hillary-has-implied-that-she-may-no.md)
-_Context: 2020, Hillary Clinton, What Happened, memoir, presidential campaign_
+_Context: 2020, Books written by Presidents of the United States, Hillary Clinton, What Happened, memoir, presidential campaign_
 
 ### [Apple Inc. announces three new iPhone models: the iPhone 8, iPhone 8 Plus, and the iPhone X. The Apple Watch Series 3 and a new Apple TV are also announced. ](/news/2017/09/12/apple-inc-announces-three-new-iphone-models-the-iphone-8-iphone-8-plus-and-the-iphone-x-the-apple-watch-series-3-and-a-new-apple-tv-are.md)
 Apple unveiled a new high-end smartphone called the iPhone X, as well as an iPhone 8 and 8 Plus and other products. Read our analysis of the event.
