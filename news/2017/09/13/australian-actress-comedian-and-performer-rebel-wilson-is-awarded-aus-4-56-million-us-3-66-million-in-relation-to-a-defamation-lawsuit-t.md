@@ -2,12 +2,12 @@
 
 # Australian actress, comedian and performer Rebel Wilson is awarded AUS$4.56 million (US$3.66 million) in relation to a defamation lawsuit. This is twenty times higher than Wilson's ask price. She claims she will donate some of the amount to charities for the performing arts. 
 
-A judge awarded Rebel Wilson record damages of 4.56 million Australian dollars ($3.66 million) on Wednesday over magazine articles the actress said cost her roles in Hollywood films.
+
 
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/entertainment/celebrities/rebel-wilson-awarded-millions-in-australia-defamation-case/2017/09/12/3da27ff8-9830-11e7-af6a-6555caaeb8dc_story.html)
+1. [BBC](http://www.bbc.com/news/world-australia-41249861)
 
 ### Related:
 
