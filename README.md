@@ -29,7 +29,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md)
 A suicide bomber blew himself up at a checkpoint near the main cricket stadium in the Afghan capital Kabul on Wednesday, killing at least three people as a tournament was under way, officials said.
 
-### [United States Homeland Security bans Kaspersky Lab products from government computers due to fears from alleged Russian intervention. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-from-alleged-russian-intervention.md)
+### [United States Homeland Security bans Kaspersky Lab products from government computers due to fears they could be coerced into sharing information with the Russian government. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-they-could-be-coerced-into-sharing-inform.md)
 American government agencies are now banned from using software created by the Russian cybersecurity firm Kaspersky Lab and will have to begin removing Kaspersky products from their systems within three months, the Department of Homeland Security announced today.
 
 ### [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md)
