@@ -12,7 +12,7 @@ _Context: Cambodia, Eritrea, Guinea, Immigration to the United States, Sierra Le
 ### [The United States Supreme Court sides (5-4) with the state of Texas and blocks a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. ](/news/2017/09/13/the-united-states-supreme-court-sides-5a4-with-the-state-of-texas-and-blocks-a-lower-court-ruling-which-would-have-required-texas-to-und.md)
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
 
-### [The Supreme Court of Israel strikes down the exemption on the conscription of Ultra Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md)
+### [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md)
 Israel&apos;s Supreme Court has ruled that religious young men studying in seminaries have no intrinsic right to be exempt from military service, a major change that threatens the governing coalition.
 
 ### [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-shkreli-was-convicted-of-fraud-in.md)
