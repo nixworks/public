@@ -9,7 +9,7 @@ American government agencies are now banned from using software created by the R
 ### [The United States stops giving out visas to high ranking officials of Cambodia, Eritrea, Guinea and Sierra Leone for failing to accept deportations. ](/news/2017/09/13/the-united-states-stops-giving-out-visas-to-high-ranking-officials-of-cambodia-eritrea-guinea-and-sierra-leone-for-failing-to-accept-depor.md)
 _Context: Cambodia, Eritrea, Guinea, Immigration to the United States, Sierra Leone, United States, visas_
 
-### [The United States Supreme Court sides (5-4) with the state of Texas and blocks a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. ](/news/2017/09/13/the-united-states-supreme-court-sides-5a4-with-the-state-of-texas-and-blocks-a-lower-court-ruling-which-would-have-required-texas-to-und.md)
+### [The United States Supreme Court confirms (5-4) a temporary stay of a lower court ruling which would have required Texas to undergo new redistricting of congressional districts with large Hispanic and African American populations. The case, "Abbott v. Perez", has no scheduled hearing date yet. ](/news/2017/09/13/the-united-states-supreme-court-confirms-5a4-a-temporary-stay-of-a-lower-court-ruling-which-would-have-required-texas-to-undergo-new-red.md)
 At issue is whether the congressional map Texas adopted in 2013 violates the Constitution and intentionally discriminates.
 
 ### [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md)
