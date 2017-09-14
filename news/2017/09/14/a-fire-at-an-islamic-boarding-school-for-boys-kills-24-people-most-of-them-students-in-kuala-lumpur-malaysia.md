@@ -1,6 +1,6 @@
 ### [2017-09-14](/news/2017/09/14/index.md)
 
-# A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia.
+# A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. 
 
 A fire at an Islamic boarding school for boys killed at least 24 people, most of them students, in the Malaysian capital of Kuala Lumpur on Thursday morning, officials said.
 
