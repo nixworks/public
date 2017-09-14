@@ -15,9 +15,6 @@ A NEW threat directed at America and Japan is certain to heighten fears of a Nor
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
 _Context: Communist, Makabayan, Philippine lower House, drug crackdown_
 
-### [In an interview with her friend Anderson Cooper, two-time Democratic candidate and one-time popular vote winner, and all around joke Hillary Clinton says that the electoral college must be eliminated. ](/news/2017/09/14/in-an-interview-with-her-friend-anderson-cooper-two-time-democratic-candidate-and-one-time-popular-vote-winner-and-all-around-joke-hillary.md)
-_Context: Anderson Cooper, Democratic, Hillary Clinton, United States presidential election, 2016, electoral college, popular vote_
-
 ### [After 13 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-13-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
 The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
 
