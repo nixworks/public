@@ -1,6 +1,6 @@
 ### [2017-09-13](/news/2017/09/13/index.md)
 
-# In an official dinner hosted by the United States President, Donald J. Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details. 
+# In an official dinner hosted by the United States President, Donald J. Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. 
 
 
 

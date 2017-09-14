@@ -28,7 +28,7 @@ _Context: 2016 Warsaw summit, Georgian, John Kerry, Kiev, Ukraine, Ukraine-Unite
 The United States has tentatively approved flights on eight U.S. airlines to Havana as early as this autumn, with American Airlines Group Inc (AAL.O) receiving the largest share of the limited routes, the Transportation Department said on Thursday.
 
 ### [The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers-in-the-country.md)
-_Context: House of Representatives, Philippine Drug War, deaths, decades-old problem_
+_Context: House of Representatives, deaths, decades-old problem, drug crackdown_
 
 ### [Germany's parliament passes a new law saying that it is rape to have sex with a person who says "No" to the sex. Under the previous law, sex was not considered rape unless the victim fought back. The new law also classifies groping as a sex crime, makes it easier to deport migrants who commit sex offences, and makes it easier to prosecute assaults committed by a large group. ](/news/2016/07/7/germany-s-parliament-passes-a-new-law-saying-that-it-is-rape-to-have-sex-with-a-person-who-says-no-to-the-sex-under-the-previous-law-sex.md)
 _Context: Rape in Germany_
@@ -55,7 +55,7 @@ Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain p
 _Context: Andrea Leadsom, Conservative Party, Conservative Party (UK) leadership election, 2016, David Cameron, Department of Energy and Climate Change, Home Secretary, Michael Gove, Parliament, Prime Minister, Secretary of State for Justice, Theresa May_
 
 ### [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md)
-_Context: Democrats, Hillary Clinton, Hillary Clinton email scandal, State Department_
+_Context: Democratic, Hillary Clinton, Hillary Clinton email scandal, State Department_
 
 ### [Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. ](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.md)
 A doomed Japanese satellite managed to capture a spectacular view of a cluster of galaxies 250 million light years away just before it died, scientists reveal.
