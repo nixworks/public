@@ -28,7 +28,7 @@ _Context: Jilin City, benzene, cover-up, government, last year's toxic chemical 
 _Context: 2005 Amman bombings, Amman, Jordan_
 
 ### [ The South Asian Association for Regional Cooperation agrees at its summit to admit Afghanistan as a member, and to accord China and Japan observer status.](/news/2005/11/13/the-south-asian-association-for-regional-cooperation-agrees-at-its-summit-to-admit-afghanistan-as-a-member-and-to-accord-china-and-japan-o.md)
-_Context: Afghanistan's, China, Japan, South Asian Association for Regional Cooperation_
+_Context: Afghanistan, China, Japan, South Asian Association for Regional Cooperation_
 
 ### [ WWE superstar Eddie Guerrero died in his hotel room in Minneapolis, Minnesota, due to heart failure at age 38.](/news/2005/11/13/wwe-superstar-eddie-guerrero-died-in-his-hotel-room-in-minneapolis-minnesota-due-to-heart-failure-at-age-38.md)
 _Context: Eddie Guerrero, Minneapolis_

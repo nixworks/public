@@ -28,7 +28,7 @@ Guardian editor Alan Rusbridger claims that the paper was made to destroy leaked
 Security forces in Egypt arrest the leader of the Muslim Brotherhood, Mohammad Badie, as the interim government continues a crackdown on Islamists.
 
 ### [United States Senator Ted Cruz of Texas announces that he wants to renounce his Canadian citizenship, fueling speculation about a presidential run in 2016. ](/news/2013/08/20/united-states-senator-ted-cruz-of-texas-announces-that-he-wants-to-renounce-his-canadian-citizenship-fueling-speculation-about-a-presidenti.md)
-_Context: 2016 U.S. presidential election, Ted Cruz, Texas, United States Senator_
+_Context: Ted Cruz, Texas, United States Senator, United States presidential election, 2016_
 
 ## [Previous Day...](/news/2013/08/19/index.md)
 

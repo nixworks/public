@@ -13,7 +13,7 @@ _Context: Liberal Democrats, Menzies Campbell, United Kingdom, leadership electi
 _Context: Eric S. Maskin, Leonid Hurwicz, Nobel Prize in Economics, Roger B. Myerson, mechanism design_
 
 ### [ Ibrahim Gambari, the United Nations special envoy to Myanmar, warns the Burmese government to stop arresting dissidents. ](/news/2007/10/15/ibrahim-gambari-the-united-nations-special-envoy-to-myanmar-warns-the-burmese-government-to-stop-arresting-dissidents.md)
-_Context: Ibrahim Gambari, Myanmar, State Peace and Development Council, United Nations_
+_Context: Burmese, Ibrahim Gambari, State Peace and Development Council, United Nations_
 
 ### [ Airbus delivers its first A380 aircraft to launch customer Singapore Airlines in a ceremony in Toulouse, France, almost 18 months behind schedule, but denies rumours that further delays to the programme are looming. ](/news/2007/10/15/airbus-delivers-its-first-a380-aircraft-to-launch-customer-singapore-airlines-in-a-ceremony-in-toulouse-france-almost-18-months-behind-sc.md)
 _Context: Airbus, Airbus A380, France, Singapore Airlines, Toulouse_

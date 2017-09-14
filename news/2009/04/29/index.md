@@ -10,7 +10,7 @@ _Context: United States_
 _Context: Government of India, India, Kashmir, Srinagar, becomes, lockdown, protest_
 
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
-_Context: Afghanistan's, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
+_Context: Afghanistan, Australia, Defence Force, War in Afghanistan (2001-present), deployment_
 
 ### [ The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md)
 Pakistani troops took the main town in strategically important Buner Valley on Wednesday after dropping by helicopter behind Taliban lines, killing more than 50 militants in two days, the military said.

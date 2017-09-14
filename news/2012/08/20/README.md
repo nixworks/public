@@ -4,7 +4,7 @@
 month mission
 
 ### [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md)
-_Context: Afghanistan's, John Key, Prime Minister, War in Afghanistan (2001-present)_
+_Context: Afghanistan, John Key, Prime Minister, War in Afghanistan (2001-present)_
 
 ### [A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. ](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-capital-of-caracas-kills-at-least-20-people.md)
 _Context: Caracas, Venezuela, riot in the Yare I prison_
@@ -40,7 +40,7 @@ _Context: Indian Patent Office, Novartis, Supreme Court of India, generic_
 _Context: Ethiopia, Meles Zenawi, Prime Minister_
 
 ### [Myanmar announces that it is ending media censorship, as part of the ongoing political reforms in the country. ](/news/2012/08/20/myanmar-announces-that-it-is-ending-media-censorship-as-part-of-the-ongoing-political-reforms-in-the-country.md)
-_Context: Myanmar, media censorship, ongoing political reforms in the country_
+_Context: Burmese, media censorship, ongoing political reforms in the country_
 
 ### [In Somalia, a new parliament is formed, with the new task of electing the country's president. ](/news/2012/08/20/in-somalia-a-new-parliament-is-formed-with-the-new-task-of-electing-the-country-s-president.md)
 _Context: President of Somalia, Somalia_

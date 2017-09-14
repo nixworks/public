@@ -8,7 +8,7 @@ _Context: India, Maharashtra_
 
 ### [At least 46 people are killed, 50 others disappear and millions are affected following heavy five-day rains in China's southern regions. ](/news/2010/06/17/at-least-46-people-are-killed-50-others-disappear-and-millions-are-affected-following-heavy-five-day-rains-in-china-s-southern-regions.md)
 ### [46 people die when heavy rains trigger landslides in western Myanmar, in Rakhine state in an area bordering Bangladesh. ](/news/2010/06/17/46-people-die-when-heavy-rains-trigger-landslides-in-western-myanmar-in-rakhine-state-in-an-area-bordering-bangladesh.md)
-_Context: Bangladesh, Myanmar, Rakhine State_
+_Context: Bangladesh, Burmese, Rakhine State_
 
 ### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
 A novel that Dutch publishers saw as having only a cult appeal has taken this year&rsquo;s International Impac Dublin Literary Award&hellip;

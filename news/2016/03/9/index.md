@@ -1,7 +1,7 @@
 ## [2016-03-9](/news/2016/03/9/index.md)
 
 ### [Taliban militants attack government offices in the southern Helmand Province of Afghanistan, with at least 10 killed, including seven of the attackers. ](/news/2016/03/9/taliban-militants-attack-government-offices-in-the-southern-helmand-province-of-afghanistan-with-at-least-10-killed-including-seven-of-the.md)
-_Context: Afghanistan's, Helmand Province, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghanistan, Helmand Province, Taliban, War in Afghanistan (2015-present)_
 
 ### [U.S. special forces, landing in two helicopters, stage an overnight raid on the al-Shabaab-controlled town of Awdhegele in Somalia's Lower Shebelle region. Al-Shabaab spokesman, Sheik Abduasiz Abu Musab, confirmed the raid saying "The helicopters landed outside town and the ground forces entered, there was heavy fighting and they were forced to flee"."They were masked and spoke foreign languages which our fighters could not understand," Abu Musab told Reuters. "We do not know who they were but we foiled them." ](/news/2016/03/9/u-s-special-forces-landing-in-two-helicopters-stage-an-overnight-raid-on-the-al-shabaab-controlled-town-of-awdhegele-in-somalia-s-lower-s.md)
 US troops accompanied Somali forces in a helicopter raid against Shebab insurgents in Somalia, a Pentagon spokesman said Wednesday. US aircraft were used in the operation against the Al-Qaeda-affiliated group, which the spokesman described as an &quot;advise, assist and accompany mission&quot; with

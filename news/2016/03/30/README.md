@@ -43,7 +43,7 @@ LARNACA, Cyprus - First the hijacker said the women could leave. All the childre
 _Context: Donald Trump, National Border Patrol Council_
 
 ### [In Myanmar's capital Naypyidaw, Htin Kyaw is sworn in by House Speaker Mahn Win Khaing Than as the first civilian president in 54 years. Htin Kyaw, a close aide to Aung San Suu Kyi, takes power from former general Thein Sein. ](/news/2016/03/30/in-myanmar-s-capital-naypyidaw-htin-kyaw-is-sworn-in-by-house-speaker-mahn-win-khaing-than-as-the-first-civilian-president-in-54-years-hti.md)
-_Context: Aung San Suu Kyi, Htin Kyaw, Mahn Win Khaing Than, Myanmar, Myanmar general election, 2015, Naypyidaw, Thein Sein_
+_Context: Aung San Suu Kyi, Burmese, Htin Kyaw, Mahn Win Khaing Than, Myanmar general election, 2015, Naypyidaw, Thein Sein_
 
 ### [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md)
 _Context: Islamabad, Mumtaz Qadri, Pakistan, Punjab, Salmaan Taseer, radical Islamists_

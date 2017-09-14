@@ -1,7 +1,7 @@
 ## [2011-07-24](/news/2011/07/24/index.md)
 
 ### [A Thai military helicopter crashes near the Myanmar border, the third in a week, with three people feared dead in the latest crash. ](/news/2011/07/24/a-thai-military-helicopter-crashes-near-the-myanmar-border-the-third-in-a-week-with-three-people-feared-dead-in-the-latest-crash.md)
-_Context: Myanmar, Thailand, helicopter, military_
+_Context: Burmese, Thailand, helicopter, military_
 
 ### [A car bomb in the Yemeni port of Aden kills at least eight Army soldiers and wounds scores. ](/news/2011/07/24/a-car-bomb-in-the-yemeni-port-of-aden-kills-at-least-eight-army-soldiers-and-wounds-scores.md)
 _Context: Aden, Yemen, Yemeni, car bomb_

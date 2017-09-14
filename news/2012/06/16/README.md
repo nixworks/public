@@ -16,7 +16,7 @@ The Myanmar activist said the prize helped her keep going in captivity.
 _Context: Gary Barlow, Kate Winslet, Kenneth Branagh, Queen's Birthday Honours_
 
 ### [Coca-Cola returns to Myanmar after 60 years, leaving North Korea and Cuba as the only two countries in the world where the company does not do business. ](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.md)
-_Context: Coca-Cola, Cuba, Myanmar, North Korea_
+_Context: Burmese, Coca-Cola, Cuba, North Korea_
 
 ### [The collapse of a stage intended for a Radiohead concert in the Canadian city of Toronto kills one person. ](/news/2012/06/16/the-collapse-of-a-stage-intended-for-a-radiohead-concert-in-the-canadian-city-of-toronto-kills-one-person.md)
 One person is killed and another seriously hurt after a stage collapses before a Radiohead show in the Canadian city of Toronto.

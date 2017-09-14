@@ -7,7 +7,7 @@ _Context: 15 October, Iraq, National Assembly of Iraq, Sunni Muslim, proposed Ir
 _Context: Curaao, Ewa Beach, Hawaii, Hawaii, Little League World Series, Willemstad_
 
 ### [ Indian Prime Minister Manmohan Singh says the country will help Afghanistan deal with terrorism and rebuilding the country. ([http://www.ndtv.com/topstories/showtopstory.asp?slug=PM+calls+for+stability+in+Afghanistan%0D&id=17629 NDTV]) ](/news/2005/08/28/indian-prime-minister-manmohan-singh-says-the-country-will-help-afghanistan-deal-with-terrorism-and-rebuilding-the-country-http-www-nd.md)
-_Context: Afghanistan's, Manmohan Singh, terrorism_
+_Context: Afghanistan, Manmohan Singh, terrorism_
 
 ### [ Omri Sharon, son of the Prime Minister of Israel, Ariel Sharon, has been formally indicted on charges of corruption following allegations concerning Ariel Sharon's bid to become leader of the Likud party in 1999. ](/news/2005/08/28/omri-sharon-son-of-the-prime-minister-of-israel-ariel-sharon-has-been-formally-indicted-on-charges-of-corruption-following-allegations-c.md)
 _Context: 1999, Ariel Sharon, Israeli Prime Minister, Likud, Omri Sharon, anti-corruption, indicted_

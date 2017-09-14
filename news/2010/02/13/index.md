@@ -1,7 +1,7 @@
 ## [2010-02-13](/news/2010/02/13/index.md)
 
 ### [U Tin Oo, the Vice-Chairman of the National League for Democracy was released today in Yangon, the largest city in Myanmar, after the expiration of his term of house arrest. ](/news/2010/02/13/u-tin-oo-the-vice-chairman-of-the-national-league-for-democracy-was-released-today-in-yangon-the-largest-city-in-myanmar-after-the-expira.md)
-_Context: Myanmar, National League for Democracy, U Tin Oo, Yangon_
+_Context: Burmese, National League for Democracy, U Tin Oo, Yangon_
 
 ### [Cyclone Rene approaches Manu'a at full force winds of 150 kilometres an hour. ](/news/2010/02/13/cyclone-rene-approaches-manu-a-at-full-force-winds-of-150-kilometres-an-hour.md)
 _Context: Cyclone Rene, Manu'a_

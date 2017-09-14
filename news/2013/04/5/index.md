@@ -28,7 +28,7 @@ Iran has failed to give &quot;a concrete response&quot; to proposals aimed at en
 _Context: Japan, Marine Corps Air Station Futenma, Okinawa, United States, United States military_
 
 ### [Eight people are killed when Buddhists and Muslims from Myanmar brawl in a detention center in Indonesia. ](/news/2013/04/5/eight-people-are-killed-when-buddhists-and-muslims-from-myanmar-brawl-in-a-detention-center-in-indonesia.md)
-_Context: Buddhists, Indonesia, Muslims, Myanmar, detention center_
+_Context: Buddhists, Burmese, Indonesia, Muslims, detention center_
 
 ### [A shooting at a daycare kills two people in Gatineau, Quebec, Canada. ](/news/2013/04/5/a-shooting-at-a-daycare-kills-two-people-in-gatineau-quebec-canada.md)
 Police in Gatineau, Que., have identified one of two men who were found dead after a shooting at a daycare on Friday morning.

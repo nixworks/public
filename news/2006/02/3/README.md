@@ -31,7 +31,7 @@ Defense Secretary Donald H. Rumsfeld likened Venezuelan President Hugo Chavez to
 _Context: (Wikinews), Egypt's, M/V al-Salam Boccaccio 98, Red Sea, Saudi Arabia_
 
 ### [ Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. ](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.md)
-_Context: Afghanistan's, Boris Dittrich, Democrats 66, International Security Assistance Force, NATO_
+_Context: Afghanistan, Boris Dittrich, Democrats 66, International Security Assistance Force, NATO_
 
 ## [Previous Day...](/news/2006/02/2/index.md)
 

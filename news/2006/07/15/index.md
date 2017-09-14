@@ -10,7 +10,7 @@ _Context: North Korea, United Nations Security Council_
 _Context: 2006 Central American and Caribbean Games, Cartagena_
 
 ### [ British troops in Afghanistan are undertaking their biggest operation since the fall of the Taliban in 2001. ](/news/2006/07/15/british-troops-in-afghanistan-are-undertaking-their-biggest-operation-since-the-fall-of-the-taliban-in-2001.md)
-_Context: 2001, Afghanistan's, Taliban, United Kingdom_
+_Context: 2001, Afghanistan, Taliban, United Kingdom_
 
 ### [ US President George W. Bush claims that the United States and Russia had almost reached agreement on Russia joining the World Trade Organisation. Bush met with Vladimir Putin prior to the G8 meeting in Strelna. ](/news/2006/07/15/us-president-george-w-bush-claims-that-the-united-states-and-russia-had-almost-reached-agreement-on-russia-joining-the-world-trade-organis.md)
 _Context: George W. Bush, Group of Eight, Russia, Strelna, United States, Vladimir Putin, World Trade Organisation_

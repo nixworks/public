@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [Halimah Yacob is appointed as the first female President of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-appointed-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _Context: Singapore_
+1. [Halimah Yacob is elected as the first female president of Singapore as the sole candidate in the upcoming elections. ](/news/2017/09/12/halimah-yacob-is-elected-as-the-first-female-president-of-singapore-as-the-sole-candidate-in-the-upcoming-elections.md) _Context: Singapore_
 2. [An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. ](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.md) _Context: Iran_
 3. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran_
 4. [The United States Navy's USS "John S. McCain" collides with the Liberian-flagged "Alnic" MC near Singapore. Rescue efforts are underway with ten sailors reported as missing. ](/news/2017/08/21/the-united-states-navy-s-uss-john-s-mccain-collides-with-the-liberian-flagged-alnic-mc-near-singapore-rescue-efforts-are-underway-with.md) _Context: Singapore_

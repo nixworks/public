@@ -28,7 +28,7 @@ A severe plague of locusts has infested about half of Madagascar, threatening cr
 Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal in 2011 for the killing of Meredith Kercher &#8211; but now face a retrial. 
 
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Afghan government's, Afghanistan's, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
+_Context: Afghan government's, Afghanistan, Arab League, Doha, Qatar, Syrian Civil War, Taliban, summit_
 
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
 _Context: Guam, Hawaii, North Korea, South Korea, US-South Korea, United States, contiguous United States, military pact_
@@ -49,7 +49,7 @@ An online petition calls for the sacking of Daily Mail columnist Richard Littlej
 _Context: Abuja car bombings, Henry Okah, Nigeria, South Africa_
 
 ### [The United States Supreme Court weighs the case of a California constitutional amendment banning same-sex unions, passed after gay marriage became legal there. ](/news/2013/03/26/the-united-states-supreme-court-weighs-the-case-of-a-california-constitutional-amendment-banning-same-sex-unions-passed-after-gay-marriage.md)
-_Context: California, California Proposition 8, U.S. Supreme Court, gay marriage, same-sex unions_
+_Context: California, California Proposition 8, United States Supreme Court, gay marriage, same-sex unions_
 
 ### [Italian foreign minister Giulio Terzi resigns from his post in protest over the return of two Italian marines to India to face charges for allegedly murdering fishermen. ](/news/2013/03/26/italian-foreign-minister-giulio-terzi-resigns-from-his-post-in-protest-over-the-return-of-two-italian-marines-to-india-to-face-charges-for-a.md)
 _Context: Giulio Terzi, India, Italian, Italian marines, face charges, fishermen, foreign minister_

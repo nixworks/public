@@ -22,7 +22,7 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 _Context: African National Congress, Congress of South African Trade Unions, Jacob Zuma, President, South Africa_
 
 ### [ Italy holds a state funeral for six soldiers killed in Afghanistan last week. ](/news/2009/09/21/italy-holds-a-state-funeral-for-six-soldiers-killed-in-afghanistan-last-week.md)
-_Context: Afghanistan's, Italy, state funeral_
+_Context: Afghanistan, Italy, state funeral_
 
 ### [ Russia's first President Boris Yeltsin spent his retirement in a "golden cage", his phone tapped and the Kremlin controlling visitors, a colleague reveals. ](/news/2009/09/21/russia-s-first-president-boris-yeltsin-spent-his-retirement-in-a-golden-cage-his-phone-tapped-and-the-kremlin-controlling-visitors-a-co.md)
 _Context: Boris Yeltsin, Russia, Russian Government, Russian President Vladimir Putin_

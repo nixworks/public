@@ -1,7 +1,7 @@
 ## [2013-10-15](/news/2013/10/15/index.md)
 
 ### [A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/a-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other-injuries.md)
-_Context: Afghanistan's, Arsala Jamal, Logar Province_
+_Context: Afghanistan, Arsala Jamal, Logar Province_
 
 ### [A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.md)
 Bomb targets crowd of Sunni worshippers coming out of a mosque in northern Iraq 

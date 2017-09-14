@@ -7,7 +7,7 @@ _Context: 1976, 2008, Burj Dubai, CN Tower, Canada, Toronto, Ontario, United Ara
 _Context: Russia, Russian Navy, Russian Northern Fleet, Vladimir Masorin, Vladimir Putin, Vladimir Vysotsky_
 
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
-_Context: Afghanistan's, Ramadan, Taliban_
+_Context: Afghanistan, Ramadan, Taliban_
 
 ### [ Bombardier Aerospace orders the grounding of at least 40 percent of its Q-400 turboprop following recent incidents in Scandinavian Airlines aircraft in Denmark and Lithuania. [http://ap.google.com/article/ALeqM5j9dgF42S_3YlUzE-B4hqLtKEdusA (Associated Press)] (Wikinews)](/news/2007/09/12/bombardier-aerospace-orders-the-grounding-of-at-least-40-percent-of-its-q-400-turboprop-following-recent-incidents-in-scandinavian-airlines.md)
 _Context: (Wikinews), Bombardier Aerospace, Dash 8 Q400, Denmark, Lithuania, Scandinavian Airlines, turboprop_

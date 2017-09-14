@@ -13,7 +13,7 @@ _Context: Bermeo, Somali pirates, Spain_
 _Context: Andorra_
 
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Afghanistan's, Badghis Province, NATO_
+_Context: Afghanistan, Badghis Province, NATO_
 
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
 _Context: Madagascar, political crisis, unity_

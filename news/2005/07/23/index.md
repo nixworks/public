@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Alvaro Uribe, Colombia, guerillas, paramilitary_
 
 ### [ In Burma/Myanmar, Khin Nyunt, former prime minister, receives a suspended sentence of 44 years in prison for corruption ](/news/2005/07/23/in-burma-myanmar-khin-nyunt-former-prime-minister-receives-a-suspended-sentence-of-44-years-in-prison-for-corruption.md)
-_Context: Burma, Khin Nyunt, Myanmar, anti-corruption_
+_Context: Burma, Burmese, Khin Nyunt, anti-corruption_
 
 ### [ 3 bombs hit the Naama Bay area of Sharm el-Sheikh, Egypt, killing 88 people. July 23, 2005 Sharm el-Sheikh attacks.](/news/2005/07/23/3-bombs-hit-the-naama-bay-area-of-sharm-el-sheikh-egypt-killing-88-people-july-23-2005-sharm-el-sheikh-attacks.md)
 _Context: July 23, 2005 Sharm el-Sheikh attacks, Sharm el-Sheikh_

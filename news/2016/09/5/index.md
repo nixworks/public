@@ -46,7 +46,7 @@ _Context: China, Scarborough Shoal, Territorial disputes in the South China Sea_
 Nathan Law Kwun-chung, a 23-year-old pro-independence candidate has just been elected to Hong Kong&#39;s legislature.
 
 ### [Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. ](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-connecticut-giving-him-ballot-access-to-48-states.md)
-_Context: 2016 U.S. presidential election, Connecticut, Gary Johnson, Libertarian_
+_Context: Connecticut, Gary Johnson, Libertarian, United States presidential election, 2016_
 
 ### [The European Space Agency's robotic lander "Philae" is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P/Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. ](/news/2016/09/5/the-european-space-agency-s-robotic-lander-philae-is-discovered-wedged-in-a-crack-between-some-rocks-in-the-shadow-of-a-cliff-on-67p-chury.md)
 _Context: ''Rosetta'' space probe, 67P/Churyumov-Gerasimenko, European Space Agency, Philae, lander_

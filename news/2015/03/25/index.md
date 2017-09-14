@@ -22,7 +22,7 @@ The German, French and Spanish leaders visit the site in the French Alps where a
 At least one person is killed and several others are injured after a tornado roared through the city of Tulsa in the US state of Oklahoma.
 
 ### [The US Army charges US Army soldier Bowe Bergdahl, who was held captive by the Taliban-aligned Haqqani network in Afghanistan from June 2009 until his release in May 2014, with desertion and misbehavior before the enemy. ](/news/2015/03/25/the-us-army-charges-us-army-soldier-bowe-bergdahl-who-was-held-captive-by-the-taliban-aligned-haqqani-network-in-afghanistan-from-june-2009.md)
-_Context: Afghanistan's, Bowe Bergdahl, Haqqani network, Taliban, U.S. soldiers_
+_Context: Afghanistan, Bowe Bergdahl, Haqqani network, Taliban, U.S. soldiers_
 
 ## [Previous Day...](/news/2015/03/24/index.md)
 

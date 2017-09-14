@@ -4,7 +4,7 @@
 Medical workers in the city of Aden in southern Yemen say two explosions there have killed at least one person and injured at eight others.
 
 ### [Two people are killed and ten injured after a NATO helicopter explodes just after landing in eastern Afghanistan. ](/news/2010/10/12/two-people-are-killed-and-ten-injured-after-a-nato-helicopter-explodes-just-after-landing-in-eastern-afghanistan.md)
-_Context: Afghanistan's, NATO_
+_Context: Afghanistan, NATO_
 
 ### [A Nigeria Police Force station in the northern city of Maiduguri is destroyed in an attack blamed on the Boko Haram Islamist group. ](/news/2010/10/12/a-nigeria-police-force-station-in-the-northern-city-of-maiduguri-is-destroyed-in-an-attack-blamed-on-the-boko-haram-islamist-group.md)
 A police station in the northern Nigerian city of Maiduguri is destroyed and three officers injured in an attack blamed on the Boko Haram Islamic sect.

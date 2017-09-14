@@ -40,7 +40,7 @@ A ripped condom given to Swedish police by one of Julian Assange’s accusers do
 _Context: Japan, United States_
 
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
+_Context: Aung San Suu Kyi, Burmese, Nobel Laureate, United States_
 
 ### [French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. ](/news/2012/09/17/french-police-announce-that-they-are-exploring-the-possibility-that-sylvain-mollier-and-not-the-al-hilli-family-may-have-been-the-intended.md)
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.

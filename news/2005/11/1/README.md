@@ -31,7 +31,7 @@ _Context: 2005 Paris riots, France, Muslim, Nicolas Sarkozy, electric shock, min
 _Context: Makybe Diva, Melbourne Cup, thoroughbred racing_
 
 ### [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md)
-_Context: Afghanistan's, Bagram, July, Omar al-Faruq, United States_
+_Context: Afghanistan, Bagram, July, Omar al-Faruq, United States_
 
 ## [Previous Day...](/news/2005/10/31/index.md)
 

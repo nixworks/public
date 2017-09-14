@@ -10,7 +10,7 @@ _Context: Algoma Steel, Essar Group, India, Minnesota Steel, U.S., USD_
 _Context: IAEA, Iran, Natanz, centrifuge, diplomat, uranium_
 
 ### [ The Supreme Court of the United States rules 5-4 in favor of upholding the Partial-Birth Abortion Ban Act in the case of "Gonzales v. Carhart". ](/news/2007/04/18/the-supreme-court-of-the-united-states-rules-5-4-in-favor-of-upholding-the-partial-birth-abortion-ban-act-in-the-case-of-gonzales-v-carha.md)
-_Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, U.S. Supreme Court_
+_Context: Gonzales v. Carhart, Partial-Birth Abortion Ban Act, United States Supreme Court_
 
 ### [ Virginia Tech police respond to what turned out to be an unfounded threat near Norris Hall, where 31 people died Monday in the United States's deadliest ever shooting spree. ](/news/2007/04/18/virginia-tech-police-respond-to-what-turned-out-to-be-an-unfounded-threat-near-norris-hall-where-31-people-died-monday-in-the-united-state.md)
 _Context: United States, Virginia Tech, shooting spree_

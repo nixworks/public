@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ Four ex-Symbionese Liberation Army members were sentenced to prison for the 1975 murder of Myrna Opsahl during a bank robbery in Carmichael, California.](/news/2003/02/14/four-ex-symbionese-liberation-army-members-were-sentenced-to-prison-for-the-1975-murder-of-myrna-opsahl-during-a-bank-robbery-in-carmichael.md) _Context: Symbionese Liberation Army_

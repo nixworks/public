@@ -1,7 +1,7 @@
 ## [2006-04-20](/news/2006/04/20/index.md)
 
 ### [ The President of Singapore, Sellapan Ramanathan, "on the advice of the prime minister (Lee Hsien Loong), has dissolved parliament" to prepare for the 2006 general election, to be held on May 6. ](/news/2006/04/20/the-president-of-singapore-sellapan-ramanathan-on-the-advice-of-the-prime-minister-lee-hsien-loong-has-dissolved-parliament-to-prepa.md)
-_Context: 2006 general election, Lee Hsien Loong, Parliament of Singapore, President, Prime Minister of Singapore, Sellapan Ramanathan_
+_Context: 2006 general election, Lee Hsien Loong, Parliament of Singapore, Prime Minister of Singapore, Sellapan Ramanathan, president_
 
 ### [ Following reports of the UK government's hostility to a takeover of Centrica, Russian gas giant Gazprom warns of Europe-wide supply disruption ](/news/2006/04/20/following-reports-of-the-uk-government-s-hostility-to-a-takeover-of-centrica-russian-gas-giant-gazprom-warns-of-europe-wide-supply-disrupt.md)
 _Context: Centrica, Gazprom_

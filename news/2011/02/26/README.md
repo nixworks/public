@@ -22,7 +22,7 @@ _Context: 2011 Iraqi protests, arrested, intellectuals, journalists_
 _Context: South Korea_
 
 ### [A Brazilian judge blocks construction of the Belo Monte Dam on the Amazon Basin after it fails to meet environmental requirements. ](/news/2011/02/26/a-brazilian-judge-blocks-construction-of-the-belo-monte-dam-on-the-amazon-basin-after-it-fails-to-meet-environmental-requirements.md)
-_Context: Amazon basin, Belo Monte Dam, Brazil_
+_Context: Amazon, Belo Monte Dam, Brazil_
 
 ### [A Mexican judge authorises 40 days of detention for an alleged member of the Zetas drug cartel suspected in the killing of a U.S. Immigration and Customs Enforcement agent. ](/news/2011/02/26/a-mexican-judge-authorises-40-days-of-detention-for-an-alleged-member-of-the-zetas-drug-cartel-suspected-in-the-killing-of-a-u-s-immigratio.md)
 _Context: Mexico, U.S. Immigration and Customs Enforcement, Zetas drug cartel_

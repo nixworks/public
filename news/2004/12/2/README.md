@@ -16,7 +16,7 @@ _Context: Bosnia and Herzegovina, EU, EUFOR, NATO, SFOR, peacekeepers_
 _Context: Inter-American Court of Human Rights, Lori Berenson, terrorism_
 
 ### [ A spokesman for George W. Bush requests that Myanmar release dissident opposition leader Aung San Suu Kyi, whose house arrest was recently extended. ](/news/2004/12/2/a-spokesman-for-george-w-bush-requests-that-myanmar-release-dissident-opposition-leader-aung-san-suu-kyi-whose-house-arrest-was-recently.md)
-_Context: Aung San Suu Kyi, George W. Bush, Myanmar, house arrest, parliamentary opposition_
+_Context: Aung San Suu Kyi, Burmese, George W. Bush, house arrest, parliamentary opposition_
 
 ### [ The life sentence of Mijailo Mijailovic, killer of Swedish minister Anna Lindh, is confirmed by the Swedish Supreme Court. ](/news/2004/12/2/the-life-sentence-of-mijailo-mijailovia-killer-of-swedish-minister-anna-lindh-is-confirmed-by-the-swedish-supreme-court.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

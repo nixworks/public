@@ -22,7 +22,7 @@ _Context: 2007 Karachi bombings, Karachi, photograph, suicide bomber_
 _Context: Dumbledore, Harry Potter, J. K. Rowling, gay_
 
 ### [ Myanmar's State Peace and Development Council lifts the curfew it imposed in Yangon and Mandalay on September 26. ](/news/2007/10/20/myanmar-s-state-peace-and-development-council-lifts-the-curfew-it-imposed-in-yangon-and-mandalay-on-september-26.md)
-_Context: Mandalay, Myanmar, September 26, State Peace and Development Council, Yangon, curfew_
+_Context: Burmese, Mandalay, September 26, State Peace and Development Council, Yangon, curfew_
 
 ### [ French trains resume service after a two-day strike against President Nicolas Sarkozy's proposed welfare reform. ](/news/2007/10/20/french-trains-resume-service-after-a-two-day-strike-against-president-nicolas-sarkozy-s-proposed-welfare-reform.md)
 _Context: France, France's national railway company, Nicolas Sarkozy, President of France, strike, welfare reform_

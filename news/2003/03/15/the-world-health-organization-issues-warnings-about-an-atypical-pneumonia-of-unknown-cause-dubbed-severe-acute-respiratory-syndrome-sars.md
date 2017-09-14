@@ -1,0 +1,19 @@
+### [2003-03-15](/news/2003/03/15/index.md)
+
+#  The World Health Organization issues warnings about an atypical pneumonia of unknown cause, dubbed severe acute respiratory syndrome (SARS). It was first found in Asia and appears to have originated in Hong Kong. There are fears that unless measures are taken to control SARS, it may become epidemic.
+
+
+
+
+### Related:
+
+1. [ SARS: The World Health Organization recommended that passengers flying from places where SARS outbreaks have occurred should be screened before being allowed on flights. These places included China, Hong Kong, Singapore, Vietnam, and the city of Toronto.](/news/2003/03/27/sars-the-world-health-organization-recommended-that-passengers-flying-from-places-where-sars-outbreaks-have-occurred-should-be-screened-be.md) _Context: Hong Kong, SARS, World Health Organization_
+2. [Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman-and-says-it-will-report-the-ca.md) _Context: Hong Kong, World Health Organization_
+3. [ Dr. Margaret Chan, former director of Hong Kong Health Department, represented China to win the nomination to the Director-General of the World Health Organization. ](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.md) _Context: Hong Kong, World Health Organization_
+4. [ SARS: The Hong Kong government imposes a quarantine on a group of over 1000 people, and closes schools for nine days in an attempt to stop the spread of SARS.](/news/2003/03/28/sars-the-hong-kong-government-imposes-a-quarantine-on-a-group-of-over-1000-people-and-closes-schools-for-nine-days-in-an-attempt-to-stop.md) _Context: Hong Kong, SARS_
+5. [Tropical Storm Pakhar hits Hong Kong and Macau with sustained winds of 100 km/h and heavy rain, four days after deadly Typhoon Hato passed through the area. ](/news/2017/08/27/tropical-storm-pakhar-hits-hong-kong-and-macau-with-sustained-winds-of-100-km-h-and-heavy-rain-four-days-after-deadly-typhoon-hato-passed-t.md) _Context: Hong Kong_
+6. [According to the World Health Organization, antibiotic resistance is on the rise in strains of gonorrhoea. It says that there is a need to prevent the spread of these bacteria, recommending usage of condoms and an increase in research and development funding. ](/news/2017/07/7/according-to-the-world-health-organization-antibiotic-resistance-is-on-the-rise-in-strains-of-gonorrhoea-it-says-that-there-is-a-need-to-p.md) _Context: World Health Organization_
+7. [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md) _Context: Hong Kong_
+8. [Four lawmakers are removed from the Hong Kong legislature. ](/news/2017/07/14/four-lawmakers-are-removed-from-the-hong-kong-legislature.md) _Context: Hong Kong_
+9. [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md) _Context: Hong Kong_
+10. [Protests mark the 20th anniversary of the transfer of sovereignty over Hong Kong to China from the United Kingdom alongside the arrival of Chinese President Xi Jinping. ](/news/2017/06/29/protests-mark-the-20th-anniversary-of-the-transfer-of-sovereignty-over-hong-kong-to-china-from-the-united-kingdom-alongside-the-arrival-of-c.md) _Context: Hong Kong_

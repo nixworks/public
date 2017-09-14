@@ -11,7 +11,7 @@ Vietnam hosts leaders including US secretary of state for crucial talks amid dip
 
 ### Related:
 
-1. [Hillary Clinton releases the book "What Happened", a memoir about her failed presidential campaign. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-failed-presidential-campaign.md) _Context: Hillary Clinton_
+1. [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md) _Context: Hillary Clinton_
 2. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
 3. [Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. ](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-and-rob-goldstone-discuss-gathering-opposition-research-against-hillary-clinton-through-a-june.md) _Context: Hillary Clinton_
 4. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_

@@ -4,7 +4,7 @@
 _Context: Ehud Olmert, Hezbollah, Israel, Israeli Prime Minister_
 
 ### [ A suicide bomber blows himself up next to a police patrol in Oruzgan Province of Afghanistan killing at least 18 people. ](/news/2008/07/13/a-suicide-bomber-blows-himself-up-next-to-a-police-patrol-in-ora-zgan-province-of-afghanistan-killing-at-least-18-people.md)
-_Context: Afghanistan's, Oruzgan Province, suicide bomber_
+_Context: Afghanistan, Oruzgan Province, suicide bomber_
 
 ### [ Pope Benedict XVI arrives in Sydney, Australia for World Youth Day 2008 celebrations. ](/news/2008/07/13/pope-benedict-xvi-arrives-in-sydney-australia-for-world-youth-day-2008-celebrations.md)
 _Context: Pope Benedict XVI, Sydney, World Youth Day 2008_

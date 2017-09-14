@@ -1,0 +1,19 @@
+### [2003-03-9](/news/2003/03/9/index.md)
+
+#  Albania says it will send troops to join any war against Iraq, largely a symbolic measure thanking the United States and NATO for intervening in Kosovo in the 1999 Kosovo War.
+
+
+
+
+### Related:
+
+1. [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md) _Context: Kosovo War, NATO_
+2. [NATO intervenes in the border clashes between Kosovo and Serbia. ](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.md) _Context: Kosovo, NATO_
+3. [Former British soldier turned singer-songwriter James Blunt claims that he stopped what he believed would be World War III by disobeying a direct order for his troops to attack Russian soldiers given by American General Wesley Clark while he was in Kosovo with NATO in 1999. ](/news/2010/11/14/former-british-soldier-turned-singer-songwriter-james-blunt-claims-that-he-stopped-what-he-believed-would-be-world-war-iii-by-disobeying-a-d.md) _Context: Kosovo, NATO_
+4. [ Albania and Croatia join the North Atlantic Treaty Organization. ](/news/2009/04/1/albania-and-croatia-join-the-north-atlantic-treaty-organization.md) _Context: Albania, NATO_
+5. [ At its summit in Bucharest, NATO invites Albania and Croatia to join the alliance. ](/news/2008/04/3/at-its-summit-in-bucharest-nato-invites-albania-and-croatia-to-join-the-alliance.md) _Context: Albania, NATO_
+6. [ Republic of Macedonia, Albania and Serbian autonomous province of Kosovo are experiencing blackouts as a result of the 2007 European heatwave that spreads over the Balkans. It also causes bushfires everywhere in the region between Croatia, Hungary, Serbia and Greece. ](/news/2007/07/24/republic-of-macedonia-albania-and-serbian-autonomous-province-of-kosovo-are-experiencing-blackouts-as-a-result-of-the-2007-european-heatwa.md) _Context: Albania, Kosovo_
+7. [ Albania, Bulgaria, Bosnia and Herzegovina, Croatia, Moldova, Montenegro, Romania, Serbia, Republic of Macedonia, and Kosovo sign the Central European Free Trade Agreement extending the free trade zone to southeastern Europe. ](/news/2006/12/20/albania-bulgaria-bosnia-and-herzegovina-croatia-moldova-montenegro-romania-serbia-republic-of-macedonia-and-kosovo-sign-the-centra.md) _Context: Albania, Kosovo_
+8. [ France and Belgium broke the NATO procedure of silent approval concerning the timing of protective measures for Turkey in case of a possible war with Iraq. Germany said it supports this veto. The procedure was put into operation on February 6 by secretary general George Robertson. In response Turkey called upon Article 4 of the NATO Treaty, which stipulates that member states must deliberate when asked to do so by another member state if it feels threatened.](/news/2003/02/10/france-and-belgium-broke-the-nato-procedure-of-silent-approval-concerning-the-timing-of-protective-measures-for-turkey-in-case-of-a-possibl.md) _Context: Iraq, NATO_
+9. [ Kosovo War: Federal Republic of Yugoslavia and NATO sign a peace treaty.](/news/1999/06/9/kosovo-war-federal-republic-of-yugoslavia-and-nato-sign-a-peace-treaty.md) _Context: Kosovo War, NATO_
+10. [ Kosovo War: Operation Joint Guardian begins - NATO-led United Nations peacekeeping force KFOR enter the province of Kosovo in Federal Republic of Yugoslavia.](/news/1999/06/12/kosovo-war-operation-joint-guardian-begins-nato-led-united-nations-peacekeeping-force-kfor-enter-the-province-of-kosovo-in-federal-repub.md) _Context: Kosovo, NATO_

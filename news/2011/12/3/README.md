@@ -10,7 +10,7 @@ Bollywood screen legend Dev Anand dies in London of a heart attack at the age of
 _Context: Bahia, Milagro_
 
 ### [At least eight children have died in the past few weeks in Ecuador's Amazon basin after being bitten by rabid bats. ](/news/2011/12/3/at-least-eight-children-have-died-in-the-past-few-weeks-in-ecuador-s-amazon-basin-after-being-bitten-by-rabid-bats.md)
-_Context: Amazon basin, Ecuador, rabid_
+_Context: Amazon, Ecuador, rabid_
 
 ### [Students protesting against the Irish financial crisis occupy the office of Fine Gael lawmaker Anthony Lawlor ahead of the forthcoming Budget Day. ](/news/2011/12/3/students-protesting-against-the-irish-financial-crisis-occupy-the-office-of-fine-gael-lawmaker-anthony-lawlor-ahead-of-the-forthcoming-budge.md)
 The students refused to allow Anthony Lawlor into his own constituency office in Naas as they demand that grants and fees for third-level are left untouched in the budget. 

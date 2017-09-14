@@ -13,7 +13,7 @@ _Context: Conficker, Microsoft Windows, PC, computer worm_
 _Context: Lithuania, anti-government, demonstration, parliament, police, protest_
 
 ### [ Trooper Mark Donaldson of the Australian Special Air Service Regiment is awarded the Victoria Cross for gallantry during the War in Afghanistan. ](/news/2009/01/16/trooper-mark-donaldson-of-the-australian-special-air-service-regiment-is-awarded-the-victoria-cross-for-gallantry-during-the-war-in-afghani.md)
-_Context: Afghanistan's, Australia, Australian Special Air Service Regiment, Mark Donaldson, Trooper, Victoria Cross, War in Afghanistan (2001-present), gallantry_
+_Context: Afghanistan, Australia, Australian Special Air Service Regiment, Mark Donaldson, Trooper, Victoria Cross, War in Afghanistan (2001-present), gallantry_
 
 ### [ Palestinian medical sources report 1,010 people have died and 4,700 have been wounded during the conflict with Israel. ](/news/2009/01/16/palestinian-medical-sources-report-1-010-people-have-died-and-4-700-have-been-wounded-during-the-conflict-with-israel.md)
 _Context: Israel, Palestinian National Authority, fire_

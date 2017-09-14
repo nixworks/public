@@ -22,7 +22,7 @@ _Context: Johannesburg, South Africa_
 _Context: Chile, Pan American Highway, Santiago, flood_
 
 ### [ Cyclone Nargis: The authorities in Myanmar allow foreign help into the country following initial resistance. ](/news/2008/05/24/cyclone-nargis-the-authorities-in-myanmar-allow-foreign-help-into-the-country-following-initial-resistance.md)
-_Context: Cyclone Nargis, Myanmar_
+_Context: Burmese, Cyclone Nargis_
 
 ### [ Wen Jiabao, the Premier of China, estimates that the eventual death toll from the 2008 Sichuan earthquake could rise as high as "80,000 or more". ](/news/2008/05/24/wen-jiabao-the-premier-of-china-estimates-that-the-eventual-death-toll-from-the-2008-sichuan-earthquake-could-rise-as-high-as-80-000-or.md)
 The death toll from the earthquake in central China could rise as high as 80,000 &quot;or more,&quot; Premier Wen Jiabao said Saturday.

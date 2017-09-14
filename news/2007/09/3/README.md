@@ -34,7 +34,7 @@ _Context: George W. Bush, Iraq, Iraq War, Military of the United States, Preside
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ Myanmar's National Convention finally completes 14 years of talks on a new constitution in a military base north of Yangon. ](/news/2007/09/3/myanmar-s-national-convention-finally-completes-14-years-of-talks-on-a-new-constitution-in-a-military-base-north-of-yangon.md)
-_Context: Myanmar, Yangon, constitution_
+_Context: Burmese, Yangon, constitution_
 
 ### [ Two groups from the Terai region of Nepal - the Terai Army and the Nepal People's Army - claim responsibility for bombs that killed two people and injured 30 in Kathmandu yesterday. ](/news/2007/09/3/two-groups-from-the-terai-region-of-nepal-a-the-terai-army-and-the-nepal-people-s-army-a-claim-responsibility-for-bombs-that-killed-two.md)
 Two ethnic groups from Nepal&#039;s restive southern Terai region have claimed responsibility for bombs that killed two people and injured about 30 in the country&#039;s capital at the weekend.

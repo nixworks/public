@@ -7,7 +7,7 @@ _Context: Arvada, Colorado, United States, shooting at a youth training center_
 _Context: Colorado, Colorado Springs, Colorado, United States, shooting at a church_
 
 ### [ Taliban fighters in Afghanistan have pulled back to take up new positions defending the town of Musa Qala during a battle with the Afghan National Army and the International Security Assistance Force. ](/news/2007/12/9/taliban-fighters-in-afghanistan-have-pulled-back-to-take-up-new-positions-defending-the-town-of-musa-qala-during-a-battle-with-the-afghan-n.md)
-_Context: Afghan National Army, Afghanistan's, International Security Assistance Force, Musa Qala, Taliban, battle_
+_Context: Afghan National Army, Afghanistan, International Security Assistance Force, Musa Qala, Taliban, battle_
 
 ### [ Robert Pickton is found guilty of second-degree murder of six women from Vancouver's Downtown Eastside. ](/news/2007/12/9/robert-pickton-is-found-guilty-of-second-degree-murder-of-six-women-from-vancouver-s-downtown-eastside.md)
 _Context: Downtown Eastside, Robert Pickton, Vancouver, murder_

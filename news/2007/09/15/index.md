@@ -4,7 +4,7 @@
 Thousands of people were evacuated as out-of-control wildfires tore through thousands of acres in Southern California on Saturday.
 
 ### [ The "Washington Post" reports that the NATO-led Coalition Force in Afghanistan intercepted a shipment of Iranian arms intended for the Taliban. ](/news/2007/09/15/the-washington-post-reports-that-the-nato-led-coalition-force-in-afghanistan-intercepted-a-shipment-of-iranian-arms-intended-for-the-tali.md)
-_Context: Afghanistan's, Iran, NATO, Taliban, Washington Post_
+_Context: Afghanistan, Iran, NATO, Taliban, Washington Post_
 
 ### [ A bus crash in the western Mexican state of Nayarit kills at least 18 and injures 13. Many of the passengers were from a flight from Phoenix, Arizona, USA, to Guadalajara, Jalisco, that was forced to divert to Puerto Vallarta. ](/news/2007/09/15/a-bus-crash-in-the-western-mexican-state-of-nayarit-kills-at-least-18-and-injures-13-many-of-the-passengers-were-from-a-flight-from-phoeni.md)
 _Context: Guadalajara, Jalisco, Mexican state, Mexico, Nayarit, Phoenix, Arizona, Puerto Vallarta, USA_

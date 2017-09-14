@@ -37,7 +37,7 @@ _Context: Association of Southeast Asian Nations, Cambodia, Laos, South China Se
 California Gov. Jerry Brown denied parole Friday for Leslie Van Houten, the youngest follower of murderous cult leader Charles Manson who is serving a life sentence for killing a wealthy grocer and his wife more than 40 years ago.
 
 ### [Indian External Affairs Minister Sushma Swaraj announces Indian charity worker Judith D'Souza (Aga Khan Foundation), who was kidnapped in Kabul, Afghanistan, on June 9, 2016, is free. ](/news/2016/07/23/indian-external-affairs-minister-sushma-swaraj-announces-indian-charity-worker-judith-d-souza-aga-khan-foundation-who-was-kidnapped-in-ka.md)
-_Context: Afghanistan's, Aga Khan Foundation, Indian External Affairs Minister, Kabul, Sushma Swaraj_
+_Context: Afghanistan, Aga Khan Foundation, Indian External Affairs Minister, Kabul, Sushma Swaraj_
 
 ### [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md)
 The emails detail how bitter the relationship became, Bernie Sanders emerged as a real threat Hillary Clinton.

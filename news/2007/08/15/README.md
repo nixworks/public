@@ -79,7 +79,7 @@ _Context: 2007 Qahtaniya bombings_
 Six people were found fatally shot in the town of Duisburg in western Germany, police said Wednesday.
 
 ### [ The Myanmar government doubles the price of petrol and increases the cost of compressed natural gas fivefold leaving some commuters stranded. ](/news/2007/08/15/the-myanmar-government-doubles-the-price-of-petrol-and-increases-the-cost-of-compressed-natural-gas-fivefold-leaving-some-commuters-strande.md)
-_Context: Myanmar, compressed natural gas, petrol_
+_Context: Burmese, compressed natural gas, petrol_
 
 ### [ The Secretary-General of the United Nations Ban Ki-moon orders a full evaluation of the needs of North Korea after severe floods hit the country. Up to 300,000 people may have been left homeless. ](/news/2007/08/15/the-secretary-general-of-the-united-nations-ban-ki-moon-orders-a-full-evaluation-of-the-needs-of-north-korea-after-severe-floods-hit-the-co.md)
 North Korean authorities have indicated flooding may have left up to 300,000 people homeless, a U.N. aid agency spokesman said on Wednesday, while the communist state warned of a poor harvest this year due to the heavy rain.

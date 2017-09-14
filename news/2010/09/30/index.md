@@ -4,7 +4,7 @@
 _Context: Kurram, NATO, Pakistani Armed Forces, Rehman Malik_
 
 ### [An explosion rocks Taliban birthplace Kandahar in southern Afghanistan on Thursday, wounding eight people. ](/news/2010/09/30/an-explosion-rocks-taliban-birthplace-kandahar-in-southern-afghanistan-on-thursday-wounding-eight-people.md)
-_Context: Afghanistan's, Kandahar_
+_Context: Afghanistan, Kandahar_
 
 ### [Two policemen and a civilian are killed and four others wounded in a failed bank robbery in southern Baghdad. ](/news/2010/09/30/two-policemen-and-a-civilian-are-killed-and-four-others-wounded-in-a-failed-bank-robbery-in-southern-baghdad.md)
 _Context: Baghdad_
@@ -13,7 +13,7 @@ _Context: Baghdad_
 A state of emergency is declared in Ecuador after President Rafael Correa accuses the opposition and the security forces of a &quot;coup attempt&quot;.
 
 ### [A convoy of at least 27 fuel tankers headed for NATO forces in Afghanistan is attacked in Pakistan's Sindh province. ](/news/2010/09/30/a-convoy-of-at-least-27-fuel-tankers-headed-for-nato-forces-in-afghanistan-is-attacked-in-pakistan-s-sindh-province.md)
-_Context: Afghanistan's, NATO, Pakistan, Sindh province, convoy, fuel tanker_
+_Context: Afghanistan, NATO, Pakistan, Sindh province, convoy, fuel tanker_
 
 ### [US actor Tony Curtis, who appeared in more than 100 films including "Some Like It Hot" and "The Defiant Ones", dies in Henderson, Nevada. ](/news/2010/09/30/us-actor-tony-curtis-who-appeared-in-more-than-100-films-including-some-like-it-hot-and-the-defiant-ones-dies-in-henderson-nevada.md)
 _Context: Henderson, Nevada, Some Like It Hot, The Defiant Ones, Tony Curtis, United States_

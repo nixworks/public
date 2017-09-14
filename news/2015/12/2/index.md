@@ -46,7 +46,7 @@ _Context: Italy, Kosovo, November 2015 Paris Attacks, Pope Francis_
 Yemeni Prime Minister Khaled Bahah rejected a cabinet reshuffle ordered on Tuesday by President Abd-Rabbu Mansour Hadi, a senior government official said, another sign of the deepening rift between the two leaders.
 
 ### [Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for-democracy-nld-party-with-presi.md)
-_Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, Myanmar's president's office, National League for Democracy, Thein Sein_
+_Context: Aung San Suu Kyi, Burmese, Myanmar general election, 2015, Myanmar's president's office, National League for Democracy, Thein Sein_
 
 ### [Brazil's lower house of Congress opens impeachment proceedings against President Dilma Rousseff over a corruption scandal involving the state-owned oil giant, Petrobras. ](/news/2015/12/2/brazil-s-lower-house-of-congress-opens-impeachment-proceedings-against-president-dilma-rousseff-over-a-corruption-scandal-involving-the-stat.md)
 _Context: 2015 protests in Brazil, Brazil, Brazil's Chamber of Deputies, Dilma Rousseff, Petrobras, President_

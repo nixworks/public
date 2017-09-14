@@ -34,7 +34,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Foreign Minister of Burma/Myanmar Nyan Win visits Bangladesh to discuss with Shamsher M Chowdhury about a direct road link between the countries and repatriation of Burmese refugees ](/news/2005/02/24/foreign-minister-of-burma-myanmar-nyan-win-visits-bangladesh-to-discuss-with-shamsher-m-chowdhury-about-a-direct-road-link-between-the-coun.md)
-_Context: Bangladesh, Burma, Myanmar, Nyan Win, Shamsher M Chowdhury, refugee_
+_Context: Bangladesh, Burma, Burmese, Nyan Win, Shamsher M Chowdhury, refugee_
 
 ### [ Ebert Anibal Rivera, alleged head of a Mara Salvatrucha gang that killed 28 bus passengers in Honduras last December 23, is arrested in Texas. Honduras intends to request extradition if Texas authorities do not file charges. ](/news/2005/02/24/ebert-anibal-rivera-alleged-head-of-a-mara-salvatrucha-gang-that-killed-28-bus-passengers-in-honduras-last-december-23-is-arrested-in-tex.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.

@@ -25,7 +25,7 @@ A news agency tweet, that turned out to be fake about explosions at the White Ho
 A millionaire businessman who sold fake bomb detectors to countries including Iraq and Georgia, knowing they did not work, is convicted of fraud.
 
 ### [President of Myanmar Thein Sein grants amnesty to 93 prisoners. Some prisoners are reported as prisoners of conscience and political prisoners. ](/news/2013/04/23/president-of-myanmar-thein-sein-grants-amnesty-to-93-prisoners-some-prisoners-are-reported-as-prisoners-of-conscience-and-political-prisone.md)
-_Context: Myanmar, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
+_Context: Burmese, Myanmar's president's office, Thein Sein, political prisoners, prisoner of conscience_
 
 ### [2013 ricin letters: All charges against a suspect of sending letters containing ricin to US President Barack Obama are dropped due to lack of evidence. ](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.md)
 _Context: 2013 ricin letters, Barack Obama, US President, ricin_

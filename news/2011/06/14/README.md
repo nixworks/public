@@ -46,7 +46,7 @@ U.S. citizens should &quot;exercise extreme caution&quot; when traveling to the 
 A former juror who admitted contacting a defendant on Facebook, in the first contempt of court case of its kind to be heard in the UK, is facing jail.
 
 ### [Another land campaigner is shot dead in Brazil's Amazon basin with five activists shot dead in the past month. ](/news/2011/06/14/another-land-campaigner-is-shot-dead-in-brazil-s-amazon-basin-with-five-activists-shot-dead-in-the-past-month.md)
-_Context: Amazon basin_
+_Context: Amazon_
 
 ### [British Prime Minister David Cameron has announced major changes to plans for reforms of the NHS in England saying that the government has made mistakes, but he insists it has not made "a humiliating U-turn". ](/news/2011/06/14/british-prime-minister-david-cameron-has-announced-major-changes-to-plans-for-reforms-of-the-nhs-in-england-saying-that-the-government-has-m.md)
 David Cameron agrees to major changes to plans for the NHS in England, but insists the government has not made &quot;a humiliating U-turn&quot;.

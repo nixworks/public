@@ -22,7 +22,7 @@ _Context: Gaza Strip_
 A suspected U.S. drone strike killed at least two Islamist al Shabaab insurgents driving in a car south of the Somali capital Mogadishu, residents said on Monday.
 
 ### [Australia declares its war in Afghanistan over while the Prime Minister, Tony Abbott, visits Afghanistan. ](/news/2013/10/28/australia-declares-its-war-in-afghanistan-over-while-the-prime-minister-tony-abbott-visits-afghanistan.md)
-_Context: Afghanistan's, Australia, Australian Prime Minister, Tony Abbott_
+_Context: Afghanistan, Australia, Australian Prime Minister, Tony Abbott_
 
 ### [Copper fabricator Southwire Co. drops its lawsuit against two giant Wall Street firms over a possible copper exchange-traded fund, as market and regulatory conditions make such an ETF seem decreasingly likely. ](/news/2013/10/28/copper-fabricator-southwire-co-drops-its-lawsuit-against-two-giant-wall-street-firms-over-a-possible-copper-exchange-traded-fund-as-market.md)
 U.S. copper fabricator Southwire Co dropped its legal fight against physical copper funds planned by Wall Street banks, as political and regulatory scrutiny make it unlikely the exchange-traded funds will ever be launched, according to a court filing on Monday.

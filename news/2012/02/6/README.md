@@ -28,7 +28,7 @@ Government will consider introducing temporary regulations before Transport Cana
 The Queen visits a school in Norfolk and there are gun salutes around the UK as she marks the 60th anniversary of her accession to the throne.
 
 ### [Myanmar's Election Commission clears National League for Democracy leader Aung San Suu Kyi to run in a by-election in the seat of Kawhmu. ](/news/2012/02/6/myanmar-s-election-commission-clears-national-league-for-democracy-leader-aung-san-suu-kyi-to-run-in-a-by-election-in-the-seat-of-kawhmu.md)
-_Context: Aung San Suu Kyi, Kawhmu, Myanmar, National League for Democracy, by-elections earlier this month_
+_Context: Aung San Suu Kyi, Burmese, Kawhmu, National League for Democracy, by-elections earlier this month_
 
 ### [Romanian Prime Minister Emil Boc and his entire cabinet resign after major social and political unrest in the country. ](/news/2012/02/6/romanian-prime-minister-emil-boc-and-his-entire-cabinet-resign-after-major-social-and-political-unrest-in-the-country.md)
 _Context: Emil Boc, Prime Minister, Romania, major social and political unrest_

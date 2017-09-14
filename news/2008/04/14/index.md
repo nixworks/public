@@ -19,7 +19,7 @@ _Context: EU, Nabucco natural gas pipeline, Russia, Turkmenistan, natural gas_
 _Context: Bangladesh, Calcutta, Dhaka, India, train_
 
 ### [ Taliban insurgents attack a checkpoint in southern Afghanistan killing 11 police officers. ](/news/2008/04/14/taliban-insurgents-attack-a-checkpoint-in-southern-afghanistan-killing-11-police-officers.md)
-_Context: Afghanistan's, Taliban_
+_Context: Afghanistan, Taliban_
 
 ### [ The World Bank announces a package of emergency measures to tackle the dramatic rise in basic food prices which has led to civil unrest throughout much of the developing world. ](/news/2008/04/14/the-world-bank-announces-a-package-of-emergency-measures-to-tackle-the-dramatic-rise-in-basic-food-prices-which-has-led-to-civil-unrest-thr.md)
 _Context: 2007-2008 world food price crisis, World Bank, developing world_

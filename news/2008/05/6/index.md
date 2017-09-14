@@ -10,7 +10,7 @@ Bertie Ahern has formally tendered his resignation as Taoiseach to President Mar
 Angry Mogadishu residents protested for a second day on Tuesday against food traders who rejected old currency notes, blocking roads and stoning cars.
 
 ### [ Myanmar state government reports that the death toll from the cyclone has reached 22,000, with 41,000 people missing. ](/news/2008/05/6/myanmar-state-government-reports-that-the-death-toll-from-the-cyclone-has-reached-22-000-with-41-000-people-missing.md)
-_Context: Cyclone Nargis, Myanmar, cyclone_
+_Context: Burmese, Cyclone Nargis, cyclone_
 
 ### [ Chinese President Hu Jintao begins a landmark five-day state visit to Japan. ](/news/2008/05/6/chinese-president-hu-jintao-begins-a-landmark-five-day-state-visit-to-japan.md)
 _Context: China, Chinese President, Hu Jintao, Japan, state visit_

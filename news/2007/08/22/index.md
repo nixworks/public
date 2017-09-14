@@ -25,7 +25,7 @@ _Context: Bannu, Khyber Pakhtunkhwa, Pakistan, Taliban_
 _Context: China, Typhoon Sepat_
 
 ### [ The U.S. Campaign for Burma claims that Myanmar's military government has arrested at least nine leaders of the pro-democracy 88 Generation Students. ](/news/2007/08/22/the-u-s-campaign-for-burma-claims-that-myanmar-s-military-government-has-arrested-at-least-nine-leaders-of-the-pro-democracy-88-generation.md)
-_Context: 88 Generation Students, Myanmar, U.S. Campaign for Burma, democratic progress_
+_Context: 88 Generation Students, Burmese, U.S. Campaign for Burma, democratic progress_
 
 ### [ UK government plans to spend GBP5.2bn in the next four years on Identity Card and related schemes. ](/news/2007/08/22/uk-government-plans-to-spend-agbp5-2bn-in-the-next-four-years-on-identity-card-and-related-schemes.md)
 _Context: Identity Card, UK_

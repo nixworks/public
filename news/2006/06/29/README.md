@@ -19,7 +19,7 @@ View the basic ^DJI stock chart on Yahoo Finance. Change the date range, chart t
 _Context: Iraq, Kirkuk, Shiite, suicide bombing_
 
 ### [ The Supreme Court of the United States rules in "Hamdan v. Rumsfeld" that the Bush Administration has no authority to try detained prisoners held in Guantanamo Bay by military tribunal, and that the proceedings violate the Geneva Convention as well as the US constitution. ](/news/2006/06/29/the-supreme-court-of-the-united-states-rules-in-hamdan-v-rumsfeld-that-the-bush-administration-has-no-authority-to-try-detained-prisoner.md)
-_Context: Geneva Convention, George W. Bush administration, Guantnamo Bay detainment camp, Hamdan v. Rumsfeld, U.S. Supreme Court, US constitution_
+_Context: Geneva Convention, George W. Bush administration, Guantnamo Bay detainment camp, Hamdan v. Rumsfeld, US constitution, United States Supreme Court_
 
 ### [ British House of Commons by-elections for the constituencies of Blaenau Gwent and Bromley and Chislehurst are held to fill vacant parliamentary seats. ](/news/2006/06/29/british-house-of-commons-by-elections-for-the-constituencies-of-blaenau-gwent-and-bromley-and-chislehurst-are-held-to-fill-vacant-parliamen.md)
 _Context: British House of Commons, Bromley and Chislehurst, by-election, by-election_

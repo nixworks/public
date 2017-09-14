@@ -22,7 +22,7 @@ A third small bomb has exploded in the central square of Palma de Majorca in Spa
 At least 46 people have been killed in a landslide triggered by heavy rains in northern India.
 
 ### [ A Kam Air plane bound for the Xinjiang Autonomous Region in northwestern China is diverted to Kandahar, Afghanistan after an earlier alleged bomb threat. ](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.md)
-_Context: Afghanistan's, China, Kam Air, Kandahar, Xinjiang Autonomous Region_
+_Context: Afghanistan, China, Kam Air, Kandahar, Xinjiang Autonomous Region_
 
 ### [ Former Taoiseach of Ireland Garret FitzGerald is among twenty Irish nationals who are quarantined at a French chateau due to swine flu. ](/news/2009/08/9/former-taoiseach-of-ireland-garret-fitzgerald-is-among-twenty-irish-nationals-who-are-quarantined-at-a-french-chateau-due-to-swine-flu.md)
 _Context: France, Garret FitzGerald, Ireland, Taoiseach, swine flu_

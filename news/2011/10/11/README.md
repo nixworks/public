@@ -37,7 +37,7 @@ The US says it has broken up a plot by agents linked to Iran to assassinate the 
 _Context: Ellen Johnson Sirleaf, Liberia, Liberian presidential election, Nobel Peace Prize, President of Liberia_
 
 ### [Myanmar's tightly controlled state newspapers call for a political amnesty indicating that reforms may soon be announced by President Thein Sein with the National Human Rights Commission recommending the pardon of some 6000 plus "prisoners of conscience". ](/news/2011/10/11/myanmar-s-tightly-controlled-state-newspapers-call-for-a-political-amnesty-indicating-that-reforms-may-soon-be-announced-by-president-thein.md)
-_Context: Myanmar, National Human Rights Commission, President of Burma, Thein Sein, amnesty_
+_Context: Burmese, National Human Rights Commission, President of Burma, Thein Sein, amnesty_
 
 ### [Voters in the Canadian province of Newfoundland and Labrador go to the polls for general election with the Progressive Conservative Party winning its third straight majority and its leader Kathy Dunderdale becoming the first woman elected as Premier of the province. ](/news/2011/10/11/voters-in-the-canadian-province-of-newfoundland-and-labrador-go-to-the-polls-for-general-election-with-the-progressive-conservative-party-wi.md)
 _Context: Canada, Kathy Dunderdale, Newfoundland and Labrador, Premier of the province, Progressive Conservative Party, general election_

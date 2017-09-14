@@ -25,7 +25,7 @@ Several people are feared trapped after scaffolding collapsed Friday morning at 
 The European Union has agreed an &quot;action plan&quot; with Turkey to help stem the flow of migrants into Europe. EU leaders offered a £3bn aid package, the prospect of easier visas and re-energised talks on joining the bloc if they comply. At a summit in Brussels, it was also agreed that border ...
 
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Afghanistan's, Kazakhstan, Russia_
+_Context: Afghanistan, Kazakhstan, Russia_
 
 ### [President Park Geun-hye of South Korea is in Washington, D.C. and met with President Barack Obama at The White House. ](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.md)
 _Context: Barack Obama, District of Columbia, Park Geun-hye, South Korea, The White House_

@@ -4,7 +4,7 @@
 At least 73 people have been killed in a series of bomb attacks in central Iraq, police and medical officials say.
 
 ### [A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md)
-_Context: Myanmar, Women's rights, rape as a weapon of war_
+_Context: Burmese, Women's rights, rape as a weapon of war_
 
 ### [Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md)
 Western and Gulf Arab nations pledged $1.4 billion (£852 million) on Wednesday for United Nations aid efforts in Syria, where an almost three-year-old civil war has left millions of people hungry, ailing or displaced.

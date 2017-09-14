@@ -1,0 +1,23 @@
+### [2003-03-26](/news/2003/03/26/index.md)
+
+#  UN Secretary General Kofi Annan says that American and allied troops in Iraq must be used to provide humanitarian aid to Iraqis whilst the security situation is so unstable 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/2886989.stm)
+
+### Related:
+
+1. [UN Secretary General Ban Ki-Moon expresses "serious concerns on the human rights abuses and violations" in Iran at the meeting of non-aligned nations being held in Teheran. ](/news/2012/08/29/un-secretary-general-ban-ki-moon-expresses-serious-concerns-on-the-human-rights-abuses-and-violations-in-iran-at-the-meeting-of-non-aligne.md) _Context: UN Secretary General_
+2. [The U.S. State Department calls the UN Secretary-General's decision to attend the 120-member Non-Aligned Movement summit "strange" and "not a good signal". ](/news/2012/08/16/the-u-s-state-department-calls-the-un-secretary-general-s-decision-to-attend-the-120-member-non-aligned-movement-summit-strange-and-not.md) _Context: UN Secretary General_
+3. [UN and Arab League envoy to Syria, Kofi Annan, states that talks with Syrian President Bashar Assad in Damascus are "constructive". ](/news/2012/07/9/un-and-arab-league-envoy-to-syria-kofi-annan-states-that-talks-with-syrian-president-bashar-assad-in-damascus-are-constructive.md) _Context: Kofi Annan_
+4. [United Nations and Arab League envoy Kofi Annan arrives in the Syrian capital Damascus for talks. ](/news/2012/07/8/united-nations-and-arab-league-envoy-kofi-annan-arrives-in-the-syrian-capital-damascus-for-talks.md) _Context: Kofi Annan_
+5. [At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.md) _Context: Kofi Annan_
+6. [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md) _Context: Kofi Annan_
+7. [UN Secretary-General Ban Ki-moon urges "maximum restraint" from the Syrian regime as the first UN military observers arrive in Damascus to monitor a fragile ceasefire. ](/news/2012/04/16/un-secretary-general-ban-ki-moon-urges-maximum-restraint-from-the-syrian-regime-as-the-first-un-military-observers-arrive-in-damascus-to-m.md) _Context: UN Secretary General_
+8. [Syria responds to a peace plan proposed by envoy Kofi Annan to end the violence in the country. ](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.md) _Context: Kofi Annan_
+9. [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md) _Context: Kofi Annan_
+10. [Robert Cooper, special advisor to Baroness Catherine Ashton (High Representative of the European Union for political, foreign affairs and security), despite serious concerns over excessive and indiscriminate use of force expressed by UN Secretary General Ban Ki-Moon [http://www.un.org/apps/news/story.asp?NewsID=37817&Cr=bahrain&Cr1= (UN News Centre)], speaking to MEPs in the foreign affairs committee in Brussels [http://www.saudinewstoday.com/article/53138__Bahrain%27s+Interior+Minister+Meets+EU+Official after visiting Bahrain (Saudi News Today)], defended Bahrain's protests crackdown: "It's not easy dealing with large demonstrations in which there may be violence. It's a difficult task for policemen. It's not something that we always get right in the best Western countries and [http://www.guardian.co.uk/world/2011/mar/23/bahrain-protest-crackdown-eu-envoy accidents happen" (Guardian)]. Cooper's endorsement disturbed one MEP at the debate. "'Accidents happen?' ... I'm sorry this is a funny picture as you describe it," German Green deputy Franziska Brantner said. "What are you talking about? I find this very scary."](/news/2011/03/22/robert-cooper-special-advisor-to-baroness-catherine-ashton-high-representative-of-the-european-union-for-political-foreign-affairs-and-se.md) _Context: UN Secretary General_

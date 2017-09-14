@@ -22,7 +22,7 @@ _Context: Greg Ham, Melbourne, Men At Work_
 Mr. Helm, whose drumming merged muscle, swing, economy and finesse, helped forge a deep-rooted American music as a linchpin of the Band.
 
 ### [A UH-60 Black Hawk helicopter reportedly crashed in Afghanistan, killing all four on board. ](/news/2012/04/19/a-uh-60-black-hawk-helicopter-reportedly-crashed-in-afghanistan-killing-all-four-on-board.md)
-_Context: Afghanistan's, UH-60 Black Hawk_
+_Context: Afghanistan, UH-60 Black Hawk_
 
 ### [An agent at the centre of the U.S. prostitution scandal in Colombia denied one of his escorts $770 from an agreed fee of $800, according to "The New York Times", thus prompting the row that revealed the scandal to the public. ](/news/2012/04/19/an-agent-at-the-centre-of-the-u-s-prostitution-scandal-in-colombia-denied-one-of-his-escorts-770-from-an-agreed-fee-of-800-according-to.md)
 A woman at the centre of the US Secret Service prostitution scandal in Colombia asked for $800 (£500) for one night in Cartagena, a US report says.

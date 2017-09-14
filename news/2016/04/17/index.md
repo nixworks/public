@@ -1,7 +1,7 @@
 ## [2016-04-17](/news/2016/04/17/index.md)
 
 ### [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md)
-_Context: Afghan police, Afghanistan's, Kunduz, Taliban, War in Afghanistan (2015-present)_
+_Context: Afghan police, Afghanistan, Kunduz, Taliban, War in Afghanistan (2015-present)_
 
 ### [The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md)
 A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hundreds and causing severe damage over a wide area.

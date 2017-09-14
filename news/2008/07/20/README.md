@@ -10,7 +10,7 @@ _Context: The Dark Knight, US$, United States_
 _Context: Bogota, Colombia, District of Columbia, FARC, Independence Day, Ingrid Betancourt, Leticia, London, Miami, New York City, Paris, diaspora_
 
 ### [ At least 13 Afghan police and civilians are killed in an airstrike by NATO forces two weeks after an airstrike killed 52 civilians at a wedding. ](/news/2008/07/20/at-least-13-afghan-police-and-civilians-are-killed-in-an-airstrike-by-nato-forces-two-weeks-after-an-airstrike-killed-52-civilians-at-a-wed.md)
-_Context: Afghanistan's, NATO, airstrike_
+_Context: Afghanistan, NATO, airstrike_
 
 ### [ Beijing introduces traffic restrictions and factory closures in an effort to reduce air pollution for the 2008 Summer Olympics. ](/news/2008/07/20/beijing-introduces-traffic-restrictions-and-factory-closures-in-an-effort-to-reduce-air-pollution-for-the-2008-summer-olympics.md)
 _Context: 2008 Summer Olympics, Beijing, air pollution_

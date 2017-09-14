@@ -7,7 +7,7 @@ _Context: Gaza Strip, Hamas, Israel_
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 ### [Insurgents stop minibuses in Ghor Province, Afghanistan and execute 14 Shiite Muslims. ](/news/2014/07/26/insurgents-stop-minibuses-in-ghar-province-afghanistan-and-execute-14-shiite-muslims.md)
-_Context: Afghanistan's, Ghor Province, Shi'ite_
+_Context: Afghanistan, Ghor Province, Shi'ite_
 
 ### [Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. ](/news/2014/07/26/dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.md)
 _Context: Samaritan's Purse_

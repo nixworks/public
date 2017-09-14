@@ -1,0 +1,19 @@
+### [2003-02-4](/news/2003/02/4/index.md)
+
+#  Federal Republic of Yugoslavia renamed to Serbia and Montenegro with a new constitution converting the federal republic to a "loose union".
+
+
+
+
+### Related:
+
+1. [NATO Secretary General Jens Stoltenberg announces the invitation sent to Montenegro to join the military alliance, 16 years after the country, as part of the Federal Republic of Yugoslavia, was bombed by the alliance in the Kosovo War. Montenegro's accession would result in "retaliatory actions", according to a spokesman for Russian President Vladimir Putin. ](/news/2015/12/2/nato-secretary-general-jens-stoltenberg-announces-the-invitation-sent-to-montenegro-to-join-the-military-alliance-16-years-after-the-countr.md) _Context: Federal Republic of Yugoslavia_
+2. [ Serbia confirms the dissolution of the State Union of Serbia and Montenegro and declares independence. ](/news/2006/06/5/serbia-confirms-the-dissolution-of-the-state-union-of-serbia-and-montenegro-and-declares-independence.md) _Context: Serbia and Montenegro_
+3. [ In a special session of parliament, Montenegro declares its independence from the State Union of Serbia and Montenegro. ](/news/2006/06/3/in-a-special-session-of-parliament-montenegro-declares-its-independence-from-the-state-union-of-serbia-and-montenegro.md) _Context: Serbia and Montenegro_
+4. [ Montenegrin independence referendum, 2006: The Republic of Montenegro votes to secede from the State Union of Serbia and Montenegro. ](/news/2006/05/21/montenegrin-independence-referendum-2006-the-republic-of-montenegro-votes-to-secede-from-the-state-union-of-serbia-and-montenegro.md) _Context: Serbia and Montenegro_
+5. [ The former Yugoslav president Slobodan Milosevic has been found dead in his prison cell in The Hague, Netherlands. ](/news/2006/03/11/the-former-yugoslav-president-slobodan-miloa-evia-has-been-found-dead-in-his-prison-cell-in-the-hague-netherlands.md) _Context: Federal Republic of Yugoslavia_
+6. [ International Court of Justice (ICJ) begins hearing a landmark genocide case, Bosnia and Herzegovina vs. Serbia and Montenegro. Bosnia filed a claim alleging violations of the UN Convention on the Prevention and Punishment of Genocide against the former Yugoslavia during the 1992-1995 Bosnian war. Bosnian genocide case at the ICJ is a first ever genocide court case against a state in the 60 year history of ICJ. ](/news/2006/02/27/international-court-of-justice-icj-begins-hearing-a-landmark-genocide-case-bosnia-and-herzegovina-vs-serbia-and-montenegro-bosnia-file.md) _Context: Serbia and Montenegro_
+7. [ Former president of Federal Republic of Yugoslavia Slobodan Milosevic surrenders to police special forces, to be tried on charges of war crimes.](/news/2001/04/1/former-president-of-federal-republic-of-yugoslavia-slobodan-miloa-evia-surrenders-to-police-special-forces-to-be-tried-on-charges-of-war.md) _Context: Federal Republic of Yugoslavia_
+8. [ In Belgrade, tens of thousands of Serbians rally to demand the resignation of Yugoslav President Slobodan Milosevic](/news/1999/08/19/in-belgrade-tens-of-thousands-of-serbians-rally-to-demand-the-resignation-of-yugoslav-president-slobodan-miloa-evia.md) _Context: Federal Republic of Yugoslavia_
+9. [ Kosovo War: Federal Republic of Yugoslavia and NATO sign a peace treaty.](/news/1999/06/9/kosovo-war-federal-republic-of-yugoslavia-and-nato-sign-a-peace-treaty.md) _Context: Federal Republic of Yugoslavia_
+10. [ Kosovo War: Operation Joint Guardian begins - NATO-led United Nations peacekeeping force KFOR enter the province of Kosovo in Federal Republic of Yugoslavia.](/news/1999/06/12/kosovo-war-operation-joint-guardian-begins-nato-led-united-nations-peacekeeping-force-kfor-enter-the-province-of-kosovo-in-federal-repub.md) _Context: Federal Republic of Yugoslavia_

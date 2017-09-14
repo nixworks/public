@@ -7,7 +7,7 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 _Context: 2010-2011 Senegal protests, Dakar, riot police, rubber bullet, tear gas_
 
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: Afghanistan's, Barack Obama, France, President, United States_
+_Context: Afghanistan, Barack Obama, France, President, United States_
 
 ### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
 Noam Schalit asks why it took Israeli governments five years to make move; Hamas rejects Red Cross call for sign of life.
@@ -31,7 +31,7 @@ Telstra signs an $11 billion deal with the NBN Co to allow the new high-speed br
 _Context: Greek labour unions, general strike, new austerity measures_
 
 ### [The U.S. Supreme Court rules on freedom of speech grounds against a state's effort to block pharmaceutical companies from selling information about the prescription records of particular doctors. ](/news/2011/06/23/the-u-s-supreme-court-rules-on-freedom-of-speech-grounds-against-a-state-s-effort-to-block-pharmaceutical-companies-from-selling-informatio.md)
-_Context: U.S. Supreme Court, freedom of speech, pharmaceutical companies_
+_Context: United States Supreme Court, freedom of speech, pharmaceutical companies_
 
 ### [An earthquake of 6.7 magnitude occurs off the coast of Japan's Iwate prefecture. ](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.md)
 An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate prefecture in northeast Japan Thursday, one of the areas devastated by the March 11 quake and tsunami, but there were no immediate reports of damage or injuries.

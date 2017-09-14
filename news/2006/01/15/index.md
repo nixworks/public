@@ -28,7 +28,7 @@ _Context: MP, Tony Blair_
 _Context: Clemenceau, Egypt's, Greenpeace India's, Suez Canal_
 
 ### [ Canadian diplomat Glyn Berry is killed and two Canadian soldiers critically injured by a bomb blast in Afghanistan. He is the first Canadian diplomat to be killed on duty. ](/news/2006/01/15/canadian-diplomat-glyn-berry-is-killed-and-two-canadian-soldiers-critically-injured-by-a-bomb-blast-in-afghanistan-he-is-the-first-canadia.md)
-_Context: Afghanistan's, Glyn Berry, diplomat_
+_Context: Afghanistan, Glyn Berry, diplomat_
 
 ### [ The ruling emir of Kuwait, Sheikh Jaber Al-Ahmad Al-Jaber Al-Sabah, dies at age 79. Kuwait's cabinet names crown prince Sheikh Saad Al-Abdullah Al-Salim Al-Sabah as the new emir. ](/news/2006/01/15/the-ruling-emir-of-kuwait-sheikh-jaber-al-ahmad-al-jaber-al-sabah-dies-at-age-79-kuwait-s-cabinet-names-crown-prince-sheikh-saad-al-abdu.md)
 _Context: Jaber Al-Ahmad Al-Jaber Al-Sabah, Kuwait, Sheikh Saad Al-Abdullah Al-Salim Al-Sabah, traditional rulers_

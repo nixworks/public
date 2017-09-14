@@ -37,7 +37,7 @@ _Context: 1964 Civil Rights Act, Governor, North Carolina Public Facilities Priv
 _Context: Khadga Prasad Sharma Oli, Nepalese Maoist Party, Prime Minister, the Nepalese government_
 
 ### [Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-donald-trump-for-the-gop-presidential-nomina.md)
-_Context: 2016 U.S. presidential election, Donald Trump, Governor, John Kasich, Republican, his campaign_
+_Context: Donald Trump, Governor, John Kasich, Republican, United States presidential election, 2016, his campaign_
 
 ### [IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. ](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-quantum-computer-its-researchers-have-developed-in-yorktown-heights-new-york.md)
 Quantum computing is computing at its most esoteric. But by sharing its prototype with the world at large, IBM hopes to change that.

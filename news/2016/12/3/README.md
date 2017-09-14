@@ -19,7 +19,7 @@ Cambridge police spokesman Jeremy Warnick says there have been some injuries rep
 With no smoke detectors in the North Hill rental house, a deadly fire spread quietly. 
 
 ### [The Government of Malaysia claims that violence against Myanmar's Muslim Rohingya minority is "ethnic cleansing" ahead of a march in Kuala Lumpur led by Prime Minister Najib Razak. ](/news/2016/12/3/the-government-of-malaysia-claims-that-violence-against-myanmar-s-muslim-rohingya-minority-is-ethnic-cleansing-ahead-of-a-march-in-kuala-l.md)
-_Context: Government of Malaysia, Kuala Lumpur, Malaysian Prime Minister, Muslim, Myanmar, Najib Razak, Rohingya, Rohingya insurgency in Western Myanmar, ethnic cleansing_
+_Context: Burmese, Government of Malaysia, Kuala Lumpur, Malaysian Prime Minister, Muslim, Najib Razak, Rohingya, Rohingya insurgency in Western Myanmar, ethnic cleansing_
 
 ### [The People's Republic of China lodges a complaint with the United States after President-elect of the United States Donald Trump speaks with President of Taiwan Tsai Ing-wen. The PRC and the United States view Taiwan as a breakaway province. ](/news/2016/12/3/the-people-s-republic-of-china-lodges-a-complaint-with-the-united-states-after-president-elect-of-the-united-states-donald-trump-speaks-with.md)
 _Context: China, China-United States relations, Donald Trump, One-China policy, President, President-elect, Tsai Ing-wen, United States, the Republic of China_
@@ -28,7 +28,7 @@ _Context: China, China-United States relations, Donald Trump, One-China policy, 
 _Context: 2012 Pakistan garment factory fires, Bangkok, Karachi_
 
 ### [German police arrested a 17-year-old asylum seeker from Afghanistan in the rape and murder case of Maria L. in Freiburg while a similar case nearby is still under investigation. ](/news/2016/12/3/german-police-arrested-a-17-year-old-asylum-seeker-from-afghanistan-in-the-rape-and-murder-case-of-maria-l-in-freiburg-while-a-similar-case.md)
-_Context: Afghanistan's, Freiburg, Murder of Maria Ladenburger_
+_Context: Afghanistan, Freiburg, Murder of Maria Ladenburger_
 
 ### [Jill Stein, the 2016 presidential candidate for the Green Party, withdraws her lawsuit in the Commonwealth Court of Pennsylvania for a statewide recount of votes in Pennsylvania due to the cost. ](/news/2016/12/3/jill-stein-the-2016-presidential-candidate-for-the-green-party-withdraws-her-lawsuit-in-the-commonwealth-court-of-pennsylvania-for-a-state.md)
 _Context: 2016 United States presidential election recounts, Commonwealth Court of Pennsylvania, Green Party of the United States, Jill Stein, Pennsylvania_

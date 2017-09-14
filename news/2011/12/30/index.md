@@ -25,7 +25,7 @@ _Context: Cyclone Thane, India, Puducherry, Union Territory_
 _Context: North Korea_
 
 ### [Ecuador vows to protect the Yasuni National Park in the Amazon basin after international donors contribute $100 million to a protection fund. ](/news/2011/12/30/ecuador-vows-to-protect-the-yasuni-national-park-in-the-amazon-basin-after-international-donors-contribute-100-million-to-a-protection-fund.md)
-_Context: Amazon basin, Ecuador, Yasuni National Park_
+_Context: Amazon, Ecuador, Yasuni National Park_
 
 ### [The international aid group Mdecins Sans Frontires withdraws non-Somali workers from a hospital in Mogadishu after two of its aid workers were shot dead on Thursday. ](/news/2011/12/30/the-international-aid-group-medecins-sans-frontieres-withdraws-non-somali-workers-from-a-hospital-in-mogadishu-after-two-of-its-aid-workers.md)
 _Context: Mdecins Sans Frontires, Mogadishu, Somali_

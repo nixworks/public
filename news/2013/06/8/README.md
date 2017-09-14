@@ -1,7 +1,7 @@
 ## [2013-06-8](/news/2013/06/8/index.md)
 
 ### [In Afghanistan, a man wearing an Afghan military uniform attacks and kills three American soldiers, in what appears to be an insider attack on U.S. International Security Assistance Force soldiers, based in east Afghanistan's Paktika Province. ](/news/2013/06/8/in-afghanistan-a-man-wearing-an-afghan-military-uniform-attacks-and-kills-three-american-soldiers-in-what-appears-to-be-an-insider-attack.md)
-_Context: Afghan military, Afghanistan's, International Security Assistance Force, Paktika Province, United States military_
+_Context: Afghan military, Afghanistan, International Security Assistance Force, Paktika Province, United States military_
 
 ### [The Syrian military captures the town of Al-Buwaydah al-Sharqiyah. ](/news/2013/06/8/the-syrian-military-captures-the-town-of-al-buwaydah-al-sharqiyah.md)
 _Context: Al-Buwaydah al-Sharqiyah, military_

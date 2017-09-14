@@ -28,7 +28,7 @@ _Context: Anglican Communion, Canterbury, GAFCON, Lambeth Conference, bishop_
 _Context: Anwar Ibrahim, Malaysia, sodomy_
 
 ### [ Afghan authorities confirm that 52 civilians were killed by an American airstrike at a wedding on Sunday. ](/news/2008/07/16/afghan-authorities-confirm-that-52-civilians-were-killed-by-an-american-airstrike-at-a-wedding-on-sunday.md)
-_Context: Afghanistan's, United States, airstrike_
+_Context: Afghanistan, United States, airstrike_
 
 ## [Previous Day...](/news/2008/07/15/index.md)
 

@@ -13,7 +13,7 @@ _Context: Baidoa, Somalia, Transitional Federal Government of Somalia_
 _Context: Angela Merkel, CSU, Chancellor, Christian Democratic Union, German federal election, 2005_
 
 ### [ Amnesty International has urged foreign governments to investigate high level US government officials for human rights violations committed in Afghanistan, Iraq, and Guantanamo Bay.](/news/2005/05/30/amnesty-international-has-urged-foreign-governments-to-investigate-high-level-us-government-officials-for-human-rights-violations-committed.md)
-_Context: Afghanistan's, Amnesty International, Guantnamo Bay detainment camp, Human rights, Iraq_
+_Context: Afghanistan, Amnesty International, Guantnamo Bay detainment camp, Human rights, Iraq_
 
 ### [ Pope Benedict XVI says he wants to heal the rift with the Orthodox Church during his papacy. He spoke to hundreds-of-thousands of people attending a mass in the southern Italian city of Bari during his first pilgrimage away from the Vatican since he was elected less than two months ago. ](/news/2005/05/30/pope-benedict-xvi-says-he-wants-to-heal-the-rift-with-the-orthodox-church-during-his-papacy-he-spoke-to-hundreds-of-thousands-of-people-at.md)
 _Context: Bari, Orthodox Church, Pope Benedict XVI, Vatican City_

@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [California Governor Jerry Brown signs a bill that would limit the role of law enforcement agencies in holding and questioning illegal immigrants statewide. The bill is similar to those already passed locally in so called sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-would-limit-the-role-of-law-enforcement-agencies-in-holding-and-questioning-illegal-immigr.md) _Context: California_
+1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md) _Context: California_
 2. [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md) _Context: California_
 3. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: California_
 4. [SpaceX CEO Elon Musk says he has received federal government approval for The Boring Company to build an underground 760mph Hyperloop that will connect New York City and Washington, D.C.. ](/news/2017/07/20/spacex-ceo-elon-musk-says-he-has-received-federal-government-approval-for-the-boring-company-to-build-an-underground-760mph-hyperloop-that-w.md) _Context: Elon Musk_

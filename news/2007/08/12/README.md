@@ -7,7 +7,7 @@ _Context: Gibraltar, M/V ''New Flame'', bulk carrier, oil tanker_
 _Context: African Union, Darfur, United Nations_
 
 ### [ A clash between Taliban militants and Afghan security forces in Kandahar province results in nine militants dead with five police dying in a bomb. ](/news/2007/08/12/a-clash-between-taliban-militants-and-afghan-security-forces-in-kandahar-province-results-in-nine-militants-dead-with-five-police-dying-in.md)
-_Context: Afghanistan's, Kandahar, Taliban, bomb_
+_Context: Afghanistan, Kandahar, Taliban, bomb_
 
 ### [ Peru issues a map of outlining its claim to maritime territory also claimed by Chile. ](/news/2007/08/12/peru-issues-a-map-of-outlining-its-claim-to-maritime-territory-also-claimed-by-chile.md)
 _Context: Chile, Peru_

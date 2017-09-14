@@ -7,7 +7,7 @@ _Context: Asif Ali Zardari, London, Musharraf, Nawaz Sharif, Pakistan_
 _Context: Esteban Robles Espinosa, Mexico City_
 
 ### [ A spokesman for the World Food Programme says that Myanmar's refusal to give visas to relief experts is "unprecedented" in the history of humanitarian assistance. ](/news/2008/05/9/a-spokesman-for-the-world-food-programme-says-that-myanmar-s-refusal-to-give-visas-to-relief-experts-is-unprecedented-in-the-history-of-h.md)
-_Context: Myanmar, World Food Programme_
+_Context: Burmese, World Food Programme_
 
 ### [ Hezbollah gains control of large sections of Beirut as a pro-government television station is forced off the air. ](/news/2008/05/9/hezbollah-gains-control-of-large-sections-of-beirut-as-a-pro-government-television-station-is-forced-off-the-air.md)
 _Context: Beirut, Hezbollah, government, television station_

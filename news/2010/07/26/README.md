@@ -10,7 +10,7 @@ _Context: AMISOM, African Union, EU, Somalia, United Nations, United States, pea
 The southern Iraqi city of Karbala is hit by a double car bombing leaving at least 20 dead and dozens injured, officials say.
 
 ### [At least 26 people die after a bus crashes in the Daman District in the Kandahar Province of Afghanistan. ](/news/2010/07/26/at-least-26-people-die-after-a-bus-crashes-in-the-daman-district-in-the-kandahar-province-of-afghanistan.md)
-_Context: Afghanistan's, Daman district, Kandahar Province, bus_
+_Context: Afghanistan, Daman district, Kandahar Province, bus_
 
 ### [An Israeli Air Force helicopter crashes in Romania with six Israeli airmen and a Romanian military observer on board; all are feared dead. ](/news/2010/07/26/an-israeli-air-force-helicopter-crashes-in-romania-with-six-israeli-airmen-and-a-romanian-military-observer-on-board-all-are-feared-dead.md)
 _Context: Israeli Air Force, Romania, crashes_

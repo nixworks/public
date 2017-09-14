@@ -7,7 +7,7 @@ _Context: Andean Community, Mercosur, South America, Union of South American Nat
 _Context: Kilinochchi, Sri Lanka, claymore mine_
 
 ### [ The Secretary-General of the United Nations Ban Ki-Moon states that Myanmar's State Peace and Development Council has decided to grant access to areas worst hit by Cyclone Nargis to international aid workers regardless of nationality. ](/news/2008/05/23/the-secretary-general-of-the-united-nations-ban-ki-moon-states-that-myanmar-s-state-peace-and-development-council-has-decided-to-grant-acce.md)
-_Context: Ban Ki-moon, Cyclone Nargis, Myanmar, Secretary General, State Peace and Development Council_
+_Context: Ban Ki-moon, Burmese, Cyclone Nargis, Secretary General, State Peace and Development Council_
 
 ### [ Around 20,000 passengers are affected by unofficial industrial action by Iarnrd ireann, Ireland's national rail operator. ](/news/2008/05/23/around-20-000-passengers-are-affected-by-unofficial-industrial-action-by-iarnrod-eireann-ireland-s-national-rail-operator.md)
 Around 20,000 rail passengers were affected by today&#39;s industrial action, according to Iarnród Éireann.

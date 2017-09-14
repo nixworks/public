@@ -46,7 +46,7 @@ _Context: Deepwater Horizon oil spill, Gulf of Mexico_
 PA president declares that elections must include West Bank and the Hamas-controlled Gaza Strip.
 
 ### [A boat containing 129 Rohingya refugees from Burma is found by Indonesia. ](/news/2011/02/17/a-boat-containing-129-rohingya-refugees-from-burma-is-found-by-indonesia.md)
-_Context: Burma, Indonesia, Rohingya_
+_Context: Burma, Indonesia, Rohingya people_
 
 ### [Riyad Mansour, the Palestinian United Nations observer, announces that the United Nations Security Council is to vote tomorrow on a resolution critical of Israeli settlement building in the West Bank and East Jerusalem. ](/news/2011/02/17/riyad-mansour-the-palestinian-united-nations-observer-announces-that-the-united-nations-security-council-is-to-vote-tomorrow-on-a-resoluti.md)
 _Context: East Jerusalem, Riyad Mansour, United Nations, United Nations Security Council, West Bank_

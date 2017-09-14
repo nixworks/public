@@ -14,3 +14,4 @@
 
 1. [ Liechtenstein recognizes Kosovo as an independent state. ](/news/2008/03/25/liechtenstein-recognizes-kosovo-as-an-independent-state.md) _Context: Liechtenstein_
 2. [ Switzerland accidentally invades Liechtenstein after 171 infantrymen get lost and cross the Liechtenstein border. ](/news/2007/03/1/switzerland-accidentally-invades-liechtenstein-after-171-infantrymen-get-lost-and-cross-the-liechtenstein-border.md) _Context: Liechtenstein_
+3. [ 64% of voters in Liechtenstein approved a measure to give Prince Hans-Adam&nbsp;II the power to dismiss governments, approve judicial nominees and veto laws. It is the most power of any monarch in Europe. Hans-Adam had threatened to leave the country if the measure was not approved.](/news/2003/03/16/64-of-voters-in-liechtenstein-approved-a-measure-to-give-prince-hans-adam-nbsp-ii-the-power-to-dismiss-governments-approve-judicial-nomin.md) _Context: Liechtenstein_

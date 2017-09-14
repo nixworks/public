@@ -28,7 +28,7 @@ _Context: Kurdish Communities Union, Turkey_
 Three bodies were recovered from Manila Bay in the Philippines on Thursday as rescuers continued to look for another 24 people missing after a ferry and a fishing boat collided.
 
 ### [ A suicide bomb attack kills at least eight people in Kandahar, Afghanistan. ](/news/2009/12/24/a-suicide-bomb-attack-kills-at-least-eight-people-in-kandahar-afghanistan.md)
-_Context: Afghanistan's, Kandahar, suicide bombing_
+_Context: Afghanistan, Kandahar, suicide bombing_
 
 ### [ Bomb attacks in the Iraqi cities of Baghdad and Hilla leave 23 dead. ](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.md)
 Explosions across Iraq ahead of Shia ceremonies of Ashoura and Christmas.

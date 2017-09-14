@@ -4,7 +4,7 @@
 _Context: Belgium, Emile Frison, International Network for the Improvement of Banana and Plantain, banana, extinction, plant pathologist_
 
 ### [ In a 7-2 decision in the case Eldred v. Ashcroft, the Supreme Court of the United States rules the 1998 Sonny Bono Copyright Term Extension Act constitutional, preventing the expiration of any U.S. copyrights for 20 years from the date the law went into effect.](/news/2003/01/15/in-a-7a2-decision-in-the-case-eldred-v-ashcroft-the-supreme-court-of-the-united-states-rules-the-1998-sonny-bono-copyright-term-extensi.md)
-_Context: Eldred v. Ashcroft, Sonny Bono Copyright Term Extension Act, U.S. Supreme Court, copyright_
+_Context: Eldred v. Ashcroft, Sonny Bono Copyright Term Extension Act, United States Supreme Court, copyright_
 
 ### [ A statement, issued by the Congregation for the Doctrine of the Faith and signed by Pope John Paul&nbsp;II, declared that all Roman Catholic politicians must adhere to church teachings, and that they cannot be faithful to the Church if they vote against Church positions on such issues as abortion.](/news/2003/01/15/a-statement-issued-by-the-congregation-for-the-doctrine-of-the-faith-and-signed-by-pope-john-paul-nbsp-ii-declared-that-all-roman-catholi.md)
 _Context: Congregation for the Doctrine of the Faith, Pope John Paul&nbsp;II, Roman Catholic, abortion_

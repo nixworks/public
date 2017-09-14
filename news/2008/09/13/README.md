@@ -10,7 +10,7 @@ Within a month and a half of Jaipur, Bangalore and Ahmedabad terror blasts, Delh
 A tropical storm warning remains in effect from east of sargent texas eastward to morgan city Louisiana. The warning will likely be discontinued later this afternoon or evening. For storm information specific to your area, including possible inland watches and...
 
 ### [ Abullah Wardak, the Governor of the Lowgar Province of Afghanistan, is assassinated in a car bomb. ](/news/2008/09/13/abullah-wardak-the-governor-of-the-lowgar-province-of-afghanistan-is-assassinated-in-a-car-bomb.md)
-_Context: Afghanistan's, Lowgar Province_
+_Context: Afghanistan, Lowgar Province_
 
 ### [ A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. ](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.md)
 _Context: China, Shanxi province, deadly landslide_

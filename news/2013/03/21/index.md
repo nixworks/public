@@ -34,7 +34,7 @@ _Context: Barack Obama, Israel, Palestinian, Palestinian, Palestinians, Presiden
 _Context: American B-52 strategic bomber, Japan, North Korea, South Korea, United States of America, military drills_
 
 ### [A dispute between a Muslim gold shop owner and Buddhist sellers escalates into communal violence that leaves 10 people dead, 20 injured, and 4 mosques burnt to the ground in Myanmar. ](/news/2013/03/21/a-dispute-between-a-muslim-gold-shop-owner-and-buddhist-sellers-escalates-into-communal-violence-that-leaves-10-people-dead-20-injured-and.md)
-_Context: Buddhist, Muslim, Myanmar, communal violence, mosque_
+_Context: Buddhist, Burmese, Muslim, communal violence, mosque_
 
 ### [India's Supreme Court sentences actor and politician Sanjay Dutt to 5 years in prison over illegal arms possession, related to the 1993 Mumbai bombings. The death sentence of Yakub Memon, convicted mastermind of the bombings, has been upheld. ](/news/2013/03/21/india-s-supreme-court-sentences-actor-and-politician-sanjay-dutt-to-5-years-in-prison-over-illegal-arms-possession-related-to-the-1993-mumb.md)
 SC upheld the conviction of Sanjay Dutt in the Mumbai serial blasts case and sentenced him to 5 years imprisonment. The actor has one month to surrender.

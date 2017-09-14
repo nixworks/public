@@ -4,7 +4,7 @@
 _Context: Deutsche Bank, Obama Administration, United States Department of Justice_
 
 ### [Burmese State Counsellor Aung San Suu Kyi asks U.S. businesses to invest in Myanmar after Barack Obama agrees to lift U.S. sanctions. ](/news/2016/09/15/burmese-state-counsellor-aung-san-suu-kyi-asks-u-s-businesses-to-invest-in-myanmar-after-barack-obama-agrees-to-lift-u-s-sanctions.md)
-_Context: Aung San Suu Kyi, Barack Obama, Myanmar_
+_Context: Aung San Suu Kyi, Barack Obama, Burmese_
 
 ### [The China Meteorological Administration forecasts that Typhoon Meranti will make landfall in south Fujian Province. ](/news/2016/09/15/the-china-meteorological-administration-forecasts-that-typhoon-meranti-will-make-landfall-in-south-fujian-province.md)
 _Context: 2016 Pacific typhoon season, China Meteorological Administration, Fujian Province, Typhoon Meranti_

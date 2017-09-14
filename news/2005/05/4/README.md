@@ -4,7 +4,7 @@
 _Context: Ariel Sharon, Israel, Israeli Prime Minister, Jericho, Palestinian, Palestinian Authority, Tulkarm, West Bank_
 
 ### [ The Pakistani government announces that it has captured Abu Faraj al-Libbi. If verified, this is the most important Al-Qaeda suspect to have been arrested thus far. [http://news.bbc.co.uk/2/hi/south_asia/4512885.stm (BBC)] A former Central Intelligence Agency (CIA) agent reveals the CIA sent a team to Afghanistan only days after the September 11, 2001 attacks with orders to ""Capture Bin Laden, kill him and bring his head back in a box on dry ice"" and to leave other Al-Qaeda leaders' ""heads up on pikes."" [http://news.bbc.co.uk/2/hi/americas/4511943.stm (BBC)] (Wikinews)](/news/2005/05/4/the-pakistani-government-announces-that-it-has-captured-abu-faraj-al-libbi-if-verified-this-is-the-most-important-al-qaeda-suspect-to-hav.md)
-_Context: (Wikinews), Abu Faraj al-Libbi, Afghanistan's, CIA, Osama bin Laden, Pakistan, September 11, 2001 attacks, al-Qaeda_
+_Context: (Wikinews), Abu Faraj al-Libbi, Afghanistan, CIA, Osama bin Laden, Pakistan, September 11, 2001 attacks, al-Qaeda_
 
 ### [ A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. ](/news/2005/05/4/a-suicide-bomberer-in-irbil-a-kurdish-city-of-northern-iraq-kills-more-than-50-people.md)
 _Context: Iraq, Irbil, Kurdish, suicide bomber_

@@ -16,7 +16,7 @@ _Context: Taiwan, US$, economy, shopping, the Republic of China, voucher_
 _Context: France, Gabon, crashes, helicopter, military_
 
 ### [ A series of avalanches occurs near Kabul, Afghanistan, killing at least ten people and injuring eleven others. ](/news/2009/01/18/a-series-of-avalanches-occurs-near-kabul-afghanistan-killing-at-least-ten-people-and-injuring-eleven-others.md)
-_Context: Afghanistan's, Kabul, avalanche, occurs_
+_Context: Afghanistan, Kabul, avalanche, occurs_
 
 ### [ Hamas agrees to a one-week ceasefire, but fires at least two rockets into Israel afterward. ](/news/2009/01/18/hamas-agrees-to-a-one-week-ceasefire-but-fires-at-least-two-rockets-into-israel-afterward.md)
 _Context: Hamas, Israel, ceasefire, rocket_

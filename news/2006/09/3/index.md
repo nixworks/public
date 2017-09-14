@@ -10,7 +10,7 @@ _Context: Europe, SMART-1, The Moon_
 _Context: Hamed Jumaa Farid al-Saeedi, Iraq, Iraqi insurgency, Mouwaffak al-Rubaie, National Security Advisor, al-Qaeda in Iraq_
 
 ### [ More than 200 Taliban rebel and four Canadian troops die in a major offensive in Kandahar. ](/news/2006/09/3/more-than-200-taliban-rebel-and-four-canadian-troops-die-in-a-major-offensive-in-kandahar.md)
-_Context: Afghanistan's, Canadian, Kandahar, Taliban_
+_Context: Afghanistan, Canadian, Kandahar, Taliban_
 
 ### [ The Swedish adventurer Lasse Schmidt finishes the first solo crossing of the Baltic Sea in a kayak. The crossing between Sweden and Estonia took three days to complete without sleep.](/news/2006/09/3/the-swedish-adventurer-lasse-schmidt-finishes-the-first-solo-crossing-of-the-baltic-sea-in-a-kayak-the-crossing-between-sweden-and-estonia.md)
 _Context: Estonia, Kayaking world record, Sweden_

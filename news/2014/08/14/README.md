@@ -10,7 +10,7 @@ Israel and the Palestinians begin a fresh five-day ceasefire in Gaza, but immedi
 The UN declares its highest level of emergency in Iraq as a humanitarian crisis follows the rapid advance by Islamic State militants.
 
 ### [A roadside bomb detonates next to a police car in Laghman Province, Afghanistan killing 3 police officers and injuring another 4. [http://theworldlink.com/news/world/asia/roadside-bomb-kills-afghan-policemen/article_095f75b2-6428-57d3-a5ed-ed7fbfce2658.html (AP via "The World (Coos Bay)")]](/news/2014/08/14/a-roadside-bomb-detonates-next-to-a-police-car-in-laghman-province-afghanistan-killing-3-police-officers-and-injuring-another-4-http-th.md)
-_Context: Afghanistan's, Laghman Province_
+_Context: Afghanistan, Laghman Province_
 
 ### [Pope Francis begins a five day visit to South Korea. ](/news/2014/08/14/pope-francis-begins-a-five-day-visit-to-south-korea.md)
 Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth in Asia - a mission fraught with complex political challenges but huge potential rewards.

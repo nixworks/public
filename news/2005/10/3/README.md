@@ -28,10 +28,10 @@ _Context: Sangju, South Korea, concert, stampede_
 _Context: Bullet For My Valentine, RIAA, The Poison, United States, heavy metal band's_
 
 ### [ On the first day of the U.S. Supreme Court's fall term, President George W. Bush nominates White House Counsel Harriet Miers to fill the seat currently held by Sandra Day O'Connor. The nominee has no judicial experience. ](/news/2005/10/3/on-the-first-day-of-the-u-s-supreme-court-s-fall-term-president-george-w-bush-nominates-white-house-counsel-harriet-miers-to-fill-the-se.md)
-_Context: George W. Bush, Harriet Miers, President, Sandra Day O'Connor, U.S. Supreme Court, United States, White House Counsel_
+_Context: George W. Bush, Harriet Miers, President, Sandra Day O'Connor, United States, United States Supreme Court, White House Counsel_
 
 ### [ Conflict in Afghanistan: Afghan troops kill 31 suspects following clashes in Paktika, in eastern Afghanistan. ](/news/2005/10/3/conflict-in-afghanistan-afghan-troops-kill-31-suspects-following-clashes-in-paktika-in-eastern-afghanistan.md)
-_Context: Afghanistan's, Paktika, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Paktika, War in Afghanistan (2001-present)_
 
 ### [ Millions of people view the solar eclipse which occurred at 10:31 UTC, mainly in Africa and south-west Europe. ](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-occurred-at-10-31-utc-mainly-in-africa-and-south-west-europe.md)
 _Context: Africa, Europe, clock, solar eclipse, south, west_

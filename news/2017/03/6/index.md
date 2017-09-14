@@ -1,7 +1,7 @@
 ## [2017-03-6](/news/2017/03/6/index.md)
 
 ### [According to the government of Myanmar, at least 30 people are killed in an attack on various police, military, and government installations by the Myanmar National Democratic Alliance Army in Laukkai. Four police officers were also taken hostage. ](/news/2017/03/6/according-to-the-government-of-myanmar-at-least-30-people-are-killed-in-an-attack-on-various-police-military-and-government-installations.md)
-_Context: Internal conflict in Myanmar, Laukkai, Myanmar, Myanmar National Democratic Alliance Army_
+_Context: Burmese, Internal conflict in Myanmar, Laukkai, Myanmar National Democratic Alliance Army_
 
 ### [Intense, Category 4 Cyclone Enawo is intensifying, as it closes in on the northern tip of Madagascar. ](/news/2017/03/6/intense-category-4-cyclone-enawo-is-intensifying-as-it-closes-in-on-the-northern-tip-of-madagascar.md)
 As expected, Enawo made a disastrous landfall Tuesday.

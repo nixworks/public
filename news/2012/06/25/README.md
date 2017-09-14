@@ -43,7 +43,7 @@ _Context: Associated Newspapers, Channel 4, Daily Mail, Jon Snow, Leveson Inquir
 A key figure allegedly involved in planning the deadly Mumbai attacks of November 2008 is arrested, police in the Indian capital, Delhi, say.
 
 ### [The United States Supreme Court rules that the sentence of life imprisonment without parole cannot be automatically given to a minor at all, extending its earlier restrictions on its automatic use in cases involving minors. ](/news/2012/06/25/the-united-states-supreme-court-rules-that-the-sentence-of-life-imprisonment-without-parole-cannot-be-automatically-given-to-a-minor-at-all.md)
-_Context: U.S. Supreme Court_
+_Context: United States Supreme Court_
 
 ### [The United States Supreme Court rules that Arizona's immigration law is mostly unconstitutional, except for the part that allows for law enforcement officers, in the course of their duties, to ask about an illegal immigrant's legal status if they have actual reasons to believe that the person is an immigrant and is here illegally, especially if they are of relevance to a case. ](/news/2012/06/25/the-united-states-supreme-court-rules-that-arizona-s-immigration-law-is-mostly-unconstitutional-except-for-the-part-that-allows-for-law-enf.md)
 US supreme court strikes down some provisions of a controversial immigration law reviled by many Hispanics.

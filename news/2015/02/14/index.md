@@ -4,7 +4,7 @@
 _Context: Petro Poroshenko, Russia, War in Donbass_
 
 ### [Myanmar launches air strikes against rebels in the Kokang area as dozens of soldiers have been killed and dozens more wounded in fightings in recent weeks. ](/news/2015/02/14/myanmar-launches-air-strikes-against-rebels-in-the-kokang-area-as-dozens-of-soldiers-have-been-killed-and-dozens-more-wounded-in-fightings-i.md)
-_Context: Internal conflict in Burma, Kokang, Kokang offensive, Myanmar_
+_Context: Burmese, Internal conflict in Burma, Kokang, Kokang offensive_
 
 ### [Danish Police seek a gunman who fired an automatic weapon at a free speech seminar in Copenhagen, Denmark, killing documentary maker Finn Norgaard and injuring Swedish artist Lars Vilks known for controversial drawings of the prophet Mohammed. Among the injured are also three police officers who had been guarding the seminar. ](/news/2015/02/14/danish-police-seek-a-gunman-who-fired-an-automatic-weapon-at-a-free-speech-seminar-in-copenhagen-denmark-killing-documentary-maker-finn-na.md)
 One person dies after shots are fired at a Copenhagen cafe where a controversial cartoonist was attending a free speech debate.

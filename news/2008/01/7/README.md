@@ -4,7 +4,7 @@
 _Context: Litokwa Tomeing, President, elected_
 
 ### [ The Supreme Court of the United States hears arguments on whether execution by lethal injection is a violation of the Constitution's ban on "cruel and unusual punishment." ](/news/2008/01/7/the-supreme-court-of-the-united-states-hears-arguments-on-whether-execution-by-lethal-injection-is-a-violation-of-the-constitution-s-ban-on.md)
-_Context: U.S. Supreme Court, United States Constitution, constitutional rights, cruel and unusual punishment, execution, lethal injection_
+_Context: United States Constitution, United States Supreme Court, constitutional rights, cruel and unusual punishment, execution, lethal injection_
 
 ### [ The war crimes trial of former Liberian President Charles Taylor resumes at The Hague, Netherlands. ](/news/2008/01/7/the-war-crimes-trial-of-former-liberian-president-charles-taylor-resumes-at-the-hague-netherlands.md)
 _Context: Charles Taylor, Liberia, Netherlands, President of Liberia, The Hague, trial, war crimes_

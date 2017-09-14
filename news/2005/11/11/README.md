@@ -7,7 +7,7 @@ _Context: Abu Musa, British Foreign Office, Iran, Iranian Navy, United Arab Emir
 _Context: Albania, Bulgaria, Italy, Romania, electric power, hydroelectric power, power outage, water supply_
 
 ### [ A Pakistani cargo plane carrying eight to ten people crashes near Kabul, capital of Afghanistan. There are no survivors. The cause of the crash is unknown. ](/news/2005/11/11/a-pakistani-cargo-plane-carrying-eight-to-ten-people-crashes-near-kabul-capital-of-afghanistan-there-are-no-survivors-the-cause-of-the-c.md)
-_Context: Afghanistan's, Kabul, Pakistan, cargo plane_
+_Context: Afghanistan, Kabul, Pakistan, cargo plane_
 
 ### [ H5N1 avian influenza is found in Kuwait, the first reported case of the virus in the Middle East. ](/news/2005/11/11/h5n1-avian-influenza-is-found-in-kuwait-the-first-reported-case-of-the-virus-in-the-middle-east.md)
 _Context: Influenza A virus subtype H5N1, Kuwait, Middle East_

@@ -1,7 +1,7 @@
 ## [2006-06-15](/news/2006/06/15/index.md)
 
 ### [ U.S. Supreme Court Justice Samuel Alito breaks a tie in a 5-4 decision in "Hudson v. Michigan", allowing evidence admitted in cases where police did not knock and announce themselves when executing a search warrant. ](/news/2006/06/15/u-s-supreme-court-justice-samuel-alito-breaks-a-tie-in-a-5-4-decision-in-hudson-v-michigan-allowing-evidence-admitted-in-cases-where-p.md)
-_Context: Hudson v. Michigan, Samuel Alito, U.S. Supreme Court, knock and announce, police, search warrant_
+_Context: Hudson v. Michigan, Samuel Alito, United States Supreme Court, knock and announce, police, search warrant_
 
 ### [ Hundreds are wounded in fighting between rival factions of the Movement of the Democratic Forces of Casamance led by Salif Sadio, who supports the continuation of the Casamance Conflict, and Magne Dieme, who supports reconciliation with the Government of Senegal. The fighting has spread to The Gambia and Guinea-Bissau may intervene. ](/news/2006/06/15/hundreds-are-wounded-in-fighting-between-rival-factions-of-the-movement-of-the-democratic-forces-of-casamance-led-by-salif-sadio-who-suppo.md)
 _Context: Casamance Conflict, Government of Senegal, Guinea-Bissau, Magne Dieme, Movement of the Democratic Forces of Casamance, Salif Sadio, the Gambia_
@@ -10,7 +10,7 @@ _Context: Casamance Conflict, Government of Senegal, Guinea-Bissau, Magne Dieme,
 _Context: Bujumbura, Burundi, Fighters of the National Liberation Forces, Government of Burundi, Tanzania_
 
 ### [ Coalition forces in Afghanistan launch and execute Operation Mountain Thrust to drive Taliban forces out of the southern provinces of Afghanistan. The operation is the largest operation since the start of the Afghanistan war. ](/news/2006/06/15/coalition-forces-in-afghanistan-launch-and-execute-operation-mountain-thrust-to-drive-taliban-forces-out-of-the-southern-provinces-of-afgha.md)
-_Context: Afghanistan's, Taliban, War in Afghanistan (2001-present)_
+_Context: Afghanistan, Taliban, War in Afghanistan (2001-present)_
 
 ### [ The United States Conference of Catholic Bishops approves a new English translation for mass. ](/news/2006/06/15/the-united-states-conference-of-catholic-bishops-approves-a-new-english-translation-for-mass.md)
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.

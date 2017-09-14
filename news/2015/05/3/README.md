@@ -10,7 +10,7 @@ Usman is the other target in the botched police Special Action Force (SAF) opera
 The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with a further 14,123 people injured.
 
 ### [At least eighteen people are killed in a traffic accident in Afghanistan's Badghis Province. ](/news/2015/05/3/at-least-eighteen-people-are-killed-in-a-traffic-accident-in-afghanistan-s-badghis-province.md)
-_Context: Afghanistan's, Badghis Province_
+_Context: Afghanistan, Badghis Province_
 
 ### [Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. ](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.md)
 _Context: Italy, Libya, people smuggler_
@@ -25,7 +25,7 @@ Two suspects opened fire outside the Curtis Culwell Center during a Muhammad art
 _Context: Madison, Wisconsin, discrimination against atheists_
 
 ### [Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-annou.md)
-_Context: 2016 U.S. presidential election, Ben Carson, Detroit, Florida, Republican, neurosurgeon_
+_Context: Ben Carson, Detroit, Florida, Republican, United States presidential election, 2016, neurosurgeon_
 
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)
 _Context: Nagorno-Karabakh parliamentary election, 2015_

@@ -4,7 +4,7 @@
 A bomb attack on a bus in the southern Philippines kills nine people and injures several others, security personnel say.
 
 ### [Suspected Taliban militants kill an International Security Assistance Force (ISAF) soldier and five Afghan policeman in attacks in Afghanistan. ](/news/2010/10/21/suspected-taliban-militants-kill-an-international-security-assistance-force-isaf-soldier-and-five-afghan-policeman-in-attacks-in-afghanist.md)
-_Context: Afghan police, Afghanistan's, International Security Assistance Force, Taliban_
+_Context: Afghan police, Afghanistan, International Security Assistance Force, Taliban_
 
 ### [Biochemist Nick Lane wins the Royal Society Science Book Prize for "Life Ascending: The Ten Great Inventions of Evolution". ](/news/2010/10/21/biochemist-nick-lane-wins-the-royal-society-science-book-prize-for-life-ascending-the-ten-great-inventions-of-evolution.md)
 _Context: Biochemist, Life Ascending: The Ten Great Inventions of Evolution, Nick Lane, Royal Society Science Book Prize_
@@ -49,7 +49,7 @@ _Context: Tibet, Tibetan language, government_
 _Context: Omar al-Bashir, Southern Sudanese Independence Referendum, Sudan, Sudanese President, civil war_
 
 ### [Myanmar changes its name from Union of Myanmar to Republic of the Union of Myanmar, and also changes the design of the national flag. ](/news/2010/10/21/myanmar-changes-its-name-from-union-of-myanmar-to-republic-of-the-union-of-myanmar-and-also-changes-the-design-of-the-national-flag.md)
-_Context: Myanmar, Republic of the Union of Myanmar, Union of Myanmar, the national flag_
+_Context: Burmese, Republic of the Union of Myanmar, Union of Myanmar, the national flag_
 
 ### [Thousands of people protest in Buenos Aires, the capital of Argentina, after a left-wing activist is killed in a dispute between two labor unions. ](/news/2010/10/21/thousands-of-people-protest-in-buenos-aires-the-capital-of-argentina-after-a-left-wing-activist-is-killed-in-a-dispute-between-two-labor-u.md)
 Thousands of people demonstrated in the Argentine capital Buenos Aires in protest at the murder of a left-wing activist during a labour dispute.

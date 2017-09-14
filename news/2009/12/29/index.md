@@ -10,7 +10,7 @@ _Context: South Sudan, Sudanese parliament, independent, referendum_
 _Context: Kurdish, Turkey, minibus bombing in 2005_
 
 ### [ Bangladesh says it will repatriate 9,000 Rohingya refugees staying at camps in the country back to Burma. ](/news/2009/12/29/bangladesh-says-it-will-repatriate-9-000-rohingya-refugees-staying-at-camps-in-the-country-back-to-burma.md)
-_Context: Bangladesh, Burma, Rohingya_
+_Context: Bangladesh, Burma, Rohingya people_
 
 ### [ Iran's Nobel Peace Prize winner Shirin Ebadi says her sister Nooshin, a medical professor and human rights activist, was arrested by authorities the previous evening. Sources indicate journalists have also been detained. ](/news/2009/12/29/iran-s-nobel-peace-prize-winner-shirin-ebadi-says-her-sister-nooshin-a-medical-professor-and-human-rights-activist-was-arrested-by-author.md)
 The sister of Nobel laureate Shirin Ebadi has been detained by Iranian intelligence officials, the Iranian lawyer and human rights activist said.
@@ -34,7 +34,7 @@ _Context: China, Japan, U.S._
 _Context: China, Christian, Media of North Korea, North Korea, United States_
 
 ### [ Two Italians are injured and one American is killed in a shooting incident in Badghis Province, Afghanistan. ](/news/2009/12/29/two-italians-are-injured-and-one-american-is-killed-in-a-shooting-incident-in-badghis-province-afghanistan.md)
-_Context: Afghanistan's, Badghis Province, Italy, United States_
+_Context: Afghanistan, Badghis Province, Italy, United States_
 
 ## [Previous Day...](/news/2009/12/28/index.md)
 

@@ -28,7 +28,7 @@ Tens of thousands of people take to the streets across the globe, protesting aga
 _Context: Japan, an earthquake and tsunami_
 
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
-_Context: Afghanistan's, Hamid Karzai, Osama bin Laden, Pakistan, father's killing, previous administration_
+_Context: Afghanistan, Hamid Karzai, Osama bin Laden, Pakistan, father's killing, previous administration_
 
 ### [Five European presidents and the President of the European Commission cancel visits to Ukraine over the treatment of the former prime minister Yulia Tymoshenko. ](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.md)
 Ukraine is facing growing isolation as five presidents and the EU Commission cancel visits over suspected maltreatment of Yulia Tymoshenko, its jailed former prime minister.

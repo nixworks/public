@@ -1,7 +1,7 @@
 ## [2008-08-11](/news/2008/08/11/index.md)
 
 ### [ An air strike by the United States kills 25 Taliban militants and 8 civilians in Oruzgan Province in southern Afghanistan. ](/news/2008/08/11/an-air-strike-by-the-united-states-kills-25-taliban-militants-and-8-civilians-in-ora-zgan-province-in-southern-afghanistan.md)
-_Context: Afghanistan's, Oruzgan Province, Taliban, United States, air strike_
+_Context: Afghanistan, Oruzgan Province, Taliban, United States, air strike_
 
 ### [ The United States team wins the 4x100 men's freestyle relay setting a new world record with France and Australia finishing second and third respectively. The top five teams all broke the previous world record and Australia's Eamon Sullivan in the lead-off leg broke the record for 100m. ](/news/2008/08/11/the-united-states-team-wins-the-4x100-men-s-freestyle-relay-setting-a-new-world-record-with-france-and-australia-finishing-second-and-third.md)
 An incredible anchor leg by Jason Lezak kept Michael Phelps’ hope of eight gold medals alive.

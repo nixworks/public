@@ -7,7 +7,7 @@ _Context: Ali Babacan, Kurdistan Workers' Party_
 _Context: All Parties Democratic Movement, Islamabad, Pakistan, Pervez Musharraf_
 
 ### [ Several hundred Buddhist monks marched through Burma's second largest city Mandalay as activists urged people to join the protests against the ruling military junta. ](/news/2007/09/22/several-hundred-buddhist-monks-marched-through-burma-s-second-largest-city-mandalay-as-activists-urged-people-to-join-the-protests-against.md)
-_Context: 2007 Burmese anti-government protests, Mandalay, Myanmar_
+_Context: 2007 Burmese anti-government protests, Burmese, Mandalay_
 
 ### [ Former Peruvian President Alberto Fujimori arrives in Lima a day after Chile's Supreme Court ruled his extradition back to his home country due to charges of human rights abuses and corruption. ](/news/2007/09/22/former-peruvian-president-alberto-fujimori-arrives-in-lima-a-day-after-chile-s-supreme-court-ruled-his-extradition-back-to-his-home-country.md)
 _Context: Alberto Fujimori, Lima, Supreme Court, extradited_

@@ -19,7 +19,7 @@ The cause of the crash that killed all 224 people aboard a Russian airliner in E
 _Context: Colectiv nightclub fire_
 
 ### [At least eight people are dead and 70 missing following the sinking of a ferry on Myanmar's Chindwin River in the northwestern Sagaing Region, ](/news/2015/11/1/at-least-eight-people-are-dead-and-70-missing-following-the-sinking-of-a-ferry-on-myanmar-s-chindwin-river-in-the-northwestern-sagaing-regio.md)
-_Context: Chindwin River, Myanmar, Sagaing Region_
+_Context: Burmese, Chindwin River, Sagaing Region_
 
 ### [The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. ](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-south-korea-and-japan-hold-their-first-summit-in-three-years.md)
 _Context: China, Japan, South Korea, trilateral summit_

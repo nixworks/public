@@ -4,7 +4,7 @@
 The Palestinian government warns that it will pull out of peace talks if Israel renews the construction of settlements in the occupied West Bank.
 
 ### [Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. ](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.md)
-_Context: Afghanistan's, International Security Assistance Force, NATO, improvised explosive device_
+_Context: Afghanistan, International Security Assistance Force, NATO, improvised explosive device_
 
 ### [At least 17 people, including a member of the National Assembly of Pakistan, Maulana Noor Mohammed Wazir, are killed in the bombing of a mosque in Pakistan's South Waziristan region. ](/news/2010/08/23/at-least-17-people-including-a-member-of-the-national-assembly-of-pakistan-maulana-noor-mohammed-wazir-are-killed-in-the-bombing-of-a-mos.md)
 _Context: MNA, Maulana Noor Mohammed Wazir, Pakistan, South Waziristan, bomb, mosque_

@@ -1,10 +1,10 @@
 ## [2006-06-13](/news/2006/06/13/index.md)
 
 ### [ U.S. Supreme Court, in its decision of "Hill v. McDonough", allows challenge of constitutionality of lethal injection. ](/news/2006/06/13/u-s-supreme-court-in-its-decision-of-hill-v-mcdonough-allows-challenge-of-constitutionality-of-lethal-injection.md)
-_Context: Hill v. McDonough, U.S. Supreme Court, lethal injection, unconstitutional_
+_Context: Hill v. McDonough, United States Supreme Court, lethal injection, unconstitutional_
 
 ### [ In "House v. Bell", the U.S. Supreme Court ruled that new DNA forensic evidence is permissible during post-conviction appeals for death row inmates. ](/news/2006/06/13/in-house-v-bell-the-u-s-supreme-court-ruled-that-new-dna-forensic-evidence-is-permissible-during-post-conviction-appeals-for-death-row.md)
-_Context: DNA, House v. Bell, U.S. Supreme Court, appealed, conviction, death row, forensic_
+_Context: DNA, House v. Bell, United States Supreme Court, appealed, conviction, death row, forensic_
 
 ### [ The cancellation of end-of-the-year exams and a nationwide strike by teachers protesting low pay sparks a large scale riot in the Guinean capital of Conakry. 16 people are killed. ](/news/2006/06/13/the-cancellation-of-end-of-the-year-exams-and-a-nationwide-strike-by-teachers-protesting-low-pay-sparks-a-large-scale-riot-in-the-guinean-c.md)
 _Context: Conakry, Guinea_

@@ -16,7 +16,7 @@ _Context: 2005 Kashmir earthquake, Pakistan, Shaukat Aziz_
 _Context: George Best, Northern Ireland, footballer_
 
 ### [ President George W. Bush's nominee for Associate Justice of the Supreme Court of the United States, Harriet Miers, has turned down the nomination made on October 3, 2005. The President has accepted her withdrawal. ](/news/2005/10/27/president-george-w-bush-s-nominee-for-associate-justice-of-the-supreme-court-of-the-united-states-harriet-miers-has-turned-down-the-nomi.md)
-_Context: George W. Bush, Harriet Miers, Justice, U.S. Supreme Court_
+_Context: George W. Bush, Harriet Miers, Justice, United States Supreme Court_
 
 ## [Previous Day...](/news/2005/10/26/index.md)
 

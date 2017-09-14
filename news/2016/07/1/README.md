@@ -40,7 +40,7 @@ President Vladimir Putin suggested on Friday Russia could move its troops closer
 Duterte, 71, won power in a landslide after a campaign dominated by threats to kill tens of thousands in a war on crime
 
 ### [U Gambira, a former Burmese monk and one of the most visible leaders during Myanmar's 2007 Saffron Revolution, is released from prison after having the charges against him dropped. ](/news/2016/07/1/u-gambira-a-former-burmese-monk-and-one-of-the-most-visible-leaders-during-myanmar-s-2007-saffron-revolution-is-released-from-prison-after.md)
-_Context: Myanmar, Saffron Revolution, U Gambira_
+_Context: Burmese, Saffron Revolution, U Gambira_
 
 ### [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austria.md)
 Europe was plunged into fresh crisis on Friday as Austria&rsquo;s courts ordered a re-run of the country&rsquo;s presidential election.

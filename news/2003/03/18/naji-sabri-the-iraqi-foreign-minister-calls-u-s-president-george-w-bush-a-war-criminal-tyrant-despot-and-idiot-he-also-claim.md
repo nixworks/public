@@ -1,0 +1,19 @@
+### [2003-03-18](/news/2003/03/18/index.md)
+
+#  Naji Sabri, the Iraqi foreign minister, calls U.S. President George W. Bush "a war criminal", "tyrant", "despot" and "idiot". He also claims that evacuation of UNIKOM from the demilitarized zone violates the UN resolution of 1991.
+
+
+
+
+### Related:
+
+1. [A UN war crimes tribunal acquits former Kosovan Prime Minister and former commander of the Kosovo Liberation Army Ramush Haradinaj of war crimes, prompting Serbia to denounce the court. ](/news/2012/11/29/a-un-war-crimes-tribunal-acquits-former-kosovan-prime-minister-and-former-commander-of-the-kosovo-liberation-army-ramush-haradinaj-of-war-cr.md) _Context: UN, war crime_
+2. ["Time" reports that a Federal Grand Jury is investigating claims of war crimes and torture by the US Central Intelligence Agency at Iraq's Abu Ghraib prison in 2003. ](/news/2011/06/14/time-reports-that-a-federal-grand-jury-is-investigating-claims-of-war-crimes-and-torture-by-the-us-central-intelligence-agency-at-iraq-s-a.md) _Context: Iraq, war crime_
+3. [ Iraqi journalist Muntadhar al-Zaidi is sentenced to three years in prison for throwing shoes at then-United States President George W. Bush. ](/news/2009/03/12/iraqi-journalist-muntadhar-al-zaidi-is-sentenced-to-three-years-in-prison-for-throwing-shoes-at-then-united-states-president-george-w-bush.md) _Context: George W. Bush, Iraq_
+4. [ Iraqi Parliament Speaker Mahmoud al-Mashhadani announces his resignation because of chaos over the treatment of Muntadhar al-Zaidi, the Al-Baghdadia TV journalist who threw his shoes at United States President George W. Bush. ](/news/2008/12/17/iraqi-parliament-speaker-mahmoud-al-mashhadani-announces-his-resignation-because-of-chaos-over-the-treatment-of-muntadhar-al-zaidi-the-al.md) _Context: George W. Bush, Iraq_
+5. [ Al-Baghdadia TV journalist Muntadhar al Zaidi is subdued after throwing both his shoes at United States President George W. Bush during his farewell speech in Iraq. ](/news/2008/12/14/al-baghdadia-tv-journalist-muntadhar-al-zaidi-is-subdued-after-throwing-both-his-shoes-at-united-states-president-george-w-bush-during-his.md) _Context: George W. Bush, Iraq_
+6. [ In an interview, U.S. President George W. Bush names No Child Left Behind as one of his most significant achievements and hopes to be remembered for the current situation in Iraq ](/news/2008/11/29/in-an-interview-u-s-president-george-w-bush-names-no-child-left-behind-as-one-of-his-most-significant-achievements-and-hopes-to-be-remem.md) _Context: George W. Bush, Iraq_
+7. [ US President George W. Bush pledges 4,500 troops to Afghanistan over the next few months and orders 8,000 troops currently stationed in Iraq to be home by February. ](/news/2008/09/9/us-president-george-w-bush-pledges-4-500-troops-to-afghanistan-over-the-next-few-months-and-orders-8-000-troops-currently-stationed-in-ira.md) _Context: George W. Bush, Iraq_
+8. [ The President of the United States George W. Bush asks the United States Congress for $189.3 billion to fund the wars in Iraq and Afghanistan. ](/news/2007/10/22/the-president-of-the-united-states-george-w-bush-asks-the-united-states-congress-for-189-3-billion-to-fund-the-wars-in-iraq-and-afghanist.md) _Context: George W. Bush, Iraq_
+9. [ U.S. President George W. Bush makes a surprise visit to Iraq and addresses military leaders and the troops, saying that with success, a U.S. Iraq troop cut is possible. ](/news/2007/09/3/u-s-president-george-w-bush-makes-a-surprise-visit-to-iraq-and-addresses-military-leaders-and-the-troops-saying-that-with-success-a-u-s.md) _Context: George W. Bush, Iraq_
+10. [ U.S. President George W. Bush calls for a UN-backed action over Kosovo's independence despite Russian and Serbian opposition. ](/news/2007/06/9/u-s-president-george-w-bush-calls-for-a-un-backed-action-over-kosovo-s-independence-despite-russian-and-serbian-opposition.md) _Context: George W. Bush, UN_

@@ -1,7 +1,7 @@
 ## [2012-10-26](/news/2012/10/26/index.md)
 
 ### [Latest round of sectarian clashes between Buddhists and Rohingya Muslims kill at least 64 people in western Burma; 3,200 Rohingya have been displaced. ](/news/2012/10/26/latest-round-of-sectarian-clashes-between-buddhists-and-rohingya-muslims-kill-at-least-64-people-in-western-burma-3-200-rohingya-have-been.md)
-_Context: Buddhist, Burma, Latest round of sectarian clashes, Rohingya_
+_Context: Buddhist, Burma, Latest round of sectarian clashes, Rohingya people_
 
 ### [Fighting in Syria continues as the ceasefire agreement mediated by U.N. special envoy Lakhdar Brahimi to occur during the Muslim holiday of Eid al-Adha begins. ](/news/2012/10/26/fighting-in-syria-continues-as-the-ceasefire-agreement-mediated-by-u-n-special-envoy-lakhdar-brahimi-to-occur-during-the-muslim-holiday-of.md)
 Two previous cease-fire attempts failed, and both the Syrian Army and rebels have hedged their commitment to this one.

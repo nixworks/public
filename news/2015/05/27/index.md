@@ -34,7 +34,7 @@ _Context: British House of Commons, Queen's Speech, State Opening of Parliament,
 COPENHAGEN (REUTERS) - Danish Prime Minister Helle Thorning-Schmidt on Wednesday called an election for June 18 in which her centre-left Social Democrats will face stiff competition from the centre-right Liberals who want more curbs on immigration and limits on state spending.. Read more at straitst...
 
 ### [Rick Santorum announces he will be seeking the nomination of the Republican Party in the United States presidential election, 2016. ](/news/2015/05/27/rick-santorum-announces-he-will-be-seeking-the-nomination-of-the-republican-party-in-the-united-states-presidential-election-2016.md)
-_Context: 2016 U.S. presidential election, Republican Party presidential candidates, 2016, Rick Santorum_
+_Context: Republican Party presidential candidates, 2016, Rick Santorum, United States presidential election, 2016_
 
 ### [Elon Musk's SpaceX wins U.S. Air Force approval to launch military satellites. ](/news/2015/05/27/elon-musk-s-spacex-wins-u-s-air-force-approval-to-launch-military-satellites.md)
 Elon Musk&#39;s firm SpaceX has won long-waited approval from the US Air Force to launch military satellites, opening the way to a lucrative market.

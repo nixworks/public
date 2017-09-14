@@ -1,10 +1,10 @@
 ## [2010-10-3](/news/2010/10/3/index.md)
 
 ### [Security forces eliminated 25 Taliban militants in their former stronghold Nad Ali district of southern Helmand Province of Afghanistan. ](/news/2010/10/3/security-forces-eliminated-25-taliban-militants-in-their-former-stronghold-nad-ali-district-of-southern-helmand-province-of-afghanistan.md)
-_Context: Afghanistan's, Helmand Province, Nad Ali, Taliban_
+_Context: Afghanistan, Helmand Province, Nad Ali, Taliban_
 
 ### [A roadside bomb strikes a civilian car in Paktika Province, in eastern Afghanistan, leaving seven civilians dead. ](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.md)
-_Context: Afghanistan's, Paktika Province_
+_Context: Afghanistan, Paktika Province_
 
 ### [Twelve people were killed and seven injured after individuals opened fire at NATO oil tankers near the Defence Housing Authority, in Rawalpindi, Pakistan. ](/news/2010/10/3/twelve-people-were-killed-and-seven-injured-after-individuals-opened-fire-at-nato-oil-tankers-near-the-defence-housing-authority-in-rawalpi.md)
 _Context: Defence Housing Authority, NATO, Rawalpindi_

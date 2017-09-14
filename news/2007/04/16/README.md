@@ -34,7 +34,7 @@ _Context: 2006, 2007, ExxonMobil Corporation, Fortune 500, US$, Wal-Mart, fiscal
 _Context: Tamil Nadu, Thirumatpur, minibus, southern India, train_
 
 ### [ At least ten Afghan police die in a suicide bombing in Kunduz in northeastern Afghanistan. ](/news/2007/04/16/at-least-ten-afghan-police-die-in-a-suicide-bombing-in-kunduz-in-northeastern-afghanistan.md)
-_Context: Afghanistan's, Kunduz, police, suicide bombing_
+_Context: Afghanistan, Kunduz, police, suicide bombing_
 
 ## [Previous Day...](/news/2007/04/15/index.md)
 

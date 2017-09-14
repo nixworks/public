@@ -28,7 +28,7 @@ France has entered its second recession in four years after the economy shrank b
 The Bank of England upgrades its economic growth forecast, but separate figures show a rise in UK unemployment.
 
 ### [Authorities in Myanmar and Bangladesh prepare for the arrival of Cyclone Mahasen, which has already killed at least seven people and displaced nearly 4,000 in Sri Lanka. ](/news/2013/05/15/authorities-in-myanmar-and-bangladesh-prepare-for-the-arrival-of-cyclone-mahasen-which-has-already-killed-at-least-seven-people-and-displac.md)
-_Context: Bangladesh, Cyclone Mahasen, Myanmar, Sri Lanka_
+_Context: Bangladesh, Burmese, Cyclone Mahasen, Sri Lanka_
 
 ### [A tornado hits Granbury, Texas, United States, killing several people and injuring at least 100. ](/news/2013/05/15/a-tornado-hits-granbury-texas-united-states-killing-several-people-and-injuring-at-least-100.md)
 _Context: Granbury, Texas, United States_

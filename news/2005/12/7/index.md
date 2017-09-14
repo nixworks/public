@@ -4,7 +4,7 @@
 _Context: Canada, Canadian Prime Minister, Dick Cheney, Paul Martin, U.S. Vice President, United States, climate change, diplomatic_
 
 ### [ The third President of Singapore, Chengara Veetil Devan Nair, passes away in Canada at the age of 82. ](/news/2005/12/7/the-third-president-of-singapore-chengara-veetil-devan-nair-passes-away-in-canada-at-the-age-of-82.md)
-_Context: Canada, Chengara Veetil Devan Nair, President_
+_Context: Canada, Chengara Veetil Devan Nair, president_
 
 ### [ Two people are wounded in Malawi, which is facing serious food shortages, following clashes between police and people trying to buy cornmeal. ](/news/2005/12/7/two-people-are-wounded-in-malawi-which-is-facing-serious-food-shortages-following-clashes-between-police-and-people-trying-to-buy-cornmea.md)
 _Context: Malawi, cornmeal, serious food shortages_

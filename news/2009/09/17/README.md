@@ -28,7 +28,7 @@ Colombia could consider quitting the South American Nations Union, Unasur, if th
 _Context: Ethiopia, International Crisis Group, Meles Zenawi, Prime Minister_
 
 ### [ A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. ](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-afghanistan-kills-six-italian-isaf-soldiers.md)
-_Context: Afghanistan's, ISAF, Italy, Kabul, car bomb_
+_Context: Afghanistan, ISAF, Italy, Kabul, car bomb_
 
 ### [ Egypt's top Islamic authority, Grand Mufti Ali Gomaa, defends women's rights to wear trousers in public following the high-profile court case in neighbouring Sudan where women, including Lubna al-Hussein, were flogged for dressing in the garments. ](/news/2009/09/17/egypt-s-top-islamic-authority-grand-mufti-ali-gomaa-defends-women-s-rights-to-wear-trousers-in-public-following-the-high-profile-court-ca.md)
 _Context: Ali Gomaa, Egypt's, Grand Mufti, Lubna al-Hussein, Muslims, Sudan, lashes_

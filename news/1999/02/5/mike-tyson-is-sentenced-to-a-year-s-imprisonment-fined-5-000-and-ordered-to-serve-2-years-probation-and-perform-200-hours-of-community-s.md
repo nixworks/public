@@ -8,4 +8,5 @@
 ### Related:
 
 1. [ Mike Tyson announces he will retire from boxing. Wikinews](/news/2005/06/12/mike-tyson-announces-he-will-retire-from-boxing-wikinews.md) _Context: Mike Tyson_
-2. [ Lennox Lewis knocks out Mike Tyson in an IBF and WBC championship boxing match in Memphis.](/news/2002/06/8/lennox-lewis-knocks-out-mike-tyson-in-an-ibf-and-wbc-championship-boxing-match-in-memphis.md) _Context: Mike Tyson_
+2. [ In Memphis, Tennessee, Mike Tyson beats fringe contender Clifford Etienne 49 seconds into round one of a boxing match. In an undercard bout, controversial former skater Tonya Harding loses a four round decision in her women's professional boxing debut.](/news/2003/02/22/in-memphis-tennessee-mike-tyson-beats-fringe-contender-clifford-etienne-49-seconds-into-round-one-of-a-boxing-match-in-an-undercard-bout.md) _Context: Mike Tyson_
+3. [ Lennox Lewis knocks out Mike Tyson in an IBF and WBC championship boxing match in Memphis.](/news/2002/06/8/lennox-lewis-knocks-out-mike-tyson-in-an-ibf-and-wbc-championship-boxing-match-in-memphis.md) _Context: Mike Tyson_

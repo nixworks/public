@@ -1,7 +1,7 @@
 ## [2017-08-27](/news/2017/08/27/index.md)
 
 ### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md)
-_Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Kutupalong Refugee Camp, Muslims, Myanmar, Rakhine State, Rohingya, Rohingya insurgency in Western Myanmar, Ukhia_
+_Context: 2016-17 Northern Rakhine State clashes, 2016-17 Rohingya persecution in Myanmar, Bangladesh, Burmese, Kutupalong Refugee Camp, Muslims, Rakhine State, Rohingya insurgency in Western Myanmar, Rohingya people, Ukhia_
 
 ### [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md)
  &nbsp; TAL AFAR, Iraq &ndash; The Iraqi army has announced that their forces are now in full control of the city of Tal Afar, just eight days after the launch of the operation against ISIS militants. &nbsp; Lt. Gen. Abdulamir Rashid Yaralla, commander of the Tal Afar operation, stated that the...

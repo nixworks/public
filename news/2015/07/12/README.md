@@ -7,7 +7,7 @@ Despite a UN-brokered truce, Saudi-led coalition forces bombed Houthi targets in
 _Context: 2015 Sousse attacks, Tunisia_
 
 ### [A suicide car bomb kills 25 people and wounds 10 in southeastern Afghanistan close to a U.S. base. ](/news/2015/07/12/a-suicide-car-bomb-kills-25-people-and-wounds-10-in-southeastern-afghanistan-close-to-a-u-s-base.md)
-_Context: Afghanistan's, United States, War in Afghanistan (2015-present), car bomb_
+_Context: Afghanistan, United States, War in Afghanistan (2015-present), car bomb_
 
 ### [The Government of Colombia and FARC announce plans to negotiate a ceasefire to end the fifty year old dispute. ](/news/2015/07/12/the-government-of-colombia-and-farc-announce-plans-to-negotiate-a-ceasefire-to-end-the-fifty-year-old-dispute.md)
 _Context: Colombian conflict (1964-present), Colombian government, FARC_

@@ -1,0 +1,19 @@
+### [2003-03-16](/news/2003/03/16/index.md)
+
+#  Israeli-Palestinian conflict: Rachel Corrie, a college student from Olympia, Washington and member of the Palestinian International Solidarity Movement, is killed by an Israeli bulldozer when she tries to prevent it as a human shield from demolishing the house of the Palestinian Dr. Samir Masri.
+
+
+
+
+### Related:
+
+1. [ Israeli-Palestinian Conflict: Israel is to ban using Palestinians as human shields following a Supreme Court of Israel ruling. ](/news/2005/10/6/israeli-palestinian-conflict-israel-is-to-ban-using-palestinians-as-human-shields-following-a-supreme-court-of-israel-ruling.md) _Context: Israeli-Palestinian conflict, human shield_
+2. [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _Context: Israeli-Palestinian conflict_
+3. [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md) _Context: Israeli-Palestinian conflict_
+4. [Israeli agents, disguised as Arabs escorting a woman in labor, raids a hospital in Hebron, West Bank, seizing a Palestinian suspected of stabbing and shooting dead his cousin. ](/news/2015/11/12/israeli-agents-disguised-as-arabs-escorting-a-woman-in-labor-raids-a-hospital-in-hebron-west-bank-seizing-a-palestinian-suspected-of-sta.md) _Context: Israeli-Palestinian conflict_
+5. [Palestinian rioters set fire to the building containing Joseph's Tomb in the West Bank city of Nablus causing heavy damage to the structure before the fire is put out. Palestinian Authority President Mahmoud Abbas condemns the attack. ](/news/2015/10/16/palestinian-rioters-set-fire-to-the-building-containing-joseph-s-tomb-in-the-west-bank-city-of-nablus-causing-heavy-damage-to-the-structure.md) _Context: Israeli-Palestinian conflict_
+6. [An Israeli is stabbed by a fellow Israeli Jew, because he is mistaken for an Arab. ](/news/2015/10/15/an-israeli-is-stabbed-by-a-fellow-israeli-jew-because-he-is-mistaken-for-an-arab.md) _Context: Israeli-Palestinian conflict_
+7. [Palestinians carried out three stabbing attacks against Israeli citizens and police in Jerusalem today with two of the attackers shot dead as the wave of violence continues, police said. There have been a series of stabbing attacks in Israel and the West Bank in recent days that have wounded several Israelis; nine attackers have been shot dead. Also, at least 16 Palestinians have been killed by Israeli forces during/after violent demonstrations in the West Bank and Gaza. ](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.md) _Context: Israeli-Palestinian conflict_
+8. [The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinian-territory.md) _Context: Israeli-Palestinian conflict_
+9. [Israeli-Palestinian conflict: The Committee on the Rights of the Child accuses Israeli soldiers of torturing Palestinian children and using them as human shields. ](/news/2013/06/20/israeliapalestinian-conflict-the-committee-on-the-rights-of-the-child-accuses-israeli-soldiers-of-torturing-palestinian-children-and-usin.md) _Context: human shield_
+10. [An Israeli court rules that Israel is not responsible for the death of American activist Rachel Corrie at the hands of an Israeli Army bulldozer in the Gaza Strip in 2003. ](/news/2012/08/28/an-israeli-court-rules-that-israel-is-not-responsible-for-the-death-of-american-activist-rachel-corrie-at-the-hands-of-an-israeli-army-bulld.md) _Context: Rachel Corrie_

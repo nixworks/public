@@ -11,7 +11,7 @@ Bret Baier also retracted his report that Clinton&#39;s email server had been ha
 
 ### Related:
 
-1. [Hillary Clinton releases the book "What Happened", a memoir about her failed presidential campaign. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-failed-presidential-campaign.md) _Context: Hillary Clinton_
+1. [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md) _Context: Hillary Clinton_
 2. [Sky UK stops broadcasting Fox News in the United Kingdom after 15 years due to low audience figures. ](/news/2017/08/29/sky-uk-stops-broadcasting-fox-news-in-the-united-kingdom-after-15-years-due-to-low-audience-figures.md) _Context: Fox News_
 3. [Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. ](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-and-rob-goldstone-discuss-gathering-opposition-research-against-hillary-clinton-through-a-june.md) _Context: Hillary Clinton_
 4. [Fox News retracts their claims regarding the murder. ](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-murder.md) _Context: Fox News_

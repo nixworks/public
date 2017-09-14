@@ -16,7 +16,7 @@ Heavy rain triggered a landslide triggered that killed at least 34 people in nor
 _Context: Banes, Cuba, Hurricane Ike_
 
 ### [ The US military is to 'review an inquiry' into an air raid on a village in Herat province, Afghanistan, after a new video evidence emerged indicating 'scores of civilian deaths'. The US air raid in Afghanistan left up to 90 people dead, 'many of them women and children', the Afghan government and the UN said. However, US officials claimed earlier that 'no more than seven civilians died'. The bodies of 'at least 10 children and many more adults' appear in two videos made with cell phones in the Afghan village Azizabad after the raid. ](/news/2008/09/8/the-us-military-is-to-review-an-inquiry-into-an-air-raid-on-a-village-in-herat-province-afghanistan-after-a-new-video-evidence-emerged.md)
-_Context: Afghanistan's, Azizabad, Herat Province, US military, civilian_
+_Context: Afghanistan, Azizabad, Herat Province, US military, civilian_
 
 ### [ President of Russia Dmitry Medvedev and President of France Nicolas Sarkozy announced after talks in Moscow that an agreement to pull Russian forces from Georgia within a month has been reached. The agreement has become possible as EU will send 200 civilian monitors to the area and guarantee that Georgia signs a pledge to not use military force in Abkhazia and South Ossetia again. ](/news/2008/09/8/president-of-russia-dmitry-medvedev-and-president-of-france-nicolas-sarkozy-announced-after-talks-in-moscow-that-an-agreement-to-pull-russi.md)
 _Context: Abkhazia, Dmitry Medvedev, Georgian, Moscow, Nicolas Sarkozy, President of France, Russian President Vladimir Putin, Russian security forces, South Ossetia_
