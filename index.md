@@ -6,6 +6,9 @@ A fire at an Islamic boarding school for boys killed at least 24 people, most of
 ### [Russia and Belarus begin a six day joint strategic military exercise inside Belarus and Russia's Kaliningrad Oblast. The military exercise simulates war against the fictional state of Veyshnoria. According to the Defence Ministry of Belarus, fewer than 13,000 personnel will be taking part in the exercise; however, Western analysts believe the total number will range from 60,000 to 100,000. ](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.md)
 _Context: Belarus, Belarus-Russia relations, Defence Ministry of Belarus, Kaliningrad Oblast, Russia, Veyshnoria, Zapad 2017 exercise, military exercise_
 
+### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
+_Context: Communist, Makabayan, Philippine lower House, drug crackdown_
+
 ### [In an interview with her friend Anderson Cooper, two-time Democratic candidate and presidential loser and one-time popular vote winner Hillary Clinton says that the electoral college must be eliminated. ](/news/2017/09/14/in-an-interview-with-her-friend-anderson-cooper-two-time-democratic-candidate-and-presidential-loser-and-one-time-popular-vote-winner-hilla.md)
 _Context: Anderson Cooper, Democratic, Hillary Clinton, United States presidential election, 2016, electoral college, popular vote_
 
@@ -34,6 +37,9 @@ _Context: Crime in New York, Hillary Clinton, Martin Shkreli_
 
 ### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
 European Commission President Jean-Claude Juncker made key proposals in his annual State of the European Union address to the European Parliament on Wednesday.
+
+### [In an official dinner hosted by the United States President, Donald J. Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-j-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pel.md)
+_Context: Chuck Schumer, Democratic, Donald J. Trump, Nancy Pelosi, President, United States_
 
 ### [Scientists hope to revive the extinct Floreana island tortoise using a 'genetically-informed' captive breeding program with the tortoises closest ancestors. ](/news/2017/09/13/scientists-hope-to-revive-the-extinct-floreana-island-tortoise-using-a-genetically-informed-captive-breeding-program-with-the-tortoises-cl.md)
 Scientists from around the world are hoping to return a lost species of giant tortoise to one of the world-famous Galápagos islands.
