@@ -15,7 +15,7 @@ A NEW threat directed at America and Japan is certain to heighten fears of a Nor
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
 _Context: Communist, Makabayan, Philippine lower House, drug crackdown_
 
-### [After 13 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-13-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
+### [After 20 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-20-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
 The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
 
 ## [Previous Day...](/news/2017/09/13/index.md)

@@ -15,7 +15,7 @@ A NEW threat directed at America and Japan is certain to heighten fears of a Nor
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
 _Context: Communist, Makabayan, Philippine lower House, drug crackdown_
 
-### [After 13 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-13-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
+### [After 20 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-20-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
 The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
 
 ## Opinion
@@ -41,8 +41,8 @@ At issue is whether the congressional map Texas adopted in 2013 violates the Con
 ### [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md)
 Israel&apos;s Supreme Court has ruled that religious young men studying in seminaries have no intrinsic right to be exempt from military service, a major change that threatens the governing coalition.
 
-### [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-shkreli-was-convicted-of-fraud-in.md)
-_Context: Crime in New York, Hillary Clinton, Martin Shkreli_
+### [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after a Twitter post in which Shkreli said that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-after-a-twitter-post-in-which-shkr.md)
+_Context: Crime in New York, Hillary Clinton, Martin Shkreli, Twitter_
 
 ### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
 European Commission President Jean-Claude Juncker made key proposals in his annual State of the European Union address to the European Parliament on Wednesday.

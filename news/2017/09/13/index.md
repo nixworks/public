@@ -15,8 +15,8 @@ At issue is whether the congressional map Texas adopted in 2013 violates the Con
 ### [The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. ](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-exemption-on-the-conscription-of-ultra-orthodox-jews.md)
 Israel&apos;s Supreme Court has ruled that religious young men studying in seminaries have no intrinsic right to be exempt from military service, a major change that threatens the governing coalition.
 
-### [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-shkreli-was-convicted-of-fraud-in.md)
-_Context: Crime in New York, Hillary Clinton, Martin Shkreli_
+### [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after a Twitter post in which Shkreli said that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-after-a-twitter-post-in-which-shkr.md)
+_Context: Crime in New York, Hillary Clinton, Martin Shkreli, Twitter_
 
 ### [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md)
 European Commission President Jean-Claude Juncker made key proposals in his annual State of the European Union address to the European Parliament on Wednesday.
