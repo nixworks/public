@@ -1,5 +1,8 @@
 ## [News](/news/2017/09/15/index.md)
 
+### [A law is on its way to be passed in California that will allow people to choose a third gender () besides the common female ([?]) and male ([?]) categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-a-besides-the-common-female-ai-and.md)
+California is the latest state to consider adding a third gender option on driver’s licenses and birth certificates for those that do not identify as a man or woman.
+
 ### [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md)
 North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
 
@@ -17,6 +20,9 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [Several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others. ](/news/2017/09/14/several-members-of-isil-stage-multiple-attacks-on-the-outskirts-of-nasiriyah-in-the-southern-dhi-qar-governorate-killing-at-least-50-people.md)
 Gunmen and a suicide bomber storm a restaurant and open fire before a bomb explodes at a checkpoint.
 
+### [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md)
+_Context: Feminism in the United States, Google, female, inequality_
+
 ### [A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. ](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.md)
 A fire at an Islamic boarding school for boys killed at least 24 people, most of them students, in the Malaysian capital of Kuala Lumpur on Thursday morning, officials said.
 
@@ -31,6 +37,9 @@ Gujarat to Mumbai 217mph train will cut journey time from eight hours to three a
 
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
 _Context: Communist, Makabayan, Philippine lower House, drug crackdown_
+
+### [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md)
+_Context: California, Eric Garcetti, Kamala Harris, Super Tuesday, United States presidential election, 2020, primaries_
 
 ### [After 20 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-20-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
 The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
