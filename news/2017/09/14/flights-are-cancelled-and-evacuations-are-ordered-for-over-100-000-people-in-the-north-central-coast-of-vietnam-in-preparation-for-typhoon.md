@@ -7,7 +7,7 @@ Vietnam on Thursday was bracing for Typhoon Doksuri, which is expected to be the
 
 ### Source:
 
-1. [The Washington Post](https://www.washingtonpost.com/world/asia_pacific/vietnam-braces-for-storm-doksuri-ordering-evacuation/2017/09/14/f12d7564-9920-11e7-af6a-6555caaeb8dc_story.html?utm_term=.9c57530dd21c)
+1. [ (''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/vietnam-braces-for-storm-doksuri-ordering-evacuation/2017/09/14/f12d7564-9920-11e7-af6a-6555caaeb8dc_story.html)
 
 ### Related:
 

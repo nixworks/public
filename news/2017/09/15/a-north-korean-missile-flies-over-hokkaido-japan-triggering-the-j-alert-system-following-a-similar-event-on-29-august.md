@@ -1,6 +1,6 @@
 ### [2017-09-15](/news/2017/09/15/index.md)
 
-#  A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. 
+# A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. 
 
 North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
 
