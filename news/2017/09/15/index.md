@@ -1,6 +1,6 @@
 ## [2017-09-15](/news/2017/09/15/index.md)
 
-### [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured.md)
+### [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. Scotland Yard has confirmed the incident to be a terrorist attack. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured-scotland-yard-has-confirmed-the-incident.md)
 Passengers on District line reported seeing a device and hearing a bang on a tube train during morning rush-hour
 
 ### [Typhoon Doksuri (Maring) hits central Vietnam killing one person and injuring ten. ](/news/2017/09/15/typhoon-doksuri-maring-hits-central-vietnam-killing-one-person-and-injuring-ten.md)
@@ -12,8 +12,8 @@ North Korea fired its second missile over Japan in as many months, a fresh provo
 ### [A law is on its way to be passed in California that will allow people to choose a third gender besides the common female and male categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-besides-the-common-female-and-male-categories.md)
 California is the latest state to consider adding a third gender option on driver’s licenses and birth certificates for those that do not identify as a man or woman.
 
-### [The government of Iceland collapses after the father of Prime Minister Bjarni Benediktsson wrote a letter recommending that a convicted paedophile be pardoned. ](/news/2017/09/15/the-government-of-iceland-collapses-after-the-father-of-prime-minister-bjarni-benediktsson-wrote-a-letter-recommending-that-a-convicted-paed.md)
-_Context: Bjarni Benediktsson, Politics of Iceland, Prime Minister, government of Iceland_
+### [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned.md)
+_Context: Bjarni Benediktsson, Politics of Iceland, Prime Minister_
 
 ### [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md)
 _Context: Caloocan, Philippine Drug War, Philippine National Police_
