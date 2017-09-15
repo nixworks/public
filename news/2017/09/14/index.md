@@ -3,6 +3,9 @@
 ### [Several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others. ](/news/2017/09/14/several-members-of-isil-stage-multiple-attacks-on-the-outskirts-of-nasiriyah-in-the-southern-dhi-qar-governorate-killing-at-least-50-people.md)
 Gunmen and a suicide bomber storm a restaurant and open fire before a bomb explodes at a checkpoint.
 
+### [The origin of the zero may have been in South Asia according to a Sanskrit script housed in the United Kingdom since 1902 and discovered in Bakhshali near Peshawar, Pakistan. ](/news/2017/09/14/the-origin-of-the-zero-may-have-been-in-south-asia-according-to-a-sanskrit-script-housed-in-the-united-kingdom-since-1902-and-discovered-in.md)
+Exclusive: one of the greatest conceptual breakthroughs in mathematics has been traced to the Bakhshali manuscript, dating from the 3rd or 4th century
+
 ### [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md)
 _Context: Feminism in the United States, Google, female, inequality_
 
@@ -19,7 +22,7 @@ _Context: Belarus, Belarus-Russia relations, Defence Ministry of Belarus, Kalini
 Gujarat to Mumbai 217mph train will cut journey time from eight hours to three and is funded with low-interest Japanese loan
 
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
-_Context: Communist, Makabayan, Philippine lower House, drug crackdown_
+_Context: Communist, Makabayan, Philippine Drug War, Philippine lower House_
 
 ### [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md)
 _Context: California, Eric Garcetti, Kamala Harris, Super Tuesday, United States presidential election, 2020, primaries_

@@ -13,7 +13,10 @@ North Korea fired its second missile over Japan in as many months, a fresh provo
 California is the latest state to consider adding a third gender option on driver’s licenses and birth certificates for those that do not identify as a man or woman.
 
 ### [The government of Iceland collapses after the father of Prime Minister Bjarni Benediktsson wrote a letter recommending that a convicted paedophile be pardoned. ](/news/2017/09/15/the-government-of-iceland-collapses-after-the-father-of-prime-minister-bjarni-benediktsson-wrote-a-letter-recommending-that-a-convicted-paed.md)
-_Context: Bjarni Benediktsson, Prime Minister, government of Iceland_
+_Context: Bjarni Benediktsson, Politics of Iceland, Prime Minister, government of Iceland_
+
+### [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md)
+_Context: Caloocan, Philippine Drug War, Philippine National Police_
 
 ## [Previous Day...](/news/2017/09/14/index.md)
 
