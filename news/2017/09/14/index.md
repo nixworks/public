@@ -27,9 +27,6 @@ _Context: Communist, Makabayan, Philippine Drug War, Philippine lower House_
 ### [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md)
 _Context: California, Eric Garcetti, Kamala Harris, Super Tuesday, United States presidential election, 2020, primaries_
 
-### [After 20 years floating the Solar System, the "Cassini-Huygens" probe makes its way towards the atmosphere of Saturn; its final voyage. ](/news/2017/09/14/after-20-years-floating-the-solar-system-the-cassini-huygens-probe-makes-its-way-towards-the-atmosphere-of-saturn-its-final-voyage.md)
-The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
-
 ### [The International Union for Conservation of Nature upgrades the conservation status of the snow leopard from endangered to vulnerable. ](/news/2017/09/14/the-international-union-for-conservation-of-nature-upgrades-the-conservation-status-of-the-snow-leopard-from-endangered-to-vulnerable.md)
 Although no longer at imminent risk of extinction, scientists are warning the Himalayan big cat is not out of the woods yet.
 
