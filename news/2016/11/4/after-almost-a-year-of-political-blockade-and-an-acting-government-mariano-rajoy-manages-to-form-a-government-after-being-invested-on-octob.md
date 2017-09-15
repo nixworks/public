@@ -1,6 +1,6 @@
 ### [2016-11-4](/news/2016/11/4/index.md)
 
-# After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29-
+# After almost a year of political blockade and an acting government, Mariano Rajoy manages to form a government after being invested on October 29- 2nd time que nos vimos First time holding hands
 
 
 
