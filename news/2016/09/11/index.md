@@ -25,7 +25,7 @@ City’s acting Communist party chief is accused of ‘serious discipline breach
 _Context: Croatia, Croatian Democratic Union, Croatian parliamentary election, 2016_
 
 ### [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md)
-_Context: Democrats, Hillary Clinton, New York City, September 11 attacks, United States presidential election, 2016, pneumonia, presidential campaign_
+_Context: Democratic, Hillary Clinton, New York City, September 11 attacks, United States presidential election, 2016, pneumonia, presidential campaign_
 
 ## [Previous Day...](/news/2016/09/10/index.md)
 

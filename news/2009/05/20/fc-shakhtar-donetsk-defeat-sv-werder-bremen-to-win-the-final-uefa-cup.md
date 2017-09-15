@@ -9,3 +9,7 @@ Europe&#39;s football website, UEFA.com, is the official site of UEFA, the Union
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/europe/8057354.stm)
 2. [UEFA](http://www.uefa.com/competitions/uefacup/news/kind=1/newsid=831323.html)
+
+### Related:
+
+1. [ In football, Valencia wins the UEFA Cup, defeating Olympique Marseille 2-0. ](/news/2004/05/19/in-football-valencia-wins-the-uefa-cup-defeating-olympique-marseille-2a0.md) _Context: UEFA Cup_

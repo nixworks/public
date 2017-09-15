@@ -4,7 +4,7 @@
 _Context: Wertheim am Main_
 
 ### [ Terrorist incident: A double suicide bombing shatters a busy area of Tel Aviv, Israel. 23 people are killed and about 100 are wounded. Both the Islamic Jihad and Hamas claim to be responsible for the double bombing.](/news/2003/01/5/terrorist-incident-a-double-suicide-bombing-shatters-a-busy-area-of-tel-aviv-israel-23-people-are-killed-and-about-100-are-wounded-both.md)
-_Context: Hamas, Israel, Palestinian Islamic Jihad, Tel Aviv, Terrorist incident, suicide bombing_
+_Context: Hamas, Israel, Palestinian Islamic Jihad, Tel Aviv, Terrorist incidents, suicide bombing_
 
 ### [ Roy Jenkins dies.](/news/2003/01/5/roy-jenkins-dies.md)
 _Context: Roy Jenkins_

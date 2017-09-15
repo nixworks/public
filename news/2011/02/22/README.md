@@ -49,7 +49,7 @@ Global National with Dawna Friesen is Canada&#039;s early evening national newsc
 _Context: 2011 Bahraini protests, Hamad ibn Isa Al Khalifa, King of Bahrain_
 
 ### [The Democrats in the Indiana House of Representatives leave for other states in the U.S. rather than vote on anti-union legislation. ](/news/2011/02/22/the-democrats-in-the-indiana-house-of-representatives-leave-for-other-states-in-the-u-s-rather-than-vote-on-anti-union-legislation.md)
-_Context: Democrats, Indiana House of Representatives_
+_Context: Democratic, Indiana House of Representatives_
 
 ### [Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of-staff-rahm-emanuel-winni.md)
 _Context: Chicago mayoral election, Chicago, Illinois, Rahm Emanuel, USA, White House Chief of Staff_

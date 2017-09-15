@@ -1,7 +1,7 @@
 ## [2006-11-21](/news/2006/11/21/index.md)
 
 ### [ Same-sex marriage in Israel: The Supreme Court of Israel orders the Israeli government to recognize same-sex marriage performed abroad. ](/news/2006/11/21/same-sex-marriage-in-israel-the-supreme-court-of-israel-orders-the-israeli-government-to-recognize-same-sex-marriage-performed-abroad.md)
-_Context: Israel's Supreme Court, Politics of Israel, Same-sex marriage in Israel, same-sex marriage_
+_Context: Politics of Israel, Same-sex marriage in Israel, Supreme Court, same-sex marriage_
 
 ### [ Police in Sweden announce that they may have found the weapon used in the unsolved murder of prime minister Olof Palme in 1986. ](/news/2006/11/21/police-in-sweden-announce-that-they-may-have-found-the-weapon-used-in-the-unsolved-murder-of-prime-minister-olof-palme-in-1986.md)
 _Context: 1986, Olof Palme, Sweden, prime minister_

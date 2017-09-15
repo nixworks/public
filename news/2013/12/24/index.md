@@ -10,7 +10,7 @@ Leaders warned they may be held to account over deaths as fears of ethnic killin
 The deaths of an Israeli laborer and a Palestinian toddler were the latest in a growing wave of Israeli-Palestinian violence.
 
 ### [The New People's Army, the armed branch of the Communist Party of the Philippines, torches 3 taxis in Panabo, Davao del Norte, just before a Christmas 'truce'. ](/news/2013/12/24/the-new-people-s-army-the-armed-branch-of-the-communist-party-of-the-philippines-torches-3-taxis-in-panabo-davao-del-norte-just-before-a.md)
-_Context: Christmas, Communist Party of the Philippines, Davao del Norte, New People's Army, Panabo_
+_Context: Christmas, Communist, Davao del Norte, New People's Army, Panabo_
 
 ### [Pope Francis visits Pope Emeritus Benedict XVI before celebrating his first Christmas Mass. ](/news/2013/12/24/pope-francis-visits-pope-emeritus-benedict-xvi-before-celebrating-his-first-christmas-mass.md)
 _Context: Christmas, Pope Benedict XVI, Pope Francis_

@@ -13,4 +13,5 @@
 
 1. [The night of September 28 sees a lunar eclipse (sometimes described as a "blood moon") with asupermoon. ](/news/2015/09/27/the-night-of-september-28-sees-a-lunar-eclipse-sometimes-described-as-a-blood-moon-with-asupermoon.md) _Context: lunar eclipse_
 2. [ A total lunar eclipse is visible from the Midwestern United States to Southeast Asia from 22:44 to 23:58 GMT. ](/news/2007/03/3/a-total-lunar-eclipse-is-visible-from-the-midwestern-united-states-to-southeast-asia-from-22-44-to-23-58-gmt.md) _Context: lunar eclipse_
-3. [A total lunar eclipse takes place, the first of two total lunar eclipses of the year.](/news/2000/01/21/a-total-lunar-eclipse-takes-place-the-first-of-two-total-lunar-eclipses-of-the-year.md) _Context: lunar eclipse_
+3. [ Astronomy: A total lunar eclipse is visible from Europe, the Americas and most of Africa from 01:46 to 05:34 GMT ](/news/2003/05/16/astronomy-a-total-lunar-eclipse-is-visible-from-europe-the-americas-and-most-of-africa-from-01-46-to-05-34-gmt.md) _Context: lunar eclipse_
+4. [A total lunar eclipse takes place, the first of two total lunar eclipses of the year.](/news/2000/01/21/a-total-lunar-eclipse-takes-place-the-first-of-two-total-lunar-eclipses-of-the-year.md) _Context: lunar eclipse_

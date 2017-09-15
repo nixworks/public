@@ -28,7 +28,7 @@ _Context: Puerto Rico, Tropical Storm Emily_
 A UN panel of independent legal experts calls on China to free Nobel Peace laureate Liu Xiaobo and his wife and pay them compensation.
 
 ### [Israel's Supreme Court orders the West Bank outpost of Migron, inhabited by 250 Jewish settlers, to be evacuated without delay. ](/news/2011/08/2/israel-s-supreme-court-orders-the-west-bank-outpost-of-migron-inhabited-by-250-jewish-settlers-to-be-evacuated-without-delay.md)
-_Context: Israel, Israel's Supreme Court, West Bank_
+_Context: Israel, Supreme Court, West Bank_
 
 ### [Four European nations (the United Kingdom, France, Germany and Portugal) circulate a draft United Nations Security Council resolution condemning the Government of Syria for its recent crackdown on protesters. ](/news/2011/08/2/four-european-nations-the-united-kingdom-france-germany-and-portugal-circulate-a-draft-united-nations-security-council-resolution-condem.md)
 _Context: 2011 Syrian uprising, Europe, France, Germany, Government of Syria, Portugal, United Kingdom, United Nations Security Council, shell and advance_

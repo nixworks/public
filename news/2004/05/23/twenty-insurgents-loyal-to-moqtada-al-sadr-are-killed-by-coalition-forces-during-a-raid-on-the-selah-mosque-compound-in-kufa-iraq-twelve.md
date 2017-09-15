@@ -1,0 +1,24 @@
+### [2004-05-23](/news/2004/05/23/index.md)
+
+#  Twenty insurgents loyal to Moqtada al-Sadr are killed by Coalition forces during a raid on the Selah mosque compound in Kufa, Iraq. Twelve insurgents are killed in other fighting in Kufa. 
+
+American commanders say insurgents loyal to rebel cleric Moktada al-Sadr appear to have ceded control of central Karbala after three weeks of urban combat; large raid meets no resistance from group of buildings from which insurgents had been firing at American tanks, and civilians return to their homes in area they had abandoned during fierce fighting; Iraqis tell soldiers that insurgents fled after concluding that they were no match for American tanks; commanders intend to press Iraqi police to patrol old city over next few weeks in effort to determine how much of insurgency is left; if rebellion in city has indeed dissipated, it will show that insurgency is suffering badly; photo (M)
+
+
+### Source:
+
+1. [ABC AU](http://www.abc.net.au/news/newsitems/s1114156.htm)
+2. [NYT](http://www.nytimes.com/2004/05/23/international/middleeast/23KARB.html?hp)
+
+### Related:
+
+1. [Moqtada al-Sadr, an Iraqi Shia leader, returns to Iran. ](/news/2011/01/22/moqtada-al-sadr-an-iraqi-shia-leader-returns-to-iran.md) _Context: Iraq, Muqtada al-Sadr_
+2. [At least 30 people are killed and 46 others are wounded, including women and children, as a car bomb explodes near a Shia mosque in Abu Sayeeda, Baqubah, Diyala in Iraq. ](/news/2010/07/21/at-least-30-people-are-killed-and-46-others-are-wounded-including-women-and-children-as-a-car-bomb-explodes-near-a-shia-mosque-in-abu-saye.md) _Context: Iraq, mosque_
+3. [ The Iraqi parliamentary bloc controlled by militia leader Moqtada al-Sadr announces that it will abandon the party led by Prime Minister Nouri al-Maliki. ](/news/2007/09/16/the-iraqi-parliamentary-bloc-controlled-by-militia-leader-moqtada-al-sadr-announces-that-it-will-abandon-the-party-led-by-prime-minister-no.md) _Context: Iraq, Muqtada al-Sadr_
+4. [ Moqtada al-Sadr suspends the activities of his Mehdi Army militia in Iraq for six months. ](/news/2007/08/29/moqtada-al-sadr-suspends-the-activities-of-his-mehdi-army-militia-in-iraq-for-six-months.md) _Context: Iraq, Muqtada al-Sadr_
+5. [ At least 25 people are killed, 22 arrested and five abducted as suspected Al Qaeda in Iraq militants attack a Sunni mosque in Baquba, Iraq. ](/news/2007/08/23/at-least-25-people-are-killed-22-arrested-and-five-abducted-as-suspected-al-qaeda-in-iraq-militants-attack-a-sunni-mosque-in-baquba-iraq.md) _Context: Iraq, mosque_
+6. [ A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. ](/news/2007/05/8/a-suicide-bomber-kills-at-least-10-people-and-injures-many-more-in-an-attack-on-the-shi-ite-city-of-kufa-in-iraq.md) _Context: Iraq, Kufa_
+7. [ Iraq War: Shia cleric Moqtada al-Sadr calls for an anti-American protest on the fourth anniversary of the overthrow of Saddam Hussein. Hundreds of thousands of Shias gather in Najaf for a demonstration calling for U.S.-led troops to leave Iraq. ](/news/2007/04/9/iraq-war-shia-cleric-moqtada-al-sadr-calls-for-an-anti-american-protest-on-the-fourth-anniversary-of-the-overthrow-of-saddam-hussein-hund.md) _Context: Iraq, Muqtada al-Sadr_
+8. [ A bombing occurs at a mosque in Karbala, Iraq, killing 55. ](/news/2007/04/28/a-bombing-occurs-at-a-mosque-in-karbala-iraq-killing-55.md) _Context: Iraq, mosque_
+9. [ Shiite cleric Moqtada al-Sadr announces plans that his political movement intends to quit the Iraqi government in an attempt to press its demand for a timetable for U.S. withdrawal. ](/news/2007/04/15/shiite-cleric-moqtada-al-sadr-announces-plans-that-his-political-movement-intends-to-quit-the-iraqi-government-in-an-attempt-to-press-its-d.md) _Context: Iraq, Muqtada al-Sadr_
+10. [ A car bomb kills at least 15 labourers and wounds dozens in the southern Iraqi town of Kufa. ](/news/2006/07/18/a-car-bomb-kills-at-least-15-labourers-and-wounds-dozens-in-the-southern-iraqi-town-of-kufa.md) _Context: Iraq, Kufa_

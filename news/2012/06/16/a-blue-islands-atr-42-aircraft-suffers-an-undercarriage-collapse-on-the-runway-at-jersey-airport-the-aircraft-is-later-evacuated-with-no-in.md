@@ -13,3 +13,4 @@ The undercarriage of a Blue Islands plane from Guernsey gives way after landing 
 
 1. [At least 17 people die after a Conviasa ATR 42 crashes near Ciudad Guayana in Venezuela's Bolivar State. ](/news/2010/09/13/at-least-17-people-die-after-a-conviasa-atr-42-crashes-near-ciudad-guayana-in-venezuela-s-bolavar-state.md) _Context: ATR 42_
 2. [ Two crew members escape a FedEx ATR 42 that crashed at Texas's Lubbock Preston Smith International Airport. ](/news/2009/01/27/two-crew-members-escape-a-fedex-atr-42-that-crashed-at-texas-s-lubbock-preston-smith-international-airport.md) _Context: ATR 42_
+3. [ Twenty-two passengers, two stoweaways and crew are injured when an American Eagle ATR 42, flight 1450, crash-lands in San Juan, Puerto Rico. ](/news/2004/05/9/twenty-two-passengers-two-stoweaways-and-crew-are-injured-when-an-american-eagle-atr-42-flight-1450-crash-lands-in-san-juan-puerto-rico.md) _Context: ATR 42_

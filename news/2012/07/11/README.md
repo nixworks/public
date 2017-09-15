@@ -22,7 +22,7 @@ _Context: Bosnia and Herzegovina, Potocari, Srebrenica massacre_
 Musicians from Radiohead and Pink Floyd are among those angered by plans for a new EU copyright law, which they say will not do enough to collect unpaid royalties.
 
 ### [A rare giant panda born naturally in captivity at a Tokyo zoo dies after only six days, prompting widespread mourning in Japan. ](/news/2012/07/11/a-rare-giant-panda-born-naturally-in-captivity-at-a-tokyo-zoo-dies-after-only-six-days-prompting-widespread-mourning-in-japan.md)
-_Context: Japan, Tokyo, breeding, panda_
+_Context: Japan, Tokyo, captive breeding, panda_
 
 ### [Bolivia revokes a mining concession to Canada's South American Silver Corporation after violent protests by Quechua people. ](/news/2012/07/11/bolivia-revokes-a-mining-concession-to-canada-s-south-american-silver-corporation-after-violent-protests-by-quechua-people.md)
 President Evo Morales to revoke concessions of Canadian silver mine following violent opposition from Quechua Indians.

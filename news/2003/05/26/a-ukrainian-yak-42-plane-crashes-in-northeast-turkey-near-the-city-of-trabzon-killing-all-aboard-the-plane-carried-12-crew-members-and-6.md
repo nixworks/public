@@ -1,0 +1,19 @@
+### [2003-05-26](/news/2003/05/26/index.md)
+
+#  A Ukrainian YAk-42 plane crashes in northeast Turkey, near the city of Trabzon, killing all aboard. The plane carried 12 crew-members and 62 Spanish soldiers returning from a six-month peacekeeping mission in Afghanistan.
+
+
+
+
+### Related:
+
+1. [ Two Puma helicopters crash near the city of Herat, in western Afghanistan, killing Spanish troops. ](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.md) _Context: Afghanistan, Spain_
+2. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: Spain_
+3. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md) _Context: Afghanistan_
+4. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan_
+5. [An explosion kills at least 29 people and injures dozens more at a Shia mosque in Herat, Afghanistan. ](/news/2017/08/1/an-explosion-kills-at-least-29-people-and-injures-dozens-more-at-a-shia-mosque-in-herat-afghanistan.md) _Context: Afghanistan_
+6. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _Context: Spain_
+7. [A fire forces the evacuation of more than 22,000 concertgoers at the Tomorrowland music festival at the Parc de Can Zam in Barcelona, Spain. There were no serious injuries. This is the first time the festival has been held in Spain; Belgium had been the home since 2005. ](/news/2017/07/29/a-fire-forces-the-evacuation-of-more-than-22-000-concertgoers-at-the-tomorrowland-music-festival-at-the-parc-de-can-zam-in-barcelona-spain.md) _Context: Spain_
+8. [The remains of surrealist painter Salvador Dali are exhumed following a Madrid court order on settling the paternity claim of a woman who is allegedly the painter's natural daughter. Various experts contest the claim, noting Dali's sexual eccentrism (including a public boast about his "impotency") and that the action being against the state (Dali bequeathed his estate to Spain). If proven, this woman could assume part of Dali's estate. ](/news/2017/07/21/the-remains-of-surrealist-painter-salvador-dala-are-exhumed-following-a-madrid-court-order-on-settling-the-paternity-claim-of-a-woman-who-i.md) _Context: Spain_
+9. [The number of people displaced globally totals 65.6 million after an addition of 10.3 million people displaced in 2016. Syria, Colombia, Afghanistan, Iraq and South Sudan are the countries in the top five. ](/news/2017/06/19/the-number-of-people-displaced-globally-totals-65-6-million-after-an-addition-of-10-3-million-people-displaced-in-2016-syria-colombia-afg.md) _Context: Afghanistan_
+10. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Afghanistan_

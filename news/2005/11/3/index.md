@@ -7,7 +7,7 @@ _Context: Africa, Measles Initiative, measles_
 _Context: 2005 Paris suburb riots_
 
 ### [ A joint Israeli-Palestinian doctors group has filed a petition to the Supreme Court of Israel requesting an end to the Israel Defense Forces use of sonic booms to terrify the Palestinian populace. The Doctors complain that the "sound bombs" cause widespread fear, induce miscarriages and traumatise children. The United Nations claim that the tactic causes panic attacks in children and has smashed thousands of windows. ](/news/2005/11/3/a-joint-israeli-palestinian-doctors-group-has-filed-a-petition-to-the-supreme-court-of-israel-requesting-an-end-to-the-israel-defense-force.md)
-_Context: Israel, Israel Defense Forces, Israel's Supreme Court, Palestinian, United Nations, panic attack, sonic boom_
+_Context: Israel, Israel Defense Forces, Palestinian, Supreme Court, United Nations, panic attack, sonic boom_
 
 ### [ Conflict in Iraq: Seven U.K. troops accused of murdering an Iraqi civilian have had their cases dropped after a judge ruled that there was insufficient evidence against the soldiers and that the Iraqi witnesses lied. ](/news/2005/11/3/conflict-in-iraq-seven-u-k-troops-accused-of-murdering-an-iraqi-civilian-have-had-their-cases-dropped-after-a-judge-ruled-that-there-was.md)
 _Context: Conflict in Iraq, Iraq, United Kingdom_

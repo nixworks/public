@@ -13,7 +13,7 @@ _Context: Baghdad, Blackwater Security, Iraq, United States_
 Sierra Leone&#039;s Opposition leader has been sworn in as the country&#039;s new President after being declared the victor 10 days after a run-off election.
 
 ### [ Hillary Clinton, a candidate for the Democratic Party's nomination in the United States presidential election, 2008, announces a proposal for a universal healthcare plan. ](/news/2007/09/17/hillary-clinton-a-candidate-for-the-democratic-party-s-nomination-in-the-united-states-presidential-election-2008-announces-a-proposal-f.md)
-_Context: 2008, Democrats, Hillary Clinton, universal healthcare_
+_Context: 2008, Democratic, Hillary Clinton, universal healthcare_
 
 ### [ President George W. Bush nominates Michael Mukasey to replace Alberto Gonzales as the next Attorney-General of the United States. ](/news/2007/09/17/president-george-w-bush-nominates-michael-mukasey-to-replace-alberto-gonzales-as-the-next-attorney-general-of-the-united-states.md)
 US President George W Bush has nominated a retired federal judge and law and order conservative to replace embattled Alberto Gonzales as US Attorney-General.

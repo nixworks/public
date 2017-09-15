@@ -1,0 +1,19 @@
+### [2003-05-16](/news/2003/05/16/index.md)
+
+#  Three time defending NBA champions Los Angeles Lakers get eliminated from the 2002-2003 playoffs, losing 110-82 to the San Antonio Spurs in Los Angeles in Game 6 of their series.
+
+
+
+
+### Related:
+
+1. [ Former basketball referee Tim Donaghy accuses other referees in the National Basketball Association of rigging games, including Game 6 in the 2002 Western Conference Finals, allowing the Los Angeles Lakers to win that game, the series, and ultimately the 2002 NBA Finals. ](/news/2008/06/11/former-basketball-referee-tim-donaghy-accuses-other-referees-in-the-national-basketball-association-of-rigging-games-including-game-6-in-t.md) _Context: Los Angeles Lakers, NBA's_
+2. [ The San Antonio Spurs defeat the Cleveland Cavaliers in Game 4 of the 2007 NBA Finals to win the 2007 National Basketball Association Championship. ](/news/2007/06/14/the-san-antonio-spurs-defeat-the-cleveland-cavaliers-in-game-4-of-the-2007-nba-finals-to-win-the-2007-national-basketball-association-champ.md) _Context: NBA's, San Antonio Spurs_
+3. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: Los Angeles, California_
+4. [ Enes Kanter, a Turkish player with the NBA's Oklahoma City Thunder, returns to the U.S. after having been briefly detained in Bucharest. Kanter alleged that his public opposition to Turkish president Recep Tayyip Erdogan and support of exiled Islamic cleric Fethullah Gulen had led to the cancellation of his Turkish passport. ](/news/2017/05/21/enes-kanter-a-turkish-player-with-the-nba-s-oklahoma-city-thunder-returns-to-the-u-s-after-having-been-briefly-detained-in-bucharest-ka.md) _Context: NBA's_
+5. [Enes Kanter, a Turkish basketballer playing in the American National Basketball Association, is detained at Henri Coanda International Airport after his Turkish passport was cancelled. ](/news/2017/05/20/enes-kanter-a-turkish-basketballer-playing-in-the-american-national-basketball-association-is-detained-at-henri-coanda-international-airp.md) _Context: NBA's_
+6. [The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/the-89th-academy-awards-are-held-in-los-angeles-california.md) _Context: Los Angeles, California_
+7. [The board for the US$1 billion Lucas Museum of Narrative Art announces it will construct the museum in Los Angeles, California. ](/news/2017/01/10/the-board-for-the-us-1-billion-lucas-museum-of-narrative-art-announces-it-will-construct-the-museum-in-los-angeles-california.md) _Context: Los Angeles, California_
+8. [Ex National Football League player Darren Sharper is sentenced to 20 years in prison for drugging and raping two women in the American city of Los Angeles, California. Sharper has been accused of attacking a dozen women across the United States. ](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.md) _Context: Los Angeles, California_
+9. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas, after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-do.md) _Context: NBA's_
+10. [The Emmy Awards are held in Los Angeles, California with "Game of Thrones" winning the Emmy for best drama series. ](/news/2015/09/20/the-emmy-awards-are-held-in-los-angeles-california-with-game-of-thrones-winning-the-emmy-for-best-drama-series.md) _Context: Los Angeles, California_

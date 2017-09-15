@@ -19,7 +19,7 @@ A Royal Navy crewman is killed and another is in a life-threatening condition af
 The European Union believes it can complete the Portuguese bail-out, set to be worth 80bn euros, before elections in June.
 
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)
-_Context: United States Department of Justice, WikiLeaks, freedom of speech, tweets_
+_Context: Twitter, United States Department of Justice, WikiLeaks, freedom of speech_
 
 ### [Wayne Swan, the Treasurer of Australia, formally rejects an offer by the Singapore Exchange for the Australian Stock Exchange following advice from the Foreign Investment Review Board. ](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.md)
 _Context: Australian Stock Exchange, Singapore Exchange, Treasurer of Australia, Wayne Swan_

@@ -22,7 +22,7 @@ Ukraine denied on Monday that it had ever supplied defense technology to North K
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
 
 ### [Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in-his-privilege-speech.md)
-_Context: Agnes Callamard, Philippine Drug War, UN special rapporteurs, Vicente "Tito" Sotto III, decades-old problem, senators_
+_Context: Agnes Callamard, UN special rapporteurs, Vicente "Tito" Sotto III, decades-old problem, drug crackdown, senators_
 
 ### [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md)
 All of an estimated 40,000 Rohingya Muslims living in India are illegal immigrants, even those registered with the U.N. refugee agency, and the government aims to deport them, a senior government official told Reuters.

@@ -52,7 +52,7 @@ _Context: Central Bank of China, Chen Shui-bian, China, China, China Shipbuildin
 _Context: Arrow missile, Israel, Israeli security guard_
 
 ### [ Australian Prime Minister John Howard criticizes U.S. Senator Barack Obama (D-IL) for his stance on Iraq, saying that al-Qaeda in Iraq should be praying for Obama to win the election. The opposition Australian Labor Party says that Howard's statement imperiled the relationship Australia might have with the United States under a Democratic administration. ](/news/2007/02/12/australian-prime-minister-john-howard-criticizes-u-s-senator-barack-obama-d-il-for-his-stance-on-iraq-saying-that-al-qaeda-in-iraq-shou.md)
-_Context: 2008, Australia, Australian Prime Minister, Barack Obama, Democrats, Illinois, Iraq, John Howard, Labor Party, United States, United States Senate, al-Qaeda in Iraq, opposition party, relationship_
+_Context: 2008, Australia, Australian Prime Minister, Barack Obama, Democratic, Illinois, Iraq, John Howard, Labor Party, United States, United States Senate, al-Qaeda in Iraq, opposition party, relationship_
 
 ## [Previous Day...](/news/2007/02/11/index.md)
 

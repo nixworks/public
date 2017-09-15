@@ -20,3 +20,4 @@
 7. [ Liverpool F.C. win the FA Cup against West Ham United F.C. on penalties after a last minute 40-yard Steven Gerrard equalizer. ](/news/2006/05/13/liverpool-f-c-win-the-fa-cup-against-west-ham-united-f-c-on-penalties-after-a-last-minute-40-yard-steven-gerrard-equalizer.md) _Context: Liverpool_
 8. [ Liverpool F.C. wins a football match against Tottenham Hotspur F.C. by 1-0. ](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.md) _Context: Liverpool_
 9. [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md) _Context: Liverpool_
+10. [ Liverpool F.C. part company with their manager of six years, Gerard Houllier. ](/news/2004/05/24/liverpool-f-c-part-company-with-their-manager-of-six-years-ga-c-rard-houllier.md) _Context: Liverpool_

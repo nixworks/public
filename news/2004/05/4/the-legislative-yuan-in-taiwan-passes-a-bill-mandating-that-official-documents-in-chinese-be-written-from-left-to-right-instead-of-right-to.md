@@ -1,0 +1,24 @@
+### [2004-05-4](/news/2004/05/4/index.md)
+
+#  The Legislative Yuan in Taiwan passes a bill mandating that official documents in Chinese be written from left to right instead of right to left, ending centuries of tradition. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3683825.stm)
+2. [Straits Times](http://straitstimes.asia1.com.sg/asia/story/0,4386,249302,00.html?)
+
+### Related:
+
+1. [ A motion to vote on a bill opening the Three Links between mainland China and Taiwan is defeated for the third time in the Legislative Yuan of the Republic of China when a Democratic Progressive Party lawmaker tries to eat the written cloture motion. The opposition Pan-Blue Coalition controls the legislature and would have likely passed the bill. ](/news/2006/05/30/a-motion-to-vote-on-a-bill-opening-the-three-links-between-mainland-china-and-taiwan-is-defeated-for-the-third-time-in-the-legislative-yuan.md) _Context: Taiwan, legislative chamber_
+2. [ President Chen Shui-bian says that the hundreds of missiles the People's Republic of China has aimed at Taiwan justifies holding a referendum on independence. The referendum bill recently passed by the Legislative Yuan only allows votes on sovereignty if the country is attacked by a foreign power. [http://news.bbc.co.uk/2/hi/asia-pacific/3252246.stm]](/news/2003/12/1/president-chen-shui-bian-says-that-the-hundreds-of-missiles-the-people-s-republic-of-china-has-aimed-at-taiwan-justifies-holding-a-referend.md) _Context: Taiwan, legislative chamber_
+3. [ China resumes diplomatic ties with SGBPo Tome and Principe two weeks after the African island nation broke diplomatic ties with Taiwan. ](/news/2016/12/26/china-resumes-diplomatic-ties-with-sagbpo-toma-c-and-prancipe-two-weeks-after-the-african-island-nation-broke-diplomatic-ties-with-taiwan.md) _Context: Taiwan_
+4. [ The Republic of China (Taiwan) holds a large military parade in Taipei to commemorate World War II in support of its claims that Kuomintang forces led by Chiang Kai-Shek played a leading role in the defeat of the Empire of Japan with the Chinese Communist Party under Mao Tse-Tung playing a minor role. ](/news/2015/07/4/the-republic-of-china-taiwan-holds-a-large-military-parade-in-taipei-to-commemorate-world-war-ii-in-support-of-its-claims-that-kuomintang.md) _Context: Taiwan_
+5. [Since March 18th, protesters occupy the legislative chamber, opposing the vote without review of the Cross-Strait Service Trade Agreement, denouncing a agreement signed 'in a black box.'date=April 2014Between 116,000 and 500,000 protesters march to the Presidential Office, in opposition to recent governmental push for Cross-Strait Service Trade Agreement vote and other related issues. ](/news/2014/03/30/since-march-18th-protesters-occupy-the-legislative-chamber-opposing-the-vote-without-review-of-the-cross-strait-service-trade-agreement-d.md) _Context: legislative chamber_
+6. [Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. ](/news/2014/03/23/protesters-opposed-to-the-vote-of-the-cross-strait-trade-agreement-without-a-clause-by-clause-review-continue-to-occupy-the-taiwanese-parlia.md) _Context: legislative chamber_
+7. [Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. ](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yuan-in-taiwan-due-to-a-unilateral-move-by-the-kuomintang-that-forces-the-cross-strait-service-t.md) _Context: legislative chamber_
+8. [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md) _Context: Taiwan_
+9. [Voters in the Republic of China go to the polls for the 2012 presidential election. Incumbent President Ma Ying-jeou ultimately wins re-election with 51% of the vote, defeating Democratic Progressive Party chairwoman Tsai Ing-wen. ](/news/2012/01/14/voters-in-the-republic-of-china-go-to-the-polls-for-the-2012-presidential-election-incumbent-president-ma-ying-jeou-ultimately-wins-re-elec.md) _Context: Taiwan_
+10. [The Buddha Memorial Center of Fo Guang Shan in Kaohsiung, Taiwan, housing a tooth relic of Gautama Buddha, is consecrated. ](/news/2011/12/24/the-buddha-memorial-center-of-fo-guang-shan-in-kaohsiung-taiwan-housing-a-tooth-relic-of-gautama-buddha-is-consecrated.md) _Context: Taiwan_

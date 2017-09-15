@@ -1,0 +1,18 @@
+### [2004-05-18](/news/2004/05/18/index.md)
+
+#  Preliminary field tests suggest that the shell found near Baghdad on May 15 contained about four liters of the chemical agent sarin, which attacks the nervous system. 
+
+Recent discoveries of sarin nerve gas and mustard gas in Iraq renew questions about what dangerous weapons Saddam Hussein had in Iraq.
+
+
+### Source:
+
+1. [Fox News](http://www.foxnews.com/story/0,2933,120137,00.html)
+2. [New York Times/AP](http://www.nytimes.com/aponline/international/AP-US-Iraq-Sarin.html)
+3. [Seattle Post-Intelligencer](http://www.seattlepi.com/national/173793_sarin18.html)
+
+### Related:
+
+1. [A possible new approach for treating mood disorders, such as depression, suggested in study of ketamine activity with the nervous system, more specifically mTOR-dependent synapse formation. [http://www.telegraph.co.uk/health/healthnews/7953967/Ketamine-is-magic-drug-for-depression.html ("The Daily Telegraph")] 10.1126/science.1190287 ("Science")](/news/2010/08/20/a-possible-new-approach-for-treating-mood-disorders-such-as-depression-suggested-in-study-of-ketamine-activity-with-the-nervous-system-mo.md) _Context: nervous system_
+2. [ Bluegrass Army Depot Sarin(GB) leak in Lexington, Kentucky. Officials reported the Sarin levels 85 times above the safe limit. The first leak was detected at 3:49PM.](/news/2007/08/27/bluegrass-army-depot-sarin-gb-leak-in-lexington-kentucky-officials-reported-the-sarin-levels-85-times-above-the-safe-limit-the-first-le.md) _Context: Sarin_
+3. [ Iraqi WMD: Brigadier General Mark Kimmitt says that an artillery shell with sarin agent was found after it exploded. Two members of an explosives team are exposed to it, and have been treated. Hans Blix doubts that this was part of a current Iraq WMD, and doubts have been cast as to the accuracy of the field tests.](/news/2004/05/17/iraqi-wmd-brigadier-general-mark-kimmitt-says-that-an-artillery-shell-with-sarin-agent-was-found-after-it-exploded-two-members-of-an-expl.md) _Context: Sarin_

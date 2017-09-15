@@ -34,7 +34,7 @@ The International Olympic Committee said Monday that it would set up a special p
 Follow our rolling coverage of today&#039;s marches which saw an estimated 400,000 people take to London&#039;s streets, in the biggest public backlash against the Government&#039;s spending cuts since it came to power.
 
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: Boston, Massachusetts, Democrats, Geraldine Ferraro, U.S. Vice President, United States House of Representatives_
+_Context: Boston, Massachusetts, Democratic, Geraldine Ferraro, U.S. Vice President, United States House of Representatives_
 
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
 _Context: 2011 Canadian federal election, David Johnston, Governor General, Parliament of Canada_

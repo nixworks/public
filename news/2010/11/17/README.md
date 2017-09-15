@@ -49,7 +49,7 @@ _Context: organ trafficking_
 _Context: Cook Islands, MP, general election, referendum_
 
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: Democrats, John Boehner, Minority Leader, Nancy Pelosi, Republican, U.S. Speaker of the House of Representatives, United States House of Representatives, caucus_
+_Context: Democratic, John Boehner, Minority Leader, Nancy Pelosi, Republican, U.S. Speaker of the House of Representatives, United States House of Representatives, caucus_
 
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
 _Context: Guinea, November's presidential poll, states of emergency_

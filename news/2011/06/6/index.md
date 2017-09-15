@@ -82,7 +82,7 @@ _Context: France, Overseas departments and territories of France, indigenous lan
 _Context: Keiko Fujimori, Ollanta Humala, Peruvian general election, President_
 
 ### [U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. ](/news/2011/06/6/u-s-house-representative-anthony-weiner-of-new-york-admits-sending-a-risque-picture-of-himself-to-a-college-student-on-twitter.md)
-_Context: Anthony Weiner, New York State, United States House of Representatives, tweets_
+_Context: Anthony Weiner, New York State, Twitter, United States House of Representatives_
 
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)
 _Context: Austan Goolsbee, Council of Economic Advisers, President_

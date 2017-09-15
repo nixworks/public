@@ -22,7 +22,7 @@ _Context: China, Junichiro Koizumi, Osaka, Prime Minister of Japan, South Korea,
 _Context: Europe, Geneva, Internet, U.S. Commerce Department_
 
 ### [ U.S. Senator Harry Reid, and other Democrats, criticize talk show host William Bennett for saying: "You could abort every black baby in this country, and your crime rate would go down." ](/news/2005/09/30/u-s-senator-harry-reid-and-other-democrats-criticize-talk-show-host-william-bennett-for-saying-you-could-abort-every-black-baby-in-thi.md)
-_Context: Democrats, Harry Reid, United States Senate, William Bennett_
+_Context: Democratic, Harry Reid, United States Senate, William Bennett_
 
 ### [ "New York Times" journalist Judith Miller testifies before a federal grand jury and identifies Lewis Libby, Vice President Dick Cheney's chief of staff, as her confidential source for a non-published story about the unmasking of a CIA agent in 2003. ](/news/2005/09/30/new-york-times-journalist-judith-miller-testifies-before-a-federal-grand-jury-and-identifies-lewis-libby-vice-president-dick-cheney-s-ch.md)
 _Context: CIA, CIA leak scandal, Dick Cheney, Judith Miller, New York Times, Scooter Libby_

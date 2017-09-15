@@ -14,3 +14,4 @@
 
 1. [Charlene, Princess of Monaco, wife of Albert II, Prince of Monaco, gives birth to twins Jacques and Gabriella. Jacques will be heir apparent in line with male priority of Monaco's succession laws. ](/news/2014/12/10/charlene-princess-of-monaco-wife-of-albert-ii-prince-of-monaco-gives-birth-to-twins-jacques-and-gabriella-jacques-will-be-heir-apparent.md) _Context: heir apparent_
 2. [King Juan Carlos I of Spain announces that he is to abdicate with Felipe, Prince of Asturias, to succeed him. ](/news/2014/06/2/king-juan-carlos-i-of-spain-announces-that-he-is-to-abdicate-with-felipe-prince-of-asturias-to-succeed-him.md) _Context: Felipe, Prince of Asturias_
+3. [ Spain's Crown Prince Felipe marries Letizia Ortiz in Madrid. ](/news/2004/05/22/spain-s-crown-prince-felipe-marries-letizia-ortiz-in-madrid.md) _Context: Felipe, Prince of Asturias_

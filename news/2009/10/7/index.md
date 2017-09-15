@@ -13,7 +13,7 @@ _Context: Saturn, new ring_
 _Context: Somalia, Uganda_
 
 ### [ Typhoon Melor, forecast to be the strongest typhoon to make landfall in Japan for a decade, approaches the country. ](/news/2009/10/7/typhoon-melor-forecast-to-be-the-strongest-typhoon-to-make-landfall-in-japan-for-a-decade-approaches-the-country.md)
-_Context: Japan, Typhoon Melor, typhoon_
+_Context: Japan, Typhoon, Typhoon Melor_
 
 ### [ The opposition in Guinea urges Captain Moussa Dadis Camara, head of the ruling junta, to resign. ](/news/2009/10/7/the-opposition-in-guinea-urges-captain-moussa-dadis-camara-head-of-the-ruling-junta-to-resign.md)
 _Context: Guinea, Moussa Dadis Camara, junta_

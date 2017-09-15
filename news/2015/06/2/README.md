@@ -4,7 +4,7 @@
 _Context: Houthi, Ibb Governorate, Yemen, Yemeni Civil War (2015)_
 
 ### [Adelberto Silva, the highest ranked leader of the Communist Party of the Philippines and New People's Army, has been arrested. ](/news/2015/06/2/adelberto-silva-the-highest-ranked-leader-of-the-communist-party-of-the-philippines-and-new-people-s-army-has-been-arrested.md)
-_Context: Communist Party of the Philippines, Communist insurgency in the Philippines, New People's Army_
+_Context: Communist, Communist insurgency in the Philippines, New People's Army_
 
 ### [A suicide bombing in the city of Maiduguri in the north of Nigeria kills 20 people. ](/news/2015/06/2/a-suicide-bombing-in-the-city-of-maiduguri-in-the-north-of-nigeria-kills-20-people.md)
 _Context: Boko Haram, Maiduguri, Nigeria_

@@ -4,7 +4,7 @@
 Islamist militants in the Philippines have executed a German who survived being held for nearly two months by Somali pirates eight years ago, after talks for his release in exchange for a 30 million-peso (S$854,000) ransom collapsed.. Read more at straitstimes.com.
 
 ### [A total of 21 combatants die in a three-week offensive by the government against the Communist Party of the Philippines. ](/news/2017/02/27/a-total-of-21-combatants-die-in-a-three-week-offensive-by-the-government-against-the-communist-party-of-the-philippines.md)
-_Context: Communist Party of the Philippines, Communist rebellion in the Philippines_
+_Context: Communist, Communist rebellion in the Philippines_
 
 ### [The Syrian Government's Tiger Forces reaches the front lines with the Syrian Democratic Forces south of Manbij after capturing territory from ISIL, east of al-Bab. ](/news/2017/02/27/the-syrian-government-s-tiger-forces-reaches-the-front-lines-with-the-syrian-democratic-forces-south-of-manbij-after-capturing-territory-fro.md)
 _Context: Islamic State of Iraq and the Levant, Manbij, Syrian Civil War, Syrian Democratic Forces, Tiger Forces, al-Bab_

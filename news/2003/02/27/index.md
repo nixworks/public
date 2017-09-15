@@ -22,7 +22,7 @@ _Context: Hans Blix, Iraq crisis of 2003, disarmament of Iraq, weapons inspector
 _Context: Archbishop of Canterbury, Rowan Williams_
 
 ### [ U.S. presidential election, 2004: Senator Bob Graham of Florida announces his candidacy for the Democratic Party nomination of President.](/news/2003/02/27/u-s-presidential-election-2004-senator-bob-graham-of-florida-announces-his-candidacy-for-the-democratic-party-nomination-of-president.md)
-_Context: 2004 U.S. presidential candidate, Bob Graham, Democrat, Florida, President, United States Senate_
+_Context: 2004 U.S. presidential candidate, Bob Graham, Democratic, Florida, President, United States Senate_
 
 ### [ Rauf Denktas, chief of the Turkish Cypriots, rejected the latest version of a United Nations plan to reunite Cyprus.](/news/2003/02/27/rauf-denktas-chief-of-the-turkish-cypriots-rejected-the-latest-version-of-a-united-nations-plan-to-reunite-cyprus.md)
 _Context: Cyprus, Rauf Denktas, Turkey, United Nations_

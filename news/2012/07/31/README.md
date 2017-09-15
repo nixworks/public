@@ -16,7 +16,7 @@ _Context: American, Gore Vidal, pneumonia_
 Not the first time.
 
 ### [Following the @ reply and # hashtag, social media service Twitter introduces the $ symbol, a way for users to click on stock symbols and see related tweets. ](/news/2012/07/31/following-the-reply-and-hashtag-social-media-service-twitter-introduces-the-symbol-a-way-for-users-to-click-on-stock-symbols-and-see.md)
-_Context: hashtag, tweets_
+_Context: Twitter, hashtag_
 
 ### [German global financial services company Deutsche Bank announces plans to cut 1,900 jobs. ](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.md)
 _Context: Deutsche Bank_

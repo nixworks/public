@@ -25,7 +25,7 @@ US investigators working with Interpol are understood to have tracked 200 bank a
 More than 90,000 secret US military records are leaked to the media by Wikileaks, revealing unreported details of the war in Afghanistan.
 
 ### [Juan Ponce Enrile is elected as Senate Feliciano Belmonte is elected Speaker of the House of Representatives.President Benigno Aquino III delivers his first State of the Nation Address.](/news/2010/07/26/juan-ponce-enrile-is-elected-as-senate-feliciano-belmonte-is-elected-speaker-of-the-house-of-representatives-president-benigno-aquino-iii-de.md)
-_Context: Feliciano Belmonte, Juan Ponce Enrile, President, President, Speaker, State of the Nation Address, his predecessor, lower house of the Philippine Congress, senators_
+_Context: Feliciano Belmonte, Juan Ponce Enrile, Philippine lower House, President, President, Speaker, State of the Nation Address, his predecessor, senators_
 
 ### [The "Plastiki", a catamaran made out of recycled plastic, arrives in Sydney, Australia, after travelling across the Pacific Ocean from San Francisco, United States, to raise awareness of environmental issues. ](/news/2010/07/26/the-plastiki-a-catamaran-made-out-of-recycled-plastic-arrives-in-sydney-australia-after-travelling-across-the-pacific-ocean-from-san-f.md)
 _Context: Australia, Pacific Ocean, Plastiki, San Francisco, California, Sydney, United States, catamaran, environmental, plastic, recycling_

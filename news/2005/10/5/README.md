@@ -31,7 +31,7 @@ _Context: British government, British military personnel, Conflict in Iraq, Iran
 At least 66 people have died as Hurricane Stan sweeps across Mexico and Central America
 
 ### [ Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting ](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-president-george-w-bush-u-s-senate-republicans-joined-democrats-voting.md)
-_Context: Democrats, George W. Bush, Republican, United States, United States Senate, veto_
+_Context: Democratic, George W. Bush, Republican, United States, United States Senate, veto_
 
 ### [ The National Hockey League returns after a year-long lockout. Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-debu.md)
 _Context: Alexander Ovechkin, Columbus Blue Jackets, National Hockey League, New Jersey Devils, Sidney Crosby_

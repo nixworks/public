@@ -58,7 +58,7 @@ _Context: Ata-Zhurt, Kamchybek Tashiyev, Kyrgyzstani parliamentary election_
 The Obama administration has lifted a six month moratorium on deep water oil drilling in the Gulf of Mexico.
 
 ### [ Green Party Candidate, Laura Wells, is arrested upon trying to enter the 2010 Gubernatorial debate in California. All parties other than the Republicans and Democrats were barred from the debate. ](/news/2010/10/12/green-party-candidate-laura-wells-is-arrested-upon-trying-to-enter-the-2010-gubernatorial-debate-in-california-all-parties-other-than-th.md)
-_Context:  Green Party, Democrats, Gubernatorial, Laura Wells, Republican_
+_Context:  Green Party, Democratic, Gubernatorial, Laura Wells, Republican_
 
 ## [Previous Day...](/news/2010/10/11/index.md)
 

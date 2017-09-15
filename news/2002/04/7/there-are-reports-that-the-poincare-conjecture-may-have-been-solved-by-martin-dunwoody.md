@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ The Russian mathematician Dr Grigori Perelman claims to have resolved the Poincar conjecture.](/news/2003/05/8/the-russian-mathematician-dr-grigori-perelman-claims-to-have-resolved-the-poincare-conjecture.md) _Context: Poincar conjecture_

@@ -12,3 +12,4 @@
 ### Related:
 
 1. [Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. ](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-northern-iraq-kill-at-least-12-people.md) _Context: swimming pool_
+2. [ Belgian researchers report a link between trichloramine and rising numbers of childhood asthma cases. Trichloramine is a byproduct of reactions between several organic substances and chlorine, a chemical used in large quantities to disinfect swimming pools.](/news/2003/05/28/belgian-researchers-report-a-link-between-trichloramine-and-rising-numbers-of-childhood-asthma-cases-trichloramine-is-a-byproduct-of-react.md) _Context: swimming pool_

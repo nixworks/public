@@ -1,0 +1,23 @@
+### [2004-05-8](/news/2004/05/8/index.md)
+
+#  Israel makes the first permanent appointment of an Arab to its Supreme Court as Salim Jubran is selected unanimously; Esther Hayut and Elyakim Rubinstein are also selected unanimously. Edna Arbel, the former state prosecutor who recommended indicting Prime Minister Ariel Sharon on bribery charges, is selected amongst considerably more controversy and opposition. 
+
+
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/hasen/spages/424730.html)
+
+### Related:
+
+1. [Former Prime Minister of Israel, Ariel Sharon, is buried on his ranch in southern Israel following a state funeral at the Knesset attended by foreign dignitaries and Israelis. ](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.md) _Context: Ariel Sharon, Israel_
+2. [The prison sentence of Sabbar Kashur, a married Arab man convicted by Israel of "rape by deception" after telling the accuser that he's Jewish and single, is delayed as he attempts an appeal. ](/news/2010/08/4/the-prison-sentence-of-sabbar-kashur-a-married-arab-man-convicted-by-israel-of-rape-by-deception-after-telling-the-accuser-that-he-s-jewi.md) _Context: Arab, Israel_
+3. [An Arab residing in Israel is convicted of "rape by deception" and jailed for 18 months for having consensual sexual intercourse in 2008 with an Israeli woman alleged to believe he was Jewish. ](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.md) _Context: Arab, Israel_
+4. [ Israeli Prime Minister Ariel Sharon undergoes emergency surgery due to digestive problems. His condition is critical. ](/news/2006/02/11/israeli-prime-minister-ariel-sharon-undergoes-emergency-surgery-due-to-digestive-problems-his-condition-is-critical.md) _Context: Ariel Sharon, Israel_
+5. [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md) _Context: Ariel Sharon, Israel_
+6. [ Israeli Prime Minister Ariel Sharon calls for the expulsion of Iran from the United Nations after the Iranian President repeated Ruhollah Khomeini's call for Israel to be "wiped off the map". ](/news/2005/10/27/israeli-prime-minister-ariel-sharon-calls-for-the-expulsion-of-iran-from-the-united-nations-after-the-iranian-president-repeated-ruhollah-k.md) _Context: Ariel Sharon, Israel_
+7. [ In Israel, president Moshe Katsav states that he is worried about a possible assassination plot against Prime Minister of Israel Ariel Sharon. ](/news/2005/07/4/in-israel-president-moshe-katsav-states-that-he-is-worried-about-a-possible-assassination-plot-against-prime-minister-of-israel-ariel-shar.md) _Context: Ariel Sharon, Israel_
+8. [ In Israel, there are reports that Jewish ultranationalists have cast a Pulsa diNura death curse over Ariel Sharon ](/news/2005/07/26/in-israel-there-are-reports-that-jewish-ultranationalists-have-cast-a-pulsa-dinura-death-curse-over-ariel-sharon.md) _Context: Ariel Sharon, Israel_
+9. [ In Israel, Omri Sharon, MP and son of Ariel Sharon, is indicted for involvement in illegal campaign contributions, perjury and forging documents. Omri Sharon states that he would give up his parliamentary immunity and stand trial ](/news/2005/07/26/in-israel-omri-sharon-mp-and-son-of-ariel-sharon-is-indicted-for-involvement-in-illegal-campaign-contributions-perjury-and-forging-docu.md) _Context: Ariel Sharon, Israel_
+10. [ Israel freezes the handover of West Bank Palestinian towns to the Palestinian Authority. Israel claims they will resume the handover process when militant groups are disarmed. The Prime Minister of Israel, Ariel Sharon, had agreed to hand over five West Bank towns to Palestinian control, but thus far has only handed over Tulkarm and Jericho. ](/news/2005/05/4/israel-freezes-the-handover-of-west-bank-palestinian-towns-to-the-palestinian-authority-israel-claims-they-will-resume-the-handover-proces.md) _Context: Ariel Sharon, Israel_

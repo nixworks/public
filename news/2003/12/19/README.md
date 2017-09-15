@@ -22,7 +22,7 @@ _Context: Asia, SARS, Singapore, virus_
 _Context: A$, Alexander Downer, Australia, Nauru, Pacific_
 
 ### [ In a major blow to the recording industry's efforts to stamp out online file sharing, a United States federal appeals court invalidates subpoenas issued against Verizon to identify individual P2P users. [http://www.washingtonpost.com/wp-dyn/articles/A14836-2003Dec19.html]](/news/2003/12/19/in-a-major-blow-to-the-recording-industry-s-efforts-to-stamp-out-online-file-sharing-a-united-states-federal-appeals-court-invalidates-sub.md)
-_Context: File sharing, P2P, United States, Verizon, appeals court, recording industry's, subpoena_
+_Context: File sharing, P2P, Recording Industry Association of America, United States, Verizon, appeals court, subpoena_
 
 ### [ The British spacecraft Beagle 2 successfully separates from the ESA's Mars Express orbiter and is now less than 10 days away from its scheduled landing on the surface of Mars; it will attempt to parachute onto the surface on Christmas morning. ](/news/2003/12/19/the-british-spacecraft-beagle-2-successfully-separates-from-the-esa-s-mars-express-orbiter-and-is-now-less-than-10-days-away-from-its-sched.md)
 _Context: Beagle 2, Christmas morning, European Space Agency, Mars, Mars Express_

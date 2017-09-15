@@ -1,0 +1,19 @@
+### [2003-05-13](/news/2003/05/13/index.md)
+
+#  A suicide bombing occurs at a religious festival in the town of Iliskhan-Yurt, in southeastern Chechnya. At least 14 people are killed by the bombing. The attack is apparently an attempt to assassinate Akhmad Kadyrov, the Moscow-appointed chief administrator of Chechnya. Kadryov escaped injury.,
+
+
+
+
+### Related:
+
+1. [ The Russian human rights group Memorial says security forces from Chechnya have kidnapped the head of another rights group in Moscow and flown him to Grozny. ](/news/2009/11/6/the-russian-human-rights-group-memorial-says-security-forces-from-chechnya-have-kidnapped-the-head-of-another-rights-group-in-moscow-and-fl.md) _Context: Chechnya, Moscow_
+2. [ The President of France Nicolas Sarkozy travels to Moscow to meet with the President of Russia Vladimir Putin to discuss a broad range of policies including Kosovo, Chechnya, and Iran. ](/news/2007/10/9/the-president-of-france-nicolas-sarkozy-travels-to-moscow-to-meet-with-the-president-of-russia-vladimir-putin-to-discuss-a-broad-range-of-p.md) _Context: Chechnya, Moscow_
+3. [ Russian journalist Anna Politkovskaya, famous for her criticism of President Vladimir Putin and his government's actions in Chechnya, is found murdered in Moscow. ](/news/2006/10/7/russian-journalist-anna-politkovskaya-famous-for-her-criticism-of-president-vladimir-putin-and-his-government-s-actions-in-chechnya-is-fo.md) _Context: Chechnya, Moscow_
+4. [ Chechen president Akhmad Kadyrov is killed in a landmine bomb blast under a VIP stage during a World War&nbsp;II memorial victory parade in Grozny, Chechnya. ](/news/2004/05/9/chechen-president-akhmad-kadyrov-is-killed-in-a-landmine-bomb-blast-under-a-vip-stage-during-a-world-war-nbsp-ii-memorial-victory-parade-in.md) _Context: Akhmad Kadyrov, Chechnya_
+5. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Moscow_
+6. [Three so-called GTA gang members are shot dead and four others are wounded, including two guards, at a courthouse in Moscow, Russia, after they attempted to escape. ](/news/2017/08/1/three-so-called-gta-gang-members-are-shot-dead-and-four-others-are-wounded-including-two-guards-at-a-courthouse-in-moscow-russia-after-t.md) _Context: Moscow_
+7. [Hundreds of people are detained at anti-corruption protest rallies in Moscow and St. Petersburg and many other towns, including opposition leader Alexei Navalny. ](/news/2017/06/12/hundreds-of-people-are-detained-at-anti-corruption-protest-rallies-in-moscow-and-st-petersburg-and-many-other-towns-including-opposition-l.md) _Context: Moscow_
+8. [At least 11 people are killed and 69 are injured as a severe thunderstorm hits Moscow, Russia. ](/news/2017/05/29/at-least-11-people-are-killed-and-69-are-injured-as-a-severe-thunderstorm-hits-moscow-russia.md) _Context: Moscow_
+9. [Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-attacks-on-the-philippine-southern.md) _Context: Moscow_
+10. [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md) _Context: Moscow_

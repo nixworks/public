@@ -19,7 +19,7 @@ The fate of Setanta hangs in the balance, as the stricken broadcaster tries to s
 Search crews have now recovered 41 bodies from an area in the Atlantic where an Air France passenger plane went down over a week ago.
 
 ### [ A car bomb exploded in a crowded market in the town of Bathaa in the southern Iraqi province of Dhiqar, killing up to 35 persons and injuring dozens of others. ](/news/2009/06/10/a-car-bomb-exploded-in-a-crowded-market-in-the-town-of-bathaa-in-the-southern-iraqi-province-of-dhiqar-killing-up-to-35-persons-and-injuri.md)
-_Context: Bathaa, Dhiqar_
+_Context: Bathaa, Dhi Qar Governorate_
 
 ### [ Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. ](/news/2009/06/10/massive-demonstrations-are-held-in-various-places-in-the-philippines-against-the-passage-of-the-constituent-assembly-to-amend-the-constitut.md)
 _Context: Constituent Assembly, Philippines, constitutional constraints, demonstration_

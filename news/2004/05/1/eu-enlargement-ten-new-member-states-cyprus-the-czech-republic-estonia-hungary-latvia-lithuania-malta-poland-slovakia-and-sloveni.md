@@ -1,0 +1,24 @@
+### [2004-05-1](/news/2004/05/1/index.md)
+
+#  EU enlargement: Ten new member states (Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia) join the European Union, increasing the EU's population by 75 million people to a total of roughly 455 million. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3672813.stm)
+2. [Guardian](http://www.guardian.co.uk/eu/0,7368,396838,00.html)
+
+### Related:
+
+1. [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join. Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-ex.md) _Context: Cyprus, Czech Republic, EU, Estonia, Latvia, Lithuania, Malta, Slovakia, Slovenia_
+2. [ The European Commission of the European Union has announced that ten countries - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia - have met its criteria for entry, opening the way for an expansion of the EU from 15 member states to 25. The European Parliament has still to consider each candidate individually and the final decision will require the approval of the current member states.](/news/2002/10/9/the-european-commission-of-the-european-union-has-announced-that-ten-countries-a-cyprus-the-czech-republic-estonia-hungary-latvia-li.md) _Context: Cyprus, Czech Republic, EU, Estonia, Latvia, Lithuania, Malta, Slovakia, Slovenia_
+3. [ The Schengen Agreement is expanded to include the seaports and land borders of the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. ](/news/2007/12/21/the-schengen-agreement-is-expanded-to-include-the-seaports-and-land-borders-of-the-czech-republic-estonia-hungary-latvia-lithuania-mal.md) _Context: Czech Republic, Estonia, Latvia, Lithuania, Malta, Slovakia, Slovenia_
+4. [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md) _Context: Cyprus, Czech Republic, EU, Latvia, Malta, Slovakia_
+5. [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md) _Context: EU, Malta, Slovakia, Slovenia_
+6. [The Standard & Poor's credit rating agency lowers its long-term credit ratings on the eurozone countries of Cyprus, Italy, Portugal, and Spain by two notches each and Austria, France, Malta, Slovakia, and Slovenia by one notch each. ](/news/2012/01/13/the-standard-poor-s-credit-rating-agency-lowers-its-long-term-credit-ratings-on-the-eurozone-countries-of-cyprus-italy-portugal-and-spa.md) _Context: Cyprus, Malta, Slovakia, Slovenia_
+7. [The Secretary General of NATO Jens Stoltenberg says that the military alliance plans on sending four multinational battalions to Estonia, Latvia, Lithuania and Poland in order to boost their defense. However, Stoltenberg said that the battalions will only be deployed on a rotational basis instead of being based permanently. ](/news/2016/06/13/the-secretary-general-of-nato-jens-stoltenberg-says-that-the-military-alliance-plans-on-sending-four-multinational-battalions-to-estonia-la.md) _Context: Estonia, Latvia, Lithuania_
+8. [Foreign ministers from Czech Republic, Hungary, Poland and Slovakia meet with officials from the European Union and Germany to discuss differences over migrant quotas. ](/news/2015/09/11/foreign-ministers-from-czech-republic-hungary-poland-and-slovakia-meet-with-officials-from-the-european-union-and-germany-to-discuss-diffe.md) _Context: Czech Republic, EU, Slovakia_
+9. [ Latvia and Lithuania become the latest EU member states to ratify the Treaty of Lisbon. ](/news/2008/05/8/latvia-and-lithuania-become-the-latest-eu-member-states-to-ratify-the-treaty-of-lisbon.md) _Context: EU, Latvia, Lithuania_
+10. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU, Slovakia_

@@ -19,7 +19,7 @@ _Context: Abu Sayyaf, Basilan island, Philippines_
 In parliamentary elections in Kazakhstan, President Nursultan Nazarbayev&#039;s party has won 88 per cent of the vote.
 
 ### [ Typhoon Sepat spawns a tornado that kills nine people in Zhejiang Province, China. More than a million people have been evacuated as a result of the typhoon. [http://edition.cnn.com/2007/WORLD/asiapcf/08/19/taiwan.typhoon.reut/index.html?eref=rss_world (Reuters via CNN)]<nowiki></nowiki>](/news/2007/08/19/typhoon-sepat-spawns-a-tornado-that-kills-nine-people-in-zhejiang-province-china-more-than-a-million-people-have-been-evacuated-as-a-resu.md)
-_Context: China, Typhoon Sepat, Zhejiang province, tornado, typhoon_
+_Context: China, Typhoon, Typhoon Sepat, Zhejiang province, tornado_
 
 ### [ Jamaica prepares for Hurricane Dean with the hurricane already responsible for at least eight deaths on Caribbean islands St. Lucia, Martinique and Dominica. It is expected to hit the Cayman Islands on Monday and the Yucatn Peninsula on Tuesday with further impact on Mexico or Texas later in the week. ](/news/2007/08/19/jamaica-prepares-for-hurricane-dean-with-the-hurricane-already-responsible-for-at-least-eight-deaths-on-caribbean-islands-st-lucia-martin.md)
 _Context: Caribbean, Cayman Islands, Dominican, Hurricane Dean, Jamaica, Martinique, Mexico, St. Lucia, Texas, Yucatn Peninsula, hurricane_

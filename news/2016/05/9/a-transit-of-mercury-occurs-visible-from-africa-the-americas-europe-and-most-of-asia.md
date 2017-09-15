@@ -10,3 +10,7 @@
 1. [BBC](http://www.bbc.com/news/science-environment-36228327)
 2. [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-3580167/Will-spot-Mercury-crossing-sun.html)
 3. [New York Times](http://www.nytimes.com/2016/05/09/nyregion/new-york-today-mercury-on-the-move.html)
+
+### Related:
+
+1. [ A five-hour transit of Mercury takes place, an event that occurs only 13 times per century on average.](/news/2003/05/7/a-five-hour-transit-of-mercury-takes-place-an-event-that-occurs-only-13-times-per-century-on-average.md) _Context: transit of Mercury_

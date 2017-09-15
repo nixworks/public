@@ -74,7 +74,7 @@ _Context: Cabinet of Pakistan, Prime Minister of Pakistan, economic crisis, form
 _Context: 26th congressional district, Chris Lee, United States House of Representatives_
 
 ### [The United States Democratic Leadership Council consisting of centrist Democrats announces that it will wind up. ](/news/2011/02/9/the-united-states-democratic-leadership-council-consisting-of-centrist-democrats-announces-that-it-will-wind-up.md)
-_Context: Democratic Leadership Council, Democrats, United States_
+_Context: Democratic, Democratic Leadership Council, United States_
 
 ### [The Chamber of Councillors of Tunisia passes legislation allowing the President to rule by decree. ](/news/2011/02/9/the-chamber-of-councillors-of-tunisia-passes-legislation-allowing-the-president-to-rule-by-decree.md)
 _Context: Chamber of Councillors of Tunisia, President of Tunisia_

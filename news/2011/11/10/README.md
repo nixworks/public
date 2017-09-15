@@ -16,7 +16,7 @@ The remarks by Ayatollah Ali Khamenei come in the aftermath of incriminating U.N
 _Context: Department of Labour, New Zealand, Pike River Mine, disaster_
 
 ### [Israel's Supreme Court upholds a seven-year rape sentence against former President Moshe Katsav. ](/news/2011/11/10/israel-s-supreme-court-upholds-a-seven-year-rape-sentence-against-former-president-moshe-katsav.md)
-_Context: Israel, Israel's Supreme Court, Moshe Katsav, President, rape_
+_Context: Israel, Moshe Katsav, President, Supreme Court, rape_
 
 ### [James Murdoch, the chief executive of News International, makes his second appearance before the House of Commons Culture, Media and Sport Committee, as the News International phone hacking scandal continues. ](/news/2011/11/10/james-murdoch-the-chief-executive-of-news-international-makes-his-second-appearance-before-the-house-of-commons-culture-media-and-sport-c.md)
 James Murdoch says suggestions News International operated like the Mafia over the phone hacking scandal are &quot;offensive&quot; and untrue.

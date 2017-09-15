@@ -10,7 +10,7 @@ _Context: Centers for Disease Control, flu, vaccine, virus_
 _Context: 9/11 Commission, Bob Kerrey, Max Cleland, U.S. Export-Import Bank, United States Senate_
 
 ### [Al Gore endorses Howard Dean's candidacy for the Democratic presidential nomination for the 2004 U.S. presidential election. [http://www.msnbc.com/news/1002878.asp?0sl=-21&cp1=1]](/news/2003/12/9/al-gore-endorses-howard-dean-s-candidacy-for-the-democratic-presidential-nomination-for-the-2004-u-s-presidential-election-http-www-msn.md)
-_Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democrat, Howard Dean_
+_Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democratic, Howard Dean_
 
 ### [The M6 Toll road, the United Kingdom's first toll motorway, partially opens in the West Midlands. It is due to open fully on December 13. [http://news.bbc.co.uk/1/hi/england/staffordshire/3298789.stm]](/news/2003/12/9/the-m6-toll-road-the-united-kingdom-s-first-toll-motorway-partially-opens-in-the-west-midlands-it-is-due-to-open-fully-on-december-13-h.md)
 _Context: December 13, M6 Toll, United Kingdom, West Midlands_
@@ -22,7 +22,7 @@ _Context: Iraq, Mosul, Tal Afar, United States, car bomb_
 _Context: George W. Bush, One-China policy, Premier of the People's Republic of China, Taiwan, Wen Jiabao, status_
 
 ### [Democrat Gavin Newsom defeats Green Party challenger Matt Gonzalez in run-off election for San Francisco mayor, succeeding term-limit blocked Willie Brown. [http://abcnews.go.com/wire/Politics/ap20031210_872.html]](/news/2003/12/9/democrat-gavin-newsom-defeats-green-party-challenger-matt-gonzalez-in-run-off-election-for-san-francisco-mayor-succeeding-term-limit-blocke.md)
-_Context: Democrat, Gavin Newsom, Green Party, Matt Gonzalez, San Francisco, Willie Brown_
+_Context: Democratic, Gavin Newsom, Green Party, Matt Gonzalez, San Francisco, Willie Brown_
 
 ### [United States Secretary of Housing and Urban Development Mel Martinez resigns, effective Friday at noon. [http://www.msnbc.com/news/1003368.asp?0dm=N15ON]](/news/2003/12/9/united-states-secretary-of-housing-and-urban-development-mel-martinez-resigns-effective-friday-at-noon-http-www-msnbc-com-news-1003368.md)
 _Context: Housing and Urban Development, Mel Martinez_

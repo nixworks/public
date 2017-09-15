@@ -1,7 +1,7 @@
 ## [2003-12-4](/news/2003/12/4/index.md)
 
 ### [Polish Prime Minister Leszek Miller is injured in a helicopter crash outside Warsaw. [http://news.bbc.co.uk/2/hi/europe/3292481.stm]](/news/2003/12/4/polish-prime-minister-leszek-miller-is-injured-in-a-helicopter-crash-outside-warsaw-http-news-bbc-co-uk-2-hi-europe-3292481-stm.md)
-_Context: Leszek Miller, Polish, Prime Minister, Warsaw, helicopter_
+_Context: Leszek Miller, Polish, Polish Prime Minister, Warsaw, helicopter_
 
 ### [Facing the threat of a trade war, U.S. President George W. Bush lifts 20-month-old tariffs on foreign steel. Within minutes of the announcement, the European Union announces that it is lifting its threat of sanctions on $2.2 billion of U.S. products that would have taken effect in mid-December based on a ruling from the World Trade Organization that the tariffs were in violation of global trade rules. [http://story.news.yahoo.com/news?tmpl=story&cid=544&e=1&u=/ap/20031204/ap_on_go_pr_wh/bush_steel]](/news/2003/12/4/facing-the-threat-of-a-trade-war-u-s-president-george-w-bush-lifts-20-month-old-tariffs-on-foreign-steel-within-minutes-of-the-announcem.md)
 _Context: EU, George W. Bush, President, World Trade Organization, sanctions, steel, tariffs, trade_

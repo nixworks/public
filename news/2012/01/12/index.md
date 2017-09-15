@@ -10,7 +10,7 @@ _Context: 2010-2011 Burma border clashes, Burma, Karen_
 The Arab League is delaying sending more monitors to Syria, as its mission runs into further difficulties in the country gripped by unrest.
 
 ### [The Supreme Court of Israel upholds a law banning Palestinians who marry Israelis from gaining Israeli citizenship. ](/news/2012/01/12/the-supreme-court-of-israel-upholds-a-law-banning-palestinians-who-marry-israelis-from-gaining-israeli-citizenship.md)
-_Context: Israel's Supreme Court, Israeli citizenship, Palestinians_
+_Context: Israeli citizenship, Palestinians, Supreme Court_
 
 ## [Previous Day...](/news/2012/01/11/index.md)
 

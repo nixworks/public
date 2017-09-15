@@ -25,7 +25,7 @@ _Context: 2016 Warsaw summit, Afghanistan, NATO, Polish, Resolute Support, Warsa
 The Bahamas issues a rare travel advisory for its citizens visiting the US, recommending particular care for young men in cities affected by tensions over police shootings.
 
 ### [The government of the Philippines demands its critics to provide proof if there are human rights violations conducted during its drug war. ](/news/2016/07/9/the-government-of-the-philippines-demands-its-critics-to-provide-proof-if-there-are-human-rights-violations-conducted-during-its-drug-war.md)
-_Context: Philippine Drug War, Philippines, human rights violations, human rights violations_
+_Context: Philippines, drug crackdown, human rights violations, human rights violations_
 
 ### [This week, the Gambia and Tanzania outlawed child marriages. Friday, the Tanzanian High Court -- in a case filed by the "Msichana Initiative", a lobbying group that advocates for girls' right to education -- ruled in favor of protecting girls from the harms of early marriage. And during a feast ending the Muslim holy month of Ramadan on Wednesday, The Gambian President Yahya Jammeh announced that child and forced marriages are banned. Jammeh called on the National Assembly to quickly take up the issue. ](/news/2016/07/9/this-week-the-gambia-and-tanzania-outlawed-child-marriages-friday-the-tanzanian-high-court-a-in-a-case-filed-by-the-msichana-initiativ.md)
 The Gambia and Tanzania, both countries where more than 30% of girls are married by the age of 18, outlaw child marriage and introduce tough penalties.

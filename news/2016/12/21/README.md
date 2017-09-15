@@ -13,7 +13,7 @@ Three gunmen attacked the house of Mir Wali, a member of parliament from Helmand
 BEIRUT (AFP) - A US-backed Arab-Kurdish alliance advanced Wednesday (Dec 21) to several kilometres from the largest prison held by the Islamic State jihadist group in Syria&#039;s northern province of Raqa, a monitor said.. Read more at straitstimes.com.
 
 ### [Musician James Taylor cancels a concert in Manila to protest the ongoing drug war. ](/news/2016/12/21/musician-james-taylor-cancels-a-concert-in-manila-to-protest-the-ongoing-drug-war.md)
-_Context: James Taylor, Manila, Philippine Drug War_
+_Context: James Taylor, Manila, drug crackdown_
 
 ### [The U.S. Financial Industry Regulatory Authority fines several companies, including Wells Fargo, RBC Capital Markets, and LPL Financial, a combined $14.4 million for record-keeping problems that could have allowed company and customer documents to be altered. ](/news/2016/12/21/the-u-s-financial-industry-regulatory-authority-fines-several-companies-including-wells-fargo-rbc-capital-markets-and-lpl-financial-a-c.md)
 The Financial Industry Regulatory Authority said it fined several Wells Fargo & Co businesses, RBC Capital Markets, LPL Financial and others a combined $14.4 million on Wednesday for record-keeping problems that may have allowed company and customer documents to be altered.

@@ -52,7 +52,7 @@ Budget shortages have forced the World Food Program to cut rations for those rec
 _Context: Lee Myung-bak, Wen Jiabao, an earthquake and tsunami_
 
 ### [Hundreds of Twitter users post the name of an English Premier League footballer who won a superinjunction to stop details of his affair going public, in protest at the player's attempts to sue the social networking site. ](/news/2011/05/21/hundreds-of-twitter-users-post-the-name-of-an-english-premier-league-footballer-who-won-a-superinjunction-to-stop-details-of-his-affair-goin.md)
-_Context: English Premier League, superinjunction, tweets_
+_Context: English Premier League, Twitter, superinjunction_
 
 ### [Alassane Ouattara is inaugurated as President of the Ivory Coast. ](/news/2011/05/21/alassane-ouattara-is-inaugurated-as-president-of-the-ivory-coast.md)
 Ivory Coast stages an inauguration ceremony for President Alassane Ouattara after months of violence and political turmoil.

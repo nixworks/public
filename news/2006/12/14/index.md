@@ -13,7 +13,7 @@ _Context: Ban Ki-moon, United Nations Secretary-General_
 The Israeli military began carrying out targeted killings of Palestinian militants after the breakdown of the Israeli-Palestinian peace process and the subsequent outbreak of violence in the fall of 2000, saying the tactic was the most effective way to stop Palestinian bombers targeting Israeli popu...
 
 ### [ U.S. Senator Tim Johnson (D-SD) undergoes surgery after suffering a brain hemorrhage due to an arteriovenous malformation. If he is incapacitated, the Republican Party Governor of South Dakota, Mike Rounds, will be able to appoint his replacement, potentially changing the balance of the Senate. ](/news/2006/12/14/u-s-senator-tim-johnson-d-sd-undergoes-surgery-after-suffering-a-brain-hemorrhage-due-to-an-arteriovenous-malformation-if-he-is-incapac.md)
-_Context: Democrats, Mike Rounds, Republican, South Dakota, South Dakota Governor, Tim Johnson, United States Senate, arteriovenous malformation, brain hemorrhage_
+_Context: Democratic, Mike Rounds, Republican, South Dakota, South Dakota Governor, Tim Johnson, United States Senate, arteriovenous malformation, brain hemorrhage_
 
 ### [ Gunmen dressed in military uniforms kidnap between 20 and 30 people in the Sanak area of central Baghdad. ](/news/2006/12/14/gunmen-dressed-in-military-uniforms-kidnap-between-20-and-30-people-in-the-sanak-area-of-central-baghdad.md)
 _Context: Baghdad, kidnapped_

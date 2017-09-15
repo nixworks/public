@@ -16,7 +16,7 @@ _Context: Diyala Governorate, Iraqi Army, suicide bomber_
 U.S. officials began Monday to provide some details on the chronology of events leading up to Osama bin Laden’s death.
 
 ### [US comedian Gilbert Gottfried is fired from doing voiceover work as the AFLAC duck for making a number of tasteless posts on the Japanese earthquake on the Twitter social network. ](/news/2011/03/14/us-comedian-gilbert-gottfried-is-fired-from-doing-voiceover-work-as-the-aflac-duck-for-making-a-number-of-tasteless-posts-on-the-japanese-ea.md)
-_Context: AFLAC, Gilbert Gottfried, social network, tweets_
+_Context: AFLAC, Gilbert Gottfried, Twitter, social network_
 
 ### [Rock and roll musicians including Dr. John, Darlene Love, Neil Diamond, Alice Cooper and Tom Waits are inducted in the Rock and Roll Hall of Fame. ](/news/2011/03/14/rock-and-roll-musicians-including-dr-john-darlene-love-neil-diamond-alice-cooper-and-tom-waits-are-inducted-in-the-rock-and-roll-hall-of.md)
 _Context: Alice Cooper, Darlene Love, Dr. John, Neil Diamond, Rock and Roll Hall of Fame, Tom Waits, rock and roll_

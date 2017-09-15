@@ -4,7 +4,7 @@
 _Context: Al-Azhar University, Breastfeeding fatwa_
 
 ### [ The Foreign Office of the British Government submits a formal request to the Russian Government for the extradition of ex-KGB agent Andrei Lugovoi to face charges over the murder of his former colleague Alexander Litvinenko in London. ](/news/2007/05/28/the-foreign-office-of-the-british-government-submits-a-formal-request-to-the-russian-government-for-the-extradition-of-ex-kgb-agent-andrei.md)
-_Context: Alexander Litvinenko, Andrei Lugovoi, Foreign Office, His Majesty's Government, KGB, London, Russian Government, extradited, murder of Russian spy Alexander Litvinenko_
+_Context: Alexander Litvinenko, Andrei Lugovoi, Foreign Office, His Majesty's Government, KGB, London, Russian government, extradited, murder of Russian spy Alexander Litvinenko_
 
 ### [ Aid workers claim that at least 17 people have been killed and others abducted by Hutu rebels in the Democratic Republic of the Congo. ](/news/2007/05/28/aid-workers-claim-that-at-least-17-people-have-been-killed-and-others-abducted-by-hutu-rebels-in-the-democratic-republic-of-the-congo.md)
 _Context: Democratic Republic of the Congo, Hutu_

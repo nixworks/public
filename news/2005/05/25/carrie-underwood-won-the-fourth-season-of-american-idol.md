@@ -15,4 +15,5 @@
 6. [ Kris Allen is crowned the new "American Idol".](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.md) _Context: American Idol_
 7. [ Carrie Underwood releases her second album, entitled "Carnival Ride".](/news/2007/10/23/carrie-underwood-releases-her-second-album-entitled-carnival-ride.md) _Context: Carrie Underwood_
 8. [ The 5th Season of the talent search American Idol comes to a close with a two hour finale, and Taylor Hicks being crowned the winner.](/news/2006/05/24/the-5th-season-of-the-talent-search-american-idol-comes-to-a-close-with-a-two-hour-finale-and-taylor-hicks-being-crowned-the-winner.md) _Context: American Idol_
-9. [ Hit reality show, American Idol premiered its first episode on Fox Network.](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.md) _Context: American Idol_
+9. [ In a close vote, Ruben Studdard beat out Clay Aiken to become the next American Idol.](/news/2003/05/21/in-a-close-vote-ruben-studdard-beat-out-clay-aiken-to-become-the-next-american-idol.md) _Context: American Idol_
+10. [ Hit reality show, American Idol premiered its first episode on Fox Network.](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.md) _Context: American Idol_

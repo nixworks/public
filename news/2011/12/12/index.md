@@ -16,7 +16,7 @@ Canada will pull out of the Kyoto protocol on climate change, Environment Minist
 _Context: Michael Somare, Peter O'Neill, Prime Minister, Supreme Court of Papua New Guinea_
 
 ### [The House of Representatives of the Philippines impeaches Chief Justice Renato Corona after 188 representatives signed a complaint. This is the second impeachment passed in the year after the impeachment of Ombudsman Merceditas Gutierrez early in March. ](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.md)
-_Context: Chief Justice, Merceditas Gutierrez, Renato Corona, lower house of the Philippine Congress_
+_Context: Chief Justice, Merceditas Gutierrez, Philippine lower House, Renato Corona_
 
 ## [Previous Day...](/news/2011/12/11/index.md)
 

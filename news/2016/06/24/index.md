@@ -28,7 +28,7 @@ Indonesia said on Friday a halt on coal shipments to the Philippines will remain
 _Context: Korean Peninsula, South Korea, Volkswagen AG, Volkswagen emissions scandal_
 
 ### [More than 50 people accused of dealing in illegal drugs have been murdered in the Philippines within a month after incoming president Rodrigo Duterte called for more extrajudicial killings against suspected criminals. ](/news/2016/06/24/more-than-50-people-accused-of-dealing-in-illegal-drugs-have-been-murdered-in-the-philippines-within-a-month-after-incoming-president-rodrig.md)
-_Context: Philippine Drug War, Rodrigo Duterte, extrajudicial killings, illegal drugs_
+_Context: Rodrigo Duterte, drug crackdown, extrajudicial killings, illegal drugs_
 
 ### [The United Kingdom votes, 52% to 48%, to leave the European Union. Prime Minister David Cameron, who called the referendum three years ago, announces his resignation indicating he will leave office by October. ](/news/2016/06/24/the-united-kingdom-votes-52-to-48-to-leave-the-european-union-prime-minister-david-cameron-who-called-the-referendum-three-years-ago.md)
 Up to the minute results for the 2016 EU Referendum from BBC News

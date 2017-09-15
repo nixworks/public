@@ -52,7 +52,7 @@ _Context: Denmark, Muhammad, Politiken_
 _Context: Minnesota, Soudan Mine, cold dark matter, electronvolts, weakly interacting massive particles_
 
 ### [New York Democratic Governor David Paterson announces he will not run in the New York gubernatorial election of 2010.](/news/2010/02/26/new-york-democratic-governor-david-paterson-announces-he-will-not-run-in-the-new-york-gubernatorial-election-of-2010.md)
-_Context: David Paterson, Democrats, Governor, New York State, New York gubernatorial election of 2010_
+_Context: David Paterson, Democratic, Governor, New York State, New York gubernatorial election of 2010_
 
 ### [President Muammar Gaddafi of Libya declares a holy war on Switzerland. ](/news/2010/02/26/president-muammar-gaddafi-of-libya-declares-a-holy-war-on-switzerland.md)
 _Context: Libya, Muammar Gaddafi, President of Libya, Switzerland, holy war_

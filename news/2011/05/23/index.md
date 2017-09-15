@@ -31,7 +31,7 @@ _Context: Arkansas, Missouri, National Weather Service, Oklahoma!, central_
 A number of Irish artists including Jedward and Westlife played to an estimated 60,000 people at College Green in Dublin this&hellip;
 
 ### [British MP John Hemming uses parliamentary privilege to identify a married footballer named on Twitter as having an injunction over an alleged affair as being Ryan Giggs. ](/news/2011/05/23/british-mp-john-hemming-uses-parliamentary-privilege-to-identify-a-married-footballer-named-on-twitter-as-having-an-injunction-over-an-alleg.md)
-_Context: John Hemming, MP, Ryan Giggs, injunction over an alleged affair, parliamentary privilege, tweets_
+_Context: John Hemming, MP, Ryan Giggs, Twitter, injunction over an alleged affair, parliamentary privilege_
 
 ### [The People's Republic of China detains 300 Tibetan monks for "legal education" after a monk sets himself on fire. ](/news/2011/05/23/the-people-s-republic-of-china-detains-300-tibetan-monks-for-legal-education-after-a-monk-sets-himself-on-fire.md)
 _Context: China, Tibet, sets herself alight_

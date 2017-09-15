@@ -1,7 +1,7 @@
 ## [2004-01-20](/news/2004/01/20/index.md)
 
 ### [2004 Canadian Federal Election: Belinda Stronach officially announces her run for leadership of the Conservative Party of Canada. [http://www.thestar.ca/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1074596565057&call_pageid=968332188492&col=968793972154]](/news/2004/01/20/2004-canadian-federal-election-belinda-stronach-officially-announces-her-run-for-leadership-of-the-conservative-party-of-canada-http-ww.md)
-_Context: 2004 Canadian Federal Election, Belinda Stronach, Conservative Party's_
+_Context: Belinda Stronach, Conservative Party's, election_
 
 ### [Martha Stewart pleads not guilty to five criminal counts that include conspiracy, obstruction of justice and securities fraud stemming from a sale of ImClone stock in 2001. Conviction on any of the charges against her could put Ms. Stewart in federal prison. The five counts carry a total prison term of 30 years and a $1.25 million fine.[http://www.nytimes.com/2004/01/20/business/20CND-MARTHA.html?hp]](/news/2004/01/20/martha-stewart-pleads-not-guilty-to-five-criminal-counts-that-include-conspiracy-obstruction-of-justice-and-securities-fraud-stemming-from.md)
 _Context: 2001, ImClone, Martha Stewart_

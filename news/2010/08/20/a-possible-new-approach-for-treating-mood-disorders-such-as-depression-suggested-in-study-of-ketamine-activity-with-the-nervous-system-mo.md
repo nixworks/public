@@ -8,3 +8,4 @@
 ### Related:
 
 1. [More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. ](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.md) _Context: ketamine_
+2. [ Preliminary field tests suggest that the shell found near Baghdad on May 15 contained about four liters of the chemical agent sarin, which attacks the nervous system. ](/news/2004/05/18/preliminary-field-tests-suggest-that-the-shell-found-near-baghdad-on-may-15-contained-about-four-liters-of-the-chemical-agent-sarin-which.md) _Context: nervous system_

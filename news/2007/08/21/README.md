@@ -1,7 +1,7 @@
 ## [2007-08-21](/news/2007/08/21/index.md)
 
 ### [ Laura Richardson of the U.S. Democratic Party is elected in the special election for California's 37th congressional district, replacing Juanita Millender-McDonald who died last spring. ](/news/2007/08/21/laura-richardson-of-the-u-s-democratic-party-is-elected-in-the-special-election-for-california-s-37th-congressional-district-replacing-ju.md)
-_Context: California's 37th congressional district, Democrats, Juanita Millender-McDonald, Laura Richardson, the special election_
+_Context: California's 37th congressional district, Democratic, Juanita Millender-McDonald, Laura Richardson, the special election_
 
 ### [ The Bank of Japan and Reserve Bank of Australia inject more funds into money markets to ensure stock market liquidity. ](/news/2007/08/21/the-bank-of-japan-and-reserve-bank-of-australia-inject-more-funds-into-money-markets-to-ensure-stock-market-liquidity.md)
 _Context: Bank of Japan, Reserve Bank of Australia, inject, liquidity, money market, stock market_

@@ -58,7 +58,7 @@ A mentally ill man went on a stabbing rampage outside a primary school in southe
 _Context: Radovan Karadzic_
 
 ### [Twitter sells advertising on its site for the first time. Advertisers will be able to buy "Promoted Tweets" that will appear on Twitter's search results pages. ](/news/2010/04/13/twitter-sells-advertising-on-its-site-for-the-first-time-advertisers-will-be-able-to-buy-promoted-tweets-that-will-appear-on-twitter-s-se.md)
-_Context: advertising, tweets_
+_Context: Twitter, advertising_
 
 ### [Spanish police say they have seized more than 800kg (1,760lbs) of cocaine from a lorry disguised as an official backup vehicle for the Dakar rally. ](/news/2010/04/13/spanish-police-say-they-have-seized-more-than-800kg-1-760lbs-of-cocaine-from-a-lorry-disguised-as-an-official-backup-vehicle-for-the-dakar.md)
 ## [Previous Day...](/news/2010/04/12/index.md)

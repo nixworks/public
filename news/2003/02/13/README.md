@@ -7,7 +7,7 @@ _Context: 2003 invasion of Iraq, Austria, Iraq, United Nations_
 _Context: Iraq, Washington Post, special forces_
 
 ### [ U.S. Senate Democrats continue to threaten to filibuster the candidacy of Miguel Estrada for the D.C. Circuit Court. The Democrats argue that Estrada is too conservative and not answering all of their questions. Estrada was first nominated for the position in May 2001.](/news/2003/02/13/u-s-senate-democrats-continue-to-threaten-to-filibuster-the-candidacy-of-miguel-estrada-for-the-d-c-circuit-court-the-democrats-argue-th.md)
-_Context: D.C. Circuit Court, Democrat, Miguel Estrada, United States Senate, filibuster_
+_Context: D.C. Circuit Court, Democratic, Miguel Estrada, United States Senate, filibuster_
 
 ### [ A United Nations panel reports that Iraq's al-Samoud 2 missiles, disclosed by Iraq to weapons inspectors in December, have a range of 180&nbsp;km (above the 150&nbsp;km limit allowed by the UN), splitting opinion over whether they breach UNSCR 1441.](/news/2003/02/13/a-united-nations-panel-reports-that-iraq-s-al-samoud-2-missiles-disclosed-by-iraq-to-weapons-inspectors-in-december-have-a-range-of-180-n.md)
 _Context: Al-Samoud 2, Iraq, UN Security Council Resolution 1441, United Nations, rocket attacks_

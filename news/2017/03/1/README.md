@@ -13,7 +13,7 @@ _Context: EU, Georgia-European Union relations, Georgian, Ireland, United Kingdo
 Russia and China have vetoed a UN Security Council proposal that would have banned the supply of helicopters to the Syrian government, and blacklisted eleven Syrian military commanders over allegations of toxic gas attacks.
 
 ### [After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. ](/news/2017/03/1/after-a-temporary-suspension-due-to-the-kidnapping-and-killing-of-a-south-korean-national-philippine-president-rodrigo-duterte-orders-the-p.md)
-_Context: Philippine Drug War, Philippine National Police, Rodrigo Duterte, South Korea, kidnapping and killing of_
+_Context: Philippine National Police, Rodrigo Duterte, South Korea, drug crackdown, kidnapping and killing of_
 
 ### [Two women, Indonesian Siti Aisyah and Vietnamese Doan Thi Huong, are charged with murder in relation to the death of Kim Jong-nam, the estranged half-brother of North Korean leader Kim Jong-un, at Kuala Lumpur International Airport. The women, who reportedly thought they were involved in a prank TV show, did not enter pleas. ](/news/2017/03/1/two-women-indonesian-siti-aisyah-and-vietnamese-aoa-n-tha-haedegae-ng-are-charged-with-murder-in-relation-to-the-death-of-kim-jong-nam-the.md)
 Siti Aisyah and Doan Thi Huong face a mandatory death sentence if convicted

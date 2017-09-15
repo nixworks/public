@@ -14,4 +14,5 @@
 5. [U.S. talk-show host Ellen DeGeneres announces that she is leaving the "American Idol" television show after one year as a judge. ](/news/2010/07/29/u-s-talk-show-host-ellen-degeneres-announces-that-she-is-leaving-the-american-idol-television-show-after-one-year-as-a-judge.md) _Context: American Idol_
 6. [ Kris Allen is crowned the new "American Idol".](/news/2009/05/20/kris-allen-is-crowned-the-new-american-idol.md) _Context: American Idol_
 7. [ Carrie Underwood won the fourth season of American Idol. ](/news/2005/05/25/carrie-underwood-won-the-fourth-season-of-american-idol.md) _Context: American Idol_
-8. [ Hit reality show, American Idol premiered its first episode on Fox Network.](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.md) _Context: American Idol_
+8. [ In a close vote, Ruben Studdard beat out Clay Aiken to become the next American Idol.](/news/2003/05/21/in-a-close-vote-ruben-studdard-beat-out-clay-aiken-to-become-the-next-american-idol.md) _Context: American Idol_
+9. [ Hit reality show, American Idol premiered its first episode on Fox Network.](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.md) _Context: American Idol_

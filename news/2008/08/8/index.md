@@ -25,7 +25,7 @@ _Context: George W. Bush, President, United States_
 _Context: repossession_
 
 ### [ Former U.S. Senator and Democratic ex-presidential candidate John Edwards admits to an affair with Rielle Hunter after having earlier denied it. ](/news/2008/08/8/former-u-s-senator-and-democratic-ex-presidential-candidate-john-edwards-admits-to-an-affair-with-rielle-hunter-after-having-earlier-denie.md)
-_Context: 2008, Democrats, John Edwards, Rielle Hunter, an affair_
+_Context: 2008, Democratic, John Edwards, Rielle Hunter, an affair_
 
 ## [Previous Day...](/news/2008/08/7/index.md)
 
