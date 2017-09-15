@@ -12,11 +12,11 @@ Turkey has already paid a deposit to Russia for the purchase of the S-400 anti-b
 ### [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md)
 Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a &quot;sanctuary state&quot; bill that would limit the role of sta...
 
-### [The Sagrada Familia basilica in Barcelona is evacuated due to an anti-terrorism operation. ](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-evacuated-due-to-an-anti-terrorism-operation.md)
- MADRID (AP) — Police in Barcelona said a false alarm involving a suspicious van prompted the evacuation of the landmark Sagrada Familia basilica and its surroundings Tuesday eveni
-
 ### [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md)
 The U.S. Supreme Court on Tuesday allowed President Donald Trump to broadly implement a ban on refugees entering the country from around the world.
+
+### [The Sagrada Familia basilica in Barcelona is evacuated due to an anti-terrorism operation. ](/news/2017/09/12/the-sagrada-famalia-basilica-in-barcelona-is-evacuated-due-to-an-anti-terrorism-operation.md)
+ MADRID (AP) — Police in Barcelona said a false alarm involving a suspicious van prompted the evacuation of the landmark Sagrada Familia basilica and its surroundings Tuesday eveni
 
 ### [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md)
 A recent ISIS recruiting video is the latest sign the terror group wants to steer jihadis to the Islamist uprising in the Philippines instead of Syria and Iraq.

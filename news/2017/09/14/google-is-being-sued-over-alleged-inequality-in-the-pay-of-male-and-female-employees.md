@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [A law is on its way to be passed in California that will allow people to choose a third gender () besides the common female ([?]) and male ([?]) categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-a-besides-the-common-female-ai-and.md) _Context: female_
+1. [A law is on its way to be passed in California that will allow people to choose a third gender besides the common female and male categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-besides-the-common-female-and-male-categories.md) _Context: female_
 2. [The European Commission imposes a record EUR2.42bn antitrust fine on internet giant Google for allegedly manipulating its search engine results. ](/news/2017/06/27/the-european-commission-imposes-a-record-a-2-42bn-antitrust-fine-on-internet-giant-google-for-allegedly-manipulating-its-search-engine-resu.md) _Context: Google_
 3. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Google_
 4. [Google introduces a so-called "fact checking" feature on its news aggregate service to combat alleged political bias. ](/news/2016/10/15/google-introduces-a-so-called-fact-checking-feature-on-its-news-aggregate-service-to-combat-alleged-political-bias.md) _Context: Google_
