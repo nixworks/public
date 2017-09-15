@@ -12,8 +12,11 @@ _Context: 2017 Atlantic hurricane season, Barbuda, Hurricane Irma, depopulated_
 ### [Typhoon Doksuri (Maring) hits central Vietnam killing one person and injuring ten. ](/news/2017/09/15/typhoon-doksuri-maring-hits-central-vietnam-killing-one-person-and-injuring-ten.md)
 _Context: 2017 Pacific typhoon season, central Vietnam_
 
-### [A journalist for the British newspaper "The Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-the-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md)
+### [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md)
 Paul McClean, a 24-year-old British journalist for the Financial Times, died following a crocodile attack Thursday afternoon while he was vacationing with
+
+### [The World Health Organization says that hunger around the world has risen as a result of war and climate change. ](/news/2017/09/15/the-world-health-organization-says-that-hunger-around-the-world-has-risen-as-a-result-of-war-and-climate-change.md)
+815 million people now hungry – Millions of children at risk from malnutrition
 
 ### [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md)
 North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
