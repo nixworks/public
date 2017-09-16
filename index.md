@@ -21,9 +21,6 @@ Paul McClean, a 24-year-old British journalist for the Financial Times, died fol
 ### [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md)
 North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
 
-### [A law is on its way to be passed in California that will allow people to choose a third gender on their drivers license besides the common female and male, categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-on-their-drivers-license-besides-the-common-f.md)
-California is the latest state to consider adding a third gender option on driver’s licenses and birth certificates for those that do not identify as a man or woman.
-
 ### [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned-the-b.md)
 _Context: Bjarni Benediktsson, Bright Future, Politics of Iceland, Prime Minister_
 
@@ -33,7 +30,7 @@ _Context: Caloocan, Philippine Drug War, Philippine National Police_
 ### [The Iraqi Kurdistan Parliament votes to go ahead with the planned independence referendum, scheduled to take place on 25 September, 2017. ](/news/2017/09/15/the-iraqi-kurdistan-parliament-votes-to-go-ahead-with-the-planned-independence-referendum-scheduled-to-take-place-on-25-september-2017.md)
 _Context: Iraqi Kurdistan Parliament, Iraqi Kurdistan independence referendum, 2017_
 
-### [After 20 years floating the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the-at.md)
+### [After 20 years "floating" the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the.md)
 The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
 
 ## Opinion
