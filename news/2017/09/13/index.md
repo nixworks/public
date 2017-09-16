@@ -1,6 +1,6 @@
 ## [2017-09-13](/news/2017/09/13/index.md)
 
-### [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md)
+### [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md)
 A suicide bomber blew himself up at a checkpoint near the main cricket stadium in the Afghan capital Kabul on Wednesday, killing at least three people as a tournament was under way, officials said.
 
 ### [United States Homeland Security bans Kaspersky Lab products from government computers due to fears they could be coerced into sharing information with the Russian government. ](/news/2017/09/13/united-states-homeland-security-bans-kaspersky-lab-products-from-government-computers-due-to-fears-they-could-be-coerced-into-sharing-inform.md)
