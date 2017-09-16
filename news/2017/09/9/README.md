@@ -4,7 +4,7 @@
 The Syrian army and its allies reached an air base besieged for years by Islamic State militants on the outskirts of the eastern city of Deir al-Zor on Saturday, said a commander in the alliance fighting in support of President Bashar al-Assad.
 
 ### [The Arakan Rohingya Salvation Army declares a unilateral ceasefire to allow humanitarian groups to facilitate aid for Rohingya refugees. ](/news/2017/09/9/the-arakan-rohingya-salvation-army-declares-a-unilateral-ceasefire-to-allow-humanitarian-groups-to-facilitate-aid-for-rohingya-refugees.md)
-_Context: 2016-17 Northern Rakhine State clashes, Arakan Rohingya Salvation Army, Rohingya people_
+_Context: 2016-17 Northern Rakhine State clashes, Arakan Rohingya Salvation Army, Rohingya_
 
 ### [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md)
 _Context: 18th Dynasty, Egypt's, Egyptology, Luxor, goldsmith_
