@@ -8,3 +8,7 @@
 ### Source:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-41279682)
+
+### Related:
+
+1. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Iraqi Kurdistan independence referendum, 2017_
