@@ -7,7 +7,7 @@ _Context: Timothy F. Geithner, Treasury Secretary, United States, United States 
 _Context: Gaza Strip, Israel, Israel Defense Forces, bomb_
 
 ### [ Icelandic Prime Minister Geir Haarde announces the collapse of his coalition government in the wake of the country's financial crisis. ](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.md)
-_Context: 2008 economic meltdown, Geir Haarde, Iceland, Icelandic Prime Minister, governing coalition, government_
+_Context: 2008 economic meltdown, Geir Haarde, Iceland, Politics of Iceland, Prime Minister, governing coalition_
 
 ### [ United States pharmaceutical company Pfizer announces it will buy rival Wyeth in a US$68-billion deal. ](/news/2009/01/26/united-states-pharmaceutical-company-pfizer-announces-it-will-buy-rival-wyeth-in-a-us-68-billion-deal.md)
 _Context: Pfizer, US$, United States, Wyeth, pharmaceutical companies_

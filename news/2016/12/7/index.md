@@ -25,7 +25,7 @@ _Context: 2016 Great Smoky Mountains wildfires, Gatlinburg, Tennessee, arson_
 The race is tight with President John Mahama and his rival Nana Akufo Addo running neck and neck in opinion polls.
 
 ### [Philippines president Rodrigo Duterte accuses the opposition Liberal Party of trying to oust him and install the current vice president Leni Robredo to the presidency. ](/news/2016/12/7/philippines-president-rodrigo-duterte-accuses-the-opposition-liberal-party-of-trying-to-oust-him-and-install-the-current-vice-president-leni.md)
-_Context: Leni Robredo, Liberal Party, Philippines, Rodrigo Duterte, drug crackdown_
+_Context: Leni Robredo, Liberal Party, Philippine Drug War, Philippines, Rodrigo Duterte_
 
 ### [John F. Kelly is selected as Secretary of Homeland Security. [https://www.washingtonpost.com/world/national-security/retired-marine-gen-john-f-kelly-picked-to-head-department-of-homeland-security/2016/12/07/165472f2-bbe6-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_kelly-1140a%3Ahomepage%2Fstory ("The Washington Post")]Linda McMahon is selected as Administrator of the Scott Pruitt is selected as Administrator of the Environmental Protection Agency](/news/2016/12/7/john-f-kelly-is-selected-as-secretary-of-homeland-security-https-www-washingtonpost-com-world-national-security-retired-marine-gen-john.md)
 _Context: Environmental Protection Agency, John  F. Kelly, Linda McMahon, Presidential transition of Donald Trump, Scott Pruitt, Secretary of Homeland Security, Small Business Administration_

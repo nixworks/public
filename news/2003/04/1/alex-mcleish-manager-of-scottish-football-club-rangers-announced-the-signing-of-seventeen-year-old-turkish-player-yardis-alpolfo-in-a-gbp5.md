@@ -1,0 +1,19 @@
+### [2003-04-1](/news/2003/04/1/index.md)
+
+#  Alex McLeish, manager of Scottish football club Rangers announced the signing of seventeen-year-old Turkish player Yardis Alpolfo in a GBP5 million deal. The name is in fact an anagram of "April Fool's Day" but many news sources, including Reuters, reported the story.
+
+
+
+
+### Related:
+
+1. [An online video appears to claim that the Free Syrian Army moved its headquarters from Turkey to "liberated areas" inside Syria; Reuters says in Idlib or Aleppo. ](/news/2012/09/22/an-online-video-appears-to-claim-that-the-free-syrian-army-moved-its-headquarters-from-turkey-to-liberated-areas-inside-syria-reuters-say.md) _Context: Reuters, Turkey_
+2. [ Scottish footballers Barry Ferguson and Allan McGregor receive lifetime bans from the Scottish Football Association and are transfer-listed by Rangers Football Club. ](/news/2009/04/3/scottish-footballers-barry-ferguson-and-allan-mcgregor-receive-lifetime-bans-from-the-scottish-football-association-and-are-transfer-listed.md) _Context: Rangers F.C., Scotland_
+3. [ In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. ](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-the-2008-uefa-cup-after-defeating-scottish-side-rangers-2a0-in-the-final.md) _Context: Rangers F.C., Scotland_
+4. [ Reuters reports that Turkish forces launched an attack on Kurdistan Workers Party (PKK) positions in northern Iraq earlier in the week killing 34 PKK fighters. ](/news/2007/10/24/reuters-reports-that-turkish-forces-launched-an-attack-on-kurdistan-workers-party-pkk-positions-in-northern-iraq-earlier-in-the-week-kill.md) _Context: Reuters, Turkey_
+5. [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md) _Context: Turkey_
+6. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Turkey_
+7. [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md) _Context: Turkey_
+8. [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md) _Context: Turkey_
+9. [Turkey decides to stop teaching evolution to its students until their university level curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-their-university-level-curriculum-deeming-it-controversial-and-too-complex.md) _Context: Turkey_
+10. [Five people are killed after being electrocuted at a water park in Akyazi, Turkey. ](/news/2017/06/23/five-people-are-killed-after-being-electrocuted-at-a-water-park-in-akyaza-turkey.md) _Context: Turkey_

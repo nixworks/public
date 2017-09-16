@@ -55,7 +55,7 @@ _Context: Antarctica, Pine Island Glacier, Southern Ocean_
 A sister species of the snow leopard roamed the plateau of Tibet nearly 5 million years ago.
 
 ### [WWF releases a photo, taken by a camera trap in a forest in central Vietnam in September, of one of Earth's rarest mammals, the saola, which hadn't been seen in 15 years. ](/news/2013/11/13/wwf-releases-a-photo-taken-by-a-camera-trap-in-a-forest-in-central-vietnam-in-september-of-one-of-earth-s-rarest-mammals-the-saola-which.md)
-_Context: Central Vietnam, World Wildlife Fund, saola_
+_Context: World Wildlife Fund, central Vietnam, saola_
 
 ## [Previous Day...](/news/2013/11/12/index.md)
 

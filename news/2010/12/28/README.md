@@ -34,7 +34,7 @@ Five teenagers die at a party in a southern Florida motel room in what officials
 _Context: Antonov An-22, Oryol, Russia, Tula_
 
 ### [A fire in a New Orleans warehouse kills eight people and two dogs, most of them homeless artists and musicians.](/news/2010/12/28/a-fire-in-a-new-orleans-warehouse-kills-eight-people-and-two-dogs-most-of-them-homeless-artists-and-musicians.md)
-_Context: New Orleans, homeless people_
+_Context: New Orleans, homelessness_
 
 ### [An IC3 train in Israel caught on a fire, injuring 116.](/news/2010/12/28/an-ic3-train-in-israel-caught-on-a-fire-injuring-116.md)
 _Context: IC3_

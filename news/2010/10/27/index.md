@@ -25,7 +25,7 @@ _Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israel Defens
 _Context: New Line, New Zealand, The Hobbit, Warner Bros._
 
 ### [American bank Wells Fargo admits it made mistakes in 55,000 real estate foreclosure cases. ](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.md)
-_Context: Real estate, Wells Fargo, foreclose_
+_Context: Wells Fargo, foreclose, housing_
 
 ### [One sailor drowns and 12 are missing after a freighter carrying Chinese crew capsized off Taiwan. ](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.md)
 _Context: China, Taiwan_

@@ -8,3 +8,8 @@
 ### Source:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8397625.stm)
+
+### Related:
+
+1. [ Richard Sambrook, the Director of BBC News reveals that Dr. David Kelly was the source of claims that Downing Street had "sexed up" the September Dossier. (see also: Dodgy Dossier)](/news/2003/07/20/richard-sambrook-the-director-of-bbc-news-reveals-that-dr-david-kelly-was-the-source-of-claims-that-downing-street-had-sexed-up-the-sep.md) _Context: David Christopher Kelly_
+2. [ The corpse of Dr. David Kelly is discovered, it appears that he committed suicide. Kelly was a British government advisor involved in the "September Dossier" investigation relating to the 2003 war on Iraq. Former Labour Junior Minister Glenda Jackson calls for Prime Minister Blair's resignation and a Mail on Sunday reporter asks, "Do you have blood on your hands. Prime Minister?" Blair refuses to comment, as does Communications Director Campbell.](/news/2003/07/18/the-corpse-of-dr-david-kelly-is-discovered-it-appears-that-he-committed-suicide-kelly-was-a-british-government-advisor-involved-in-the.md) _Context: David Christopher Kelly_

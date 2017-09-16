@@ -8,3 +8,7 @@ Week-long blaze destroys thousands of hectares of forest crucial for water catch
 ### Source:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/20123229592167488.html)
+
+### Related:
+
+1. [ 14 people - a US family of 12 who had chartered the plane and the South African crew of 2 - die when a light plane crashes into Mount Kenya after taking off from Nairobi for Buffalo Springs National Reserve in northern Kenya.](/news/2003/07/20/14-people-a-a-us-family-of-12-who-had-chartered-the-plane-and-the-south-african-crew-of-2-a-die-when-a-light-plane-crashes-into-mount-k.md) _Context: Mount Kenya_

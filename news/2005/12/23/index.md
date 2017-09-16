@@ -4,7 +4,7 @@
 _Context: Azerbaijan, Baku_
 
 ### [ Different sources report that Chadian president Idriss Deby has said his country is in a state of either "war" or "belligerence" with Sudan following a recent rebel attack in which around 100 people were killed. ](/news/2005/12/23/different-sources-report-that-chadian-president-idriss-da-c-by-has-said-his-country-is-in-a-state-of-either-war-or-belligerence-with-suda.md)
-_Context: Chad, Idriss Deby, Sudan, conflict zones_
+_Context: Chad, Idriss Deby, Sudan, war_
 
 ### [ The 2012 Summer Olympics may have been given to London by a voting error, a senior IOC official theorised. ](/news/2005/12/23/the-2012-summer-olympics-may-have-been-given-to-london-by-a-voting-error-a-senior-ioc-official-theorised.md)
 _Context: 2012 Summer Olympics, IOC, London_

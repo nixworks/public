@@ -1,0 +1,19 @@
+### [2003-06-1](/news/2003/06/1/index.md)
+
+#  The sluice-gates on the Three Gorges Dam in China are closed, starting the filling of the reservoir of the world's largest hydroelectric project.
+
+
+
+
+### Related:
+
+1. [The Democratic Republic of Congo and South Africa sign an accord to develop a mega-hydroelectric plant on the Congo river to address their nations' growing energy needs. ](/news/2011/11/12/the-democratic-republic-of-congo-and-south-africa-sign-an-accord-to-develop-a-mega-hydroelectric-plant-on-the-congo-river-to-address-their-n.md) _Context: hydroelectric_
+2. [The Government of the People's Republic of China acknowledges that there are "urgent problems" associated with the country's Three Gorges Dam project, as it is linked to soil erosion, earthquakes, drought and social upheaval. ](/news/2011/05/20/the-government-of-the-people-s-republic-of-china-acknowledges-that-there-are-urgent-problems-associated-with-the-country-s-three-gorges-da.md) _Context: Three Gorges Dam_
+3. [The water level of the Three Gorges Dam, the world's largest water control and utilization project, reaches its designed full capacity mark. ](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.md) _Context: Three Gorges Dam_
+4. [The Brazil hydroelectric plant in Foz do Iguacu is second largest hydroelectric plant in world after the Three Gorges in China. ](/news/2010/10/21/the-brazil-hydroelectric-plant-in-foz-do-iguacu-is-second-largest-hydroelectric-plant-in-world-after-the-three-gorges-in-china.md) _Context: hydroelectric_
+5. [Flooding at the Three Gorges Dam is set to peak within the next 24 hours. ](/news/2010/07/27/flooding-at-the-three-gorges-dam-is-set-to-peak-within-the-next-24-hours.md) _Context: Three Gorges Dam_
+6. [The Three Gorges Dam on the Yangtze River faces its biggest flood control test since its completion last year. ](/news/2010/07/20/the-three-gorges-dam-on-the-yangtze-river-faces-its-biggest-flood-control-test-since-its-completion-last-year.md) _Context: Three Gorges Dam_
+7. [China surpassed the United States last year as the country with the most clean energy investment. China's clean energy investments were $34.6 billion, compared with U.S.A.'s $18.6 billion last year. The US still leads the world in installed renewable energy, with 52.2 gigawatts of wind energy, small hydroelectric, biomass and waste generating capacity, per a report by the nonprofit Pew Charitable Trusts, but has dropped below ten other countries, including Canada and Mexico in investments as a share of the national economy.](/news/2010/03/26/china-surpassed-the-united-states-last-year-as-the-country-with-the-most-clean-energy-investment-china-s-clean-energy-investments-were-34.md) _Context: hydroelectric_
+8. [ China postpones a plan to raise the Three Gorges reservoir to its ideal height due to lack of water. ](/news/2009/11/5/china-postpones-a-plan-to-raise-the-three-gorges-reservoir-to-its-ideal-height-due-to-lack-of-water.md) _Context: Three Gorges Dam_
+9. [ Flood alerts are issued for Hubei province in China as the swollen Yangtze River puts the Three Gorges Dam to the test. Another 27 people have died and Beijing's airport was closed on Monday night due to heavy rain. ](/news/2007/07/31/flood-alerts-are-issued-for-hubei-province-in-china-as-the-swollen-yangtze-river-puts-the-three-gorges-dam-to-the-test-another-27-people-h.md) _Context: Three Gorges Dam_
+10. [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md) _Context: Three Gorges Dam_

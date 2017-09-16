@@ -28,7 +28,7 @@ _Context: Islamabad, Marriott International, Pakistan, bombed_
 _Context: Latvia, President, Prime Minister of Latvia, Valdis Dombrovskis, Valdis Zatlers, finance minister_
 
 ### [ Ajmal Kasab, the 2008 Mumbai attacks' lone surviving gunman, is charged with waging war against India. ](/news/2009/02/26/ajmal-kasab-the-2008-mumbai-attacks-lone-surviving-gunman-is-charged-with-waging-war-against-india.md)
-_Context: 2008 Mumbai attacks, Ajmal Kasab, India, Mumbai, conflict zones_
+_Context: 2008 Mumbai attacks, Ajmal Kasab, India, Mumbai, war_
 
 ### [ The Royal Bank of Scotland Group reports a 2008 loss of GBP24.1 billion. ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-agbp24-1-billion.md)
 _Context: GBP, Royal Bank of Scotland Group_

@@ -8,3 +8,7 @@ The U.S. poverty rate rose to 14.3 percent in 2009 from 13.2 percent the year be
 ### Source:
 
 1. [Reuters](http://www.reuters.com/article/idUSTRE68F4K520100916)
+
+### Related:
+
+1. [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md) _Context: poverty_

@@ -4,7 +4,7 @@
 _Context: Los Angeles Police Department, YouTube_
 
 ### [ NASA's Cassini spacecraft records a hurricane-like storm on the south pole of Saturn which is the first time such an event has been observed on another planet. ](/news/2006/11/10/nasa-s-cassini-spacecraft-records-a-hurricane-like-storm-on-the-south-pole-of-saturn-which-is-the-first-time-such-an-event-has-been-observe.md)
-_Context: Cassini probe, NASA, Saturn, hurricane_
+_Context: Cassini, NASA, Saturn, hurricane_
 
 ### [ Nick Griffin, the leader of the British National Party, and activist Mark Collett are cleared of inciting racial hatred after a retrial at Leeds Crown Court. ](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.md)
 _Context: British National Party, Crown Court, Leeds, Mark Collett, Nick Griffin_

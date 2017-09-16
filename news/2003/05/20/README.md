@@ -10,7 +10,7 @@ _Context: Chelsea Flower Show_
 _Context: Alberta, cow, mad cow disease_
 
 ### [ DARPA's Congressional report announces that the controversial Total Information Awareness program will be known as the Terrorist Information Awareness program from now on, to emphasize that its purpose is to compile data on terrorists, and not to compile dossiers on US citizens.](/news/2003/05/20/darpa-s-congressional-report-announces-that-the-controversial-total-information-awareness-program-will-be-known-as-the-terrorist-informatio.md)
-_Context: DARPA, Terrorist Information Awareness, Total Information Awareness_
+_Context: DARPA, Information Awareness Office, Terrorist Information Awareness_
 
 ### [ "Buffy the Vampire Slayer" aired its series finale, concluding the seven year series.](/news/2003/05/20/buffy-the-vampire-slayer-aired-its-series-finale-concluding-the-seven-year-series.md)
 _Context: Buffy the Vampire Slayer_

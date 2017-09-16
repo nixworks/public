@@ -19,7 +19,7 @@ _Context: Dollar Tree, Family Dollar, discount store_
 An international arbitration court ruled on Monday that Russia must pay $50 billion for expropriating the assets of Yukos, the former oil giant whose ex-owner Mikhail Khodorkovsky fell foul of the Kremlin.
 
 ### [Real estate firms Zillow and Trulia agree to merge, becoming the world's third-largest real estate firm. ](/news/2014/07/28/real-estate-firms-zillow-and-trulia-agree-to-merge-becoming-the-world-s-third-largest-real-estate-firm.md)
-_Context: Real estate, Trulia, Zillow_
+_Context: Trulia, Zillow, housing_
 
 ### [A rare EF2 tornado strikes Chelsea and Revere, Massachusetts marking the first such incident since at least 1950 that a tornado had hit the two communities north of Boston according to the NWS. ](/news/2014/07/28/a-rare-ef2-tornado-strikes-chelsea-and-revere-massachusetts-marking-the-first-such-incident-since-at-least-1950-that-a-tornado-had-hit-the.md)
 REVERE — A rare tornado roared through this seaside city with terrifying force Monday, uprooting hundreds of trees, ripping roofs off houses, and spurring a intensive recovery effort that is expected to last days.

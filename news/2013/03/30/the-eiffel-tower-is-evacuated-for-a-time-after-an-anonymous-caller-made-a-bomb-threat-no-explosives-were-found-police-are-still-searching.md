@@ -16,3 +16,4 @@ A terror alert at the Eiffel Tower has been cleared after the monument was evacu
 3. [The Eiffel Tower is closed due to snow. ](/news/2010/12/8/the-eiffel-tower-is-closed-due-to-snow.md) _Context: Eiffel Tower_
 4. [The Eiffel Tower and the surrounding Champ de Mars park are evacuated due to a bomb threat but nothing is found. ](/news/2010/09/28/the-eiffel-tower-and-the-surrounding-champ-de-mars-park-are-evacuated-due-to-a-bomb-threat-but-nothing-is-found.md) _Context: Eiffel Tower_
 5. [French police evacuate the Eiffel Tower and the surrounding Champ de Mars park in Paris following a bomb threat. ](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.md) _Context: Eiffel Tower_
+6. [ One of the top floors of the Eiffel Tower catches fire. No one is injured.](/news/2003/07/22/one-of-the-top-floors-of-the-eiffel-tower-catches-fire-no-one-is-injured.md) _Context: Eiffel Tower_

@@ -1,7 +1,7 @@
 ## [2007-09-29](/news/2007/09/29/index.md)
 
 ### [ A bomb explodes in Mal, the capital of the Maldives, injuring 12 tourists. ](/news/2007/09/29/a-bomb-explodes-in-male-the-capital-of-the-maldives-injuring-12-tourists.md)
-_Context: Mal, Maldives, explodes_
+_Context: Maldives, explodes, male_
 
 ### [ President of Pakistan Muslim League (N) says former Pakistan President Nawaz Sharif will make a comeback to Pakistan after Ramadan. ](/news/2007/09/29/president-of-pakistan-muslim-league-n-says-former-pakistan-president-nawaz-sharif-will-make-a-comeback-to-pakistan-after-ramadan.md)
 _Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Ramadan_

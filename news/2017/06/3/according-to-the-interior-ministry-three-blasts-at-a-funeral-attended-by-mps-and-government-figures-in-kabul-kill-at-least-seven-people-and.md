@@ -11,7 +11,7 @@ Blasts at funeral attended by government officials including one of leading poli
 
 ### Related:
 
-1. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md) _Context: Kabul, War in Afghanistan_
+1. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Kabul, War in Afghanistan_
 2. [A suicide car bombing in the western part of Kabul kills at least 24 and injures more than 40 people. Afghan authorities say the target of the attack was a bus of civilian government workers from the Ministry of Mines and Petroleum. ](/news/2017/07/24/a-suicide-car-bombing-in-the-western-part-of-kabul-kills-at-least-24-and-injures-more-than-40-people-afghan-authorities-say-the-target-of-t.md) _Context: Kabul, War in Afghanistan_
 3. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Kabul, War in Afghanistan_
 4. [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _Context: Kabul, War in Afghanistan_

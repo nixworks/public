@@ -13,7 +13,7 @@ A Taliban suicide attacker detonated a car bomb in the western part of Kabul on 
 
 ### Related:
 
-1. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan.md) _Context: Kabul, War in Afghanistan_
+1. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Kabul, War in Afghanistan_
 2. [According to the Interior Ministry, three blasts at a funeral attended by MPs and government figures in Kabul kill at least seven people and wound 119 more. ](/news/2017/06/3/according-to-the-interior-ministry-three-blasts-at-a-funeral-attended-by-mps-and-government-figures-in-kabul-kill-at-least-seven-people-and.md) _Context: Kabul, War in Afghanistan_
 3. [A terrorist attack, involving a blast and gunfire, occurs at a Shia mosque in Kabul, Afghanistan, killing several people. ](/news/2017/06/15/a-terrorist-attack-involving-a-blast-and-gunfire-occurs-at-a-shia-mosque-in-kabul-afghanistan-killing-several-people.md) _Context: Kabul, War in Afghanistan_
 4. [Two bombs explode near the National Assembly in Kabul, killing at least 38 people. ](/news/2017/01/10/two-bombs-explode-near-the-national-assembly-in-kabul-killing-at-least-38-people.md) _Context: Kabul, War in Afghanistan_

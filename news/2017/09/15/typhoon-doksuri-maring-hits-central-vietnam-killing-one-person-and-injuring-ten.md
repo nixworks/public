@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_STORM_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
+1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_ASIA_STORM_ASOL-?SITE=AP)
 
 ### Related:
 

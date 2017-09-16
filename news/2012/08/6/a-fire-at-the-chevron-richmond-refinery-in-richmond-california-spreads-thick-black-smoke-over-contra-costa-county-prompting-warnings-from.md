@@ -8,3 +8,7 @@ Massive fire at Chevron refinery in Richmond fully contained; shelter in place l
 ### Source:
 
 1. [Mercury News](http://www.mercurynews.com/breaking-news/ci_21250598/large-fire-burning-at-chevron-refinery-richmond)
+
+### Related:
+
+1. [ The bodies of a headless woman and a newborn fetus with the umbilical cord still attached washed up separately on the shore of San Francisco Bay near Richmond, California. DNA testing determined the body is that of Laci Peterson, who had been missing from her home in Modesto since December 24, 2002.](/news/2003/04/14/the-bodies-of-a-headless-woman-and-a-newborn-fetus-with-the-umbilical-cord-still-attached-washed-up-separately-on-the-shore-of-san-francisc.md) _Context: Richmond, California_

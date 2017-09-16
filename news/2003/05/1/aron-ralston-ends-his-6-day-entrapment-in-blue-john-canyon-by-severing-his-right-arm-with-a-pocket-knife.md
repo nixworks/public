@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ Hiker and mountain climber Aron Ralston is stuck for five days in Blue John Canyon after an 800-pound rock falls on his right arm, pinning it to the canyon wall.](/news/2003/04/26/hiker-and-mountain-climber-aron-ralston-is-stuck-for-five-days-in-blue-john-canyon-after-an-800-pound-rock-falls-on-his-right-arm-pinning.md) _Context: Aron Ralston, Blue John Canyon_

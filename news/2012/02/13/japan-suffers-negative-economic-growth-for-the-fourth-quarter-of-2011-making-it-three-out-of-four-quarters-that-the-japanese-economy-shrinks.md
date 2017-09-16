@@ -20,4 +20,4 @@
 7. [ Japan's economy contracted by 4% during the first fiscal quarter of 2009. ](/news/2009/05/20/japan-s-economy-contracted-by-4-during-the-first-fiscal-quarter-of-2009.md) _Context: Japan, Japanese economy_
 8. [ Japan reports its first annual trade deficit since 1981. ](/news/2009/04/22/japan-reports-its-first-annual-trade-deficit-since-1981.md) _Context: Japan, Japanese economy_
 9. [ Japan's economy posts a record deficit of 172.8 billion yen. ](/news/2009/03/9/japan-s-economy-posts-a-record-deficit-of-172-8-billion-yen.md) _Context: Japan, Japanese economy_
-10. [ A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
+10. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_

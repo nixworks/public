@@ -1,0 +1,19 @@
+### [2003-06-17](/news/2003/06/17/index.md)
+
+#  Kyodo reports that United States Armed Forces arrest the Japanese journalist Rei Shiba and two Iraqi guides on around June 8 in Ar Ramadi, 100&nbsp;km west of Baghdad, while covering a university. The American forces reportedly put a bag on their heads during the arrest and gagged them in custody.
+
+
+
+
+### Related:
+
+1. [Wikileaks releases a video from 2007 showing the killing of civilians, including two Reuters news staff, by the U.S. military in Baghdad, Iraq. ](/news/2010/04/5/wikileaks-releases-a-video-from-2007-showing-the-killing-of-civilians-including-two-reuters-news-staff-by-the-u-s-military-in-baghdad-ir.md) _Context: Baghdad, Iraq, United States military personnel_
+2. [ Shia Islamists under cleric Muqtada al-Sadr protest in Baghdad, Iraq, on the anniversary of its capture by the United States Armed Forces in 2003. ](/news/2009/04/9/shia-islamists-under-cleric-muqtada-al-sadr-protest-in-baghdad-iraq-on-the-anniversary-of-its-capture-by-the-united-states-armed-forces-i.md) _Context: Baghdad, Iraq, United States military personnel_
+3. [Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. ](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.md) _Context: Baghdad, Iraq_
+4. [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md) _Context: Baghdad, Iraq_
+5. [The United States announces it will be sending 560 more United States Armed Forces soldiers to Iraq to help fight against ISIL. ](/news/2016/07/11/the-united-states-announces-it-will-be-sending-560-more-united-states-armed-forces-soldiers-to-iraq-to-help-fight-against-isil.md) _Context: Iraq, United States military personnel_
+6. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
+7. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
+8. [  At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-o.md) _Context: Baghdad, Iraq_
+9. [A twin suicide bombing attack at a police station in Baghdad kills five people. Yesterday 93 people had been killed and 165 injured in the deadliest day of attacks in Iraq this year. ](/news/2016/05/12/a-twin-suicide-bombing-attack-at-a-police-station-in-baghdad-kills-five-people-yesterday-93-people-had-been-killed-and-165-injured-in-the-d.md) _Context: Baghdad, Iraq_
+10. [ Iraqi officials declare a state of emergency for all of Baghdad after protesters loyal to popular Shiite cleric Muqtada al-Sadr stormed into Iraq's parliament in the Green Zone. ](/news/2016/04/30/iraqi-officials-declare-a-state-of-emergency-for-all-of-baghdad-after-protesters-loyal-to-popular-shiite-cleric-muqtada-al-sadr-stormed-int.md) _Context: Baghdad, Iraq_

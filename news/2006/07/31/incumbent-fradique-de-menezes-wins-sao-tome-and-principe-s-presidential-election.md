@@ -12,3 +12,4 @@
 ### Related:
 
 1. [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md) _Context: So Tom and Prncipe_
+2. [ A coup d'tat takes place in So Tom and Prncipe; the prime minister Maria das Neves is arrested.](/news/2003/07/16/a-coup-d-etat-takes-place-in-sao-tome-and-principe-the-prime-minister-maria-das-neves-is-arrested.md) _Context: So Tom and Prncipe_

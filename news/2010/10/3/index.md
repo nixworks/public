@@ -38,7 +38,7 @@ _Context: Anshun, Guizhou, Huanghegou, Xixiu_
 _Context: Atush, Xinjiang_
 
 ### [Nine die in floods in central Vietnam. Four people have been killed in Ha Tinh Province, one in QuGBPng Binh Province and one in QuGBPng Tri Province, while two individuals were injured in [a Tinh and QuGBPng Binh Provinces. ](/news/2010/10/3/nine-die-in-floods-in-central-vietnam-four-people-have-been-killed-in-ha-ta-c-nh-province-one-in-quaogbpng-ba-nh-province-and-one-in-quaogb.md)
-_Context: Central Vietnam, Ha Tinh Province, QuGBPng Binh Province, QuGBPng Tri_
+_Context: Ha Tinh Province, QuGBPng Binh Province, QuGBPng Tri, central Vietnam_
 
 ### [An explosion rips through a leather workshop in the town of Guzelburc in Hatay Province, Turkey, killing 3 people and injuring 5 others. ](/news/2010/10/3/an-explosion-rips-through-a-leather-workshop-in-the-town-of-ga1-4zelburass-in-hatay-province-turkey-killing-3-people-and-injuring-5-others.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

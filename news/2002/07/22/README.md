@@ -1,7 +1,7 @@
 ## [2002-07-22](/news/2002/07/22/index.md)
 
 ### [ A few hours after the spiritual leader of Hamas, Ahmed Yassin, offered to halt all suicide attacks in exchange for full Israeli withdrawal from the West Bank and Gaza Strip, an Israeli F-16 jet dropped a bomb into a densely populated residential area of Gaza City. Fifteen people were killed, including Salah Shehade (the leader of Hamas's military wing, the Izz ad-Din el-Qasam Brigades), and more than 100 others were wounded. Nine of the dead were children, including Mohammed al-Huwaiti (aged 4), his brother Subhi (aged 3), Ayman Mattar (aged 1) and Dunya Rami Mattar (aged three months). The United Nations swiftly condemned the action as a flagrant violation of international law. Ariel Sharon, Israel's Prime Minister, said it was "one of our biggest successes", though the Prime Minister's office later added, "it is well known he regrets the killing of civilians."](/news/2002/07/22/a-few-hours-after-the-spiritual-leader-of-hamas-ahmed-yassin-offered-to-halt-all-suicide-attacks-in-exchange-for-full-israeli-withdrawal.md)
-_Context: Ahmed Yassin, Ariel Sharon, F-16, Gaza, Hamas, Israel, Salah Shehade, United Nations_
+_Context: Ariel Sharon, F-16, Gaza, Hamas, Israel, Salah Shehade, Sheikh Ahmed Yassin, United Nations_
 
 ### [ An earthquake (magnitude 4.7) hits parts of Germany, Belgium, and the Netherlands.](/news/2002/07/22/an-earthquake-magnitude-4-7-hits-parts-of-germany-belgium-and-the-netherlands.md)
 _Context: earthquake, magnitude_

@@ -1,6 +1,6 @@
 ## [2017-09-15](/news/2017/09/15/index.md)
 
-### [Reports of an explosion on a train at Parsons Green tube station, London, with twenty-two injured. Scotland Yard confirms the incident to be a terrorist attack. ](/news/2017/09/15/reports-of-an-explosion-on-a-train-at-parsons-green-tube-station-london-with-twenty-two-injured-scotland-yard-confirms-the-incident-to-be.md)
+### [An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack. ](/news/2017/09/15/an-explosion-on-a-train-at-the-parsons-green-tube-station-in-london-injures-29-scotland-yard-is-treating-the-incident-as-a-terrorist-attack.md)
 Passengers on District line reported seeing a device and hearing a bang on a tube train during morning rush-hour
 
 ### [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md)
@@ -21,7 +21,7 @@ Paul McClean, a 24-year-old British journalist for the Financial Times, died fol
 ### [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md)
 North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
 
-### [A law is on its way to be passed in California that will allow people to choose a third gender besides the common female and male categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-besides-the-common-female-and-male-categories.md)
+### [A law is on its way to be passed in California that will allow people to choose a third gender on their drivers license besides the common female and male, categories similar to a law in Oregon. ](/news/2017/09/15/a-law-is-on-its-way-to-be-passed-in-california-that-will-allow-people-to-choose-a-third-gender-on-their-drivers-license-besides-the-common-f.md)
 California is the latest state to consider adding a third gender option on driver’s licenses and birth certificates for those that do not identify as a man or woman.
 
 ### [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned-the-b.md)

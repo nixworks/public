@@ -12,7 +12,7 @@
 ### Related:
 
 1. [Japan shuts down its last nuclear reactor, leaving the country without nuclear power for the first time since 1970. ](/news/2012/05/5/japan-shuts-down-its-last-nuclear-reactor-leaving-the-country-without-nuclear-power-for-the-first-time-since-1970.md) _Context: Japan, nuclear power_
-2. [ A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
+2. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
 3. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: Japan_
 4. [North Korea fires a Hwasong-12 ballistic missile which flies 2,700 km, passing over Hokkaido, northern Japan, prompting the activation of the nationwide J-Alert warning system. This is first time since 2009 that a North Korean missile has passed over Japanese territory. ](/news/2017/08/29/north-korea-fires-a-hwasong-12-ballistic-missile-which-flies-2-700-km-passing-over-hokkaido-northern-japan-prompting-the-activation-of-th.md) _Context: Japan_
 5. [The death toll from flooding on the southern Japanese island of Kyushu rises to 15, with six others missing. ](/news/2017/07/8/the-death-toll-from-flooding-on-the-southern-japanese-island-of-kyushu-rises-to-15-with-six-others-missing.md) _Context: Japan_

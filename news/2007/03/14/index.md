@@ -22,7 +22,7 @@ _Context: Iraq, civil war_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ NASA announces that the Cassini spacecraft has captured images of several sea-sized bodies of liquid, likely hydrocarbons, on Titan, the largest moon of Saturn. ](/news/2007/03/14/nasa-announces-that-the-cassini-spacecraft-has-captured-images-of-several-sea-sized-bodies-of-liquid-likely-hydrocarbons-on-titan-the-la.md)
-_Context: Cassini probe, NASA, Saturnian moon, Titan, hydrocarbon_
+_Context: Cassini, NASA, Saturnian moon, Titan, hydrocarbon_
 
 ### [ Police in India arrest two people in relation to the Samjhauta Express bombing. ](/news/2007/03/14/police-in-india-arrest-two-people-in-relation-to-the-samjhauta-express-bombing.md)
 _Context: Samjhauta Express bombing_

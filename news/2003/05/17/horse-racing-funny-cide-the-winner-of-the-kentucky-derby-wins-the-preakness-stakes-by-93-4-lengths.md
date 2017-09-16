@@ -15,3 +15,4 @@
 6. [ Curlin wins the Preakness Stakes, extending the Triple Crown drought to 29 years. ](/news/2007/05/19/curlin-wins-the-preakness-stakes-extending-the-triple-crown-drought-to-29-years.md) _Context: Preakness_
 7. [ Smarty Jones wins the Preakness Stakes by 12 lengths. ](/news/2004/05/15/smarty-jones-wins-the-preakness-stakes-by-12-lengths.md) _Context: Preakness_
 8. [ Smarty Jones wins the Kentucky Derby. ](/news/2004/05/1/smarty-jones-wins-the-kentucky-derby.md) _Context: Kentucky Derby_
+9. [ Empire Maker wins the Belmont Stakes horse race, stopping the bid of Funny Cide to win the Triple Crown of Thoroughbred Racing. Funny Cide is third, behind Ten Most Wanted (horse).](/news/2003/06/7/empire-maker-wins-the-belmont-stakes-horse-race-stopping-the-bid-of-funny-cide-to-win-the-triple-crown-of-thoroughbred-racing-funny-cide.md) _Context: Funny Cide_

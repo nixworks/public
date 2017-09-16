@@ -15,7 +15,7 @@ Japan’s first jury trial in more than a half century concluded as a panel of t
 
 ### Related:
 
-1. [ A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
+1. [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md) _Context: Japan_
 2. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: Japan_
 3. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: murder_
 4. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_

@@ -4,7 +4,7 @@
 _Context: George W. Bush, Northeastern Pennsylvania, Scranton, Pennsylvania, University of Scranton, medical malpractice_
 
 ### [ US Senator Russ Feingold introduces a bill to halt the Information Awareness Office and Total Information Awareness pending a review of privacy issues involved. The US Congress attempting to suspend an internal Department of Defense project is a highly unusual step.](/news/2003/01/16/us-senator-russ-feingold-introduces-a-bill-to-halt-the-information-awareness-office-and-total-information-awareness-pending-a-review-of-pri.md)
-_Context: Russ Feingold, Total Information Awareness, U.S. military, US Senator_
+_Context: Information Awareness Office, Russ Feingold, U.S. military, US Senator_
 
 ### [ UN weapons inspectors in Iraq stated that they found empty rocket warheads, designed to carry chemical warfare agents, at the Ukhaider Ammunition Storage Area.](/news/2003/01/16/un-weapons-inspectors-in-iraq-stated-that-they-found-empty-rocket-warheads-designed-to-carry-chemical-warfare-agents-at-the-ukhaider-ammu.md)
 _Context: Iraq, Ukhaider Ammunition Storage Area, United Nations, chemical warfare, rocket, warhead, weapons inspector_

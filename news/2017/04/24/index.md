@@ -13,7 +13,7 @@ The US has issued sanctions against hundreds of Syrian scientists and officials 
 Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters turned city into a battle zone before fleeing in speedboats with about $6m
 
 ### [A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. ](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-murder-and-crimes-against-humanity-against-philippines-president-rodrigo-duterte-and-eleven-ot.md)
-_Context: International Criminal Court, Netherlands, Philippines, Rodrigo Duterte, The Hague, crimes against humanity, drug crackdown, mass murder_
+_Context: International Criminal Court, Netherlands, Philippine Drug War, Philippines, Rodrigo Duterte, The Hague, crimes against humanity, mass murder_
 
 ### [Arkansas becomes the first U.S. state since Texas in 2000 to hold two executions on the same day as executes convicted murderers Jack Jones, Jr. and Marcel Williams. ](/news/2017/04/24/arkansas-becomes-the-first-u-s-state-since-texas-in-2000-to-hold-two-executions-on-the-same-day-as-executes-convicted-murderers-jack-jones.md)
 Lawyers for Jack Jones and Marcel Williams are seeking stays on grounds of poor health.

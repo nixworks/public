@@ -4,7 +4,7 @@
 _Context: Center for Public Interest, Domestic Security Enhancement Act of 2003, John Ashcroft, judicial review_
 
 ### [ The chief United Nations arms inspector Hans Blix said Iraq appeared to be making fresh efforts to cooperate with U.N. teams hunting weapons of mass destruction, as Washington said the "momentum is building" for war with Iraq.](/news/2003/02/7/the-chief-united-nations-arms-inspector-hans-blix-said-iraq-appeared-to-be-making-fresh-efforts-to-cooperate-with-u-n-teams-hunting-weapon.md)
-_Context: Hans Blix, Iraq, U.N., United Nations, conflict zones, weapons of mass destruction_
+_Context: Hans Blix, Iraq, U.N., United Nations, war, weapons of mass destruction_
 
 ### [ The United States said it was ready for any contingency after North Korea issued threats of pre-emptive attack and suggested it was poised to restart an atomic reactor central to its suspected drive for nuclear arms.](/news/2003/02/7/the-united-states-said-it-was-ready-for-any-contingency-after-north-korea-issued-threats-of-pre-emptive-attack-and-suggested-it-was-poised.md)
 _Context: North Korea, atomic reactor, pre-emptive attack_

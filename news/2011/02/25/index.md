@@ -28,7 +28,7 @@ _Context: Australia, Mortal Kombat_
 _Context: Christian Dior, John Galliano, Paris, anti-Semitism, fashion designer_
 
 ### [The population of Japan records its slowest increase since Japan first held a census. ](/news/2011/02/25/the-population-of-japan-records-its-slowest-increase-since-japan-first-held-a-census.md)
-_Context: Japan, census, population of Japan, slowest increase_
+_Context: Japan, census, depopulated, population of Japan_
 
 ### [A Seoul court orders Chung Mong-koo, the Chairman of the South Korean Hyundai Kia Automotive Group, to pay US$73.1 million in compensation to his own company. ](/news/2011/02/25/a-seoul-court-orders-chung-mong-koo-the-chairman-of-the-south-korean-hyundai-kia-automotive-group-to-pay-us-73-1-million-in-compensation-t.md)
 _Context: Chung Mong-koo, Hyundai Kia Automotive Group, Seoul, South Korea_
