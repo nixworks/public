@@ -10,7 +10,7 @@ The divide between Trump and the business community has only continued to grow s
 _Context: Economy of the United States, Stanley Fischer, U.S. Federal Reserve_
 
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
-_Context: Arizona Air National Guard, F-16, Safford, Arizona_
+_Context: 2017 disasters in the United States, Arizona Air National Guard, F-16, Safford, Arizona_
 
 ### [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md)
 Sustained winds on the ground in Barbuda were recorded at 108 mph.

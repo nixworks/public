@@ -2,12 +2,12 @@
 
 # Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. 
 
-Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
+Eight Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
 
 
 ### Source:
 
-1. [Reuters](http://www.reuters.com/article/us-kenya-school-fire/seven-kenyan-schoolgirls-die-in-dormitory-blaze-government-idUSKCN1BD0BS?feedType=RSS&feedName=topNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FtopNews+%28News+%2F+US+%2F+Top+News%29)
+1. [Reuters](http://www.reuters.com/article/us-kenya-school-fire/seven-kenyan-schoolgirls-die-in-dormitory-blaze-government-idUSKCN1BD0BS)
 
 ### Related:
 

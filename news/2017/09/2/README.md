@@ -7,7 +7,7 @@ Suicide bombers struck a state-run power station north of Baghdad early on Satur
 _Context: FBI, NSD, New York City, Trump Tower, Trump Tower wiretapping allegations, wiretapped_
 
 ### [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md)
-Seven Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
+Eight Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.
 
 ### [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md)
 Australia and Timor-Leste resolve their bitter and long-running dispute over maritime boundaries in the Timor Sea.

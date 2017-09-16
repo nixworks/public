@@ -21,7 +21,7 @@ The Supreme Court orders a new vote citing irregularities, sparking joy among op
 ### [Paul Ryan (R-WI), U.S. Speaker of the House of Representatives, urges President Donald Trump not to rescind the Deferred Action for Childhood Arrivals (DACA) program that protects immigrants who illegally entered the U.S. as children from deportation. ](/news/2017/09/1/paul-ryan-r-wi-u-s-speaker-of-the-house-of-representatives-urges-president-donald-trump-not-to-rescind-the-deferred-action-for-childhoo.md)
 House of Representatives Speaker Paul Ryan urged President Donald Trump on Friday not to rescind an Obama-era program that protects immigrants who entered the United States illegally as children, as more Republicans lined up against the move.
 
-### [Asteroid 3122 Florence, which is roughly 2.7 miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-approxi.md)
+### [Asteroid 3122 Florence, which is roughly 2.7 miles (4.4 kilometers) wide, comes within 4.4 million miles (7 million km) of Earth -- approximately 18 times the distance from our planet to the Moon. ](/news/2017/09/1/asteroid-3122-florence-which-is-roughly-2-7-miles-4-4-kilometers-wide-comes-within-4-4-million-miles-7-million-km-of-earth-a-approxi.md)
 A mountain-size space rock cruised past Earth this morning (Sept. 1) in a record-breaking encounter that has long had scientists drooling.
 
 ## [Previous Day...](/news/2017/08/31/index.md)
