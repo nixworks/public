@@ -21,6 +21,9 @@ Paul McClean, a 24-year-old British journalist for the Financial Times, died fol
 ### [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md)
 North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
 
+### [The ex-police officer involved in a fatal 2011 shooting of a black man in St. Louis, Missouri is acquitted of all charges related to the case. ](/news/2017/09/15/the-ex-police-officer-involved-in-a-fatal-2011-shooting-of-a-black-man-in-st-louis-missouri-is-acquitted-of-all-charges-related-to-the-cas.md)
+Demonstrators have clashed with police in St. Louis following the acquittal of ex-officer Jason Stockley in the fatal shooting Anthony Lamar Smith. Two officers have been hospitalized after being hit with bricks.
+
 ### [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted paedophile be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-paedophile-be-pardoned-the-b.md)
 _Context: Bjarni Benediktsson, Bright Future, Politics of Iceland, Prime Minister_
 
