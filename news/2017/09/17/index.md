@@ -6,6 +6,9 @@ Deceased include political tehsildar; one Levies official injured
 ### [The Primetime Emmy Awards will be held in Los Angeles. Political satirist and "The Late Show" host Stephen Colbert will host the event. ](/news/2017/09/17/the-primetime-emmy-awards-will-be-held-in-los-angeles-political-satirist-and-the-late-show-host-stephen-colbert-will-host-the-event.md)
 Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday’s awards ceremony.
 
+### [At least eight people were killed and 67 were injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-were-killed-and-67-were-injured-after-a-strong-storm-hit-western-and-central-romania.md)
+A strong storm killed eight people and injured at least 67 in western Romania on Sunday as winds of up to 100 kph (over 60 mph) also brought destruction to parts of Serbia and Croatia, officials said.
+
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md)
  PARIS (AP) — Police and firefighters checked a British Airways plane on the tarmac of Paris&#39; Charles de Gaulle airport Sunday morning after reports of a security threat but author
 
