@@ -9,13 +9,13 @@ More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to 
 ### [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md)
 Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallied in Cologne. The rally was in support of Kurdish independence as well as the jailed leader of the banned PKK.
 
-### [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
-_Context: Alingi, Iceland, Icelandic parliamentary election_
+### [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
+_Context: Althingi, Iceland, Icelandic parliamentary election_
 
 ### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
 
-### [Bangladesh announces plans to build refugee camps the size of small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-small-cities-to-house-nearly-400-000-rohingya-refugees.md)
+### [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md)
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
 
 ## [Previous Day...](/news/2017/09/15/index.md)
