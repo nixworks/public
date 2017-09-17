@@ -1,6 +1,6 @@
 ### [2017-09-17](/news/2017/09/17/index.md)
 
-# The Primetime Emmy Awards is to be held in Los Angeles. Liberal political satirist Stephen Colbert is to host the event and the current United States President Donald Trump is expected to be the topic of conversation among the Hollywood elite. 
+# The Primetime Emmy Awards is to be held in Los Angeles. Liberal political satirist Stephen Colbert is to host the event and the current United States President Donald Trump is expected to be the topic of conversation in Hollywood. 
 
 Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday’s awards ceremony.
 
