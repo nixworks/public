@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md) _Context: California, Eric Garcetti, Kamala Harris, Super Tuesday_
+1. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _Context: California, Super Tuesday_
 2. [Voters in the American city of Los Angeles, California, go to the polls for a mayoral election with Eric Garcetti and Wendy Greuel to contest a runoff on 21 May 2013. ](/news/2013/03/5/voters-in-the-american-city-of-los-angeles-california-go-to-the-polls-for-a-mayoral-election-with-eric-garcetti-and-wendy-greuel-to-contes.md) _Context: California, Eric Garcetti_
 3. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: Eric Garcetti_
 4. [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md) _Context: California_

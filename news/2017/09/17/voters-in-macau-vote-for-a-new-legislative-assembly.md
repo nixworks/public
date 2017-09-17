@@ -1,9 +1,13 @@
 ### [2017-09-17](/news/2017/09/17/index.md)
 
-# Voters in Macau vote for a new Legislative Assembly.
+# Voters in Macau vote for a new Legislative Assembly. 
 
 
 
+
+### Source:
+
+1. [South China Morning Post](http://www.scmp.com/news/hong-kong/politics/article/2111503/macau-votes-new-legislature-most-hotly-contested-polls-years)
 
 ### Related:
 

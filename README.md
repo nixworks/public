@@ -3,11 +3,17 @@
 ### [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md)
 Deceased include political tehsildar; one Levies official injured 
 
+### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md)
+ PARIS (AP) — Police and firefighters checked a British Airways plane on the tarmac of Paris&#39; Charles de Gaulle airport Sunday morning after reports of a security threat but author
+
 ### [Represented by her daughter and proxy Maryam, Kulsoom Nawaz Sharif contests the seat vacated by her husband former Pakistani Prime Minister Nawaz Sharif. Kulsoom is being treated in London for cancer.](/news/2017/09/17/represented-by-her-daughter-and-proxy-maryam-kulsoom-nawaz-sharif-contests-the-seat-vacated-by-her-husband-former-pakistani-prime-minister.md)
 Long queues form outside polling stations to vote in the seat vacated by former PM Nawaz Sharif.
 
-### [Voters in Macau vote for a new Legislative Assembly.](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md)
+### [Voters in Macau vote for a new Legislative Assembly. ](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md)
 _Context: Legislative Assembly, Macanese legislative election, Macau_
+
+### [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinzo-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-election.md)
+The Japanese political world was rocked Sunday after media reports emerged that Prime Minister Shinzo Abe plans to dissolve the Lower House as early as Sep
 
 ### [Hamas, which governs the Gaza Strip, agrees to talk to Fatah, of the Palestinian Authority-ruled West Bank. ](/news/2017/09/17/hamas-which-governs-the-gaza-strip-agrees-to-talk-to-fatah-of-the-palestinian-authority-ruled-west-bank.md)
 Hamas says it is willing to dissolve its Gaza administration, 10 years after it fought a bloody war with Fatah
@@ -32,7 +38,7 @@ Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallie
 ### [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
 _Context: Alingi, Iceland, Icelandic parliamentary election_
 
-### [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md)
+### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
 
 ### [Bangladesh announces plans to build refugee camps the size of small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-small-cities-to-house-nearly-400-000-rohingya-refugees.md)
