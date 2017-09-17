@@ -3,7 +3,7 @@
 ### [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md)
 Deceased include political tehsildar; one Levies official injured 
 
-### [The Primetime Emmy Awards will be held in Los Angeles. Political satirist and "The Late Show" host Stephen Colbert will host the event and the current United States President Donald Trump is expected to be the topic of conversation in Hollywood. ](/news/2017/09/17/the-primetime-emmy-awards-will-be-held-in-los-angeles-political-satirist-and-the-late-show-host-stephen-colbert-will-host-the-event-and-t.md)
+### [The Primetime Emmy Awards will be held in Los Angeles. Political satirist and "The Late Show" host Stephen Colbert will host the event. ](/news/2017/09/17/the-primetime-emmy-awards-will-be-held-in-los-angeles-political-satirist-and-the-late-show-host-stephen-colbert-will-host-the-event.md)
 Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday’s awards ceremony.
 
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md)
