@@ -1,4 +1,15 @@
-## [News](/news/2017/09/16/index.md)
+## [News](/news/2017/09/17/index.md)
+
+### [Hamas, which governs the Gaza Strip, agrees to talk to Fatah, of the Palestinian Authority-ruled West Bank. ](/news/2017/09/17/hamas-which-governs-the-gaza-strip-agrees-to-talk-to-fatah-of-the-palestinian-authority-ruled-west-bank.md)
+Hamas says it is willing to dissolve its Gaza administration, 10 years after it fought a bloody war with Fatah
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/16/index.md)
 
 ### [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md)
 Ryanair Holdings Plc scrapped 82 flights on Sunday, the start of a six-week program of cancellations it’s making as it seeks to reduce a backlog of crew vacation required by Irish regulators before the end of the year.
@@ -12,16 +23,15 @@ Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallie
 ### [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
 _Context: Alingi, Iceland, Icelandic parliamentary election_
 
+### [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md)
+California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
+
 ### [Bangladesh announces plans to build refugee camps the size of small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-small-cities-to-house-nearly-400-000-rohingya-refugees.md)
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/15/index.md)
+## [Day Before Yesterday](/news/2017/09/15/index.md)
 
 ### [An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack. ](/news/2017/09/15/an-explosion-on-a-train-at-the-parsons-green-tube-station-in-london-injures-29-scotland-yard-is-treating-the-incident-as-a-terrorist-attack.md)
 Passengers on District line reported seeing a device and hearing a bang on a tube train during morning rush-hour
@@ -64,41 +74,7 @@ The Saturn probe takes some final images ahead of its mission-ending dive into t
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/14/index.md)
-
-### [Several members of ISIL stage multiple attacks on the outskirts of Nasiriyah in the southern Dhi Qar Governorate, killing at least 50 people and injuring 87 others. ](/news/2017/09/14/several-members-of-isil-stage-multiple-attacks-on-the-outskirts-of-nasiriyah-in-the-southern-dhi-qar-governorate-killing-at-least-50-people.md)
-Gunmen and a suicide bomber storm a restaurant and open fire before a bomb explodes at a checkpoint.
-
-### [The origin of the zero may have been in South Asia according to a Sanskrit script housed in the United Kingdom since 1902 and discovered in Bakhshali near Peshawar, Pakistan. ](/news/2017/09/14/the-origin-of-the-zero-may-have-been-in-south-asia-according-to-a-sanskrit-script-housed-in-the-united-kingdom-since-1902-and-discovered-in.md)
-Exclusive: one of the greatest conceptual breakthroughs in mathematics has been traced to the Bakhshali manuscript, dating from the 3rd or 4th century
-
-### [Google is being sued over alleged inequality in the pay of male and female employees. ](/news/2017/09/14/google-is-being-sued-over-alleged-inequality-in-the-pay-of-male-and-female-employees.md)
-_Context: Feminism in the United States, Google, female, inequality_
-
-### [A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. ](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.md)
-A fire at an Islamic boarding school for boys killed at least 24 people, most of them students, in the Malaysian capital of Kuala Lumpur on Thursday morning, officials said.
-
-### [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md)
-Vietnam on Thursday was bracing for Typhoon Doksuri, which is expected to be the most powerful tropical cyclone to hit the Southeast Asian country in several years.
-
-### [Russia and Belarus begin a six-day joint strategic military exercise inside Belarus and Russia's Kaliningrad Oblast. The military exercise simulates war against the fictional state of Veyshnoria. According to the Defence Ministry of Belarus, fewer than 13,000 personnel will be taking part in the exercise; however, Western analysts believe the total number will range from 60,000 to 100,000. ](/news/2017/09/14/russia-and-belarus-begin-a-six-day-joint-strategic-military-exercise-inside-belarus-and-russia-s-kaliningrad-oblast-the-military-exercise-s.md)
-_Context: Belarus, Belarus-Russia relations, Defence Ministry of Belarus, Kaliningrad Oblast, Russia, Veyshnoria, Zapad 2017 exercise, military exercise_
-
-### [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md)
-Gujarat to Mumbai 217mph train will cut journey time from eight hours to three and is funded with low-interest Japanese loan
-
-### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
-_Context: Communist, Makabayan, Philippine Drug War, Philippine lower House_
-
-### [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md)
-_Context: California, Eric Garcetti, Kamala Harris, Super Tuesday, United States presidential election, 2020, primaries_
-
-### [The International Union for Conservation of Nature upgrades the conservation status of the snow leopard from endangered to vulnerable. ](/news/2017/09/14/the-international-union-for-conservation-of-nature-upgrades-the-conservation-status-of-the-snow-leopard-from-endangered-to-vulnerable.md)
-Although no longer at imminent risk of extinction, scientists are warning the Himalayan big cat is not out of the woods yet.
-
----
-
-## [Previous Day...](/news/2017/09/13/index.md)
+## [Previous Day...](/news/2017/09/14/index.md)
 
 ---
 

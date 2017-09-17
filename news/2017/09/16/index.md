@@ -12,6 +12,9 @@ Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallie
 ### [Iceland will vote for a new Alingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-althingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
 _Context: Alingi, Iceland, Icelandic parliamentary election_
 
+### [California passes a bill that will move the primaries to March near Super Tuesday so that Kamala Harris and Eric Garcetti can have better chances at becoming president. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday-so-that-kamala-harris-and-eric-garcetti-can-have-better-ch.md)
+California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
+
 ### [Bangladesh announces plans to build refugee camps the size of small cities to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-refugee-camps-the-size-of-small-cities-to-house-nearly-400-000-rohingya-refugees.md)
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
 
