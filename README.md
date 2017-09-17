@@ -1,7 +1,10 @@
 ## [News](/news/2017/09/16/index.md)
 
-### [The government of Scotland releases a statement in support of Catalan independence referendum but would prefer that both Catalonia and Spain agree on the terms. ](/news/2017/09/16/the-government-of-scotland-releases-a-statement-in-support-of-catalan-independence-referendum-but-would-prefer-that-both-catalonia-and-spain.md)
-Cabinet Secretary for External Affairs Fiona Hyslop has commented on the continued dispute between the governments of Spain and Catalonia on proposals for a referendum
+### [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md)
+Ryanair Holdings Plc scrapped 82 flights on Sunday, the start of a six-week program of cancellations it’s making as it seeks to reduce a backlog of crew vacation required by Irish regulators before the end of the year.
+
+### [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md)
+More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to confirm their support for a planned independence referendum that Madrid has declared illegal.
 
 ### [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md)
 Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallied in Cologne. The rally was in support of Kurdish independence as well as the jailed leader of the banned PKK.
@@ -19,6 +22,9 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ### [An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack. ](/news/2017/09/15/an-explosion-on-a-train-at-the-parsons-green-tube-station-in-london-injures-29-scotland-yard-is-treating-the-incident-as-a-terrorist-attack.md)
 Passengers on District line reported seeing a device and hearing a bang on a tube train during morning rush-hour
+
+### [Jamaican Violet Mosse-Brown, the world's oldest person, dies in Montego Bay at age 117. ](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.md)
+_Context: Montego Bay, Violet Mosse-Brown, world's oldest person_
 
 ### [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md)
 The California Assembly passed a package of bills Thursday that aim to address the state’s housing affordability crisis.

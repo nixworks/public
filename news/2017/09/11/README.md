@@ -31,7 +31,7 @@ California on Monday sued the Trump administration, challenging as unconstitutio
 _Context: Justice, Philippines, Politics of the Philippines, Risa Hontiveros, Vitaliano Aguirre, lawsuit, senators_
 
 ### [Around a million people rally in Barcelona to mark the National Day of Catalonia and to support the upcoming independence referendum on 1 October. ](/news/2017/09/11/around-a-million-people-rally-in-barcelona-to-mark-the-national-day-of-catalonia-and-to-support-the-upcoming-independence-referendum-on-1-oc.md)
-_Context: Barcelona, Catalan independence, Catalan independence referendum, 2017, National Day of Catalonia_
+_Context: Barcelona, Catalan independence, National Day of Catalonia, independence referendum_
 
 ## [Previous Day...](/news/2017/09/10/index.md)
 
