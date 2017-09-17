@@ -1,6 +1,6 @@
 ### [2017-09-17](/news/2017/09/17/index.md)
 
-# Represented by her daughter and proxy Maryam, Kulsoom Nawaz Sharif contests the seat vacated by her husband former Pakistani Prime Minister Nawaz Sharif. Kulsoom is being treated in London for cancer.
+# Represented by her daughter and proxy Maryam, Kulsoom Nawaz Sharif contests the seat vacated by her husband former Pakistani Prime Minister Nawaz Sharif. Kulsoom is being treated in London for cancer. 
 
 Long queues form outside polling stations to vote in the seat vacated by former PM Nawaz Sharif.
 

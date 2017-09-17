@@ -9,7 +9,7 @@ Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md)
  PARIS (AP) — Police and firefighters checked a British Airways plane on the tarmac of Paris&#39; Charles de Gaulle airport Sunday morning after reports of a security threat but author
 
-### [Represented by her daughter and proxy Maryam, Kulsoom Nawaz Sharif contests the seat vacated by her husband former Pakistani Prime Minister Nawaz Sharif. Kulsoom is being treated in London for cancer.](/news/2017/09/17/represented-by-her-daughter-and-proxy-maryam-kulsoom-nawaz-sharif-contests-the-seat-vacated-by-her-husband-former-pakistani-prime-minister.md)
+### [Represented by her daughter and proxy Maryam, Kulsoom Nawaz Sharif contests the seat vacated by her husband former Pakistani Prime Minister Nawaz Sharif. Kulsoom is being treated in London for cancer. ](/news/2017/09/17/represented-by-her-daughter-and-proxy-maryam-kulsoom-nawaz-sharif-contests-the-seat-vacated-by-her-husband-former-pakistani-prime-minister.md)
 Long queues form outside polling stations to vote in the seat vacated by former PM Nawaz Sharif.
 
 ### [Voters in Macau vote for a new Legislative Assembly. ](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md)
