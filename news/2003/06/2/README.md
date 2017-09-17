@@ -19,7 +19,7 @@ _Context: Baikonur, European Space Agency, Kazakhstan, Mars, Mars Express_
 _Context: Federal Communications Commission, even greater media consolidation_
 
 ### [ A US Department of Justice internal audit is released which asserts that the government systematically abused the civil rights of individuals detained after the September 11, 2001 Terrorist Attack, engaging in "a pattern of physical and verbal abuse".](/news/2003/06/2/a-us-department-of-justice-internal-audit-is-released-which-asserts-that-the-government-systematically-abused-the-civil-rights-of-individua.md)
-_Context: September 11, 2001 Terrorist Attack, United States Department of Justice_
+_Context: September 11, United States Department of Justice_
 
 ## [Previous Day...](/news/2003/06/1/index.md)
 

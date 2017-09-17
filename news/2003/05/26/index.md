@@ -1,7 +1,7 @@
 ## [2003-05-26](/news/2003/05/26/index.md)
 
 ### [ A Ukrainian YAk-42 plane crashes in northeast Turkey, near the city of Trabzon, killing all aboard. The plane carried 12 crew-members and 62 Spanish soldiers returning from a six-month peacekeeping mission in Afghanistan.](/news/2003/05/26/a-ukrainian-yak-42-plane-crashes-in-northeast-turkey-near-the-city-of-trabzon-killing-all-aboard-the-plane-carried-12-crew-members-and-6.md)
-_Context: Afghanistan, Spain_
+_Context: Afghanistan, Spanish_
 
 ### [ A draft of the proposed European constitution is unveiled.](/news/2003/05/26/a-draft-of-the-proposed-european-constitution-is-unveiled.md)
 _Context: European constitution_

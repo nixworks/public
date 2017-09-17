@@ -7,7 +7,7 @@ _Context: Baseball Hall of Fame, Enos Slaughter, Recent celebrity deaths, non-Ho
 _Context: Bohemia, Czech Republic, Danube, Karlovy Vary, Plzen, Prague, Silvio Berlusconi, Vladimir Spidla, extreme weather_
 
 ### [ US Airways declares bankruptcy, caused by the air travel slowdown following the September 11, 2001, Terrorist Attack.](/news/2002/08/12/us-airways-declares-bankruptcy-caused-by-the-air-travel-slowdown-following-the-september-11-2001-terrorist-attack.md)
-_Context: September 11, 2001 Terrorist Attack, US Airways, bankruptcy_
+_Context: September 11, US Airways, bankruptcy_
 
 ### [ Colombian president Alvaro Uribe declares state of emergency.](/news/2002/08/12/colombian-president-alvaro-uribe-declares-state-of-emergency.md)
 _Context: Alvaro Uribe, Colombia_

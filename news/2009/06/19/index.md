@@ -22,7 +22,7 @@ _Context: Foroyaa, Halifa Sallah, the Gambia_
 The Pentagon said that it planned to &#8220;vigorously enforce&#8221; sanctions on North Korea&#8217;s nuclear program.
 
 ### [ Ireland's Taoiseach Brian Cowen secures binding concessions in EU talks on the Lisbon Treaty. ](/news/2009/06/19/ireland-s-taoiseach-brian-cowen-secures-binding-concessions-in-eu-talks-on-the-lisbon-treaty.md)
-_Context: Brian Cowen, EU, Ireland, Taoiseach, Treaty of Lisbon_
+_Context: Brian Cowen, EU, Irish, Taoiseach, Treaty of Lisbon_
 
 ### [ Allen Stanford, the chairman of Stanford Financial Group, is arrested after allegations of fraud. ](/news/2009/06/19/allen-stanford-the-chairman-of-stanford-financial-group-is-arrested-after-allegations-of-fraud.md)
 _Context: Allen Stanford, Stanford Financial Group_

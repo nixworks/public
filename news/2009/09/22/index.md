@@ -40,7 +40,7 @@ _Context: Iran, Mahmoud Ahmadinejad, New York City, President, United Nations, U
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ A Spanish doctor, identified as AM, is sentenced to a year in prison for his role in the death of the former First Lady of Nigeria, Stella Obasanjo. ](/news/2009/09/22/a-spanish-doctor-identified-as-am-is-sentenced-to-a-year-in-prison-for-his-role-in-the-death-of-the-former-first-lady-of-nigeria-stella.md)
-_Context: First Lady, Nigeria, Spain, Stella Obasanjo_
+_Context: First Lady, Nigeria, Spanish, Stella Obasanjo_
 
 ### [ Ireland's National Ploughing Championships, the largest ploughing championship in the world and the largest outdoor agricultural event in Europe, begins in Athy, County Kildare. ](/news/2009/09/22/ireland-s-national-ploughing-championships-the-largest-ploughing-championship-in-the-world-and-the-largest-outdoor-agricultural-event-in-e.md)
 An estimated 49,000 people attended the National Ploughing Championship today.

@@ -16,7 +16,7 @@ _Context: Kyoto Protocol, Stephen Harper, socialist_
 _Context: Kazakhstan, Shanghai Cooperation Organisation, South Korea, Three Evils_
 
 ### [ US Airways, the United States' largest low-cost hub and spoke airline, announced that it was dropping its $9.8 billion bid for Delta Air Lines. The airline dropped the bid after Delta's creditors threw their support behind the airline's plan to emerge from bankruptcy on its own. ](/news/2007/01/31/us-airways-the-united-states-largest-low-cost-hub-and-spoke-airline-announced-that-it-was-dropping-its-9-8-billion-bid-for-delta-air-li.md)
-_Context: Delta Air Lines, US Airways, hub and spoke, low-cost carrier_
+_Context: Delta Air Lines, US Airways, hub and spoke, low-cost airline_
 
 ### [ India's TATA Steel buys steel giant Corus Group for GBP6.7 billion, making it the world's fifth largest steel manufacturer. [http://www.bloomberg.com/apps/news?pid=20601102&sid=apTLFDMqe5Z0&refer=uk (Bloomberg)] [http://news.bbc.co.uk/2/hi/business/6315823.stm (BBC)] [http://money.cnn.com/2007/01/31/news/international/bc.corus.tata.reut/index.htm?section=money_mostpopular (CNN)] (Wikinews)](/news/2007/01/31/india-s-tata-steel-buys-steel-giant-corus-group-for-agbp6-7-billion-making-it-the-world-s-fifth-largest-steel-manufacturer-http-www-bl.md)
 _Context: (Wikinews), Corus Group, Tata Steel, second-largest steelmaker, steel_

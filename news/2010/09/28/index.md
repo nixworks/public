@@ -58,7 +58,7 @@ _Context: Dmitry Medvedev, Mayor of Moscow, Russian President Vladimir Putin, Vl
 Ed Miliband says a new generation is running Labour and signals a break from the past by declaring the Iraq war wrong in his first big speech as leader.
 
 ### [Iceland's parliament, the Althing, refers charges of misconduct in office related to the 2008-2012 Icelandic financial crisis against former Prime Minister of Iceland Geir Haarde to the Landsdomur, a special court for such cases. ](/news/2010/09/28/iceland-s-parliament-the-althing-refers-charges-of-misconduct-in-office-related-to-the-2008a2012-icelandic-financial-crisis-against-form.md)
-_Context: 2008 economic meltdown, Geir Haarde, Iceland, Landsdomur, Prime Minister, parliament (Althing)_
+_Context: 2008 economic meltdown, Althing, Geir Haarde, Iceland, Landsdomur, Prime Minister_
 
 ## [Previous Day...](/news/2010/09/27/index.md)
 

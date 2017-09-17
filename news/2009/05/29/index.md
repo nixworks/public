@@ -10,7 +10,7 @@ _Context: Lana Clarkson, Phil Spector, United States, murder, record producer_
 Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc. in what turned out to be one of the most disastrous mergers in history, the two parted company Thursday, leaving both firms searching for their places in an altered media landscape.
 
 ### [ Irish brewery Beamish and Crawford closes after 217 years in business. ](/news/2009/05/29/irish-brewery-beamish-and-crawford-closes-after-217-years-in-business.md)
-_Context: Beamish and Crawford, Ireland, brewery_
+_Context: Beamish and Crawford, Irish, brewery_
 
 ### [ Irish broadcaster Pat Kenny hosts his final episode of "The Late Late Show". ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md)
 _Context: Pat Kenny, The Late Late Show, broadcaster_

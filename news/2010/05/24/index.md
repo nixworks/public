@@ -43,7 +43,7 @@ _Context: Niger, university degree_
 _Context: Khorramshahr, Mahmoud Ahmadinejad, President_
 
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
-_Context: International Monetary Fund, Spain_
+_Context: International Monetary Fund, Spanish_
 
 ### [Plane Stupid protesters break into Manchester Airport and lock arms around an aircraft. Flights are suspended. ](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.md)
 _Context: Manchester, Plane Stupid_

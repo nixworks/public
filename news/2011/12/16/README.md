@@ -22,7 +22,7 @@ _Context: Cairo, Egyptian Army_
 Russia finally joins the World Trade Organization at a ceremony in Geneva on Friday, after 18 years negotiating its membership.
 
 ### [Fitch Ratings lowers France's rating outlook while maintaining a AAA rating and puts the grades of six nations including Spain and Italy on review due to Europe's failure to find a solution to the debt problem. ](/news/2011/12/16/fitch-ratings-lowers-france-s-rating-outlook-while-maintaining-a-aaa-rating-and-puts-the-grades-of-six-nations-including-spain-and-italy-on.md)
-_Context: Europe, Fitch Ratings, France, Italy, Spain_
+_Context: Europe, Fitch Ratings, France, Italy, Spanish_
 
 ### [The stock price of Research in Motion, the maker of BlackBerry smart phones, falls after the release of disappointing quarterly numbers and news of the delay of expected product upgrades. ](/news/2011/12/16/the-stock-price-of-research-in-motion-the-maker-of-blackberry-smart-phones-falls-after-the-release-of-disappointing-quarterly-numbers-and.md)
 Research in Motion stock falls after company delays arrival of new phones next year. But the real problem for Research in Motion stock: Loyal BlackBerry users are jumping to other smartphones.

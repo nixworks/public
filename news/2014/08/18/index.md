@@ -10,7 +10,7 @@ Two of the suspects, Marwan Kawasame and Amar Abu Aysha remain at large; IDF say
 At least 160 people are reported to have been killed in floods and landslides following days of torrential rain in Nepal and northern India.
 
 ### [The Governor of the US state of Missouri, Jay Nixon, dispatches the Missouri National Guard to the St. Louis suburb of Ferguson following a week of often violent protest after the shooting of Michael Brown. ](/news/2014/08/18/the-governor-of-the-us-state-of-missouri-jay-nixon-dispatches-the-missouri-national-guard-to-the-st-louis-suburb-of-ferguson-following-a.md)
-_Context: Ferguson, Missouri, Governor, Jay Nixon, Missouri, Missouri National Guard, St. Louis's_
+_Context: Ferguson, Missouri, Governor, Jay Nixon, Missouri, Missouri National Guard, St. Louis_
 
 ### [Wikileaks founder Julian Assange, who is wanted for questioning in Sweden, says that he will leave his refuge in the Ecuadorean embassy in London "soon". ](/news/2014/08/18/wikileaks-founder-julian-assange-who-is-wanted-for-questioning-in-sweden-says-that-he-will-leave-his-refuge-in-the-ecuadorean-embassy-in-l.md)
 _Context: Ecuador, Julian Assange, London, Sweden, WikiLeaks_

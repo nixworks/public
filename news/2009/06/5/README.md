@@ -4,16 +4,16 @@
 Collection of colour photographs reveal the private life of Adolf Hitler.
 
 ### [ The European Union's parliamentary election continues in the Czech Republic and Ireland. ](/news/2009/06/5/the-european-union-s-parliamentary-election-continues-in-the-czech-republic-and-ireland.md)
-_Context: Czech Republic, EU, European Parliament, Ireland, election_
+_Context: Czech Republic, EU, European Parliament, Irish, election_
 
 ### [ Ireland conducts local elections and two by-elections in Dublin Central and Dublin South. ](/news/2009/06/5/ireland-conducts-local-elections-and-two-by-elections-in-dublin-central-and-dublin-south.md)
-_Context: Dublin Central, Dublin South, Ireland, by-election, local elections_
+_Context: Dublin Central, Dublin South, Irish, by-election, local elections_
 
 ### [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008a09-financial-crisis-until-2014.md)
 Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic recovery could take five years.
 
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper "El Pais" for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-peop.md)
-_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spain, indecent exposure_
+_Context: El Pais, Italian Prime Minister, Sardinia, Silvio Berlusconi, Spanish, indecent exposure_
 
 ### [ Ireland's rate of unemployment reaches 11.8%. ](/news/2009/06/5/ireland-s-rate-of-unemployment-reaches-11-8.md)
 The number of people on the Live Register hit 400,000 for the first time last month.

@@ -1,7 +1,7 @@
 ## [2009-09-24](/news/2009/09/24/index.md)
 
 ### [ Czech President Vaclav Klaus says he is "adamant" Irish voters will reject the European Union's Treaty of Lisbon when they vote on it again in the country's 2 October referendum, meaning his unwillingness to sign the treaty will be justified. ](/news/2009/09/24/czech-president-va-clav-klaus-says-he-is-adamant-irish-voters-will-reject-the-european-union-s-treaty-of-lisbon-when-they-vote-on-it-agai.md)
-_Context: Czech Republic, EU, Ireland, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
+_Context: Czech Republic, EU, Irish, Treaty of Lisbon, Vaclav Klaus, president, the second Irish referendum_
 
 ### [ The 2009 G-20 Pittsburgh summit commences with two dozen world leaders in attendance.](/news/2009/09/24/the-2009-g-20-pittsburgh-summit-commences-with-two-dozen-world-leaders-in-attendance.md)
 _Context: G-20 Summit_

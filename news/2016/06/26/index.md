@@ -31,7 +31,7 @@ Ernesto Fazzalari of Calabrian ’Ndrangheta faces life sentence having been fou
 Gathering of many West Coast white supremacist groups in Sacramento took sudden violent turn
 
 ### [Voters in Spain go to the polls for a general election six months after an inconclusive election. Polls indicate that no party will be in position to form a government. ](/news/2016/06/26/voters-in-spain-go-to-the-polls-for-a-general-election-six-months-after-an-inconclusive-election-polls-indicate-that-no-party-will-be-in-po.md)
-_Context: Spain, Spanish general election, 2016_
+_Context: Spanish, Spanish general election, 2016_
 
 ### [Nicola Sturgeon, the First Minister of Scotland, says that Scottish Parliament has the power to veto the United Kingdom's exit from the European Union. ](/news/2016/06/26/nicola-sturgeon-the-first-minister-of-scotland-says-that-scottish-parliament-has-the-power-to-veto-the-united-kingdom-s-exit-from-the-euro.md)
 Labour leader Jeremy Corbyn announces a reshaped shadow cabinet following a wave of resignations in protest at his leadership.

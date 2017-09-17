@@ -7,7 +7,7 @@ FOUR people have been killed and more than 20 injured when a homemade bomb was d
 The Syrian opposition reverses its decision to boycott international talks in Rome, after the US and the UK promise to increase their support.
 
 ### [Telecommunications giant BT expands its investment in sports broadcasting with the purchase of ESPN's channels in Britain and Ireland. ](/news/2013/02/25/telecommunications-giant-bt-expands-its-investment-in-sports-broadcasting-with-the-purchase-of-espn-s-channels-in-britain-and-ireland.md)
-_Context: BT, ESPN, Ireland, United Kingdom, sports broadcasting_
+_Context: BT, ESPN, Irish, United Kingdom, sports broadcasting_
 
 ### [BlackBerry, the company formally known as Research in Motion, launches its BlackBerry Z10 smartphone in India, where it costs 43,490 rupees, or roughly US$800. ](/news/2013/02/25/blackberry-the-company-formally-known-as-research-in-motion-launches-its-blackberry-z10-smartphone-in-india-where-it-costs-43-490-rupees.md)
 BlackBerry launched its first smartphone from its BlackBerry 10 line in India on Monday, pricing the phone at 43,490 rupees ($800).

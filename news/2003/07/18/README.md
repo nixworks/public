@@ -7,7 +7,7 @@ _Context: Eagle County, Colorado, Kobe Bryant, Los Angeles Lakers, basketball_
 _Context: 2003 invasion of Iraq, Alastair Campbell, David Christopher Kelly, Glenda Jackson, September Dossier, The Mail on Sunday, Tony Blair, bodies, suicide_
 
 ### [ The United States Senate passes a defense appropriations bill which explicitly forbids the Department of Defense from spending any money on Terrorist Information Awareness research, effectively putting an end to the Information Awareness Office.](/news/2003/07/18/the-united-states-senate-passes-a-defense-appropriations-bill-which-explicitly-forbids-the-department-of-defense-from-spending-any-money-on.md)
-_Context: Information Awareness Office, Terrorist Information Awareness, U.S. military, United States Senate_
+_Context: Terrorist Information Awareness, Total Information Awareness, U.S. military, United States Senate_
 
 ### [ Convention on the Future of Europe finished its work and proposed the first European constitution.](/news/2003/07/18/convention-on-the-future-of-europe-finished-its-work-and-proposed-the-first-european-constitution.md)
 _Context: Convention on the Future of Europe, European constitution_

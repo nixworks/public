@@ -34,7 +34,7 @@ US says it is consulting with other countries as it urges South Sudan government
 Customer data stolen from Ashley Madison, a dating website for married people who wish to cheat on their spouse, has reportedly been published.
 
 ### [Police in the U.S. city of St. Louis, Missouri make nine arrests and use tear gas to disperse protesters after a killing of an armed man allegedly aiming a gun at police officers earlier in the day. ](/news/2015/08/19/police-in-the-u-s-city-of-st-louis-missouri-make-nine-arrests-and-use-tear-gas-to-disperse-protesters-after-a-killing-of-an-armed-man-all.md)
-_Context: St. Louis's, tear gas_
+_Context: St. Louis, tear gas_
 
 ### [A drive by shooting outside of a Boys & Girls Club in Rochester, New York leaves three people killed and four injured. ](/news/2015/08/19/a-drive-by-shooting-outside-of-a-boys-girls-club-in-rochester-new-york-leaves-three-people-killed-and-four-injured.md)
 Rochester, NY - Rural/Metro in Rochester reported to WGRZ news partners at the Democrat and Chronicle that seven people were shot, three fatally, near a Boys and Girls Club on Genesee St. The incident occurred late Wednesday night.

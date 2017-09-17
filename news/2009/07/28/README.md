@@ -43,7 +43,7 @@ _Context: AIDS, Cambodia, HIV, Phnom Penh_
 _Context: Licia Nunez, Silvio Berlusconi, health spa, prostitute, soap opera_
 
 ### [ A national memorial is to be erected and a national day of remembrance is considered in Ireland for victims of child abuse. ](/news/2009/07/28/a-national-memorial-is-to-be-erected-and-a-national-day-of-remembrance-is-considered-in-ireland-for-victims-of-child-abuse.md)
-_Context: Ireland, child abuse_
+_Context: Irish, child abuse_
 
 ### [ The longlist for the 2009 Man Booker Prize is announced. ](/news/2009/07/28/the-longlist-for-the-2009-man-booker-prize-is-announced.md)
 _Context: Man Booker Prize_

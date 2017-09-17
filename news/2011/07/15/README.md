@@ -52,7 +52,7 @@ A 6.0-magnitude earthquake struck offshore some 58 miles south-southwest of Valp
 _Context: Hoogersmilde, Netherlands, Zendstation Smilde_
 
 ### [Ireland's Taoiseach Enda Kenny attacks the Vatican's approach to the child abuse scandals in the country as "absolutely disgraceful", while the Socialist Party's Joe Higgins tells Dail Eireann that people were "throwing their hands in the air" after the report into the sexual abuse scandal in Cloyne diocese was published this week. ](/news/2011/07/15/ireland-s-taoiseach-enda-kenny-attacks-the-vatican-s-approach-to-the-child-abuse-scandals-in-the-country-as-absolutely-disgraceful-while.md)
-_Context: Dail Eireann, Enda Kenny, Ireland, Joe Higgins, Socialist Party, Taoiseach, sexual abuse scandal in Cloyne diocese_
+_Context: Dail Eireann, Enda Kenny, Irish, Joe Higgins, Socialist Party, Taoiseach, sexual abuse scandal in Cloyne diocese_
 
 ### [The United States Secretary of State Hillary Clinton meets with NATO leaders to try to find a solution to the Libya crisis. ](/news/2011/07/15/the-united-states-secretary-of-state-hillary-clinton-meets-with-nato-leaders-to-try-to-find-a-solution-to-the-libya-crisis.md)
 The move gives the rebels access to $30 billion in frozen Libyan assets in the United States and increases pressure on Col. Muammar el-Qaddafi to resign.

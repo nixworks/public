@@ -34,7 +34,7 @@ _Context: Miroslav Bralo, war crime_
 After three weeks of political squabbling over key posts Lebanon&#39;s Prime Minister Fouad Siniora formed the new government which excludes Free Patriotic Movement leader Michel Aoun but includes for&nbsp; the first time a senior member of Hizbullah. The inclusion of Hizbullah drew an immediate reb...
 
 ### [ In Spain, huge forest fire continues to rage, threatening villages of Selas and Ablanque. A group of ten day-trippers has confessed being responsible for the start of the fire and one of them has been charged ](/news/2005/07/19/in-spain-huge-forest-fire-continues-to-rage-threatening-villages-of-selas-and-ablanque-a-group-of-ten-day-trippers-has-confessed-being-r.md)
-_Context: Ablanque, Selas, Spain, day-tripper, forest fire_
+_Context: Ablanque, Selas, Spanish, day-tripper, forest fire_
 
 ## [Previous Day...](/news/2005/07/18/index.md)
 

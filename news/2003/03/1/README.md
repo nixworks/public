@@ -4,7 +4,7 @@
 _Context: Iraq disarmament crisis, Turkey, military, parliament_
 
 ### [ Khalid Shaikh Mohammed, the alleged mastermind of the September 11, 2001 Terrorist Attack and of other al-Qaeda attacks, is reported to have been arrested in Pakistan and turned over to US authorities for questioning.](/news/2003/03/1/khalid-shaikh-mohammed-the-alleged-mastermind-of-the-september-11-2001-terrorist-attack-and-of-other-al-qaeda-attacks-is-reported-to-hav.md)
-_Context: Khalid Shaikh Mohammed, September 11, 2001 Terrorist Attack, al-Qaeda_
+_Context: Khalid Shaikh Mohammed, September 11, al-Qaeda_
 
 ### [ Under U.N. supervision, Iraq begins destroying four of its Al Samoud missiles.](/news/2003/03/1/under-u-n-supervision-iraq-begins-destroying-four-of-its-al-samoud-missiles.md)
 ### [ The United Arab Emirates calls for Iraqi president Saddam Hussein to step down to avoid war. The sentiment is later echoed by Kuwait and Bahrain.](/news/2003/03/1/the-united-arab-emirates-calls-for-iraqi-president-saddam-hussein-to-step-down-to-avoid-war-the-sentiment-is-later-echoed-by-kuwait-and-ba.md)

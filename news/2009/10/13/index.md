@@ -10,7 +10,7 @@ _Context: Barack Obama, Nobel Peace Prize, Norway_
 _Context: Czech Republic, Treaty of Lisbon, Vclav Klaus, president_
 
 ### [ Samus Kirk is elected the 16th Ceann Comhairle of Ireland following the resignation of John O'Donoghue. ](/news/2009/10/13/seamus-kirk-is-elected-the-16th-ceann-comhairle-of-ireland-following-the-resignation-of-john-o-donoghue.md)
-_Context: Ceann Comhairle, Ireland, John O'Donoghue, Samus Kirk_
+_Context: Ceann Comhairle, Irish, John O'Donoghue, Samus Kirk_
 
 ### [ An autopsy on the body of Boyzone singer Stephen Gately finds he died of natural causes. ](/news/2009/10/13/an-autopsy-on-the-body-of-boyzone-singer-stephen-gately-finds-he-died-of-natural-causes.md)
 Boyzone star Stephen Gately died of natural causes, a Spanish court confirmed this morning.
@@ -31,7 +31,7 @@ The Democratic Liberal Government led by Emil Boc lost a censure motion vote in 
 Josef Stalin&#039;s grandson has lost a bizarre legal case he hoped would rehabilitate the Soviet dictator&#039;s murderous reputation posthumously.
 
 ### [ Spanish authorities arrest five members of the banned Basque political group Batasuna. ](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.md)
-_Context: Basque, Batasuna, Spain_
+_Context: Basque, Batasuna, Spanish_
 
 ### [ North and South Korea agree to hold talks on flood control and family reunions, after North Korea fired several short range missiles earlier this week. ](/news/2009/10/13/north-and-south-korea-agree-to-hold-talks-on-flood-control-and-family-reunions-after-north-korea-fired-several-short-range-missiles-earlie.md)
 _Context: North Korea, South Korea_

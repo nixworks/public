@@ -13,7 +13,7 @@ _Context: Florida, Orlando, Florida, Walt Disney World, monorail collision_
 _Context: Church of England, Fellowship of Confessing Anglicans, U.S. branch of the Communion, United States, homosexuality_
 
 ### [ An Irish government delegation arrives in Cairo to be briefed on the Sudan kidnappings. ](/news/2009/07/5/an-irish-government-delegation-arrives-in-cairo-to-be-briefed-on-the-sudan-kidnappings.md)
-_Context: Cairo, Ireland, Sudan_
+_Context: Cairo, Irish, Sudan_
 
 ### [ Roger Federer defeats Andy Roddick to win the men's singles of the 2009 Wimbledon Championships. ](/news/2009/07/5/roger-federer-defeats-andy-roddick-to-win-the-men-s-singles-of-the-2009-wimbledon-championships.md)
 _Context: 2009 Wimbledon Championships, Andy Roddick, Roger Federer, men's singles_

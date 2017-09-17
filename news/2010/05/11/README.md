@@ -22,7 +22,7 @@ Pope Benedict XVI has begun a four-day trip to Portugal, during which he is like
 _Context: Barack Obama, Deepwater Horizon oil spill, President, Thad Allen, United States Coast Guard, admiral_
 
 ### [Four airports in the Canary Islands and three in southern Spain are closed, Spain's air traffic control agency Aena said. ](/news/2010/05/11/four-airports-in-the-canary-islands-and-three-in-southern-spain-are-closed-spain-s-air-traffic-control-agency-aena-said.md)
-_Context: Aena, Canary Islands', Spain_
+_Context: Aena, Canary Islands', Spanish_
 
 ### [9 trapped miners found dead in coal gas leak in northwest China's Gansu Province Tuesday. ](/news/2010/05/11/9-trapped-miners-found-dead-in-coal-gas-leak-in-northwest-china-s-gansu-province-tuesday.md)
 _Context: China, Gansu province_

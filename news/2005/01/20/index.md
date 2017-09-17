@@ -16,7 +16,7 @@ Reuters.com is your online source for the latest U.S. news stories from coast to
 _Context: Eid ul-Adha, Hajj, Satan, Saudi Arabia, pillars_
 
 ### [ The Republic of Ireland, one of the last countries to use non-metric speed limits, officially changes all road signage and regulations to use kilometres per hour (km/h). Speed limits in Northern Ireland remain in miles per hour (mph). ](/news/2005/01/20/the-republic-of-ireland-one-of-the-last-countries-to-use-non-metric-speed-limits-officially-changes-all-road-signage-and-regulations-to-u.md)
-_Context: Ireland, Northern Ireland, changes, metric, road sign, speed limit_
+_Context: Irish, Northern Ireland, changes, metric, road sign, speed limit_
 
 ### [ In Ukraine, the Supreme Court dismisses prime minister Viktor Yanukovych's appeal and confirms that Viktor Yushchenko has won the presidential election. ](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.md)
 _Context: Ukraine, Viktor Yanukovych, Viktor Yushchenko_

@@ -4,7 +4,7 @@
 A woman was seized by security guards after using marker pen to deface one of the most famous paintings by Eugene Delacroix at an exhibition in northern France.
 
 ### [Irish lawmakers vote 113 to 36 to liquidate the Irish Bank Resolution Corporation (IBRC), with Joe Higgins of the opposition Socialist Party describing the rapid developments as "chaotic". ](/news/2013/02/7/irish-lawmakers-vote-113-to-36-to-liquidate-the-irish-bank-resolution-corporation-ibrc-with-joe-higgins-of-the-opposition-socialist-party.md)
-_Context: Ireland, Irish Bank Resolution Corporation, Joe Higgins, Socialist Party_
+_Context: Irish, Irish Bank Resolution Corporation, Joe Higgins, Socialist Party_
 
 ### [Sweden suspends a wolf hunting intended as a cull for the population, after an appeal by the conservationist party. ](/news/2013/02/7/sweden-suspends-a-wolf-hunting-intended-as-a-cull-for-the-population-after-an-appeal-by-the-conservationist-party.md)
 Sweden suspends a controversial cull of its wild wolf population just days after it began after a legal challenge by conservationists.

@@ -1,7 +1,7 @@
 ## [2012-03-18](/news/2012/03/18/index.md)
 
 ### [Three people are killed in a shooting incident in the city of Don Benito, Spain. ](/news/2012/03/18/three-people-are-killed-in-a-shooting-incident-in-the-city-of-don-benito-spain.md)
-_Context: Don Benito, Spain_
+_Context: Don Benito, Spanish_
 
 ### [Canadians riot with firefighters and police in London, Ontario. ](/news/2012/03/18/canadians-riot-with-firefighters-and-police-in-london-ontario.md)
 _Context: Canadians, London, Ontario_

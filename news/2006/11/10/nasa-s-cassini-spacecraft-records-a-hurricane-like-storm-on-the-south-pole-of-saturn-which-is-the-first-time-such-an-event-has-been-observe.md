@@ -11,7 +11,7 @@
 
 ### Related:
 
-1. [After 20 years floating the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the-at.md) _Context: Cassini, Saturn_
+1. [After 20 years "floating" the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the.md) _Context: Cassini, Saturn_
 2. [NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. ](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.md) _Context: NASA, Saturn_
 3. [Scientists from NASA and the European Space Agency estimate that Enceladus, a moon of Saturn, has an ocean of liquid water under its surface. ](/news/2014/04/3/scientists-from-nasa-and-the-european-space-agency-estimate-that-enceladus-a-moon-of-saturn-has-an-ocean-of-liquid-water-under-its-surface.md) _Context: NASA, Saturn_
 4. [NASA's Cassini spacecraft observations show that the craters on Saturn's moon Titan are disappearing. ](/news/2013/01/18/nasaas-cassini-spacecraft-observations-show-that-the-craters-on-saturnas-moon-titan-are-disappearing.md) _Context: NASA, Saturn_

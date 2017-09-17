@@ -13,7 +13,7 @@ Philadelphia mayor says all 243 passengers and crew accounted for as engineer wh
 _Context: Barack Obama, Gulf Cooperation Council, Iran, President, White House_
 
 ### [Malaysia turns away two boats with more than 800 Rohingya and Bangladesh migrants abandoned at sea by human traffickers. ](/news/2015/05/14/malaysia-turns-away-two-boats-with-more-than-800-rohingya-and-bangladesh-migrants-abandoned-at-sea-by-human-traffickers.md)
-_Context: Bangladesh, Malaysia, Rohingya people, human traffickers_
+_Context: Bangladesh, Malaysia, Rohingya, human traffickers_
 
 ## [Previous Day...](/news/2015/05/13/index.md)
 

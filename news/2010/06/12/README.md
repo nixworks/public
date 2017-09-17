@@ -43,7 +43,7 @@ _Context: Barack Obama, David Cameron, Deepwater Horizon oil spill, President, P
 _Context: Abby Sunderland, France, Southern Ocean, United States, fishing boat, sailor, teenage_
 
 ### [Pilots for the American low-cost carrier Spirit Airlines go on strike. ](/news/2010/06/12/pilots-for-the-american-low-cost-carrier-spirit-airlines-go-on-strike.md)
-_Context: Spirit Airlines, United States, airline pilot, low-cost carrier, strike_
+_Context: Spirit Airlines, United States, airline pilot, low-cost airline, strike_
 
 ## [Previous Day...](/news/2010/06/11/index.md)
 

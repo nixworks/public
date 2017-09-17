@@ -16,7 +16,7 @@ _Context: European Community, Microsoft, antitrust_
 _Context: Google, Reporters without Borders's_
 
 ### [ Ryanair, Europe's largest low-cost carrier, and the world's most profitable airline, announces that it intends to charge up to EUR7 per bag checked in by customers. In return, the airline fares will drop by 9%. ](/news/2006/01/25/ryanair-europe-s-largest-low-cost-carrier-and-the-world-s-most-profitable-airline-announces-that-it-intends-to-charge-up-to-a-7-per-bag.md)
-_Context: Ryanair, commercial air traffic, low-cost carrier_
+_Context: Ryanair, commercial air traffic, low-cost airline_
 
 ### [ Uzbekistan joins the Eurasian Economic Community. ](/news/2006/01/25/uzbekistan-joins-the-eurasian-economic-community.md)
 _Context: Eurasian Economic Community, Uzbekistan_

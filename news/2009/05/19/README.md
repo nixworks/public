@@ -37,7 +37,7 @@ _Context: India, Indian National Congress, Manmohan Singh, Prime Minister, becom
 _Context: Brazil, China, Petrobras, US$, petroleum industry_
 
 ### [ The European Parliament requests that Spain reform its planning laws. ](/news/2009/05/19/the-european-parliament-requests-that-spain-reform-its-planning-laws.md)
-_Context: European Parliament, Spain, reform_
+_Context: European Parliament, Spanish, reform_
 
 ### [ A 47-million-year-old skeleton of a lemur species is discovered in Germany. ](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-species-is-discovered-in-germany.md)
 _Context: Germany, lemur, skeleton, species_

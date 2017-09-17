@@ -4,7 +4,7 @@
 Henry Allingham, who was the world&#39;s oldest man and oldest World War I veteran, has died at the age of 113.
 
 ### [ Ireland's Green Party, part of the ruling coalition, votes by a two to one majority to campaign for the Treaty of Lisbon prior to the 2 October referendum. ](/news/2009/07/18/ireland-s-green-party-part-of-the-ruling-coalition-votes-by-a-two-to-one-majority-to-campaign-for-the-treaty-of-lisbon-prior-to-the-2-oct.md)
-_Context: Green Party, Ireland, Treaty of Lisbon, the second Irish referendum_
+_Context: Green Party, Irish, Treaty of Lisbon, the second Irish referendum_
 
 ### [ Three people are missing in Nachterstedt, Germany, after their home collapses into a lake. ](/news/2009/07/18/three-people-are-missing-in-nachterstedt-germany-after-their-home-collapses-into-a-lake.md)
 _Context: Germany, Nachterstedt_

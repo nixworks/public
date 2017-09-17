@@ -1,7 +1,7 @@
 ## [2009-10-2](/news/2009/10/2/index.md)
 
 ### [ Voters in Ireland go to the polls for a second referendum on the Treaty of Lisbon. ](/news/2009/10/2/voters-in-ireland-go-to-the-polls-for-a-second-referendum-on-the-treaty-of-lisbon.md)
-_Context: Ireland, Treaty of Lisbon, the second Irish referendum_
+_Context: Irish, Treaty of Lisbon, the second Irish referendum_
 
 ### [ Croatia resumes membership talks with the European Union after Slovenia lifts its 10-month embargo. ](/news/2009/10/2/croatia-resumes-membership-talks-with-the-european-union-after-slovenia-lifts-its-10-month-embargo.md)
 _Context: Croatia, EU, Slovenia, formal entry of Croatia_

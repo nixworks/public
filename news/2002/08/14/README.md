@@ -1,7 +1,7 @@
 ## [2002-08-14](/news/2002/08/14/index.md)
 
 ### [ Vladimir Putin announces that Belarus will be fully integrated into Russia, with each of Belarus's six provinces to become a separate republic within the Russian Federation.](/news/2002/08/14/vladimir-putin-announces-that-belarus-will-be-fully-integrated-into-russia-with-each-of-belarus-s-six-provinces-to-become-a-separate-repub.md)
-_Context: Belarus, Federation, Vladimir Putin, republic_
+_Context: Belarus, Federal, Vladimir Putin, republic_
 
 ### [ Recent celebrity deaths: Larry Rivers, American painter, dies at 78.](/news/2002/08/14/recent-celebrity-deaths-larry-rivers-american-painter-dies-at-78.md)
 _Context: Larry Rivers, Recent celebrity deaths, painter_

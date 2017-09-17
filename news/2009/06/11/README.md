@@ -4,7 +4,7 @@
 Mayor Michael R. Bloomberg said the Hudson River landing of US Airways Flight 1549 &#8220;served as a catalyst to strengthen our efforts in removing geese from, and discouraging them from nesting on, city property near our runways.&#8221;.
 
 ### [ 10,000 Gabonese watch the body of President Omar Bongo arrive back home from Spain. ](/news/2009/06/11/10-000-gabonese-watch-the-body-of-president-omar-bongo-arrive-back-home-from-spain.md)
-_Context: Gabon, Omar Bongo, President, Spain_
+_Context: Gabon, Omar Bongo, President, Spanish_
 
 ### [ A Bosnian television station shows what it says is recent video footage of genocide suspect and Bosnian war commander General Ratko Mladic in Serbia. ](/news/2009/06/11/a-bosnian-television-station-shows-what-it-says-is-recent-video-footage-of-genocide-suspect-and-bosnian-war-commander-general-ratko-mladia.md)
 _Context: Bosnia, Bosnian War, Ratko Mladic, Serbia, genocide_

@@ -19,7 +19,7 @@ _Context: Premier of the People's Republic of China, Wen Jiabao, Zhu Rongji, par
 _Context: Kyoto, Japan, Water forum, World Water Council_
 
 ### [ 64% of voters in Liechtenstein approved a measure to give Prince Hans-Adam&nbsp;II the power to dismiss governments, approve judicial nominees and veto laws. It is the most power of any monarch in Europe. Hans-Adam had threatened to leave the country if the measure was not approved.](/news/2003/03/16/64-of-voters-in-liechtenstein-approved-a-measure-to-give-prince-hans-adam-nbsp-ii-the-power-to-dismiss-governments-approve-judicial-nomin.md)
-_Context: Hans-Adam&nbsp;II, Liechtenstein_
+_Context: Hans-Adam II of Liechtenstein, Liechtenstein_
 
 ### [ General Francois Bozize dissolved the national legislature of the Central African Republic and declared himself President, one day after his rebel forces took Bangui, the capital.](/news/2003/03/16/general-franassois-boziza-c-dissolved-the-national-legislature-of-the-central-african-republic-and-declared-himself-president-one-day-after.md)
 _Context: Bangui's, Central African Republic, Francois Bozize_

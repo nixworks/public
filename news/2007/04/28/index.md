@@ -19,7 +19,7 @@ _Context: Turkey, first-round presidential vote_
 _Context: An earthquake, England, Kent, Richter scale_
 
 ### [ President of Ireland Mary McAleese dissolves the 29th Dil and calls for a general election on 24 May 2007. ](/news/2007/04/28/president-of-ireland-mary-mcaleese-dissolves-the-29th-dail-and-calls-for-a-general-election-on-24-may-2007.md)
-_Context: 29th Dil, Ireland, Irish general election, Mary McAleese, President_
+_Context: 29th Dil, Irish, Irish general election, Mary McAleese, President_
 
 ### [ 80,000 people gather throughout the United States joining 'Displace Me' to raise awareness of displaced refugees in Northern Uganda. ](/news/2007/04/28/80-000-people-gather-throughout-the-united-states-joining-displace-me-to-raise-awareness-of-displaced-refugees-in-northern-uganda.md)
 _Context: Displace Me, United States_

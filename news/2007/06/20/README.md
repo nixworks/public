@@ -16,7 +16,7 @@ _Context: Kazakhstani legislative election, 2007, Nursultan Nazarbayev's, Presid
 Israel will allow an unspecified number of Palestinians desperately fleeing the Hamas-controlled Gaza Strip to enter Israel, the Defence Ministry says.
 
 ### [ The Prime Minister of Australia, John Howard, announces plans to buy three Spanish-designed warships and two large Spanish landing ships for the Royal Australian Navy at a cost of $A11-billion. ](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.md)
-_Context: A$, Australian Prime Minister, John Howard, Royal Australian Navy, Spain, landing ship, warships_
+_Context: A$, Australian Prime Minister, John Howard, Royal Australian Navy, Spanish, landing ship, warships_
 
 ### [ The Sri Lankan military claims to have killed 30 members of the Tamil Tigers in overnight clashes in the east of the country. ](/news/2007/06/20/the-sri-lankan-military-claims-to-have-killed-30-members-of-the-tamil-tigers-in-overnight-clashes-in-the-east-of-the-country.md)
 _Context: Sri Lanka, Tamil Tigers, overnight clashes_

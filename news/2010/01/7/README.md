@@ -25,7 +25,7 @@ _Context: BBC, Iris Robinson, Northern Ireland, Spotlight, deputy First Minister
 _Context: China, Taiwan, United States_
 
 ### [Extreme weather in Europe kills nine people in Germany, traps a Eurostar train in the Channel Tunnel, disrupts flights at international airports in Amsterdam, Dublin, Knock and Paris, shuts hundreds of schools in Ireland and disrupts Norway's bus service in Oslo. ](/news/2010/01/7/extreme-weather-in-europe-kills-nine-people-in-germany-traps-a-eurostar-train-in-the-channel-tunnel-disrupts-flights-at-international-airp.md)
-_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Ireland, Knock, Norway, Oslo, Paris_
+_Context: Amsterdam, Channel Tunnel, Dublin, Europe, Eurostar, Germany, Irish, Knock, Norway, Oslo, Paris_
 
 ### [The governments of Australia and New Zealand announce an investigation into an incident where a boat belonging to the anti-whaling group Sea Shepherd Conservation Society was damaged in a confrontation with a Japanese ship in the Southern Ocean. ](/news/2010/01/7/the-governments-of-australia-and-new-zealand-announce-an-investigation-into-an-incident-where-a-boat-belonging-to-the-anti-whaling-group-sea.md)
 Australia joined New Zealand on Thursday in investigating a clash between an anti-whaling protesters and Japanese whalers, but refused to send a patrol ship to Antarctic waters as activists promised a &quot;whale war&quot;.
@@ -43,7 +43,7 @@ Teary-eyed but hopeful of a bright future, more than 200 former Maoist child sol
 _Context: Philip Alston, Sri Lankan military, UN special rapporteurs, extra-judicial killings_
 
 ### [An ABB employee commits suicide after shooting eight people, three fatally, at the ABB Power building in St. Louis, Missouri in the United States. ](/news/2010/01/7/an-abb-employee-commits-suicide-after-shooting-eight-people-three-fatally-at-the-abb-power-building-in-st-louis-missouri-in-the-united-s.md)
-_Context: ABB Power, Missouri, St. Louis's, United States, shooting eight people_
+_Context: ABB Power, Missouri, St. Louis, United States, shooting eight people_
 
 ### [A Burmese court sentences two officials to death and one to imprisonment for leaking details of secret government visits to North Korea and Russia. ](/news/2010/01/7/a-burmese-court-sentences-two-officials-to-death-and-one-to-imprisonment-for-leaking-details-of-secret-government-visits-to-north-korea-and.md)
 _Context: Burma, North Korea, Russia_

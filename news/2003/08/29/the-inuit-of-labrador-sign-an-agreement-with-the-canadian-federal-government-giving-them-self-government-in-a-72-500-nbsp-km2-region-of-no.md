@@ -1,0 +1,13 @@
+### [2003-08-29](/news/2003/08/29/index.md)
+
+#  The Inuit of Labrador sign an agreement with the Canadian federal government, giving them self-government in a 72,500&nbsp;km<sup>2</sup> region of northern Labrador called Nunatsiavut.
+
+
+
+
+### Related:
+
+1. [ The Prime Minister of Canada Stephen Harper apologises to tens of thousands of the aboriginal peoples of Canada for more than a century of abuses of First Nations, Inuit and Metis at residential schools set up to assimilate them into Canadian society. ](/news/2008/06/11/the-prime-minister-of-canada-stephen-harper-apologises-to-tens-of-thousands-of-the-aboriginal-peoples-of-canada-for-more-than-a-century-of.md) _Context: Inuit_
+2. [ Nominations have been called for the first Nunatsiavut Assembly General Election. The election will be held on October 3, 2006. ](/news/2006/08/22/nominations-have-been-called-for-the-first-nunatsiavut-assembly-general-election-the-election-will-be-held-on-october-3-2006.md) _Context: Nunatsiavut_
+3. [The Inuit Circumpolar Conference says it hopes to petition the inter-American human rights system to rule that Inuit basic rights are being violated by global warming. They claim that the greenhouse effect, exacerbated by the failure of Russia and the USA to sign the Kyoto Protocol, will lead to the destruction of their way of life. ](/news/2003/12/11/the-inuit-circumpolar-conference-says-it-hopes-to-petition-the-inter-american-human-rights-system-to-rule-that-inuit-basic-rights-are-being.md) _Context: Inuit_
+4. [ Nunavut, an Inuit homeland, part of the Northwest Territories becomes Canada's third territory.](/news/1999/04/1/nunavut-an-inuit-homeland-part-of-the-northwest-territories-becomes-canada-s-third-territory.md) _Context: Inuit_
