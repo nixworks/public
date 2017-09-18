@@ -45,7 +45,7 @@ More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to 
 Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallied in Cologne. The rally was in support of Kurdish independence as well as the jailed leader of the banned PKK.
 
 ### [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
-_Context: Althingi, Iceland, Icelandic parliamentary election_
+_Context: Althingi, Iceland, Icelandic parliamentary election, 2017_
 
 ### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
