@@ -25,7 +25,7 @@ The memorial will be held at 10am on Jul 11, 2015 at Bunga Raya Complex at Kuala
 _Context: 2015 Taiwan water park explosion, intensive care_
 
 ### [A sandstorm and a magnitude-5.2 earthquake centered in Sinai peninsula hit Egypt. There are no reports of deaths or injuries. ](/news/2015/06/27/a-sandstorm-and-a-magnitude-5-2-earthquake-centered-in-sinai-peninsula-hit-egypt-there-are-no-reports-of-deaths-or-injuries.md)
-_Context: Egypt's_
+_Context: Egypt_
 
 ### [The United Nations High Commissioner for Refugees claims that instability ahead of Burundi's Legislative and presidential elections is creating a refugee crisis. ](/news/2015/06/27/the-united-nations-high-commissioner-for-refugees-claims-that-instability-ahead-of-burundi-s-legislative-and-presidential-elections-is-creat.md)
 Political strife in Burundi forces hundreds to flee daily to neighbouring nations days ahead of polls.

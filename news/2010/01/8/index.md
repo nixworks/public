@@ -43,7 +43,7 @@ _Context: New York City_
 Two officials in Burma have been sentenced to death for leaking information, in a case reportedly involving secret contact between the junta and North Korea.
 
 ### [Three people are arrested for their involvement in the killing of six Copts as they left a church in southern Egypt. ](/news/2010/01/8/three-people-are-arrested-for-their-involvement-in-the-killing-of-six-copts-as-they-left-a-church-in-southern-egypt.md)
-_Context: Coptic, Egypt's_
+_Context: Coptic, Egypt_
 
 ### [The Portuguese parliament approves a bill to legalise same-sex marriage. ](/news/2010/01/8/the-portuguese-parliament-approves-a-bill-to-legalise-same-sex-marriage.md)
 The Portuguese parliament has approved at first reading a bill to legalise gay marriage.

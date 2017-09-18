@@ -13,7 +13,7 @@ The Age 404 Page
 _Context: Hu Jintao, Vladimir Putin_
 
 ### [ Charles, Prince of Wales, and his wife, Camilla, Duchess of Cornwall, begin official visit to Egypt, Saudi Arabia and India.](/news/2006/03/20/charles-prince-of-wales-and-his-wife-camilla-duchess-of-cornwall-begin-official-visit-to-egypt-saudi-arabia-and-india.md)
-_Context: Egypt's, Prince of Wales, Saudi Arabia_
+_Context: Egypt, Prince of Wales, Saudi Arabia_
 
 ### [ The Northern Hemisphere Vernal Equinox and the Southern Hemisphere Autumnal Equinox occurred at 18:26 UTC.](/news/2006/03/20/the-northern-hemisphere-vernal-equinox-and-the-southern-hemisphere-autumnal-equinox-occurred-at-18-26-utc.md)
 _Context: Autumnal Equinox, Northern Hemisphere, Vernal Equinox, southern hemisphere_

@@ -13,7 +13,7 @@ _Context: Gloria Arroyo, Philippines_
 _Context: (Wikinews), 7 July, Homeland Security Advisory System, public transport_
 
 ### [ Egypt confirms its most senior envoy to Iraq, Ihab al-Sherif, has been killed after being kidnapped last week. A group related to Abu Musab al-Zarqawi has claimed responsibility. ](/news/2005/07/7/egypt-confirms-its-most-senior-envoy-to-iraq-ihab-al-sherif-has-been-killed-after-being-kidnapped-last-week-a-group-related-to-abu-musab.md)
-_Context: Abu Musab al-Zarqawi, Egypt's, Ihab al-Sherif, Iraq, kidnapped_
+_Context: Abu Musab al-Zarqawi, Egypt, Ihab al-Sherif, Iraq, kidnapped_
 
 ### [ Researchers halt a study in Africa after results indicate that circumcised men are 70% less likely to contract AIDS. The study will be presented at the Third International AIDS Society Conference on HIV Pathogenesis and Treatment later this month. Meanwhile, others argue that ritual circumcision "increases" the risk of infection because of poor sanitary conditions. ](/news/2005/07/7/researchers-halt-a-study-in-africa-after-results-indicate-that-circumcised-men-are-70-less-likely-to-contract-aids-the-study-will-be-pres.md)
 _Context: AIDS, circumcision_

@@ -1,7 +1,7 @@
 ## [2012-04-5](/news/2012/04/5/index.md)
 
 ### [A rocket fired from Egypt's Sinai desert hits the Israeli city of Eilat but causes no injuries or property damage. ](/news/2012/04/5/a-rocket-fired-from-egypt-s-sinai-desert-hits-the-israeli-city-of-eilat-but-causes-no-injuries-or-property-damage.md)
-_Context: Egypt's, Eilat, Israel, Sinai desert_
+_Context: Egypt, Eilat, Israel, Sinai desert_
 
 ### [Mali's Azawad National Liberation Movement declares an end to military activities, claiming that they have captured enough territory to form their own state. ](/news/2012/04/5/mali-s-azawad-national-liberation-movement-declares-an-end-to-military-activities-claiming-that-they-have-captured-enough-territory-to-form.md)
 _Context: Azawad, Azawad National Liberation Movement, Mali_

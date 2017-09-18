@@ -31,7 +31,7 @@ _Context: Bank of America, Jose Trevino Morales, Los Zetas, drug cartel_
 _Context: Brian Terry, U.S. Border Patrol, United States Department of Justice, indicted_
 
 ### [Egyptian president Mohammed Mursi's order to reopen parliament is rejected by the highest court, stating that its ruling dissolving the assembly is binding. ](/news/2012/07/9/egyptian-president-mohammed-mursi-s-order-to-reopen-parliament-is-rejected-by-the-highest-court-stating-that-its-ruling-dissolving-the-asse.md)
-_Context: Egypt's, Mohammed Mursi_
+_Context: Egypt, Mohammed Mursi_
 
 ### [Venezuelan president Hugo Chavez says that he has completely recovered from cancer in the pelvic region. ](/news/2012/07/9/venezuelan-president-hugo-cha-vez-says-that-he-has-completely-recovered-from-cancer-in-the-pelvic-region.md)
 _Context: Hugo Chavez, Venezuela_

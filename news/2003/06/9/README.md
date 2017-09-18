@@ -4,7 +4,7 @@
 _Context: Silvio Berlusconi_
 
 ### [ Archaeologists announce that the mummy of Queen Nefertiti may have been found in the Valley of the Kings in Egypt.](/news/2003/06/9/archaeologists-announce-that-the-mummy-of-queen-nefertiti-may-have-been-found-in-the-valley-of-the-kings-in-egypt.md)
-_Context: Egypt's, Nefertiti, Valley of the Kings, mummies_
+_Context: Egypt, Nefertiti, Valley of the Kings, mummies_
 
 ### [ The FBI begins to drain a Frederick, Maryland, pond hoping to uncover more evidence in the 2001 anthrax attacks.](/news/2003/06/9/the-fbi-begins-to-drain-a-frederick-maryland-pond-hoping-to-uncover-more-evidence-in-the-2001-anthrax-attacks.md)
 _Context: 2001 anthrax attacks, FBI, Frederick, Maryland_

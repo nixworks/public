@@ -19,7 +19,7 @@ _Context: Belden Namah, Papua New Guinea_
 _Context: India, Shashi Tharoor, Sunanda Pushkar, autopsy_
 
 ### [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md)
-_Context: Egypt's, Egyptian constitutional referendum, 2014, Egyptian military, constitution_
+_Context: Egypt, Egyptian constitutional referendum, 2014, Egyptian military, constitution_
 
 ## [Previous Day...](/news/2014/01/17/index.md)
 

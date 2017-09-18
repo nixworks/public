@@ -4,7 +4,7 @@
 _Context: Pakistan, South Waziristan, United States, Wana, drones launch_
 
 ### [Two rockets fired from Egypt's Sinai Peninsula hit the Israeli resort of Eilat, but land in open areas, causing no damage. Three more rockets hit open areas in neighboring Jordan. ](/news/2013/04/17/two-rockets-fired-from-egypt-s-sinai-peninsula-hit-the-israeli-resort-of-eilat-but-land-in-open-areas-causing-no-damage-three-more-rocket.md)
-_Context: Egypt's, Eilat, Israel, Jordan, Sinai Peninsula_
+_Context: Egypt, Eilat, Israel, Jordan, Sinai Peninsula_
 
 ### [Sixteen people, including eight policemen, are injured in a bomb blast at a BJP office in Bangalore, India, weeks ahead of elections in the state of Karnataka. ](/news/2013/04/17/sixteen-people-including-eight-policemen-are-injured-in-a-bomb-blast-at-a-bjp-office-in-bangalore-india-weeks-ahead-of-elections-in-the.md)
 Sixteen people are injured in an explosion near the office of a political party in the southern Indian city of Bangalore, police say.

@@ -7,7 +7,7 @@ _Context: Gaza Strip, Gush Katif, Isaac Herzog, Israel, Israel Defense Forces, I
 _Context: Aaron Broussard, CBS, Jefferson Parish, Louisiana_
 
 ### [ Cairo: At least 34 people were killed and 60 injured by flames and an ensuing stampede when a fire broke out in the theater run by Egypt's Culture Ministry; about 1,000 people were watching the play. ](/news/2005/09/6/cairo-at-least-34-people-were-killed-and-60-injured-by-flames-and-an-ensuing-stampede-when-a-fire-broke-out-in-the-theater-run-by-egypt-s.md)
-_Context: Cairo, Egypt's_
+_Context: Cairo, Egypt_
 
 ### [ Four people died and 27 were wounded following an explosion in Gaza City at the home of Nidal Farhat, a senior Hamas member.](/news/2005/09/6/four-people-died-and-27-were-wounded-following-an-explosion-in-gaza-city-at-the-home-of-nidal-farhat-a-senior-hamas-member.md)
 _Context: Gaza, Hamas, Nidal Farhat_

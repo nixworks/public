@@ -1,7 +1,7 @@
 ## [2013-05-9](/news/2013/05/9/index.md)
 
 ### [Ali Haider Gillani, the son of former Pakistani Prime Minister Yousaf Raza Gillani, is abducted by unidentified gunmen at an election rally in the city of Multan two days before the May 11 general election. ](/news/2013/05/9/ali-haider-gillani-the-son-of-former-pakistani-prime-minister-yousaf-raza-gillani-is-abducted-by-unidentified-gunmen-at-an-election-rally.md)
-_Context: Multan, Prime Minister of Pakistan, Yousaf Raza Gillani, general election_
+_Context: Multan, Prime Minister, Yousaf Raza Gillani, general election_
 
 ### [Indonesian police shoot dead seven terror suspects in raids on the island of Java including some allegedly planning to bomb the Sri Lankan embassy. ](/news/2013/05/9/indonesian-police-shoot-dead-seven-terror-suspects-in-raids-on-the-island-of-java-including-some-allegedly-planning-to-bomb-the-sri-lankan-e.md)
 _Context: Indonesian police, Java, Sri Lanka_

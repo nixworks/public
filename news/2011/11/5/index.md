@@ -13,7 +13,7 @@ Rescuers in China save the remaining 45 miners who were trapped underground for 
 _Context: Canary Islands', El Hierro, Spanish_
 
 ### [A Pakistan anti-terror court indicts two police officers and five alleged members of the Taliban for the murder of former Prime Minister of Pakistan Benazir Bhutto. ](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.md)
-_Context: Benazir Bhutto, Pakistan, Prime Minister of Pakistan, Taliban, indicted_
+_Context: Benazir Bhutto, Pakistan, Prime Minister, Taliban, indicted_
 
 ### [South Belfast MP Alasdair McDonnell is elected leader of Northern Ireland's Social Democratic and Labour Party, replacing Margaret Ritchie who stepped down in September. ](/news/2011/11/5/south-belfast-mp-alasdair-mcdonnell-is-elected-leader-of-northern-ireland-s-social-democratic-and-labour-party-replacing-margaret-ritchie-w.md)
 South Belfast MP and MLA Alasdair McDonnell is elected the new leader of the SDLP.

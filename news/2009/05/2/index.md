@@ -10,7 +10,7 @@ _Context: Army, Sri Lanka, Sri Lankan Civil War, civilian, hospital, safe zone_
 Israel must freeze all pending east Jerusalem home demolitions, UN report says.
 
 ### [ Israel aids the Palestinian National Authority, Egypt, and Jordan in combatting swine influenza. ](/news/2009/05/2/israel-aids-the-palestinian-national-authority-egypt-and-jordan-in-combatting-swine-influenza.md)
-_Context: Egypt's, Israel, Jordan, Palestinian National Authority, current outbreak, swine flu_
+_Context: Egypt, Israel, Jordan, Palestinian National Authority, current outbreak, swine flu_
 
 ### [ Australia will spend US$70 billion through 2029 to improve its Defence Force. ](/news/2009/05/2/australia-will-spend-us-70-billion-through-2029-to-improve-its-defence-force.md)
 Australia will spend more than 70 billion US US dollars boosting its defences over the next 20 years in response to a regional military build-up and global shifts in power, the government said.

@@ -19,7 +19,7 @@ _Context: Guantanamo Bay Detention Camp, Transport Canada, detainees, dousing, s
 _Context: Japan, unemployment rate_
 
 ### [ Iceland's Althing votes in favour of repaying more than US$5 billion owed to the governments of the Netherlands and the United Kingdom as a result of the collapse of the Icesave bank. ](/news/2009/08/28/iceland-s-althing-votes-in-favour-of-repaying-more-than-us-5-billion-owed-to-the-governments-of-the-netherlands-and-the-united-kingdom-as-a.md)
-_Context: Althing, Iceland, Icesave, Netherlands, US$, United Kingdom_
+_Context: Iceland, Icesave, Netherlands, US$, United Kingdom, parliament (Althing)_
 
 ### [ The Los Angeles County coroner rules that American entertainer and musician Michael Jackson's death was a homicide caused by acute intoxication from the drug propofol. ](/news/2009/08/28/the-los-angeles-county-coroner-rules-that-american-entertainer-and-musician-michael-jackson-s-death-was-a-homicide-caused-by-acute-intoxica.md)
 _Context: Los Angeles County, California, Michael Jackson, United States, coronial, death, drug, homicide, intoxication, propofol_

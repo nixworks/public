@@ -4,7 +4,7 @@
 Entertainer Elton John and longtime mate David Furnish have officially converted their civil partnership into a marriage.
 
 ### [Egypt temporarily reopens its border crossing with Gaza, which had been closed since October, until 4 pm Monday. ](/news/2014/12/21/egypt-temporarily-reopens-its-border-crossing-with-gaza-which-had-been-closed-since-october-until-4-pm-monday.md)
-_Context: Egypt's, Gaza Strip, border crossing_
+_Context: Egypt, Gaza Strip, border crossing_
 
 ### [Due to avian influenza in the United States (Oregon), South Korea suspends US imports of poultry. ](/news/2014/12/21/due-to-avian-influenza-in-the-united-states-oregon-south-korea-suspends-us-imports-of-poultry.md)
 South Korea has suspended imports of US poultry and poultry products because of an outbreak of bird flu in the United States, the agriculture ministry said in a statement on Sunday.

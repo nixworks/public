@@ -16,7 +16,7 @@ Rights watchdog says security forces tried to hide evidence of the killings whic
 _Context: 2011 Syrian uprising, Arab League, Syria_
 
 ### [Egypt's military-appointed Prime Minister Kamal Ganzouri calls for national dialogue after weeks of deadly protests against the military regime. ](/news/2011/12/22/egypt-s-military-appointed-prime-minister-kamal-ganzouri-calls-for-national-dialogue-after-weeks-of-deadly-protests-against-the-military-reg.md)
-_Context: Egypt's, Egyptian military, Kamal Ganzouri, prime minister_
+_Context: Egypt, Egyptian military, Kamal Ganzouri, prime minister_
 
 ### [Floods hit the city of Dar es Salaam, Tanzania, killing at least 13 people in the nation's worst floods since its independence in 1961. ](/news/2011/12/22/floods-hit-the-city-of-dar-es-salaam-tanzania-killing-at-least-13-people-in-the-nation-s-worst-floods-since-its-independence-in-1961.md)
 _Context: Dar es Salaam, Tanzania_

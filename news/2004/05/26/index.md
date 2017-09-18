@@ -4,7 +4,7 @@
 Things to do in Miami
 
 ### [ Archaeologists discover what they term the 'world's oldest university' in Alexandria, Egypt. It dates from the 5th century AD. ](/news/2004/05/26/archaeologists-discover-what-they-term-the-world-s-oldest-university-in-alexandria-egypt-it-dates-from-the-5th-century-ad.md)
-_Context: Alexandria, Archaeologists, Egypt's, university_
+_Context: Alexandria, Archaeologists, Egypt, university_
 
 ### [ FBI Director Robert Mueller and United States Attorney General John Ashcroft state that Al Qaeda may be planning a terrorist strike over the coming months. Multiple FBI officials contend that there is no recent intelligence to suggest a significant change in the US's security situation, and critics question the validity and timing of the public warning.[http://www.nytimes.com/2004/05/27/politics/27terror.html?th (NYT)] Seven people wanted for questioning are also named.](/news/2004/05/26/fbi-director-robert-mueller-and-united-states-attorney-general-john-ashcroft-state-that-al-qaeda-may-be-planning-a-terrorist-strike-over-th.md)
 _Context: FBI, John Ashcroft, Robert Mueller, United States Attorney General, al-Qaeda_

@@ -19,7 +19,7 @@ _Context: Austria, Germany, Irish, Netherlands, Pope Benedict XVI, Robert Zollit
 A top aide to former US president George W Bush has defended the use of harsh interrogation techniques.
 
 ### [The Arabic Network for Human Rights Information and the Committee to Protect Journalists (CPJ) alleges the Egyptian interior ministry manipulated the legal system to target blogger Wael Abbas who posted videos of police corruption and abuse online and has been jailed for six months for "providing a telecommunications service to the public without permission". ](/news/2010/03/12/the-arabic-network-for-human-rights-information-and-the-committee-to-protect-journalists-cpj-alleges-the-egyptian-interior-ministry-manipu.md)
-_Context: Arabic Network for Human Rights Information, Committee to Protect Journalists, Egypt's, Wael Abbas_
+_Context: Arabic Network for Human Rights Information, Committee to Protect Journalists, Egypt, Wael Abbas_
 
 ### [Irish authorities release three of the seven Muslims they detained over an alleged plot to murder Swedish cartoonist Lars Vilks. Vilks says he has not been put off the idea of visiting Ireland by the threat. ](/news/2010/03/12/irish-authorities-release-three-of-the-seven-muslims-they-detained-over-an-alleged-plot-to-murder-swedish-cartoonist-lars-vilks-vilks-says.md)
 Three people who were being questioned in relation to alleged plot against a Swedish cartoonist have now been released from custody.

@@ -10,7 +10,7 @@ A large winter storm has left 23 people dead as snow and ice cover 1,400 miles.
 _Context: 1970, Australia, Bowenfels railway station, New South Wales, New South Wales Police Force, Queen Elizabeth, Royal Tour, assassinated, superintendent_
 
 ### [ Israel bombards smuggling tunnels along the Gaza Strip-Egypt border in response to continued militant rocket fire. ](/news/2009/01/28/israel-bombards-smuggling-tunnels-along-the-gaza-strip-egypt-border-in-response-to-continued-militant-rocket-fire.md)
-_Context: Egypt's, Gaza Strip, Israel, border, militant, rocket, smuggling, tunnels_
+_Context: Egypt, Gaza Strip, Israel, border, militant, rocket, smuggling, tunnels_
 
 ### [ The Army kills at least 300 and wounds at least 300 Tamil people in Mullaitivu District. ](/news/2009/01/28/the-army-kills-at-least-300-and-wounds-at-least-300-tamil-people-in-mullaitivu-district.md)
 _Context: Army, Mullaitivu District, Tamil_

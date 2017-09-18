@@ -37,7 +37,7 @@ Metallurgical Corp of China Ltd (MCC) said on Wednesday four of its employees wo
 _Context: 2014 Taipei Metro attack, Taipei Metro_
 
 ### [An Egyptian court sentences 155 members of the Muslim Brotherhood to prison, including 54 life sentences. ](/news/2014/05/21/an-egyptian-court-sentences-155-members-of-the-muslim-brotherhood-to-prison-including-54-life-sentences.md)
-_Context: Egypt's, Muslim Brotherhood_
+_Context: Egypt, Muslim Brotherhood_
 
 ### [Former President of Egypt Hosni Mubarak is sentenced to three years in jail for embezzlement. ](/news/2014/05/21/former-president-of-egypt-hosni-mubarak-is-sentenced-to-three-years-in-jail-for-embezzlement.md)
 A court in Egypt sentences ousted President Hosni Mubarak to three years in prison after finding him and his two sons guilty of embezzlement.

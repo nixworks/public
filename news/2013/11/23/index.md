@@ -25,7 +25,7 @@ The U.S. military has began scaling back its emergency relief operations in the 
 _Context: nuclear program, several world powers_
 
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)
-_Context: Egypt's, Turkey, expels_
+_Context: Egypt, Turkey, expels_
 
 ## [Previous Day...](/news/2013/11/22/index.md)
 

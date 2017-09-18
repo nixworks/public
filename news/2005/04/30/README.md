@@ -1,7 +1,7 @@
 ## [2005-04-30](/news/2005/04/30/index.md)
 
 ### [ Cairo terrorism: Tourists in the Egyptian capital Cairo are targeted in two separate terrorist attacks. ](/news/2005/04/30/cairo-terrorism-tourists-in-the-egyptian-capital-cairo-are-targeted-in-two-separate-terrorist-attacks.md)
-_Context: Cairo, Cairo terrorism, Egypt's, terrorism_
+_Context: Cairo, Cairo terrorism, Egypt, terrorism_
 
 ### [ U.S. Senator John Kerry formally endorses a candidate for mayor of Los Angeles, Antonio Villaraigosa, repaying Mr. Villaraigosa's support for his own presidential campaign in 2004(AP)](/news/2005/04/30/u-s-senator-john-kerry-formally-endorses-a-candidate-for-mayor-of-los-angeles-antonio-villaraigosa-repaying-mr-villaraigosa-s-support-f.md)
 _Context: 2004, Antonio Villaraigosa, John Kerry, Los Angeles, United States_

@@ -7,7 +7,7 @@ A Bangladeshi-flagged cargo ship hijacked by pirates off the coast of India appe
 _Context: FBI, Irvine, California, Muslim, Washington Post, jihad_
 
 ### [Egypt calls in international shark experts following recent attacks, one fatal, on tourists in Sharm el-Sheikh in the past week. ](/news/2010/12/6/egypt-calls-in-international-shark-experts-following-recent-attacks-one-fatal-on-tourists-in-sharm-el-sheikh-in-the-past-week.md)
-_Context: Egypt's, Sharm el-Sheikh, shark_
+_Context: Egypt, Sharm el-Sheikh, shark_
 
 ### [Israeli firefighters douse the Mount Carmel forest fire which killed at least 41 people in the north of the country. ](/news/2010/12/6/israeli-firefighters-douse-the-mount-carmel-forest-fire-which-killed-at-least-41-people-in-the-north-of-the-country.md)
 _Context: Israel, Mount Carmel forest fire_

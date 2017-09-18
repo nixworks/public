@@ -34,7 +34,7 @@ Fighting erupts in Aden as police search for men behind attack on intelligence f
 The BBC has learned the former DUP MP Iris Robinson has been interviewed as part of a police investigation.
 
 ### [In response to the mortars fired into Israel that hit a government building, Israeli warplanes bomb smuggling tunnels between Egypt and the Gaza Strip, with one person being wounded in an air attack in Rafah. ](/news/2010/06/25/in-response-to-the-mortars-fired-into-israel-that-hit-a-government-building-israeli-warplanes-bomb-smuggling-tunnels-between-egypt-and-the.md)
-_Context: Egypt's, Gaza Strip, Israel, Palestinian rocket attacks on Israel, Rafah_
+_Context: Egypt, Gaza Strip, Israel, Palestinian rocket attacks on Israel, Rafah_
 
 ### [President of Russia Dmitry Medvedev and Prime Minister of Britain David Cameron meet and agree to work to renew ties stained by the refusal of both men to hand over men the other man wants. ](/news/2010/06/25/president-of-russia-dmitry-medvedev-and-prime-minister-of-britain-david-cameron-meet-and-agree-to-work-to-renew-ties-stained-by-the-refusal.md)
 Russia and Britain have agreed to renew ties recently strained by suspicions of murder and spying.

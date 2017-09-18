@@ -7,7 +7,7 @@ _Context: Golan Heights, Philippines, United Nations, al-Nusra_
 Iraqi forces reach the besieged town of Amerli, where thousands of people have been trapped by jihadists, military officials say.
 
 ### [At least three people have been killed in clashes between the Pakistani police and opponents of Prime Minister Nawaz Sharif. ](/news/2014/08/31/at-least-three-people-have-been-killed-in-clashes-between-the-pakistani-police-and-opponents-of-prime-minister-nawaz-sharif.md)
-_Context: Nawaz Sharif, Pakistan, Prime Minister of Pakistan_
+_Context: Nawaz Sharif, Pakistan, Prime Minister_
 
 ### [An explosion in an apartment building in the Paris suburb of Rosny-sous-Bois results in four deaths, 11 people injured and five unaccounted for. ](/news/2014/08/31/an-explosion-in-an-apartment-building-in-the-paris-suburb-of-rosny-sous-bois-results-in-four-deaths-11-people-injured-and-five-unaccounted.md)
 Six people were killed when an explosion ripped through an apartment building outside Paris, reducing half a residential block to rubble, emergency services said.

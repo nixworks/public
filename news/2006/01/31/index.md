@@ -29,7 +29,7 @@ _Context: Iraq, Irish radio, Live 95FM, Marines, Shannon Airport, depleted urani
 _Context: ExxonMobil Corporation_
 
 ### [ A tourist coach crash in Egypt on the highway between Hurghada and Luxor kills 14 and injures another 30 people. All casualties are from Hong Kong and were joining Jetour Holidays tours.](/news/2006/01/31/a-tourist-coach-crash-in-egypt-on-the-highway-between-hurghada-and-luxor-kills-14-and-injures-another-30-people-all-casualties-are-from-ho.md)
-_Context: Egypt's, Hong Kong, Hurghada, Luxor_
+_Context: Egypt, Hong Kong, Hurghada, Luxor_
 
 ## [Previous Day...](/news/2006/01/30/index.md)
 

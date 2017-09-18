@@ -13,7 +13,7 @@ _Context: Desiree Washington, Greta Van Susteren, Miami, Mike Tyson, rape_
 _Context: A.C. Milan, Juventus, Manchester, Old Trafford, UEFA Champions League, penalty_
 
 ### [ EU countries will get more financial power. A convent which thinks about the future of EU is giving member countries more authority to decide of their own finance politics. Countries not belonging to EMU couldn't take part in these decisions.](/news/2003/05/28/eu-countries-will-get-more-financial-power-a-convent-which-thinks-about-the-future-of-eu-is-giving-member-countries-more-authority-to-deci.md)
-_Context: EMU, EU_
+_Context: EU, Economic and Monetary Union of the European Union_
 
 ## [Previous Day...](/news/2003/05/27/index.md)
 

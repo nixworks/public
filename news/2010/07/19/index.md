@@ -76,7 +76,7 @@ _Context: Syria_
 A man is arrested in Mexico trying to smuggle 18 monkeys into the country by hiding them in a girdle around his waist.
 
 ### [A report states that U.S. and European intelligence agencies believe Egyptian President Hosni Mubarak is dying of stomach and pancreatic cancer, and has one year left to live. The report states that Mubarak will likely die before the country's next presidential election. ](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.md)
-_Context: Egypt's, Egyptian presidential election in September, Hosni Mubarak, pancreatic cancer, stomach_
+_Context: Egypt, Egyptian presidential election in September, Hosni Mubarak, pancreatic cancer, stomach_
 
 ### [Dsi Bouterse is elected President of Suriname by parliament. ](/news/2010/07/19/desi-bouterse-is-elected-president-of-suriname-by-parliament.md)
 _Context: Dsi Bouterse, President of Suriname_

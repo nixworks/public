@@ -1,7 +1,7 @@
 ## [2003-08-17](/news/2003/08/17/index.md)
 
 ### [ Major blackout: investigators now believe the blackout began in Ohio. FirstEnergy Corporation, which services 1.4 million people in the state, released a statement Saturday that three of its transmission lines tripped off at Unit 5 of their Eastlake Plant hours before the blackout, and may have been its cause.](/news/2003/08/17/major-blackout-investigators-now-believe-the-blackout-began-in-ohio-firstenergy-corporation-which-services-1-4-million-people-in-the-sta.md)
-_Context: Eastlake, FirstEnergy Corporation, Ohio, blackout_
+_Context: Eastlake, FirstEnergy Corporation, North American blackout, Ohio_
 
 ### [ Terrorists again fired on children in Gorazdevac, near Pec, this time while they were in the center of the village. No children were injured in this incident, just four days since the last.](/news/2003/08/17/terrorists-again-fired-on-children-in-goraa3-4devac-near-pec-this-time-while-they-were-in-the-center-of-the-village-no-children-were-injur.md)
 _Context: Gorazdevac, Pec_

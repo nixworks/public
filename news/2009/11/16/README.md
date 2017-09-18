@@ -25,7 +25,7 @@ Leaked IAEA report says visit to Qom facility raises questions of possible furth
 _Context: Delroy Grant, United Kingdom_
 
 ### [ Algeria deploys security at the Egyptian embassy in Algiers after Egyptian businesses are attacked in the capital, and security is also tightened in Sudan ahead of a World Cup play off between the two countries. ](/news/2009/11/16/algeria-deploys-security-at-the-egyptian-embassy-in-algiers-after-egyptian-businesses-are-attacked-in-the-capital-and-security-is-also-tig.md)
-_Context: Algeria, Algiers, Egypt's, Sudan, World Cup play off between the two countries_
+_Context: Algeria, Algiers, Egypt, Sudan, World Cup play off between the two countries_
 
 ### [ The United Nations is criticised after a poster that made reference to China's internet censorship by the OpenNet Initiative at an international conference focussed on Internet freedom in Sharm el-Sheik, Egypt, is removed. ](/news/2009/11/16/the-united-nations-is-criticised-after-a-poster-that-made-reference-to-china-s-internet-censorship-by-the-opennet-initiative-at-an-internat.md)
 The United Nations is drawing fire after disrupting a meeting of rights activists at its internet governance convention in Egypt.

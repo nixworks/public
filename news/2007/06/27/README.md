@@ -7,7 +7,7 @@ _Context: Rio de Janeiro, favela, gangster_
 _Context: Iran, Protesters, petrol, rationing_
 
 ### [ Dr. Ashraf Marwan, who had been accused of being a senior Mossad agent operating in Egypt prior to the Yom Kippur War, is found dead below the balcony of his home in London; Scotland Yard investigates the "unexplained" death. ](/news/2007/06/27/dr-ashraf-marwan-who-had-been-accused-of-being-a-senior-mossad-agent-operating-in-egypt-prior-to-the-yom-kippur-war-is-found-dead-below.md)
-_Context: Ashraf Marwan, Egypt's, London, Mossad, Scotland Yard, Yom Kippur War_
+_Context: Ashraf Marwan, Egypt, London, Mossad, Scotland Yard, Yom Kippur War_
 
 ### [ At least ten people drown and thousands move to higher ground as a cyclone hits Balochistan, Pakistan. ](/news/2007/06/27/at-least-ten-people-drown-and-thousands-move-to-higher-ground-as-a-cyclone-hits-balochistan-pakistan.md)
 _Context: Balochistan, Pakistan, cyclone_

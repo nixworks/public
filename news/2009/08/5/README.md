@@ -28,7 +28,7 @@ _Context: Bill Clinton, Euna Lee, Laura Ling, North Korea, President, United Sta
 _Context: Madagascar, Marc Ravalomanana_
 
 ### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
-_Context: Anwar El Sadat, Egypt's, Egyptian President, I Love You, Man, United States, blog_
+_Context: Anwar El Sadat, Egypt, Egyptian President, I Love You, Man, United States, blog_
 
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
 _Context: Collier Township, LA Fitness, Pennsylvania, United States, shot_

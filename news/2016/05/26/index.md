@@ -40,7 +40,7 @@ Developers expected to welcome ruling that finds Google’s employment of Java c
 _Context: John Bel Edwards, Louisiana_
 
 ### [A Muslim mob is found to have attacked Coptic homes and stripped a woman in public in Minya Governorate, Egypt, on 20 May 2016. ](/news/2016/05/26/a-muslim-mob-is-found-to-have-attacked-coptic-homes-and-stripped-a-woman-in-public-in-minya-governorate-egypt-on-20-may-2016.md)
-_Context: Coptic, Egypt's, Minya Governorate, attacked_
+_Context: Coptic, Egypt, Minya Governorate, attacked_
 
 ### [French labor unions, led by the CGT, implement a strike in protest of proposed reforms to labor laws. ](/news/2016/05/26/french-labor-unions-led-by-the-cgt-implement-a-strike-in-protest-of-proposed-reforms-to-labor-laws.md)
 Strike action over labour law reforms grips France, disrupting oil refineries, nuclear power stations and transport hubs, as police battle protesters.

@@ -1,0 +1,19 @@
+### [2003-09-9](/news/2003/09/9/index.md)
+
+#  Governor Frank O'Bannon of Indiana lapses into a coma following an operation after the governor suffered a stroke in a Chicago hotel room. Lieutenant Governor Joe Kernan becomes acting governor.
+
+
+
+
+### Related:
+
+1. [The American Civil Liberties Union of Indiana sues Indiana Governor Mike Pence over his decision to block Syrian refugees from resettling in the state. The ACLU, on behalf of Indianapolis-based nonprofit Exodus Refugee Immigration, accuses Pence of violating the Equal Protection Clause of the Constitution by accepting refugees from other countries but not those from Syria. ](/news/2015/11/24/the-american-civil-liberties-union-of-indiana-sues-indiana-governor-mike-pence-over-his-decision-to-block-syrian-refugees-from-resettling-in.md) _Context: Governor of Indiana, Indiana_
+2. [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md) _Context: coma, stroke_
+3. [Indiana Governor Mitch Daniels cuts government funding for Planned Parenthood because it provides abortions. ](/news/2011/05/10/indiana-governor-mitch-daniels-cuts-government-funding-for-planned-parenthood-because-it-provides-abortions.md) _Context: Governor of Indiana, Indiana_
+4. [Japanese prime minister Obuchi Keizo suffers a stroke and falls into a coma.](/news/2000/04/1/japanese-prime-minister-obuchi-keizo-suffers-a-stroke-and-falls-into-a-coma.md) _Context: coma, stroke_
+5. [United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals, headquartered in Chicago, Illinois. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.](/news/2017/09/1/united-states-federal-judge-richard-posner-has-announced-his-retirement-after-three-decades-of-service-on-the-bench-of-the-7th-u-s-circuit.md) _Context: Chicago_
+6. [After over a year in North Korean prison, the government releases the one-year comatose Otto Warmbier after negotiations from the United States Department of State. ](/news/2017/06/13/after-over-a-year-in-north-korean-prison-the-government-releases-the-one-year-comatose-otto-warmbier-after-negotiations-from-the-united-sta.md) _Context: coma_
+7. [Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. ](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-in-honour-of-the-former-u-s-president-obama-are-revealed.md) _Context: Chicago_
+8. [A United Airlines passenger is dragged off a flight at O'Hare International Airport in Chicago. The airline company is under fire because of the mistreatment of the passenger. ](/news/2017/04/9/a-united-airlines-passenger-is-dragged-off-a-flight-at-o-hare-international-airport-in-chicago-the-airline-company-is-under-fire-because-of.md) _Context: Chicago_
+9. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Indiana_
+10. [The Driehaus Architecture Prize for New Classical architecture is awarded to Robert Adam in Chicago. ](/news/2017/03/25/the-driehaus-architecture-prize-for-new-classical-architecture-is-awarded-to-robert-adam-in-chicago.md) _Context: Chicago_

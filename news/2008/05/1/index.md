@@ -22,7 +22,7 @@ _Context: Barbara Walters, Edward Brooke_
 The state funeral of former President Sir Anthony Mamo will be held tomorrow, the government has announced. The body of Sir Anthony will lie in state at the Palace in Valletta between 10 a.m. and 12.45 p.m. and Mass praesente cadavere led by Archbishop Paul Cremona will be said at 2 p.m. at St...
 
 ### [ Eight people are killed and at least 20 injured after a bus carrying North American and European tourists crashes on the Sinai peninsula in Egypt. ](/news/2008/05/1/eight-people-are-killed-and-at-least-20-injured-after-a-bus-carrying-north-american-and-european-tourists-crashes-on-the-sinai-peninsula-in.md)
-_Context: Egypt's, Europe, North America, Sinai Peninsula, bus, tourist_
+_Context: Egypt, Europe, North America, Sinai Peninsula, bus, tourist_
 
 ### [ In Australia, a collision between a fishing boat and a runabout on Sydney Harbour kills five people. ](/news/2008/05/1/in-australia-a-collision-between-a-fishing-boat-and-a-runabout-on-sydney-harbour-kills-five-people.md)
 _Context: Australia, Sydney Harbour, runabout_

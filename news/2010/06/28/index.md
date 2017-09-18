@@ -59,7 +59,7 @@ Mexican singer Sergio Vega, known as El Shaka, who sang about drugs, is shot dea
 _Context: Fiji_
 
 ### [The Red Crescent delays an aid shipment bound for Gaza after being told that Egypt would prevent it from using the internationally neutral Suez Canal. ](/news/2010/06/28/the-red-crescent-delays-an-aid-shipment-bound-for-gaza-after-being-told-that-egypt-would-prevent-it-from-using-the-internationally-neutral-s.md)
-_Context: Egypt's, Gaza Strip, Red Crescent, Suez Canal_
+_Context: Egypt, Gaza Strip, Red Crescent, Suez Canal_
 
 ### [A group of armed men vandalises a United Nations summer camp in the Gaza Strip, in a second attack since May. Hamas and the Popular Front for the Liberation of Palestine condemn the attack. ](/news/2010/06/28/a-group-of-armed-men-vandalises-a-united-nations-summer-camp-in-the-gaza-strip-in-a-second-attack-since-may-hamas-and-the-popular-front-fo.md)
 _Context: Gaza Strip, Hamas, PFLP, United Nations_

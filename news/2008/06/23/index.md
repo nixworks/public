@@ -7,7 +7,7 @@ _Context: A. Q. Khan, Buhary Syed Abu Tahir, Malaysia_
 _Context: International Whaling Commission , Santiago_
 
 ### [ Nawaz Sharif, former Prime Minister of Pakistan and leader of the Pakistan Muslim League (N), is found ineligible by a court to stand in upcoming by-elections. ](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.md)
-_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister of Pakistan, by-elections_
+_Context: Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, by-elections_
 
 ### [ In Serbia, the Milosevic-founded Socialist Party is to join the coalition led by the pro-Western Democratic Party which came to power in 2007 elections. ](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.md)
 _Context: 2007 elections, Democratic Party, Serbia, Slobodan Milosevic, Socialist Party_

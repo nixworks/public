@@ -70,7 +70,7 @@ Four diamonds worth millions of pounds have been stolen from the world&#039;s bi
 _Context: Burma, State Peace and Development Council_
 
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: Egypt's, Egyptian presidential election in September, November_
+_Context: Egypt, Egyptian presidential election in September, November_
 
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
 _Context: East Antarctica, Organic Lake, virophage, virus_

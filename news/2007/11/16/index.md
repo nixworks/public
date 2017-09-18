@@ -34,7 +34,7 @@ _Context: Constitutional Court of Turkey, Democratic Society Party, Kurdistan Wo
 _Context: OSCE, parliamentary elections, visa-free travel_
 
 ### [ United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutto-on-the-phone-and-tells-her-that-m.md)
-_Context: Benazir Bhutto, John Negroponte, Prime Minister of Pakistan, US Deputy Secretary of State, United States, democratic progress_
+_Context: Benazir Bhutto, John Negroponte, Prime Minister, US Deputy Secretary of State, United States, democratic progress_
 
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
 _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_

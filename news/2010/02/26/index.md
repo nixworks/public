@@ -28,7 +28,7 @@ _Context: Afghanistan, Kabul, Taliban, suicide bomber_
 Restrictions were lifted around the Israeli Embassy in Dublin following the discovery of a suspicious package.
 
 ### [The cruise ship MS "Costa Europa" crashes into a dock in the Egyptian port of Sharm al-Sheikh, killing three people. ](/news/2010/02/26/the-cruise-ship-ms-costa-europa-crashes-into-a-dock-in-the-egyptian-port-of-sharm-al-sheikh-killing-three-people.md)
-_Context: Egypt's, MS ''Costa Europa'', Sharm al-Sheikh_
+_Context: Egypt, MS ''Costa Europa'', Sharm al-Sheikh_
 
 ### [At least 16 people are killed in a stampede at Djinguereber Mosque in Mali's northwestern city of Timbuktu. ](/news/2010/02/26/at-least-16-people-are-killed-in-a-stampede-at-djinguereber-mosque-in-mali-s-northwestern-city-of-timbuktu.md)
 At least 26 people killed as worshippers circle around mosque in city of Timbuktu.

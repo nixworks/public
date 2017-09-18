@@ -35,7 +35,7 @@ China warned the United States not to get involved in South China Sea territoria
 _Context: North Korea, won_
 
 ### [Egypt's former culture minister Farouk Hosny is to face corruption charges. ](/news/2012/09/4/egypt-s-former-culture-minister-farouk-hosny-is-to-face-corruption-charges.md)
-_Context: Egypt's, Farouk Hosny_
+_Context: Egypt, Farouk Hosny_
 
 ### [Osvaldo Rivera is the suspect jailed in Camden County, New Jersey for the stabbing to death of a 6-year-old boy and the attempted murder of the boy's 12-year-old sister. Authorities say he was high on PCP-laced marijuana. ](/news/2012/09/4/osvaldo-rivera-is-the-suspect-jailed-in-camden-county-new-jersey-for-the-stabbing-to-death-of-a-6-year-old-boy-and-the-attempted-murder-of.md)
 A man high on PCP-laced marijuana stabbed two neighborhood children in their home while they slept, killing a 6-year-old boy and critically wounding his 12-year-old sister, authorities said.

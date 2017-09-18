@@ -16,7 +16,7 @@ _Context: Shibam, Yemen, bomb_
 _Context: El Salvador, Farabundo Mart National Liberation Front, Mauricio Funes, President of El Salvador, election_
 
 ### [ Former Pakistani Prime Minister Nawaz Sharif is placed under house arrest to prevent the Pakistani Muslim League's proposed demonstration in Islamabad on March 16. ](/news/2009/03/15/former-pakistani-prime-minister-nawaz-sharif-is-placed-under-house-arrest-to-prevent-the-pakistani-muslim-league-s-proposed-demonstration-i.md)
-_Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister of Pakistan, demonstration, house arrest_
+_Context: Islamabad, Nawaz Sharif, Pakistan, Pakistan Muslim League, Prime Minister, demonstration, house arrest_
 
 ### [ An Iraqi footballer is shot and killed during a game in Al Hillah. ](/news/2009/03/15/an-iraqi-footballer-is-shot-and-killed-during-a-game-in-al-hillah.md)
 _Context: Al Hillah, Iraq, association football_

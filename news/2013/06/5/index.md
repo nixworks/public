@@ -67,7 +67,7 @@ _Context: Bradley Manning, WikiLeaks_
 A convicted Scotland Yard constable awarded a coveted &quot;baton of honour&quot; during his training, but who went on to sell the Sun newspaper front-page secrets including the imminent proposal of Prince William to Kate Middleton, can be named today after legal restrictions were lifted in Southwar...
 
 ### [Nawaz Sharif is sworn in as the Prime Minister of Pakistan and calls for an end to U.S. drone attacks. ](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.md)
-_Context: Nawaz Sharif, Prime Minister of Pakistan, drones launch_
+_Context: Nawaz Sharif, Prime Minister, drones launch_
 
 ### [As the ongoing Guantanamo Bay hunger strikes enters its 120th day, the United States House of Representatives votes to keep the prison camp open. ](/news/2013/06/5/as-the-ongoing-guanta-namo-bay-hunger-strikes-enters-its-120th-day-the-united-states-house-of-representatives-votes-to-keep-the-prison-camp.md)
 As the Guantanamo hunger strike enters its 120th day, the US House of Representatives has voted to keep the notorious detention center open in Cuba, blocking the use of taxpayer money to house any detainees transferred out of the prison.

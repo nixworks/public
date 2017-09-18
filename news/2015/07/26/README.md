@@ -7,7 +7,7 @@ Officials in northern Cameroon have ordered the closure of mosques and Islamic s
 _Context: Mogadishu, Somalia_
 
 ### [A bomb detonates on a bus carrying Egyptian military conscripts in Arish, injuring 18. ](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.md)
-_Context: Arish, Egypt's_
+_Context: Arish, Egypt_
 
 ### [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.md)
 Deutsche Börse said it is buying over-the-counter trading platform 360T for $796.4 million, in a move that strengthens the German exchange operator’s trading operations away from exchanges.

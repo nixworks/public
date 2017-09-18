@@ -34,7 +34,7 @@ _Context: Elba Esther Gordillo, Mexico, corruption, teacher's union_
 _Context: California, Santa Cruz, California, United States, police officers_
 
 ### [The National Salvation Front, Egypt's main opposition party, announces it will boycott the upcoming parliamentary election. ](/news/2013/02/26/the-national-salvation-front-egypt-s-main-opposition-party-announces-it-will-boycott-the-upcoming-parliamentary-election.md)
-_Context: Egypt's, National Salvation Front, boycott, the upcoming parliamentary election_
+_Context: Egypt, National Salvation Front, boycott, the upcoming parliamentary election_
 
 ### [Chuck Hagel is confirmed by the Senate as the United States Secretary of Defense. ](/news/2013/02/26/chuck-hagel-is-confirmed-by-the-senate-as-the-united-states-secretary-of-defense.md)
 A narrow victory for Chuck Hagel, confirmed as defense secretary, raised questions about whether he would arrive a diminished leader as the Pentagon faces cuts.

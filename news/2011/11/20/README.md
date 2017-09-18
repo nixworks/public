@@ -1,7 +1,7 @@
 ## [2011-11-20](/news/2011/11/20/index.md)
 
 ### [At least 13 people are killed and as many as 900 injured as violent protests continue in Cairo's Tahrir Square against Egypt's ruling military government. Security forces attempt to disperse the crowds with tear gas and baton charges. ](/news/2011/11/20/at-least-13-people-are-killed-and-as-many-as-900-injured-as-violent-protests-continue-in-cairo-s-tahrir-square-against-egypt-s-ruling-milita.md)
-_Context: Cairo, Egypt's, Tahrir Square, baton, tear gas_
+_Context: Cairo, Egypt, Tahrir Square, baton, tear gas_
 
 ### [2011 Syrian uprising: Two rocket-propelled grenades hit the headquarters of Syria's ruling Ba'ath Party in Damascus amid ongoing anti-government protests. ](/news/2011/11/20/2011-syrian-uprising-two-rocket-propelled-grenades-hit-the-headquarters-of-syria-s-ruling-ba-ath-party-in-damascus-amid-ongoing-anti-govern.md)
 _Context: 2011 Syrian uprising, Ba'ath Party, Damascus, Syria, rocket-propelled grenades_

@@ -19,7 +19,7 @@ _Context: Atal Bihari Vajpayee, Bharatiya Janata Party, Indian National Congress
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 ### [ A joint Polish-Egyptian archaeological team claims to have discovered the Library of Alexandria. ](/news/2004/05/13/a-joint-polishaegyptian-archaeological-team-claims-to-have-discovered-the-library-of-alexandria.md)
-_Context: Archaeologists, Egypt's, Library of Alexandria, Polish_
+_Context: Archaeologists, Egypt, Library of Alexandria, Polish_
 
 ### [ Ontario New Democratic Party candidate Andrea Horwath wins the provincial riding of Hamilton East, returning the NDP to official party status in the Ontario Legislature. The by-election was held to replace Liberal MPP Dominic Agostino, who had died in office.](/news/2004/05/13/ontario-new-democratic-party-candidate-andrea-horwath-wins-the-provincial-riding-of-hamilton-east-returning-the-ndp-to-official-party-stat.md)
 _Context: Andrea Horwath, Dominic Agostino, Hamilton, Ontario, Ontario Liberal Party, Ontario New Democratic Party_

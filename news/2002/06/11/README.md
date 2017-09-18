@@ -7,7 +7,7 @@ _Context: Afghanistan, Mohammed Zahir Shah, loya jirga_
 _Context: .Net service, EU, Microsoft, data privacy laws, technology_
 
 ### [ Nanotech - IBM creates punched cards with a diameter of just 10 nanometers.](/news/2002/06/11/nanotech-a-ibm-creates-punched-cards-with-a-diameter-of-just-10-nanometers.md)
-_Context: IBM, Nanotech, punched card_
+_Context: International Business Machines, Nanotech, punched card_
 
 ### [ Hit reality show, American Idol premiered its first episode on Fox Network.](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.md)
 _Context: American Idol, Fox Network_

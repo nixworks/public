@@ -4,7 +4,7 @@
 _Context: Baquba, Conflict in Iraq, Iraq, Mortar, Mosul, guerillas_
 
 ### [ Israeli-Palestinian Conflict: A truce is declared between Israel and the Palestinian Authority. Mahmoud Abbas, the President of the Palestinian Authority, and Ariel Sharon, the Prime Minister of Israel, shook hands at a four-way summit at Sharm el-Sheikh that was also attended by Egyptian President Hosni Mubarak and Jordan's King Abdullah. Palestinian organization Hamas says it is not bound by the ceasefire. ](/news/2005/02/8/israeli-palestinian-conflict-a-truce-is-declared-between-israel-and-the-palestinian-authority-mahmoud-abbas-the-president-of-the-palesti.md)
-_Context: Ariel Sharon, Egypt's, Egyptian President, Hamas, Hosni Mubarak, Israel, Israeli Prime Minister, Israeli-Palestinian conflict, Jordan, Jordanian King, King Abdullah, Mahmoud Abbas, Palestinian, Palestinian Authority, President of the Palestinian Authority, Sharm el-Sheikh, truce_
+_Context: Ariel Sharon, Egypt, Egyptian President, Hamas, Hosni Mubarak, Israel, Israeli Prime Minister, Israeli-Palestinian conflict, Jordan, Jordanian King, King Abdullah, Mahmoud Abbas, Palestinian, Palestinian Authority, President of the Palestinian Authority, Sharm el-Sheikh, truce_
 
 ### [ In Denmark, parliamentary elections result in a continuation of the center-right coalition of Prime Minister Anders Fogh Rasmussen. ](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.md)
 _Context: Anders Fogh Rasmussen, Denmark, Prime Minister of Denmark, last elections in early 2005_

@@ -25,7 +25,7 @@ _Context: 25, Adele, British people_
 _Context: Anastasia Lin, China, Human rights in China, Miss World 2015, Miss World Canada_
 
 ### [Muslim cleric Sheikh Ahmed al-Tayeb, the head of al-Azhar in Egypt, says violence has no link to authentic Islam, terrorism is a life philosophy whose adherents were willing to die and is an intellectual and psychological disease that uses religion as a front. ](/news/2015/11/21/muslim-cleric-sheikh-ahmed-al-tayeb-the-head-of-al-azhar-in-egypt-says-violence-has-no-link-to-authentic-islam-terrorism-is-a-life-philos.md)
-_Context: Egypt's, Muslim, al-Azhar_
+_Context: Egypt, Muslim, al-Azhar_
 
 ### [Seven people, including the pilot, are killed in a helicopter crash on Fox Glacier in New Zealand. ](/news/2015/11/21/seven-people-including-the-pilot-are-killed-in-a-helicopter-crash-on-fox-glacier-in-new-zealand.md)
 Bodies of four tourists still on Fox Glacier unlikely to be recovered until at least Wednesday, police say.

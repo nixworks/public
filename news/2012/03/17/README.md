@@ -10,7 +10,7 @@ _Context: China, Tibet, self-immolated_
 _Context: Pope Benedict XVI, corruption_
 
 ### [Pope Shenouda III of Alexandria, the leader of Egypt's Coptic Christian community, dies of cancer at the age of 88. ](/news/2012/03/17/pope-shenouda-iii-of-alexandria-the-leader-of-egypt-s-coptic-christian-community-dies-of-cancer-at-the-age-of-88.md)
-_Context: Coptic Christian, Egypt's, Pope Shenouda III of Alexandria, cancer_
+_Context: Coptic Christian, Egypt, Pope Shenouda III of Alexandria, cancer_
 
 ### [Severe Tropical Cyclone Lua is upgraded to a Category 4 cyclone as it hits the town of Pardoo on the northwest coast of Western Australia. ](/news/2012/03/17/severe-tropical-cyclone-lua-is-upgraded-to-a-category-4-cyclone-as-it-hits-the-town-of-pardoo-on-the-northwest-coast-of-western-australia.md)
 _Context: Pardoo, Severe Tropical Cyclone Lua, Western Australia_

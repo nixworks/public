@@ -10,7 +10,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 _Context: Hamas, Mahmoud Abbas, Palestinian National Authority_
 
 ### [ Egyptian High Court rules that the members of the Baha'i Faith in Egypt should not receive government Identification cards, thus removing their rights to health care, education, work and other basic rights. ](/news/2006/12/16/egyptian-high-court-rules-that-the-members-of-the-baha-a-faith-in-egypt-should-not-receive-government-identification-cards-thus-removing.md)
-_Context: Baha'i faith, Egypt's_
+_Context: Baha'i faith, Egypt_
 
 ## [Previous Day...](/news/2006/12/15/index.md)
 

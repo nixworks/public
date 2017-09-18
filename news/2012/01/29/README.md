@@ -52,7 +52,7 @@ _Context: Canadian, Kingston, Ontario, Shafia family deaths_
 _Context: Aung San Suu Kyi, Burma_
 
 ### [Voters in Egypt start voting in an election for the Shura Council (upper house), with Islamist parties seeking to consolidate their position. ](/news/2012/01/29/voters-in-egypt-start-voting-in-an-election-for-the-shura-council-upper-house-with-islamist-parties-seeking-to-consolidate-their-position.md)
-_Context: Egypt's, Islamist, Shura Council, election_
+_Context: Egypt, Islamist, Shura Council, election_
 
 ### [Former President of Italy Oscar Luigi Scalfaro dies at the age of 93. ](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.md)
 _Context: Oscar Luigi Scalfaro, President of Italy_

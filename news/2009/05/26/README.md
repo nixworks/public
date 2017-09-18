@@ -13,7 +13,7 @@ _Context: Barack Obama, President, Sonia Sotomayor, United States, United States
 _Context: Dawit Isaak, Eritrea, Isaias Afewerki, President, journalism, prison_
 
 ### [ Pakistan's Supreme Court will allow former Prime Minister Nawaz Sharif to stand for election. ](/news/2009/05/26/pakistan-s-supreme-court-will-allow-former-prime-minister-nawaz-sharif-to-stand-for-election.md)
-_Context: Nawaz Sharif, Pakistan, Prime Minister of Pakistan, Supreme Court, election_
+_Context: Nawaz Sharif, Pakistan, Prime Minister, Supreme Court, election_
 
 ### [ North Korea tests two more missiles. ](/news/2009/05/26/north-korea-tests-two-more-missiles.md)
 _Context: North Korea, intercontinental ballistic, rocket attacks_

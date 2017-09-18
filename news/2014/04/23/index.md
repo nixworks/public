@@ -4,7 +4,7 @@
 _Context: Assumption Monastery Lavra, Moscow Patriarchate, Sviatohirsk_
 
 ### [An Egyptian general is killed and a police officer is injured after a bomb attached to the general's car exploded. ](/news/2014/04/23/an-egyptian-general-is-killed-and-a-police-officer-is-injured-after-a-bomb-attached-to-the-general-s-car-exploded.md)
-_Context: Egypt's_
+_Context: Egypt_
 
 ### [Russia and China have blocked a proposal by the United States and France to impose U.N. sanctions on Central African Republic's former President Francois Bozize and two other people linked to the conflict. ](/news/2014/04/23/russia-and-china-have-blocked-a-proposal-by-the-united-states-and-france-to-impose-u-n-sanctions-on-central-african-republic-s-former-presi.md)
 _Context: Central African Republic, China, France, Francois Bozize, Russia, U.N., United States_

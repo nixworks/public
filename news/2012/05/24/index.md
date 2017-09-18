@@ -20,7 +20,7 @@ _Context: BSkyB, David Cameron, Fred Michel, Jeremy Hunt, Leveson Inquiry, News 
 
 ### [Four Russian citizens are arrested and accused of espionage in Diyala, Iraq. They are allegedly beaten while in Iraqi custody. ](/news/2012/05/24/four-russian-citizens-are-arrested-and-accused-of-espionage-in-diyala-iraq-they-are-allegedly-beaten-while-in-iraqi-custody.md)
 ### [Voters in Egypt go to the polls for a second day to vote in a presidential election. ](/news/2012/05/24/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-a-presidential-election.md)
-_Context: Egypt's, presidential election_
+_Context: Egypt, presidential election_
 
 ## [Previous Day...](/news/2012/05/23/index.md)
 

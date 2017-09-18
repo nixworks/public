@@ -16,7 +16,7 @@ Vietnam has asked the World Health Organization to help investigate a mystery di
 The 32nd London Marathon sees more than 37,500 elite runners, amateurs and celebrities taking part.
 
 ### [Egyptian officials scrap a deeply unpopular agreement to supply Israel with natural gas. Former President of Egypt Hosni Mubarak, ousted in last year's revolution, had been accused of selling the gas too cheaply. ](/news/2012/04/22/egyptian-officials-scrap-a-deeply-unpopular-agreement-to-supply-israel-with-natural-gas-former-president-of-egypt-hosni-mubarak-ousted-in.md)
-_Context: 2011 Egyptian revolution, Egypt's, Egyptian President, Hosni Mubarak, Israel, natural gas_
+_Context: 2011 Egyptian revolution, Egypt, Egyptian President, Hosni Mubarak, Israel, natural gas_
 
 ### [U.S. and Afghan negotiators finalise an agreement concerning the continuing U.S. presence in Afghanistan after the U.S. withdraws its troops at the end of 2014. ](/news/2012/04/22/u-s-and-afghan-negotiators-finalise-an-agreement-concerning-the-continuing-u-s-presence-in-afghanistan-after-the-u-s-withdraws-its-troops.md)
 US and Afghan negotiators finalise a long-term partnership deal governing the US role in Afghanistan after the withdrawal of forces in 2014.

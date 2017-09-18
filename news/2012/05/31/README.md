@@ -31,7 +31,7 @@ _Context: Democratic, John Edwards, U.S. Vice President_
 _Context: California, Center for Constitutional Rights, solitary confinement_
 
 ### [Egypt formally ends its 31-year state of emergency, which gave security forces broad powers to suppress civil unrest and detain dissenters. ](/news/2012/05/31/egypt-formally-ends-its-31-year-state-of-emergency-which-gave-security-forces-broad-powers-to-suppress-civil-unrest-and-detain-dissenters.md)
-_Context: Egypt's, states of emergency_
+_Context: Egypt, states of emergency_
 
 ### [Voters in Ireland go to the polls for a referendum on whether the Irish government can approve the European Fiscal Compact. ](/news/2012/05/31/voters-in-ireland-go-to-the-polls-for-a-referendum-on-whether-the-irish-government-can-approve-the-european-fiscal-compact.md)
 FOCUS&#x20;&#x3A;&#x20;Close&#x20;to&#x20;three&#x20;million&#x20;Irish&#x20;people&#x20;are&#x20;eligible&#x20;to&#x20;vote&#x20;on&#x20;the&#x20;EU&#x20;Fiscal&#x20;Treaty&#x20;on&#x20;Thursday&#x20;31&#x20;May.&#x20;This&#x20;referendum&#x20;&#x2013;&#x20;the&#x20;only&#x20;one&#x20;in&#x20;Europ...

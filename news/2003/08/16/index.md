@@ -1,7 +1,7 @@
 ## [2003-08-16](/news/2003/08/16/index.md)
 
 ### [ Major blackout: Power is now restored in New York City, Toronto, and most of Ottawa. Authorities warn of possible future disruptions and advise conservation as work continues to restore power to the entire grid. Theories as to the cause of the event, meanwhile, are becoming more substantial and coherent.](/news/2003/08/16/major-blackout-power-is-now-restored-in-new-york-city-toronto-and-most-of-ottawa-authorities-warn-of-possible-future-disruptions-and-ad.md)
-_Context: Ottawa, Toronto, blackout_
+_Context: North American blackout, Ottawa, Toronto_
 
 ### [ West Virginia: Kanawha County Sheriff's office reports that a string of four fatal shootings over the past week were linked by ballistics testing to the same type of weapon. The perpetrator(s) remain at large. The incident is reminiscent of the 2002 Beltway sniper attacks.](/news/2003/08/16/west-virginia-kanawha-county-sheriff-s-office-reports-that-a-string-of-four-fatal-shootings-over-the-past-week-were-linked-by-ballistics-t.md)
 _Context: Beltway sniper attacks, Kanawha County, West Virginia, ballistics, sheriff_

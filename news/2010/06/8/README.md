@@ -64,7 +64,7 @@ _Context: Spanish_
 _Context: China, blocks mentions_
 
 ### [Egypt permits legislators from the Muslim Brotherhood and other groups to enter the blockaded Gaza Strip. ](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.md)
-_Context: Egypt's, Gaza Strip, Muslim Brotherhood_
+_Context: Egypt, Gaza Strip, Muslim Brotherhood_
 
 ### [The 11th Panchen Lama, the 20-year-old living Buddha on Monday visited south Tibet's Shannan Prefecture, held large prayer services and gave head-touch blessings to more than 5,000 local devotees. ](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.md)
 _Context: 11th Panchen Lama, Buddha, Shannan Prefecture, Tibet_

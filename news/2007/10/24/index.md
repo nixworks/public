@@ -25,7 +25,7 @@ Turkish warplanes attacked a village in northern Iraq on Wednesday, an Iraqi Kur
 _Context: Chang'e 1, China_
 
 ### [ The Pakistan Peoples Party claims that its leader, former Prime Minister of Pakistan Benazir Bhutto, has been forbidden to leave the country. ](/news/2007/10/24/the-pakistan-peoples-party-claims-that-its-leader-former-prime-minister-of-pakistan-benazir-bhutto-has-been-forbidden-to-leave-the-countr.md)
-_Context: Benazir Bhutto, Pakistan Peoples Party, Prime Minister of Pakistan_
+_Context: Benazir Bhutto, Pakistan Peoples Party, Prime Minister_
 
 ### [ Prime Minister of Denmark Anders Fogh Rasmussen calls early elections for 13 November 2007, less than three years after the last elections in early 2005. ](/news/2007/10/24/prime-minister-of-denmark-anders-fogh-rasmussen-calls-early-elections-for-13-november-2007-less-than-three-years-after-the-last-elections.md)
 _Context: Anders Fogh Rasmussen, Prime Minister of Denmark, early parliamentary elections, last elections in early 2005_

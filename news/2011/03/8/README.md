@@ -10,7 +10,7 @@ _Context: 2010-2011 Ivorian crisis, Abidjan_
 Twenty-one of the 23 oil workers kidnapped on Monday in the eastern department of Vichada have been rescued by Colombia&#8217;s armed forces, W Radio reports. According to the army, one&hellip;
 
 ### [One person is killed in clashes between Coptic Christians and Muslims in the Egyptian capital Cairo. ](/news/2011/03/8/one-person-is-killed-in-clashes-between-coptic-christians-and-muslims-in-the-egyptian-capital-cairo.md)
-_Context: Cairo, Christian, Copt, Egypt's, Muslim_
+_Context: Cairo, Christian, Copt, Egypt, Muslim_
 
 ### [Police in Pakistan arrest a suspect over a car bombing in the eastern city of Faisalabad. ](/news/2011/03/8/police-in-pakistan-arrest-a-suspect-over-a-car-bombing-in-the-eastern-city-of-faisalabad.md)
 Pakistan arrests a man after at least 25 people killed in an apparent car bomb blast at a gas station in Faisalabad.

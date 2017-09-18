@@ -22,7 +22,7 @@ Eighteen injured in explosion in city of Yala, which triggered a large fire that
 _Context: Colombia, FARC, International Red Cross_
 
 ### [Egypt's Minister of State for Antiquities Zahi Hawass says several pieces have been stolen from the Egyptian Museum during the revolution. ](/news/2011/02/13/egypt-s-minister-of-state-for-antiquities-zahi-hawass-says-several-pieces-have-been-stolen-from-the-egyptian-museum-during-the-revolution.md)
-_Context: 2011 Egyptian revolution, Egypt's, Egyptian Museum, Zahi Hawass_
+_Context: 2011 Egyptian revolution, Egypt, Egyptian Museum, Zahi Hawass_
 
 ### [A giant Andy Scott sculpture is knocked over in a car accident in Tullibody, Clackmannanshire. ](/news/2011/02/13/a-giant-andy-scott-sculpture-is-knocked-over-in-a-car-accident-in-tullibody-clackmannanshire.md)
 A giant steel sculpture of a striding man by public artist Andy Scott is knocked over in a car accident.
@@ -70,7 +70,7 @@ _Context: Fred Karger, Iowa, LGBT rights in the United States, New Hampshire, Pr
 Cuba releases the political prisoners Hector Maseda and Angel Moya, after a seven-month delay following their refusal to go into exile in Spain.
 
 ### [Hina Rabbani Khar is appointed Minister of Foreign Affairs of Pakistan by Prime Minister Yousaf Raza Gillani to become the first female Foreign Minister. ](/news/2011/02/13/hina-rabbani-khar-is-appointed-minister-of-foreign-affairs-of-pakistan-by-prime-minister-yousaf-raza-gillani-to-become-the-first-female-fore.md)
-_Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minister of Pakistan, Yousaf Raza Gillani_
+_Context: Hina Rabbani Khar, Minister of Foreign Affairs, Pakistan, Prime Minister, Yousaf Raza Gillani_
 
 ### [Thousands of protesters in Dresden, Germany form a human chain to mark the 66th anniversary of the Dresden bombing and to protest against racism. ](/news/2011/02/13/thousands-of-protesters-in-dresden-germany-form-a-human-chain-to-mark-the-66th-anniversary-of-the-dresden-bombing-and-to-protest-against-ra.md)
 _Context: Dresden, Dresden bombing, Germany, human chain_

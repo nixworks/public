@@ -4,7 +4,7 @@
 _Context: Pakistan_
 
 ### [Egyptian authorities blame the Gaza-based Army of Islam group for an attack on a Coptic Christian church in Alexandria on 1 January. ](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.md)
-_Context: Alexandria, Army of Islam, Christian, Copt, Egypt's, Gaza Strip, New Year's Day church bombing_
+_Context: Alexandria, Army of Islam, Christian, Copt, Egypt, Gaza Strip, New Year's Day church bombing_
 
 ### [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md)
 _Context: Afghanistan, Australia, Ben Roberts-Smith, Victoria Cross, offensive in the Shah Wali Kot region_

@@ -4,7 +4,7 @@
 _Context: Philippines, ferry_
 
 ### [ A bus crash in Minya, Egypt, kills 57 people. ](/news/2008/12/14/a-bus-crash-in-minya-egypt-kills-57-people.md)
-_Context: Egypt's, Minya, Egypt_
+_Context: Egypt, Minya, Egypt_
 
 ### [ Turkmenistan holds an early parliamentary vote with only candidates from the Democratic Party and associated organizations standing for election. ](/news/2008/12/14/turkmenistan-holds-an-early-parliamentary-vote-with-only-candidates-from-the-democratic-party-and-associated-organizations-standing-for-ele.md)
 Turkmenistan votes on Sunday in a snap parliamentary election touted by the government as a step toward democracy but condemned by critics as a sham.

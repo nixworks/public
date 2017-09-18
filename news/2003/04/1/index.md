@@ -7,7 +7,7 @@ _Context: Cantopop, Leslie Cheung, suicide_
 _Context: Japan Post, Postal Services Agency, corporation_
 
 ### [ In Japan, Hyosuke Kujiraoka, a former vice speaker of the House of Representatives, dies in Adachi, Tokyo. He was 87.](/news/2003/04/1/in-japan-hyosuke-kujiraoka-a-former-vice-speaker-of-the-house-of-representatives-dies-in-adachi-tokyo-he-was-87.md)
-_Context: Adachi, Hyosuke Kujiraoka, the Lower House of the Diet_
+_Context: Adachi, House of Representatives, Hyosuke Kujiraoka_
 
 ### [ Air Canada, the main airline company of Canada asks for bankruptcy protection.](/news/2003/04/1/air-canada-the-main-airline-company-of-canada-asks-for-bankruptcy-protection.md)
 _Context: Air Canada, airline company, bankruptcy_

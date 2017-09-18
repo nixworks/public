@@ -34,7 +34,7 @@ _Context: Afghanistan, Hamid Karzai, Osama bin Laden, Pakistan, father's killing
 Ukraine is facing growing isolation as five presidents and the EU Commission cancel visits over suspected maltreatment of Yulia Tymoshenko, its jailed former prime minister.
 
 ### [Egypt security services foil an alleged Iranian plot to kill the Saudi ambassador in Cairo. ](/news/2012/05/1/egypt-security-services-foil-an-alleged-iranian-plot-to-kill-the-saudi-ambassador-in-cairo.md)
-_Context: Cairo, Egypt's, Iran, Saudi Arabia_
+_Context: Cairo, Egypt, Iran, Saudi Arabia_
 
 ### [Chinese Vice-Premier Li Keqiang visits Moscow. China and Russia sign trade deals worth $15 billion. ](/news/2012/05/1/chinese-vice-premier-li-keqiang-visits-moscow-china-and-russia-sign-trade-deals-worth-15-billion.md)
 _Context: Li Keqiang, Moscow_

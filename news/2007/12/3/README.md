@@ -4,7 +4,7 @@
 _Context: 2003, Iran, Iran and weapons of mass destruction, National Intelligence Estimate, November 2007, United States_
 
 ### [ The Election Commission of Pakistan rejects former Prime Minister Nawaz Sharif's nomination papers for the upcoming parliamentary election. ([http://www.dailytimes.com.pk/default.asp?page=2007%5C12%5C04%5Cstory_4-12-2007_pg1_5 "Daily Times"])](/news/2007/12/3/the-election-commission-of-pakistan-rejects-former-prime-minister-nawaz-sharif-s-nomination-papers-for-the-upcoming-parliamentary-election.md)
-_Context: Nawaz Sharif, Pakistan, Prime Minister of Pakistan, by-elections_
+_Context: Nawaz Sharif, Pakistan, Prime Minister, by-elections_
 
 ### [ The Sudanese President Omar al-Bashir pardons a teacher at Unity High School for her alleged insult in the naming of her class's teddy bear "Muhammad". ](/news/2007/12/3/the-sudanese-president-omar-al-bashir-pardons-a-teacher-at-unity-high-school-for-her-alleged-insult-in-the-naming-of-her-class-s-teddy-bear.md)
 _Context: Muhammad, Omar al-Bashir, President of Sudan, Sudan, Unity High School, naming of her class's teddy bear_

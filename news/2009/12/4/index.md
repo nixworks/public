@@ -16,7 +16,7 @@ _Context: Indonesia, Medan, North Sumatra_
 _Context: Hifikepunye Pohamba, Namibia, SWAPO, elections last week_
 
 ### [ At least 50 people are missing after two ferries collide on the River Nile near Rashid (Rosetta) in Egypt. ](/news/2009/12/4/at-least-50-people-are-missing-after-two-ferries-collide-on-the-river-nile-near-rashid-rosetta-in-egypt.md)
-_Context: Egypt's, Rashid, River Nile_
+_Context: Egypt, Rashid, River Nile_
 
 ### [ Two Rwandan soldiers are killed while on a peacekeeping mission in Darfur. ](/news/2009/12/4/two-rwandan-soldiers-are-killed-while-on-a-peacekeeping-mission-in-darfur.md)
 _Context: Darfur, Rwanda, conflict, peacekeeping mission_

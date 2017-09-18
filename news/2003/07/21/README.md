@@ -7,7 +7,7 @@ _Context: All Things Considered_
 _Context: Jong-Wook Lee, World Health Organization_
 
 ### [ "SCO v. IBM Linux lawsuit:" SCO Group announces that it intends to sell binary-only licences to use the free Linux operating system which will remove the threat of litigation from licence-holders. Linux advocates react by stating that SCO has no basis for this action, and that doing this may cause SCO to forfeit their rights under the GNU GPL to use or distribute Linux or Linux-derived code in any form. ](/news/2003/07/21/sco-v-ibm-linux-lawsuit-sco-group-announces-that-it-intends-to-sell-binary-only-licences-to-use-the-free-linux-operating-system-which-w.md)
-_Context: GNU GPL, Linux, SCO Group, SCO v. IBM Linux lawsuit_
+_Context: ''SCO vs IBM'', GNU GPL, Linux, SCO Group_
 
 ### [ In Puerto Rico, 25 people are seriously injured after a roof collapse in a Vega Alta, Puerto Rico mall. {{es icon}}](/news/2003/07/21/in-puerto-rico-25-people-are-seriously-injured-after-a-roof-collapse-in-a-vega-alta-puerto-rico-mall-es-icon.md)
 _Context: Puerto Rico, Vega Alta, Puerto Rico_

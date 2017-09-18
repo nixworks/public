@@ -43,7 +43,7 @@ _Context: Antananarivo, Madagascan Army, Madagascar, government, mutinying_
 _Context: Entebbe International Airport, Ilyushin Il-76, Lake Victoria, Uganda_
 
 ### [ At least 13 people are missing or dead after the cargo ship MV "Ibn al-Battuta" sinks near Port Safaga, Egypt. ](/news/2009/03/9/at-least-13-people-are-missing-or-dead-after-the-cargo-ship-mv-ibn-al-battuta-sinks-near-port-safaga-egypt.md)
-_Context: Egypt's, MV, Port Safaga, cargo ship_
+_Context: Egypt, MV, Port Safaga, cargo ship_
 
 ### [ Standing Committee Chairman Wu Bangguo tells the National People's Congress that China will not adopt Western democracy. ](/news/2009/03/9/standing-committee-chairman-wu-bangguo-tells-the-national-people-s-congress-that-china-will-not-adopt-western-democracy.md)
 A high-ranking official of the Communist Party told the National People’s Congress that the country would never adopt a multiparty political system.

@@ -31,7 +31,7 @@ The Palestinian government in the West Bank is now largely ready to govern a sta
 Former president to face charges while Ouattara pledges to ask ICC to probe alleged massacres committed during crisis.
 
 ### [Egyptian authorities detain former president Hosni Mubarak and his sons Alaa and Gamal for 15 days as part of an investigation related to possible charges of corruption and abuse of power. ](/news/2011/04/13/egyptian-authorities-detain-former-president-hosni-mubarak-and-his-sons-alaa-and-gamal-for-15-days-as-part-of-an-investigation-related-to-po.md)
-_Context: Alaa Mubarak, Egypt's, Egyptian President, Gamel, Hosni Mubarak_
+_Context: Alaa Mubarak, Egypt, Egyptian President, Gamel, Hosni Mubarak_
 
 ### [English actor Brian Regan is charged with the murder of a bouncer in a pub in Liverpool. ](/news/2011/04/13/english-actor-brian-regan-is-charged-with-the-murder-of-a-bouncer-in-a-pub-in-liverpool.md)
 A former Brookside actor appears in court charged with the murder of a nightclub doorman who was shot dead outside a Liverpool pub.

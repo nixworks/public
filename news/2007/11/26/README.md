@@ -19,7 +19,7 @@ _Context: Federation Council, Russia, go to the polls_
 _Context: Indonesia, Sumatra, Sumbawa, earthquake_
 
 ### [ Former Prime Minister of Pakistan Nawaz Sharif announces he will file nomination papers in the Pakistani general election, 2008. However, he will not serve as Prime Minister under the current President of Pakistan Pervez Musharraf. ](/news/2007/11/26/former-prime-minister-of-pakistan-nawaz-sharif-announces-he-will-file-nomination-papers-in-the-pakistani-general-election-2008-however-h.md)
-_Context: Nawaz Sharif, Pakistan, Pervez Musharraf, Prime Minister, Prime Minister of Pakistan, by-elections, nomination, president_
+_Context: Nawaz Sharif, Pakistan, Pervez Musharraf, Prime Minister, Prime Minister, by-elections, nomination, president_
 
 ### [ At least three people die in clashes over a new draft constitution in Sucre, Bolivia. ](/news/2007/11/26/at-least-three-people-die-in-clashes-over-a-new-draft-constitution-in-sucre-bolivia.md)
 _Context: Bolivia, Sucre, draft constitution_

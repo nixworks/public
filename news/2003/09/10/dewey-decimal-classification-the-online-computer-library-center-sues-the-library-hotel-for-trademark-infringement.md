@@ -1,0 +1,6 @@
+### [2003-09-10](/news/2003/09/10/index.md)
+
+#  Dewey Decimal Classification: The Online Computer Library Center sues the Library Hotel for trademark infringement.
+
+
+

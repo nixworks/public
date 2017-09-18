@@ -10,7 +10,7 @@ Surprise move follows data showing economic dip amid new fears of deepening glob
 _Context: Buk missile system, Malaysia Airlines Flight 17, Ukraine_
 
 ### [A heatwave in Egypt has killed at least 42 people. ](/news/2015/08/11/a-heatwave-in-egypt-has-killed-at-least-42-people.md)
-_Context: Egypt's, heatwave_
+_Context: Egypt, heatwave_
 
 ### [Flooding in Argentina kills at least three people and 11,000 are made homeless. ](/news/2015/08/11/flooding-in-argentina-kills-at-least-three-people-and-11-000-are-made-homeless.md)
 Flooding in Argentina which burst riverbanks and deluged city streets killed three people and led more than 11,000 to evacuate their homes

@@ -25,7 +25,7 @@ A replay of the controversial World Cup play-off match between France and the Re
 _Context: FIFA, Iraq Football Association_
 
 ### [ 35 people are injured and fire bombs are thrown after Egyptian riot police clash with protesters at a demonstration outside the Algerian embassy in Cairo, following Egypt's defeat in a World Cup qualifying playoff match. ](/news/2009/11/20/35-people-are-injured-and-fire-bombs-are-thrown-after-egyptian-riot-police-clash-with-protesters-at-a-demonstration-outside-the-algerian-em.md)
-_Context: Algeria, Cairo, Egypt's, qualifying match_
+_Context: Algeria, Cairo, Egypt, qualifying match_
 
 ### [ The Irish Defence Forces are deployed to assist civil authorities after widespread flooding hits the west and south of Ireland after the heaviest rainfall in over thirty years falls in one night. The worst affected areas are Cork and Galway, where there is widespread disruption to public transport and services and several major roads are closed. Lectures at University College Cork are cancelled as the university is submerged. ](/news/2009/11/20/the-irish-defence-forces-are-deployed-to-assist-civil-authorities-after-widespread-flooding-hits-the-west-and-south-of-ireland-after-the-he.md)
 The Defence Forces have further increased their deployment due to the recent flooding.

@@ -8,3 +8,7 @@ Arianna Huffington, co-founder of digital media website Huffington Post, on Thur
 ### Source:
 
 1. [CNBC](https://www.cnbc.com/amp/2016/08/11/arianna-huffington-to-leave-the-huffington-post.html)
+
+### Related:
+
+1. [ California recall: Five candidates (Lt. Governor Cruz Bustamante, California state senator Tom McClintock, Peter Camejo, Peter Ueberroth and Arianna Huffington) attended the first debate held for the recall election. Arnold Schwarzenegger was criticized for not turning up at the debate. Issues such as tax and campaign finance were brought up.](/news/2003/09/3/california-recall-five-candidates-lt-governor-cruz-bustamante-california-state-senator-tom-mcclintock-peter-camejo-peter-ueberroth-an.md) _Context: Arianna Huffington_

@@ -13,7 +13,7 @@ _Context: Philippines_
 The head of a Taiwanese company at the centre of a widening food safety scandal has been detained for selling hundreds of tonnes of &quot;gutter oil&quot; that caused mass product recalls, authorities said Saturday.
 
 ### [The government of Qatar asks exiled leaders of Egypt's Muslim Brotherhood to leave. ](/news/2014/09/13/the-government-of-qatar-asks-exiled-leaders-of-egypt-s-muslim-brotherhood-to-leave.md)
-_Context: Egypt's, Egyptian Muslim Brotherhood, Qatar_
+_Context: Egypt, Egyptian Muslim Brotherhood, Qatar_
 
 ## [Previous Day...](/news/2014/09/12/index.md)
 

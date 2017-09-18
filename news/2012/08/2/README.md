@@ -40,7 +40,7 @@ Spanish officials announced the arrest of three suspects who were believed to ha
 _Context: Constitutional Court of Romania, President, Traian Basescu, presidential impeachment referendum_
 
 ### [Egypt's new cabinet members are sworn in. ](/news/2012/08/2/egypt-s-new-cabinet-members-are-sworn-in.md)
-_Context: Egypt's_
+_Context: Egypt_
 
 ### [Quebec premier Jean Charest calls a general election for September 2012 amidst student protests against tuition fee increases. ](/news/2012/08/2/quebec-premier-jean-charest-calls-a-general-election-for-september-2012-amidst-student-protests-against-tuition-fee-increases.md)
 &lt;p>Jean Charest is calling upon a “silent majority” to restore him to office in a Sept. 4 Quebec election, when he will seek to tie a provincial record with his fourth consecutive victory.&lt;/p>

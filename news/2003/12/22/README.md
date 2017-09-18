@@ -10,7 +10,7 @@ _Context: China, U.S. dollar, currency, yuan_
 _Context: Italian Prime Minister, Parmalat, Silvio Berlusconi, government_
 
 ### [ Egyptian Foreign Minister Ahmed Maher is assaulted by Palestinians during prayer at the al-Aqsa Mosque in Jerusalem. Mr. Maher was taken to an Israeli hospital for observation as a result of the incident after being treated at the scene by the Magen David Adom. After several hours care in the hospital, he was escorted to his airplane by an Israeli cardiologist and paramedic. ](/news/2003/12/22/egyptian-foreign-minister-ahmed-maher-is-assaulted-by-palestinians-during-prayer-at-the-al-aqsa-mosque-in-jerusalem-mr-maher-was-taken-to.md)
-_Context: Ahmed Maher, Al-Aqsa Mosque, Egypt's, Foreign Minister, Jerusalem, Magen David Adom, Palestinians, prayer_
+_Context: Ahmed Maher, Al-Aqsa Mosque, Egypt, Foreign Minister, Jerusalem, Magen David Adom, Palestinians, prayer_
 
 ### [ A list of people who have declined a British honour was leaked to "The Sunday Times". The list includes David Bowie, David Hockney, Aldous Huxley, Nigella Lawson, and Harold Pinter. ](/news/2003/12/22/a-list-of-people-who-have-declined-a-british-honour-was-leaked-to-the-sunday-times-the-list-includes-david-bowie-david-hockney-aldous.md)
 _Context: Aldous Huxley, David Bowie, David Hockney, Harold Pinter, Nigella Lawson, The Sunday Times (UK), list of people who have declined a British honour_

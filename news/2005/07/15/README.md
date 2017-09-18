@@ -4,7 +4,7 @@
 _Context: BBC, CNN, Gaza Strip, Hamas, Israeli Air Force, Palestinians, Qassam rocket, West Bank_
 
 ### [ The chemist Magdi al-Nashar, sought by British police in relation to the 7 July London bombings, has been arrested in Egypt. ](/news/2005/07/15/the-chemist-magdi-al-nashar-sought-by-british-police-in-relation-to-the-7-july-london-bombings-has-been-arrested-in-egypt.md)
-_Context: 7 July London bombings, Egypt's, Magdi al-Nashar, chemist_
+_Context: 7 July London bombings, Egypt, Magdi al-Nashar, chemist_
 
 ### [ In the Philippines, opposition demonstrators demanding resignation of president Gloria Arroyo seize the building of the Department of Agriculture and smash windows before dispersing before police. Her political opponents in the senate want to begin impeachment procedures ](/news/2005/07/15/in-the-philippines-opposition-demonstrators-demanding-resignation-of-president-gloria-arroyo-seize-the-building-of-the-department-of-agric.md)
 _Context: Gloria Arroyo, Philippines, impeach, resignation_

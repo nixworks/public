@@ -31,7 +31,7 @@ Ibon Gogeascoechea, the leader of armed Basque separatists ETA, was caught on Su
 _Context: Brazil, Rio de Janeiro, algal bloom, lagoon, low oxygen_
 
 ### [Egyptian authorities announce the discovery of a granite head from a statue of Tutankhamun's grandfather Amenhotep III, which was unearthed at a temple in Luxor. ](/news/2010/02/28/egyptian-authorities-announce-the-discovery-of-a-granite-head-from-a-statue-of-tutankhamun-s-grandfather-amenhotep-iii-which-was-unearthed.md)
-_Context: Amenhotep III, Egypt's, Luxor, Tutankhamun_
+_Context: Amenhotep III, Egypt, Luxor, Tutankhamun_
 
 ## [Previous Day...](/news/2010/02/27/index.md)
 

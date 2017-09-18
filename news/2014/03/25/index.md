@@ -20,7 +20,7 @@ The biggest pollution-related killers were heart disease, stroke, pulmonary dise
 The head of the Irish police force resigns following a controversy over whistleblowers, whose concerns about the motoring penalty points system appeared to be vindicated by an independent report.
 
 ### [Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of-incitement-to-kill.md)
-_Context: Egypt's, Mohammed Badie, Muslim Brotherhood_
+_Context: Egypt, Mohammed Badie, Muslim Brotherhood_
 
 ### [Four men are arrested after BASE jumping from the top of the World Trade Center in New York City. ](/news/2014/03/25/four-men-are-arrested-after-base-jumping-from-the-top-of-the-world-trade-center-in-new-york-city.md)
 _Context: BASE jumping, New York City, One World Trade Center_

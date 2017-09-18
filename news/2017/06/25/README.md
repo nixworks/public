@@ -16,7 +16,7 @@ The cladding is believed to have rapidly spread the inferno at London&#8217;s Gr
 A flotilla of boats and the air force went to the aid of vessel that sank with about 150 people on board in Peňol-Guatapé reservoir
 
 ### [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md)
-_Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt's, Qatar, Saudi Arabia, Turkey, United Arab Emirates_
+_Context: 2017 Qatar diplomatic crisis, Bahrain, Bahrain News Agency, Egypt, Qatar, Saudi Arabia, Turkey, United Arab Emirates_
 
 ### [Voters in Albania go to the polls in an election important to the country's European Union candidacy, with both the ruling Socialist Party and the rival Democratic Party looking to gain a majority in the country's parliament. Voting is extended by one hour because of Eid al-Fitr celebrations and 39{{nbsp}}degC (102{{nbsp}}degF) degree temperatures. ](/news/2017/06/25/voters-in-albania-go-to-the-polls-in-an-election-important-to-the-country-s-european-union-candidacy-with-both-the-ruling-socialist-party-a.md)
 _Context: Albania, Albanian parliamentary election, 2017, Democratic Party, Eid al-Fitr, European Union candidacy, Socialist Party, parliament_

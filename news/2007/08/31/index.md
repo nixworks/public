@@ -58,7 +58,7 @@ _Context: United Nations, climate change, greenhouse gas_
 _Context: John Warner, Republican, United States Senate_
 
 ### [ Two Egyptian students at the University of South Florida are indicted for carrying explosive materials across state lines with one indicted for terrorism charges. ](/news/2007/08/31/two-egyptian-students-at-the-university-of-south-florida-are-indicted-for-carrying-explosive-materials-across-state-lines-with-one-indicted.md)
-_Context: Egypt's, University of South Florida, border, terrorism_
+_Context: Egypt, University of South Florida, border, terrorism_
 
 ### [ The Secretary-General of the United Nations orders an investigation into how hazardous material from Iraq came to be in the United Nations headquarters in New York. ](/news/2007/08/31/the-secretary-general-of-the-united-nations-orders-an-investigation-into-how-hazardous-material-from-iraq-came-to-be-in-the-united-nations.md)
 _Context: Iraq, New York City, Secretary General, United Nations_

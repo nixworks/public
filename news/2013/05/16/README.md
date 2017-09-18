@@ -7,7 +7,7 @@ _Context: Afghanistan, Hizb-i-Islami, Kabul, suicide bombing_
 Spike in violence comes amid tensions between the Shiite-led government and Sunni minority.
 
 ### [Suspected militants abduct six security personnel in the Sinai Peninsula, Egypt. ](/news/2013/05/16/suspected-militants-abduct-six-security-personnel-in-the-sinai-peninsula-egypt.md)
-_Context: Egypt's, Sinai Peninsula_
+_Context: Egypt, Sinai Peninsula_
 
 ### [The Nigerian military imposes a dusk to dawn curfew in Adamawa State. ](/news/2013/05/16/the-nigerian-military-imposes-a-dusk-to-dawn-curfew-in-adamawa-state.md)
 _Context: Adamawa State_

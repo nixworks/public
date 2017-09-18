@@ -1,6 +1,6 @@
 ### [2017-09-17](/news/2017/09/17/index.md)
 
-#  Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 84 dead. 
+#  Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 82 dead. 
 
 
 

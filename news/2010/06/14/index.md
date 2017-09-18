@@ -19,7 +19,7 @@ The Northern Ireland Secretary of State Owen Paterson has received a copy of the
 _Context: Wen Jiabao, labour unrest in China_
 
 ### [Egypt and Al Jazeera Sports clash over claims of interference in the transmission of 2010 FIFA World Cup soccer matches. ](/news/2010/06/14/egypt-and-al-jazeera-sports-clash-over-claims-of-interference-in-the-transmission-of-2010-fifa-world-cup-soccer-matches.md)
-_Context: 2010 FIFA World Cup, Al Jazeera Sports, Egypt's_
+_Context: 2010 FIFA World Cup, Al Jazeera Sports, Egypt_
 
 ### [A California judge refuses to suspend the medical licence of Conrad Murray, the doctor charged in connection with Michael Jackson's death. ](/news/2010/06/14/a-california-judge-refuses-to-suspend-the-medical-licence-of-conrad-murray-the-doctor-charged-in-connection-with-michael-jackson-s-death.md)
 _Context: California, Conrad Murray, Michael Jackson, death_

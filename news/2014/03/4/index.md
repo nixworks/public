@@ -4,7 +4,7 @@
 Russian President has reportedly ordered an end to army drills in western Russia
 
 ### [An Egyptian court bans the Palestinian group Hamas and orders its offices in the country to be shut down and all dealings with the group suspended. The court also brands it as a terrorist organization. [http://www.dw.de/egypt-bans-hamas-labels-it-a-terrorist-organization/a-17472158 "(DW)"] [http://www.ibtimes.co.uk/egypt-court-outlaws-hamas-brands-muslim-brotherhood-offshoot-terrorists-1438816 "(International Business Times)"]](/news/2014/03/4/an-egyptian-court-bans-the-palestinian-group-hamas-and-orders-its-offices-in-the-country-to-be-shut-down-and-all-dealings-with-the-group-sus.md)
-_Context: Egypt's, Hamas, Palestinian, terrorist organization_
+_Context: Egypt, Hamas, Palestinian, terrorist organization_
 
 ### [A New York gold and gold futures trader files a lawsuit against the international banks involved in the twice-daily teleconferences that set the price of that metal. ](/news/2014/03/4/a-new-york-gold-and-gold-futures-trader-files-a-lawsuit-against-the-international-banks-involved-in-the-twice-daily-teleconferences-that-set.md)
 The five banks involved in setting the London benchmark gold price have been accused in a lawsuit of price manipulation, a filing with a U.S. federal court in New York showed.

@@ -22,7 +22,7 @@ _Context: New Jersey, Paramus, Westfield Garden State Plaza, opens fire_
 A South Florida jury has convicted a 23-year-old man of second-degree murder in the 2007 killing of Washington Redskins star Sean Taylor during a botched home burglary.
 
 ### [Egyptian deposed president Mohamed Morsi's trial regarding charges of violence is postponed to 8 January 2014. ](/news/2013/11/4/egyptian-deposed-president-mohamed-morsi-s-trial-regarding-charges-of-violence-is-postponed-to-8-january-2014.md)
-_Context: Egypt's, Mohamed Morsi, deposed_
+_Context: Egypt, Mohamed Morsi, deposed_
 
 ### [Lockheed Martin's Skunk Works undertakes to build a successor to the SR-71 Blackbird capable of mach 6 speed flight by 2030. ](/news/2013/11/4/lockheed-martin-s-skunk-works-undertakes-to-build-a-successor-to-the-sr-71-blackbird-capable-of-mach-6-speed-flight-by-2030.md)
 A new hypersonic spy plane is coming from the company that perfected the technology -- and this one will fly six times the speed of sound.

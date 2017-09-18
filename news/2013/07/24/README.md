@@ -4,7 +4,7 @@
 _Context: Knights Templar Cartel, Mexican Police, Michoacn_
 
 ### [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md)
-_Context: Dakahlia, Egypt's, Mansoura_
+_Context: Dakahlia, Egypt, Mansoura_
 
 ### [Four people are killed and at least 40 wounded in a bomb and gun attack on an Inter-Services Intelligence compound in Sukkur, Pakistan. ](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.md)
 _Context: Inter-Services Intelligence, Pakistan, Sukkur_

@@ -7,7 +7,7 @@ _Context: Alcantara space base, Brazilian Space Agency, VLS-1_
 _Context: Tungurahua, natural disaster_
 
 ### [ Natural disaster: Wildfire forces around 10,000 people from their homes in Kelowna, British Columbia. This is Western Canada's worst fire season in decades.](/news/2003/08/22/natural-disaster-wildfire-forces-around-10-000-people-from-their-homes-in-kelowna-british-columbia-this-is-western-canada-s-worst-fire-s.md)
-_Context: Kelowna, British Columbia, Wildfire, natural disaster_
+_Context: Kelowna, Wildfire, natural disaster_
 
 ### [ Occupation of Iraq: United Nations Security council members are split on the issue of Iraq. France, Russia, People's Republic of China, and Germany are proposing differing ways to expand the United Nations mandate in Iraq beyond humanitarian aid and reconstruction. Secretary of State of the United States Colin Powell states that there is no plan to cede authority to the United Nations from the Coalition forces. Powell also sought a new Security Council resolution that would involve other nations to contribute troops and aid in securing and rebuilding Iraq.](/news/2003/08/22/occupation-of-iraq-united-nations-security-council-members-are-split-on-the-issue-of-iraq-france-russia-people-s-republic-of-china-and.md)
 _Context: Colin Powell, Iraq, Occupation of Iraq, Secretary of State, UN Security Council, United Nations_

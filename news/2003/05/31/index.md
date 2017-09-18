@@ -7,7 +7,7 @@ _Context: 1996 Summer Olympics, Atlanta, Georgia, Centennial Olympic Park bombin
 _Context: Auschwitz, George W. Bush, Gerald Ford, President of the United States of America, death camp_
 
 ### [ The final flight of an Air France Concorde takes place, landing at Charles de Gaulle Airport. British Airways plans to retire its Concorde fleet at the end of October.](/news/2003/05/31/the-final-flight-of-an-air-france-concorde-takes-place-landing-at-charles-de-gaulle-airport-british-airways-plans-to-retire-its-concorde.md)
-_Context: Air France, British Airways, Charles de Gaulle Airport, Concorde_
+_Context: Air France, British Airways, Concorde, Paris Charles de Gaulle Airport_
 
 ### [ Peter MacKay is elected leader of the Progressive Conservative Party of Canada, replacing retiring leader Joe Clark.](/news/2003/05/31/peter-mackay-is-elected-leader-of-the-progressive-conservative-party-of-canada-replacing-retiring-leader-joe-clark.md)
 _Context: Joe Clark, Peter MacKay, Progressive Conservative Party of Canada_

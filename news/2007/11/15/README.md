@@ -10,7 +10,7 @@ _Context: Deutsche Bahn, Germany, passenger, strike, train driver_
 _Context: Third Committee, United Nations, United Nations General Assembly, capital punishment, moratorium, unenforceable resolution_
 
 ### [ The City of Westminster Magistrates' Court rules Egyptian-born Muslim cleric Abu Hamza al-Masri can be extradited from the United Kingdom to the United States, where he is accused of terrorism. ](/news/2007/11/15/the-city-of-westminster-magistrates-court-rules-egyptian-born-muslim-cleric-abu-hamza-al-masri-can-be-extradited-from-the-united-kingdom-t.md)
-_Context: Abu Hamza al-Masri, City of Westminster, Egypt's, Magistrates' Court, Muslim, United Kingdom, United States, extradited, terrorism_
+_Context: Abu Hamza al-Masri, City of Westminster, Egypt, Magistrates' Court, Muslim, United Kingdom, United States, extradited, terrorism_
 
 ### [ A New South Wales coroner concludes that a group of five journalists, known as the Balibo Five, were deliberately killed by Indonesian forces in 1975 in order to prevent them exposing Indonesia's 1975 invasion of East Timor. ](/news/2007/11/15/a-new-south-wales-coroner-concludes-that-a-group-of-five-journalists-known-as-the-balibo-five-were-deliberately-killed-by-indonesian-forc.md)
 _Context: Balibo Five, East Timor, Indonesia, New South Wales_
@@ -52,7 +52,7 @@ _Context: Gazeera, Rift Valley Fever, Sennar, Sudan, White Nile_
 _Context: Batumi, Georgian, Russia, Russian Army_
 
 ### [ President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. ](/news/2007/11/15/president-pervez-musharraf-appoints-muhammad-mian-soomro-chairman-of-the-senate-as-interim-prime-minister.md)
-_Context: Chairman, Muhammad Mian Soomro, Pervez Musharraf, Prime Minister of Pakistan, Senate, interim, president_
+_Context: Chairman, Muhammad Mian Soomro, Pervez Musharraf, Prime Minister, Senate, interim, president_
 
 ### [ President of the Palestinian National Authority Mahmoud Abbas states in a speech that "we have to bring down" Hamas. ](/news/2007/11/15/president-of-the-palestinian-national-authority-mahmoud-abbas-states-in-a-speech-that-we-have-to-bring-down-hamas.md)
 _Context: Hamas, Mahmoud Abbas, Palestinian Authority President, Palestinian National Authority_

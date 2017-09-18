@@ -7,7 +7,7 @@ _Context: Democratic Republic of the Congo, Fizi, Medecins Sans Frontieres, Sout
 At least 14 people have been killed in ethnic clashes in the western Ivory Coast city of Duekoue, a United Nations official said on Thursday declining to make a link with the presidential crisis in Abidjan.
 
 ### [Egyptian police increases security around Coptic churches on the eve of Coptic Christmas, following a bombing in Alexandria on New Year's Day that killed 23 people and sparked protests and riots across the country. ](/news/2011/01/6/egyptian-police-increases-security-around-coptic-churches-on-the-eve-of-coptic-christmas-following-a-bombing-in-alexandria-on-new-year-s-da.md)
-_Context: Alexandria, Copt, Coptic Christmas, Egypt's, New Year's Day, New Year's Day church bombing_
+_Context: Alexandria, Copt, Coptic Christmas, Egypt, New Year's Day, New Year's Day church bombing_
 
 ### [An abducted Hungarian civilian, who worked for the UN-African Union peacekeeping mission in Sudan's Darfur region, is released. ](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-the-un-african-union-peacekeeping-mission-in-sudan-s-darfur-region-is-released.md)
 _Context: Darfur, Hungary, Sudan, UNAMID, conflict_
@@ -55,7 +55,7 @@ Arrest report filed by Cambridge Police Dept, Cambridge, Mass. on January 13, 20
 _Context: Southern Sudanese Independence Referendum, geostationary satellites, observers_
 
 ### [Prime Minister of Pakistan Yousaf Raza Gillani cancels recent fuel price increases in an apparent concession to the opposition in an attempt to save his government from collapse after losing its majority in parliament. ](/news/2011/01/6/prime-minister-of-pakistan-yousaf-raza-gillani-cancels-recent-fuel-price-increases-in-an-apparent-concession-to-the-opposition-in-an-attempt.md)
-_Context: Parliament's, Prime Minister of Pakistan, Yousaf Raza Gillani_
+_Context: Parliament's, Prime Minister, Yousaf Raza Gillani_
 
 ### [Laurence Mackenzie resigns as chief executive of Northern Ireland Water in response to the organisation's handling of the recent water shortage in Northern Ireland. ](/news/2011/01/6/laurence-mackenzie-resigns-as-chief-executive-of-northern-ireland-water-in-response-to-the-organisation-s-handling-of-the-recent-water-short.md)
 Northern Ireland Water (NIW) has apologised to customers for its handling of the recent water shortage after being overwhelmed by more than one million contacts from customers

@@ -76,7 +76,7 @@ GlaxoSmithKline Plc has agreed to pay $750 million and plead guilty to manufactu
 * LimeWire told to disable software functionality * Music body says LimeWire enriched itself through piracy * Damages potentially &quot;stagger
 
 ### [Egypt arrests up to 70 members of the banned Muslim Brotherhood opposition group as it begins campaigning for the parliamentary election in November. ](/news/2010/10/26/egypt-arrests-up-to-70-members-of-the-banned-muslim-brotherhood-opposition-group-as-it-begins-campaigning-for-the-parliamentary-election-in.md)
-_Context: Egypt's, Egyptian parliamentary elections, Muslim Brotherhood_
+_Context: Egypt, Egyptian parliamentary elections, Muslim Brotherhood_
 
 ### [The Tibet Military Command of the Chinese People's Liberation Army (PLA) holds the first air-ground live ammunition drill in Tibet. ](/news/2010/10/26/the-tibet-military-command-of-the-chinese-people-s-liberation-army-pla-holds-the-first-air-ground-live-ammunition-drill-in-tibet.md)
 _Context: Chinese People's Liberation Army, Tibet, Tibet Military Command_

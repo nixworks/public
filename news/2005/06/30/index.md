@@ -52,7 +52,7 @@ _Context: Lewis, Western Isles Council, wind farm_
 _Context: Brazil, Centrais Eletricas Brasileiras SA, Luiz Incio Lula da Silva, anti-corruption_
 
 ### [ In Egypt, Ayman Ismail, co-defendant in the case of forged signatures with Ayman Nour, withdraws his guilty plea, stating that government security agents pressured him to do so.](/news/2005/06/30/in-egypt-ayman-ismail-co-defendant-in-the-case-of-forged-signatures-with-ayman-nour-withdraws-his-guilty-plea-stating-that-government-s.md)
-_Context: Ayman Ismail, Ayman Nour, Egypt's_
+_Context: Ayman Ismail, Ayman Nour, Egypt_
 
 ### [ In the United States President George W. Bush names U.S. Securities and Exchange Commission (SEC) member Cynthia A. Glassman as acting chair, replacing William Donaldson, who announced his retirement early this month, effective today.](/news/2005/06/30/in-the-united-states-president-george-w-bush-names-u-s-securities-and-exchange-commission-sec-member-cynthia-a-glassman-as-acting-chai.md)
 _Context: Cynthia A. Glassman, George W. Bush, Securities and Exchange Commission, William Donaldson_

@@ -16,7 +16,7 @@ _Context: France, commuter, pension, public transport_
 _Context: Ccilia, Nicolas Sarkozy_
 
 ### [ Former Prime Minister of Pakistan Benazir Bhutto returns to Pakistan after eight years of self-exile, with a crowd of a million expected in Karachi to welcome her back. ](/news/2007/10/18/former-prime-minister-of-pakistan-benazir-bhutto-returns-to-pakistan-after-eight-years-of-self-exile-with-a-crowd-of-a-million-expected-in.md)
-_Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister of Pakistan_
+_Context: Benazir Bhutto, Karachi, Pakistan, Prime Minister_
 
 ## [Previous Day...](/news/2007/10/17/index.md)
 

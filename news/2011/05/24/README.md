@@ -55,7 +55,7 @@ _Context: Malaysia, Muslim, Shi'ite_
 Somali authorities seized twoaircraft carrying $3.6 million in ransom payments for pirates onTuesday and detained six foreigners, government officials said.
 
 ### [Former Egyptian President Hosni Mubarak and his two sons are to be tried over the deaths of anti-government protesters. ](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.md)
-_Context: Egypt's, Hosni Mubarak_
+_Context: Egypt, Hosni Mubarak_
 
 ### [Human Rights Watch calls for the release of a Saudi woman detained for driving. ](/news/2011/05/24/human-rights-watch-calls-for-the-release-of-a-saudi-woman-detained-for-driving.md)
 _Context: Human Rights Watch, Saudi Arabia_

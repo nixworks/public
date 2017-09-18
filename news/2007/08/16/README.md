@@ -34,7 +34,7 @@ _Context: 2007 Atlantic hurricane season, Hurricane Dean, Lesser Antilles, Texas
 A powerful earthquake has devastated several Peruvian cities killing at least 337 people in toppled buildings and forcing the Government to declare a state of emergency.
 
 ### [ The Supreme Court of Pakistan hears a petition from the former Prime Minister Nawaz Sharif to be able to return to the country and contest elections. ](/news/2007/08/16/the-supreme-court-of-pakistan-hears-a-petition-from-the-former-prime-minister-nawaz-sharif-to-be-able-to-return-to-the-country-and-contest.md)
-_Context: Nawaz Sharif, Prime Minister of Pakistan, Supreme Court, election_
+_Context: Nawaz Sharif, Prime Minister, Supreme Court, election_
 
 ### [ United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-first-phase-of-op.md)
 U.S. forces launched an airborne assault on a desert compound south of Baghdad on Thursday, the first air strike in a major new offensive.

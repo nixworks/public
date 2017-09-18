@@ -40,7 +40,7 @@ _Context: Canada, Langley Regional Airport, Mission, British Columbia_
 Five people -- including a 4-month-old boy -- have died in Allentown&apos;s massive gas explosion and fire, authorities confirmed at a Thursday afternoon news conferece.
 
 ### [President of France Nicolas Sarkozy calls for an end to government ministers holidaying abroad after it emerges they went to countries such as Egypt and Tunisia while anti-regime protests were underway. The controversy has led to calls for resignations. ](/news/2011/02/9/president-of-france-nicolas-sarkozy-calls-for-an-end-to-government-ministers-holidaying-abroad-after-it-emerges-they-went-to-countries-such.md)
-_Context: Egypt's, Nicolas Sarkozy, President of France, Tunisia, anti-regime protests were underway_
+_Context: Egypt, Nicolas Sarkozy, President of France, Tunisia, anti-regime protests were underway_
 
 ### [South Korea agrees in principle to resume discussions with North Korea on humanitarian issues including reuniting families separated by the Korean War. ](/news/2011/02/9/south-korea-agrees-in-principle-to-resume-discussions-with-north-korea-on-humanitarian-issues-including-reuniting-families-separated-by-the.md)
 Military talks aimed at easing tensions between North and South Korea have broken down, officials in Seoul say.
@@ -68,7 +68,7 @@ _Context: Daniel Patrick Boyd, North Carolina, United States, terrorism_
 _Context: Basque language, Basque nationalists, ETA, Sortu_
 
 ### [The Cabinet of Pakistan submit their resignations to the prime minister, who intends to appoint a smaller cabinet in order to reduce government spending at a time of economic crisis. ](/news/2011/02/9/the-cabinet-of-pakistan-submit-their-resignations-to-the-prime-minister-who-intends-to-appoint-a-smaller-cabinet-in-order-to-reduce-governm.md)
-_Context: Cabinet of Pakistan, Prime Minister of Pakistan, economic crisis, forming a government_
+_Context: Cabinet of Pakistan, Prime Minister, economic crisis, forming a government_
 
 ### [US Representative Chris Lee representing New York's 26th congressional district resigns after it is revealed that he sent a racy photo to a woman who was not his wife. ](/news/2011/02/9/us-representative-chris-lee-representing-new-york-s-26th-congressional-district-resigns-after-it-is-revealed-that-he-sent-a-racy-photo-to-a.md)
 _Context: 26th congressional district, Chris Lee, United States House of Representatives_

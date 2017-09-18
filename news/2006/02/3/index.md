@@ -28,7 +28,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 Defense Secretary Donald H. Rumsfeld likened Venezuelan President Hugo Chavez to Adolf Hitler, reflecting ongoing tension in relations between the United States and the Latin American government.
 
 ### [ The M/V al-Salam Boccaccio 98, a ferry carrying 1272 passengers and 105 crew, sinks in poor weather in the Red Sea while travelling between Saudi Arabia and Egypt. 314 people have been rescued so far. [http://news.bbc.co.uk/2/hi/middle_east/4676916.stm (BBC)] (Wikinews)](/news/2006/02/3/the-m-v-al-salam-boccaccio-98-a-ferry-carrying-1272-passengers-and-105-crew-sinks-in-poor-weather-in-the-red-sea-while-travelling-between.md)
-_Context: (Wikinews), Egypt's, M/V al-Salam Boccaccio 98, Red Sea, Saudi Arabia_
+_Context: (Wikinews), Egypt, M/V al-Salam Boccaccio 98, Red Sea, Saudi Arabia_
 
 ### [ Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. ](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.md)
 _Context: Afghanistan, Boris Dittrich, Democrats 66, International Security Assistance Force, NATO_

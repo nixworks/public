@@ -13,7 +13,7 @@ _Context: Bangladesh, ferry disaster_
 Entertainer Rolf Harri is stripped of his Order of Australia honours, after being jailed for child sex offences.
 
 ### [Egyptian political activist Alaa Abdel Fatah is sentenced to five years in jail for violating a rule against organising political protests without permission. ](/news/2015/02/23/egyptian-political-activist-alaa-abdel-fatah-is-sentenced-to-five-years-in-jail-for-violating-a-rule-against-organising-political-protests-w.md)
-_Context: Alaa Abdel Fatah, Egypt's_
+_Context: Alaa Abdel Fatah, Egypt_
 
 ### [The High Court of Kenya throws out key aspects of an anti-terrorism law following a legal challenge from the Opposition. ](/news/2015/02/23/the-high-court-of-kenya-throws-out-key-aspects-of-an-anti-terrorism-law-following-a-legal-challenge-from-the-opposition.md)
 _Context: High Court of Kenya, terrorism_

@@ -25,7 +25,7 @@ _Context: Archbishop, Pius Ncube, Robert Mugabe, Zimbabwe_
 _Context: Mikhail Khodorkovsky, Platon Lebedev, Russia, Yukos, fraud, prosecutor, shareholder, tax evasion, tycoon_
 
 ### [ Thousands of Egyptians attend the funeral of actor Ahmad Zaki. ](/news/2005/03/28/thousands-of-egyptians-attend-the-funeral-of-actor-ahmad-zaki.md)
-_Context: Ahmad Zaki, Egypt's, actor, funeral_
+_Context: Ahmad Zaki, Egypt, actor, funeral_
 
 ## [Previous Day...](/news/2005/03/27/index.md)
 

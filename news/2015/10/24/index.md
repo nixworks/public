@@ -19,7 +19,7 @@ At least 40 people were killed, including several fishermen, when Saudi-led coal
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 ### [Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. ](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.md)
-_Context: Egypt's, Eiffel Tower, Empire State Building, New York City, Paris, Pyramid, United Nations, countries, landmark_
+_Context: Egypt, Eiffel Tower, Empire State Building, New York City, Paris, Pyramid, United Nations, countries, landmark_
 
 ### [The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. ](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.md)
 _Context: Catholic Church, Pope Francis, Vatican, synod on the family_

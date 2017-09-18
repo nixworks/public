@@ -13,7 +13,7 @@ Jerusalem schools to close at noon ahead of expected flurries.
 _Context: Geneva, Iran, nuclear program, several world powers_
 
 ### [Qatar withdraws its ambassador from Egypt following disagreement over Egyptian Air Force strikes against Islamic State targets in Libya after the execution of 21 Coptic Christian hostages by Islamic State. ](/news/2015/02/19/qatar-withdraws-its-ambassador-from-egypt-following-disagreement-over-egyptian-air-force-strikes-against-islamic-state-targets-in-libya-afte.md)
-_Context: Egypt's, Egyptian Air Force, ISIL, Libya, Qatar, execution of 21 Coptic Christian_
+_Context: Egypt, Egyptian Air Force, ISIL, Libya, Qatar, execution of 21 Coptic Christian_
 
 ### [2 people are dead and 7 others infected at the Ronald Reagan UCLA Medical Center, in Los Angeles County, California, after contracting a super-resistant bacterial infection of Carbapenem-resistant Enterobacteriaceae (CRE). 179 other people may have been exposed to the bacteria as well. ](/news/2015/02/19/2-people-are-dead-and-7-others-infected-at-the-ronald-reagan-ucla-medical-center-in-los-angeles-county-california-after-contracting-a-sup.md)
 _Context: Carbapenem-resistant enterobacteriaceae, Los Angeles County, California, Ronald Reagan UCLA Medical Center_

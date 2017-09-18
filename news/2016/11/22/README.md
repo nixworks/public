@@ -16,7 +16,7 @@ _Context: 2016 Atlantic hurricane season, Bluefields, Hurricane Otto, Nicaragua,
 The migrant corpses and survivors were transferred to rescue vessels from at least 11 overcrowded boats off the Libyan coast amid calm seas.
 
 ### [Former Egyptian Interior Minister Habib el-Adly is placed under house arrest on embezzlement charges. ](/news/2016/11/22/former-egyptian-interior-minister-habib-el-adly-is-placed-under-house-arrest-on-embezzlement-charges.md)
-_Context: Egypt's, Habib el-Adly, embezzlement_
+_Context: Egypt, Habib el-Adly, embezzlement_
 
 ### [Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clinton-for-possible-crimes-relat.md)
 _Context: Hillary Clinton, Kellyanne Conway, Presidency of Donald Trump, email server_

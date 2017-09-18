@@ -13,7 +13,7 @@ _Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire_
 _Context: President, Uganda, Yoweri Museveni, elections_
 
 ### [Clashes between Christian Copt and Muslims in the Egyptian capital Cairo kill 13 people and injure 140. ](/news/2011/03/9/clashes-between-christian-copt-and-muslims-in-the-egyptian-capital-cairo-kill-13-people-and-injure-140.md)
-_Context: Cairo, Christian, Copt, Egypt's, Muslim_
+_Context: Cairo, Christian, Copt, Egypt, Muslim_
 
 ### [According to the United Nations, Afghan civilian deaths increased by 15% in 2010, to 2777. ](/news/2011/03/9/according-to-the-united-nations-afghan-civilian-deaths-increased-by-15-in-2010-to-2777.md)
 _Context: United Nations, War in Afghanistan (2001-present)_

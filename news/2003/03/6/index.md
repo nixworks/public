@@ -10,7 +10,7 @@ _Context: Cuba, Fidel Castro, head of government_
 _Context: Big Rip, end of the Universe_
 
 ### [ The SCO Group, formerly Caldera, the current owner of the rights to the Unix operating system, sues IBM for $1 billion for "devaluing" Unix, claiming that IBM employees who signed Non-disclosure agreements worked on the Linux operating system.](/news/2003/03/6/the-sco-group-formerly-caldera-the-current-owner-of-the-rights-to-the-unix-operating-system-sues-ibm-for-1-billion-for-devaluing-unix.md)
-_Context: IBM, Linux, Non-disclosure agreement, The SCO Group, Unix_
+_Context: International Business Machines, Linux, Non-disclosure agreement, The SCO Group, Unix_
 
 ### [ The European Central Bank cut its reference rate by 0.25%](/news/2003/03/6/the-european-central-bank-cut-its-reference-rate-by-0-25.md)
 _Context: European Central Bank_

@@ -4,7 +4,7 @@
 _Context: Hutton Inquiry, form of government_
 
 ### [ Natural disaster: Wildfires sweep into the southern suburbs of Kelowna, British Columbia, Canada, destroying more than 200 homes. One-third of the city's population, or 30,000 people, have been evacuated.](/news/2003/08/23/natural-disaster-wildfires-sweep-into-the-southern-suburbs-of-kelowna-british-columbia-canada-destroying-more-than-200-homes-one-third.md)
-_Context: Kelowna, British Columbia, Wildfire, natural disaster_
+_Context: Kelowna, Wildfire, natural disaster_
 
 ### [ Israeli-Palestinian conflict: Palestinian leaders state they will try to negotiate a new ceasefire by extremist groups and urge Israel to stop their action against top militants.](/news/2003/08/23/israeli-palestinian-conflict-palestinian-leaders-state-they-will-try-to-negotiate-a-new-ceasefire-by-extremist-groups-and-urge-israel-to-s.md)
 _Context: Israel, Israeli-Palestinian conflict, Palestinian, extremist group_

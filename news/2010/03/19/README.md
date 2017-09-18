@@ -31,7 +31,7 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 _Context: Ethiopia, Meles Zenawi, Prime Minister, Voice of America, genocide_
 
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: Egypt's, Egyptian President, Germany, Hosni Mubarak, mosque_
+_Context: Egypt, Egyptian President, Germany, Hosni Mubarak, mosque_
 
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
 BERLIN - Switzerland has halted all repatriation flights for rejected asylum seekers after a Nigerian man on hunger strike died in police shackles at Zurich airport as he was being - New Zealand Herald

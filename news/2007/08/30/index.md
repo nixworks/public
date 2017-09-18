@@ -10,7 +10,7 @@ _Context: Mali, land mine_
 The families of South Korean hostages released overnight in Afghanistan have apologised to the country for the trouble caused.
 
 ### [ Nawaz Sharif, former Prime Minister of Pakistan, states that he will return to Pakistan from exile after winning a case in the Supreme Court of Pakistan. ](/news/2007/08/30/nawaz-sharif-former-prime-minister-of-pakistan-states-that-he-will-return-to-pakistan-from-exile-after-winning-a-case-in-the-supreme-cour.md)
-_Context: Exile, Nawaz Sharif, Pakistan, Prime Minister of Pakistan, Supreme Court_
+_Context: Exile, Nawaz Sharif, Pakistan, Prime Minister, Supreme Court_
 
 ### [ An Iowa district court rules that same-sex couples can marry based on the Iowa constitution guarantee of equal protection. ](/news/2007/08/30/an-iowa-district-court-rules-that-same-sex-couples-can-marry-based-on-the-iowa-constitution-guarantee-of-equal-protection.md)
 _Context: Iowa, constitution, district court, equal protection, same sex couple_

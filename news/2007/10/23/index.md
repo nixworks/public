@@ -13,7 +13,7 @@ _Context: Discovery, Florida, Harmony module, International Space Station, Kenne
 _Context: Kyrgyzstan, President, President, constitutional changes in a referendum_
 
 ### [ Pakistani Prime Minister Shaukat Aziz rejects a demand for a probe by foreign experts in recent Karachi suicide bombings.date=December 2007 ](/news/2007/10/23/pakistani-prime-minister-shaukat-aziz-rejects-a-demand-for-a-probe-by-foreign-experts-in-recent-karachi-suicide-bombings-date-december-2007.md)
-_Context: Karachi, Pakistan, Prime Minister of Pakistan, Shaukat Aziz, suicide bombings_
+_Context: Karachi, Pakistan, Prime Minister, Shaukat Aziz, suicide bombings_
 
 ### [ The European Court of Justice rules against Germany's "Volkswagen Law", paving the way for Porsche to take over Volkswagen. ](/news/2007/10/23/the-european-court-of-justice-rules-against-germany-s-volkswagen-law-paving-the-way-for-porsche-to-take-over-volkswagen.md)
 _Context: European Court of Justice, Germany, Porsche, Volkswagen, Volkswagen Law_

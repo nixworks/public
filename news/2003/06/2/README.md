@@ -1,7 +1,7 @@
 ## [2003-06-2](/news/2003/06/2/index.md)
 
 ### [ President George W. Bush begins his Middle East trip today, beginning with Egypt. He is in talks with Israeli and Palestinian leaders. He promises to work for the goal of Israel and a Palestinian state being able to live side by side without any bloodshed.](/news/2003/06/2/president-george-w-bush-begins-his-middle-east-trip-today-beginning-with-egypt-he-is-in-talks-with-israeli-and-palestinian-leaders-he-p.md)
-_Context: Egypt's, George W. Bush, Israel, Palestinian_
+_Context: Egypt, George W. Bush, Israel, Palestinian_
 
 ### [ Thousands of Iraqi soldiers threaten to begin suicide attacks against U.S. troops as leaders of Iraq's tribes tell the Americans that they could face war if they do not leave.](/news/2003/06/2/thousands-of-iraqi-soldiers-threaten-to-begin-suicide-attacks-against-u-s-troops-as-leaders-of-iraq-s-tribes-tell-the-americans-that-they.md)
 _Context: Iraq, suicide bombings_

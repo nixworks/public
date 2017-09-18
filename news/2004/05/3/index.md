@@ -4,7 +4,7 @@
 _Context: National Science Foundation, New York Times_
 
 ### [ An Egyptian court rejects the petition of an Egyptian movie producer seeking to establish an Egyptian-Israeli friendship organization stating: "Egyptian society does not need a friendship association with Israel. The Egyptian public and Arabs do not need such false friendships, as demonstrated by the attacks on the Palestinian people." ](/news/2004/05/3/an-egyptian-court-rejects-the-petition-of-an-egyptian-movie-producer-seeking-to-establish-an-egyptian-israeli-friendship-organization-stati.md)
-_Context: Egypt's, Israel_
+_Context: Egypt, Israel_
 
 ### [ French police seek 500 kg (1,100&nbsp;lb) of ammonium nitrate fertilizer stolen from the port of Honfleur at the mouth of the Seine River. The fertilizer can be converted easily into a powerful explosive. Such an explosive was used in the 1995 Oklahoma City bombing. AZF suspended operations inside France while the group seeks to upgrade its arsenal. ](/news/2004/05/3/french-police-seek-500-kg-1-100-nbsp-lb-of-ammonium-nitrate-fertilizer-stolen-from-the-port-of-honfleur-at-the-mouth-of-the-seine-river.md)
 French police are scrambling to locate 1,100 pounds of fertilizer that could be used to make a powerful bomb after the material was discovered missing on Monday.

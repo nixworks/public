@@ -34,7 +34,7 @@ A man who wore a T-shirt with offensive comments referring to the killing of two
 _Context: Mo Yan, Nobel Prize in Literature, hallucinatory realism_
 
 ### [Egypt's President Mohammed Mursi fires general prosecutor Abdel Maguid Mahmoud. ](/news/2012/10/11/egypt-s-president-mohammed-mursi-fires-general-prosecutor-abdel-maguid-mahmoud.md)
-_Context: Egypt's, Mohammed Mursi_
+_Context: Egypt, Mohammed Mursi_
 
 ## [Previous Day...](/news/2012/10/10/index.md)
 

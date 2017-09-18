@@ -58,7 +58,7 @@ The man known as the father of the so-called &#034;Great Firewall of China&#034;
 _Context: France, Islam Karimov, Uzbekistan, dictator_
 
 ### [Authorities in Egypt suspend the prison sentences of 120 protesters who participated in the 2011 Egyptian revolution. ](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.md)
-_Context: 2011 Egyptian revolution, Egypt's_
+_Context: 2011 Egyptian revolution, Egypt_
 
 ### [The former boss of the Royal Bank of Scotland, Sir Fred Goodwin, is named as allegedly having had an affair with a colleague after the High Court of England and Wales lifts an injunction. ](/news/2011/05/19/the-former-boss-of-the-royal-bank-of-scotland-sir-fred-goodwin-is-named-as-allegedly-having-had-an-affair-with-a-colleague-after-the-high.md)
 An order granting anonymity to ex-Royal Bank of Scotland boss Sir Fred Goodwin has been lifted at the High Court.

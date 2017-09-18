@@ -7,7 +7,7 @@ _Context: Hajj, Mecca, Saudi Arabia_
 _Context: Exercise Northstar&nbsp;V, Mass Rapid Transit, Singapore, Toa Payoh Bus Interchange, counter-terrorism, governmental organizations_
 
 ### [ A strong earthquake measuring 6.7 on the moment magnitude scale hits Greece at 13:34. The earthquake's epicentre was in the sea region 25&nbsp;km east of the island of Kythira, about 200&nbsp;km south of Athens. Although it was felt as far as Sicily, south Italy, Egypt, and Amman in Jordan, it was not disastrous due to its deep hypocentre and the sea-bed epicentre. Little damage (mainly in Kythira) and few light injuries are reported. ](/news/2006/01/8/a-strong-earthquake-measuring-6-7-on-the-moment-magnitude-scale-hits-greece-at-13-34-the-earthquake-s-epicentre-was-in-the-sea-region-25-n.md)
-_Context: Amman, Athens, Egypt's, Greek, Jordan, Kythira, Sicily, earthquake, epicentre, hypocentre, magnitude_
+_Context: Amman, Athens, Egypt, Greek, Jordan, Kythira, Sicily, earthquake, epicentre, hypocentre, magnitude_
 
 ## [Previous Day...](/news/2006/01/7/index.md)
 

@@ -52,7 +52,7 @@ Two political activists involved in the 2009 post-presidential election protest 
 _Context: Kim Jong-il, Kim Jong-un, North Korea, North Korea - South Korea relations, South Korea, executed in front of 500 spectators_
 
 ### [Egypt's general prosecutor bans media reporting of the investigation into a deadly New Year's Day church bombing, saying any revelations could hinder the work of investigators, a day after Egypt's government accused a Palestinian militant group, the Army of Islam, of carrying out the bombing with the help of a local accomplice. ](/news/2011/01/24/egypt-s-general-prosecutor-bans-media-reporting-of-the-investigation-into-a-deadly-new-year-s-day-church-bombing-saying-any-revelations-cou.md)
-_Context: Army of Islam, Egypt's, Human rights in Egypt, New Year's Day church bombing, Palestinian_
+_Context: Army of Islam, Egypt, Human rights in Egypt, New Year's Day church bombing, Palestinian_
 
 ### [Three Indonesian soldiers captured on video torturing two men from West Papua are jailed; human rights groups criticize the sentences of 10 months in jail for "disobeying orders" handed out to the low-ranking soldiers, saying the military was reluctant to abide by human rights principles. ](/news/2011/01/24/three-indonesian-soldiers-captured-on-video-torturing-two-men-from-west-papua-are-jailed-human-rights-groups-criticize-the-sentences-of-10.md)
 Human rights groups havecriticised sentences handed out on Monday to three low-rankingIndonesian soldiers whose alleged torture of indigenous Papuanscaused a sensation on Youtube.

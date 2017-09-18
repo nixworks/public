@@ -19,7 +19,7 @@ _Context: United States, Virginia Tech, shooting spree_
 _Context: Baghdad, series of bombings_
 
 ### [ At least 16 secondary school students die in Egypt's Al Jizah governorate as the truck they were traveling to school on collides with another vehicle. ](/news/2007/04/18/at-least-16-secondary-school-students-die-in-egypt-s-al-jizah-governorate-as-the-truck-they-were-traveling-to-school-on-collides-with-anoth.md)
-_Context: Al Jizah, Egypt's, governorates, secondary school, truck_
+_Context: Al Jizah, Egypt, governorates, secondary school, truck_
 
 ### [ Three workers at a publishing house in Turkey that prints Bibles are murdered in ongoing sectarian violence. ](/news/2007/04/18/three-workers-at-a-publishing-house-in-turkey-that-prints-bibles-are-murdered-in-ongoing-sectarian-violence.md)
 _Context: Bible, Turkey, sectarian_

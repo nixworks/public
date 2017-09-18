@@ -1,0 +1,19 @@
+### [2003-09-14](/news/2003/09/14/index.md)
+
+#  Some of the severe wildfires in British Columbia have been contained, including the one threatening Kelowna. The one near Kamloops is still threatening structures. This has been the worst wildfire season in BC in fifty years.<ref name="cbc.ca1"/>
+
+
+
+
+### Related:
+
+1. [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md) _Context: British Columbia, Wildfire_
+2. [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md) _Context: British Columbia, Wildfire_
+3. [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _Context: British Columbia, Wildfire_
+4. [ Natural disaster: Wildfires sweep into the southern suburbs of Kelowna, British Columbia, Canada, destroying more than 200 homes. One-third of the city's population, or 30,000 people, have been evacuated.](/news/2003/08/23/natural-disaster-wildfires-sweep-into-the-southern-suburbs-of-kelowna-british-columbia-canada-destroying-more-than-200-homes-one-third.md) _Context: Kelowna, Wildfire_
+5. [ Natural disaster: Wildfire forces around 10,000 people from their homes in Kelowna, British Columbia. This is Western Canada's worst fire season in decades.](/news/2003/08/22/natural-disaster-wildfire-forces-around-10-000-people-from-their-homes-in-kelowna-british-columbia-this-is-western-canada-s-worst-fire-s.md) _Context: Kelowna, Wildfire_
+6. [American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada, while filming for "Deadpool 2". ](/news/2017/08/14/american-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for-deadpool-2.md) _Context: British Columbia_
+7. [Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-armed-forces-person.md) _Context: Wildfire_
+8. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: Wildfire_
+9. [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md) _Context: British Columbia_
+10. [ Artifacts from Triquet Island, south-west of Hunter Island in British Columbia, are found to date back 14,000 years, marking the discovery of the oldest village in North America. ](/news/2017/04/7/artifacts-from-triquet-island-south-west-of-hunter-island-in-british-columbia-are-found-to-date-back-14-000-years-marking-the-discovery.md) _Context: British Columbia_

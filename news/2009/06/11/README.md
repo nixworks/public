@@ -43,7 +43,7 @@ _Context: Australia, India, Kumari Selja, attacks on Indian students_
 _Context: Conrad Black, Florida, House of Lords, U.S. Supreme Court_
 
 ### [ Egyptian Culture Minister Farouk Hosni announces that the ministry will publish Arabic translations of novels by Israeli writers Amos Oz and David Grossman. ](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.md)
-_Context: Amos Oz, Arabic, David Grossman, Egypt's, Farouk Hosni, Israel_
+_Context: Amos Oz, Arabic, David Grossman, Egypt, Farouk Hosni, Israel_
 
 ### [ Xu Zongheng, the mayor of Shenzhen, southern China, is dismissed for "disciplinary offences" after being questioned on corruption allegations. ](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.md)
 _Context: China, Shenzhen, Xu Zongheng_

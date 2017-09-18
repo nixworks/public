@@ -7,7 +7,7 @@ Ethiopian forces have killed 123 separatist rebels in the eastern region of the 
 _Context: North Waziristan, Pakistan, United States, drones launch_
 
 ### [Hamas militants fire two Qassam rockets and mortar rounds into Israel from the Gaza Strip. Israeli aircraft then bombed a smuggling tunnel under the Gaza Strip's border with Egypt.](/news/2010/09/15/hamas-militants-fire-two-qassam-rockets-and-mortar-rounds-into-israel-from-the-gaza-strip-israeli-aircraft-then-bombed-a-smuggling-tunnel-u.md)
-_Context: Egypt's, Gaza Strip, Hamas, Israel, Qassam rocket, mortar_
+_Context: Egypt, Gaza Strip, Hamas, Israel, Qassam rocket, mortar_
 
 ### [The Real Irish Republican Army threatens to resume attacks on Mainland Britain including banks. ](/news/2010/09/15/the-real-irish-republican-army-threatens-to-resume-attacks-on-mainland-britain-including-banks.md)
 Dissident Northern Ireland republican group warns it will step up campaign of violence with bankers seen as new target.

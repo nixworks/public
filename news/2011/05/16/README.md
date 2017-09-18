@@ -4,7 +4,7 @@
 TTP spokesman denies carrying out attack, Saudi condemns &#039;criminal&#039; attack on diplomat.
 
 ### [The Israeli Navy fires warning shots at a Malaysian ship travelling to the Gaza Strip, forcing it to return to Egypt. ](/news/2011/05/16/the-israeli-navy-fires-warning-shots-at-a-malaysian-ship-travelling-to-the-gaza-strip-forcing-it-to-return-to-egypt.md)
-_Context: Egypt's, Gaza Strip, Israeli Navy, Malaysia_
+_Context: Egypt, Gaza Strip, Israeli Navy, Malaysia_
 
 ### [A Syrian activist claims that a mass grave has been found in the town of Deraa, the town at the centre of the 2011 Syrian uprising. ](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.md)
 _Context: 2011 Syrian uprising, Deraa, Syria_
@@ -58,7 +58,7 @@ _Context: Dominique Strauss-Kahn, International Monetary Fund, New York City_
 _Context: American mafia, New York City, Vincent Basciano_
 
 ### [Suzanne Mubarak, the former First Lady of Egypt, offers to hand over $3 million to prosecutors, claiming that this is all she has. ](/news/2011/05/16/suzanne-mubarak-the-former-first-lady-of-egypt-offers-to-hand-over-3-million-to-prosecutors-claiming-that-this-is-all-she-has.md)
-_Context: Egypt's, First Lady, Suzanne Mubarak_
+_Context: Egypt, First Lady, Suzanne Mubarak_
 
 ### [Ahmed Haroun, wanted by the International Criminal Court on charges of war crimes, is re-elected governor of the state of South Kordofan in Sudan. ](/news/2011/05/16/ahmed-haroun-wanted-by-the-international-criminal-court-on-charges-of-war-crimes-is-re-elected-governor-of-the-state-of-south-kordofan-in.md)
 Ahmed Haroun, who is facing ICC charges of murder and rape in Darfur, re-elected governor of South Kordofan state.

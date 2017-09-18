@@ -43,7 +43,7 @@ UN says up to 150 bodies found off the Tunisian coast a day after a boat reporte
 _Context: Agent Orange, Camp Carroll, Daegu, South Korea, U.S. soldiers, United States_
 
 ### [WikiLeaks releases secret documents on Egypt's nuclear power plant. [http://www.almasryalyoum.com/en/node/460603 "(Al-Masry Al-Youm)"]](/news/2011/06/2/wikileaks-releases-secret-documents-on-egypt-s-nuclear-power-plant-http-www-almasryalyoum-com-en-node-460603-al-masry-al-youm.md)
-_Context: Egypt's, WikiLeaks, nuclear power plants_
+_Context: Egypt, WikiLeaks, nuclear power plants_
 
 ### [Five people are killed and one person injured in a multiple shooting at Yuma County, Arizona. ](/news/2011/06/2/five-people-are-killed-and-one-person-injured-in-a-multiple-shooting-at-yuma-county-arizona.md)
 _Context: Arizona, Yuma County_

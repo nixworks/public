@@ -25,7 +25,7 @@ _Context: Australia, Kuala Lumpur, Malaysia, asylum seeker_
 Norwegian police revised down the death toll from Friday&#039;s bomb and shooting attack to 76 people from a previous estimate of 93, citing difficulties in gathering information at Utoeya island, where the shooting spree occurred.
 
 ### [An Egyptian court decides to try former President of Egypt Hosni Mubarak and Interior Minister Habib al-Adly together on charges relating to the death of protesters in the 2011 Egyptian revolution. ](/news/2011/07/25/an-egyptian-court-decides-to-try-former-president-of-egypt-hosni-mubarak-and-interior-minister-habib-al-adly-together-on-charges-relating-to.md)
-_Context: 2011 Egyptian revolution, Egypt's, Egyptian President, Habib al-Adly, Hosni Mubarak_
+_Context: 2011 Egyptian revolution, Egypt, Egyptian President, Habib al-Adly, Hosni Mubarak_
 
 ### [The President of the United States Barack Obama cancels fundraising dinners due to the ongoing debt crisis. ](/news/2011/07/25/the-president-of-the-united-states-barack-obama-cancels-fundraising-dinners-due-to-the-ongoing-debt-crisis.md)
 President Obama and House Speaker John A. Boehner escalated their battle over the national debt on Monday, pressing their arguments in a pair of prime-time television addresses as Congress remained at a loss over how to keep the United States from defaulting next week for the first time.

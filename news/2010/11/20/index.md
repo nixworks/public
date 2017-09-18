@@ -13,7 +13,7 @@ _Context: Armenia, Junior Eurovision Song Contest 2010, Vladimir Arzumanyan_
 The Vatican says it is preparing guidelines on how to prevent clerical sex abuse, as the Pope holds a rare meeting with about 150 cardinals from around the world.
 
 ### [Nine people, including Russians and Ukrainians, die in a bus accident in Egypt. ](/news/2010/11/20/nine-people-including-russians-and-ukrainians-die-in-a-bus-accident-in-egypt.md)
-_Context: Egypt's, Russian, Ukrainian_
+_Context: Egypt, Russian, Ukrainian_
 
 ### [ Doctors without Borders criticizes the response to the 2010 Haiti cholera outbreak as inadequate. ](/news/2010/11/20/doctors-without-borders-criticizes-the-response-to-the-2010-haiti-cholera-outbreak-as-inadequate.md)
 The response to the cholera outbreak in Haiti which has killed nearly 1,200 people is failing to meet the needs of the population, warns MSF.

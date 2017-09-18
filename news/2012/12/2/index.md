@@ -22,7 +22,7 @@ _Context: China, Heilongjiang province, coal mine, miner_
 _Context: Philippines, Typhoon Bopha, landfall_
 
 ### [Egypt's Supreme Constitutional Court defers a ruling on whether the Constituent Assembly is legal following pressure from supporters of President Mohamed Morsi. ](/news/2012/12/2/egypt-s-supreme-constitutional-court-defers-a-ruling-on-whether-the-constituent-assembly-is-legal-following-pressure-from-supporters-of-pres.md)
-_Context: Constituent Assembly of Egypt, Egypt's, Egyptian President, Mohamed Morsi, Supreme Constitutional Court_
+_Context: Constituent Assembly of Egypt, Egypt, Egyptian President, Mohamed Morsi, Supreme Constitutional Court_
 
 ### [Israel Keyes, a 34-year-old man suspected of killing Samantha Koenig and possibly as many as 7 others throughout the U.S., apparently kills himself while in custody. ](/news/2012/12/2/israel-keyes-a-34-year-old-man-suspected-of-killing-samantha-koenig-and-possibly-as-many-as-7-others-throughout-the-u-s-apparently-kills.md)
 Israel Keyes was found dead in his cell; authorities say he may be linked to seven other possible slayings but full extent of his crimes may go unknown

@@ -4,7 +4,7 @@
 Libyan interim government forces say they have captured a key bastion of Gaddafi loyalists in Sirte as street fighting continues in the city.
 
 ### [At least 25 people are killed and many more injured after protesters and security forces clash in the Egyptian capital of Cairo, during a protest in response to an attack on a Coptic church. ](/news/2011/10/9/at-least-25-people-are-killed-and-many-more-injured-after-protesters-and-security-forces-clash-in-the-egyptian-capital-of-cairo-during-a-pr.md)
-_Context: Cairo, Coptic Orthodox Church, Egypt's, clash_
+_Context: Cairo, Coptic Orthodox Church, Egypt, clash_
 
 ### [Former Beatle Sir Paul McCartney marries American heiress Nancy Shevell at a ceremony in London. ](/news/2011/10/9/former-beatle-sir-paul-mccartney-marries-american-heiress-nancy-shevell-at-a-ceremony-in-london.md)
 Sir Paul McCartney marries American heiress Nancy Shevell in London, at the same venue he married his first wife Linda.

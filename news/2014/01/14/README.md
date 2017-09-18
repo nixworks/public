@@ -13,7 +13,7 @@ Moscow authorities ban writer from the country in first expulsion of US journali
 A 12-year-old boy armed with a shotgun opened fire at a middle school in New Mexico on Tuesday, seriously wounding two students before a staff member persuaded him to put down the firearm, authorities said.
 
 ### [Voters in Egypt go to the polls for the first day of voting on a new constitution.](/news/2014/01/14/voters-in-egypt-go-to-the-polls-for-the-first-day-of-voting-on-a-new-constitution.md)
-_Context: Egypt's, Egyptian constitutional referendum, 2014_
+_Context: Egypt, Egyptian constitutional referendum, 2014_
 
 ### [Former Prime Minister of Israel, Ariel Sharon, is buried on his ranch in southern Israel following a state funeral at the Knesset attended by foreign dignitaries and Israelis. ](/news/2014/01/14/former-prime-minister-of-israel-ariel-sharon-is-buried-on-his-ranch-in-southern-israel-following-a-state-funeral-at-the-knesset-attended-b.md)
 Knesset speeches highlighted late general&#8217;s military successes against Egyptian forces in 1973 war; as PM, Sharon got on well with Sadat, Mubarak

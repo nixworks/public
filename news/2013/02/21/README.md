@@ -31,7 +31,7 @@ _Context: Drew Peterson, Illinois, US$, incarceration, police sergeant_
 _Context: Japan, Kaoru Kobayashi, Masahiro Kanagawa, death-row inmates, hanging_
 
 ### [An adviser to the President of Egypt Mohamed Morsi claims that parliamentary elections will commence in late April 2013. ](/news/2013/02/21/an-adviser-to-the-president-of-egypt-mohamed-morsi-claims-that-parliamentary-elections-will-commence-in-late-april-2013.md)
-_Context: Egypt's, Egyptian President, Egyptian parliament, Mohamed Morsi, the upcoming parliamentary election_
+_Context: Egypt, Egyptian President, Egyptian parliament, Mohamed Morsi, the upcoming parliamentary election_
 
 ### [The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaelogical excavation in Luxor, Egypt. ](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-pharaoh-ramses-ii-is-found-in-an-archaelogical-excavation-in-luxor-egypt.md)
 A pyramid that dates back more than 3000 years and was built for an adviser to King Ramses II has been discovered in Luxor.

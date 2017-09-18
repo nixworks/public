@@ -7,7 +7,7 @@ _Context: Chechen War, Chechnya, Moscow theatre siege_
 _Context: Israel, Israeli-Palestinian conflict, Jenin, Palestinian, suicide bombing_
 
 ### [ IBM announces that its Blue Gene petaflop supercomputer architecture will use the Linux operating system.](/news/2002/10/25/ibm-announces-that-its-blue-gene-petaflop-supercomputer-architecture-will-use-the-linux-operating-system.md)
-_Context: Blue Gene, IBM, Linux, architecture, petaflop, supercomputer_
+_Context: Blue Gene, International Business Machines, Linux, architecture, petaflop, supercomputer_
 
 ### [ Kenyan President Daniel arap Moi dissolved the country's Parliament, officially starting the campaign for one of the African Great Lakes country's most competitive general elections and closing his tenure as one of Africa's longest ruling leaders. ](/news/2002/10/25/kenyan-president-daniel-arap-moi-dissolved-the-country-s-parliament-officially-starting-the-campaign-for-one-of-the-african-great-lakes-co.md)
 _Context: African Great Lakes, Daniel arap Moi, Kenya_

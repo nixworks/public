@@ -1,7 +1,7 @@
 ## [2003-06-12](/news/2003/06/12/index.md)
 
 ### [ Zahi Hawass, head of Egypt's Supreme Council for Antiquities, dismisses claim that archaeologists discovered Nefertiti's mummy.](/news/2003/06/12/zahi-hawass-head-of-egypt-s-supreme-council-for-antiquities-dismisses-claim-that-archaeologists-discovered-nefertiti-s-mummy.md)
-_Context: Archaeologist, Egypt's, Nefertiti, Zahi Hawass_
+_Context: Archaeologist, Egypt, Nefertiti, Zahi Hawass_
 
 ### [ The Centers for Disease Control and Prevention (CDC) says 54 people in the US may be infected with monkeypox.](/news/2003/06/12/the-centers-for-disease-control-and-prevention-cdc-says-54-people-in-the-us-may-be-infected-with-monkeypox.md)
 _Context: Centers for Disease Control and Prevention, monkeypox_

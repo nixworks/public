@@ -49,7 +49,7 @@ _Context: California, San Francisco County Superior Court_
 _Context: Israeli rights group, Palestinian_
 
 ### [A new Cabinet is sworn in in Egypt, with half the former members being replaced due to ongoing protests since the 2011 Egyptian revolution. ](/news/2011/07/18/a-new-cabinet-is-sworn-in-in-egypt-with-half-the-former-members-being-replaced-due-to-ongoing-protests-since-the-2011-egyptian-revolution.md)
-_Context: 2011 Egyptian revolution, Cabinet, Egypt's_
+_Context: 2011 Egyptian revolution, Cabinet, Egypt_
 
 ### [United Kingdom Secretary of State for Defence, Liam Fox announces plans to reduce the British Army to its smallest size since the start of the Second Boer War just over a century ago. By 2020, troop numbers will be reduced from the present 101,000 to 82,000, with a greater reliability on Territorial Army soldiers. ](/news/2011/07/18/united-kingdom-secretary-of-state-for-defence-liam-fox-announces-plans-to-reduce-the-british-army-to-its-smallest-size-since-the-start-of-t.md)
 _Context: British Army, Liam Fox, Second Boer War, Secretary of State for Defence, Territorial Army, United Kingdom_

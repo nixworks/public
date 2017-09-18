@@ -4,3 +4,7 @@
 
 
 
+
+### Related:
+
+1. [ Canadian Liberal Leadership Race: Balloting begins in delegate-selection meetings across Canada which will determine the outcome of the Liberal leadership convention this November. Paul Martin is expected to easily secure enough votes to beat opponent Sheila Copps. This all-but guarantees Martin will replace his longtime rival Jean Chretien as the next Prime Minister of Canada.](/news/2003/09/19/canadian-liberal-leadership-race-balloting-begins-in-delegate-selection-meetings-across-canada-which-will-determine-the-outcome-of-the-lib.md) _Context: Jean Chretien_

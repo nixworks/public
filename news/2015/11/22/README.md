@@ -46,7 +46,7 @@ _Context: Argentina, Argentine general election, 2015, Buenos Aires, Daniel Scio
 _Context: Kim Young-sam, President of South Korea, Seoul, South Korea_
 
 ### [Voters in many parts of Egypt including Cairo go to the polls for a parliamentary election. ](/news/2015/11/22/voters-in-many-parts-of-egypt-including-cairo-go-to-the-polls-for-a-parliamentary-election.md)
-_Context: Cairo, Egypt's, Egyptian parliamentary election, 2015_
+_Context: Cairo, Egypt, Egyptian parliamentary election, 2015_
 
 ### [United States President Barack Obama orders an assessment of whether intelligence reports from U.S. Central Command were changed by supervisory military personnel before formal submission to present a more optimistic picture of the American military campaign against Daesh (Islamic State). The Pentagon's Office of the Inspector General investigators seized emails from military servers over the last few weeks. ](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.md)
 _Context: Barack Obama, CENTCOM, Islamic State of Iraq and the Levant, Pentagon's Office of the Inspector General, President, United States military personnel_

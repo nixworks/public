@@ -10,7 +10,7 @@ _Context: Himachal Pradesh, India_
 _Context: KFC, Karachi, McDonalds, Pakistan_
 
 ### [ Hosni Mubarak wins the first multi-candidate presidential election in the history of Egypt with 78 percent of the vote. Ayman Nour is the nearest runner-up with 12 percent. ](/news/2005/09/8/hosni-mubarak-wins-the-first-multi-candidate-presidential-election-in-the-history-of-egypt-with-78-percent-of-the-vote-ayman-nour-is-the-n.md)
-_Context: Ayman Nour, Egypt's, Hosni Mubarak, first multi-candidate presidential election_
+_Context: Ayman Nour, Egypt, Hosni Mubarak, first multi-candidate presidential election_
 
 ### [ News Corporation says it will buy IGN Entertainment for $650 million. IGN is one of the largest multimedia sites on the Internet and also owns the GameSpy Network and ](/news/2005/09/8/news-corporation-says-it-will-buy-ign-entertainment-for-650-million-ign-is-one-of-the-largest-multimedia-sites-on-the-internet-and-also-o.md)
 AskMen is the No. 1 site to help men improve their lives—from discovering new products & trends to getting advice on dating, fitness, grooming & more.

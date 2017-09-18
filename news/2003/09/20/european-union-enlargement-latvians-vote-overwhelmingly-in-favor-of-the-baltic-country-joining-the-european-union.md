@@ -1,0 +1,19 @@
+### [2003-09-20](/news/2003/09/20/index.md)
+
+#  European Union enlargement: Latvians vote overwhelmingly in favor of the Baltic country joining the European Union.
+
+
+
+
+### Related:
+
+1. [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md) _Context: Baltics, Latvia_
+2. [ The European Union's parliamentary election continues in Cyprus, Italy, Latvia, Malta, Slovakia, the Czech Republic, and France's overseas departments and territories. ](/news/2009/06/6/the-european-union-s-parliamentary-election-continues-in-cyprus-italy-latvia-malta-slovakia-the-czech-republic-and-france-s-overseas.md) _Context: EU, Latvia_
+3. [ Latvia and Lithuania become the latest EU member states to ratify the Treaty of Lisbon. ](/news/2008/05/8/latvia-and-lithuania-become-the-latest-eu-member-states-to-ratify-the-treaty-of-lisbon.md) _Context: EU, Latvia_
+4. [ EU enlargement: Ten new member states (Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia and Slovenia) join the European Union, increasing the EU's population by 75 million people to a total of roughly 455 million. ](/news/2004/05/1/eu-enlargement-ten-new-member-states-cyprus-the-czech-republic-estonia-hungary-latvia-lithuania-malta-poland-slovakia-and-sloveni.md) _Context: EU, Latvia_
+5. [The European Union invited Poland, Hungary, the Czech Republic, Slovakia, Slovenia, Latvia, Estonia, Lithuania, Cyprus and Malta to join. Expansion is scheduled for May 2004.](/news/2002/12/13/the-european-union-invited-poland-hungary-the-czech-republic-slovakia-slovenia-latvia-estonia-lithuania-cyprus-and-malta-to-join-ex.md) _Context: EU, Latvia_
+6. [ The European Commission of the European Union has announced that ten countries - Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia - have met its criteria for entry, opening the way for an expansion of the EU from 15 member states to 25. The European Parliament has still to consider each candidate individually and the final decision will require the approval of the current member states.](/news/2002/10/9/the-european-commission-of-the-european-union-has-announced-that-ten-countries-a-cyprus-the-czech-republic-estonia-hungary-latvia-li.md) _Context: EU, Latvia_
+7. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
+8. [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md) _Context: EU_
+9. [Poles march against a bill that critics say might decrease judicial independence in Poland. Hungary has supported the bill while the European Union has opposed it. The protesters hope that the President Andrzej Duda would intervene against the proposed law. ](/news/2017/07/22/poles-march-against-a-bill-that-critics-say-might-decrease-judicial-independence-in-poland-hungary-has-supported-the-bill-while-the-europea.md) _Context: EU_
+10. [Bank of America chooses Dublin as its European hub. ](/news/2017/07/22/bank-of-america-chooses-dublin-as-its-european-hub.md) _Context: EU_

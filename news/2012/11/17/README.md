@@ -7,7 +7,7 @@ _Context: Barack Obama, Mueang Yala District, Thailand, USA_
 Hamas fires on capital for first time, Tel Aviv for second day in a row; no injuries or damage reported in either attack.
 
 ### [A school bus carrying about 60 schoolchildren is hit by a train near Manfalut, 350 km (230 miles) south of Egyptian capital Cairo. At least 50 children and the driver are killed in the crash. The Egyptian minister of transport, Mohamed Rashad Al Matini, resigns. ](/news/2012/11/17/a-school-bus-carrying-about-60-schoolchildren-is-hit-by-a-train-near-manfalut-350-km-230-miles-south-of-egyptian-capital-cairo-at-least.md)
-_Context: Cairo, Egypt's, Egyptian minister of transport, Manfalut, is hit by a train, school bus_
+_Context: Cairo, Egypt, Egyptian minister of transport, Manfalut, is hit by a train, school bus_
 
 ### [Thackeray, the founder and chief of shivsena died on 17 November as a consequence of a cardiac arrest.Bal Thackeray](/news/2012/11/17/thackeray-the-founder-and-chief-of-shivsena-died-on-17-november-as-a-consequence-of-a-cardiac-arrest-bal-thackeray.md)
 _Context: Bal Thackeray, Thackeray, shivsena_

@@ -43,7 +43,7 @@ A student armed with a handgun holds 23 other students and a teacher hostage for
 _Context: Haiti's presidential election, Port-au-Prince_
 
 ### [The Muslim Brotherhood, Egypt's largest opposition bloc, claims fraud in the parliamentary elections and says it has won no seats. ](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.md)
-_Context: Egypt's, Egyptian parliamentary elections, Muslim Brotherhood_
+_Context: Egypt, Egyptian parliamentary elections, Muslim Brotherhood_
 
 ### [The Constitutional Court of Thailand dismisses a case brought against the ruling Democrat Party by the election commission, saying the commission did not follow legal procedures. ](/news/2010/11/29/the-constitutional-court-of-thailand-dismisses-a-case-brought-against-the-ruling-democrat-party-by-the-election-commission-saying-the-commi.md)
 _Context: Constitutional Court of Thailand, Democrat Party, Thailand_

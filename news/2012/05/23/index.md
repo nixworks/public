@@ -22,7 +22,7 @@ Hewlett-Packard said it will cut 27,000 jobs across the globe to save on costs a
 _Context: CIA, DNA, Dr. Shakil Afridi, Osama bin Laden, Pakistan, bin Laden's compound, treason_
 
 ### [Voters in Egypt go to the polls for a presidential election, 15 months after former president Hosni Mubarak was ousted in a revolution. ](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.md)
-_Context: 2011 Egyptian revolution, Egypt's, Hosni Mubarak, presidential election_
+_Context: 2011 Egyptian revolution, Egypt, Hosni Mubarak, presidential election_
 
 ## [Previous Day...](/news/2012/05/22/index.md)
 

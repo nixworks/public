@@ -13,7 +13,7 @@ _Context: Libyan Civil War, Muammar Gaddafi, Tripoli_
 Sanaa, Feb 25 (DPA) At least nine people were wounded after security forces opened fire at anti-government protesters in the southern Yemeni port city of...
 
 ### [2011 Egyptian protests: Egyptian protestors claims that the Egyptian Army beat them up in Cairo's Tahrir Square. ](/news/2011/02/25/2011-egyptian-protests-egyptian-protestors-claims-that-the-egyptian-army-beat-them-up-in-cairo-s-tahrir-square.md)
-_Context: Cairo, Egypt's, Egyptian Army, Protesters, Tahrir Square_
+_Context: Cairo, Egypt, Egyptian Army, Protesters, Tahrir Square_
 
 ### [Rebels in the Ivory Coast seize another town from the control of incumbent President Laurent Gbagbo, who refused to step down following a disputed presidential election. Unrest occurs in the capital Yamoussoukro. ](/news/2011/02/25/rebels-in-the-ivory-coast-seize-another-town-from-the-control-of-incumbent-president-laurent-gbagbo-who-refused-to-step-down-following-a-di.md)
 Ivory Coast rebels take the town of Zouan-Hounien in the west, as the UN warns that the country may be heading towards civil war.

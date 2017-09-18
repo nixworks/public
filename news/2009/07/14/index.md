@@ -37,7 +37,7 @@ _Context: Lithuanian parliament, President, minors, propaganda_
 _Context: Canada, Czech Republic, Mexico, refugee, visa-free travel_
 
 ### [ An Egyptian civil servant is jailed for three years for insulting President Hosni Mubarak in a poem. ](/news/2009/07/14/an-egyptian-civil-servant-is-jailed-for-three-years-for-insulting-president-hosni-mubarak-in-a-poem.md)
-_Context: Egypt's, Egyptian President, Hosni Mubarak_
+_Context: Egypt, Egyptian President, Hosni Mubarak_
 
 ### [ The 11th Micronesian Chief Executives' Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md)
 Guam - A website dedicated to stopping cyber bullying on Guam has been launched. ...

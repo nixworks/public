@@ -1,7 +1,7 @@
 ## [2009-06-8](/news/2009/06/8/index.md)
 
 ### [ At least 18 factory workers are killed when their bus collides with a truck in the Nile Delta, Egypt. ](/news/2009/06/8/at-least-18-factory-workers-are-killed-when-their-bus-collides-with-a-truck-in-the-nile-delta-egypt.md)
-_Context: Egypt's, Nile delta_
+_Context: Egypt, Nile delta_
 
 ### [ Lloyds Banking Group repay GBP2.56 billion to Her Majesty's Government to compensate for partial nationalisation on 19 January 2009. ](/news/2009/06/8/lloyds-banking-group-repay-agbp2-56-billion-to-her-majesty-s-government-to-compensate-for-partial-nationalisation-on-19-january-2009.md)
 _Context: 19 January 2009, GBP, His Majesty's Government, Lloyds Banking Group, nationalisation_

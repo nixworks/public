@@ -19,7 +19,7 @@ _Context: China, Fujian Province, suicide bomb_
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ### [ Japanese Prime Minister Junichiro Koizumi has dissolved the Japanese House of Representatives and will call a snap election for September 11. The move came after rebel lawmakers from his own Liberal Democratic Party voted down postal reform legislation on which he had staked the party's mandate. The postal reform would have led to privatization of the country's postal service. It is thought that the move will plunge normally staid Japanese politics into great uncertainty.](/news/2005/08/8/japanese-prime-minister-junichiro-koizumi-has-dissolved-the-japanese-house-of-representatives-and-will-call-a-snap-election-for-september-1.md)
-_Context: Japan general election, 2005, Japanese Prime Minister, Japanese politics, Junichiro Koizumi, Liberal Democratic Party, parliament's dissolution, privatization, the Lower House of the Diet_
+_Context: House of Representatives, Japan general election, 2005, Japanese Prime Minister, Japanese politics, Junichiro Koizumi, Liberal Democratic Party, parliament's dissolution, privatization_
 
 ### [ In Indonesia, Garuda Indonesia airline pilot Pollycarpus Priyanto goes on trial for poisoning human rights activist Munir Said Thalib ](/news/2005/08/8/in-indonesia-garuda-indonesia-airline-pilot-pollycarpus-priyanto-goes-on-trial-for-poisoning-human-rights-activist-munir-said-thalib.md)
 _Context: Garuda Indonesia, Indonesia, Munir Said Thalib, Pollycarpus Priyanto_

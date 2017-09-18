@@ -19,7 +19,7 @@ _Context: Japan, Kyodo, North Korea, United States, Yongbyon Nuclear Scientific 
 _Context: 8th U.S. Circuit Court of Appeals', Wikipedia_
 
 ### [ Prime Minister of Pakistan Yousaf Raza Gilani survives an assassination attempt. ](/news/2008/09/3/prime-minister-of-pakistan-yousaf-raza-gilani-survives-an-assassination-attempt.md)
-_Context: Pakistan, Prime Minister of Pakistan, Yousaf Raza Gilani_
+_Context: Pakistan, Prime Minister, Yousaf Raza Gilani_
 
 ### [ The Independent Monitoring Commission reports that the Provisional IRA has effectively been disbanded as a terrorist organization, but the Provisional IRA Army Council still exists. ](/news/2008/09/3/the-independent-monitoring-commission-reports-that-the-provisional-ira-has-effectively-been-disbanded-as-a-terrorist-organization-but-the.md)
 _Context: IRA, Independent Monitoring Commission, Provisional IRA Army Council_

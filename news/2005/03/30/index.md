@@ -31,7 +31,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: India, Maharashtra, Mumbai, prostitution_
 
 ### [ In Egypt, thousands of demonstrators protest against the fifth term of president Hosni Mubarak despite of the ban on protests. There are conflicting reports on the number of protesters police has detained ](/news/2005/03/30/in-egypt-thousands-of-demonstrators-protest-against-the-fifth-term-of-president-hosni-mubarak-despite-of-the-ban-on-protests-there-are-co.md)
-_Context: Egypt's, Hosni Mubarak_
+_Context: Egypt, Hosni Mubarak_
 
 ### [ Czech Republic government is in crisis after the coalition partner of the ruling Civic Democrats party. Christian Democrats, calls for its three ministers to leave. That would lead into a minority government. Prime minister Stanislav Gross also faces a no confidence vote in Friday over his personal finances ](/news/2005/03/30/czech-republic-government-is-in-crisis-after-the-coalition-partner-of-the-ruling-civic-democrats-party-christian-democrats-calls-for-its.md)
 _Context: Christian Democrats, Civic Democratic Party, Czech Republic, Stanislav Gross, minority government, no-confidence vote_

@@ -4,7 +4,7 @@
 _Context: Mountain Province, Philippine National Police_
 
 ### [One person is killed and four injured in an attack on a provincial party office in the Egyptian city of Zagazig. ](/news/2013/06/28/one-person-is-killed-and-four-injured-in-an-attack-on-a-provincial-party-office-in-the-egyptian-city-of-zagazig.md)
-_Context: Egypt's, Zagazig_
+_Context: Egypt, Zagazig_
 
 ### [Thirty-three are killed in an attack in Nigeria's Plateau State. ](/news/2013/06/28/thirty-three-are-killed-in-an-attack-in-nigeria-s-plateau-state.md)
 _Context: Nigeria, Plateau State_

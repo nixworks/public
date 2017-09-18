@@ -25,7 +25,7 @@ Authorities struggle to cope with the aftermath of floods and landslides that ha
 Three women are killed in a stampede at a crowded three-storey nightclub in the Hungarian capital, Budapest.
 
 ### [A man is sentenced to death in Egypt for killing Copts at a Christmas mass a year ago. ](/news/2011/01/16/a-man-is-sentenced-to-death-in-egypt-for-killing-copts-at-a-christmas-mass-a-year-ago.md)
-_Context: Christmas, Copt, Egypt's, a year ago_
+_Context: Christmas, Copt, Egypt, a year ago_
 
 ### [Mark Kennedy, the undercover British police officer who posed as an activist, flees to the United States after his cover is blown. ](/news/2011/01/16/mark-kennedy-the-undercover-british-police-officer-who-posed-as-an-activist-flees-to-the-united-states-after-his-cover-is-blown.md)
 The undercover policeman who controversially posed as an environmental activist, last night claimed he had been made a &quot;scapegoat&quot; and was hiding in the US in &quot;genuine fear for [his] life&quot;. Mark Kennedy claimed his undercover policework was highly sensitive and at one time the in...

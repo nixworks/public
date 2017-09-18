@@ -12,7 +12,7 @@
 
 ### Related:
 
-1. [ Somali pirates release Egypt's MV "Blue Star". ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md) _Context: Egypt's, MV, Somali pirates, Somalia_
+1. [ Somali pirates release Egypt's MV "Blue Star". ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md) _Context: Egypt, MV, Somali pirates, Somalia_
 2. [ Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. ](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.md) _Context: MV, Somali pirates, Somalia, ransom_
 3. [ A boat carrying eight Somali pirates from the freed supertanker MV "Sirius Star" capsizes in the Gulf of Aden, causing the deaths of five and the loss of their portion of US$3 million in ransom. ](/news/2009/01/10/a-boat-carrying-eight-somali-pirates-from-the-freed-supertanker-mv-sirius-star-capsizes-in-the-gulf-of-aden-causing-the-deaths-of-five-a.md) _Context: MV, Somali pirates, Somalia, ransom_
 4. [ Somali pirates hijack the Netherlands' MV "Marathon" and attack the U.S. Navy cargo ship "Lewis and Clark". ](/news/2009/05/7/somali-pirates-hijack-the-netherlands-mv-marathon-and-attack-the-u-s-navy-cargo-ship-lewis-and-clark.md) _Context: MV, Somali pirates, Somalia_

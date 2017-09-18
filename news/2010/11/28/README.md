@@ -44,7 +44,7 @@ _Context: 2010 Haiti earthquake, Haiti, Haiti's presidential election, worst epi
 At least three people have been killed in violence in Ivory Coast, hours before a presidential run-off election, officials say.
 
 ### [Voters in Egypt go to the polls for parliamentary elections amid reports of the detention of hundreds of opposition supporters, scattered violence, vote buying and the ejection of independent monitors as the government cracks down on the opposition; 21 people are wounded in skirmishes connected with the poll. ](/news/2010/11/28/voters-in-egypt-go-to-the-polls-for-parliamentary-elections-amid-reports-of-the-detention-of-hundreds-of-opposition-supporters-scattered-vi.md)
-_Context: Egypt's, Egyptian parliamentary elections_
+_Context: Egypt, Egyptian parliamentary elections_
 
 ### [Voters in Moldova go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-moldova-go-to-the-polls-for-parliamentary-elections.md)
 _Context: Moldova, parliamentary elections_

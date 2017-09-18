@@ -9,7 +9,7 @@ Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday
 ### [At least eight people are killed and 67 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-67-injured-after-a-strong-storm-hit-western-and-central-romania.md)
 A strong storm killed eight people and injured at least 67 in western Romania on Sunday as winds of up to 100 kph (over 60 mph) also brought destruction to parts of Serbia and Croatia, officials said.
 
-### [ Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 84 dead. ](/news/2017/09/17/hurricane-maria-has-been-upgraded-from-a-tropical-storm-to-a-category-1-hurricane-hurricane-watches-and-warnings-have-been-issued-in-parts.md)
+### [ Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 82 dead. ](/news/2017/09/17/hurricane-maria-has-been-upgraded-from-a-tropical-storm-to-a-category-1-hurricane-hurricane-watches-and-warnings-have-been-issued-in-parts.md)
 _Context: 2017 Atlantic hurricane season, Hurricane Irma, Hurricane Maria_
 
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md)
@@ -21,7 +21,7 @@ Long queues form outside polling stations to vote in the seat vacated by former 
 ### [Voters in Macau vote for a new Legislative Assembly. ](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md)
 _Context: Legislative Assembly, Macanese legislative election, Macau_
 
-### [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinzo-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-election.md)
+### [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md)
 The Japanese political world was rocked Sunday after media reports emerged that Prime Minister Shinzo Abe plans to dissolve the Lower House as early as Sep
 
 ### [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md)

@@ -40,7 +40,7 @@ _Context: ''Neuron'', Alzheimer's disease, United States, Washington University,
 John Everard, former UK Ambassador, explains that North Korea &quot;believe that they are the victim, [and] they believe that they are being hounded by the United States.&quot;
 
 ### [Egypt intercepts a Togolese flagged ship carrying a large arsenal of weapons. It is believed the ship was headed to Iran. ](/news/2013/04/4/egypt-intercepts-a-togolese-flagged-ship-carrying-a-large-arsenal-of-weapons-it-is-believed-the-ship-was-headed-to-iran.md)
-_Context: Egypt's, Iran, Togo, weapons_
+_Context: Egypt, Iran, Togo, weapons_
 
 ### [The Greater Manchester Police becomes the first force in the United Kingdom to record attacks on members of subcultures, such as goths and emos, as hate crime. ](/news/2013/04/4/the-greater-manchester-police-becomes-the-first-force-in-the-united-kingdom-to-record-attacks-on-members-of-subcultures-such-as-goths-and-e.md)
 Hate crimes against groups such as goths or punks are to be recorded by Greater Manchester Police in the first move of its kind by a UK force.

@@ -22,7 +22,7 @@ A powerful typhoon moves past the Japanese island of Okinawa, causing power cuts
 _Context: Iceland_
 
 ### [The Prime Minister of Pakistan Raja Pervez Ashraf appears in the Pakistani Supreme Court over his failure to reopen investigations of corruption against President Asif Ali Zardari. ](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.md)
-_Context: Asif Ali Zardari, Prime Minister of Pakistan, Raja Pervez Ashraf, Supreme Court, president_
+_Context: Asif Ali Zardari, Prime Minister, Raja Pervez Ashraf, Supreme Court, president_
 
 ### [The Burmese President Thein Sein changes nine ministers in the cabinet, in an apparent bid to demonstrate that promised reforms are firmly on course. ](/news/2012/08/27/the-burmese-president-thein-sein-changes-nine-ministers-in-the-cabinet-in-an-apparent-bid-to-demonstrate-that-promised-reforms-are-firmly-o.md)
 The Burmese President Thein Sein announces a cabinet reshuffle, replacing the hardline information minister and eight others.

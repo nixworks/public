@@ -7,7 +7,7 @@ The Palestinian government warns that it will pull out of peace talks if Israel 
 _Context: Afghanistan, International Security Assistance Force, NATO, improvised explosive device_
 
 ### [At least 17 people, including a member of the National Assembly of Pakistan, Maulana Noor Mohammed Wazir, are killed in the bombing of a mosque in Pakistan's South Waziristan region. ](/news/2010/08/23/at-least-17-people-including-a-member-of-the-national-assembly-of-pakistan-maulana-noor-mohammed-wazir-are-killed-in-the-bombing-of-a-mos.md)
-_Context: MNA, Maulana Noor Mohammed Wazir, Pakistan, South Waziristan, bomb, mosque_
+_Context: Maulana Noor Mohammed Wazir, National Assembly, Pakistan, South Waziristan, bomb, mosque_
 
 ### [The Anne Frank tree in Amsterdam is knocked down by a gust of heavy wind, breaking off about a meter above ground. ](/news/2010/08/23/the-anne-frank-tree-in-amsterdam-is-knocked-down-by-a-gust-of-heavy-wind-breaking-off-about-a-meter-above-ground.md)
 _Context: Amsterdam, Anne Frank tree_

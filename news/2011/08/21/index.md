@@ -4,7 +4,7 @@
 _Context: Abdul Hafiz Ghoga, National Transitional Council, Tripoli, fighting_
 
 ### [Rockets fired from Gaza, reportedly aiming for Israel, land in the Sinai Peninsula of Egypt during the Palestinian-Israeli conflict. ](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.md)
-_Context: Egypt's, Gaza Strip, Israel, Palestinian-Israeli conflict, Sinai Peninsula_
+_Context: Egypt, Gaza Strip, Israel, Palestinian-Israeli conflict, Sinai Peninsula_
 
 ### [Four employees of Deutsche Bank AG and its South Korean brokerage unit are indicted for alleged illegal trading on the Korea Exchange. ](/news/2011/08/21/four-employees-of-deutsche-bank-ag-and-its-south-korean-brokerage-unit-are-indicted-for-alleged-illegal-trading-on-the-korea-exchange.md)
 _Context: Deutsche Bank AG, Korea Exchange, South Korea, brokerage, indicted_

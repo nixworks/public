@@ -10,7 +10,7 @@ _Context: Charles Simonyi, Earth, Expedition 14, International Space Station, So
 Investigators looked through wreckage Sunday to determine what caused a Navy Blue Angel jet to crash during a maneuver, while the military identified the fallen pilot as a 32-year-old who was performing in one of his first air shows with the team.
 
 ### [ Mohammed al-Attar is sentenced to 15 years in an Egyptian prison after being convicted of being a Mossad agent. ](/news/2007/04/21/mohammed-al-attar-is-sentenced-to-15-years-in-an-egyptian-prison-after-being-convicted-of-being-a-mossad-agent.md)
-_Context: Egypt's, Mohammed al-Attar, Mossad, prison_
+_Context: Egypt, Mohammed al-Attar, Mossad, prison_
 
 ### [ An appeals court decides that the two candidates in the runoff election to decide the next President of East Timor will be current Prime Minister of East Timor Jos Ramos-Horta and Francisco Guterres of Fretilin. Two of the unsuccessful candidates have announced that they will support Dr Ramos-Horta. ](/news/2007/04/21/an-appeals-court-decides-that-the-two-candidates-in-the-runoff-election-to-decide-the-next-president-of-east-timor-will-be-current-prime-mi.md)
 _Context: Francisco Guterres, Fretilin, Jose Ramos-Horta, President, Prime Minister of East Timor, appeals court, second round_

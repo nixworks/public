@@ -19,7 +19,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 _Context: Canada, National Missile Defence, Paul Martin, United States, rocket attacks_
 
 ### [ Egyptian President Hosni Mubarak calls for parliament to amend the constitution to allow for direct, secret elections for the next president. ](/news/2005/02/26/egyptian-president-hosni-mubarak-calls-for-parliament-to-amend-the-constitution-to-allow-for-direct-secret-elections-for-the-next-presiden.md)
-_Context: Egypt's, Hosni Mubarak_
+_Context: Egypt, Hosni Mubarak_
 
 ### [ President Faure Gnassingb of Togo announces that he will be stepping down from his position, after sanctions imposed by the Economic Community of West African States. ](/news/2005/02/26/president-faure-gnassingbe-of-togo-announces-that-he-will-be-stepping-down-from-his-position-after-sanctions-imposed-by-the-economic-commu.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

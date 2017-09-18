@@ -4,7 +4,7 @@
 _Context: Abdel Rahman al-Najdi, Iraq, Mullah Omar, Osama bin Laden, Taliban, War on Terrorism, al-Qaeda, terrorism_
 
 ### [ Terrorists associated with al-Qaida releases a statement in which it claims responsibility for the blackout. The statement says that the group acted on Osama bin Laden's orders.](/news/2003/08/18/terrorists-associated-with-al-qaida-releases-a-statement-in-which-it-claims-responsibility-for-the-blackout-the-statement-says-that-the-gr.md)
-_Context: Al Qaida's, Osama bin Laden, blackout, terrorism_
+_Context: Al Qaida's, North American blackout, Osama bin Laden, terrorism_
 
 ## [Previous Day...](/news/2003/08/17/index.md)
 

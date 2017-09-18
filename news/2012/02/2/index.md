@@ -31,7 +31,7 @@ _Context: A. Raja, Supreme Court of India, telecommunication_
 _Context: Church of Scientology, French-born, fraud_
 
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)
-_Context: Adel Emam, Egypt's, insulting Islam_
+_Context: Adel Emam, Egypt, insulting Islam_
 
 ### [The Prime Minister of Egypt Kamal Ganzouri calls an emergency Cabinet meeting to discuss the Port Said Stadium clashes which resulted in at least 74 deaths. ](/news/2012/02/2/the-prime-minister-of-egypt-kamal-ganzouri-calls-an-emergency-cabinet-meeting-to-discuss-the-port-said-stadium-clashes-which-resulted-in-at.md)
 At least 74 people were killed and the army deployed after sport fan violence in the Egyptian city of Port Said, in what FIFA called a &#039;black day for football.&#039;

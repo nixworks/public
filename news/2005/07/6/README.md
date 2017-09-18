@@ -25,7 +25,7 @@ _Context: 16 January, 2007, Burundi, Forces for the Defence of Democracy, Hutu_
 _Context: Albert II, Prince of Monaco, Nicole Coste, illegitimate_
 
 ### [ In Egypt, Cairo court postpones the trial of presidential candidate Ayman Nour until September 25, allowing him to contest the election ](/news/2005/07/6/in-egypt-cairo-court-postpones-the-trial-of-presidential-candidate-ayman-nour-until-september-25-allowing-him-to-contest-the-election.md)
-_Context: Ayman Nour, Cairo, Egypt's, September 25_
+_Context: Ayman Nour, Cairo, Egypt, September 25_
 
 ### [ In Chile, court strips Augusto Pinochet of presidential immunity from prosecution in the investigation of disappearance of political opponents in so-called Operation Colombo ](/news/2005/07/6/in-chile-court-strips-augusto-pinochet-of-presidential-immunity-from-prosecution-in-the-investigation-of-disappearance-of-political-oppone.md)
 _Context: Augusto Pinochet, Chile, Operation Colombo, forcibly disappeared_

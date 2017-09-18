@@ -10,7 +10,7 @@ _Context: Chrysler, Missouri, South St. Louis, minivan_
 _Context: Court of Arbitration for Sport, Floyd Landis, Tour de France, cyclist_
 
 ### [ The African Union meets at Sharm el-Sheikh in Egypt with Robert Mugabe recently reelected as President of Zimbabwe representing Zimbabwe. ](/news/2008/06/30/the-african-union-meets-at-sharm-el-sheikh-in-egypt-with-robert-mugabe-recently-reelected-as-president-of-zimbabwe-representing-zimbabwe.md)
-_Context: African Union, Egypt's, President of Zimbabwe, Robert Mugabe, Sharm el-Sheikh, Zimbabwe_
+_Context: African Union, Egypt, President of Zimbabwe, Robert Mugabe, Sharm el-Sheikh, Zimbabwe_
 
 ### [ Peru's largest federation of mining unions commences strike action in order to pressure the Congress of Peru to pass legislation to improve labor benefits. ](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.md)
 _Context: Congress of Peru, Peru, mine, strike, unionize_
