@@ -6,7 +6,7 @@ Deceased include political tehsildar; one Levies official injured
 ### [The Primetime Emmy Awards is held in Los Angeles at the Microsoft Theater. Political satirist and "The Late Show" host Stephen Colbert hosts the event. ](/news/2017/09/17/the-primetime-emmy-awards-is-held-in-los-angeles-at-the-microsoft-theater-political-satirist-and-the-late-show-host-stephen-colbert-hosts.md)
 Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday’s awards ceremony.
 
-### [At least eight people are killed and 67 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-67-injured-after-a-strong-storm-hit-western-and-central-romania.md)
+### [At least eight people are killed and 137 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-137-injured-after-a-strong-storm-hit-western-and-central-romania.md)
 A strong storm killed eight people and injured at least 67 in western Romania on Sunday as winds of up to 100 kph (over 60 mph) also brought destruction to parts of Serbia and Croatia, officials said.
 
 ### [Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 82 dead. ](/news/2017/09/17/hurricane-maria-has-been-upgraded-from-a-tropical-storm-to-a-category-1-hurricane-hurricane-watches-and-warnings-have-been-issued-in-parts.md)
