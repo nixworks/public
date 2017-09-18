@@ -1,4 +1,15 @@
-## [News](/news/2017/09/17/index.md)
+## [News](/news/2017/09/18/index.md)
+
+### [Eberhard van der Laan the Mayor of Amsterdam takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been-di.md)
+_Context: Eberhard van der Laan, Mayor of Amsterdam, leave of absence, lung cancer, metastatic, terminal_
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/17/index.md)
 
 ### [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md)
 Deceased include political tehsildar; one Levies official injured 
@@ -27,13 +38,9 @@ The Japanese political world was rocked Sunday after media reports emerged that 
 ### [Hamas, through Egyptian-mediated talks, agrees to dissolve its Gaza administration, hold talks with the Fatah West Bank government, and hold elections for a Palestinian unity government. ](/news/2017/09/17/hamas-through-egyptian-mediated-talks-agrees-to-dissolve-its-gaza-administration-hold-talks-with-the-fatah-west-bank-government-and-hold.md)
 Hamas says it is willing to dissolve its Gaza administration, 10 years after it fought a bloody war with Fatah
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/16/index.md)
+## [Day Before Yesterday](/news/2017/09/16/index.md)
 
 ### [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md)
 Ryanair Holdings Plc scrapped 82 flights on Sunday, the start of a six-week program of cancellations it’s making as it seeks to reduce a backlog of crew vacation required by Irish regulators before the end of the year.
@@ -55,50 +62,7 @@ Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/15/index.md)
-
-### [An explosion on a train at the Parsons Green tube station in London injures 29. Scotland Yard is treating the incident as a terrorist attack. ](/news/2017/09/15/an-explosion-on-a-train-at-the-parsons-green-tube-station-in-london-injures-29-scotland-yard-is-treating-the-incident-as-a-terrorist-attack.md)
-Passengers on District line reported seeing a device and hearing a bang on a tube train during morning rush-hour
-
-### [Jamaican Violet Mosse-Brown, the world's oldest person, dies in Montego Bay at age 117. ](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.md)
-_Context: Montego Bay, Violet Mosse-Brown, world's oldest person_
-
-### [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md)
-The California Assembly passed a package of bills Thursday that aim to address the state’s housing affordability crisis.
-
-### [In the aftermath of Hurricane Irma, the island of Barbuda is fully depopulated for the first time in 300 years. ](/news/2017/09/15/in-the-aftermath-of-hurricane-irma-the-island-of-barbuda-is-fully-depopulated-for-the-first-time-in-300-years.md)
-_Context: 2017 Atlantic hurricane season, Barbuda, Hurricane Irma, depopulated_
-
-### [Typhoon Doksuri (Maring) hits central Vietnam killing one person and injuring ten. ](/news/2017/09/15/typhoon-doksuri-maring-hits-central-vietnam-killing-one-person-and-injuring-ten.md)
-_Context: 2017 Pacific typhoon season, central Vietnam_
-
-### [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md)
-Paul McClean, a 24-year-old British journalist for the Financial Times, died following a crocodile attack Thursday afternoon while he was vacationing with
-
-### [The World Health Organization says that hunger around the world has risen as a result of war and climate change. ](/news/2017/09/15/the-world-health-organization-says-that-hunger-around-the-world-has-risen-as-a-result-of-war-and-climate-change.md)
-815 million people now hungry – Millions of children at risk from malnutrition
-
-### [A North Korean missile flies over Hokkaido, Japan, triggering the J-Alert system, following a similar event on 29 August. ](/news/2017/09/15/a-north-korean-missile-flies-over-hokkaido-japan-triggering-the-j-alert-system-following-a-similar-event-on-29-august.md)
-North Korea fired its second missile over Japan in as many months, a fresh provocation that comes shortly after the United Nations approved harsher sanctions against Kim Jong Un’s regime.
-
-### [The ex-police officer involved in a fatal 2011 shooting of a black man in St. Louis, Missouri is acquitted of all charges related to the case. ](/news/2017/09/15/the-ex-police-officer-involved-in-a-fatal-2011-shooting-of-a-black-man-in-st-louis-missouri-is-acquitted-of-all-charges-related-to-the-cas.md)
-Demonstrators have clashed with police in St. Louis following the acquittal of ex-officer Jason Stockley in the fatal shooting Anthony Lamar Smith. Two officers have been hospitalized after being hit with bricks.
-
-### [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted child molester be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-child-molester-be-pardoned-t.md)
-_Context: Bjarni Benediktsson, Bright Future, Politics of Iceland, Prime Minister_
-
-### [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md)
-_Context: Caloocan, Philippine Drug War, Philippine National Police_
-
-### [The Iraqi Kurdistan Parliament votes to go ahead with the planned independence referendum, scheduled to take place on 25 September, 2017. ](/news/2017/09/15/the-iraqi-kurdistan-parliament-votes-to-go-ahead-with-the-planned-independence-referendum-scheduled-to-take-place-on-25-september-2017.md)
-_Context: Iraqi Kurdistan Parliament, Iraqi Kurdistan independence referendum, 2017_
-
-### [After 20 years "floating" the Solar System, the "Cassini" space probe to the Saturn system ends the mission with a controlled fall into the atmosphere of the planet. ](/news/2017/09/15/after-20-years-floating-the-solar-system-the-cassini-space-probe-to-the-saturn-system-ends-the-mission-with-a-controlled-fall-into-the.md)
-The Saturn probe takes some final images ahead of its mission-ending dive into the ringed planet.
-
----
-
-## [Previous Day...](/news/2017/09/14/index.md)
+## [Previous Day...](/news/2017/09/15/index.md)
 
 ---
 
