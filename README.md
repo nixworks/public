@@ -3,7 +3,7 @@
 ### [A roadside bomb kills five people in Pakistan's Bajaur Agency. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-pakistan-s-bajaur-agency.md)
 Deceased include political tehsildar; one Levies official injured 
 
-### [The Primetime Emmy Awards will be held in Los Angeles. Political satirist and "The Late Show" host Stephen Colbert will host the event. ](/news/2017/09/17/the-primetime-emmy-awards-will-be-held-in-los-angeles-political-satirist-and-the-late-show-host-stephen-colbert-will-host-the-event.md)
+### [The Primetime Emmy Awards was held in Los Angeles at the Microsoft Theater. Political satirist and "The Late Show" host Stephen Colbert was the host for the event. ](/news/2017/09/17/the-primetime-emmy-awards-was-held-in-los-angeles-at-the-microsoft-theater-political-satirist-and-the-late-show-host-stephen-colbert-was.md)
 Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday’s awards ceremony.
 
 ### [At least eight people are killed and 67 injured after a strong storm hit western and central Romania. ](/news/2017/09/17/at-least-eight-people-are-killed-and-67-injured-after-a-strong-storm-hit-western-and-central-romania.md)

@@ -8,7 +8,7 @@ A strong storm killed eight people and injured at least 67 in western Romania on
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-romania-weather/storm-kills-eight-injures-dozens-in-western-romania-idUSKCN1BS0RV)
-2. [Wastington Post](https://www.washingtonpost.com/world/europe/5-dead-30-injured-as-fierce-storm-hits-western-romania/2017/09/17/ddb1c752-9bc7-11e7-b2a7-bc70b6f98089_story.html?utm_term=.0088f146e85e)
+2. [Washington Post](https://www.washingtonpost.com/world/europe/5-dead-30-injured-as-fierce-storm-hits-western-romania/2017/09/17/ddb1c752-9bc7-11e7-b2a7-bc70b6f98089_story.html?utm_term=.0088f146e85e)
 
 ### Related:
 
