@@ -1,5 +1,8 @@
 ## [2017-09-18](/news/2017/09/18/index.md)
 
+### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md)
+_Context: Myanmar, Northern Rakhine State clashes, Rohingya, Yangon_
+
 ### [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md)
 Maria grew from a tropical storm into a Category 5 hurricane and was bearing down on Puerto Rico and other Caribbean islands still bailing out from Irma.
 

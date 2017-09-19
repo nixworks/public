@@ -1,10 +1,10 @@
-## [News](/news/2017/09/18/index.md)
+## [News](/news/2017/09/19/index.md)
 
-### [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md)
-Maria grew from a tropical storm into a Category 5 hurricane and was bearing down on Puerto Rico and other Caribbean islands still bailing out from Irma.
+### [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md)
+_Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, category 5_
 
-### [Eberhard van der Laan, the Mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md)
-_Context: Eberhard van der Laan, Mayor of Amsterdam, Politics of the Netherlands, leave of absence, lung cancer, metastatic, terminal_
+### [Equifax data breach causes an estimated 143 million U.S. consumers to be accessed by hackers of personally identifiable information including Social Security numbers. Credit Reporting Companies (CRCs) are responsible for responding to persons under the Fair and Accurate Credit Transactions Act to provide 90-day fraud alerting and credit freeze services. ](/news/2017/09/19/equifax-data-breach-causes-an-estimated-143-million-u-s-consumers-to-be-accessed-by-hackers-of-personally-identifiable-information-includin.md)
+_Context: Equifax data breach, Fair and Accurate Credit Transactions Act, Social Security number, hackers, personally identifiable information_
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -12,7 +12,20 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ---
 
-## [Yesterday](/news/2017/09/17/index.md)
+## [Yesterday](/news/2017/09/18/index.md)
+
+### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md)
+_Context: Myanmar, Northern Rakhine State clashes, Rohingya, Yangon_
+
+### [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md)
+Maria grew from a tropical storm into a Category 5 hurricane and was bearing down on Puerto Rico and other Caribbean islands still bailing out from Irma.
+
+### [Eberhard van der Laan, the Mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md)
+_Context: Eberhard van der Laan, Mayor of Amsterdam, Politics of the Netherlands, leave of absence, lung cancer, metastatic, terminal_
+
+---
+
+## [Day Before Yesterday](/news/2017/09/17/index.md)
 
 ### [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md)
 Deceased include political tehsildar; one Levies official injured 
@@ -43,29 +56,7 @@ Hamas says it is willing to dissolve its Gaza administration, 10 years after it 
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/16/index.md)
-
-### [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md)
-Ryanair Holdings Plc scrapped 82 flights on Sunday, the start of a six-week program of cancellations it’s making as it seeks to reduce a backlog of crew vacation required by Irish regulators before the end of the year.
-
-### [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md)
-More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to confirm their support for a planned independence referendum that Madrid has declared illegal.
-
-### [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md)
-Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallied in Cologne. The rally was in support of Kurdish independence as well as the jailed leader of the banned PKK.
-
-### [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md)
-_Context: Althingi, Iceland, Icelandic parliamentary election, 2017_
-
-### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
-California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
-
-### [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md)
-Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
-
----
-
-## [Previous Day...](/news/2017/09/15/index.md)
+## [Previous Day...](/news/2017/09/16/index.md)
 
 ---
 
