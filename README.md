@@ -3,9 +3,6 @@
 ### [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md)
 _Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, category 5_
 
-### [Toys 'R' Us has filed for bankruptcy protection in the US and Canada as it attempts to restructure its debts. ](/news/2017/09/19/toys-r-us-has-filed-for-bankruptcy-protection-in-the-us-and-canada-as-it-attempts-to-restructure-its-debts.md)
-The once dominant toy retailer has struggled against larger rivals such as Amazon and Walmart.
-
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -17,11 +14,14 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md)
 _Context: Myanmar, Northern Rakhine State clashes, Rohingya, Yangon_
 
+### [Toys "R" Us files for bankruptcy protection in the US and Canada as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-bankruptcy-protection-in-the-us-and-canada-as-it-attempts-to-restructure-its-debts.md)
+The once dominant toy retailer has struggled against larger rivals such as Amazon and Walmart.
+
 ### [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md)
 Maria grew from a tropical storm into a Category 5 hurricane and was bearing down on Puerto Rico and other Caribbean islands still bailing out from Irma.
 
-### [Eberhard van der Laan, the Mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md)
-_Context: Eberhard van der Laan, Mayor of Amsterdam, Politics of the Netherlands, leave of absence, lung cancer, metastatic, terminal_
+### [Eberhard van der Laan, the mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md)
+_Context: Eberhard van der Laan, Politics of the Netherlands, leave of absence, lung cancer, mayor of Amsterdam, metastatic, terminal_
 
 ---
 
