@@ -4,10 +4,10 @@
 _Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, category 5 hurricane_
 
 ### [A magnitude 7.1 aftershock strikes Mexico, causing the collapse of a building in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake.](/news/2017/09/19/a-magnitude-7-1-aftershock-strikes-mexico-causing-the-collapse-of-a-building-in-mexico-city-and-widespread-evacuations-hours-after-a-yearl.md)
-_Context: 1985 Mexico earthquake, 2017 Chiapas earthquake, magnitude_
+_Context: 1985 Mexico earthquake, 2017 Puebla earthquake, magnitude_
 
-### [Crime in Louisiana](/news/2017/09/19/crime-in-louisiana.md)
-_Context: Crime in Louisiana_
+### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug related charges, when he allegedly stole a copy of The Hitchhiker's Guide to the Galaxy, a novel by Douglas Adams, and was held on the murder charges. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
+Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
 
 ## Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
