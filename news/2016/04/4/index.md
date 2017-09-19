@@ -33,7 +33,7 @@ Armenia will recognise the breakaway Nagorno-Karabakh region as independent from
 ### [North Korea threatens a genocide against the United States of America. ](/news/2016/04/4/north-korea-threatens-a-genocide-against-the-united-states-of-america.md)
 NORTH Korea has claimed they will kill more people in America than the September 11 attacks.
 
-### [South Korea announces plans to reduce the amount of immigrants entering the country illegally. ](/news/2016/04/4/south-korea-announces-plans-to-reduce-the-amount-of-immigrants-entering-the-country-illegally.md)
+### [South Korea announces plans to reduce the number of immigrants entering the country illegally. ](/news/2016/04/4/south-korea-announces-plans-to-reduce-the-number-of-immigrants-entering-the-country-illegally.md)
  The government said Monday it will clamp down on foreigners staying in South Korea without proper visas and reduce the rate of illegal aliens in the country below 10 percent by 2018.
 
 ### [The United States Supreme Court unanimously rules the one person, one vote requirement may be satisfied by drawing election districts based on the total population of a place, turning down a legal effort to reinterpret the rule that it be based only on the number of people eligible to vote. ](/news/2016/04/4/the-united-states-supreme-court-unanimously-rules-the-one-person-one-vote-requirement-may-be-satisfied-by-drawing-election-districts-based.md)
