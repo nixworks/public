@@ -9,7 +9,7 @@ Italian eyewear maker Luxottica and French corrective eye lens maker Essilor hav
 ### [A Turkish Airlines cargo jet crashes near Kyrgyzstan's Manas International Airport resulting in the deaths of at least 38 people. ](/news/2017/01/16/a-turkish-airlines-cargo-jet-crashes-near-kyrgyzstan-s-manas-international-airport-resulting-in-the-deaths-of-at-least-38-people.md)
 Andrei Yevdochenko noted that it was with deep sympathy and grief that Belarus learned about the tragedy in Kyrgyzstan.
 
-### [Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low pressure area in the Moro Gulf. ](/news/2017/01/16/cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-area-in-the-moro-gulf.md)
+### [Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low-pressure area in the Moro Gulf. ](/news/2017/01/16/cagayan-de-oro-experienced-a-series-of-flash-floods-caused-by-heavy-rainfall-brought-by-a-low-pressure-area-in-the-moro-gulf.md)
 Cagayan de Oro City is now under “orange alert,” paving the way for preemptive evacuation of residents near the Cagayan de Oro River as large parts of the city and some parts of Visayas and Mindanao are inundated due to rains induced by a low pressure area and tail end of the cold front.
 
 ### [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md)
@@ -19,7 +19,7 @@ _Context: Crimea, Eastern Ukraine, International Court of Justice, Russia, Russi
 _Context: Egypt-Saudi Arabia relations, Red Sea, Sanafir Island, Saudi Arabia, Tiran Island_
 
 ### [Three hundred U.S. marines arrive in Norway for a six-month deployment, becoming the first foreign troops in Norway since World War II. The marines will be stationed at Vaernes Air Station in Stjordal. ](/news/2017/01/16/three-hundred-u-s-marines-arrive-in-norway-for-a-six-month-deployment-becoming-the-first-foreign-troops-in-norway-since-world-war-ii-the.md)
-_Context: Marines, Norway, Norway-United States relations, Operation Atlantic Resolve, Stjordal, Vaernes Air Station, World War II_
+_Context: Marines, Norway, Norway-United States relations, Operation Atlantic Resolve, Stjordal, Vaernes Air Station_
 
 ### [South Korean prosecutors issue an arrest warrant for Lee Jae-yong, a senior executive in the Samsung Group, in relation to the political scandal that has led to the impeachment of Park Geun-hye, the President of South Korea. ](/news/2017/01/16/south-korean-prosecutors-issue-an-arrest-warrant-for-lee-jae-yong-a-senior-executive-in-the-samsung-group-in-relation-to-the-political-sca.md)
 A decision was expected Monday on whether to prosecute Samsung chief Lee Jae-yong
@@ -33,8 +33,8 @@ Two Canadians, an Italian and a Colombian are among those killed at the Playa de
 ### [Noor Salman, the wife of Omar Mateen who committed the 2016 Orlando mass shooting is arrested and charged with obstructing the investigation of the case. ](/news/2017/01/16/noor-salman-the-wife-of-omar-mateen-who-committed-the-2016-orlando-mass-shooting-is-arrested-and-charged-with-obstructing-the-investigation.md)
 _Context: 2016 Orlando mass shooting, Omar Mateen_
 
-### [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub attack, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-attack-is-arrested-in-istanbul-s-esenyurt-district.md)
-_Context: 2017 Istanbul nightclub attack, Abdulkadir Masharipov, Esenyurt, Istanbul_
+### [Abdulkadir Masharipov, suspected of killing 39 people in the 2017 Istanbul nightclub shooting, is arrested in Istanbul's Esenyurt district. ](/news/2017/01/16/abdulkadir-masharipov-suspected-of-killing-39-people-in-the-2017-istanbul-nightclub-shooting-is-arrested-in-istanbul-s-esenyurt-district.md)
+_Context: 2017 Istanbul nightclub shooting, Abdulkadir Masharipov, Esenyurt, Istanbul_
 
 ### [The Syrian Opposition agree to attend peace talks with the Syrian government in Astana, Kazakhstan, in order to press for a ceasefire to the conflict. ](/news/2017/01/16/the-syrian-opposition-agree-to-attend-peace-talks-with-the-syrian-government-in-astana-kazakhstan-in-order-to-press-for-a-ceasefire-to-the.md)
 Boost for talks backed by Russia and Turkey as opposition groups consent to send delegation to press for ceasefire

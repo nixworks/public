@@ -1,6 +1,6 @@
 ### [2017-01-16](/news/2017/01/16/index.md)
 
-# Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low pressure area in the Moro Gulf. 
+# Cagayan de Oro experienced a series of flash floods caused by heavy rainfall brought by a low-pressure area in the Moro Gulf. 
 
 Cagayan de Oro City is now under “orange alert,” paving the way for preemptive evacuation of residents near the Cagayan de Oro River as large parts of the city and some parts of Visayas and Mindanao are inundated due to rains induced by a low pressure area and tail end of the cold front.
 
