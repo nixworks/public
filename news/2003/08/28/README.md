@@ -7,7 +7,7 @@ _Context: September 11, 2001 attacks, World Trade Center_
 _Context: London blackout, power outage_
 
 ### [ Nuclear program: North Korea announces that it is in possession of nuclear weapons, has the means to deliver them, and will soon be carrying out a nuclear test to demonstrate this capability.](/news/2003/08/28/nuclear-program-north-korea-announces-that-it-is-in-possession-of-nuclear-weapons-has-the-means-to-deliver-them-and-will-soon-be-carryin.md)
-_Context: North Korea, Nuclear program, nuclear programme_
+_Context: North Korea, North Korea nuclear weapons program, nuclear programme_
 
 ## [Previous Day...](/news/2003/08/27/index.md)
 

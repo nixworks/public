@@ -1,0 +1,24 @@
+### [2004-03-20](/news/2004/03/20/index.md)
+
+#  ROC presidential election: Chen Shui-bian is declared the winner over Lien Chan by fewer than 30,000 votes of nearly 13,000,000 cast (0.25%). Lien calls the result unfair and demands it be voided. A controversial referendum is invalidated by low turnout. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3551843.stm)
+2. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/03/20/taiwan.elections/index.html)
+
+### Related:
+
+1. [ ROC presidential election, 2004: Chen Shui-bian's Democratic Progressive Party submits a bill to the Legislative Yuan to allow an immediate recount, per Lien Chan's demand, but the majority Pan-Blue Coalition dismisses it as unnecessary saying the President could just issue an executive order instead. ](/news/2004/03/22/roc-presidential-election-2004-chen-shui-bian-s-democratic-progressive-party-submits-a-bill-to-the-legislative-yuan-to-allow-an-immediate.md) _Context: 2004 presidential election, Chen Shui-bian, Lien Chan_
+2. [ ROC presidential election, 2004: Lagging behind his rival Lien Chan in opinion polls, President Chen Shui-bian promises not to declare Taiwan independence if he is re-elected. ](/news/2004/02/19/roc-presidential-election-2004-lagging-behind-his-rival-lien-chan-in-opinion-polls-president-chen-shui-bian-promises-not-to-declare-taiw.md) _Context: 2004 presidential election, Chen Shui-bian, Lien Chan_
+3. [ ROC presidential election, 2004: Candidates Lien Chan of the Pan-Blue Coalition and President Chen Shui-bian of the Pan-Green Coalition participate in a televised debate.](/news/2004/02/14/roc-presidential-election-2004-candidates-lien-chan-of-the-pan-blue-coalition-and-president-chen-shui-bian-of-the-pan-green-coalition-par.md) _Context: 2004 presidential election, Chen Shui-bian, Lien Chan_
+4. [ The Supreme Court of the Republic of China rejects the opposition's appeal to nullify the results of the 2004 presidential election. Chen Shui-bian won the election by a narrow majority. ](/news/2005/06/17/the-supreme-court-of-the-republic-of-china-rejects-the-opposition-s-appeal-to-nullify-the-results-of-the-2004-presidential-election-chen-s.md) _Context: 2004 presidential election, Chen Shui-bian_
+5. [ Taiwanese president Chen Shui-bian requests that the Chinese government meet directly with his government after China meets with Taiwan's opposition leader, Lien Chan. Taiwan and China are in conflict over Taiwan's increased calls for independence from the mainland. ](/news/2005/05/1/taiwanese-president-chen-shui-bian-requests-that-the-chinese-government-meet-directly-with-his-government-after-china-meets-with-taiwan-s-o.md) _Context: Chen Shui-bian, Lien Chan_
+6. [ Chen Shui-bian is sworn into a second term as President of the Republic of China in Taipei, while the High Court has yet to rule on a recount of the presidential election that concluded two days before. About 400 dignitaries, including 15 foreign heads of state, attend. ](/news/2004/05/20/chen-shui-bian-is-sworn-into-a-second-term-as-president-of-the-republic-of-china-in-taipei-while-the-high-court-has-yet-to-rule-on-a-recou.md) _Context: 2004 presidential election, Chen Shui-bian_
+7. [ ROC presidential election, 2004: The Pan-Blue Coalition drops its demand for another round of voting by members of the military and the police who were put on a heightened state of alert on election day. Chen Shui-bian and Annette Lu sign letters promising not to contest the Pan-Blue petition for a recount.](/news/2004/03/29/roc-presidential-election-2004-the-pan-blue-coalition-drops-its-demand-for-another-round-of-voting-by-members-of-the-military-and-the-pol.md) _Context: 2004 presidential election, Chen Shui-bian_
+8. [ ROC presidential election, 2004: The controversial victory of Chen Shui-bian is confirmed by the state electoral commission, with a margin of only 29,518 votes - 0.2% of the total&nbsp;- separating the candidates. Pan-Blue protestors storm and hurl eggs at the Central Electoral Commission building. ](/news/2004/03/26/roc-presidential-election-2004-the-controversial-victory-of-chen-shui-bian-is-confirmed-by-the-state-electoral-commission-with-a-margin.md) _Context: 2004 presidential election, Chen Shui-bian_
+9. [ ROC presidential election, 2004: Nobel laureate Lee Yuan-tseh endorses Chen Shui-bian for the second time. ](/news/2004/03/17/roc-presidential-election-2004-nobel-laureate-lee-yuan-tseh-endorses-chen-shui-bian-for-the-second-time.md) _Context: 2004 presidential election, Chen Shui-bian_
+10. [ ROC presidential election, 2004: 2 million people march in 24 rallies across Taiwan in support of Lien Chan's bid for the presidency. ](/news/2004/03/13/roc-presidential-election-2004-2-million-people-march-in-24-rallies-across-taiwan-in-support-of-lien-chan-s-bid-for-the-presidency.md) _Context: 2004 presidential election, Lien Chan_

@@ -1,0 +1,18 @@
+### [2004-03-21](/news/2004/03/21/index.md)
+
+#  Malaysian general election: Voting gets underway all over Malaysia to decide the new holders of seats in Parliament and various state assemblies.
+
+
+
+
+### Related:
+
+1. [ The Prime Minister of Malaysia dissolves the national parliament and all state assemblies except Sarawak's, paving the way for the general election to be held within 60 days as dictated by the constitution. ](/news/2004/03/4/the-prime-minister-of-malaysia-dissolves-the-national-parliament-and-all-state-assemblies-except-sarawak-s-paving-the-way-for-the-general.md) _Context: Malaysian general election, Parliament of Malaysia_
+2. [The Parliament of Malaysia passes the Prevention of Terrorism Act which allows the Government to detain terrorism suspects without charge. ](/news/2015/04/7/the-parliament-of-malaysia-passes-the-prevention-of-terrorism-act-which-allows-the-government-to-detain-terrorism-suspects-without-charge.md) _Context: Parliament of Malaysia_
+3. [Malaysia's Prime Minister Najib Razak dissolves parliament and advises all the state governments, except Negeri Sembilan and Sarawak to do the same, in preparation for general election. ](/news/2013/04/3/malaysia-s-prime-minister-najib-razak-dissolves-parliament-and-advises-all-the-state-governments-except-negeri-sembilan-and-sarawak-to-do-t.md) _Context: Parliament of Malaysia_
+4. [ Anwar Ibrahim, former Deputy Prime Minister of Malaysia, will contest a by-election to return to parliament after his wife Wan Azizah Wan Ismail vacated her Permatang Pauh seat in Penang. ](/news/2008/07/31/anwar-ibrahim-former-deputy-prime-minister-of-malaysia-will-contest-a-by-election-to-return-to-parliament-after-his-wife-wan-azizah-wan-i.md) _Context: Parliament of Malaysia_
+5. [ Malaysian Parliament dissolved for The 13th Malaysian general election. ](/news/2008/02/13/malaysian-parliament-dissolved-for-the-13th-malaysian-general-election.md) _Context: Parliament of Malaysia_
+6. [ Shahrir Abdul Samad resigns as chairman of the Barisan Nasional Backbenchers Club in the Parliament of Malaysia, after a motion to refer a Member of Parliament implicated in a corruption scandal to the "Dewan Rakyat" House Rights and Privileges Committee failed. ](/news/2006/05/4/shahrir-abdul-samad-resigns-as-chairman-of-the-barisan-nasional-backbenchers-club-in-the-parliament-of-malaysia-after-a-motion-to-refer-a.md) _Context: Parliament of Malaysia_
+7. [ Malaysian general election: Secular ruling coalition Barisan Nasional wins a two-thirds majority and wrests back the state of Terengganu from Islamist party PAS. A recount is pending for the closely contested state of Kelantan. ](/news/2004/03/21/malaysian-general-election-secular-ruling-coalition-barisan-nasional-wins-a-two-thirds-majority-and-wrests-back-the-state-of-terengganu-fr.md) _Context: Malaysian general election_
+8. [ In the aftermath of nomination day for the Malaysian general election, Barisan Nasional wins four more seats in various state assemblies and another parliamentary seat, uncontested. ](/news/2004/03/15/in-the-aftermath-of-nomination-day-for-the-malaysian-general-election-barisan-nasional-wins-four-more-seats-in-various-state-assemblies-an.md) _Context: Malaysian general election_
+9. [ Malaysian general election, 2004: Nomination day. Barisan Nasional takes 15 Parliamentary seats uncontested and 7 state assembly seats. The Pan-Malaysian Islamic Party captures one parliamentary seat in the state of Johor.](/news/2004/03/13/malaysian-general-election-2004-nomination-day-barisan-nasional-takes-15-parliamentary-seats-uncontested-and-7-state-assembly-seats-the.md) _Context: Malaysian general election_

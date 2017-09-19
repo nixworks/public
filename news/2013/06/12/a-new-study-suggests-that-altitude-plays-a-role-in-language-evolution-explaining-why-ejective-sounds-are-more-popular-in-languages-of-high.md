@@ -12,3 +12,4 @@
 ### Related:
 
 1. [ Australia's Transport Safety Bureau finds that the autopilot of Qantas Flight 72, which made an emergency landing at Learmonth Airport in October 2008, received inaccurate information, causing a rapid change in altitude. ](/news/2009/03/6/australia-s-transport-safety-bureau-finds-that-the-autopilot-of-qantas-flight-72-which-made-an-emergency-landing-at-learmonth-airport-in-o.md) _Context: altitude_
+2. [ The British explorer David Hempleman-Adams sets an altitude record for a flight in a wicker basket balloon. ](/news/2004/03/24/the-british-explorer-david-hempleman-adams-sets-an-altitude-record-for-a-flight-in-a-wicker-basket-balloon.md) _Context: altitude_

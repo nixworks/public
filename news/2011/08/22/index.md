@@ -4,7 +4,7 @@
 Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and opposition fighters surge into the symbolic Green Square in Tripoli.
 
 ### [Palestinian militants on the Gaza Strip fire rockets and mortars into Israel despite a truce. ](/news/2011/08/22/palestinian-militants-on-the-gaza-strip-fire-rockets-and-mortars-into-israel-despite-a-truce.md)
-_Context: Gaza Strip, Israel, Palestinian_
+_Context: Gaza, Israel, Palestinian_
 
 ### [Pakistan announces it will send more troops to Bahrain in support of the King of Bahrain Hamad bin Isa Al Khalifa. ](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.md)
 _Context: Bahrain, Hamad bin Isa Al Khalifa, King of Bahrain, Pakistan_

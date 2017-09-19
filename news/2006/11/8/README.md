@@ -16,7 +16,7 @@ _Context: China, Health Department, Hong Kong, Margaret Chan, World Health Organ
 _Context: Pakistan_
 
 ### [ Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medical-officers.md)
-_Context: Gaza Strip, Israel, Palestinian_
+_Context: Gaza, Israel, Palestinian_
 
 ### [ Five senior ministers in the Cabinet of the British Government are questioned by police as part of an investigation into alleged "cash for honours". ](/news/2006/11/8/five-senior-ministers-in-the-cabinet-of-the-british-government-are-questioned-by-police-as-part-of-an-investigation-into-alleged-cash-for.md)
 _Context: British Cabinet, British government, Ministers, current political crisis_

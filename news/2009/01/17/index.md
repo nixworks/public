@@ -1,7 +1,7 @@
 ## [2009-01-17](/news/2009/01/17/index.md)
 
 ### [ Israeli Prime Minister Ehud Olmert declares a unilateral ceasefire beginning January 18 at 2:00 am Israel Standard Time (UTC+2) in its conflict with Hamas. However, Israeli Defense Forces will remain in the Gaza Strip until further notice. ](/news/2009/01/17/israeli-prime-minister-ehud-olmert-declares-a-unilateral-ceasefire-beginning-january-18-at-2-00-am-israel-standard-time-utc-2-in-its-conf.md)
-_Context: +2, Ehud Olmert, Gaza Strip, Hamas, Israel, Israel Defense Forces, Israel Standard Time, Israeli Prime Minister, January 18, ceasefire, clock, fire, unilateral_
+_Context: +2, Ehud Olmert, Gaza, Hamas, Israel, Israel Defense Forces, Israel Standard Time, Israeli Prime Minister, January 18, ceasefire, clock, fire, unilateral_
 
 ### [ North Korea claims to have "weaponized" 30.8 kilograms of plutonium, enough for four to five nuclear warheads. ](/news/2009/01/17/north-korea-claims-to-have-weaponized-30-8-kilograms-of-plutonium-enough-for-four-to-five-nuclear-warheads.md)
 _Context: North Korea, intercontinental ballistic, nuclear weapon, plutonium, warhead_

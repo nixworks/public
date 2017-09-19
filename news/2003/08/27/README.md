@@ -7,7 +7,7 @@ _Context: Astronomers, Mars_
 _Context: Iraq, Jessica Lynch, National Guard_
 
 ### [ "Occupation of Iraq": According to a "USA Today"/CNN/Gallup poll, nearly two-thirds (63%) of Americans polled say the war in Iraq was worth fighting.](/news/2003/08/27/occupation-of-iraq-according-to-a-usa-today-cnn-gallup-poll-nearly-two-thirds-63-of-americans-polled-say-the-war-in-iraq-was-worth.md)
-_Context: CNN, Gallup poll, Occupation of Iraq, USA Today, poll_
+_Context: CNN, Gallup poll, Iraq war, USA Today, poll_
 
 ### [ Israeli-Palestinian conflict: Palestinian leader Yasser Arafat calls on militant groups to reinstate a ceasefire they formally ended last week after a Hamas leader was killed by Israeli gunships.](/news/2003/08/27/israeli-palestinian-conflict-palestinian-leader-yasser-arafat-calls-on-militant-groups-to-reinstate-a-ceasefire-they-formally-ended-last-w.md)
 _Context: Hamas, Israeli-Palestinian conflict, Palestinian, Yasser Arafat, gunship_

@@ -37,7 +37,7 @@ _Context: Democratic Republic of the Congo, Enough Project, GBP, Joseph Kabila, 
 Spanish police ringing parliament in Madrid fire rubber bullets at protesters taking part in a mass rally against austerity.
 
 ### [Anouchka van Miltenburg of the People's Party for Freedom and Democracy (VVD) is elected as President of the House of Representatives of the Netherlands, giving the VVD the "Big Three" in Dutch politics: Prime Minister, President of the Senate and President of the House of Representatives. ](/news/2012/09/25/anouchka-van-miltenburg-of-the-people-s-party-for-freedom-and-democracy-vvd-is-elected-as-president-of-the-house-of-representatives-of-the.md)
-_Context: Anouchka van Miltenburg, Dutch politics, People's Party for Freedom and Democracy, President of the House of Representatives of the Netherlands, President of the Senate, Prime Minister_
+_Context: Anouchka van Miltenburg, People's Party for Freedom and Democracy, Politics of the Netherlands, President of the House of Representatives of the Netherlands, President of the Senate, Prime Minister_
 
 ## [Previous Day...](/news/2012/09/24/index.md)
 

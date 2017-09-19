@@ -31,7 +31,7 @@ _Context: Alvaro Uribe, Colombia, Colombian President, Revolutionary Armed Force
 _Context: Juba, Lord's Resistance Army, Uganda, negotiations_
 
 ### [ An Israel Defense Forces soldier and six Palestinians were killed in an IDF operation in the northern Gaza town of Beit Hanoun. ](/news/2006/11/1/an-israel-defense-forces-soldier-and-six-palestinians-were-killed-in-an-idf-operation-in-the-northern-gaza-town-of-beit-hanoun.md)
-_Context: Beit Hanoun, Gaza Strip, Israel Defense Forces, Palestinians_
+_Context: Beit Hanoun, Gaza, Israel Defense Forces, Palestinians_
 
 ### [ The Prime Minister of Fiji Laisenia Qarase reportedly meets with his security chiefs this morning after yesterday trying to sack Fiji's military commander Frank Bainimarama. Alexander Downer, the Foreign Minister of Australia, has raised concerns about a coup. ](/news/2006/11/1/the-prime-minister-of-fiji-laisenia-qarase-reportedly-meets-with-his-security-chiefs-this-morning-after-yesterday-trying-to-sack-fiji-s-mil.md)
 _Context: Alexander Downer, Australia, Fiji, Laisenia Qarase, Prime Minister, Voreqe Bainimarama_

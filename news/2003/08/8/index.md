@@ -13,7 +13,7 @@ _Context: Crawford, Texas, George W. Bush, U.S. presence in Iraq, national secur
 _Context: Argentina, EU, US v. EU on GM food, World Trade Organization_
 
 ### [ SCO v. IBM Linux lawsuit: IBM furnishes more information on their SCO countersuit and states that they have Novell support.](/news/2003/08/8/sco-v-ibm-linux-lawsuit-ibm-furnishes-more-information-on-their-sco-countersuit-and-states-that-they-have-novell-support.md)
-_Context: ''SCO vs IBM'', IBM, Novell, SCO Group_
+_Context: IBM, Novell, SCO Group, SCO v. IBM_
 
 ### [ War on Terrorism: According to the latest disclosed analysis of the cockpit recordings by the United States investigators, the September 11 terrorist-pilot Ziad Jarrah got instructions to crash the United Airlines flight 93 into the Pennsylvania farmland because of the passenger uprising in the cabin trying to seize the plane's controls.](/news/2003/08/8/war-on-terrorism-according-to-the-latest-disclosed-analysis-of-the-cockpit-recordings-by-the-united-states-investigators-the-september-11.md)
 _Context: Pennsylvania, September 11, United Airlines Flight 93, War on Terrorism, Ziad Jarrah, flight data recorder_

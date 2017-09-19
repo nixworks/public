@@ -10,10 +10,10 @@ Germany will pay $5,000 each to the families of people killed or injured in an a
 A senior Pakistani security official calls on Nato forces to do more to control the Afghan-Pakistan border.
 
 ### [Israeli authorities shut down all crossings into Gaza for the day. ](/news/2010/08/6/israeli-authorities-shut-down-all-crossings-into-gaza-for-the-day.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [An international aid ship, the "Saint Mariam", bearing only female passengers from all backgrounds, including singer May Hariri and several Americans, is to leave Tripoli bound for Gaza after overcoming an Israeli diplomatic mission designed to prevent it from setting sail. ](/news/2010/08/6/an-international-aid-ship-the-saint-mariam-bearing-only-female-passengers-from-all-backgrounds-including-singer-may-hariri-and-several.md)
-_Context: Gaza Strip, Israel, May Hariri, Tripoli_
+_Context: Gaza, Israel, May Hariri, Tripoli_
 
 ### [The United Arab Emirates says the incident in which the Japanese tanker, the MV "M. Star", was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-las.md)
 Explosive-laden dinghy hit Japanese tanker in Strait of Hormuz, state news agency says.

@@ -1,7 +1,7 @@
 ## [2003-12-17](/news/2003/12/17/index.md)
 
 ### [ Linux kernel 2.6.0 is released by Linus Torvalds.](/news/2003/12/17/linux-kernel-2-6-0-is-released-by-linus-torvalds.md)
-_Context: Linus Torvalds, Linux, kernel_
+_Context: Linus Torvalds, Linux, Linux Kernel_
 
 ### [Mowaffaq al-Rubaie says that Saddam Hussein will be tried in Iraq by an Iraqi court. Mowaffaq, a member of the Iraqi Governing Council, denies reports that the prisoner has been taken out of Baghdad. ](/news/2003/12/17/mowaffaq-al-rubaie-says-that-saddam-hussein-will-be-tried-in-iraq-by-an-iraqi-court-mowaffaq-a-member-of-the-iraqi-governing-council-deni.md)
 _Context: Mowaffaq al-Rubaie, Saddam Hussein_

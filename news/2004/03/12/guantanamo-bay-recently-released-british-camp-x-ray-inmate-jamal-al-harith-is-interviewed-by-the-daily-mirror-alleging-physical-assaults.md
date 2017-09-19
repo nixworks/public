@@ -1,0 +1,24 @@
+### [2004-03-12](/news/2004/03/12/index.md)
+
+#  Guantanamo Bay: Recently released British Camp X-Ray inmate Jamal al-Harith is interviewed by the Daily Mirror, alleging physical assaults and psychological torture. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/england/manchester/3504034.stm)
+2. [Daily Mirror](http://www.mirror.co.uk/news/allnews/content_objectid=14042696_method=full_siteid=50143_headline=-MY%2DHELL%2DIN%2DCAMP%2DX%2DRAY-name_page.html)
+
+### Related:
+
+1. [ Camp X-Ray: The US has confirmed that 23 prisoners held in the Guantanamo Bay military base attempted a mass suicide two years ago. ](/news/2005/01/25/camp-x-ray-the-us-has-confirmed-that-23-prisoners-held-in-the-guantanamo-bay-military-base-attempted-a-mass-suicide-two-years-ago.md) _Context: Camp X-Ray, Guantnamo Bay detainment camp_
+2. [ Camp X-Ray: Archbishop Desmond Tutu has called for the release of the remaining inmates at Guantanamo Bay and terror suspects detained without trial in the UK referring to the detentions without trial as ""unacceptable"" and ""distressing"". ](/news/2005/01/12/camp-x-ray-archbishop-desmond-tutu-has-called-for-the-release-of-the-remaining-inmates-at-guantanamo-bay-and-terror-suspects-detained-with.md) _Context: Camp X-Ray, Guantnamo Bay detainment camp_
+3. [ Teenagers released from Guantanamo Bay's Camp X-Ray recall the place fondly. ](/news/2004/03/6/teenagers-released-from-guantanamo-bay-s-camp-x-ray-recall-the-place-fondly.md) _Context: Camp X-Ray, Guantnamo Bay detainment camp_
+4. [ Camp X-ray: The United States' policy of detaining up to 600 people in Guantanamo Bay comes under fierce attack from the Red Cross and a group of American former judges, diplomats and military officers who are asking the Supreme Court of the United States to review the situation. The Red Cross criticises the policy of holding detainees without legal representation and in contravention of legal conventions; it reports a worrying deterioration in the mental health of detainees.](/news/2003/10/10/camp-x-ray-the-united-states-policy-of-detaining-up-to-600-people-in-guantanamo-bay-comes-under-fierce-attack-from-the-red-cross-and-a-gr.md) _Context: Camp X-Ray, Guantnamo Bay detainment camp_
+5. [Four civil cases are filed against Trinity Mirror, publishers of the UK newspaper the "Daily Mirror", over allegations of phone hacking. ](/news/2012/10/23/four-civil-cases-are-filed-against-trinity-mirror-publishers-of-the-uk-newspaper-the-daily-mirror-over-allegations-of-phone-hacking.md) _Context: Daily Mirror_
+6. [Former "Daily Mirror" journalist James Hipwell tells the Leveson Inquiry that phone hacking was a "bog standard journalistic tool" at the paper. ](/news/2011/12/21/former-daily-mirror-journalist-james-hipwell-tells-the-leveson-inquiry-that-phone-hacking-was-a-bog-standard-journalistic-tool-at-the-pa.md) _Context: Daily Mirror_
+7. [Former "Daily Mirror" editor Piers Morgan appears before the Leveson Inquiry via videolink from the United States to deny knowledge of hacking at the paper. ](/news/2011/12/20/former-daily-mirror-editor-piers-morgan-appears-before-the-leveson-inquiry-via-videolink-from-the-united-states-to-deny-knowledge-of-hacki.md) _Context: Daily Mirror_
+8. [Both "The Sun" and "Daily Mirror" tabloid newspapers are accused of being in contempt of court for publishing articles about the arrest of Christopher Jefferies in relation to the murder of Joanna Yeates; Jefferies was later released without charge. British Attorney General Dominic Grieve is seeking to bring charges against the newspapers. Judges will make a decision on the case at a later date.](/news/2011/07/5/both-the-sun-and-daily-mirror-tabloid-newspapers-are-accused-of-being-in-contempt-of-court-for-publishing-articles-about-the-arrest-of-c.md) _Context: Daily Mirror_
+9. [Christopher Jefferies, an early suspect in the investigation into the murder of Joanna Yeates, accepts "substantial" libel damages from eight British newspapers after they published details of his private life. "The Sun" and "Daily Mirror" are also fined for contempt of court in their reporting of the investigation. ](/news/2011/07/29/christopher-jefferies-an-early-suspect-in-the-investigation-into-the-murder-of-joanna-yeates-accepts-substantial-libel-damages-from-eigh.md) _Context: Daily Mirror_
+10. [Former "Daily Mirror" editor Piers Morgan says comments he made in 2009 on BBC Radio 4's "Desert Island Discs" do not suggest he printed stories obtained through illegal reporting. In the programme, he had spoken of "running the results" of work by third parties who did "rake through bins... tap people's phones". ](/news/2011/07/27/former-daily-mirror-editor-piers-morgan-says-comments-he-made-in-2009-on-bbc-radio-4-s-desert-island-discs-do-not-suggest-he-printed-sto.md) _Context: Daily Mirror_

@@ -4,7 +4,7 @@
 _Context: Boeing CH-47 Chinook, Shahi Kot Valley, War in Afghanistan (2001-present), special operations forces_
 
 ### [Bubble fusion: Scientific papers for and against the observation of apparent nuclear fusion in imploding bubbles become available online. If this can be repeated, this is an important scientific breakthrough. Other physicists fear that this may be a repeat of the cold fusion fiasco.](/news/2002/03/4/bubble-fusion-scientific-papers-for-and-against-the-observation-of-apparent-nuclear-fusion-in-imploding-bubbles-become-available-online-if.md)
-_Context: Bubble fusion, cold fusion, nuclear fusion, physicist_
+_Context: bubble fusion, cold fusion, nuclear fusion, physicist_
 
 ## [Previous Day...](/news/2002/03/3/index.md)
 

@@ -4,7 +4,7 @@
 Reservists hold rally outside PM’s Office in Jerusalem, call on Olmert, Peretz to resign. ‘The feeling was that we as soldiers on the ground could have acted but had our hands tied behind our backs,’ protest organizer says; former Etzel member: Now is the new generation’s time – you should...
 
 ### [ Israeli forces have killed three Palestinian Islamic Jihad militants and detained five militants, including a senior member of the governing Hamas movement in two separate incidents in southern Gaza. ](/news/2006/08/24/israeli-forces-have-killed-three-palestinian-islamic-jihad-militants-and-detained-five-militants-including-a-senior-member-of-the-governin.md)
-_Context: Gaza Strip, Hamas, Israel, Palestinian Islamic Jihad_
+_Context: Gaza, Hamas, Israel, Palestinian Islamic Jihad_
 
 ### [ A senior Israeli source says that Israel "may have to go it alone," saying that the Iranian response to a package of incentives to halt its uranium enrichment was just to "gain time," and said that Iran had "flipped the world the bird." ](/news/2006/08/24/a-senior-israeli-source-says-that-israel-may-have-to-go-it-alone-saying-that-the-iranian-response-to-a-package-of-incentives-to-halt-its.md)
 _Context: Iran, Israel, flipped the world the bird_

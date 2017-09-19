@@ -11,7 +11,7 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 
 ### Related:
 
-1. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md) _Context: British Airways_
+1. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after it is verbally threatened. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-it-is-verbally-threatened-after-a-search-it-is-declared-s.md) _Context: British Airways_
 2. [A United Kingdom court blocks a GBP14 billion class action lawsuit against MasterCard. ](/news/2017/07/22/a-united-kingdom-court-blocks-a-agbp14-billion-class-action-lawsuit-against-mastercard.md) _Context: GBP_
 3. [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md) _Context: British Airways_
 4. [A manuscript by the Austrian composer Gustav Mahler sells for about GBP4.5 million at Sotheby's. ](/news/2016/11/30/a-manuscript-by-the-austrian-composer-gustav-mahler-sells-for-about-agbp4-5-million-at-sothebyas.md) _Context: GBP_

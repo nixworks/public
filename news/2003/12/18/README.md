@@ -7,7 +7,7 @@ _Context: Dr. Lyman Spitzer, Jr., Elephant's Trunk nebula, Messier 81, NASA, Spi
 _Context: UK Parliament_
 
 ### [ Capture of Saddam Hussein: a Jordanian news source claims that Saddam Hussein was drugged and betrayed by his personal bodyguard, General Mohammed Ibrahim Omar al-Muslit, a member of his own family. [http://www.news24.com/News24/World/Iraq/0,6119,2-10-1460_1461125,00.html]](/news/2003/12/18/capture-of-saddam-hussein-a-jordanian-news-source-claims-that-saddam-hussein-was-drugged-and-betrayed-by-his-personal-bodyguard-general-m.md)
-_Context: Capture of Saddam Hussein, Mohammed Ibrahim Omar al-Muslit, Saddam Hussein_
+_Context: Mohammed Ibrahim Omar al-Muslit, Saddam Hussein, capture of Saddam Hussein_
 
 ### [ The Court of Arbitration for Sport (CAS) rules to disqualify Spanish athlete Johann Mhlegg and Russian athlete Olga Danilova from all the cross-country skiing races they participated in during the 2002 Winter Olympic Games and thus withdraw their medals, due to doping by darbepoetin. [http://www.tas-cas.org/en/medias/media3.htm]](/news/2003/12/18/the-court-of-arbitration-for-sport-cas-rules-to-disqualify-spanish-athlete-johann-muhlegg-and-russian-athlete-olga-danilova-from-all-the.md)
 _Context: 2002 Winter Olympic Games, Johann Mhlegg, Olga Danilova, cross-country skiers, darbepoetin, doping_

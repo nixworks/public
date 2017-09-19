@@ -4,7 +4,7 @@
 _Context: Eagle County, Colorado, Kobe Bryant, Los Angeles Lakers, basketball_
 
 ### [ The corpse of Dr. David Kelly is discovered, it appears that he committed suicide. Kelly was a British government advisor involved in the "September Dossier" investigation relating to the 2003 war on Iraq. Former Labour Junior Minister Glenda Jackson calls for Prime Minister Blair's resignation and a Mail on Sunday reporter asks, "Do you have blood on your hands. Prime Minister?" Blair refuses to comment, as does Communications Director Campbell.](/news/2003/07/18/the-corpse-of-dr-david-kelly-is-discovered-it-appears-that-he-committed-suicide-kelly-was-a-british-government-advisor-involved-in-the.md)
-_Context: 2003 invasion of Iraq, Alastair Campbell, David Christopher Kelly, Glenda Jackson, September Dossier, The Mail on Sunday, Tony Blair, bodies, suicide_
+_Context: 2003 invasion of Iraq, 45 minutes to launch claim, Alastair Campbell, David Christopher Kelly, Glenda Jackson, The Mail on Sunday, Tony Blair, bodies, suicide_
 
 ### [ The United States Senate passes a defense appropriations bill which explicitly forbids the Department of Defense from spending any money on Terrorist Information Awareness research, effectively putting an end to the Information Awareness Office.](/news/2003/07/18/the-united-states-senate-passes-a-defense-appropriations-bill-which-explicitly-forbids-the-department-of-defense-from-spending-any-money-on.md)
 _Context: Terrorist Information Awareness, Total Information Awareness, U.S. military, United States Senate_

@@ -1,7 +1,7 @@
 ## [2014-07-13](/news/2014/07/13/index.md)
 
 ### [Israel Defense Forces special forces raid a missile launch site in the Gaza Strip and destroy it. ](/news/2014/07/13/israel-defense-forces-special-forces-raid-a-missile-launch-site-in-the-gaza-strip-and-destroy-it.md)
-_Context: Gaza Strip, Israel Defense Forces_
+_Context: Gaza, Israel Defense Forces_
 
 ### [Islamist militias attack the Zintan Brigade which controls Tripoli International Airport triggering fierce clashes that result in six deaths. ](/news/2014/07/13/islamist-militias-attack-the-zintan-brigade-which-controls-tripoli-international-airport-triggering-fierce-clashes-that-result-in-six-deaths.md)
 Islamists&#x20;on&#x20;Sunday&#x20;attacked&#x20;the&#x20;rival&#x20;Zintan&#x20;militia&#x20;that&#x20;now&#x20;controls&#x20;the&#x20;airport&#x20;in&#x20;Tripoli,&#x20;triggering&#x20;fierce&#x20;clashes&#x20;that&#x20;halted&#x20;flights&#x20;amid&#x20;already&#x20;heightened&#x20;tensions&#x20;...

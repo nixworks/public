@@ -1,7 +1,7 @@
 ## [2003-08-2](/news/2003/08/2/index.md)
 
 ### [ The "Daily Telegraph" in the United Kingdom claims attempts by the British Ministry of Defence (MoD) to destroy allegedly important documents about its treatment of BBC source Dr. David Kelly in the weeks before his suicide were foiled by a security guard, who found the documents scheduled for destruction and called the police. The MoD insists the documents were not that important but will now be preserved and supplied to the Hutton Inquiry into the Kelly case.](/news/2003/08/2/the-daily-telegraph-in-the-united-kingdom-claims-attempts-by-the-british-ministry-of-defence-mod-to-destroy-allegedly-important-documen.md)
-_Context: Daily Telegraph, Dr. David Kelly, Ministry of Defence_
+_Context: Daily Telegraph, Dr David Kelly, Ministry of Defence_
 
 ### [ The United Nations authorizes an international peacekeeping force for Liberia. The United States is criticized by members of the Security Council for insisting that UN peacekeepers serving in Liberia be granted immunity from war crimes prosecution. The U.S. demand is described by its critics as a breach of international law.](/news/2003/08/2/the-united-nations-authorizes-an-international-peacekeeping-force-for-liberia-the-united-states-is-criticized-by-members-of-the-security-c.md)
 _Context: Liberia, Security Council, U.N. peacekeeper, United Nations, war crimes_

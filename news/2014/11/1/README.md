@@ -10,7 +10,7 @@ _Context: Kenyan police, northwest Kenya_
 150 troops with heavy artillery cross into Syria after brief delay on Turkish side of border
 
 ### [The Israel Defense Forces report a rocket fired from Gaza landed in Israeli territory with no injuries or damage. ](/news/2014/11/1/the-israel-defense-forces-report-a-rocket-fired-from-gaza-landed-in-israeli-territory-with-no-injuries-or-damage.md)
-_Context: Gaza Strip, Israel, Israel Defense Forces, Israel-Gaza conflict_
+_Context: Gaza, Israel, Israel Defense Forces, Israel-Gaza conflict_
 
 ### [At least four people are dead, one injured and several missing following a fire in a two apartment building near the University of Southern Maine campus in Portland. ](/news/2014/11/1/at-least-four-people-are-dead-one-injured-and-several-missing-following-a-fire-in-a-two-apartment-building-near-the-university-of-southern.md)
 _Context: Portland, University of Southern Maine_

@@ -25,7 +25,7 @@ _Context: Bangkok, Canada, Miss Universe, Natalie Glebova, Thailand_
 _Context: Deep Throat, FBI, Vanity Fair, W. Mark Felt, Watergate_
 
 ### [ Hamas have declared that they will be boycotting the re-vote which was requested in three Districts of the Gaza Strip. ](/news/2005/05/31/hamas-have-declared-that-they-will-be-boycotting-the-re-vote-which-was-requested-in-three-districts-of-the-gaza-strip.md)
-_Context: Gaza Strip, Hamas, boycott_
+_Context: Gaza, Hamas, boycott_
 
 ### [ Police in Israel say they have uncovered an Industrial espionage plot involving 15 Israeli firms. Trojan horse computer viruses are believed to have been used to hack into rivals' systems and 20 people have so far been arrested. ](/news/2005/05/31/police-in-israel-say-they-have-uncovered-an-industrial-espionage-plot-involving-15-israeli-firms-trojan-horse-computer-viruses-are-believe.md)
 _Context: Israel, Trojan horse, computer virus, hackers, industrial espionage, police_

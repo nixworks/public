@@ -1,0 +1,23 @@
+### [2004-03-14](/news/2004/03/14/index.md)
+
+#  Several Kurds storm the Syrian embassy in Brussels protesting about violence and deaths in north-east Syria over the weekend. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3508710.stm)
+
+### Related:
+
+1. [Turkish air strikes kill 18 Kurdish YPG fighters and media officials in northeastern Syria. Also five Peshmerga fighters are killed during a Turkish attack on Sinjar in Iraq. Turkey also claims to have destroyed "terror hubs". Iraq denounces the strike as a violation of its sovereignty. ](/news/2017/04/25/turkish-air-strikes-kill-18-kurdish-ypg-fighters-and-media-officials-in-northeastern-syria-also-five-peshmerga-fighters-are-killed-during-a.md) _Context: Kurdish, Syria_
+2. [A suicide bomb explosion in Kurdish-controlled Al-Hasakah in northeastern Syria kills at least 16 people, including three children and two women. ISIL claims responsibility. ](/news/2016/07/5/a-suicide-bomb-explosion-in-kurdish-controlled-al-hasakah-in-northeastern-syria-kills-at-least-16-people-including-three-children-and-two-w.md) _Context: Kurdish, Syria_
+3. [Kurdish parties in northern Syria declare the establishment of a federal system in areas they control. Turkey and the United States had warned this risks further destabilizing the already war-ravaged country. The move was criticized by the government of Syria. ](/news/2016/03/17/kurdish-parties-in-northern-syria-declare-the-establishment-of-a-federal-system-in-areas-they-control-turkey-and-the-united-states-had-warn.md) _Context: Kurdish, Syria_
+4. [A triple truck-bomb attack on the Kurdish YPG militia-controlled town of Tell Tamer in Syria's northeast Al-Hasakah Governorate leaves as many as 50 people dead and 80 others wounded. The Islamic State of Iraq and the Levant claims responsibility for the attacks, saying in an online statement that three of its fighters driving three separate vehicles had detonated the suicide bombs targeting "bases" belonging to Kurdish fighters. ](/news/2015/12/11/a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town-of-tell-tamer-in-syria-s-northeast-al-hasakah-governorate-leaves-as-ma.md) _Context: Kurdish, Syria_
+5. [United States Defense Secretary Ashton Carter says the U.S. will begin "direct action on the ground" against the ISIL forces in Iraq and Syria, aiming to intensify pressure on the militants as progress against the militants remains elusive. The U.S. has done some special operations raids in Syria, e.g., last week's rescue operation with Kurdish forces in northern Iraq to free hostages held by ISIL. Carter also said the U.S. would intensify the air campaign against ISIL with heavier airstrikes and will focus on Raqqa, the group's declared capital in Syria. ](/news/2015/10/27/united-states-defense-secretary-ashton-carter-says-the-u-s-will-begin-direct-action-on-the-ground-against-the-isil-forces-in-iraq-and-syr.md) _Context: Kurdish, Syria_
+6. [The Associated Press reports that Kurds in Syria established a new administration in the Sunni-Arab town of Tal Abyad, which the Kurds wrestled from ISIS last June. ](/news/2015/10/22/the-associated-press-reports-that-kurds-in-syria-established-a-new-administration-in-the-sunni-arab-town-of-tal-abyad-which-the-kurds-wrest.md) _Context: Kurdish, Syria_
+7. [U.S. cargo planes airdrop small arms ammunition and other supplies to Syrian rebels, including Kurdish groups such as YPG, in northern Syria. ](/news/2015/10/12/u-s-cargo-planes-airdrop-small-arms-ammunition-and-other-supplies-to-syrian-rebels-including-kurdish-groups-such-as-ypg-in-northern-syria.md) _Context: Kurdish, Syria_
+8. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syria_
+9. [A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. ](/news/2017/08/25/a-somali-man-has-been-shot-dead-after-attacking-soldiers-with-a-machete-in-brussels-in-what-prosecutors-are-treating-as-a-terror-attack.md) _Context: Brussels_
+10. [Seven members of the White Helmets are shot dead by unidentified gunmen who stormed their office in rebel-held Sarmin, in northwestern Syria. ](/news/2017/08/12/seven-members-of-the-white-helmets-are-shot-dead-by-unidentified-gunmen-who-stormed-their-office-in-rebel-held-sarmin-in-northwestern-syria.md) _Context: Syria_

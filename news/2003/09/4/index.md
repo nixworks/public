@@ -1,13 +1,13 @@
 ## [2003-09-4](/news/2003/09/4/index.md)
 
 ### [ North Korea announces re-election of dictator Kim Jong-il as chairman of the National Defense Commission by a unanimous vote of the Supreme People's Assembly, a move dismissed as a propaganda stunt by Western observers, who nearly all regard the Supreme People's Assembly as a rubber stamp body.](/news/2003/09/4/north-korea-announces-re-election-of-dictator-kim-jong-il-as-chairman-of-the-national-defense-commission-by-a-unanimous-vote-of-the-supreme.md)
-_Context: Kim Jong-il, North Korea, Supreme People's Assembly, Western, propaganda, rubber stamp_
+_Context: Kim Jong-il, North Korea, Supreme People's Assembly, propaganda, rubber stamp, westerners_
 
 ### [ California legislature passes expanded domestic partnership bill. The state assembly approved a measure to extend nearly all the legal rights of married couples to people in same-sex partnerships. If signed by the governor, the bill will become law in 2005.](/news/2003/09/4/california-legislature-passes-expanded-domestic-partnership-bill-the-state-assembly-approved-a-measure-to-extend-nearly-all-the-legal-righ.md)
 _Context: California, domestic partner_
 
 ### [ The right wing British National Party (BNP) candidate Nicholas Geri, who is of Italian descent, wins a surprise victory in a local government by-election to Thurrock Borough Council in Essex. The Labour Party, which has a 21-seat majority on the Council, sees its candidate pushed into third place, behind the BNP and the Conservative Party. Turnout in the by-election was 22%.](/news/2003/09/4/the-right-wing-british-national-party-bnp-candidate-nicholas-geri-who-is-of-italian-descent-wins-a-surprise-victory-in-a-local-governme.md)
-_Context: British National Party, Conservative Party, Essex, Labour, Thurrock, by-election, right wing_
+_Context: British National Party, Conservative Party, Essex, Labour, Thurrock, by-election, right-wing_
 
 ### [ Singapore drops its 21-year ban on "Cosmopolitan" magazine and slightly relaxes its film censorship policy. Despite this move, the censorship board's surveyors found the Singaporean public largely does not want the country's tough censorship rules liberalized.](/news/2003/09/4/singapore-drops-its-21-year-ban-on-cosmopolitan-magazine-and-slightly-relaxes-its-film-censorship-policy-despite-this-move-the-censorsh.md)
 _Context: Cosmopolitan, Singapore, censorship_

@@ -13,7 +13,7 @@ _Context: Big Dig, Contractors, Massachusetts, US$, associated flaws, fatal tunn
 _Context: Asia, BSE Sensex, CAC 40, DAX, Europe, FTSE 100 Index, Hang Seng Index_
 
 ### [ Thousands of Palestinians flee into Egypt, as the border wall with Gaza in Rafah is blown up by militants. ](/news/2008/01/23/thousands-of-palestinians-flee-into-egypt-as-the-border-wall-with-gaza-in-rafah-is-blown-up-by-militants.md)
-_Context: Egypt, Gaza Strip, Palestinians, Rafah_
+_Context: Egypt, Gaza, Palestinians, Rafah_
 
 ### [ Police in Zimbabwe arrest Morgan Tsvangirai, the leader of the Movement for Democratic Change, the principal opposition party. ](/news/2008/01/23/police-in-zimbabwe-arrest-morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-the-principal-opposition-party.md)
 The lawyer for Zimbabwe&#039;s main opposition leader Morgan Tsvangirai say police took him away in the middle of the night for questioning about a demonstration planned for later today.

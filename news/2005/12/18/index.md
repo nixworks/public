@@ -25,7 +25,7 @@ _Context: Afghanistan, Dick Cheney, Egypt, Iraq, Oman, Pakistan, Saudi Arabia, U
 _Context: 2005 ASEAN Para Games, Malaysia, Philippines, Thailand_
 
 ### [ The prime minister of Israel Ariel Sharon is transferred to the Hadassah Ein Kerem hospital in Jerusalem after suffering a minor stroke. Meanwhile, some Palestinians have taken to the streets in Gaza to celebrate Sharon's health condition and the Kahane organisation has urged Jews to pray for his death. [http://www.ynetnews.com/articles/0,7340,L-3186378,00.html (Ynetnews)] (Wikinews)](/news/2005/12/18/the-prime-minister-of-israel-ariel-sharon-is-transferred-to-the-hadassah-ein-kerem-hospital-in-jerusalem-after-suffering-a-minor-stroke-me.md)
-_Context: (Wikinews), Ariel Sharon, Gaza Strip, Hadassah Ein Kerem hospital, Israeli Prime Minister, Jerusalem, Jew, Kahane, Palestinians, stroke_
+_Context: (Wikinews), Ariel Sharon, Gaza, Hadassah Ein Kerem hospital, Israeli Prime Minister, Jerusalem, Jew, Kahane, Palestinians, stroke_
 
 ### [ SGBPo Paulo win the FIFA Club World Championship in Yokohama, Japan, defeating Liverpool F.C. 1-0. ](/news/2005/12/18/sagbpo-paulo-win-the-fifa-club-world-championship-in-yokohama-japan-defeating-liverpool-f-c-1-0.md)
 _Context: FIFA Club World Championship, Japan, Liverpool, SGBPo Paulo, Yokohama_

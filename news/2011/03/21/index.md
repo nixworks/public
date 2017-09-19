@@ -16,7 +16,7 @@ Thousands of demonstrators march through the southern Syrian city of Deraa calli
 _Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Laurent Gbagbo_
 
 ### [Israel Defense Forces launch air strikes on the Gaza Strip after militants fire mortars and rockets at Israel resulting in 19 Palestineans being injured. ](/news/2011/03/21/israel-defense-forces-launch-air-strikes-on-the-gaza-strip-after-militants-fire-mortars-and-rockets-at-israel-resulting-in-19-palestineans-b.md)
-_Context: Gaza Strip, Israel, Israel Defense Forces, Mortar, Palestinian, air strike_
+_Context: Gaza, Israel, Israel Defense Forces, Mortar, Palestinian, air strike_
 
 ### [The World Bank predicts that the 2011 Tohoku earthquake and tsunami will cause a temporary slowdown in the Japanese economy before reconstruction has a positive economic impact. ](/news/2011/03/21/the-world-bank-predicts-that-the-2011-tahoku-earthquake-and-tsunami-will-cause-a-temporary-slowdown-in-the-japanese-economy-before-reconstr.md)
 _Context: Japanese economy, World Bank, an earthquake and tsunami_

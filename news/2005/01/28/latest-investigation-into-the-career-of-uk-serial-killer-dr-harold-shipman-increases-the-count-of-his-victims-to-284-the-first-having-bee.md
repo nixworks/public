@@ -13,4 +13,5 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ### Related:
 
-1. [Dr. Harold Shipman is sentenced to life in prison for murder of at least 15 of his patients out of 365 suspected victims.](/news/2000/01/31/dr-harold-shipman-is-sentenced-to-life-in-prison-for-murder-of-at-least-15-of-his-patients-out-of-365-suspected-victims.md) _Context: Dr. Harold Shipman_
+1. [ British serial killer Dr Harold Shipman is found dead in his cell.](/news/2004/01/13/british-serial-killer-dr-harold-shipman-is-found-dead-in-his-cell.md) _Context: Dr. Harold Shipman_
+2. [Dr. Harold Shipman is sentenced to life in prison for murder of at least 15 of his patients out of 365 suspected victims.](/news/2000/01/31/dr-harold-shipman-is-sentenced-to-life-in-prison-for-murder-of-at-least-15-of-his-patients-out-of-365-suspected-victims.md) _Context: Dr. Harold Shipman_

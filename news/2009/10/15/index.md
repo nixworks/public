@@ -22,7 +22,7 @@ _Context: 2009 Nobel Peace Prize, Barack Obama, Norway_
 _Context: Korean Peninsula, North Korea, South Korea, territorial waters_
 
 ### [ Palestinians have urged the UN to act to punish Israel for its offensive in the Gaza Strip last winter. ](/news/2009/10/15/palestinians-have-urged-the-un-to-act-to-punish-israel-for-its-offensive-in-the-gaza-strip-last-winter.md)
-_Context: 2008-2009 Gaza War, Gaza Strip, Israel, Palestinians, UN_
+_Context: 2008-2009 Gaza War, Gaza, Israel, Palestinians, UN_
 
 ### [ At least 37 people are killed in a series of bomb attacks in Pakistani cities by militants. ](/news/2009/10/15/at-least-37-people-are-killed-in-a-series-of-bomb-attacks-in-pakistani-cities-by-militants.md)
 _Context: Pakistan_

@@ -19,7 +19,7 @@ After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General
 _Context: Baghdad, Iraq, U.S.-led troops, insurgency_
 
 ### [ Two Israeli missiles fired from an aircraft hit a van carrying a Palestinian rocket-launching squad in Gaza with Grad 122 mm rockets. Two Islamic Jihad militants and seven civilians are killed, including two schoolchildren and three medical personnel. Israeli Defense minister expresses sorrow, but no apology. ](/news/2006/06/13/two-israeli-missiles-fired-from-an-aircraft-hit-a-van-carrying-a-palestinian-rocket-launching-squad-in-gaza-with-grad-122-mm-rockets-two-i.md)
-_Context: Gaza Strip, Grad, Islamic Jihad, Israel, rocket attacks_
+_Context: Gaza, Grad, Islamic Jihad, Israel, rocket attacks_
 
 ### [ At least 10 people are killed and 20 others are wounded in car bombing attacks in a popular market in Kirkuk, Iraq. ](/news/2006/06/13/at-least-10-people-are-killed-and-20-others-are-wounded-in-car-bombing-attacks-in-a-popular-market-in-kirkuk-iraq.md)
 _Context: Iraq, Kirkuk_

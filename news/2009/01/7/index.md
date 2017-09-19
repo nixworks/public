@@ -7,7 +7,7 @@ _Context: 2009, Congressional Budget Office, US$, United States, United States, 
 _Context: Ramalinga Raju, Satyam Computer Services, accounting fraud_
 
 ### [ Israel and Hamas resume hostilities after a three-hour respite to allow humanitarian aid to reach Gaza. ](/news/2009/01/7/israel-and-hamas-resume-hostilities-after-a-three-hour-respite-to-allow-humanitarian-aid-to-reach-gaza.md)
-_Context: Gaza Strip, Hamas, Israel, aid, fire_
+_Context: Gaza, Hamas, Israel, aid, fire_
 
 ## [Previous Day...](/news/2009/01/6/index.md)
 

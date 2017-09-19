@@ -4,7 +4,7 @@
 _Context: Charles G. Taylor, Liberia, Moses Blah_
 
 ### [ 2003 California recall: New California voter survey finds nearly two-thirds of the state's voters want a new governor.](/news/2003/08/11/2003-california-recall-new-california-voter-survey-finds-nearly-two-thirds-of-the-state-s-voters-want-a-new-governor.md)
-_Context: California recall_
+_Context: 2003 California recall_
 
 ### [ Herb Brooks, the coach of the 1980 US gold medal ice hockey team that beat the Soviet Union in a game that was called The Miracle on Ice, dies in a car accident.](/news/2003/08/11/herb-brooks-the-coach-of-the-1980-us-gold-medal-ice-hockey-team-that-beat-the-soviet-union-in-a-game-that-was-called-the-miracle-on-ice-d.md)
 _Context: Herb Brooks, The Miracle on Ice, ice hockey_
@@ -19,7 +19,7 @@ _Context: Algarve, Catalonia, heat wave_
 _Context: Montreal, caesarean section, ectopic pregnancy, uterus_
 
 ### [ Lord Hutton's inquiry into the death of British scientist Dr. David Kelly begins in London.](/news/2003/08/11/lord-hutton-s-inquiry-into-the-death-of-british-scientist-dr-david-kelly-begins-in-london.md)
-_Context: Dr. David Kelly, Lord Hutton_
+_Context: Dr David Kelly, Lord Hutton_
 
 ### [ The Spirit of Butts Farm becomes the first radio-controlled model aeroplane to cross the Atlantic.](/news/2003/08/11/the-spirit-of-butts-farm-becomes-the-first-radio-controlled-model-aeroplane-to-cross-the-atlantic.md)
 _Context: The Spirit of Butts Farm_

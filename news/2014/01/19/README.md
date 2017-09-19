@@ -7,7 +7,7 @@ At least 20 soldiers are killed and 24 injured in a bomb attack on an army convo
 Twenty-eight people were wounded, seven of them seriously, in a blast at an anti-government protest on Sunday afternoon, the second daylight attack using explosives in 48 hours in the Thai capital.
 
 ### [The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-gaza-strip-and-wounding-tw.md)
-_Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israeli Air Force_
+_Context: Gaza, Islamic Jihad Movement in Palestine, Israeli Air Force_
 
 ### [New violent clashes erupt in Ukraine as a reaction to new strict anti-protest laws. ](/news/2014/01/19/new-violent-clashes-erupt-in-ukraine-as-a-reaction-to-new-strict-anti-protest-laws.md)
 ### [Residents of the historic Norwegian village of Laerdalsoyri are evacuated due to a fire that has destroyed at least 10 homes. ](/news/2014/01/19/residents-of-the-historic-norwegian-village-of-la-rdalsa-yri-are-evacuated-due-to-a-fire-that-has-destroyed-at-least-10-homes.md)

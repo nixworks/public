@@ -16,7 +16,7 @@ _Context: Lebanon, Prime Minister, Rafik Hariri, Syria, UNSC resolution, United 
 _Context: Amani Abeid Karume, Chama Cha Mapinduzi, President, Zanzibar_
 
 ### [ Israeli-Palestinian Conflict: 2 Palestinian militants, one from Hamas, the other the Al Aqsa Martyrs Brigade, have died following an Israeli air-strike in the Gaza Strip. ](/news/2005/11/1/israeli-palestinian-conflict-2-palestinian-militants-one-from-hamas-the-other-the-al-aqsa-martyrs-brigade-have-died-following-an-israel.md)
-_Context: Al Aqsa Martyrs Brigade, Gaza Strip, Hamas, Israel, Israeli-Palestinian conflict, Palestinian_
+_Context: Al Aqsa Martyrs Brigade, Gaza, Hamas, Israel, Israeli-Palestinian conflict, Palestinian_
 
 ### [ North Korea and South Korea will field a united Olympics team at the next Olympic Games. ](/news/2005/11/1/north-korea-and-south-korea-will-field-a-united-olympics-team-at-the-next-olympic-games.md)
 _Context: North Korea, Olympic Games, South Korea_

@@ -4,7 +4,7 @@
 _Context: California, Congress, Democratic, Pete Stark, Unitarian, United States House of Representatives_
 
 ### [ The BBC's correspondent in the Gaza Strip, Alan Johnston, who is the only Gaza-based foreign reporter from a major media organisation, is kidnapped. All the main Palestinian militant groups have called for his release. ](/news/2007/03/12/the-bbc-s-correspondent-in-the-gaza-strip-alan-johnston-who-is-the-only-gaza-based-foreign-reporter-from-a-major-media-organisation-is-k.md)
-_Context: Alan Johnston, BBC, Gaza Strip, Palestinian_
+_Context: Alan Johnston, BBC, Gaza, Palestinian_
 
 ### [ The High Court of Zimbabwe rules that detained opposition leader Morgan Tsvangirai of the Movement for Democratic Change must either be brought into court on Tuesday or released. ](/news/2007/03/12/the-high-court-of-zimbabwe-rules-that-detained-opposition-leader-morgan-tsvangirai-of-the-movement-for-democratic-change-must-either-be-bro.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Zimbabwe_

@@ -1,0 +1,19 @@
+### [2003-11-23](/news/2003/11/23/index.md)
+
+#  The People's Republic of China plans to start tests of a SARS vaccine on humans by the end of December; trials with monkeys show that the vaccine was effective.
+
+
+
+
+### Related:
+
+1. [ Dr. Jiang Yanyong, who exposed the SARS coverup in the People's Republic of China, sends a letter to the National People's Congress calling the forceful suppression of the Tiananmen Square protests of 1989 a "mistake." ](/news/2004/03/8/dr-jiang-yanyong-who-exposed-the-sars-coverup-in-the-people-s-republic-of-china-sends-a-letter-to-the-national-people-s-congress-calling.md) _Context: SARS_
+2. [SARS quarantine orders are lifted on up to 75 people in Singapore but concerns remain that the deadly virus could yet make a comeback across Asia. [http://www.theage.com.au/articles/2003/12/19/1071337158736.html]](/news/2003/12/19/sars-quarantine-orders-are-lifted-on-up-to-75-people-in-singapore-but-concerns-remain-that-the-deadly-virus-could-yet-make-a-comeback-across.md) _Context: SARS_
+3. [ Taiwan reports the first confirmed SARS case in 5 months, a medical researcher who had studied the virus. [http://story.news.yahoo.com/news?tmpl=story&cid=624&ncid=753&e=10&u=/ap/20031217/ap_on_sc/taiwan_sars]](/news/2003/12/17/taiwan-reports-the-first-confirmed-sars-case-in-5-months-a-medical-researcher-who-had-studied-the-virus-http-story-news-yahoo-com-news.md) _Context: SARS_
+4. [ Researchers report that some patients who recovered from SARS have developed bone disease, possibly as a result of drugs used to fight the infection.](/news/2003/11/10/researchers-report-that-some-patients-who-recovered-from-sars-have-developed-bone-disease-possibly-as-a-result-of-drugs-used-to-fight-the.md) _Context: SARS_
+5. [ SARS: Public health officials are investigating seven deaths and several infections in an outbreak that resembles, but is not believed to be, SARS in a nursing home in Surrey, British Columbia (a suburb of Vancouver). However, until more is known about the disease, the home will be treated as a SARS site for safety's sake. ](/news/2003/08/14/sars-public-health-officials-are-investigating-seven-deaths-and-several-infections-in-an-outbreak-that-resembles-but-is-not-believed-to-b.md) _Context: SARS_
+6. [ Taiwan is the last territory to be declared free of SARS by the World Health Organization, after 20 days with no new cases reported. ](/news/2003/07/5/taiwan-is-the-last-territory-to-be-declared-free-of-sars-by-the-world-health-organization-after-20-days-with-no-new-cases-reported.md) _Context: SARS_
+7. [ For the first time in more than two months, no new deaths were reported yesterday from SARS, the latest indication that the epidemic is subsiding, the World Health Organization said.](/news/2003/06/5/for-the-first-time-in-more-than-two-months-no-new-deaths-were-reported-yesterday-from-sars-the-latest-indication-that-the-epidemic-is-sub.md) _Context: SARS_
+8. [ China announces a new series of measures to combat SARS. Foreign adoptions of Chinese babies are now suspended. The penalties for knowingly spreading the disease have been increased, and now include execution.](/news/2003/05/15/china-announces-a-new-series-of-measures-to-combat-sars-foreign-adoptions-of-chinese-babies-are-now-suspended-the-penalties-for-knowingly.md) _Context: SARS_
+9. [ The World Health Organization holds a meeting in Toronto regarding SARS.](/news/2003/04/30/the-world-health-organization-holds-a-meeting-in-toronto-regarding-sars.md) _Context: SARS_
+10. [ Dr. Julie Gerberding, a director of the U.S. Centers for Disease Control, states her concern that SARS threatens to become a global pandemic.](/news/2003/04/3/dr-julie-gerberding-a-director-of-the-u-s-centers-for-disease-control-states-her-concern-that-sars-threatens-to-become-a-global-pandemi.md) _Context: SARS_

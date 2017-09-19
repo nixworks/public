@@ -13,7 +13,7 @@ Baltimore, Maryland issues tickets to legally parked motorists after smart parki
 _Context: Gap Inc., India, New Delhi, The Observer, child labor, sweatshop_
 
 ### [ Israel reduces the flow of oil to the Hamas-controlled Gaza Strip. ](/news/2007/10/28/israel-reduces-the-flow-of-oil-to-the-hamas-controlled-gaza-strip.md)
-_Context: Gaza Strip, Hamas, Israel, oil_
+_Context: Gaza, Hamas, Israel, oil_
 
 ### [ Scandinavian Airlines decides to immediately and permanently discontinue services based on the use of its 24 Dash 8 Q400 after a series of crash landings. ](/news/2007/10/28/scandinavian-airlines-decides-to-immediately-and-permanently-discontinue-services-based-on-the-use-of-its-24-dash-8-q400-after-a-series-of.md)
 _Context: Dash 8 Q400, Scandinavian Airlines_

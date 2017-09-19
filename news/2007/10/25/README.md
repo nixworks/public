@@ -7,7 +7,7 @@ _Context: Congress, genocide of Armenians_
 American border patrol agents discovered four charred bodies in rugged mountains near the Mexican border, bringing the probable death toll from California&#039;s bushfires to 12, even as firefighters gained the upper hand in their five-day battle.
 
 ### [ Ehud Barak, the Defense Minister of Israel, approves a plan to cut off supplies of electricity to the Gaza Strip which has been recently declared as "hostile territory". ](/news/2007/10/25/ehud-barak-the-defense-minister-of-israel-approves-a-plan-to-cut-off-supplies-of-electricity-to-the-gaza-strip-which-has-been-recently-de.md)
-_Context: Ehud Barak, Gaza Strip, Israel_
+_Context: Ehud Barak, Gaza, Israel_
 
 ### [ 30 killed in a powerful explosion near the police lines in Mingora in Swat, Pakistan.date=December 2007](/news/2007/10/25/30-killed-in-a-powerful-explosion-near-the-police-lines-in-mingora-in-swat-pakistan-date-december-2007.md)
 _Context: Pakistan, Swat, Pakistan_

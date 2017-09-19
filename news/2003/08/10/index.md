@@ -16,7 +16,7 @@ _Context: Heathrow, Pope John Paul II, heat wave_
 _Context: Charles G. Taylor, Liberia, Monrovia, war criminal_
 
 ### [ The British Conservative Party leader Iain Duncan Smith demands that Prime Minister Tony Blair apologise for the comments of his press secretary, Tom Kelly, in which Kelly compared Dr. David Kelly, the BBC source who took his own life after his identity was revealed by the Ministry of Defence, to the fictional "Walter Mitty" character.](/news/2003/08/10/the-british-conservative-party-leader-iain-duncan-smith-demands-that-prime-minister-tony-blair-apologise-for-the-comments-of-his-press-secr.md)
-_Context: BBC, Conservative Party, Dr. David Kelly, Iain Duncan Smith, Prime Minister, Tony Blair, Walter Mitty_
+_Context: BBC, Conservative Party, Dr David Kelly, Iain Duncan Smith, Prime Minister, Tony Blair, Walter Mitty_
 
 ### [ A 16-year-old Israeli was killed and five people were injured in Hezbollah shelling of the northern Israeli town of Shlomi. Israeli planes attacked Hezbollah targets in Lebanon in response. Some sources claim Hezbollah's attack was a response to Israel's car-bomb assassination of Hezbollah member Ali Hussein Saleh in Beirut on August 3 in which two passersby were injured.](/news/2003/08/10/a-16-year-old-israeli-was-killed-and-five-people-were-injured-in-hezbollah-shelling-of-the-northern-israeli-town-of-shlomi-israeli-planes.md)
 _Context: Ali Hussein Saleh, Hezbollah, Israel, Lebanon_

@@ -52,7 +52,7 @@ _Context: Chinese, Dalai Lama, Exile, Nepal, Tibetan_
 Roscommon-Leitrim South Fine Gael TD Denis Naughten has voted against the Government on a motion relating to the downgrading &hellip;
 
 ### [The French ship "Dignity Al Karama" is reported to have successfully reached international waters and is heading for the Gaza Strip, with hopes expressed that the remaining unsabotaged ships currently being held by Greek authorities will soon join it. ](/news/2011/07/6/the-french-ship-dignity-al-karama-is-reported-to-have-successfully-reached-international-waters-and-is-heading-for-the-gaza-strip-with-ho.md)
-_Context: Gaza Strip, international waters_
+_Context: Gaza, international waters_
 
 ### [Israeli officials are reported to be boycotting a United Nations official over an unpublished report concerning the part played by Israeli forces in the recent deaths of 7 Palestinian protesters during the annual Nakba commemorations. ](/news/2011/07/6/israeli-officials-are-reported-to-be-boycotting-a-united-nations-official-over-an-unpublished-report-concerning-the-part-played-by-israeli-f.md)
 _Context: Nakba, United Nations_

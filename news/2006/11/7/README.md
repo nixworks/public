@@ -25,7 +25,7 @@ A woman who died two months ago won a county commissioner&#39;s race in Jerauld 
 _Context: Anfal campaign, Kurd, Saddam Hussein, genocide_
 
 ### [ Operation Autumn Clouds: The Israeli Defense Forces began to pull its troops out of the northern Gaza Strip town of Beit Hanun, Palestinian officials said. Fifty-three Palestinians, including 16 civilians, and an IDF soldier have been killed since the operation began on October 31. ](/news/2006/11/7/operation-autumn-clouds-the-israeli-defense-forces-began-to-pull-its-troops-out-of-the-northern-gaza-strip-town-of-beit-hanun-palestinian.md)
-_Context: Beit Hanun, Gaza Strip, October 31, Operation Autumn Clouds_
+_Context: Beit Hanun, Gaza, October 31, Operation Autumn Clouds_
 
 ### [ A deadly tornado kills nine and injures twelve in Saroma, Hokkaido, Japan. ](/news/2006/11/7/a-deadly-tornado-kills-nine-and-injures-twelve-in-saroma-hokkaido-japan.md)
 _Context: Japan, Saroma, Hokkaido, kills nine and injures twelve, tornado_

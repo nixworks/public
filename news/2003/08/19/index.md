@@ -10,7 +10,7 @@ _Context: Hamas, Hebron, Israel, Jerusalem, Jerusalem bus 2 massacre, Palestinia
 _Context: Al Qaida's, Casablanca, Morocco, Osama bin Laden, Salafia Jihadia, War on Terrorism_
 
 ### [ Occupation of Iraq: Iraqi Vice President Taha Yassin Ramadan, disguised as an Arab Bedouin, has been captured. Ramadan served as Saddam's thug and a member of Iraq's Revolutionary Command Council. Kurdish group claims responsibility for the capture of Ramadan. He was handed over to Coalition forces in Mosul.](/news/2003/08/19/occupation-of-iraq-iraqi-vice-president-taha-yassin-ramadan-disguised-as-an-arab-bedouin-has-been-captured-ramadan-served-as-saddam-s-t.md)
-_Context: Bedouin, Kurd, Mosul, Occupation of Iraq, Revolutionary Command Council, Taha Yassin Ramadan, Vice President_
+_Context: Bedouin, Iraq war, Kurd, Mosul, Revolutionary Command Council, Taha Yassin Ramadan, Vice President_
 
 ### [ Afghanistan celebrates its Independence Day amid one of the bloodiest weeks in a year, with heavily armed guerrillas killing at least nine police officers in the latest in a string of ambushes. In the last week, the country has been battered by an onslaught from insurgents, who are believed to be a mix of guerrillas from the ousted Taliban regime, al-Qaida fighters and supporters of renegade warlord Gulbuddin Hekmatyar.](/news/2003/08/19/afghanistan-celebrates-its-independence-day-amid-one-of-the-bloodiest-weeks-in-a-year-with-heavily-armed-guerrillas-killing-at-least-nine.md)
 _Context: Afghanistan, Al Qaida's, Gulbuddin Hekmatyar, Taliban, guerillas_

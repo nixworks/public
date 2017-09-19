@@ -7,7 +7,7 @@ _Context: 2003 bombings, Riyadh, Saudi Arabia, al-Qaeda, car bomb_
 _Context: Chechnya, FSB, Znamenskoye, truck bomb_
 
 ### [ Rihab Rashid Taha, the alleged Iraqi biological weapons chief known as "Dr Germ", is taken into custody. She is not on the U.S. list of most-wanted Iraqis because she has been out of power for several years.](/news/2003/05/12/rihab-rashid-taha-the-alleged-iraqi-biological-weapons-chief-known-as-dr-germ-is-taken-into-custody-she-is-not-on-the-u-s-list-of-mos.md)
-_Context: Rihab Rashid Taha, biological weapon, most-wanted list of former top officials_
+_Context: Rihab Rashid Taha, biological weapon, most wanted Iraqis_
 
 ### [ Clare Short resigns from the UK cabinet, saying that Tony Blair had reneged on promises about the role of the United Nations in the future of Iraq. Her successor as International Development Secretary, the Baroness Amos, is the UK's first black woman cabinet minister.](/news/2003/05/12/clare-short-resigns-from-the-uk-cabinet-saying-that-tony-blair-had-reneged-on-promises-about-the-role-of-the-united-nations-in-the-future.md)
 _Context: Clare Short, Iraq, Tony Blair, UK cabinet, United Nations, Valerie Amos_

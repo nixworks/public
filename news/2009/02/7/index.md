@@ -10,7 +10,7 @@ _Context: Bolivia, constitution_
 _Context: Mianwali, Pakistani police, Punjab_
 
 ### [ The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. ](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.md)
-_Context: Gaza Strip, Israel, Israeli Air Force, Palestinian, fire, militant, rocket_
+_Context: Gaza, Israel, Israeli Air Force, Palestinian, fire, militant, rocket_
 
 ### [ Brazilian Federal Police confiscate 3.8&nbsp;tons of cocaine from a ship at a Paranagua port. ](/news/2009/02/7/brazilian-federal-police-confiscate-3-8-nbsp-tons-of-cocaine-from-a-ship-at-a-paranagua-port.md)
 _Context: Brazil, Brazilian police, Paranagua, cocaine_

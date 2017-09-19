@@ -22,7 +22,7 @@ _Context: Eindhoven, Electronic paper, Philips Research laboratory, electronics,
 _Context: Ariane 5, French Guiana, Kourou spaceport, Moon, SMART-1, map, propulsion system, rocket, science, space_
 
 ### [ Occupation of Iraq: Nine rebels in north Iraq are killed. Coalition troops kill nine guerrillas, the biggest toll for more than a month, in scattered action over northern Iraq in the past 24 hours. Major Josslyn Aberle states "The enemy are becoming more desperate as we pursue them."](/news/2003/09/25/occupation-of-iraq-nine-rebels-in-north-iraq-are-killed-coalition-troops-kill-nine-guerrillas-the-biggest-toll-for-more-than-a-month-in.md)
-_Context: Iraq, Josslyn Aberle, Occupation of Iraq, major, rebel_
+_Context: Iraq, Iraq war, Josslyn Aberle, major, rebel_
 
 ### [ The U.S. District Court in Denver rules that the National Do Not Call Registry would violate the First Amendment since it contains exceptions for certain unsolicited calls. Thus, the Federal Trade Commission is currently prohibited from implementing the registry.](/news/2003/09/25/the-u-s-district-court-in-denver-rules-that-the-national-do-not-call-registry-would-violate-the-first-amendment-since-it-contains-exceptio.md)
 _Context: First Amendment, National Do Not Call Registry, U.S. Federal Trade Commission, U.S. district court_

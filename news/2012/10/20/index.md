@@ -22,7 +22,7 @@ Hundreds of Roman Catholic pilgrims are evacuated from the sanctuary of Lourdes 
 Israeli naval vessels have stopped a pro-Palestinian boat attempting to reach Gaza in defiance of Israel&rsquo;s blockade of the territory&hellip;
 
 ### [Jewish-American linguist, philosopher and human rights campaigner Noam Chomsky visits Gaza for the first time and attends a seminar alongside Gazan thinkers and intellectuals. ](/news/2012/10/20/jewish-american-linguist-philosopher-and-human-rights-campaigner-noam-chomsky-visits-gaza-for-the-first-time-and-attends-a-seminar-alongsid.md)
-_Context: Gaza Strip, Noam Chomsky_
+_Context: Gaza, Noam Chomsky_
 
 ### [Tens of thousands of protesters march through London, Glasgow and Belfast in a series of demonstrations against UK government austerity measures. ](/news/2012/10/20/tens-of-thousands-of-protesters-march-through-london-glasgow-and-belfast-in-a-series-of-demonstrations-against-uk-government-austerity-meas.md)
 Several thousand people have taken part in a march through Belfast city centre in protest at austerity measures being introduced by governments in Dublin and London.

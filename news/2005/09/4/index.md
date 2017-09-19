@@ -1,7 +1,7 @@
 ## [2005-09-4](/news/2005/09/4/index.md)
 
 ### [ Israeli-Palestinian conflict: PNA President Mahmoud Abbas said that 97.5 percent of Gaza Strip lands that Israel would evacuate from were state-owned lands and that the Islamic University was entitled to receive lands in order to expand its facilities.](/news/2005/09/4/israeli-palestinian-conflict-pna-president-mahmoud-abbas-said-that-97-5-percent-of-gaza-strip-lands-that-israel-would-evacuate-from-were-s.md)
-_Context: Gaza Strip, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian National Authority_
+_Context: Gaza, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian National Authority_
 
 ### [ Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

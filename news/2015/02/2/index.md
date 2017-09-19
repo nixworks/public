@@ -22,7 +22,7 @@ It&#039;s up and running again with a few modifications, though some &#034;staff
 _Context: 2014-15 North American winter, midwestern_
 
 ### [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md)
-_Context: Canadian, Gaza Strip, Gaza-Israel conflict, Israel, Palestine Liberation Organisation, United Nations, William Schabas_
+_Context: Canadian, Gaza, Gaza-Israel conflict, Israel, Palestine Liberation Organisation, United Nations, William Schabas_
 
 ### [Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. ](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.md)
 The trial of former IMF chief Dominique Strauss-Kahn on charges of procuring women for sex parties opens in France.

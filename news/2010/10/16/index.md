@@ -55,7 +55,7 @@ _Context: 2010 Commonwealth Games, Delhi, Government of India_
 _Context: Morgan Tsvangirai, President of Zimbabwe, Robert Mugabe_
 
 ### [A delegation of The Elders visits the Gaza Strip to survey conditions, expressing disagreement with the Israeli restrictions in evidence there. Former U.S. President Jimmy Carter is to join them tomorrow. ](/news/2010/10/16/a-delegation-of-the-elders-visits-the-gaza-strip-to-survey-conditions-expressing-disagreement-with-the-israeli-restrictions-in-evidence-the.md)
-_Context: Gaza Strip, Israel, Jimmy Carter, The Elders_
+_Context: Gaza, Israel, Jimmy Carter, The Elders_
 
 ### [Scientists discover a new type of snailfish, in the Peru-Chile trench in the south-east Pacific Ocean. ](/news/2010/10/16/scientists-discover-a-new-type-of-snailfish-in-the-peru-chile-trench-in-the-south-east-pacific-ocean.md)
 _Context: Pacific Ocean, Peru-Chile trench, snailfish_

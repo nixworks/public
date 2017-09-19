@@ -1,0 +1,19 @@
+### [2004-02-10](/news/2004/02/10/index.md)
+
+#  The French National Assembly votes (494 to 36) to ban hijab and all other conspicuous religious symbols from state schools.
+
+
+
+
+### Related:
+
+1. [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md) _Context: hijab_
+2. [Bruno Le Roux resigns as France's Minister of the Interior amid a jobs scandal involving two of his daughters. Using public funds, Bruno had hired his 15 and 16-year-old daughters as parliamentary assistants while he was serving as a deputy in the French National Assembly. ](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.md) _Context: French National Assembly_
+3. [The Turkish government lifts the ban prohibiting female army officers from wearing a Hijab. The military is the last Turkish institution to end the ban. ](/news/2017/02/22/the-turkish-government-lifts-the-ban-prohibiting-female-army-officers-from-wearing-a-hijab-the-military-is-the-last-turkish-institution-to.md) _Context: hijab_
+4. [Local Tajikistan police have shaved nearly 13,000 men's beards, closed more than 150 shops selling traditional Muslim clothing, and convinced around 1,800 women and girls to stop wearing headscarves in 2015 as part of a campaign to eradicate foreign influences in the former Soviet Republic. ](/news/2016/01/21/local-tajikistan-police-have-shaved-nearly-13-000-men-s-beards-closed-more-than-150-shops-selling-traditional-muslim-clothing-and-convince.md) _Context: hijab_
+5. [A Facebook page called "My Stealthy Freedom", in which women across Iran are posting photos of themselves without the hijab, has garnered more than 130,000 likes, a week after it was created. ](/news/2014/05/12/a-facebook-page-called-my-stealthy-freedom-in-which-women-across-iran-are-posting-photos-of-themselves-without-the-hijab-has-garnered-mo.md) _Context: hijab_
+6. [State television in Egypt lifts a decades-long ban on veiled female news presenters. ](/news/2012/09/2/state-television-in-egypt-lifts-a-decades-long-ban-on-veiled-female-news-presenters.md) _Context: hijab_
+7. [Police in Azerbaijan break up a demonstration against a ban on female students wearing the hijab. ](/news/2011/05/6/police-in-azerbaijan-break-up-a-demonstration-against-a-ban-on-female-students-wearing-the-hijab.md) _Context: hijab_
+8. [Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. ](/news/2010/07/5/anti-government-demonstrators-including-women-dressed-in-full-hijabs-brandishing-ak-47-automatic-rifles-march-in-somalia-s-capital-mogadis.md) _Context: hijab_
+9. [Blacktown District Soccer Football Association's CEO says he will ignore a FIFA ruling to ban the hijab even if it is enforced by Football Federation Australia after the Iran girls' football team is disqualified from the Youth Olympic Games by FIFA for their view on the hijab. ](/news/2010/04/7/blacktown-district-soccer-football-association-s-ceo-says-he-will-ignore-a-fifa-ruling-to-ban-the-hijab-even-if-it-is-enforced-by-football-f.md) _Context: hijab_
+10. [ Egyptians mourn the death of Marwa El-Sherbini, called the "hijab martyr" after she was killed in a German courtroom by a man convicted of insulting her religion. ](/news/2009/07/6/egyptians-mourn-the-death-of-marwa-el-sherbini-called-the-hijab-martyr-after-she-was-killed-in-a-german-courtroom-by-a-man-convicted-of.md) _Context: hijab_

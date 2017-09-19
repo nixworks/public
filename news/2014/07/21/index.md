@@ -1,7 +1,7 @@
 ## [2014-07-21](/news/2014/07/21/index.md)
 
 ### [The United Nations Security Council calls for an immediate ceasefire on the Gaza Strip after an emergency meeting. ](/news/2014/07/21/the-united-nations-security-council-calls-for-an-immediate-ceasefire-on-the-gaza-strip-after-an-emergency-meeting.md)
-_Context: Gaza Strip, Operation Protective Edge, United Nations Security Council_
+_Context: Gaza, Operation Protective Edge, United Nations Security Council_
 
 ### [Fighting restarts near Donetsk as international investigators arrive to examine the crash of Malaysia Airlines Flight 17. ](/news/2014/07/21/fighting-restarts-near-donetsk-as-international-investigators-arrive-to-examine-the-crash-of-malaysia-airlines-flight-17.md)
 The U.N. Security Council unanimously adopted a resolution Monday demanding international access to the site of the plane downed over eastern Ukraine and an end to military activities around the area, following intense pressure on a reluctant Russia to support the measure.

@@ -7,7 +7,7 @@ _Context: Ahmed Qureia, Israel, Israeli-Palestinian conflict, Palestinians, Prim
 _Context: Afghanistan, Mohammad Gul Niazai, Taliban, War on Terrorism, Zabul province, airstrike, nomad_
 
 ### [ Occupation of Iraq: Two American soldiers are killed and 13 wounded in a mortar attack in Abu Ghraib, and another soldier dies in a roadside attack in Ramadi, bringing the number of U.S. deaths since the war began to 304, of which 165 occurred after President Bush's "mission accomplished" statement of May 1. A member of the Governing Council, Dr. Aquila al-Hashimi, is shot in an assassination attempt (she dies five days later). United Nations Secretary-General Kofi Annan strongly condemns the attack and warns that it only undermines the country's political progress.](/news/2003/09/20/occupation-of-iraq-two-american-soldiers-are-killed-and-13-wounded-in-a-mortar-attack-in-abu-ghraib-and-another-soldier-dies-in-a-roadsid.md)
-_Context: Abu Ghraib, Aquila al-Hashimi, Iraq Interim Governing Council, Kofi Annan, Occupation of Iraq, Secretary General, United Nations_
+_Context: Abu Ghraib, Aquila al-Hashimi, Iraq Interim Governing Council, Iraq war, Kofi Annan, Secretary General, United Nations_
 
 ### [ European Union enlargement: Latvians vote overwhelmingly in favor of the Baltic country joining the European Union.](/news/2003/09/20/european-union-enlargement-latvians-vote-overwhelmingly-in-favor-of-the-baltic-country-joining-the-european-union.md)
 _Context: Baltics, EU, Latvia_

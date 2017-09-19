@@ -1,0 +1,23 @@
+### [2004-03-23](/news/2004/03/23/index.md)
+
+#  Unrest in Kosovo: an UNMIK police patrol is attacked on the Pristina-Podujevo road. A UN police officer from Ghana is killed, a local police officer later dies of his wounds, and their translator is also wounded but in stable condition. 
+
+
+
+
+### Source:
+
+1. [Kosovo.net](http://www.kosovo.net/?q=node/view/12)
+
+### Related:
+
+1. [ Unrest in Kosovo: NATO announces that it will reinforce its Kosovo Force, following ethnic unrest there that has killed at least 31 people over the past two days. More Serbian Orthodox Churches have been set ablaze by Albanians and violence has continued in and around Kosovo Serb enclaves. Russia and Serbia and Montenegro call for an urgent meeting of the UN Security Council. United Nations officials attempt to restore order in the province and blame the unrest on nationalist extremists on both sides. More demonstrations have taken place across Serbia, so far without the violence seen the previous day. ](/news/2004/03/18/unrest-in-kosovo-nato-announces-that-it-will-reinforce-its-kosovo-force-following-ethnic-unrest-there-that-has-killed-at-least-31-people.md) _Context: UNMIK, Unrest in Kosovo_
+2. [ Unrest in Kosovo: After two Albanian children are found drowned in the Ibar river in Kosovo, with a third still missing, riots erupt in the town of Kosovska Mitrovica and later spread to the entire province. Mitrovica Serbs are blamed by Albanian media for forcing the children into the river, but this is later denied by United Nations officials. At least 22 people are killed by the end of the day with hundreds injured in clashes between Serbs and Albanians; enclaves of Kosovo Serbs elsewhere in the province experience attacks by Kosovo Albanians as well as offices of UN officials which were abandoned. In reaction to the violence in Kosovo, demonstrators in Serbia march in Belgrade and set ablaze mosques in Belgrade and Nish. ](/news/2004/03/17/unrest-in-kosovo-after-two-albanian-children-are-found-drowned-in-the-ibar-river-in-kosovo-with-a-third-still-missing-riots-erupt-in-the.md) _Context: UNMIK, Unrest in Kosovo_
+3. [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md) _Context: police_
+4. [A large tree falls into a pool at the base of the Kintampo waterfalls in Ghana, killing at least 18 people and injuring 22 others. ](/news/2017/03/20/a-large-tree-falls-into-a-pool-at-the-base-of-the-kintampo-waterfalls-in-ghana-killing-at-least-18-people-and-injuring-22-others.md) _Context: Ghana_
+5. [Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. ](/news/2016/12/7/voters-go-to-the-polls-in-ghana-for-the-country-s-presidential-elections-it-is-expected-to-be-a-close-race-between-incumbent-president-john.md) _Context: Ghana_
+6. [Flooding in southern Ghana caused by heavy rain leaves at least 10 people dead and the streets of Accra under water. ](/news/2016/06/16/flooding-in-southern-ghana-caused-by-heavy-rain-leaves-at-least-10-people-dead-and-the-streets-of-accra-under-water.md) _Context: Ghana_
+7. [At least 71 people are killed in a head-on collision between a bus and a truck in Ghana. ](/news/2016/02/18/at-least-71-people-are-killed-in-a-head-on-collision-between-a-bus-and-a-truck-in-ghana.md) _Context: Ghana_
+8. [Sian Blake's partner Arthur Simpson-Kent is arrested in Ghana in connection with the murder of Blake and her two children. ](/news/2016/01/9/sian-blake-s-partner-arthur-simpson-kent-is-arrested-in-ghana-in-connection-with-the-murder-of-blake-and-her-two-children.md) _Context: Ghana_
+9. [Anti-Serbian protesters set fire to the government's headquarters in Kosovo's capital, Pristina, over an EU-brokered deal that will give Kosovo's ethnic Serb minority greater local powers. ](/news/2016/01/9/anti-serbian-protesters-set-fire-to-the-government-s-headquarters-in-kosovo-s-capital-pristina-over-an-eu-brokered-deal-that-will-give-kos.md) _Context: Pristina_
+10. [The death toll from an explosion at a gasoline station on Wednesday in the Ghanaian capital Accra rises to over 200. ](/news/2015/06/5/the-death-toll-from-an-explosion-at-a-gasoline-station-on-wednesday-in-the-ghanaian-capital-accra-rises-to-over-200.md) _Context: Ghana_

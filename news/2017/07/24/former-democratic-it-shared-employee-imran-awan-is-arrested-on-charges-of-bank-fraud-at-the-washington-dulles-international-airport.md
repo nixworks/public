@@ -12,3 +12,4 @@
 ### Related:
 
 1. [ Lucia Pinochet, daughter of former Chilean dictator Augusto Pinochet, asks for political asylum in the United States following her arrest at Washington Dulles International Airport on a Chilean arrest warrant for tax evasion. ](/news/2006/01/25/lucia-pinochet-daughter-of-former-chilean-dictator-augusto-pinochet-asks-for-political-asylum-in-the-united-states-following-her-arrest-a.md) _Context: Washington Dulles International Airport_
+2. [ A 45-year-old Sudanese man travelling from Washington Dulles International Airport to airport Dubai is arrested en route at London's Heathrow Airport on suspicion of carrying five bullets in his coat pocket.](/news/2004/01/14/a-45-year-old-sudanese-man-travelling-from-washington-dulles-international-airport-to-airport-dubai-is-arrested-en-route-at-london-s-heathr.md) _Context: Washington Dulles International Airport_

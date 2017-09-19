@@ -1,7 +1,7 @@
 ## [2011-09-22](/news/2011/09/22/index.md)
 
 ### [At least five people are killed in a bus bombing in Pakistan's Bajaur Agency. ](/news/2011/09/22/at-least-five-people-are-killed-in-a-bus-bombing-in-pakistan-s-bajaur-agency.md)
-_Context: Bajaur Agency, Pakistan_
+_Context: Bajaur, Pakistan_
 
 ### [World stock markets plunge amid growing global fears of recession. ](/news/2011/09/22/world-stock-markets-plunge-amid-growing-global-fears-of-recession.md)
 _Context: recession, stock markets_

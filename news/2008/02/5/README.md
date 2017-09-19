@@ -7,7 +7,7 @@ Former Arkansas Gov. MikeHuckabee won his home state primary on Tuesday in a vic
 _Context: Chad, Red Cross, military assault_
 
 ### [ Israeli attacks kill eight Hamas members on the Gaza Strip as Hamas claims responsibility for the Dimona attack. ](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.md)
-_Context: Dimona attack, Gaza Strip, Hamas, Israel_
+_Context: Dimona attack, Gaza, Hamas, Israel_
 
 ### [ Philippine House Speaker Jose de Venecia was ousted by the majority of the representatives of the House of Representatives and Davao City Rep. Prospero Nograles was elected as the 13th House Speaker and the first Speaker from Mindanao. ](/news/2008/02/5/philippine-house-speaker-jose-de-venecia-was-ousted-by-the-majority-of-the-representatives-of-the-house-of-representatives-and-davao-city-r.md)
 _Context: Davao City, Jose de Venecia, Prospero Nograles, Speaker_

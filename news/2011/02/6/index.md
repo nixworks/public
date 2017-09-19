@@ -13,7 +13,7 @@ _Context: Cambodian-Thai border stand-off_
 _Context: Afghanistan_
 
 ### [Israeli soldiers have shot three Palestinians, two while they collected gravel from destroyed homes in Gaza, and another while he worked in the northern Gaza Strip. ](/news/2011/02/6/israeli-soldiers-have-shot-three-palestinians-two-while-they-collected-gravel-from-destroyed-homes-in-gaza-and-another-while-he-worked-in.md)
-_Context: Gaza Strip, Israel, gravel_
+_Context: Gaza, Israel, gravel_
 
 ### [The Indian Army insists it is to inquire "on its own" the death of a man in Kashmir, allegedly killed in an army ambush. His family says he was snatched from his home before being shot. ](/news/2011/02/6/the-indian-army-insists-it-is-to-inquire-on-its-own-the-death-of-a-man-in-kashmir-allegedly-killed-in-an-army-ambush-his-family-says-he.md)
 Army Chief General V.K. Singh today said that the Army would make an enquiry on its own into the killing of a youth in Kashmir, who was allegedly killed in...

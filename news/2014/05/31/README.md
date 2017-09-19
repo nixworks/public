@@ -1,7 +1,7 @@
 ## [2014-05-31](/news/2014/05/31/index.md)
 
 ### [Taliban insurgents from Afghanistan attack a Pakistani border post in the Bajur tribal area, resulting in the deaths of 14 militants and one soldier. ](/news/2014/05/31/taliban-insurgents-from-afghanistan-attack-a-pakistani-border-post-in-the-bajur-tribal-area-resulting-in-the-deaths-of-14-militants-and-one.md)
-_Context: Bajaur Agency, Federally Administered Tribal Areas, Taliban_
+_Context: Bajaur, Federally Administered Tribal Areas, Taliban_
 
 ### [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md)
 _Context: Afghanistan, Bowe Bergdahl, Guantanamo Bay, United States military, War in Afghanistan (2001-present), five Taliban prisoners_

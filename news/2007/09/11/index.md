@@ -52,7 +52,7 @@ _Context: Philippines_
 _Context: EU, United Kingdom, imperial measurement_
 
 ### [ At least 66 Israeli troops are wounded when a Qassam rocket from Gaza Strip hits an Israeli Defence Forces training base in Southern Israel. ](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.md)
-_Context: Gaza Strip, Israel, Israeli Defence Forces, Qassam rocket, southern Israel_
+_Context: Gaza, Israel, Israeli Defence Forces, Qassam rocket, southern Israel_
 
 ### [ The Prime Minister of Canada Stephen Harper rules out sending further troops to Afghanistan. ](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.md)
 Canadian Prime Minister Stephen Harper says his country will not be sending extra troops to Afghanistan to serve alongside Australian soldiers.

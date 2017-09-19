@@ -1,7 +1,7 @@
 ## [2002-12-30](/news/2002/12/30/index.md)
 
 ### [The Israeli Supreme Court rules that reservists may not refuse to serve in the West Bank or Gaza because of their objection to Israeli government policies. The Court ruled "the recognition of selective conscientious objection might loosen the links that hold us together as a people."](/news/2002/12/30/the-israeli-supreme-court-rules-that-reservists-may-not-refuse-to-serve-in-the-west-bank-or-gaza-because-of-their-objection-to-israeli-gover.md)
-_Context: Gaza Strip, Israel, West Bank_
+_Context: Gaza, Israel, West Bank_
 
 ### [Three Americans (the director, a doctor, and the administrator) at the Baptist hospital in Jibla, Yemen, were killed and one pharmacist was injured by Abed Abdul-Razzak Kamal. Kamal was captured and claims he was linked to the extremist Islamic Reform Party. Another member of his alleged cell, Ali al-Jarallah, was arrested for shooting a Yemeni left-wing politician on Sunday.](/news/2002/12/30/three-americans-the-director-a-doctor-and-the-administrator-at-the-baptist-hospital-in-jibla-yemen-were-killed-and-one-pharmacist-was.md)
 _Context: Islamic Reform Party, Jibla, Yemen_

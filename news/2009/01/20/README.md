@@ -1,7 +1,7 @@
 ## [2009-01-20](/news/2009/01/20/index.md)
 
 ### [ Israel completes the withdrawal of its Defense Forces from the Gaza Strip. ](/news/2009/01/20/israel-completes-the-withdrawal-of-its-defense-forces-from-the-gaza-strip.md)
-_Context: Gaza Strip, Israel, Israel Defense Forces, fire_
+_Context: Gaza, Israel, Israel Defense Forces, fire_
 
 ### [ Kidnappers release Greek shipping magnate Periklis Panagopoulos after a record ransom payment. ](/news/2009/01/20/kidnappers-release-greek-shipping-magnate-periklis-panagopoulos-after-a-record-ransom-payment.md)
 _Context: Greek, Periklis Panagopoulos, kidnapped, magnate, ransom, shipping_

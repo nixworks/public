@@ -4,7 +4,7 @@
 Thailand and Cambodia exchanged gunfire along their border on Friday, with each side blaming the other for firing the first salvo. Thailand said three of its soldiers were killed, while Cambodia spoke
 
 ### [3 people are killed and 3 others are wounded as a result of a blast in a factory in the Gaza Strip. ](/news/2011/04/22/3-people-are-killed-and-3-others-are-wounded-as-a-result-of-a-blast-in-a-factory-in-the-gaza-strip.md)
-_Context: Gaza Strip_
+_Context: Gaza_
 
 ### [2011 Syrian protests: At least 88 people are killed as a result of police firing at massive "Great Friday" anti-government protests across the country, the deadliest day of protest there yet. ](/news/2011/04/22/2011-syrian-protests-at-least-88-people-are-killed-as-a-result-of-police-firing-at-massive-great-friday-anti-government-protests-across-t.md)
 Pro- and anti-government demonstrators hold rallies as Saleh gives guarded welcome to GCC plan to defuse crisis.

@@ -10,7 +10,7 @@ _Context: Al Arabiya, Al Jazeera, Al Qaida's, Ayman al-Zawahri, Islamabad, Masoo
 _Context: NASA, Space Shuttle, space, technology_
 
 ### [ Occupation of Iraq: Iraqi security forces and United States military police in Tikrit launch a hunt for guerrillas behind a series of deadly attacks on coalition troops&mdash;the largest-ever joint military operation to date. During the raids, dozens of soldiers from the United States Army's 720th Military Police Battalion backed up over 200 Iraqi police. The raids netted 92 people and weapons that included Kalashnikov rifles, mortars, firing tubes, 155&nbsp;mm artillery shells and rocket launchers.](/news/2003/09/29/occupation-of-iraq-iraqi-security-forces-and-united-states-military-police-in-tikrit-launch-a-hunt-for-guerrillas-behind-a-series-of-deadl.md)
-_Context: 720th Military Police Battalion, Iraq, Iraqi security forces, Kalashnikov rifle, Mortar, Occupation of Iraq, Tikrit, U.S. soldiers, aerial shells, coalition, guerillas, military police, ordnance, rocket launchers, weapon_
+_Context: 720th Military Police Battalion, Iraq, Iraq war, Iraqi security forces, Kalashnikov rifle, Mortar, Tikrit, U.S. soldiers, aerial shells, coalition, guerillas, military police, ordnance, rocket launchers, weapon_
 
 ### [ Nuclear weapons: Iranian official confirm traces of highly enriched uranium found in the country at the Kalaye Electric Company near Tehran (this was the second time such a discovery was made by United Nations inspectors). Iran's ambassador to the International Atomic Energy Agency, Ali Akbar Salehi, attributes the find to the contamination of imported equipment on state television. Iranians have allegedly used Kalaye Electric Company to test centrifuges used to make highly enriched uranium that can be used to make atomic bombs.](/news/2003/09/29/nuclear-weapons-iranian-official-confirm-traces-of-highly-enriched-uranium-found-in-the-country-at-the-kalaye-electric-company-near-tehran.md)
 _Context: Ali Akbar Salehi, IAEA, Iran, Kalaye Electric Company, Tehran, United Nations, nuclear weapon, uranium_
@@ -31,7 +31,7 @@ _Context: EU, European Parliament, Intergovernmental Conference_
 _Context: Hurricane Juan, Liberals, Pat Binns, Prince Edward Island, Prince Edward Island general election, 2003, Tories, election, power outage_
 
 ### [ Elections: Newfoundland and Labrador premier Roger Grimes calls a general election for October 21. Grimes' Liberals are seeking reelection against the Tories, NDP, and the Labrador Party.](/news/2003/09/29/elections-newfoundland-and-labrador-premier-roger-grimes-calls-a-general-election-for-october-21-grimes-liberals-are-seeking-reelection.md)
-_Context: Labrador Party, Liberals, NDP, Newfoundland and Labrador, October 21, Progressive Conservative Party, Roger Grimes, a general election, election_
+_Context: Labrador Party, Liberals, NDP, Newfoundland and Labrador, Newfoundland and Labrador general election, 2003, October 21, Progressive Conservative Party, Roger Grimes, election_
 
 ## [Previous Day...](/news/2003/09/28/index.md)
 

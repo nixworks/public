@@ -19,7 +19,7 @@ _Context: Afghanistan, Baghlan province, Taliban_
 _Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
 
 ### [An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by-israel-de.md)
-_Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Israel Defense Forces_
+_Context: Gaza, Islamic Jihad Movement in Palestine, Israel, Israel Defense Forces_
 
 ### [Warner Bros. and New Line confirm that the "The Hobbit" films will be shot in New Zealand. ](/news/2010/10/27/warner-bros-and-new-line-confirm-that-the-the-hobbit-films-will-be-shot-in-new-zealand.md)
 _Context: New Line, New Zealand, The Hobbit, Warner Bros._

@@ -7,7 +7,7 @@ _Context: George W. Bush, September 11 attacks, United Airlines Flight 93_
 _Context: West Bank_
 
 ### [Israeli crossings authorities shut Gaza for the weekend. ](/news/2010/10/29/israeli-crossings-authorities-shut-gaza-for-the-weekend.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [A suicide bomber wearing an explosives belt kills at least 21 people, mostly Shiites, in Balad Ruz, the town north of Baghdad. ](/news/2010/10/29/a-suicide-bomber-wearing-an-explosives-belt-kills-at-least-21-people-mostly-shiites-in-balad-ruz-the-town-north-of-baghdad.md)
 _Context: Baghdad, Balad Ruz, Shiite_

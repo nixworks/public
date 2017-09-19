@@ -1,0 +1,23 @@
+### [2004-03-3](/news/2004/03/3/index.md)
+
+#  At the Walt Disney Company's Annual General Meeting, about 43% of Walt Disney stockholders, including several prominent pension funds, vote to oppose the re-election of Chairman and CEO Michael Eisner. The board of directors replaces him as Chairman with George J. Mitchell. 
+
+
+
+
+### Source:
+
+1. [CNN](http://money.cnn.com/2004/03/03/news/companies/disney/index.htm?=)
+2. [TheStreet](http://www.nytimes.com/2004/03/04/business/04DISN.html?ex=1078981200&amp;en=da1851cbc64f2287&amp;ei=5062&amp;partner=GOOGLE)
+
+### Related:
+
+1. [US Envoy George J. Mitchell, representing United States interests in the Middle East, is to resign. ](/news/2011/05/13/us-envoy-george-j-mitchell-representing-united-states-interests-in-the-middle-east-is-to-resign.md) _Context: George J. Mitchell_
+2. [The Palestine Liberation Organization's (PLO) executive committee announces that America's George J. Mitchell informed President of Palestine Mahmoud Abbas that the United States had given preliminary approval to the idea of the Quartet on the Middle East having peace talks with Israel. ](/news/2010/08/11/the-palestine-liberation-organization-s-plo-executive-committee-announces-that-america-s-george-j-mitchell-informed-president-of-palestin.md) _Context: George J. Mitchell_
+3. [American Envoy to the Middle East and former Senator George J. Mitchell arrives in Ramallah and holds an immediate meeting with Palestinian President Mahmoud Abbas. ](/news/2010/06/18/american-envoy-to-the-middle-east-and-former-senator-george-j-mitchell-arrives-in-ramallah-and-holds-an-immediate-meeting-with-palestinian.md) _Context: George J. Mitchell_
+4. [ Former United States Senator George Mitchell releases a report detailing the use of banned substances by current and former Major League Baseball players. ](/news/2007/12/13/former-united-states-senator-george-mitchell-releases-a-report-detailing-the-use-of-banned-substances-by-current-and-former-major-league-ba.md) _Context: George J. Mitchell_
+5. [ The American Family Association, a Christian activist group, a week after ending its boycott of the Walt Disney Company, announced a boycott of the Ford Motor Company. In adding Ford to its ongoing boycotts of Kmart and the book One of the Guys by Robert Clark Young, the AFA argues that Ford promotes "the homosexual lifestyle." ](/news/2005/06/1/the-american-family-association-a-christian-activist-group-a-week-after-ending-its-boycott-of-the-walt-disney-company-announced-a-boycot.md) _Context: Walt Disney Company_
+6. [ The American Family Association, a Christian group, ends its nine-year boycott of the Walt Disney Company but continues to boycott Kmart and Abercrombie & Fitch and the book "One of the Guys" by Robert Clark Young. [http://www.newsday.com/news/nationworld/nation/orl-asecdisney25052505may25,0,822280.story?coll=ny-leadnationalnews-headlines]](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.md) _Context: Walt Disney Company_
+7. [ Expressions by Disney shareholders of a lack of confidence in its management continue. Five more state pension funds announced that they will not vote for the re-election of chairman (and chief executive) Michael Eisner at next week's meeting. These pension funds&nbsp;- New York, New Jersey, Connecticut, Massachusetts, and Virginia&nbsp;- are following the lead of California&nbsp;- CalPERS made its announcement to the same effect Wednesday. ](/news/2004/02/26/expressions-by-disney-shareholders-of-a-lack-of-confidence-in-its-management-continue-five-more-state-pension-funds-announced-that-they-wi.md) _Context: Michael Eisner_
+8. [ The California Public Employees' Retirement System, CalPERS, a major shareholder in The Walt Disney Company, indicated that it will withhold its votes from Disney chief executive Michael Eisner at next week's shareholders' meeting, a new sign of a growing rebellion against Eisner's leadership, ](/news/2004/02/25/the-california-public-employees-retirement-system-calpers-a-major-shareholder-in-the-walt-disney-company-indicated-that-it-will-withhol.md) _Context: Michael Eisner_
+9. [ As expected, the board of directors of the Walt Disney Company unanimously rejects a hostile buyout offer by Comcast, saying the cable television giant's $66 billion bid is too low, but does not rule out accepting a higher bid in the future. ](/news/2004/02/17/as-expected-the-board-of-directors-of-the-walt-disney-company-unanimously-rejects-a-hostile-buyout-offer-by-comcast-saying-the-cable-tele.md) _Context: Walt Disney Company_

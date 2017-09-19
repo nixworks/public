@@ -28,7 +28,7 @@ _Context: 2010 Haiti earthquake, Haiti_
 _Context: North Korea, Panmunjom, Red Cross, South Korea_
 
 ### [Palestinian militants on the Gaza Strip tell Hamas that they will cease firing rockets at Israel in order to prevent an Israel Defense Forces offensive. ](/news/2011/01/12/palestinian-militants-on-the-gaza-strip-tell-hamas-that-they-will-cease-firing-rockets-at-israel-in-order-to-prevent-an-israel-defense-force.md)
-_Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, Palestinian_
+_Context: Gaza, Hamas, Israel, Israel Defense Forces, Palestinian_
 
 ### [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md)
 _Context: President, Tunisia, Zine El Abidine Ben Ali_

@@ -13,7 +13,7 @@ _Context: Muslims, Thai Army, Thailand_
 The UN Human Rights Council orders an international inquiry to look into alleged violations by the Syrian regime during its crackdown on anti-regime protests.
 
 ### [At least one Palestinian is killed and several injured following an Israeli drone aircraft attack on Gaza shortly after an informal ceasefire was reached. ](/news/2011/08/23/at-least-one-palestinian-is-killed-and-several-injured-following-an-israeli-drone-aircraft-attack-on-gaza-shortly-after-an-informal-ceasefir.md)
-_Context: Gaza Strip, Palestinian, drone aircraft_
+_Context: Gaza, Palestinian, drone aircraft_
 
 ### [Swiss bank UBS AG announces plans to cut 3,500 jobs. ](/news/2011/08/23/swiss-bank-ubs-ag-announces-plans-to-cut-3-500-jobs.md)
 _Context: Swiss, UBS AG_

@@ -10,7 +10,7 @@ The number of connections on mobile phone networks has crossed the 4 billion mar
 _Context: Air Force, Azerbaijan, Baku, Lieutenant General, Rail Rzayev_
 
 ### [ Palestinian militants launch four mortar shells and one Qassam rocket from the Gaza Strip into Israel. ](/news/2009/02/11/palestinian-militants-launch-four-mortar-shells-and-one-qassam-rocket-from-the-gaza-strip-into-israel.md)
-_Context: Gaza Strip, Israel, Mortar, Palestinian, Qassam rocket, militant, negotiate_
+_Context: Gaza, Israel, Mortar, Palestinian, Qassam rocket, militant, negotiate_
 
 ### [ Movement for Democratic Change President Morgan Tsvangirai becomes Zimbabwe's new Prime Minister. ](/news/2009/02/11/movement-for-democratic-change-president-morgan-tsvangirai-becomes-zimbabwe-s-new-prime-minister.md)
 _Context: Morgan Tsvangirai, Movement for Democratic Change, Prime Minister, Zimbabwe_

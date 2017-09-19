@@ -25,7 +25,7 @@ _Context: Mars, Mars' atmosphere, NASA, geologists, methane_
 _Context: China, GDP, Germany, sixth-largest economy_
 
 ### [ Hamas 'in principle' accepts the United Nations' call for an immediate ceasefire in the Gaza Strip. ](/news/2009/01/15/hamas-in-principle-accepts-the-united-nations-call-for-an-immediate-ceasefire-in-the-gaza-strip.md)
-_Context: Gaza Strip, Hamas, United Nations, call, ceasefire_
+_Context: Gaza, Hamas, United Nations, call, ceasefire_
 
 ### [ Pakistan arrests 124 people in a crackdown on terrorism. ](/news/2009/01/15/pakistan-arrests-124-people-in-a-crackdown-on-terrorism.md)
 _Context: 2008 Mumbai attacks, Pakistan, terrorism_

@@ -4,10 +4,10 @@
 _Context: Andalusia, Borders, Canary Islands', Majorca, Newtown St. Boswells, Sahara, forest fire, heat wave_
 
 ### [ Occupation of Iraq: United States Central Command military officials confirm that Mahmoud Diyab al-Ahmed, the Iraqi Minister of Interior was in its custody. He occupies the number 29 position on the U.S. list of most-wanted Iraqis. The Iraqi Minister of Interior surrendered to coalition forces yesterday. He was the "seven of spades" on the deck of cards distributed to U.S. troops.](/news/2003/08/9/occupation-of-iraq-united-states-central-command-military-officials-confirm-that-mahmoud-diyab-al-ahmed-the-iraqi-minister-of-interior-wa.md)
-_Context: U.S. presence in Iraq, most-wanted Iraqi playing cards, most-wanted list of former top officials_
+_Context: U.S. presence in Iraq, most wanted Iraqis, most-wanted Iraqi playing cards_
 
 ### [ SCO v. IBM Linux lawsuit: Aduva, Inc., a Linux developing company, releases this week a tool to allow companies to replace any offending Linux code, if it exists, with code that does not infringe on SCO's intellectual property rights. It is unknown how this tool will work, as SCO has not disclosed which code it considers infringing.](/news/2003/08/9/sco-v-ibm-linux-lawsuit-aduva-inc-a-linux-developing-company-releases-this-week-a-tool-to-allow-companies-to-replace-any-offending-li.md)
-_Context: ''SCO vs IBM'', Aduva_
+_Context: Aduva, SCO v. IBM_
 
 ### [ The city of Vyborg commence the 600-years anniversary of King Eric of Pomerania establishing the town's trading privileges in a Royal Charter.](/news/2003/08/9/the-city-of-vyborg-commence-the-600-years-anniversary-of-king-eric-of-pomerania-establishing-the-town-s-trading-privileges-in-a-royal-chart.md)
 _Context: Eric of Pomerania, Royal Charter, Vyborg_

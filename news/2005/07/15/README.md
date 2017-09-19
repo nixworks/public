@@ -1,7 +1,7 @@
 ## [2005-07-15](/news/2005/07/15/index.md)
 
 ### [ Seven Palestinians are killed by Israeli Air Force missile attacks on the Gaza Strip and West Bank, including at least four Hamas militants. Five other Palestinian civilian bystanders are injured in the attacks. According to CNN all the 7 were militants, whereas the BBC says four were. The attack was carried out amid a barrage of Qassam rockets. ](/news/2005/07/15/seven-palestinians-are-killed-by-israeli-air-force-missile-attacks-on-the-gaza-strip-and-west-bank-including-at-least-four-hamas-militants.md)
-_Context: BBC, CNN, Gaza Strip, Hamas, Israeli Air Force, Palestinians, Qassam rocket, West Bank_
+_Context: BBC, CNN, Gaza, Hamas, Israeli Air Force, Palestinians, Qassam rocket, West Bank_
 
 ### [ The chemist Magdi al-Nashar, sought by British police in relation to the 7 July London bombings, has been arrested in Egypt. ](/news/2005/07/15/the-chemist-magdi-al-nashar-sought-by-british-police-in-relation-to-the-7-july-london-bombings-has-been-arrested-in-egypt.md)
 _Context: 7 July London bombings, Egypt, Magdi al-Nashar, chemist_

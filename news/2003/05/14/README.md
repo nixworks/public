@@ -4,7 +4,7 @@
 _Context: DARPA, Information Processing Technology Office, LifeLog, database, ontology_
 
 ### [ SCO v. IBM Linux lawsuit: Apparently noticing the incongruity of their selling a Linux distribution while suing IBM for stealing their intellectual property and giving it to the developers of that operating system, the SCO Group (formerly Caldera International and Caldera Systems) announces they will no longer distribute Linux. According to their press release, "SCO will continue to support existing SCO Linux and Caldera OpenLinux customers and hold them harmless from any SCO intellectual property issues regarding SCO Linux and Caldera OpenLinux products."](/news/2003/05/14/sco-v-ibm-linux-lawsuit-apparently-noticing-the-incongruity-of-their-selling-a-linux-distribution-while-suing-ibm-for-stealing-their-inte.md)
-_Context: ''SCO vs IBM'', Caldera International, Caldera OpenLinux, Caldera Systems, International Business Machines, Linux, intellectual property, operating system_
+_Context: Caldera International, Caldera OpenLinux, Caldera Systems, International Business Machines, Linux, SCO v. IBM, intellectual property, operating system_
 
 ### [ Carlos Menem quits the Argentinian presidential race; fellow Peronist Nstor Kirchner is consequently expected to win.](/news/2003/05/14/carlos-menem-quits-the-argentinian-presidential-race-fellow-peronist-nestor-kirchner-is-consequently-expected-to-win.md)
 _Context: Argentina, Carlos Menem, Nstor Kirchner, Peronist_

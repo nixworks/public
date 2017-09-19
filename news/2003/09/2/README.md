@@ -7,7 +7,7 @@ _Context: Osama bin Laden, al-Qaeda, biological_
 _Context: Abu Bakar Bashir, Indonesia, Jemaah Islamiyah_
 
 ### [ Iraq: A car bomb explodes near the headquarters of Coalition trained police in Baghdad, killing an Iraqi police officer and wounding up to 10 bystanders.<ref name="cbsnews.com">url=http://www.cbsnews.com/stories/2003/02/24/iraq/main541815.shtml PM Appeals For Reconciliation February 2003 publisher= October 2015</ref> Observers saw the incident as an attempt to destabilize the new Iraqi governing body. (See 2003 occupation of Iraq timeline)](/news/2003/09/2/iraq-a-car-bomb-explodes-near-the-headquarters-of-coalition-trained-police-in-baghdad-killing-an-iraqi-police-officer-and-wounding-up-to.md)
-_Context: Baghdad, Iraq, Occupation of Iraq, car bomb, police officer_
+_Context: Baghdad, Iraq, Iraq war, car bomb, police officer_
 
 ### [ The Iraqi police handling the investigation say they have arrested 19 men in connection with the blast, many of them foreigners and all with admitted links to al-Qaeda.<ref name="cbsnews.com"/>](/news/2003/09/2/the-iraqi-police-handling-the-investigation-say-they-have-arrested-19-men-in-connection-with-the-blast-many-of-them-foreigners-and-all-wit.md)
 _Context: Iraq, al-Qaeda_
@@ -22,7 +22,7 @@ _Context: EUR, SCO v. IBM_
 _Context: Defense Minister, Israel, Mahmoud Abbas, Palestinian, President, Prime Minister, Shaul Mofaz, Yasser Arafat, militant, road map peace plan, security services_
 
 ### [ Premier of Ontario Ernie Eves calls a provincial election for October 2. Eves' incumbent Tories, Dalton McGuinty's Liberals, and Howard Hampton's NDP are in the race.](/news/2003/09/2/premier-of-ontario-ernie-eves-calls-a-provincial-election-for-october-2-eves-incumbent-tories-dalton-mcguinty-s-liberals-and-howard-ham.md)
-_Context: Dalton McGuinty, Ernie Eves, Howard Hampton, Ontario Liberal Party, Ontario New Democratic Party, Premier, Tories, provincial election for October 2_
+_Context: Dalton McGuinty, Ernie Eves, Howard Hampton, Ontario Liberal Party, Ontario New Democratic Party, Ontario general election, 2003, Premier, Tories_
 
 ### [ Premier of Prince Edward Island Pat Binns calls a provincial election for September 29. The incumbent Tories, Robert Ghiz's Liberals, and Gary Robichaud's NDP are in the race.<ref name="cbc.ca">url=http://www.cbc.ca/peivotes2003/ - Prince Edward Island Votes 2003 publisher= October 2015</ref>](/news/2003/09/2/premier-of-prince-edward-island-pat-binns-calls-a-provincial-election-for-september-29-the-incumbent-tories-robert-ghiz-s-liberals-and-g.md)
 _Context: Gary Robichaud, Liberals, NDP, Pat Binns, Premier of Prince Edward Island, Prince Edward Island general election, 2003, Robert Ghiz, Tories_

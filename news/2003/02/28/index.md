@@ -10,7 +10,7 @@ _Context: Jean Chrtien, regime change_
 _Context: 1980s, GEC-Marconi, Iraq, Margaret Thatcher, Saddam Hussein_
 
 ### [ The new Austrian government, again headed by Federal Chancellor Wolfgang Schssel, is sworn in by Federal President Thomas Klestil. After more than three months of negotiations following the general elections of November 24, 2002, Schssel (Austrian People's Party) decided to continue the coalition with the right-of-centre Austrian Freedom Party begun in early 2000. Although any future influence on federal politics by Jrg Haider was averted, one of the new members of the government is Ursula Haubner, Haider's sister.](/news/2003/02/28/the-new-austrian-government-again-headed-by-federal-chancellor-wolfgang-schussel-is-sworn-in-by-federal-president-thomas-klestil-after-m.md)
-_Context: Austria, Austrian Freedom Party, Austrian People's Party, Jrg Haider, November 24, 2002, Thomas Klestil, Ursula Haubner, Wolfgang Schssel_
+_Context: Austria, Austrian People's Party, Freedom Party, Jrg Haider, November 24, 2002, Thomas Klestil, Ursula Haubner, Wolfgang Schssel_
 
 ### [ Darren Flutie, Canadian Football's all-time leader in receptions, retires.](/news/2003/02/28/darren-flutie-canadian-football-s-all-time-leader-in-receptions-retires.md)
 _Context: Canadian Football, Darren Flutie_

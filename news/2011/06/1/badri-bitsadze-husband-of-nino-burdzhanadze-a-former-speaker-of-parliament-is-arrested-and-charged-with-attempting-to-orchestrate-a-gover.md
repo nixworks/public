@@ -8,3 +8,4 @@
 ### Related:
 
 1. [Police in the eastern European state of Georgia use teargas to disperse a protest in central Tbilisi. ](/news/2011/05/25/police-in-the-eastern-european-state-of-georgia-use-teargas-to-disperse-a-protest-in-central-tbilisi.md) _Context: 2011 Georgian protests_
+2. [ Beleaguered Georgian President Eduard Shevardnadze resigns. Elections will be in 45 days, but until then, Nino Burdzhanadze will be the acting president.](/news/2003/11/23/beleaguered-georgian-president-eduard-shevardnadze-resigns-elections-will-be-in-45-days-but-until-then-nino-burdzhanadze-will-be-the-act.md) _Context: Nino Burdzhanadze_

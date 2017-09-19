@@ -53,7 +53,7 @@ _Context: Federal Court of Justice, Karlsruhe, terrorism_
 _Context: Afghanistan, United States, War in Afghanistan (2001-present)_
 
 ### [ Israeli tanks and bulldozers enter the Gaza Strip in a limited operation against rocket launchers. ](/news/2007/09/5/israeli-tanks-and-bulldozers-enter-the-gaza-strip-in-a-limited-operation-against-rocket-launchers.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [ Singapore jails the leader of the Singapore Democratic Party Chee Soon Juan for failing to pay a fine of S$4,000 for trying to leave the city-state without permission. ](/news/2007/09/5/singapore-jails-the-leader-of-the-singapore-democratic-party-chee-soon-juan-for-failing-to-pay-a-fine-of-s-4-000-for-trying-to-leave-the-ci.md)
 Singapore has jailed a prominent opposition leader for three weeks after he failed to pay a fine for trying to leave the city-state without permission from the government, as required of him as a bankrupt.

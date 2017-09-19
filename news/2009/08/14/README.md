@@ -49,7 +49,7 @@ Lawyers for the Lockerbie bomber say he is abandoning his second appeal against 
 _Context: Turks and Caicos Islands, United Kingdom, direct rule, government_
 
 ### [ At least 13 people are killed and at least 85 are injured in a fierce gun battle in Gaza. ](/news/2009/08/14/at-least-13-people-are-killed-and-at-least-85-are-injured-in-a-fierce-gun-battle-in-gaza.md)
-_Context: Gaza Strip_
+_Context: Gaza_
 
 ### [ United States senator Jim Webb arrives in Burma for talks with General Than Shwe. ](/news/2009/08/14/united-states-senator-jim-webb-arrives-in-burma-for-talks-with-general-than-shwe.md)
 _Context: Burma, Jim Webb, Than Shwe, United States_

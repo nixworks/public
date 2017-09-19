@@ -7,7 +7,7 @@ _Context: Moscow, UTC, suicide bombing_
 _Context: Centers for Disease Control, flu, vaccine, virus_
 
 ### [Former U.S. Senator Bob Kerrey is appointed to the 9/11 Commission to replace Max Cleland, who is stepping down to become president of the U.S. Export-Import Bank.](/news/2003/12/9/former-u-s-senator-bob-kerrey-is-appointed-to-the-9-11-commission-to-replace-max-cleland-who-is-stepping-down-to-become-president-of-the-u.md)
-_Context: 9/11 Commission, Bob Kerrey, Max Cleland, U.S. Export-Import Bank, United States Senate_
+_Context: Bob Kerrey, Max Cleland, September 11 commission, U.S. Export-Import Bank, United States Senate_
 
 ### [Al Gore endorses Howard Dean's candidacy for the Democratic presidential nomination for the 2004 U.S. presidential election. [http://www.msnbc.com/news/1002878.asp?0sl=-21&cp1=1]](/news/2003/12/9/al-gore-endorses-howard-dean-s-candidacy-for-the-democratic-presidential-nomination-for-the-2004-u-s-presidential-election-http-www-msn.md)
 _Context: 2004, 2004 U.S. presidential candidate, Al Gore, Democratic, Howard Dean_

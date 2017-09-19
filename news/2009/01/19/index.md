@@ -1,7 +1,7 @@
 ## [2009-01-19](/news/2009/01/19/index.md)
 
 ### [ The Palestinian National Authority's Central Bureau of Statistics reports that 1,300 Palestinians were killed; 5,400 were injured; and US$1.9 billion in damage was caused during the 22-day conflict with Israel in the Gaza Strip. ](/news/2009/01/19/the-palestinian-national-authority-s-central-bureau-of-statistics-reports-that-1-300-palestinians-were-killed-5-400-were-injured-and-us-1.md)
-_Context: Central Bureau of Statistics, Gaza Strip, Israel, Palestinian, Palestinian National Authority, US$, fire_
+_Context: Central Bureau of Statistics, Gaza, Israel, Palestinian, Palestinian National Authority, US$, fire_
 
 ### [ Russia devalues the ruble for the sixth time in 2009 and will overhaul the state budget to reflect the sharp decrease in the price of petroleum, its key export. ](/news/2009/01/19/russia-devalues-the-ruble-for-the-sixth-time-in-2009-and-will-overhaul-the-state-budget-to-reflect-the-sharp-decrease-in-the-price-of-petro.md)
 Prime Minister Vladimir Putinordered the 2009 budget be reworked at half the originallyplanned oil price on Monday, as Russia pressed on with now-dailyrouble devaluations to adjust to the worsening economic outlook.

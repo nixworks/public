@@ -1,0 +1,23 @@
+### [2004-03-27](/news/2004/03/27/index.md)
+
+#  ROC presidential election, 2004: 500,000 Pan-Blue protesters take to the streets in Taipei to demand a recount. 
+
+
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=484110&section=news)
+
+### Related:
+
+1. [ Chen Shui-bian is sworn into a second term as President of the Republic of China in Taipei, while the High Court has yet to rule on a recount of the presidential election that concluded two days before. About 400 dignitaries, including 15 foreign heads of state, attend. ](/news/2004/05/20/chen-shui-bian-is-sworn-into-a-second-term-as-president-of-the-republic-of-china-in-taipei-while-the-high-court-has-yet-to-rule-on-a-recou.md) _Context: 2004 presidential election, Taipei_
+2. [ ROC presidential election, 2004: The Pan-Blue Coalition drops its demand for another round of voting by members of the military and the police who were put on a heightened state of alert on election day. Chen Shui-bian and Annette Lu sign letters promising not to contest the Pan-Blue petition for a recount.](/news/2004/03/29/roc-presidential-election-2004-the-pan-blue-coalition-drops-its-demand-for-another-round-of-voting-by-members-of-the-military-and-the-pol.md) _Context: 2004 presidential election, coalition allies_
+3. [ ROC presidential election, 2004: The controversial victory of Chen Shui-bian is confirmed by the state electoral commission, with a margin of only 29,518 votes - 0.2% of the total&nbsp;- separating the candidates. Pan-Blue protestors storm and hurl eggs at the Central Electoral Commission building. ](/news/2004/03/26/roc-presidential-election-2004-the-controversial-victory-of-chen-shui-bian-is-confirmed-by-the-state-electoral-commission-with-a-margin.md) _Context: 2004 presidential election, coalition allies_
+4. [ ROC presidential election, 2004: Chen Shui-bian's Democratic Progressive Party submits a bill to the Legislative Yuan to allow an immediate recount, per Lien Chan's demand, but the majority Pan-Blue Coalition dismisses it as unnecessary saying the President could just issue an executive order instead. ](/news/2004/03/22/roc-presidential-election-2004-chen-shui-bian-s-democratic-progressive-party-submits-a-bill-to-the-legislative-yuan-to-allow-an-immediate.md) _Context: 2004 presidential election, coalition allies_
+5. [ ROC presidential election, 2004: Candidates Lien Chan of the Pan-Blue Coalition and President Chen Shui-bian of the Pan-Green Coalition participate in a televised debate.](/news/2004/02/14/roc-presidential-election-2004-candidates-lien-chan-of-the-pan-blue-coalition-and-president-chen-shui-bian-of-the-pan-green-coalition-par.md) _Context: 2004 presidential election, coalition allies_
+6. [At least 34 people are killed after a tour bus, carrying mostly local elderly tourists, overturns on a freeway in Taipei, Taiwan. ](/news/2017/02/13/at-least-34-people-are-killed-after-a-tour-bus-carrying-mostly-local-elderly-tourists-overturns-on-a-freeway-in-taipei-taiwan.md) _Context: Taipei_
+7. [A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. ](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortly.md) _Context: Taipei_
+8. [ The Republic of China (Taiwan) holds a large military parade in Taipei to commemorate World War II in support of its claims that Kuomintang forces led by Chiang Kai-Shek played a leading role in the defeat of the Empire of Japan with the Chinese Communist Party under Mao Tse-Tung playing a minor role. ](/news/2015/07/4/the-republic-of-china-taiwan-holds-a-large-military-parade-in-taipei-to-commemorate-world-war-ii-in-support-of-its-claims-that-kuomintang.md) _Context: Taipei_
+9. [A TransAsia Airways ATR 72 turboprop aircraft with 58 people on board en route from the Taiwanese capital Taipei to Kinmen, Taiwan crashes into the Keelung River near Taipei just after liftoff killing at least 31 people with several injures and missing. ](/news/2015/02/4/a-transasia-airways-atr-72-turboprop-aircraft-with-58-people-on-board-en-route-from-the-taiwanese-capital-taipei-to-kinmen-taiwan-crashes-i.md) _Context: Taipei_
+10. [In Taiwan, 600 people are evacuated from a high-speed train en route to Zuoying from Taipei after timed explosives are found in a restroom. ](/news/2013/04/12/in-taiwan-600-people-are-evacuated-from-a-high-speed-train-en-route-to-zuoying-from-taipei-after-timed-explosives-are-found-in-a-restroom.md) _Context: Taipei_

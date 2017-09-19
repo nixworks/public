@@ -37,7 +37,7 @@ The Australian dollar scaled multi-month peaks against the yen and rallied on th
 A powerful cyclone bearing winds of up to 194km/h strikes the island of Madagascar, killing at least two people as it rips up trees and electricity pylons.
 
 ### [Gaza's only power station shuts down due to lack of fuel. ](/news/2012/02/14/gaza-s-only-power-station-shuts-down-due-to-lack-of-fuel.md)
-_Context: Gaza Strip_
+_Context: Gaza_
 
 ### [Actor Sean Penn meets Argentina's president Cristina Fernandez de Kirchner to voice his support for "the Malvinas Islands of Argentina" and urges Britain to cease its "archaic commitment to colonialist ideology". ](/news/2012/02/14/actor-sean-penn-meets-argentina-s-president-cristina-ferna-ndez-de-kirchner-to-voice-his-support-for-the-malvinas-islands-of-argentina-and.md)
 _Context: Cristina Fernandez de Kirchner, Malvinas Islands, Sean Penn_

@@ -10,7 +10,7 @@ A reported plot by al-Qaida terrorists to kill thousands of New Yorkers by sprea
 Catalonia has won semi-autonomy from Madrid in a binding referendum Sunday. 
 
 ### [ The Israeli town of Sderot shuts down for 24 hours in protest of continuing Qassam rocket attacks. More than six hundred Qassam rockets were launched against Israeli towns since Israel's disengagement from the Gaza Strip, a hundred of which in the past week. One rocket left parts of Sderot without electricity for several hours this morning.](/news/2006/06/18/the-israeli-town-of-sderot-shuts-down-for-24-hours-in-protest-of-continuing-qassam-rocket-attacks-more-than-six-hundred-qassam-rockets-wer.md)
-_Context: Gaza Strip, Israel, Qassam rocket, Sderot, disengagement_
+_Context: Gaza, Israel, Qassam rocket, Sderot, disengagement_
 
 ## [Previous Day...](/news/2006/06/17/index.md)
 

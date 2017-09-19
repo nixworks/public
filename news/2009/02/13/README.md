@@ -22,7 +22,7 @@ _Context: China, Paris, Qing Dynasty, Yves Saint Laurent, auction, estate, gover
 _Context: A$, Australia, Senator, economy of Australia, stimulus package_
 
 ### [ Israeli Defense Forces in the Gaza Strip discover grenades made by Hamas from humanitarian supplies. ](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.md)
-_Context: Gaza Strip, Hamas, Israel, Israel Defense Forces, aid, grenade_
+_Context: Gaza, Hamas, Israel, Israel Defense Forces, aid, grenade_
 
 ### [ Germany's Max Planck Institute for Evolutionary Anthropology and the United States' 454 Life Sciences map the Neanderthal genome. ](/news/2009/02/13/germany-s-max-planck-institute-for-evolutionary-anthropology-and-the-united-states-454-life-sciences-map-the-neanderthal-genome.md)
 _Context: 454 Life Sciences, Germany, Max Planck Institute for Evolutionary Anthropology, Neanderthal, United States, genome, map_

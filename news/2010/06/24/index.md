@@ -43,7 +43,7 @@ Iran flotilla organizers note Israel sees vessels from Iran, Lebanon as &#39;sig
 _Context: Ban Ki-moon, East Jerusalem, Palestinian, Secretary General, United Nations, tourist park_
 
 ### [United Nations Relief and Works Agency for Palestine Refugees in the Near East commissioner-general Filippo Grandi questions the fine print of Israel's promise to ease its blockade on Gaza, citing parts which are unclear and saying it is "urgent, because the conditions are very bad on the ground". ](/news/2010/06/24/united-nations-relief-and-works-agency-for-palestine-refugees-in-the-near-east-commissioner-general-filippo-grandi-questions-the-fine-print.md)
-_Context: Filippo Grandi, Gaza Strip, Israel, Palestinian refugees, fine print_
+_Context: Filippo Grandi, Gaza, Israel, Palestinian refugees, fine print_
 
 ### [Hooded gunmen kill 4 commuters in Philippines. ](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.md)
 _Context: Philippine_
@@ -52,7 +52,7 @@ _Context: Philippine_
 A Burundi minister voices concern at reports that opposition leader and ex-rebel chief Agathon Rwasa has gone into hiding.
 
 ### [During a meeting with Benjamin Netanyahu, Austria's Chancellor Werner Faymann calls on him to lift the Gaza Strip embargo. ](/news/2010/06/24/during-a-meeting-with-benjamin-netanyahu-austria-s-chancellor-werner-faymann-calls-on-him-to-lift-the-gaza-strip-embargo.md)
-_Context: Benjamin Netanyahu, Gaza Strip, Werner Faymann_
+_Context: Benjamin Netanyahu, Gaza, Werner Faymann_
 
 ### [Somaliland is set to go to the polls with its president facing a challenge to be reelected. ](/news/2010/06/24/somaliland-is-set-to-go-to-the-polls-with-its-president-facing-a-challenge-to-be-reelected.md)
 _Context: Somaliland_

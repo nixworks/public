@@ -10,7 +10,7 @@ _Context: Lee Hsien Loong, Lee Kuan Yew, People's Action Party, Prime Minister o
 _Context: Karachi, Shi'a_
 
 ### [ U.S. and Egypt fear an Islamist takeover of the Gaza Strip as a result of a possible Israeli pullout. They debate the role of Arafat, as Prime Minister Sharon confronts his own cabinet's opposition led by Netanyahu. ](/news/2004/05/31/u-s-and-egypt-fear-an-islamist-takeover-of-the-gaza-strip-as-a-result-of-a-possible-israeli-pullout-they-debate-the-role-of-arafat-as-pr.md)
-_Context: Ariel Sharon, Benjamin Netanyahu, Egypt, Gaza Strip, Islamist, Israel, Yassir Arafat_
+_Context: Ariel Sharon, Benjamin Netanyahu, Egypt, Gaza, Islamist, Israel, Yassir Arafat_
 
 ## [Previous Day...](/news/2004/05/30/index.md)
 

@@ -22,7 +22,7 @@ _Context: Cuba, Guillermo Farinas, hunger strike, political prisoner_
 CNN sacks an editor who wrote on Twitter that she &quot;respected&quot; a late Lebanese cleric said to have inspired Hezbollah.
 
 ### [Amnesty International calls on Israel to completely lift its blockade of the Gaza Strip after Israel removes the restrictions on all consumer goods. ](/news/2010/07/8/amnesty-international-calls-on-israel-to-completely-lift-its-blockade-of-the-gaza-strip-after-israel-removes-the-restrictions-on-all-consume.md)
-_Context: Amnesty International, Gaza Strip, Israel, Israeli blockade, consumer goods_
+_Context: Amnesty International, Gaza, Israel, Israeli blockade, consumer goods_
 
 ### [David Lloyd Johnston, president of the University of Waterloo, is announced as Canada's next Governor General. He will succeed Michaelle Jean in September. ](/news/2010/07/8/david-lloyd-johnston-president-of-the-university-of-waterloo-is-announced-as-canada-s-next-governor-general-he-will-succeed-michaa-lle-je.md)
 _Context: Canada, David Lloyd Johnston, Governor General, Michaelle Jean, University of Waterloo_

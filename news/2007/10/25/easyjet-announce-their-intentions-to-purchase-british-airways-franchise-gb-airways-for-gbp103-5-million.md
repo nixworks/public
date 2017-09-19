@@ -7,7 +7,7 @@
 
 ### Related:
 
-1. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport due to a security threat. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-due-to-a-security-threat.md) _Context: British Airways_
+1. [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after it is verbally threatened. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-it-is-verbally-threatened-after-a-search-it-is-declared-s.md) _Context: British Airways_
 2. [British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. ](/news/2017/05/27/british-airways-cancels-all-flights-from-heathrow-airport-and-gatwick-airport-amid-a-major-it-system-failure-that-is-causing-severe-disru.md) _Context: British Airways_
 3. [A 35-year-old Australian man tries to headbutt a pilot over the Atlantic Ocean, causing the diversion of a British Airways transatlantic flight from New York's JFK airport to London City Airport. ](/news/2012/12/19/a-35-year-old-australian-man-tries-to-headbutt-a-pilot-over-the-atlantic-ocean-causing-the-diversion-of-a-british-airways-transatlantic-fli.md) _Context: British Airways_
 4. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for GBP747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.md) _Context: GBP_

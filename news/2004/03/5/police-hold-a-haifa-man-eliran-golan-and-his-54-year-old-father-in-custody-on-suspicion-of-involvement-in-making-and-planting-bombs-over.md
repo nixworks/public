@@ -1,0 +1,24 @@
+### [2004-03-5](/news/2004/03/5/index.md)
+
+#  Police hold a Haifa man, Eliran Golan, and his 54-year-old father in custody on suspicion of involvement in making and planting bombs over the last three years. Haifa Magistrate court extends for five days the remand of Yivgeny Grossman. Grossman denies any connection. 
+
+
+
+
+### Source:
+
+1. [Haaretz](http://www.haaretz.com/hasen/spages/401407.html)
+2. [Jerusalem Post](http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1078397702278)
+
+### Related:
+
+1. [ An explosion rocks a Moscow apartment block. Initial reports from police suggest that the explosion was caused by a bomb, in spite of increased security in the run-up to the presidential election on March 14. Later reports state that the explosion was due to a gas leak. ](/news/2004/03/7/an-explosion-rocks-a-moscow-apartment-block-initial-reports-from-police-suggest-that-the-explosion-was-caused-by-a-bomb-in-spite-of-incre.md) _Context: bomb, police_
+2. [ A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.md) _Context: Haifa, bomb_
+3. [The world's oldest man, Polish-Israeli Yisrael Kristal, who was also recognized as the oldest living Holocaust survivor, dies at age 113 years, 330 days, in Haifa, Israel. ](/news/2017/08/11/the-world-s-oldest-man-polishaisraeli-yisrael-kristal-who-was-also-recognized-as-the-oldest-living-holocaust-survivor-dies-at-age-113-y.md) _Context: Haifa_
+4. [A two stage attack targeting police kills 5 officers and wounds 11 in the city of el-Arish. A later roadside bomb south of the city wounds a further 6 officers. ](/news/2017/07/17/a-two-stage-attack-targeting-police-kills-5-officers-and-wounds-11-in-the-city-of-el-arish-a-later-roadside-bomb-south-of-the-city-wounds-a.md) _Context: police_
+5. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Haifa_
+6. [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md) _Context: Haifa_
+7. [ A sudden noise immediately before the "black box" flight data recorder went dark indicates the plane was brought down by a bomb, according to unnamed sources. Officially, Ayman el-Muqadem says the Egyptian investigative team is "considering all possible scenarios for the cause of the accident" and has not yet reached any conclusions. ](/news/2015/11/7/a-sudden-noise-immediately-before-the-black-box-flight-data-recorder-went-dark-indicates-the-plane-was-brought-down-by-a-bomb-according.md) _Context: bomb_
+8. [U.S. intelligence analysts conclude the Russian plane was not brought down by surface-to-air missile. An American infrared satellite detected a heat flash at the same time and same place over the Sinai as the plane, but no evidence a missile was involved. Analysts believe it could have been some kind of explosion on the aircraft itself, either a fuel tank or a bomb. U.S. officials do not rule out that ISIL could have been responsible for bringing down the flight. ](/news/2015/11/2/u-s-intelligence-analysts-conclude-the-russian-plane-was-not-brought-down-by-surface-to-air-missile-an-american-infrared-satellite-detecte.md) _Context: bomb_
+9. [Thai police report a man with a fake passport has been arrested in a Bangkok suburb in connection with the Erawan Shrine bombing. The man was allegedly in possession of bomb making material and dozens of passports. ](/news/2015/08/29/thai-police-report-a-man-with-a-fake-passport-has-been-arrested-in-a-bangkok-suburb-in-connection-with-the-erawan-shrine-bombing-the-man-wa.md) _Context: bomb_
+10. [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md) _Context: bomb_

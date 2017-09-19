@@ -1,7 +1,7 @@
 ## [2003-08-6](/news/2003/08/6/index.md)
 
 ### [ 2003 California recall: Arnold Schwarzenegger announces he will run for Governor of California in the recall election of Gray Davis.](/news/2003/08/6/2003-california-recall-arnold-schwarzenegger-announces-he-will-run-for-governor-of-california-in-the-recall-election-of-gray-davis.md)
-_Context: Arnold Schwarzenegger, California recall, Governor of California, Gray Davis, recall referendum_
+_Context: 2003 California recall, Arnold Schwarzenegger, Governor of California, Gray Davis, recall referendum_
 
 ### [ Florida is set to begin paying $1.6 million in fees to pilot/database guru and alleged former drug smuggler turned government informant Hank Asher in payment for his MATRIX system, a rapidly searchable database combining existing police records and several large commercially available computer databases. Civil libertarians are outraged at the system, claiming it is Orwellian and reminiscent of the Federal Total Information Awareness program. The United States Department of Justice and Department of Homeland Security are providing funds to expand Matrix coverage to the entire country.](/news/2003/08/6/florida-is-set-to-begin-paying-1-6-million-in-fees-to-pilot-database-guru-and-alleged-former-drug-smuggler-turned-government-informant-han.md)
 _Context: Department of Homeland Security, Florida, Hank Asher, MATRIX, Orwellian, Total Information Awareness, United States Department of Justice, civil liberties, database_

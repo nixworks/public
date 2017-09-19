@@ -13,3 +13,4 @@ A UK doctor performed female genital mutilation on a young mother after she gave
 ### Related:
 
 1. [The Gambia bans female genital mutilation with President Yahya Jammeh saying it is not required in Islam. ](/news/2015/11/25/the-gambia-bans-female-genital-mutilation-with-president-yahya-jammeh-saying-it-is-not-required-in-islam.md) _Context: female genital mutilation_
+2. [ The House of Representatives of US state of Georgia passes a ban on genital piercings for women, including consenting adults, as part of a bill to ban female genital mutilation as performed by some Muslim populations, among others. The ban does not apply to men. The provision is not included in the version passed by Georgia's Senate. ](/news/2004/03/25/the-house-of-representatives-of-us-state-of-georgia-passes-a-ban-on-genital-piercings-for-women-including-consenting-adults-as-part-of-a.md) _Context: female genital mutilation_

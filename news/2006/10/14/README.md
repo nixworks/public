@@ -1,7 +1,7 @@
 ## [2006-10-14](/news/2006/10/14/index.md)
 
 ### [ Six Palestinians from the armed wing of the militant group Hamas have been killed in an Israeli incursion into the Gaza Strip, Palestinian officials say. ](/news/2006/10/14/six-palestinians-from-the-armed-wing-of-the-militant-group-hamas-have-been-killed-in-an-israeli-incursion-into-the-gaza-strip-palestinian.md)
-_Context: Gaza Strip, Hamas, Israel, Palestinians_
+_Context: Gaza, Hamas, Israel, Palestinians_
 
 ### [ Thousands of people have been attending mass ceremonies in India at which hundreds of low-caste Hindus (Dalits) converted to Buddhism and Christianity. ](/news/2006/10/14/thousands-of-people-have-been-attending-mass-ceremonies-in-india-at-which-hundreds-of-low-caste-hindus-dalits-converted-to-buddhism-and-c.md)
 _Context: Buddhists, Christian, Dalits, Hindus, India_

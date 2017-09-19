@@ -19,7 +19,7 @@ _Context: European Parliament, Google_
 Unemployment in France has soared in October, with a record 3.46 million people claiming jobless benefits.
 
 ### [The UN Relief and Works Agency for Palestine Refugees in the Near East declares a state of emergency on the Gaza Strip following heavy floods. ](/news/2014/11/27/the-un-relief-and-works-agency-for-palestine-refugees-in-the-near-east-declares-a-state-of-emergency-on-the-gaza-strip-following-heavy-flood.md)
-_Context: Gaza Strip, UN Relief and Works Agency for Palestine Refugees in the Near East, states of emergency_
+_Context: Gaza, UN Relief and Works Agency for Palestine Refugees in the Near East, states of emergency_
 
 ### [The Hong Kong Police Force arrests eleven more people in a second night of violence after removal of a camp in Mong Kok and seven police officers are arrested for alleged assault of a protester on October 15. ](/news/2014/11/27/the-hong-kong-police-force-arrests-eleven-more-people-in-a-second-night-of-violence-after-removal-of-a-camp-in-mong-kok-and-seven-police-off.md)
 _Context: Hong Kong Police Force, Mong Kok_

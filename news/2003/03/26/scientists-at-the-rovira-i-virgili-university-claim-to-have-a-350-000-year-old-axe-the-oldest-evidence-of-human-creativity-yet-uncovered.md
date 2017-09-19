@@ -12,3 +12,4 @@
 ### Related:
 
 1. [A man goes on a rampage with an axe, killing nine people in Chhattisgarh state in central India. ](/news/2013/04/4/a-man-goes-on-a-rampage-with-an-axe-killing-nine-people-in-chhattisgarh-state-in-central-india.md) _Context: axe_
+2. [ Lt. Gurgen Markarian, an Armenian military officer attending a NATO Partnership for Peace program, is hacked to death with an axe and a knife by Lt. Ramil Safarov, an Azerbaijani participant. The officers were attending an English language course at the Hungarian Military University within the framework of the Partnership for Peace program, which is aimed at increasing cooperation between neutral and former Soviet bloc nations and NATO in peacekeeping and other areas. ](/news/2004/02/19/lt-gurgen-markarian-an-armenian-military-officer-attending-a-nato-partnership-for-peace-program-is-hacked-to-death-with-an-axe-and-a-kni.md) _Context: axe_

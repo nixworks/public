@@ -31,7 +31,7 @@ _Context: Nevada, Steve Fossett, United States_
 _Context: Recep Tayyip Erdogan, Turkey, Turkish Prime Minister, constitution, headscarves_
 
 ### [ Due to increasing rocket attacks aimed at Israeli civilians, The Government of Israel declares the Palestinian-controlled Gaza Strip an "enemy entity", and announces plans to cut utilities to the territory. ](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israeli-civilians-the-government-of-israel-declares-the-palestinian-controlled-gaza-strip-an-en.md)
-_Context: Gaza Strip, Palestinian Authority, government_
+_Context: Gaza, Palestinian Authority, government_
 
 ### [ U.S. Congressman Henry Waxman, chairman of the House Committee on Oversight and Government Reform, announces that he will begin an investigation into the activities of Howard Krongard, Inspector General of the State Department. Krongard has been accused of interfering with investigations into corruption involving fraud in the building of the new United States Embassy in Iraq, the smuggling of illegal weapons into Iraq by Blackwater USA employees, and the activities of former chairman of the Broadcasting Board of Governors, Kenneth Tomlinson, in the use of his office for personal gain. ](/news/2007/09/19/u-s-congressman-henry-waxman-chairman-of-the-house-committee-on-oversight-and-government-reform-announces-that-he-will-begin-an-investig.md)
 _Context: Blackwater, Broadcasting Board of Governors, Congress, Henry Waxman, House Oversight Committee, Howard Krongard, Iraq, Kenneth Tomlinson, State Department, United States Embassy in Iraq_

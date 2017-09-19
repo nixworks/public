@@ -7,7 +7,7 @@ _Context: Afghanistan, Kabul, Nils Horner, Swedish Radio_
 _Context: Chhattisgarh, India, Maoist_
 
 ### [In response to mortar fire, an Israeli airstrike in the Gaza Strip kills three suspected militants. ](/news/2014/03/11/in-response-to-mortar-fire-an-israeli-airstrike-in-the-gaza-strip-kills-three-suspected-militants.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [Protesters clash with police in Turkey after a 15-year-old boy died from a head injury sustained during anti-government protests. ](/news/2014/03/11/protesters-clash-with-police-in-turkey-after-a-15-year-old-boy-died-from-a-head-injury-sustained-during-anti-government-protests.md)
 Berkin Elvan has been in coma since June last year when he was hit by a teargas cartridge during anti-government protests in Istanbul

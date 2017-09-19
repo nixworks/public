@@ -25,7 +25,7 @@ _Context: Charles Simonyi, Hungarian American, International Space Station, Soyu
 _Context: Chendur, India, Tamil Nadu, explosive, gelatin, highway_
 
 ### [ Israeli helicopters fire at least two missiles into the northern Gaza Strip. The missile killed a Palestinian militant "while mounting an operation near the border" in a statement released by Islamic Jihad. ](/news/2007/04/7/israeli-helicopters-fire-at-least-two-missiles-into-the-northern-gaza-strip-the-missile-killed-a-palestinian-militant-while-mounting-an-o.md)
-_Context: Gaza Strip, Islamic Jihad Movement in Palestine, Israel, Palestinian, missiles_
+_Context: Gaza, Islamic Jihad Movement in Palestine, Israel, Palestinian, missiles_
 
 ## [Previous Day...](/news/2007/04/6/index.md)
 

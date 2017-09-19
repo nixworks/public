@@ -13,7 +13,7 @@ _Context: Armin Meiwes, Bernd-Jrgen Brandes, Germany, Kassel, eat, penal code_
 _Context: Kyoto Protocol, Russia, ratified_
 
 ### [Two media figures are sentenced to life imprisonment by the International Criminal Tribunal for Rwanda for fueling the 1994 Rwanda genocide; a third receives a 35-year prison term. ](/news/2003/12/3/two-media-figures-are-sentenced-to-life-imprisonment-by-the-international-criminal-tribunal-for-rwanda-for-fueling-the-1994-rwanda-genocide.md)
-_Context: International Criminal Tribunal for Rwanda, Rwanda genocide, mass media_
+_Context: International Criminal Tribunal for Rwanda, genocide, mass media_
 
 ### [Politics of Canada: Natural Resources Minister Herb Dhaliwal, Canada's first Indo-Canadian cabinet minister, announces he is leaving politics. Dhaliwal intends to quit his ministerial post when incoming Prime Minister Paul Martin swears in a new cabinet on December 12, and has indicated he will not seek re-election in the anticipated 2004 election. [http://www.cbc.ca/stories/2003/12/03/dhaliwal_031203]](/news/2003/12/3/politics-of-canada-natural-resources-minister-herb-dhaliwal-canada-s-first-indo-canadian-cabinet-minister-announces-he-is-leaving-politic.md)
 _Context: Canadian Prime Minister, Canadian political history, December 12, Herb Dhaliwal, India, Natural Resources Minister, Paul Martin, election, forming a government, political organisation_

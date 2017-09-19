@@ -10,7 +10,7 @@ _Context: Russian Republic of Tatarstan, Rustam Minnikhanov_
 _Context: Mamozai, Pakistan_
 
 ### [A Gazan fisherman is critically wounded when the Israeli navy targets his fishing boat in an early morning attack. ](/news/2010/03/25/a-gazan-fisherman-is-critically-wounded-when-the-israeli-navy-targets-his-fishing-boat-in-an-early-morning-attack.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [The United States weakens proposed sanctions against Iran in a bid to win broader support on the UN Security Council as Iranian President Mahmoud Ahmadinejad dismisses the impact of any new measures to stop Iran's nuclear program. ](/news/2010/03/25/the-united-states-weakens-proposed-sanctions-against-iran-in-a-bid-to-win-broader-support-on-the-un-security-council-as-iranian-president-ma.md)
 _Context: Iran, Iran and weapons of mass destruction, Mahmoud Ahmadinejad, Security Council, United States_

@@ -13,7 +13,7 @@ _Context: China, Zunhua, natural gas leak, steel mill_
 An explosion ripped through an apartment building in southern Ukraine, killing 19 people, and officials said Thursday they expected the toll to rise.
 
 ### [ Israel moves closer to an invasion of the Gaza Strip after a Palestinian militant attack. ](/news/2008/12/25/israel-moves-closer-to-an-invasion-of-the-gaza-strip-after-a-palestinian-militant-attack.md)
-_Context: Gaza Strip, Israel, Palestinian_
+_Context: Gaza, Israel, Palestinian_
 
 ## [Previous Day...](/news/2008/12/24/index.md)
 

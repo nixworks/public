@@ -7,7 +7,7 @@ _Context: Agenda 2010, Chancellor, Gerhard Schroder, German Green Party_
 _Context: NBA's, New Jersey Nets, San Antonio Spurs, basketball_
 
 ### [ American and Canadian researchers publish a paper that uses gene linkage techniques to identify a mutation in the GRK3 gene as a possible cause of up to 10% of cases of bipolar disorder, one of the major mental illnesses.](/news/2003/06/15/american-and-canadian-researchers-publish-a-paper-that-uses-gene-linkage-techniques-to-identify-a-mutation-in-the-grk3-gene-as-a-possible-c.md)
-_Context: DNA mutation, GRK3, bipolar disorder, gene linkage, mental illness_
+_Context: DNA mutation, GRK3, bipolar disorder, gene linkage, mentally ill_
 
 ## [Previous Day...](/news/2003/06/14/index.md)
 

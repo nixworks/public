@@ -10,7 +10,7 @@ _Context: Crdoba, Argentina_
 _Context: Baghdad, Conflict in Iraq, Donald Rumsfeld, Secretary of Defense_
 
 ### [ Israeli-Palestinian conflict: Palestinian leader Mahmoud Abbas travels to the Gaza Strip to persuade militant groups to join the ceasefire announced with Israel three days ago. ](/news/2005/02/11/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-travels-to-the-gaza-strip-to-persuade-militant-groups-to-join-the-ceasefire.md)
-_Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian, militant_
+_Context: Gaza, Israel, Israeli-Palestinian conflict, Mahmoud Abbas, Palestinian, militant_
 
 ### [ An estimated two million Iranians demonstrate against a possible U.S. pre-emptive strike aimed at preventing Iran from deploying nuclear weapons &ndash; a strike which top US military leaders deny considering. ](/news/2005/02/11/an-estimated-two-million-iranians-demonstrate-against-a-possible-u-s-pre-emptive-strike-aimed-at-preventing-iran-from-deploying-nuclear-we.md)
 _Context: Iran, nuclear weapon, pre-emptive strike_

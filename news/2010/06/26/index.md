@@ -22,13 +22,13 @@ _Context: EU, President, Rupiah Banda, The Global Fund to Fight AIDS, Tuberculos
 Somaliland, a relatively peaceful, organized piece of the Somali puzzle, hopes to become a separate nation.
 
 ### [Israel allegedly confiscates seven oxygen machines en route to hospitals in the West Bank and Gaza as they "came under the category of possible use for non-medical purposes". The Palestinian Ministry of Health asks for the Norwegian Development Agency that donated them to assist in calling for their return. ](/news/2010/06/26/israel-allegedly-confiscates-seven-oxygen-machines-en-route-to-hospitals-in-the-west-bank-and-gaza-as-they-came-under-the-category-of-possi.md)
-_Context: Gaza Strip, Israel, Norway, West Bank_
+_Context: Gaza, Israel, Norway, West Bank_
 
 ### [Israel's pledge to ease its blockade on Gaza has little effect on factories. ](/news/2010/06/26/israel-s-pledge-to-ease-its-blockade-on-gaza-has-little-effect-on-factories.md)
 The chilled Tropika that Salama al-Kishawi proudly serves guests in his office tastes, unusually for a processed juice, of real oranges – especially refreshing on a 35C midsummer day in Gaza. But the flagship product of the Gaza Juice Factory has a significance that goes way beyond its taste.
 
 ### [Iranian lawmakers protesting at Israel's blockade of Gaza say they will travel to the area on an aid ship from Lebanon. ](/news/2010/06/26/iranian-lawmakers-protesting-at-israel-s-blockade-of-gaza-say-they-will-travel-to-the-area-on-an-aid-ship-from-lebanon.md)
-_Context: Gaza Strip, Iran, Israel, Lebanon_
+_Context: Gaza, Iran, Israel, Lebanon_
 
 ### [The Vatican's Secretary of State Cardinal Tarcisio Bertone criticizes Belgian police participating in raids against child sex abuse. ](/news/2010/06/26/the-vatican-s-secretary-of-state-cardinal-tarcisio-bertone-criticizes-belgian-police-participating-in-raids-against-child-sex-abuse.md)
 The Vatican says the detention of priests in a Belgian inquiry into alleged child abuse was worse than the Communist era.
@@ -40,7 +40,7 @@ Thousands protest in the Taiwanese capital about a trade deal with China, which 
 _Context: Egypt, Mohamed ElBaradei, death of Khaled Said_
 
 ### [Two Palestinians are killed in an Israeli strike on two underground tunnels from the Gaza Strip to Israel. The IDF claims the attack was a response to Thursday's firing of a dozen mortar rounds towards Israel. ](/news/2010/06/26/two-palestinians-are-killed-in-an-israeli-strike-on-two-underground-tunnels-from-the-gaza-strip-to-israel-the-idf-claims-the-attack-was-a-r.md)
-_Context: Gaza Strip, Israel, Israel Defense Forces_
+_Context: Gaza, Israel, Israel Defense Forces_
 
 ### [Thousands of Iranians in Paris ask the UN to tighten its sanctions on Iran. ](/news/2010/06/26/thousands-of-iranians-in-paris-ask-the-un-to-tighten-its-sanctions-on-iran.md)
 Thousands of Iranian exiles rally in France, demand tougher sanctions against Tehran

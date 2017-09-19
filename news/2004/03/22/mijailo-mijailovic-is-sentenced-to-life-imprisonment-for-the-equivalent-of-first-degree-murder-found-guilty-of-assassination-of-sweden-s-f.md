@@ -1,0 +1,19 @@
+### [2004-03-22](/news/2004/03/22/index.md)
+
+#  Mijailo Mijailovic is sentenced to life imprisonment for the equivalent of First-degree murder, found guilty of assassination of Sweden's Foreign Minister Anna Lindh, September 10, 2003.
+
+
+
+
+### Related:
+
+1. [ The man charged for the murder of Sweden's FM Anna Lindh on September 10, Mijailo Mijailovic, through his defence lawyer requests an interrogation to give critical details on the stabbing. Seemingly Mijailovic thereby confesses the assault.](/news/2004/01/6/the-man-charged-for-the-murder-of-sweden-s-fm-anna-lindh-on-september-10-mijailo-mijailovic-through-his-defence-lawyer-requests-an-interr.md) _Context: Anna Lindh, Mijailo Mijailovic_
+2. [ "Snow White and The Madness of Truth" displayed at a Stockholm museum is again vandalized. A Russian-Jewish artist floats another image in the pool, that of Mijailo Mijailovic, the murderer of Swedish foreign minister Anna Lindh.](/news/2004/01/19/snow-white-and-the-madness-of-truth-displayed-at-a-stockholm-museum-is-again-vandalized-a-russian-jewish-artist-floats-another-image-in.md) _Context: Anna Lindh, Mijailo Mijailovic_
+3. [ Self-confessed killer of Swedish FM Anna Lindh, 25-year-old Mijailo Mijailovic, says during cross-examination in a Stockholm court that he heard voices in his head commanding him to attack Lindh when he encountered her in a Stockholm shopping mall 10 September last year. Lindh died the next day from the many stab wounds she received.](/news/2004/01/14/self-confessed-killer-of-swedish-fm-anna-lindh-25-year-old-mijailo-mijailovic-says-during-cross-examination-in-a-stockholm-court-that-he.md) _Context: Anna Lindh, Mijailo Mijailovic_
+4. [ Swedish police arrests a new suspect in the murder of Anna Lindh. Per-Olof Svensson is no longer a suspect and has been released.](/news/2003/09/24/swedish-police-arrests-a-new-suspect-in-the-murder-of-anna-lindh-per-olof-svensson-is-no-longer-a-suspect-and-has-been-released.md) _Context: Anna Lindh, Sweden_
+5. [ Swedish police arrest Per-Olof Svensson in connection with the assassination of Anna Lindh.](/news/2003/09/16/swedish-police-arrest-per-olof-svensson-in-connection-with-the-assassination-of-anna-lindh.md) _Context: Anna Lindh, Sweden_
+6. [ Swedish Foreign Minister Anna Lindh dies in the hospital from stab wounds inflicted while she was shopping in a department store in the centre of Stockholm. In the wake of the incident, both the Yes and No Euro campaigns suspended their activities.](/news/2003/09/11/swedish-foreign-minister-anna-lindh-dies-in-the-hospital-from-stab-wounds-inflicted-while-she-was-shopping-in-a-department-store-in-the-cen.md) _Context: Anna Lindh, Sweden_
+7. [ The Swedish Foreign Minister Anna Lindh is stabbed while shopping for clothes at a mall without bodyguards.](/news/2003/09/10/the-swedish-foreign-minister-anna-lindh-is-stabbed-while-shopping-for-clothes-at-a-mall-without-bodyguards.md) _Context: Anna Lindh, Sweden_
+8. [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md) _Context: Sweden_
+9. [In a surprise appointment by Pope Francis, Bishop Anders Arborelius is the first ever person from Sweden to become a cardinal. ](/news/2017/05/21/in-a-surprise-appointment-by-pope-francis-bishop-anders-arborelius-is-the-first-ever-person-from-sweden-to-become-a-cardinal.md) _Context: Sweden_
+10. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: Sweden_

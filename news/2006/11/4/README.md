@@ -13,10 +13,10 @@ News and opinion from The Times &amp; The Sunday Times
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 ### [ Operation Autumn Clouds: Israeli forces have mounted a series of air strikes as part of an ongoing Gaza offensive, killing at least eight.](/news/2006/11/4/operation-autumn-clouds-israeli-forces-have-mounted-a-series-of-air-strikes-as-part-of-an-ongoing-gaza-offensive-killing-at-least-eight.md)
-_Context: Gaza Strip, Israel, Operation Autumn Clouds, air strikes_
+_Context: Gaza, Israel, Operation Autumn Clouds, air strikes_
 
 ### [ Two women have been killed as Israeli troops opened fire on a crowd of women gathered to help besieged gunmen flee a mosque in Beit Hanoun in northern Gaza. ](/news/2006/11/4/two-women-have-been-killed-as-israeli-troops-opened-fire-on-a-crowd-of-women-gathered-to-help-besieged-gunmen-flee-a-mosque-in-beit-hanoun.md)
-_Context: Beit Hanoun, Gaza Strip, Israel, mosque_
+_Context: Beit Hanoun, Gaza, Israel, mosque_
 
 ### [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md)
 _Context: Ariel Sharon, Israeli Prime Minister, Sheba Medical Center, Tel Aviv, intensive care unit_

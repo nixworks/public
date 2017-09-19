@@ -10,7 +10,7 @@ _Context: Hugo Chvez, Supreme Court, Venezuela_
 _Context: New York, death penalty_
 
 ### [A paper published in The Lancet by a team led by Christos Pantelis from the University of Melbourne suggests that it may be possible to predict the onset of schizophrenia using magnetic resonance imaging of the brain. If so, this will be the first time that brain scans have been used to predict the onset of a mental illness, offering the possibility of preventative treatment before a major psychotic episode.](/news/2002/12/10/a-paper-published-in-the-lancet-by-a-team-led-by-christos-pantelis-from-the-university-of-melbourne-suggests-that-it-may-be-possible-to-pred.md)
-_Context: Christos Pantelis, MRI scans, The Lancet, University of Melbourne, brain, mental illness, schizophrenia_
+_Context: Christos Pantelis, MRI scans, The Lancet, University of Melbourne, brain, mentally ill, schizophrenia_
 
 ### [Nobel Prize awards in Stockholm, Sweden and Oslo, Norway.](/news/2002/12/10/nobel-prize-awards-in-stockholm-sweden-and-oslo-norway.md)
 _Context: Nobel Prize, Norway, Oslo, Stockholm, Sweden_

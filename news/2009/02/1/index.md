@@ -16,7 +16,7 @@ _Context: 2009 Australian Open, Rafael Nadal, Roger Federer, Spanish, Switzerlan
 _Context: Boeing 747-300, Japan Airlines, biofuel, test flight_
 
 ### [ Palestinian militants in the Gaza Strip fire four rockets and sixteen mortar shells into Israel's Negev region. ](/news/2009/02/1/palestinian-militants-in-the-gaza-strip-fire-four-rockets-and-sixteen-mortar-shells-into-israel-s-negev-region.md)
-_Context: Gaza Strip, Israel, Mortar, Negev, Palestinian, fire, militant, rocket_
+_Context: Gaza, Israel, Mortar, Negev, Palestinian, fire, militant, rocket_
 
 ### [ The Japan Meteorological Agency warns that Honshu Island's Mount Asama could erupt within the next two days. ](/news/2009/02/1/the-japan-meteorological-agency-warns-that-honsha-island-s-mount-asama-could-erupt-within-the-next-two-days.md)
 _Context: Honshu Island, Japan, Japan Meteorological Agency, Mount Asama_

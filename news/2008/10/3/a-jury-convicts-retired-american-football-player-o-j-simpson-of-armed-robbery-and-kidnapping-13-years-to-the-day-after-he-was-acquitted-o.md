@@ -11,7 +11,7 @@ O.J. Simpson was convicted in a Las Vegas court on 12 counts including armed rob
 
 ### Related:
 
-1. [The Primetime Emmy Awards will be held in Los Angeles. Political satirist and "The Late Show" host Stephen Colbert will host the event. ](/news/2017/09/17/the-primetime-emmy-awards-will-be-held-in-los-angeles-political-satirist-and-the-late-show-host-stephen-colbert-will-host-the-event.md) _Context: Los Angeles_
+1. [The Primetime Emmy Awards is held in Los Angeles at the Microsoft Theater. Political satirist and "The Late Show" host Stephen Colbert hosts the event. ](/news/2017/09/17/the-primetime-emmy-awards-is-held-in-los-angeles-at-the-microsoft-theater-political-satirist-and-the-late-show-host-stephen-colbert-hosts.md) _Context: Los Angeles_
 2. [An explosion at a Northridge power plant causes a widespread power outage in the San Fernando Valley, Los Angeles. ](/news/2017/07/8/an-explosion-at-a-northridge-power-plant-causes-a-widespread-power-outage-in-the-san-fernando-valley-los-angeles.md) _Context: Los Angeles_
 3. [O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. ](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-board-of-parole-commissioners-after-spending-nearly-nine-years-in-prison.md) _Context: O. J. Simpson_
 4. [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md) _Context: Los Angeles_

@@ -4,7 +4,7 @@
 Israeli Prime Minister Benjamin Netanyahu has ruled out any apology from his country for a raid on a Turkish Gaza-bound aid ship that killed nine Turks. &quot;
 
 ### [A series of studies published by Palestinian scientists in "The Lancet" claims that Israel's blockade of the Gaza Strip threatens to cause long-term health damage, malnutrition and stunted growth in children. ](/news/2010/07/2/a-series-of-studies-published-by-palestinian-scientists-in-the-lancet-claims-that-israel-s-blockade-of-the-gaza-strip-threatens-to-cause-l.md)
-_Context: Gaza Strip, Israel, Israel's blockade on Gaza, The Lancet_
+_Context: Gaza, Israel, Israel's blockade on Gaza, The Lancet_
 
 ### [Senegal enters eight days of national mourning as President Abdoulaye Wade swears allegiance to the new Grand Marabout of the Mourides following the death of his predecessor, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/2/senegal-enters-eight-days-of-national-mourning-as-president-abdoulaye-wade-swears-allegiance-to-the-new-grand-marabout-of-the-mourides-follo.md)
 At least 17 people killed in fighting between government forces and rebels.

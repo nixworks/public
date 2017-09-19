@@ -3,7 +3,7 @@
 ### [ Montral/Dorval International Airport is renamed Montral/Pierre Elliott Trudeau International Airport.](/news/2004/01/1/montreal-dorval-international-airport-is-renamed-montreal-pierre-elliott-trudeau-international-airport.md)
 _Context: Montral/Pierre Elliott Trudeau International Airport_
 
-### [ MySpace had its official launch.](/news/2004/01/1/myspace-had-its-official-launch.md)
+### [ MySpace has its official launch.](/news/2004/01/1/myspace-has-its-official-launch.md)
 _Context: MySpace_
 
 ### [ A British Airways flight from London to Washington, D.C. is canceled one day after the same flight is delayed for three hours on the tarmac at Dulles International Airport for security screening. ](/news/2004/01/1/a-british-airways-flight-from-london-to-washington-d-c-is-canceled-one-day-after-the-same-flight-is-delayed-for-three-hours-on-the-tarmac.md)

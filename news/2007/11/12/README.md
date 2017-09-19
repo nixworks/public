@@ -37,7 +37,7 @@ _Context: Helmand Province, War in Afghanistan (2001-present)_
 _Context: Nigeria, State Security Service, al-Qaeda_
 
 ### [ Thousands of Fatah supporters gather in Gaza to mark the third anniversary of Yasser Arafat's death. Hamas security forces kill seven people and wound several. ](/news/2007/11/12/thousands-of-fatah-supporters-gather-in-gaza-to-mark-the-third-anniversary-of-yasser-arafat-s-death-hamas-security-forces-kill-seven-peopl.md)
-_Context: Fatah, Gaza Strip, Hamas, Yasser Arafat_
+_Context: Fatah, Gaza, Hamas, Yasser Arafat_
 
 ### [ Pakistan Army renews air attacks in the Swat valley targeting extremists positions.date=December 2007 Foreign ministers of the Commonwealth of Nations meet in London to discuss the issue of Pakistan. They demand that President Pervez Musharraf lift the state of emergency, release political prisoners and step down as army chief by November 22, or otherwise the country will be "suspended from the Councils of the Commonwealth." ](/news/2007/11/12/pakistan-army-renews-air-attacks-in-the-swat-valley-targeting-extremists-positions-date-december-2007-foreign-ministers-of-the-commonwealth.md)
 _Context: Commonwealth of Nations, Foreign Minister, Pakistan, Pakistan army, Pervez Musharraf, Swat, Pakistan, airstrike, political prisoner, president, states of emergency_

@@ -7,7 +7,7 @@ Hundreds, including journalists, held after deadly clashes between security forc
 At least 144 people are injured at a political event in the Armenia capital after clusters of gas balloons explode, officials say.
 
 ### [At least eleven people are killed in a suicide bombing attack in a crowded market in Pakistan's Bajaur Agency. ](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-bombing-attack-in-a-crowded-market-in-pakistan-s-bajaur-agency.md)
-_Context: Bajaur Agency, Pakistan, suicide bomb_
+_Context: Bajaur, Pakistan, suicide bomb_
 
 ### [23 bodies--14 of them decapitated and 9 of them hanged from a bridge--are found in the Mexican city of Nuevo Laredo; those killed were reportedly members of the Gulf Cartel who were killed by Los Zetas, a rival cartel. ](/news/2012/05/4/23-bodiesa14-of-them-decapitated-and-9-of-them-hanged-from-a-bridgeaare-found-in-the-mexican-city-of-nuevo-laredo-those-killed-were-rep.md)
 _Context: Gulf Cartel, Los Zetas, Mexican Drug War, Nuevo Laredo_

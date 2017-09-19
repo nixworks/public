@@ -49,7 +49,7 @@ France was preparing to repatriate nearly another 140 Roma, a day after almost 1
 Palestinians warn negotiations would be threatened if building on occupied land resumes.
 
 ### [Canada Post advises customers that it cannot accept mail to Gaza until further notice. Israel Post continues to inform postal services around the world that mail service to Gaza is unavailable. ](/news/2010/08/20/canada-post-advises-customers-that-it-cannot-accept-mail-to-gaza-until-further-notice-israel-post-continues-to-inform-postal-services-aroun.md)
-_Context: Canada Post, Gaza Strip, Israel Post_
+_Context: Canada Post, Gaza, Israel Post_
 
 ### [President of Iran Mahmoud Ahmadinejad rejects calls from the United Nations Security Council to stop all uranium enrichment but promises to stop high level enrichment if the country is assured of uranium for a research reactor. ](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.md)
 _Context: Mahmoud Ahmadinejad, President, United Nations Security Council, nuclear reactor, uranium, uranium enrichment_

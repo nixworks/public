@@ -12,3 +12,4 @@ Celebrating women from the Philippines to Afghanistan to Poland and beyond.
 ### Related:
 
 1. [ Representatives of European Union meet with those of Turkey, a prospective new member. They also criticize Turkish police for violent handling of a demonstration that marked the International Women's Day in Istanbul. Turkish officials promise to investigate the case ](/news/2005/03/7/representatives-of-european-union-meet-with-those-of-turkey-a-prospective-new-member-they-also-criticize-turkish-police-for-violent-handl.md) _Context: International Women's Day_
+2. [ On International Women's Day, Afghan President Hamid Karzai encourages men to allow their female relatives to vote in the upcoming election, but also suggests that they control those votes. ](/news/2004/03/8/on-international-women-s-day-afghan-president-hamid-karzai-encourages-men-to-allow-their-female-relatives-to-vote-in-the-upcoming-election.md) _Context: International Women's Day_

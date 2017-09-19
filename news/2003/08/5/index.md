@@ -1,7 +1,7 @@
 ## [2003-08-5](/news/2003/08/5/index.md)
 
 ### [ A powerful car bomb explodes outside the Marriott Hotel, killing at least fourteen people and injuring about 150 in downtown Jakarta, a popular district for foreigners. It is believed to be a suicide bombing. The blast comes two days before a Bali court was due to deliver the verdict of the first suspect of the 2002 Bali terrorist bombing and four days after President Megawati Sukarnoputri vowed to wipe out terrorist networks in Indonesia. Jemaah Islamiyah claimed responsibility for the attack through a Singapore newspaper.](/news/2003/08/5/a-powerful-car-bomb-explodes-outside-the-marriott-hotel-killing-at-least-fourteen-people-and-injuring-about-150-in-downtown-jakarta-a-pop.md)
-_Context: 2002 Bali terrorist bombing, Bali, Indonesia, Jakarta, Jemaah Islamiyah, Megawati Sukarnoputri, Singapore, car bomb, explosion, suicide bombing, terrorism_
+_Context: Bali, Bali bomber, Indonesia, Jakarta, Jemaah Islamiyah, Megawati Sukarnoputri, Singapore, car bomb, explosion, suicide bombing, terrorism_
 
 ### [ A planned meeting between Israeli prime minister Ariel Sharon and Palestinian prime minister Mahmoud Abbas is cancelled by Abbas. He accuses Israel of not doing enough in a US-backed road map for peace. Israel had said that 540 Palestinian prisoners would be freed but only released 342 names in a prisoner list. Israel accuses the Palestinians of not curbing terrorist attacks on Israel.](/news/2003/08/5/a-planned-meeting-between-israeli-prime-minister-ariel-sharon-and-palestinian-prime-minister-mahmoud-abbas-is-cancelled-by-abbas-he-accuse.md)
 _Context: Ariel Sharon, Israel, Mahmoud Abbas, Palestinian, Palestinian prisoners, road map peace plan_

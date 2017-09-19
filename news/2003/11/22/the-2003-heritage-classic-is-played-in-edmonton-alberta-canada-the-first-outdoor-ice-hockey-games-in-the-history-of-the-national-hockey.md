@@ -1,0 +1,19 @@
+### [2003-11-22](/news/2003/11/22/index.md)
+
+#  The 2003 Heritage Classic is played in Edmonton, Alberta, Canada, the first outdoor ice hockey games in the history of the National Hockey League. Over 50,000 spectators watch the two games.
+
+
+
+
+### Related:
+
+1. [ National Hockey League hockey player Todd Bertuzzi is suspended for the remainder of the season and for the entire Stanley Cup playoffs for his hit on Steve Moore, which left him with two broken vertebrae in his neck. The Vancouver police department is also looking into the incident. ](/news/2004/03/10/national-hockey-league-hockey-player-todd-bertuzzi-is-suspended-for-the-remainder-of-the-season-and-for-the-entire-stanley-cup-playoffs-for.md) _Context: National Hockey League, ice hockey_
+2. [Two Canadian men are accused of committing an act of "flag desecration" in La Quinta, California, United States for allegedly replacing an American flag with a Canadian flag following Canada's ice hockey victory at the 2010 Winter Olympics. ](/news/2010/04/20/two-canadian-men-are-accused-of-committing-an-act-of-flag-desecration-in-la-quinta-california-united-states-for-allegedly-replacing-an-a.md) _Context: ice hockey_
+3. [ The New Jersey Devils' Martin Brodeur passes Patrick Roy to becomes the National Hockey League's winningest goaltender. ](/news/2009/03/17/the-new-jersey-devils-martin-brodeur-passes-patrick-roy-to-becomes-the-national-hockey-league-s-winningest-goaltender.md) _Context: National Hockey League_
+4. [ Washington Capitals forward Alexander Ovechkin wins the Hart Memorial Trophy as most valuable player for the National Hockey League 2007-2008 season as well as the Art Ross Trophy for most points and the Rocket Richard Trophy for top goal scorer. ](/news/2008/06/12/washington-capitals-forward-alexander-ovechkin-wins-the-hart-memorial-trophy-as-most-valuable-player-for-the-national-hockey-league-2007-20.md) _Context: National Hockey League_
+5. [ Sidney Crosby of the Pittsburgh Penguins wins the Hart Memorial Trophy as the National Hockey League's most valuable player during the 2006&ndash;07 season in the annual NHL awards. ](/news/2007/06/14/sidney-crosby-of-the-pittsburgh-penguins-wins-the-hart-memorial-trophy-as-the-national-hockey-league-s-most-valuable-player-during-the-2006.md) _Context: National Hockey League_
+6. [ Ice hockey: The 2007 NHL Stanley Cup Playoffs begin. The inaugural matchup features the Pittsburgh Penguins visiting the Ottawa Senators at Scotiabank Place in Ottawa, Ontario.](/news/2007/04/11/ice-hockey-the-2007-nhl-stanley-cup-playoffs-begin-the-inaugural-matchup-features-the-pittsburgh-penguins-visiting-the-ottawa-senators-at.md) _Context: ice hockey_
+7. [ The Carolina Hurricanes win ice hockey's Stanley Cup in game seven of a best of seven series for the first time defeating the Edmonton Oilers 3-1. ](/news/2006/06/19/the-carolina-hurricanes-win-ice-hockey-s-stanley-cup-in-game-seven-of-a-best-of-seven-series-for-the-first-time-defeating-the-edmonton-oile.md) _Context: ice hockey_
+8. [ The 2005-2006 National Hockey League playoffs started.](/news/2006/04/21/the-2005a2006-national-hockey-league-playoffs-started.md) _Context: National Hockey League_
+9. [ National Hockey League great Wayne Gretzky has denied placing any bets with an illegal sport gambling operation. ](/news/2006/02/10/national-hockey-league-great-wayne-gretzky-has-denied-placing-any-bets-with-an-illegal-sport-gambling-operation.md) _Context: National Hockey League_
+10. [ The National Hockey League returns after a year-long lockout. Opening night featured all 30 teams in action, including Sidney Crosby's debut against the New Jersey Devils and Alexander Ovechkin's debut against the Columbus Blue Jackets where he scored 2 goals.](/news/2005/10/5/the-national-hockey-league-returns-after-a-year-long-lockout-opening-night-featured-all-30-teams-in-action-including-sidney-crosby-s-debu.md) _Context: National Hockey League_

@@ -13,7 +13,7 @@ _Context: CIA, Iran, Shahram Amiri_
 _Context: Chile, anthrax_
 
 ### [Farmers in Gaza are shot at by Israeli militants as they attempt to harvest their crops. ](/news/2010/07/13/farmers-in-gaza-are-shot-at-by-israeli-militants-as-they-attempt-to-harvest-their-crops.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [Ugandan authorities arrest a number of people in connection with the July 2010 Kampala attacks which left at least 74 people dead. ](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.md)
 Unexploded bomb belt found by police investigating twin attacks claimed by al-Shabab.

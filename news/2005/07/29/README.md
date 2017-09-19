@@ -23,7 +23,7 @@ _Context: India, death toll, recent floods_
 
 ### [ Indian bomb disposal experts have found traces of explosive in the train which exploded on Thursday killing 7 people. ](/news/2005/07/29/indian-bomb-disposal-experts-have-found-traces-of-explosive-in-the-train-which-exploded-on-thursday-killing-7-people.md)
 ### [ BBC News has been told, by the activist settler Noam Livnat, that 20,000 Israeli soldiers had signed a petition vowing to block any attempt at removing Israeli settlements from the Gaza Strip. ](/news/2005/07/29/bbc-news-has-been-told-by-the-activist-settler-noam-livnat-that-20-000-israeli-soldiers-had-signed-a-petition-vowing-to-block-any-attempt.md)
-_Context: BBC News, Gaza Strip, Israel, Israeli settlement_
+_Context: BBC News, Gaza, Israel, Israeli settlement_
 
 ### [ In Vietnam, death toll on bird flu rises to 42. ](/news/2005/07/29/in-vietnam-death-toll-on-bird-flu-rises-to-42.md)
 _Context: Avian flu virus, Vietnam, death toll_

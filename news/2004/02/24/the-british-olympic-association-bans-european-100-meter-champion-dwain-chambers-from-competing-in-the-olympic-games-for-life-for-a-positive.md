@@ -1,0 +1,19 @@
+### [2004-02-24](/news/2004/02/24/index.md)
+
+#  The British Olympic Association bans European 100 meter champion Dwain Chambers from competing in the Olympic Games for life for a positive test for the designer steroid THG.
+
+
+
+
+### Related:
+
+1. [ Top British runner Dwain Chambers tests positive for the drug tetrahydrogestrinone (THG). The steroid was previously believed to be undetectable but an anonymous source provided a used syringe containing traces last week.](/news/2003/10/22/top-british-runner-dwain-chambers-tests-positive-for-the-drug-tetrahydrogestrinone-thg-the-steroid-was-previously-believed-to-be-undetec.md) _Context: Dwain Chambers, banned substances, steroid_
+2. [ Former Olympic gold medalist Marion Jones reports to a Texas jail to begin a six-month sentence for perjury regarding past steroid use. ](/news/2008/03/7/former-olympic-gold-medalist-marion-jones-reports-to-a-texas-jail-to-begin-a-six-month-sentence-for-perjury-regarding-past-steroid-use.md) _Context: Olympic Games, steroid_
+3. [ U.S. athlete Marion Jones returns the five medals she won at the Sydney Olympics and accepts a two-year ban from the sport after admitting to her use of a prohibited substance. ](/news/2007/10/8/u-s-athlete-marion-jones-returns-the-five-medals-she-won-at-the-sydney-olympics-and-accepts-a-two-year-ban-from-the-sport-after-admitting.md) _Context: athlete, banned substances_
+4. [Former American Olympic Games champion Caitlyn Jenner announces that she is a trans woman. ](/news/2015/04/24/former-american-olympic-games-champion-caitlyn-jenner-announces-that-she-is-a-trans-woman.md) _Context: Olympic Games_
+5. [US Olympic swimming gold medal winner Amy Van Dyken severs her spine in a severe ATV accident. ](/news/2014/06/10/us-olympic-swimming-gold-medal-winner-amy-van-dyken-severs-her-spine-in-a-severe-atv-accident.md) _Context: Olympic Games_
+6. [Main Street Family Pharmacy of Newbern, Tennessee, US voluntarily recalls a steroid injection (preservative-free methylprednisolone acetate), used for arthritis and allergy relief in at least 11 states. No serious infections are reported. ](/news/2013/05/24/main-street-family-pharmacy-of-newbern-tennessee-us-voluntarily-recalls-a-steroid-injection-preservative-free-methylprednisolone-acetate.md) _Context: steroid_
+7. [Thieves break into the Archaeological Museum of Olympia in Greece. stealing between 60 and 70 artifacts of the ancient Olympic Games. ](/news/2012/02/17/thieves-break-into-the-archaeological-museum-of-olympia-in-greece-stealing-between-60-and-70-artifacts-of-the-ancient-olympic-games.md) _Context: Olympic Games_
+8. [ Michael Phelps of the United States wins his seventh gold medal of the 2008 Summer Olympics in the 100 metre butterfly, tying Mark Spitz's record for gold medals at an Olympic Games. ](/news/2008/08/16/michael-phelps-of-the-united-states-wins-his-seventh-gold-medal-of-the-2008-summer-olympics-in-the-100-metre-butterfly-tying-mark-spitz-s.md) _Context: Olympic Games_
+9. [ American swimmer Michael Phelps breaks the record for most Olympic gold medals won by an individual athlete at the Beijing Olympics. ](/news/2008/08/13/american-swimmer-michael-phelps-breaks-the-record-for-most-olympic-gold-medals-won-by-an-individual-athlete-at-the-beijing-olympics.md) _Context: Olympic Games_
+10. [ Antonio Pettigrew hands back the gold medal he won as part of the United States Olympic 400 metre relay team at the 2000 Summer Olympics in Sydney following an admission that he used EPO and human growth hormone between 1997 and 2003. Michael Johnson, another member of the team, returns his gold medal on the grounds that it was "tainted". ](/news/2008/06/3/antonio-pettigrew-hands-back-the-gold-medal-he-won-as-part-of-the-united-states-olympic-400-metre-relay-team-at-the-2000-summer-olympics-in.md) _Context: Olympic Games_

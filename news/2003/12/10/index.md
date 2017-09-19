@@ -7,7 +7,7 @@ _Context: Geneva, World Summit on the Information Society_
 _Context: 2004 presidential election, Annette Lu, Chen Shui-bian, Democratic Progressive Party, President_
 
 ### [ Campaign finance reform, passed as the Bipartisan Campaign Reform Act of 2002, is upheld by a slim majority of the U.S. Supreme Court. ](/news/2003/12/10/campaign-finance-reform-passed-as-the-bipartisan-campaign-reform-act-of-2002-is-upheld-by-a-slim-majority-of-the-u-s-supreme-court.md)
-_Context: Bipartisan Campaign Reform Act of 2002, Campaign finance reform, United States Supreme Court_
+_Context: Bipartisan Campaign Reform Act, United States Supreme Court, campaign finance_
 
 ### [ Canada's BC Ferry system experiences a total shutdown due to job action by its union, after an 80-day cooling-off period, imposed by the provincial government, was not rescinded. [http://vancouver.cbc.ca/regional/servlet/View?filename=bc_strikepm20031210]](/news/2003/12/10/canada-s-bc-ferry-system-experiences-a-total-shutdown-due-to-job-action-by-its-union-after-an-80-day-cooling-off-period-imposed-by-the-pr.md)
 _Context: BC Ferries, Canada, strike_

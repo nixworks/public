@@ -34,7 +34,7 @@ _Context: Waziristan War_
 _Context: New York City, United Nations Headquarters, phosgene_
 
 ### [ The Al-Aqsa Martyrs Brigades of Fatah claims its militants have fired a missile into southern Israeli city of Sderot in response to Israeli raids on the Gaza Strip. Israeli sources said the rocket landed on a building and caused damages and panic. ](/news/2007/08/30/the-al-aqsa-martyrs-brigades-of-fatah-claims-its-militants-have-fired-a-missile-into-southern-israeli-city-of-sderot-in-response-to-israeli.md)
-_Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza Strip, Israel, Sderot, rocket attacks_
+_Context: Al-Aqsa Martyrs' Brigades, Fatah, Gaza, Israel, Sderot, rocket attacks_
 
 ### [ Scores of Italians are arrested in a crackdown on the 'ndrangheta organised crime clans active in Calabria. ](/news/2007/08/30/scores-of-italians-are-arrested-in-a-crackdown-on-the-ndrangheta-organised-crime-clans-active-in-calabria.md)
 _Context: 'Ndrangheta, Calabria, Italy_

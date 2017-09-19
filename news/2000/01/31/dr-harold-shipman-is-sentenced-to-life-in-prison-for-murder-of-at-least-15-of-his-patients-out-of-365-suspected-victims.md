@@ -8,3 +8,4 @@
 ### Related:
 
 1. [ Latest investigation into the career of UK serial killer Dr. Harold Shipman increases the count of his victims to 284, the first having been killed just after he left medical school. ](/news/2005/01/28/latest-investigation-into-the-career-of-uk-serial-killer-dr-harold-shipman-increases-the-count-of-his-victims-to-284-the-first-having-bee.md) _Context: Dr. Harold Shipman_
+2. [ British serial killer Dr Harold Shipman is found dead in his cell.](/news/2004/01/13/british-serial-killer-dr-harold-shipman-is-found-dead-in-his-cell.md) _Context: Dr. Harold Shipman_

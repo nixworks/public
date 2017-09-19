@@ -1,0 +1,19 @@
+### [2003-11-4](/news/2003/11/4/index.md)
+
+#  Mexican President Vicente Fox begins a three state trip to the United States with a stop in Arizona, where he addresses immigration issues. A man is reportedly injured at a shooting near the place Fox spoke.
+
+
+
+
+### Related:
+
+1. [A blackout in southern California, Arizona and Baja California in Mexico caused by the loss of the entire San Diego Gas & Electric system leads to the closure of San Onofre Nuclear Generating Station and the loss of power to more than two million people. ](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.md) _Context: Arizona, Mexico_
+2. [Former President of Mexico Vicente Fox calls for the legalisation of drugs in Mexico. ](/news/2010/08/9/former-president-of-mexico-vicente-fox-calls-for-the-legalisation-of-drugs-in-mexico.md) _Context: Mexico, Vicente Fox_
+3. [Mexico states that it has the support of Bolivia, Cuba, Ecuador, Ghana, Guatemala, the Federated States of Micronesia, Panama, Senegal, Turkey, and Uruguay in pursuing its case against Arizona's immigration law. ](/news/2010/07/21/mexico-states-that-it-has-the-support-of-bolivia-cuba-ecuador-ghana-guatemala-the-federated-states-of-micronesia-panama-senegal-turk.md) _Context: Arizona, Mexico_
+4. [ An Arizona judge rules that a United States Border Patrol agent Nicholas Corbett must stand trial for murder for shooting dead a Mexican immigrant. ](/news/2007/08/6/an-arizona-judge-rules-that-a-united-states-border-patrol-agent-nicholas-corbett-must-stand-trial-for-murder-for-shooting-dead-a-mexican-im.md) _Context: Arizona, Mexico_
+5. [ The governors of the U.S. states of New Mexico and Arizona declare an emergency along their borders with Mexico citing recent violence, and inaction in both the US government and the Mexican government. ](/news/2005/08/17/the-governors-of-the-u-s-states-of-new-mexico-and-arizona-declare-an-emergency-along-their-borders-with-mexico-citing-recent-violence-and.md) _Context: Arizona, Mexico_
+6. [ Mexican president Vicente Fox accepts resignation of his attorney general Rafael Macedo and orders review of the contempt of court case of Andrs Manuel Lpez Obrador. ](/news/2005/04/27/mexican-president-vicente-fox-accepts-resignation-of-his-attorney-general-rafael-macedo-and-orders-review-of-the-contempt-of-court-case-of.md) _Context: Mexico, Vicente Fox_
+7. [ 100 supporters of the Party of the Democratic Revolution protest outside the ranch of Mexican president Vicente Fox. They protest against the trial of Andrs Manuel Lpez Obrador, popular mayor of Mexico City. ](/news/2005/04/17/100-supporters-of-the-party-of-the-democratic-revolution-protest-outside-the-ranch-of-mexican-president-vicente-fox-they-protest-against-t.md) _Context: Mexico, Vicente Fox_
+8. [ The President of Mexico, Vicente Fox, increases his personal security after an advisor reportedly leaked his itinerary to a Mexican drug cartel. ](/news/2005/02/8/the-president-of-mexico-vicente-fox-increases-his-personal-security-after-an-advisor-reportedly-leaked-his-itinerary-to-a-mexican-drug-ca.md) _Context: Mexico, Vicente Fox_
+9. [ Vicente Fox, president of Mexico, undergoes emergency back surgery for a herniated disc.](/news/2003/03/12/vicente-fox-president-of-mexico-undergoes-emergency-back-surgery-for-a-herniated-disc.md) _Context: Mexico, Vicente Fox_
+10. [Vicente Fox is elected president of Mexico, as candidate of the rightist National Action Party, ending 71 years of Institutional Revolutionary Party rule.](/news/2000/07/2/vicente-fox-is-elected-president-of-mexico-as-candidate-of-the-rightist-national-action-party-ending-71-years-of-institutional-revolutiona.md) _Context: Mexico, Vicente Fox_

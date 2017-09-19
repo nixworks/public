@@ -4,7 +4,7 @@
 _Context: French Alps, Mount Everest, Rob Gauntlett_
 
 ### [ Israel and Hamas ignore the United Nations Security Council's call for a ceasefire in the conflict in the Gaza Strip. ](/news/2009/01/9/israel-and-hamas-ignore-the-united-nations-security-council-s-call-for-a-ceasefire-in-the-conflict-in-the-gaza-strip.md)
-_Context: Gaza Strip, Hamas, Israel, United Nations, United Nations Security Council, call, ceasefire, fire_
+_Context: Gaza, Hamas, Israel, United Nations, United Nations Security Council, call, ceasefire, fire_
 
 ### [ Microsoft Corporation releases the beta version of its Windows 7 operating system. ](/news/2009/01/9/microsoft-corporation-releases-the-beta-version-of-its-windows-7-operating-system.md)
 _Context: Microsoft, Windows 7, beta version, operating system_

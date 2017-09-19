@@ -28,13 +28,13 @@ _Context: British House of Commons, Bromley and Chislehurst, by-election, by-ele
 _Context: Operation Summer Rains_
 
 ### [ Israeli government puts off an offensive to the northern Gaza Strip, and freezes military operations in the southern Gaza strip, to allow further time for diplomatic negotiations. There have been no Palestinian fatalities in two days of Israeli operations in the Gaza Strip and West Bank. ](/news/2006/06/29/israeli-government-puts-off-an-offensive-to-the-northern-gaza-strip-and-freezes-military-operations-in-the-southern-gaza-strip-to-allow-f.md)
-_Context: Gaza Strip, Israel, Operation Summer Rains, Palestinian, West Bank_
+_Context: Gaza, Israel, Operation Summer Rains, Palestinian, West Bank_
 
 ### [ Six Qassam rockets are launched from the northern Gaza Strip against Israeli towns. The Israel Defense Forces fire over 400 artillery shells at unpopulated areas in the Gaza Strip, to suppress further rocket attacks. ](/news/2006/06/29/six-qassam-rockets-are-launched-from-the-northern-gaza-strip-against-israeli-towns-the-israel-defense-forces-fire-over-400-artillery-shell.md)
 (VIDEO) Israel Air Force strikes Interior Ministry building, Fatah offices in Gaza City; earlier, two power stations hit in IDF shelling attack, causing blackout in northern Gaza. Six rockets land south of Ashkelon, two of which narrowly miss strategic site
 
 ### [ Russia asks Israel to avoid harming Palestinian civilians in any offensive in the Gaza Strip and urges militants to free the abducted Israeli soldier. ](/news/2006/06/29/russia-asks-israel-to-avoid-harming-palestinian-civilians-in-any-offensive-in-the-gaza-strip-and-urges-militants-to-free-the-abducted-israe.md)
-_Context: Gaza Strip, Israel, Palestinian, Russia_
+_Context: Gaza, Israel, Palestinian, Russia_
 
 ### [ The body of Israeli student Eliyahu Asheri is found buried in a field near Ramallah with a head shot. Asheri, 18, was kidnapped and killed on Sunday night by a Palestinian militant group. ](/news/2006/06/29/the-body-of-israeli-student-eliyahu-asheri-is-found-buried-in-a-field-near-ramallah-with-a-head-shot-asheri-18-was-kidnapped-and-killed.md)
 _Context: Eliyahu Asheri, Ramallah_

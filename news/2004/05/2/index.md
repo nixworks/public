@@ -7,7 +7,7 @@ _Context: Amazon.com, Credit Suisse First Boston, Frank Quattrone, IPO, Internet
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ### [ Israel's Likud Party votes in a referendum not to pull out of the Gaza Strip unilaterally. The referendum's defeat is seen as a major blow to the Sharon government. Sharon subsequently says that he will not resign and may modify the plan. ](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.md)
-_Context: Ariel Sharon, Gaza Strip, Israel, Likud Party_
+_Context: Ariel Sharon, Gaza, Israel, Likud Party_
 
 ### [ Martn Torrijos wins Panama's presidential election. ](/news/2004/05/2/martin-torrijos-wins-panama-s-presidential-election.md)
 _Context: Martn Torrijos, Panama, presidential election_

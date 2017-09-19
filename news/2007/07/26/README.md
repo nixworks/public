@@ -25,7 +25,7 @@ Muhammad Dahlan resigned today from his post as national security adviser to Mah
 A federal judge ordered the government to pay $101 million to two men and the families of two others wrongfully convicted of a 1965 murder in order to protect an FBI informant.
 
 ### [ Israeli troops and airstrike kill four militants in an incursion into the Gaza Strip including three members of Islamic Jihad and one Hamas member. ](/news/2007/07/26/israeli-troops-and-airstrike-kill-four-militants-in-an-incursion-into-the-gaza-strip-including-three-members-of-islamic-jihad-and-one-hamas.md)
-_Context: Gaza Strip, Hamas, Islamic Jihad Movement in Palestine, Israel_
+_Context: Gaza, Hamas, Islamic Jihad Movement in Palestine, Israel_
 
 ### [ Former Bangladesh Telecommunication Minister Aminul Huq is sentenced to 31 years in jail for his role in aiding Jamaat-ul-Mujahideen Bangladesh with terrorist bomb attacks in the country. ](/news/2007/07/26/former-bangladesh-telecommunication-minister-aminul-huq-is-sentenced-to-31-years-in-jail-for-his-role-in-aiding-jamaat-ul-mujahideen-bangla.md)
 _Context: Bangladesh, Jamaat-ul-Mujahideen Bangladesh, telecommunication_

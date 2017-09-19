@@ -13,7 +13,7 @@ Japan launched a satellite onFriday to monitor greenhouse gases around the world
 A man and a woman have been killed in a shooting in a car park outside a kindergarten in the northern Norwegian town of Tromso.
 
 ### [ Hamas accuses rival faction Fatah of spying for Israel during the recent conflict in the Gaza Strip. ](/news/2009/01/23/hamas-accuses-rival-faction-fatah-of-spying-for-israel-during-the-recent-conflict-in-the-gaza-strip.md)
-_Context: Fatah, Gaza Strip, Hamas, Israel, espionage, faction, fire_
+_Context: Fatah, Gaza, Hamas, Israel, espionage, faction, fire_
 
 ### [ National Congress and Tutsi leader Laurent Nkunda is arrested in Rwanda. ](/news/2009/01/23/national-congress-and-tutsi-leader-laurent-nkunda-is-arrested-in-rwanda.md)
 In a startling turn against its former ally, Rwanda has arrested Congo rebel leader Laurent Nkunda.

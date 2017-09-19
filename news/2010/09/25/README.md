@@ -7,10 +7,10 @@ _Context: Kabul, Taliban, Wardak province_
 _Context: Dagestan, state police, suicide bombing_
 
 ### [The Israeli Navy kills a Palestinian fisherman off Gaza. ](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.md)
-_Context: Gaza Strip, Israeli Navy_
+_Context: Gaza, Israeli Navy_
 
 ### [One of three Palestinians wounded by Israeli tank fire on 14 September dies in the Gaza Strip. ](/news/2010/09/25/one-of-three-palestinians-wounded-by-israeli-tank-fire-on-14-september-dies-in-the-gaza-strip.md)
-_Context: Gaza Strip, Israel_
+_Context: Gaza, Israel_
 
 ### [Those sexually abused as children by Catholic priests in Italy gather in public for the first time in Verona to campaign for the act to be made a crime against humanity and to organise an international demonstration outside the Vatican next month. ](/news/2010/09/25/those-sexually-abused-as-children-by-catholic-priests-in-italy-gather-in-public-for-the-first-time-in-verona-to-campaign-for-the-act-to-be-m.md)
 Victims of child abuse by Catholic priests in Italy have met for the first time, and called for such abuse to be made a crime against humanity.

@@ -1,0 +1,20 @@
+### [2004-02-23](/news/2004/02/23/index.md)
+
+#  2003 in film: "The Lord of the Rings: The Return of the King" becomes the second film in history to gross more than $1 billion in worldwide box office receipts.
+
+
+
+
+### Source:
+
+1. [BCC](http://news.bbc.co.uk/1/hi/entertainment/film/3516055.stm)
+2. [CNN](http://www.cnn.com/2004/SHOWBIZ/Movies/02/23/leisure.rings.reut/)
+
+### Related:
+
+1. [James Cameron's film "Avatar" is expected to become the second-highest grossing movie of all time, just passing "The Lord of the Rings: The Return of the King". ](/news/2010/01/7/james-cameron-s-film-avatar-is-expected-to-become-the-second-highest-grossing-movie-of-all-time-just-passing-the-lord-of-the-rings-the.md) _Context: The Lord of the Rings: The Return of the King_
+2. [ "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe" grossed $65.6 million in the United States and Canada ($107 million worldwide) on its opening weekend, making it the #2 December opening weekend film of all time (behind "The Lord of the Rings: The Return of the King" and in front of the first two "The Lord of the Rings" films). With this news, Disney has officially given the greenlight to cinema production of the second book in the series, "Prince Caspian", by 2007. ](/news/2005/12/12/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe-grossed-65-6-million-in-the-united-states-and-canada-107-million-worldw.md) _Context: The Lord of the Rings: The Return of the King_
+3. [ 76th Academy Awards: "The Lord of the Rings: The Return of the King" wins Best Picture and Director awards and nine others for a total of 11 Academy Awards, a tie for the most ever won by a single film, and the largest sweep ever for a single film, having received 11 nominations. Acting honors were as follows: Best Actor: Sean Penn for "Mystic River", Best Actress: Charlize Theron for "Monster", Best Supporting Actor: Tim Robbins for "Mystic River", Best Supporting Actress: Renee Zellweger for "Cold Mountain". ](/news/2004/02/29/76th-academy-awards-the-lord-of-the-rings-the-return-of-the-king-wins-best-picture-and-director-awards-and-nine-others-for-a-total-of-1.md) _Context: The Lord of the Rings: The Return of the King_
+4. [ Academy Awards: nominations announced, leading films are "The Lord of the Rings: The Return of the King" (11), "Master and Commander" (10), "Seabiscuit" (7), "Mystic River" (6), and "Cold Mountain" (6). Keisha Castle-Hughes, at 13, becomes the youngest nominee ever for the Academy Award for Best Actress](/news/2004/01/27/academy-awards-nominations-announced-leading-films-are-the-lord-of-the-rings-the-return-of-the-king-11-master-and-commander-10.md) _Context: The Lord of the Rings: The Return of the King_
+5. [ Golden Globe Awards: Major winners include "The Lord of the Rings: The Return of the King", "Lost in Translation", and "Angels in America".](/news/2004/01/25/golden-globe-awards-major-winners-include-the-lord-of-the-rings-the-return-of-the-king-lost-in-translation-and-angels-in-america.md) _Context: The Lord of the Rings: The Return of the King_
+6. [ The Academy of Motion Picture Arts and Sciences mails nomination ballots in which it qualifies 254 films released in 2003 as eligible for Oscar consideration. [http://www.reuters.com/newsArticle.jhtml?type=entertainmentNews&storyID=4059933]](/news/2003/12/31/the-academy-of-motion-picture-arts-and-sciences-mails-nomination-ballots-in-which-it-qualifies-254-films-released-in-2003-as-eligible-for-o.md) _Context: 2003 in film_

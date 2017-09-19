@@ -10,7 +10,7 @@ _Context: Russ Feingold, Total Information Awareness, U.S. military, US Senator_
 _Context: Iraq, Ukhaider Ammunition Storage Area, United Nations, chemical warfare, rocket, warhead, weapons inspector_
 
 ### [ The Space Shuttle Columbia launches on its last mission STS-107. It disintegrated on re-entry 16 days later.](/news/2003/01/16/the-space-shuttle-columbia-launches-on-its-last-mission-sts-107-it-disintegrated-on-re-entry-16-days-later.md)
-_Context: 28th space mission, Space Shuttle ''Columbia''_
+_Context: STS-107, Space Shuttle ''Columbia''_
 
 ## [Previous Day...](/news/2003/01/15/index.md)
 

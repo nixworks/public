@@ -13,7 +13,7 @@ _Context: Alberto Gonzales, Attorney General, Democratic, United States Senate, 
 _Context: 24 June, 27 June, Elizabeth II, Gordon Brown, Labour, Prime Minister, Tony Blair, confirmed, kisses the hand_
 
 ### [ 2007 Israel-Gaza conflict: An Israeli aircraft bombs a building of the Hamas-run Executive Force in Gaza, killing at least one person and injuring about 45 others. ](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.md)
-_Context: 2007 Israel-Gaza conflict, Gaza Strip, Hamas, Israel_
+_Context: 2007 Israel-Gaza conflict, Gaza, Hamas, Israel_
 
 ### [ Trains travel between North Korea and South Korea for the first time since the Korean War. ](/news/2007/05/17/trains-travel-between-north-korea-and-south-korea-for-the-first-time-since-the-korean-war.md)
 _Context: Korean War, North Korea, South Korea, train_

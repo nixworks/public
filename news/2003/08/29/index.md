@@ -10,7 +10,7 @@ _Context: Israel, nuclear power_
 _Context: Israel, Jerusalem, Noble Sanctuary, Temple Mount_
 
 ### [ "Occupation of Iraq": General in Iraq says more soldiers are not needed. The American Coalition commander encouraged Muslim allies like Turkey and Pakistan to send peacekeepers and said accelerating the training of a new Iraqi army should be considered.](/news/2003/08/29/occupation-of-iraq-general-in-iraq-says-more-soldiers-are-not-needed-the-american-coalition-commander-encouraged-muslim-allies-like-tur.md)
-_Context: Occupation of Iraq, army_
+_Context: Iraq war, army_
 
 ### [ Tony Blair's communications director, Alastair Campbell, resigns, leaving Blair with none of the three key players he has relied on for the last decade left.](/news/2003/08/29/tony-blair-s-communications-director-alastair-campbell-resigns-leaving-blair-with-none-of-the-three-key-players-he-has-relied-on-for-the.md)
 _Context: Alastair Campbell, Tony Blair_

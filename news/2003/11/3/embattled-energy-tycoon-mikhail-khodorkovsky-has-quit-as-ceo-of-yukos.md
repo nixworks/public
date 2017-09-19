@@ -1,0 +1,19 @@
+### [2003-11-3](/news/2003/11/3/index.md)
+
+#  Embattled energy tycoon Mikhail Khodorkovsky has quit as CEO of Yukos.
+
+
+
+
+### Related:
+
+1. [Supreme Court of Russia releases Platon Lebedev, a business partner of Russian magnate and former head of Yukos Mikhail Khodorkovsky, after he spent more than 10 years in jail. ](/news/2014/01/23/supreme-court-of-russia-releases-platon-lebedev-a-business-partner-of-russian-magnate-and-former-head-of-yukos-mikhail-khodorkovsky-after.md) _Context: Mikhail Khodorkovsky, Yukos_
+2. [ Former Yukos businessman Mikhail Khodorkovsky again stands trial for alleged financial crimes. ](/news/2009/03/3/former-yukos-businessman-mikhail-khodorkovsky-again-stands-trial-for-alleged-financial-crimes.md) _Context: Mikhail Khodorkovsky, Yukos_
+3. [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md) _Context: Mikhail Khodorkovsky, Yukos_
+4. [ Russian state prosecutors begin sentencing of former Yukos tycoon Mikhail Khodorkovsky and Yukos shareholder Platon Lebedev for tax evasion and fraud. ](/news/2005/03/28/russian-state-prosecutors-begin-sentencing-of-former-yukos-tycoon-mikhail-khodorkovsky-and-yukos-shareholder-platon-lebedev-for-tax-evasion.md) _Context: Mikhail Khodorkovsky, Yukos_
+5. [Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. ](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.md) _Context: Mikhail Khodorkovsky_
+6. [Turing Pharmaceuticals says that it is looking for a new CEO in the aftermath of the indictment of its old boss, Martin Shkreli, on securities fraud charges. Turing and Shkreli became infamous together in September 2015, when they hiked the price of an AIDS drug by 5000%. ](/news/2015/12/22/turing-pharmaceuticals-says-that-it-is-looking-for-a-new-ceo-in-the-aftermath-of-the-indictment-of-its-old-boss-martin-shkreli-on-securiti.md) _Context: CEO_
+7. [The Hague's Permanent Court of Arbitration says Russian officials have manipulated the legal system to bankrupt Russia's largest Yukos oil company, and jail its boss (Mikhail Khodorkovsky and others). Yukos was the object of a series of politically motivated attacks by the Russian authorities that eventually led to its destruction. The company's assets were illegally expropriated for the benefit of State companies Rosneft and Gazprom. The Yuganskneftegaz auction was illegal. The $50 billion awarded by the Hague's arbitration court against Russia is the largest arbitration award ever. ](/news/2014/07/28/the-hague-s-permanent-court-of-arbitration-says-russian-officials-have-manipulated-the-legal-system-to-bankrupt-russia-s-largest-yukos-oil-c.md) _Context: Mikhail Khodorkovsky_
+8. [Russian President Vladimir Putin says he will pardon jailed oil tycoon Mikhail Khodorkovsky after more than a decade in prison. ](/news/2013/12/19/russian-president-vladimir-putin-says-he-will-pardon-jailed-oil-tycoon-mikhail-khodorkovsky-after-more-than-a-decade-in-prison.md) _Context: Mikhail Khodorkovsky_
+9. [Intel elects American Brian Krzanich as their new CEO. ](/news/2013/05/2/intel-elects-american-brian-krzanich-as-their-new-ceo.md) _Context: CEO_
+10. [Ex-CEO of Enron Jeffrey Skilling is in talks with federal prosecutors to discuss a reduction in his sentence. ](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.md) _Context: CEO_

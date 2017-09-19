@@ -10,7 +10,7 @@ _Context: Hawaii, Hurricane Flossie, tropical storm_
 _Context: Lesser Antilles, Martinique, St. Lucia, Tropical Storm Dean, hurricane_
 
 ### [ The Israeli Defence Force destroys a tunnel from the Gaza Strip towards Israel. ](/news/2007/08/15/the-israeli-defence-force-destroys-a-tunnel-from-the-gaza-strip-towards-israel.md)
-_Context: Gaza Strip, Israel, Israeli Defence Force_
+_Context: Gaza, Israel, Israeli Defence Force_
 
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
 _Context: Canadian Prime Minister, Felipe Calderon, George W. Bush, President, President, Security and Prosperity Partnership of North America, Stephen Harper_

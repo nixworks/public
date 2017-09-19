@@ -13,4 +13,5 @@
 
 ### Related:
 
-1. [ A huge condominium complex under construction in San Diego, California, is destroyed, supposedly by the Earth Liberation Front.](/news/2003/08/2/a-huge-condominium-complex-under-construction-in-san-diego-california-is-destroyed-supposedly-by-the-earth-liberation-front.md) _Context: Earth Liberation Front_
+1. [ The FBI arrests William Cottrell, a Caltech student and alleged member of the Earth Liberation Front, in connection with last summer's spate of arson attacks at a car dealerships which destroyed or damaged over one hundred vehicles, including many Hummer H2 luxury SUVs. ](/news/2004/03/9/the-fbi-arrests-william-cottrell-a-caltech-student-and-alleged-member-of-the-earth-liberation-front-in-connection-with-last-summer-s-spat.md) _Context: Earth Liberation Front_
+2. [ A huge condominium complex under construction in San Diego, California, is destroyed, supposedly by the Earth Liberation Front.](/news/2003/08/2/a-huge-condominium-complex-under-construction-in-san-diego-california-is-destroyed-supposedly-by-the-earth-liberation-front.md) _Context: Earth Liberation Front_

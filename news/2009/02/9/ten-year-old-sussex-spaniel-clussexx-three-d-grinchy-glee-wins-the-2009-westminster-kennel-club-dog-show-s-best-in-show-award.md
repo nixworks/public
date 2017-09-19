@@ -13,3 +13,4 @@
 
 1. [At the 2013 Crufts dog show, Soletrader Peek A Boo, a Petit Basset Griffon Vendeen, wins Best in Show. ](/news/2013/03/10/at-the-2013-crufts-dog-show-soletrader-peek-a-boo-a-petit-basset-griffon-venda-c-en-wins-best-in-show.md) _Context: dog show_
 2. [ Ch K-Run's Park Me In First, a.k.a. Uno wins Best in Show at the Westminster Kennel Club Dog Show, the first beagle to win the show. ](/news/2008/02/13/ch-k-run-s-park-me-in-first-a-k-a-uno-wins-best-in-show-at-the-westminster-kennel-club-dog-show-the-first-beagle-to-win-the-show.md) _Context: Westminster Kennel Club Dog Show_
+3. [ Josh, a Newfoundland, wins Best in Show at the 129th Westminster Kennel Club Dog Show in New York.](/news/2004/02/11/josh-a-newfoundland-wins-best-in-show-at-the-129th-westminster-kennel-club-dog-show-in-new-york.md) _Context: dog show_

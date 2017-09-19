@@ -7,4 +7,5 @@
 
 ### Related:
 
-1. [ Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. ](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.md) _Context: Governor_
+1. [ The House of Representatives of Connecticut votes unanimously to investigate the dealings of Governor John G. Rowland, a step which might lead to impeachment proceedings. Rowland is accused of using state contractors for his personal gain.](/news/2004/01/26/the-house-of-representatives-of-connecticut-votes-unanimously-to-investigate-the-dealings-of-governor-john-g-rowland-a-step-which-might-l.md) _Context: Governor, John G. Rowland_
+2. [ Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. ](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.md) _Context: Governor_

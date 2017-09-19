@@ -7,7 +7,7 @@ _Context: Sanaa, Yemen, landslide_
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 ### [ A Scottish human rights worker, Kate Burton, and her parents have been kidnapped in Gaza. Palestinian authorities have stepped up work to find them. ](/news/2005/12/29/a-scottish-human-rights-worker-kate-burton-and-her-parents-have-been-kidnapped-in-gaza-palestinian-authorities-have-stepped-up-work-to-f.md)
-_Context: Gaza Strip, Human rights, Kate Burton, Palestinian, Scotland_
+_Context: Gaza, Human rights, Kate Burton, Palestinian, Scotland_
 
 ### [ Chinese state media announce that the country's government will abolish its national agricultural tax starting January 1, 2006. ](/news/2005/12/29/chinese-state-media-announce-that-the-country-s-government-will-abolish-its-national-agricultural-tax-starting-january-1-2006.md)
 _Context: China_

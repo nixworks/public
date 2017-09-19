@@ -7,7 +7,7 @@ _Context: Chen Shui-bian, China, President, Taiwan, referendum_
 _Context: Baghdad, Occupation of Iraq, car bomb_
 
 ### [ The Academy of Motion Picture Arts and Sciences mails nomination ballots in which it qualifies 254 films released in 2003 as eligible for Oscar consideration. [http://www.reuters.com/newsArticle.jhtml?type=entertainmentNews&storyID=4059933]](/news/2003/12/31/the-academy-of-motion-picture-arts-and-sciences-mails-nomination-ballots-in-which-it-qualifies-254-films-released-in-2003-as-eligible-for-o.md)
-_Context: 2003, Academy Awards, Motion Picture Academy, film_
+_Context: 2003 in film, Academy Awards, Motion Picture Academy, film_
 
 ## [Previous Day...](/news/2003/12/30/index.md)
 

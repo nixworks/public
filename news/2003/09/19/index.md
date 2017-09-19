@@ -4,7 +4,7 @@
 _Context: International Day of Peace, Japanese Peace Bell, Kofi Annan, New York City, United Nations, United Nations Secretary-General, civil war, disease, peace, poverty, terrorism, weapons of mass destruction_
 
 ### [ "Occupation of Iraq": Iraq's former defense minister, Sultan Hashim Ahmed, surrenders to Coalition troops. He was seen at Saddam Hussein's side in what is thought to have been the ousted dictator's last public appearance as Baghdad fell. He is number 27 on the most-wanted list of former top officials under Saddam Hussein (also eight of hearts). The ex-minister surrendered at a house in the northern Iraqi city of Mosul and was being taken to Baghdad.](/news/2003/09/19/occupation-of-iraq-iraq-s-former-defense-minister-sultan-hashim-ahmed-surrenders-to-coalition-troops-he-was-seen-at-saddam-hussein-s.md)
-_Context: Baghdad, Iraq, Mosul, Occupation of Iraq, Saddam Hussein, Sultan Hashim Ahmed, coalition, most-wanted list of former top officials_
+_Context: Baghdad, Iraq, Iraq war, Mosul, Saddam Hussein, Sultan Hashim Ahmed, coalition, most wanted Iraqis_
 
 ### [ Hurricane Isabel: Isabel, now a tropical storm, moves through western Pennsylvania before heading to Ontario, Canada. The storm leaves more than 4.3 million residents along the East Coast of the United States without power.](/news/2003/09/19/hurricane-isabel-isabel-now-a-tropical-storm-moves-through-western-pennsylvania-before-heading-to-ontario-canada-the-storm-leaves-more.md)
 _Context: Hurricane Isabel, Ontario, Pennsylvania_

@@ -16,7 +16,7 @@ FIFTEEN people have been killed and 48 others injured after the brakes of an ove
 Female suicide bomber kills at least four people in western province of Anbar.
 
 ### [Women and children march towards Mahmoud al-Zahar's house in Gaza to hand him a letter calling on Hamas to insist on the release of 1,000 Israeli-held Palestinian prisoners during their talks with Israel. ](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.md)
-_Context: Gaza Strip, Hamas, Mahmoud al-Zahar_
+_Context: Gaza, Hamas, Mahmoud al-Zahar_
 
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
 _Context: Africa, Lula, President_

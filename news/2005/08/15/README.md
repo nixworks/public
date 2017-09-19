@@ -10,7 +10,7 @@ Iraq&#39;s parliament voted Monday to extend a deadline for negotiators to prese
 _Context: North American Free Trade Agreement, Ralph Goodale, U.S.-Canada softwood lumber dispute_
 
 ### [ Israel begins the Gaza Strip pullout plan. The Kissufim Roadblock was shut down at midnight between August 14 and August 15. Palestinian leader Mahmoud Abbas hailed the move as "historic" but said Israel should also pull out of the West Bank. ](/news/2005/08/15/israel-begins-the-gaza-strip-pullout-plan-the-kissufim-roadblock-was-shut-down-at-midnight-between-august-14-and-august-15-palestinian-le.md)
-_Context: Gaza Strip, Israel, Kissufim, Mahmoud Abbas, West Bank, unilateral disengagement_
+_Context: Gaza, Israel, Kissufim, Mahmoud Abbas, West Bank, unilateral disengagement_
 
 ### [ Conflict in Iraq: A senior aide to Abu Musab al-Zarqawi, Abu Zubair, has been shot dead following a U.S. ambush in Mosul, Iraq. ](/news/2005/08/15/conflict-in-iraq-a-senior-aide-to-abu-musab-al-zarqawi-abu-zubair-has-been-shot-dead-following-a-u-s-ambush-in-mosul-iraq.md)
 _Context: Abu Musab al-Zarqawi, Abu Zubair, Conflict in Iraq, Mosul, ambush_

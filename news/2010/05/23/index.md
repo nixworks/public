@@ -52,7 +52,7 @@ A married teacher who belongs to a breakaway Catholic faction becomes the first 
 _Context: Catholic Church, Pope Benedict XVI_
 
 ### [Nine ships under the banner Freedom Flotilla, from the UK, Ireland, Algeria, Kuwait, Greece and Turkey, with of 800 people from 50 nationalities, begin a trip to Gaza, the biggest attempt by international aid groups to break Israel's blockade of the Gaza Strip. Israel informs them they will be stopped for "breaching Israeli law". ](/news/2010/05/23/nine-ships-under-the-banner-freedom-flotilla-from-the-uk-ireland-algeria-kuwait-greece-and-turkey-with-of-800-people-from-50-nationali.md)
-_Context: Freedom Flotilla, Gaza Strip, Israel_
+_Context: Freedom Flotilla, Gaza, Israel_
 
 ### [Two militants are killed in the woods near Serzhen-Yurt in Shali, Chechen Republic. ](/news/2010/05/23/two-militants-are-killed-in-the-woods-near-serzhen-yurt-in-shali-chechen-republic.md)
 _Context: Shali_

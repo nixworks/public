@@ -7,7 +7,7 @@ _Context: Baghdad, Iraq, Sayed Mohammed Baqir al-Hakim, Shia Muslim, al-Qaeda_
 _Context: U.S. Environmental Protection Agency, carbon dioxide (C|O|2), global warming_
 
 ### [ "Occupation of Iraq": American and Iraqi officials are discussing the possibility of forming a large Iraqi militia or paramilitary force to help improve security in the country. ](/news/2003/08/31/occupation-of-iraq-american-and-iraqi-officials-are-discussing-the-possibility-of-forming-a-large-iraqi-militia-or-paramilitary-force-to.md)
-_Context: Iraq, Occupation of Iraq, militia_
+_Context: Iraq, Iraq war, militia_
 
 ### [ Terrorist: Terrorism group Jemaah Islamiyah has schemes, revealed in a 40-page manifesto (the Pupji book or "General Guide to the Struggle of Jemaah Islamiyah"), for a suicide bombing campaign designed to change Asia and the Pacific region into Islamic provinces. Jemaah Islamiyah is also shown to be a well-formed organization with a constitution, rules of operation, and leadership structure.](/news/2003/08/31/terrorist-terrorism-group-jemaah-islamiyah-has-schemes-revealed-in-a-40-page-manifesto-the-pupji-book-or-general-guide-to-the-struggle.md)
 _Context: General Guide to the Struggle of Jemaah Islamiyah, Jemaah Islamiyah, Pupji book, constitution, leadership structure, manifesto, rules of operation, suicide bombing, terrorism_

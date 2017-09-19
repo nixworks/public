@@ -22,7 +22,7 @@ _Context: Israeli presidential elections, President, Shimon Peres_
 Crowds marched behind a somber funeral procession Thursday after a powerful car bombing killed a prominent anti-Syrian legislator and nine other people, dealing a new blow to the stability of this conflict-torn nation.
 
 ### [ Hamas militants kill at least 16 Palestinians, including 2 UNRWA workers and 13 Fatah members, as clashes intensify in the Gaza Strip. ](/news/2007/06/13/hamas-militants-kill-at-least-16-palestinians-including-2-unrwa-workers-and-13-fatah-members-as-clashes-intensify-in-the-gaza-strip.md)
-_Context: Fatah, Gaza Strip, Hamas, Palestinians, UNRWA, clashes_
+_Context: Fatah, Gaza, Hamas, Palestinians, UNRWA, clashes_
 
 ### [ Hamas and Fatah officials claim that they have agreed on a cease-fire, but fighting continues. ](/news/2007/06/13/hamas-and-fatah-officials-claim-that-they-have-agreed-on-a-cease-fire-but-fighting-continues.md)
 _Context: cease-fire_

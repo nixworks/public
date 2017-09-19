@@ -1,7 +1,7 @@
 ## [2013-03-21](/news/2013/03/21/index.md)
 
 ### [Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. ](/news/2013/03/21/two-rockets-fired-from-gaza-strip-land-in-sderot-israel-in-violation-of-the-ceasefire-brokered-after-the-eight-day-conflict-in-november-20.md)
-_Context: Gaza Strip, Israel, November 2012, Sderot, eight-day conflict, rockets_
+_Context: Gaza, Israel, November 2012, Sderot, eight-day conflict, rockets_
 
 ### [A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. ](/news/2013/03/21/a-car-bombing-at-the-jalozai-refugee-camp-near-the-pakistani-city-of-peshawar-kills-at-least-12-people-and-wounds-up-to-30-others.md)
 At least 15 people are killed in a bombing at the Jalozai refugee camp close to the north-western Pakistani city of Peshawar, officials say.

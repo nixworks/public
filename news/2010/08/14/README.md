@@ -58,7 +58,7 @@ _Context: California, California 200, Lucerne Valley, Off-road racing_
 Uri Brodsky released on bail following his extradition from Poland to Germany on Thursday.
 
 ### [A United Nations delegation arrives in Gaza for three days of following up the United Nations Fact Finding Mission on the Gaza Conflict. ](/news/2010/08/14/a-united-nations-delegation-arrives-in-gaza-for-three-days-of-following-up-the-united-nations-fact-finding-mission-on-the-gaza-conflict.md)
-_Context: Gaza Strip, United Nations, United Nations Fact Finding Mission on the Gaza Conflict_
+_Context: Gaza, United Nations, United Nations Fact Finding Mission on the Gaza Conflict_
 
 ### [Fiji announces that it seeks observer status in ASEAN after its suspension from the Pacific Islands Forum was extended. Timor-Leste seeks to become a member of the Melanesian Spearhead Group. ](/news/2010/08/14/fiji-announces-that-it-seeks-observer-status-in-asean-after-its-suspension-from-the-pacific-islands-forum-was-extended-timor-leste-seeks-to.md)
 _Context: ASEAN, Fiji, Melanesian Spearhead Group, Pacific Islands Forum, Timor-Leste_

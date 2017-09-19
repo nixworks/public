@@ -7,7 +7,7 @@ Armed men set fire to a casino in the northern Mexican city of Monterrey, killin
 _Context: Libya, Muammar Gaddafi, National Transitional Council, Tripoli_
 
 ### [17 rockets and mortars are fired from Gaza at southwestern Israeli cities. 2 people, one of them a nine-month-old baby, are hurt in the attack. ](/news/2011/08/25/17-rockets-and-mortars-are-fired-from-gaza-at-southwestern-israeli-cities-2-people-one-of-them-a-nine-month-old-baby-are-hurt-in-the-atta.md)
-_Context: Gaza Strip_
+_Context: Gaza_
 
 ### [Gunmen attack prominent Syrian political cartoonist Ali Farzat, beating him badly and breaking both of his hands, with the beating believed to be related to cartoons critical of President of Syria Bashar Assad and his family. ](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.md)
 _Context: Ali Farzat, Bashar Assad's, President, Syria, political cartoonist_

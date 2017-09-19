@@ -4,7 +4,7 @@
 Government plans to make possession of a national identity card mandatory for passport applicants were overturned Monday by the British House of Lords.
 
 ### [ Israeli aircraft fire rockets at a car in Gaza, killing two Islamic Jihad members and three innocent bystanders as well as wounding seven other people, mostly children. Commander-in-Chief of the Israel Air Force, Maj.-Gen. Eliezer Shkedy said: "We are doing everything we can possibly think of to prevent innocent people from being harmed, but this is a war and nothing is certain." ](/news/2006/03/6/israeli-aircraft-fire-rockets-at-a-car-in-gaza-killing-two-islamic-jihad-members-and-three-innocent-bystanders-as-well-as-wounding-seven-o.md)
-_Context: Eliezer Shkedy, Gaza Strip, Islamic Jihad, Israel, Israel Air Force_
+_Context: Eliezer Shkedy, Gaza, Islamic Jihad, Israel, Israel Air Force_
 
 ### [ Milan Babic, former leader of the breakaway Republic of Serbian Krajina, commits suicide in prison while serving a sentence for war crimes. ](/news/2006/03/6/milan-babia-former-leader-of-the-breakaway-republic-of-serbian-krajina-commits-suicide-in-prison-while-serving-a-sentence-for-war-crimes.md)
 _Context: Milan Babic, Republic of Serbian Krajina, suicide, war crimes_

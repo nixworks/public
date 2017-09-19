@@ -4,7 +4,7 @@
 _Context: Glasgow, Scotland, explosion at the Stockline Plastics factory_
 
 ### [ Israeli-Palestinian conflict: Six Israeli soldiers are killed in the Gaza Strip during an incursion when their armored personnel carrier triggered an explosive device. Hamas and Islamic Jihad claim to hold a portion of the remains of the soldiers: "We possess the remains of your bodies that were thrown into the streets of Gaza. We have our demands to hand them over to the Zionist occupier" ](/news/2004/05/11/israeli-palestinian-conflict-six-israeli-soldiers-are-killed-in-the-gaza-strip-during-an-incursion-when-their-armored-personnel-carrier-tr.md)
-_Context: Gaza Strip, Hamas, Islamic Jihad Movement in Palestine, Israel, Israeli-Palestinian conflict, armored personnel carrier_
+_Context: Gaza, Hamas, Islamic Jihad Movement in Palestine, Israel, Israeli-Palestinian conflict, armored personnel carrier_
 
 ### [ Hundreds of civilians march to the Muslim shrines in Najaf, calling upon Moqtada al-Sadr to remove his Mahdi Army from the city. ](/news/2004/05/11/hundreds-of-civilians-march-to-the-muslim-shrines-in-najaf-calling-upon-moqtada-al-sadr-to-remove-his-mahdi-army-from-the-city.md)
 Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.

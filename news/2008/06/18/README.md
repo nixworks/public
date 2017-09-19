@@ -49,7 +49,7 @@ _Context: London, hospital, laptops, patients_
 _Context: Afghanistan, Arghandab District, Canada, Kandahar, Taliban, an offensive_
 
 ### [ Israel agrees to a truce starting Thursday with the Hamas-led government in the Gaza Strip. ](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.md)
-_Context: Gaza Strip, Hamas, Israel_
+_Context: Gaza, Hamas, Israel_
 
 ### [ Israel suggests peace talks with Lebanon to end the 60-year Israeli-Lebanese conflict. ](/news/2008/06/18/israel-suggests-peace-talks-with-lebanon-to-end-the-60-year-israeli-lebanese-conflict.md)
 _Context: Israel, Israeli-Lebanese conflict, Lebanon_

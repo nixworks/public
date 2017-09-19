@@ -4,7 +4,7 @@
 _Context: Nice, bomb, tax office_
 
 ### [ Richard Sambrook, the Director of BBC News reveals that Dr. David Kelly was the source of claims that Downing Street had "sexed up" the September Dossier. (see also: Dodgy Dossier)](/news/2003/07/20/richard-sambrook-the-director-of-bbc-news-reveals-that-dr-david-kelly-was-the-source-of-claims-that-downing-street-had-sexed-up-the-sep.md)
-_Context: BBC News, David Christopher Kelly, Dodgy Dossier, Downing Street, Richard Sambrook, September Dossier_
+_Context: 45 minutes to launch claim, BBC News, David Christopher Kelly, Dodgy Dossier, Downing Street, Richard Sambrook_
 
 ### [ Former Ugandan dictator Idi Amin is in a coma at a hospital in Jeddah, Saudi Arabia, and Uganda has refused permission for him to return.](/news/2003/07/20/former-ugandan-dictator-idi-amin-is-in-a-coma-at-a-hospital-in-jeddah-saudi-arabia-and-uganda-has-refused-permission-for-him-to-return.md)
 _Context: Idi Amin, Jeddah, Saudi Arabia, Uganda, coma, dictator_

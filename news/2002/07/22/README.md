@@ -13,7 +13,7 @@ _Context: WorldCom, accounting fraud, bankruptcy, insolvency_
 _Context: Alfonso Cuarn, Harry Potter_
 
 ### [ Politics of the Netherlands. A new cabinet is sworn in, with Jan Peter Balkenende replacing Wim Kok as Prime Minister. He heads a coalition of three parties: Christen Democratisch Appl, Lijst Pim Fortuyn and Volkspartij voor Vrijheid en Democratie. One of the state secretaries of the new cabinet resigned a few hours later.](/news/2002/07/22/politics-of-the-netherlands-a-new-cabinet-is-sworn-in-with-jan-peter-balkenende-replacing-wim-kok-as-prime-minister-he-heads-a-coalition.md)
-_Context: Christen Democratisch Appl, Dutch politics, Jan Peter Balkenende, LPF, Prime Minister, Volkspartij voor Vrijheid en Democratie, Wim Kok, forming a government_
+_Context: Christen Democratisch Appl, Jan Peter Balkenende, LPF, Politics of the Netherlands, Prime Minister, Volkspartij voor Vrijheid en Democratie, Wim Kok, forming a government_
 
 ### [ Steve Fossett circles the Globe in a balloon.](/news/2002/07/22/steve-fossett-circles-the-globe-in-a-balloon.md)
 _Context: Steve Fossett_

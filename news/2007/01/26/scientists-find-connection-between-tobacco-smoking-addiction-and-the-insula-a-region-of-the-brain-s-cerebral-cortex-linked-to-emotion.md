@@ -19,3 +19,4 @@
 6. [ A ban on tobacco smoking in public places begins in Cuba. ](/news/2005/02/8/a-ban-on-tobacco-smoking-in-public-places-begins-in-cuba.md) _Context: tobacco smoking_
 7. [ Bhutan bans smoking in public places ](/news/2005/02/23/bhutan-bans-smoking-in-public-places.md) _Context: tobacco smoking_
 8. [ Cuba announces a ban of smoking in public places that is due to begin next month. Cigars are one of Cuba's main exports. ](/news/2005/01/20/cuba-announces-a-ban-of-smoking-in-public-places-that-is-due-to-begin-next-month-cigars-are-one-of-cuba-s-main-exports.md) _Context: tobacco smoking_
+9. [ The Republic of Ireland becomes the first country to ban tobacco smoking in all enclosed workplaces (including bars and restaurants); infringers risk a EUR3,000 (US$3,600) fine. ](/news/2004/03/29/the-republic-of-ireland-becomes-the-first-country-to-ban-tobacco-smoking-in-all-enclosed-workplaces-including-bars-and-restaurants-infri.md) _Context: tobacco smoking_

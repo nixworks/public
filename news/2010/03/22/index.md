@@ -16,7 +16,7 @@ Australia says trial on charges of bribery and theft of secrets will be closely 
 By remaining silent on the issue of punishment for church figures, the pope’s apology appeared insufficient to many in Ireland.
 
 ### [Israeli warplanes bomb a smuggling tunnel east of Rafah in the southern Gaza Strip in an early morning raid close to the Egyptian border in response to a Palestinian rocket attack which landed in an open area south of the city of Ashkelon, causing no damage or casualties. ](/news/2010/03/22/israeli-warplanes-bomb-a-smuggling-tunnel-east-of-rafah-in-the-southern-gaza-strip-in-an-early-morning-raid-close-to-the-egyptian-border-in.md)
-_Context: Ashkelon, Egypt, Gaza Strip, Israel, Rafah_
+_Context: Ashkelon, Egypt, Gaza, Israel, Rafah_
 
 ### [Kirsty Sword Gusmo, wife of East Timor's Prime Minister, backed by head of East Timor's child protection agency Carmen da Cruz, demands Australian woman Lala Noronha return to Dili 15 Timorese teenagers she has in Malaysia. However, the youths have stated that they do not want to go back. ](/news/2010/03/22/kirsty-sword-gusmao-wife-of-east-timor-s-prime-minister-backed-by-head-of-east-timor-s-child-protection-agency-carmen-da-cruz-demands-aus.md)
 THE wife of East Timor&#039;s Prime Minister has demanded an Australian woman return to Dili 15 Timorese teenagers who have been under her care in Malaysia for several years.

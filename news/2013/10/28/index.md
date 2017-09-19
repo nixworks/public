@@ -16,7 +16,7 @@ _Context: Sadad, Syria_
 _Context: Lebanon, Tripoli, Lebanon_
 
 ### [Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md)
-_Context: Gaza Strip_
+_Context: Gaza_
 
 ### [A suspected U.S. drone strike kills at least two Islamist Al-Shabaab insurgents and commander driving in a car south of the Somali capital Mogadishu. ](/news/2013/10/28/a-suspected-u-s-drone-strike-kills-at-least-two-islamist-al-shabaab-insurgents-and-commander-driving-in-a-car-south-of-the-somali-capital-m.md)
 A suspected U.S. drone strike killed at least two Islamist al Shabaab insurgents driving in a car south of the Somali capital Mogadishu, residents said on Monday.

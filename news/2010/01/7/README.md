@@ -1,7 +1,7 @@
 ## [2010-01-7](/news/2010/01/7/index.md)
 
 ### [Palestinians fire mortars and Katyusha rocket from Gaza, causing widespread panic in Ashkelon, Israel, in the first such rocket attack on Israel in a year. ](/news/2010/01/7/palestinians-fire-mortars-and-katyusha-rocket-from-gaza-causing-widespread-panic-in-ashkelon-israel-in-the-first-such-rocket-attack-on-is.md)
-_Context: Ashkelon, Gaza Strip, Katyusha, Palestinian, Palestinian rocket attacks on Israel_
+_Context: Ashkelon, Gaza, Katyusha, Palestinian, Palestinian rocket attacks on Israel_
 
 ### [At least four militants are dead after a 23-hour gun battle at a hotel in Srinagar, Jammu and Kashmir. ](/news/2010/01/7/at-least-four-militants-are-dead-after-a-23-hour-gun-battle-at-a-hotel-in-srinagar-jammu-and-kashmir.md)
 A 23-hour terror siege that left Lal Chowk, the bustling centre of Jammu and Kashmirs summer capital Srinagar, looking like an abandoned battlefield ended...

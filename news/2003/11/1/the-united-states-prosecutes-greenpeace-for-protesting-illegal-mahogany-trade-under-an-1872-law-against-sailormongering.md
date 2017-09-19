@@ -1,0 +1,19 @@
+### [2003-11-1](/news/2003/11/1/index.md)
+
+#  The United States prosecutes Greenpeace for protesting illegal mahogany trade under an 1872 law against "sailormongering".
+
+
+
+
+### Related:
+
+1. [ Citing "insufficient evidence", US Federal Judge Adalberto Jordan acquits environmental group Greenpeace on charges under the "sailormongering" statute. A record total of more than 100,000 people worldwide sent protest messages to George W. Bush and US Attorney General John Ashcroft demanding that the case be dropped. ](/news/2004/05/19/citing-insufficient-evidence-us-federal-judge-adalberto-jordan-acquits-environmental-group-greenpeace-on-charges-under-the-sailormonger.md) _Context: Greenpeace India's, sailormongering_
+2. [India has cancelled Greenpeace India's license to operate and gave the group 30 days to close down, citing financial fraud and falsification of data, the environment watchdog said on Friday. ](/news/2015/11/6/india-has-cancelled-greenpeace-india-s-license-to-operate-and-gave-the-group-30-days-to-close-down-citing-financial-fraud-and-falsification.md) _Context: Greenpeace India's_
+3. [Bolotnaya square case prisoners, Pussy Riot and Greenpeace activists are likely to be freed after the Duma votes in favor of a law giving them amnesty. ](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.md) _Context: Greenpeace India's_
+4. [The Greenpeace ship "Arctic Sunrise", which was protesting against Gazprom drilling in the Arctic area 60km north of the Russian coast, is boarded by the Russian military. The activists claim that oil exploitation would risk three nature reserves protected by Russian law. ](/news/2013/09/20/the-greenpeace-ship-arctic-sunrise-which-was-protesting-against-gazprom-drilling-in-the-arctic-area-60km-north-of-the-russian-coast-is-b.md) _Context: Greenpeace India's_
+5. [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md) _Context: Greenpeace India's_
+6. [Greenpeace sends Facebook a letter containing half a million signatures asking the company to cut its ties to coal based electricity.](/news/2010/10/12/greenpeace-sends-facebook-a-letter-containing-half-a-million-signatures-asking-the-company-to-cut-its-ties-to-coal-based-electricity.md) _Context: Greenpeace India's_
+7. [Two Greenpeace activists are given suspended sentences in Japan for stealing whale meat. ](/news/2010/09/6/two-greenpeace-activists-are-given-suspended-sentences-in-japan-for-stealing-whale-meat.md) _Context: Greenpeace India's_
+8. [Russian police arrest activists from Amnesty International and remove volunteers from Greenpeace Russia and the ONE Campaign at a U2 concert in Moscow. ](/news/2010/08/26/russian-police-arrest-activists-from-amnesty-international-and-remove-volunteers-from-greenpeace-russia-and-the-one-campaign-at-a-u2-concert.md) _Context: Greenpeace India's_
+9. [Cairn Energy discovers gas off the coast of Greenland, amid protests from Greenpeace demanding it halt its oil operations. ](/news/2010/08/24/cairn-energy-discovers-gas-off-the-coast-of-greenland-amid-protests-from-greenpeace-demanding-it-halt-its-oil-operations.md) _Context: Greenpeace India's_
+10. [French fishermen off the coast of Malta repel an attempt by Greenpeace to obstruct their operations, sinking several Greenpeace Zodiac boats and injuring a Greenpeace activist. ](/news/2010/06/6/french-fishermen-off-the-coast-of-malta-repel-an-attempt-by-greenpeace-to-obstruct-their-operations-sinking-several-greenpeace-zodiac-boats.md) _Context: Greenpeace India's_

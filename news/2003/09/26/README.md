@@ -4,7 +4,7 @@
 _Context: Creutzfeldt-Jakob disease, medicine_
 
 ### [ "SCO vs IBM": International Business Machines Corp. files new counterclaims against SCO Group Inc. involving the Linux operating system according to a memo sent to the IBM sales force.](/news/2003/09/26/sco-vs-ibm-international-business-machines-corp-files-new-counterclaims-against-sco-group-inc-involving-the-linux-operating-system-acc.md)
-_Context: ''SCO vs IBM'', International Business Machines, Linux, SCO Group, operating system_
+_Context: International Business Machines, Linux, SCO Group, SCO v. IBM, operating system_
 
 ### [ Israeli-Palestinian conflict: A Palestinian gunman enters a home in Negohot (an Israeli settlement in the West Bank, near Hebron), murders 7-month-old Shaked Avraham and 27-year-old Eyal Yeberbaum, and injures both of the baby girl's parents as they were celebrating the Jewish New Year. The shooter was later killed by Israeli security forces. The Palestinian Islamic Jihad claimed responsibility for the attack.](/news/2003/09/26/israeli-palestinian-conflict-a-palestinian-gunman-enters-a-home-in-negohot-an-israeli-settlement-in-the-west-bank-near-hebron-murders.md)
 _Context: Hebron, Israeli settlement, Israeli-Palestinian conflict, Palestinian, Palestinian Islamic Jihad, Rosh Hashanah, the Jewish New Year, West Bank_

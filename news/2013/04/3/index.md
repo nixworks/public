@@ -1,7 +1,7 @@
 ## [2013-04-3](/news/2013/04/3/index.md)
 
 ### [Israeli warplanes strike targets in the Gaza Strip in response to rocket fire, the first air strikes launched by Israel since an informal ceasefire ended eight days of cross-border fighting between Israel and Hamas-ruled Gaza in November 2012. ](/news/2013/04/3/israeli-warplanes-strike-targets-in-the-gaza-strip-in-response-to-rocket-fire-the-first-air-strikes-launched-by-israel-since-an-informal-ce.md)
-_Context: Gaza Strip, Hamas, Israel, air strikes, informal ceasefire, ruled Gaza_
+_Context: Gaza, Hamas, Israel, air strikes, informal ceasefire, ruled Gaza_
 
 ### [At least 46 people are killed and more than 100 injured following an attack by Taliban militants armed with suicide vests on a courthouse in Farah, Afghanistan. ](/news/2013/04/3/at-least-46-people-are-killed-and-more-than-100-injured-following-an-attack-by-taliban-militants-armed-with-suicide-vests-on-a-courthouse-in.md)
 A suicide bomb and gun attack on a courthouse in the Afghan city of Farah leaves more than 50 people dead and 90 wounded, most of them civilians.

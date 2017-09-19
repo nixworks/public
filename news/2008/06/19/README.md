@@ -25,7 +25,7 @@ _Context: Movement for Democratic Change, Zimbabwe_
 _Context: Lee Myung-bak, President of South Korea, South Korea, United States, beef imports_
 
 ### [ Commencing at dawn, the Israeli Government and Hamas declare a truce in the Israel-Gaza conflict, halting attacks across the border between the Gaza Strip and Israel. ](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-hamas-declare-a-truce-in-the-israel-gaza-conflict-halting-attacks-across-the-border-between.md)
-_Context: Gaza Strip, Hamas, Israel, Israel-Gaza conflict, government_
+_Context: Gaza, Hamas, Israel, Israel-Gaza conflict, government_
 
 ### [ A report reveals sailors onboard the submarine HMCS "Chicoutimi" during a 2004 fire may develop serious health problems as a result. ](/news/2008/06/19/a-report-reveals-sailors-onboard-the-submarine-hmcs-chicoutimi-during-a-2004-fire-may-develop-serious-health-problems-as-a-result.md)
 _Context: HMCS ''Chicoutimi''_

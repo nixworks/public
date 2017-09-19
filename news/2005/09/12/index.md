@@ -16,7 +16,7 @@ President Bush has tapped a federal official with three decades of firefighting 
 Foreign minister says PA failed first test, as Palestinian mobs raid evacuated Gaza Strip settlements early Monday, sows destruction, sets empty synagogues on fire. MK Steinitz: PA not a peace partner. Palestinian officials say they intend to destroy synagogues
 
 ### [ According to witnesses, the Egyptian border patrol police opened fire at crowds swarming the Egypt-Gaza border at Rafah, killing a Palestinian man and injuring another. An Egyptian spokesman later denied that Egyptian troops fired the shots that killed the man. ](/news/2005/09/12/according-to-witnesses-the-egyptian-border-patrol-police-opened-fire-at-crowds-swarming-the-egypt-gaza-border-at-rafah-killing-a-palestin.md)
-_Context: Egypt, Gaza Strip, Palestinian, Rafah_
+_Context: Egypt, Gaza, Palestinian, Rafah_
 
 ### [ Three Palestinian teenagers drowned as they rushed into the beachside at Neve Dekalim without knowing how to swim. ](/news/2005/09/12/three-palestinian-teenagers-drowned-as-they-rushed-into-the-beachside-at-neve-dekalim-without-knowing-how-to-swim.md)
 _Context: Neve Dekalim, Palestinian_

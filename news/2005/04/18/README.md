@@ -13,7 +13,7 @@ _Context: Boston Marathon, Catherine Ndereba, Ethiopia, Hailu Negussie, Kenya, c
 _Context: Papal conclave, 2005, Pope, black, smoke_
 
 ### [ Two Israelis, one a soldier in the Combat Engineering Corps, and one a civilian, are wounded by a Palestinian sniper in an attack on Philadelphi Route of the southern Gaza Strip, close to the Egyptian border. The Popular Resistance Committees claims responsibility. [http://www.haaretz.com/hasen/spages/566451.html (Haaretz)] (Link dead as of 04:02, 16 January 2007 (UTC))](/news/2005/04/18/two-israelis-one-a-soldier-in-the-combat-engineering-corps-and-one-a-civilian-are-wounded-by-a-palestinian-sniper-in-an-attack-on-philad.md)
-_Context: Egypt, Gaza Strip, Israel, Palestinian, Philadelphi Route, Popular Resistance Committees, civilian, sniper_
+_Context: Egypt, Gaza, Israel, Palestinian, Philadelphi Route, Popular Resistance Committees, civilian, sniper_
 
 ### [ Adobe Systems buys Macromedia for $3.4 billion. ](/news/2005/04/18/adobe-systems-buys-macromedia-for-3-4-billion.md)
 Adobe Systems Inc., one of the world&#39;s largest providers of document-design software, will acquire Macromedia Inc. in an all-stock transaction valued at approximately $3.4 billion, the companies announced Monday.

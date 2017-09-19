@@ -16,7 +16,7 @@ _Context: Fiji, censorship, government, mass media, protest_
 _Context: China, Chinese human rights, government_
 
 ### [ An unmanned Palestinian fishing vessel explodes near an Israeli Navy patrol in the Gaza Strip. ](/news/2009/04/13/an-unmanned-palestinian-fishing-vessel-explodes-near-an-israeli-navy-patrol-in-the-gaza-strip.md)
-_Context: Gaza Strip, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_
+_Context: Gaza, Israel, Israeli Navy, Israeli-Palestinian conflict, Palestinian, fishing boat, patrol_
 
 ### [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http://www.telegraph.co.uk/news/worldnews/africaandindianocean/somalia/5149000/US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md)
 _Context: Aden Adde International Airport, Donald M. Payne, Mortar, Somalia, United States, United States House of Representatives_

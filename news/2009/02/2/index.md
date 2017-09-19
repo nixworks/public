@@ -28,7 +28,7 @@ _Context: International Criminal Court, Israel, negotiate, war crime_
 Palestinian president condemns PLO criticism as factions prepare to meet Egyptian mediators.
 
 ### [ The Israel Defense Forces bomb the Gaza Strip in response to Palestinian rocket and mortar fire. ](/news/2009/02/2/the-israel-defense-forces-bomb-the-gaza-strip-in-response-to-palestinian-rocket-and-mortar-fire.md)
-_Context: Gaza Strip, Israel, Israel Defense Forces, Mortar, Palestinian, negotiate, rocket_
+_Context: Gaza, Israel, Israel Defense Forces, Mortar, Palestinian, negotiate, rocket_
 
 ### [ Wildcat strikes spread across the United Kingdom. ](/news/2009/02/2/wildcat-strikes-spread-across-the-united-kingdom.md)
 _Context: United Kingdom, Wildcat strikes, spread_

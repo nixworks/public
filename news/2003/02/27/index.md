@@ -1,7 +1,7 @@
 ## [2003-02-27](/news/2003/02/27/index.md)
 
 ### [ Ariel Sharon presents the new politically right-wing Israeli government. Part of his coalition are Sharon's Likud bloc, the National Religious Party, the National Union and Tommy Lapid's secular Shinui party. ](/news/2003/02/27/ariel-sharon-presents-the-new-politically-right-wing-israeli-government-part-of-his-coalition-are-sharon-s-likud-bloc-the-national-religi.md)
-_Context: Ariel Sharon, Israel, Likud, National Religious Party, National Union, Shinui, Tommy Lapid, right wing_
+_Context: Ariel Sharon, Israel, Likud, National Religious Party, National Union, Shinui, Tommy Lapid, right-wing_
 
 ### [ Spanish Prime Minister Jose Maria Aznar personally asks United States President George W. Bush to silence Secretary of Defense Donald Rumsfeld, indicating that Rumsfeld's numerous public remarks on European countries' Iraq policies are generally viewed as inflammatory and overwhelmingly counterproductive within the European diplomatic community. Aznar indicated a preference for Secretary of State Colin Powell.](/news/2003/02/27/spanish-prime-minister-josa-c-maraa-aznar-personally-asks-united-states-president-george-w-bush-to-silence-secretary-of-defense-donald-rum.md)
 _Context: Colin Powell, Defense Secretary, Donald Rumsfeld, George W. Bush, Iraq, Jose Maria Aznar, Spanish, United States Secretary of State, diplomat_

@@ -1,0 +1,19 @@
+### [2003-11-23](/news/2003/11/23/index.md)
+
+#  EADS, the largest European aircraft company, is doing preliminary work on a hypersonic passenger aircraft that would take the place of the recently retired Concorde; the planning includes collaboration with Japanese firms and Ministry of International Trade and Industry. However, its subsidiary Airbus' A380 'super-jumbo' sub-sonic vehicle is the product expected to become the dominant commercial aircraft in the near-future.
+
+
+
+
+### Related:
+
+1. [ Airbus parent EADS wins a GBP13 billion contract for airtankers from the United Kingdom. [http://www.iht.com/articles/ap/2008/03/27/business/EU-FIN-COM-France-Britain-Airbus.php ("The International Herald Tribune")] (Wikinews)](/news/2008/03/27/airbus-parent-eads-wins-a-gbp13-billion-contract-for-airtankers-from-the-united-kingdom-http-www-iht-com-articles-ap-2008-03-27-busines.md) _Context: Airbus, EADS_
+2. [ Airbus delivers its first A380 aircraft to launch customer Singapore Airlines in a ceremony in Toulouse, France, almost 18 months behind schedule, but denies rumours that further delays to the programme are looming. ](/news/2007/10/15/airbus-delivers-its-first-a380-aircraft-to-launch-customer-singapore-airlines-in-a-ceremony-in-toulouse-france-almost-18-months-behind-sc.md) _Context: Airbus, Airbus A380_
+3. [ EADS delays delivery of the Airbus A380 jet for the third time in 16 months, due to wiring problems, with the first plane now expected in late 2007. ](/news/2006/10/3/eads-delays-delivery-of-the-airbus-a380-jet-for-the-third-time-in-16-months-due-to-wiring-problems-with-the-first-plane-now-expected-in-l.md) _Context: Airbus A380, EADS_
+4. [ The new Airbus A380 performs its maiden flight, in Toulouse, France. The A380 replaces the Boeing 747 ("jumbo jet") as the world's largest passenger plane. ](/news/2005/04/27/the-new-airbus-a380-performs-its-maiden-flight-in-toulouse-france-the-a380-replaces-the-boeing-747-jumbo-jet-as-the-world-s-largest.md) _Context: Airbus, Airbus A380_
+5. [ The Airbus A380 is officially launched at a ceremony in the main French Airbus factory in Toulouse. Carrying between 550 and 840 passengers (depending on configuration), the double decker A380 is now the largest passenger airliner in the world. ](/news/2005/01/18/the-airbus-a380-is-officially-launched-at-a-ceremony-in-the-main-french-airbus-factory-in-toulouse-carrying-between-550-and-840-passengers.md) _Context: Airbus, Airbus A380_
+6. [A Chinese state company signs an order with Airbus for 100 A320 and 40 A350 airplanes. ](/news/2017/07/5/a-chinese-state-company-signs-an-order-with-airbus-for-100-a320-and-40-a350-airplanes.md) _Context: Airbus_
+7. [China's government-owned Comac launches the Comac C919 as part of its efforts to challenge Boeing and Airbus. ](/news/2015/11/2/china-s-government-owned-comac-launches-the-comac-c919-as-part-of-its-efforts-to-challenge-boeing-and-airbus.md) _Context: Airbus_
+8. [The U.S. Air Force's outgoing chief scientist, Mica Endsley, announces plans for an unmanned hypersonic flying weapon by 2023, which could travel at least up to Mach 5. ](/news/2015/07/3/the-u-s-air-force-s-outgoing-chief-scientist-mica-endsley-announces-plans-for-an-unmanned-hypersonic-flying-weapon-by-2023-which-could-t.md) _Context: hypersonic_
+9. [Airbus announces plans to build 900 satellites on behalf of the OneWeb satellite constellation with the project starting in 2018. ](/news/2015/06/16/airbus-announces-plans-to-build-900-satellites-on-behalf-of-the-oneweb-satellite-constellation-with-the-project-starting-in-2018.md) _Context: Airbus_
+10. [Two people die after a light aircraft crashes near the runway at Airbus Facilities in Broughton, Flintshire. ](/news/2013/11/15/two-people-die-after-a-light-aircraft-crashes-near-the-runway-at-airbus-facilities-in-broughton-flintshire.md) _Context: Airbus_
