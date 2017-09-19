@@ -1,6 +1,6 @@
 ### [2017-09-19](/news/2017/09/19/index.md)
 
-# Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug related charges, when he allegedly stole a copy of The Hitchhiker's Guide to the Galaxy, a novel by Douglas Adams, and was held on the murder charges. 
+# Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug-related charges. 
 
 Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
 

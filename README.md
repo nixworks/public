@@ -6,7 +6,7 @@ _Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, categ
 ### [A magnitude 7.1 aftershock strikes Mexico, causing the collapse of a building in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake.](/news/2017/09/19/a-magnitude-7-1-aftershock-strikes-mexico-causing-the-collapse-of-a-building-in-mexico-city-and-widespread-evacuations-hours-after-a-yearl.md)
 _Context: 1985 Mexico earthquake, 2017 Puebla earthquake, magnitude_
 
-### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug related charges, when he allegedly stole a copy of The Hitchhiker's Guide to the Galaxy, a novel by Douglas Adams, and was held on the murder charges. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
+### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug-related charges. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
 Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
 
 ## Opinion
@@ -20,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md)
 _Context: Myanmar, Northern Rakhine State clashes, Rohingya, Yangon_
 
-### [Toys "R" Us files for bankruptcy protection in the United States and Canada as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-bankruptcy-protection-in-the-united-states-and-canada-as-it-attempts-to-restructure-its-debts.md)
+### [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md)
 The once dominant toy retailer has struggled against larger rivals such as Amazon and Walmart.
 
 ### [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md)
