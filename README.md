@@ -32,7 +32,7 @@ Kenneth James Gleason accused of killing homeless man, dishwasher walking to wor
 ### [Spain's Guardia Civil raid private delivery offices in the Catalan city of Terrassa, searching for and confiscating envelopes suspected of containing voting cards for the upcoming Catalan independence referendum. ](/news/2017/09/19/spain-s-guardia-civil-raid-private-delivery-offices-in-the-catalan-city-of-terrassa-searching-for-and-confiscating-envelopes-suspected-of-c.md)
 Police discover a mass of documents directly related to the banned independence referendum.
 
-### [Apple Inc. releases the iOS 11 update most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-most-current-models-of-the-iphone-and-ipad.md)
+### [Apple Inc. releases the iOS 11 update for most current models of the iPhone and iPad. ](/news/2017/09/19/apple-inc-releases-the-ios-11-update-for-most-current-models-of-the-iphone-and-ipad.md)
 _Context: Apple Inc., Apple media events, iOS 11, iPad, iPhone_
 
 ---
