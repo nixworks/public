@@ -1,6 +1,6 @@
 ### [2017-09-19](/news/2017/09/19/index.md)
 
-# A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake. 
+# A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico City earthquake. 
 
 Anyone looking for loved ones in Mexico affected by the earthquake can call 1-52-5556-581111 to get in touch with representatives from the Consul General for assistance. On the anniversary of a deadly 8.0 quake that struck central Mexico in 1985, a 7.1 magnitude earthquake hit the same region on Tuesday, killing at least 220 people, destroying dozens of buildings and leaving millions without power.
 
@@ -12,7 +12,7 @@ Anyone looking for loved ones in Mexico affected by the earthquake can call 1-52
 
 ### Related:
 
-1. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: magnitude_
+1. [A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilometers-60-miles-south-of-pijijiapan-chiapas-mexico-this-is-mexico-s-strongest-quake-since.md) _Context: 1985 Mexico City earthquake, magnitude_
 2. [Searches continue for possible survivors of the 7.1 magnitude earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-7-1-magnitude-earthquake-that-hit-central-mexico-yesterday.md) _Context: 2017 Puebla earthquake_
 3. [Socorro Flores Liera, Mexico's deputy foreign minister for Latin America and the Caribbean, speaks during an interview with Reuters in Mexico City, that during the first half of 2017, 1,420 Venezuelans have sought asylum in Mexico, a nearly four-fold jump compared to the 361 total Venezuelan asylum applicants for all of 2016, as the result of Venezuela's deepening political and economic crisis. ](/news/2017/08/4/socorro-flores-liera-mexico-s-deputy-foreign-minister-for-latin-america-and-the-caribbean-speaks-during-an-interview-with-reuters-in-mexic.md) _Context: Mexico City_
 4. [A magnitude 6.4 earthquake strikes west of the Pacific Island of Tonga. There are no immediate reports of casualties or damage. ](/news/2017/08/19/a-magnitude-6-4-earthquake-strikes-west-of-the-pacific-island-of-tonga-there-are-no-immediate-reports-of-casualties-or-damage.md) _Context: magnitude_
