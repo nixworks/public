@@ -3,7 +3,7 @@
 ### [Searches continue for possible survivors of the 7.1 magnitude earthquake that hit central Mexico yesterday. ](/news/2017/09/20/searches-continue-for-possible-survivors-of-the-7-1-magnitude-earthquake-that-hit-central-mexico-yesterday.md)
 A powerful earthquake shook central Mexico on Tuesday, killing at least two people, crumbling buildings and sending thousands fleeing into the streets screaming.
 
-### [Hurricane Maria makes landfall on Puerto Rico. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico.md)
+### [Hurricane Maria makes landfall on Puerto Rico as a Category 5 hurricane. ](/news/2017/09/20/hurricane-maria-makes-landfall-on-puerto-rico-as-a-category-5-hurricane.md)
 Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to hit the U.S. territory in nearly 90 years, ripping windows from their fixtures and sending debris hurtling through the streets as it approached the capital, San Juan.
 
 ## Opinion
@@ -15,10 +15,10 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2017/09/19/index.md)
 
 ### [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md)
-_Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, category 5 hurricane_
+_Context: 2007, 2017 Atlantic hurricane season, Category 5 hurricane, Dominica, Hurricane Maria_
 
-### [A magnitude 7.1 earthquake strikes Mexico, causing the collapse of 29 buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-causing-the-collapse-of-29-buildings-in-mexico-city-and-widespread-evacuations-hours-after-a-yea.md)
-_Context: 1985 Mexico earthquake, 2017 Puebla earthquake, magnitude_
+### [A magnitude 7.1 earthquake strikes Mexico, killing at least 220 people and collapsing several buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake. ](/news/2017/09/19/a-magnitude-7-1-earthquake-strikes-mexico-killing-at-least-220-people-and-collapsing-several-buildings-in-mexico-city-and-widespread-evacua.md)
+Anyone looking for loved ones in Mexico affected by the earthquake can call 1-52-5556-581111 to get in touch with representatives from the Consul General for assistance. On the anniversary of a deadly 8.0 quake that struck central Mexico in 1985, a 7.1 magnitude earthquake hit the same region on Tue...
 
 ### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug-related charges. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
 Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
