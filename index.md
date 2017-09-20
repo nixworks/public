@@ -20,6 +20,9 @@ _Context: 1985 Mexico earthquake, 2017 Puebla earthquake, magnitude_
 ### [Two African-American men are killed in separate incidents near Baton Rouge, Louisiana, and a third home is shot at in what local and federal officials call racially-motivated crimes. A local man, Kenneth James Gleason, is arrested on suspicion of the murders. Gleason was out on bail for drug-related charges. ](/news/2017/09/19/two-african-american-men-are-killed-in-separate-incidents-near-baton-rouge-louisiana-and-a-third-home-is-shot-at-in-what-local-and-federal.md)
 Kenneth James Gleason accused of killing homeless man, dishwasher walking to work in Baton Rouge
 
+### [Spain's Guardia Civil raid private delivery offices in the Catalan city of Terrassa, searching for and confiscating envelopes suspected of containing voting cards for the upcoming Catalan independence referendum. ](/news/2017/09/19/spain-s-guardia-civil-raid-private-delivery-offices-in-the-catalan-city-of-terrassa-searching-for-and-confiscating-envelopes-suspected-of-c.md)
+Police discover a mass of documents directly related to the banned independence referendum.
+
 ---
 
 ## [Day Before Yesterday](/news/2017/09/18/index.md)
