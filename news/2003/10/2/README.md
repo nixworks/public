@@ -4,7 +4,7 @@
 _Context: Choe Su Hon, North Korea, Pyongyang, Yongbyon nuclear reactor, atomic bomb, fuel rod, nuclear deterrent, plutonium, processed_
 
 ### [ Occupation of Iraq: The United Nations Security Council discusses a new United States draft resolution on Iraq, which would enhance the United Nations' role in Iraq. Secretary General Kofi Annan states draft did not go in the direction he recommended. A quicker transfer of sovereignty ""may change the dynamics on the ground, in terms of the security situation, and send a message"".](/news/2003/10/2/occupation-of-iraq-the-united-nations-security-council-discusses-a-new-united-states-draft-resolution-on-iraq-which-would-enhance-the-uni.md)
-_Context: Iraq, Kofi Annan, Secretary General, United Nations, United Nations Security Council, occupation of Iraq, sovereignty_
+_Context: Iraq, Kofi Annan, Occupation of Iraq, Secretary General, United Nations, United Nations Security Council, sovereignty_
 
 ### [ Technology - Genome: The genome chip arrived with several companies rushing to sell the known human genes. The products will allow scientists to scan all genes in a human tissue sample at once to determine which are active, with lower cost and increased speed.](/news/2003/10/2/technology-a-genome-the-genome-chip-arrived-with-several-companies-rushing-to-sell-the-known-human-genes-the-products-will-allow-scient.md)
 _Context: genome, technology_

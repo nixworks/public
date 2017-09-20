@@ -10,7 +10,7 @@ _Context: North Sea, cod_
 _Context: Kabul, United Nations_
 
 ### [ Occupation of Iraq: Human Rights Watch (HRW) accuses US troops of using excessive force against civilians in Iraq.](/news/2003/10/21/occupation-of-iraq-human-rights-watch-hrw-accuses-us-troops-of-using-excessive-force-against-civilians-in-iraq.md)
-_Context: Human Rights Watch, occupation of Iraq_
+_Context: Human Rights Watch, Occupation of Iraq_
 
 ### [ Iran's Supreme Council agrees to comply with the International Atomic Energy Agency, allow inspections of its nuclear facilities, and suspend its uranium enrichment program.](/news/2003/10/21/iran-s-supreme-council-agrees-to-comply-with-the-international-atomic-energy-agency-allow-inspections-of-its-nuclear-facilities-and-suspe.md)
 _Context: IAEA, Iran, uranium_

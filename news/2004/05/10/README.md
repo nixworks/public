@@ -34,7 +34,7 @@ The death of the black boy, who was lynched in Mississippi for supposedly whistl
 _Context: marathon elections_
 
 ### [ The first Dutch soldier dies in the occupation of Iraq. ](/news/2004/05/10/the-first-dutch-soldier-dies-in-the-occupation-of-iraq.md)
-_Context: Netherlands, occupation of Iraq_
+_Context: Netherlands, Occupation of Iraq_
 
 ## [Previous Day...](/news/2004/05/9/index.md)
 

@@ -7,7 +7,7 @@ _Context: Food and Drug Administration, Risperidone, atypical antipsychotic, dru
 _Context: Conservative Party, David Davis, Home Secretary, Iain Duncan Smith, Michael Howard, a colleague, vote of confidence_
 
 ### [ Occupation of Iraq: The International Red Cross announces that it is to scale back its commitments to Iraq. Two more GIs are killed, bringing the total killed since May 1 to 115.](/news/2003/10/29/occupation-of-iraq-the-international-red-cross-announces-that-it-is-to-scale-back-its-commitments-to-iraq-two-more-gis-are-killed-bringi.md)
-_Context: Red Cross, occupation of Iraq_
+_Context: Occupation of Iraq, Red Cross_
 
 ### [ Halloween Solar Storms. The Earth's magnetosphere is hit by the recent solar flare causing a brief but intense geomagnetic storm, provoking unusual displays of Northern Lights.](/news/2003/10/29/halloween-solar-storms-the-earth-s-magnetosphere-is-hit-by-the-recent-solar-flare-causing-a-brief-but-intense-geomagnetic-storm-provoking.md)
 _Context: Halloween Solar Storms, Northern Lights, geomagnetic storm, magnetosphere, solar flare_

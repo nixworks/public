@@ -16,7 +16,7 @@ _Context: Kyoto Protocol, Russia, ratified_
 _Context: International Criminal Tribunal for Rwanda, genocide, mass media_
 
 ### [Politics of Canada: Natural Resources Minister Herb Dhaliwal, Canada's first Indo-Canadian cabinet minister, announces he is leaving politics. Dhaliwal intends to quit his ministerial post when incoming Prime Minister Paul Martin swears in a new cabinet on December 12, and has indicated he will not seek re-election in the anticipated 2004 election. [http://www.cbc.ca/stories/2003/12/03/dhaliwal_031203]](/news/2003/12/3/politics-of-canada-natural-resources-minister-herb-dhaliwal-canada-s-first-indo-canadian-cabinet-minister-announces-he-is-leaving-politic.md)
-_Context: Canadian Prime Minister, Canadian political history, December 12, Herb Dhaliwal, India, Natural Resources Minister, Paul Martin, election, forming a government, political organisation_
+_Context: 2004 federal election, Canadian Prime Minister, Canadian political history, December 12, Herb Dhaliwal, India, Natural Resources Minister, Paul Martin, forming a government, political organisation_
 
 ### [ In Abidjan, Cte d'Ivoire, police fire tear gas at hundreds of protesters who want France to withdraw its 3,800 peacekeepers so that the Christian and animist government of President Laurent Gbagbo in the south can march against Muslim rebel-held areas in the north. [http://news.bbc.co.uk/1/hi/world/africa/3257264.stm][http://www.iht.com/articles/119994.html]](/news/2003/12/3/in-abidjan-cote-d-ivoire-police-fire-tear-gas-at-hundreds-of-protesters-who-want-france-to-withdraw-its-3-800-peacekeepers-so-that-the-ch.md)
 _Context: Abidjan, Christian, Cte d'Ivoire, France, Laurent Gbagbo, Muslim, President, animist, police, tear gas_

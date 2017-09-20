@@ -4,7 +4,7 @@
 _Context: Fatah, Palestine Liberation Organization's, Yasser Arafat, anti-corruption_
 
 ### [ U.S. Presidential Election, 2004: In the race for the Democratic presidential nomination, Senator John Kerry wins the caucuses in Michigan and Washington.](/news/2004/02/7/u-s-presidential-election-2004-in-the-race-for-the-democratic-presidential-nomination-senator-john-kerry-wins-the-caucuses-in-michigan.md)
-_Context: Democratic, Democratic presidential nomination, John Kerry_
+_Context: Democratic Party, Democratic presidential nomination, John Kerry_
 
 ### [ Sri Lankan President Chandrika Kumaratunga dissolves parliament.](/news/2004/02/7/sri-lankan-president-chandrika-kumaratunga-dissolves-parliament.md)
 _Context: Chandrika Kumaratunga, Sri Lanka_

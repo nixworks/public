@@ -7,7 +7,7 @@ _Context: GDP, Ronald Reagan_
 _Context: Guantnamo Bay detainment camp, Law Lord, Lord Steyn_
 
 ### [ Occupation of Iraq: At least two rockets are reported fired near the US compound in central Baghdad.](/news/2003/11/25/occupation-of-iraq-at-least-two-rockets-are-reported-fired-near-the-us-compound-in-central-baghdad.md)
-_Context: occupation of Iraq_
+_Context: Occupation of Iraq_
 
 ### [ Robert Mugabe, President of Zimbabwe, is not invited to the Commonwealth Heads of Government Conference to be held in Nigeria.](/news/2003/11/25/robert-mugabe-president-of-zimbabwe-is-not-invited-to-the-commonwealth-heads-of-government-conference-to-be-held-in-nigeria.md)
 _Context: Commonwealth of Nations, Robert Mugabe, Zimbabwe_

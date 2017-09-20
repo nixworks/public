@@ -28,7 +28,7 @@ _Context: Adel Abdul-Mahdi, Bernard Kouchner, Iraq_
 _Context: Army, Sri Lanka, Tamil Tigers_
 
 ### [ Robert Gates, the United States Secretary of Defense, states that Myanmar's refusal of international aid for victims of Cyclone Nargis has cost "thousands of lives". ](/news/2008/05/31/robert-gates-the-united-states-secretary-of-defense-states-that-myanmar-s-refusal-of-international-aid-for-victims-of-cyclone-nargis-has.md)
-_Context: Burmese, Cyclone Nargis, Defense Secretary, Robert Gates_
+_Context: Cyclone Nargis, Defense Secretary, Myanmar, Robert Gates_
 
 ### [ Suicide bombers in eastern Afghanistan target a military convoy. NATO's International Security Assistance force says the attack took place in Jalalabad, capital of Nangarhar province. ](/news/2008/05/31/suicide-bombers-in-eastern-afghanistan-target-a-military-convoy-nato-s-international-security-assistance-force-says-the-attack-took-place.md)
 _Context: Afghanistan, ISAF, Jalalabad, Nangarhar Province, Suicide bombers, convoy_

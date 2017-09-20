@@ -7,7 +7,7 @@ _Context: Galileo probe_
 _Context: FBI, Guantnamo Bay detainment camp, James Yee, Washington Times, chaplain, espionage_
 
 ### [ Terrorism - 9/11: Khalid Shaikh Mohammed, mastermind of the September 11 attacks, tells interrogators he first discussed the plot with Osama bin Laden in 1996. The original plan, and its evolution, are told to an interrogator, along with the answers to several questions over the attacks.](/news/2003/09/21/terrorism-a-9-11-khalid-shaikh-mohammed-mastermind-of-the-september-11-attacks-tells-interrogators-he-first-discussed-the-plot-with-os.md)
-_Context: Khalid Shaikh Mohammed, Osama bin Laden, September 11, 2001 attacks, mastermind, terrorism_
+_Context: Khalid Shaikh Mohammed, Osama bin Laden, September 11, 2001 attacks, plan, terrorism_
 
 ### [ United Nations: Leaders of the United Nations are concerned if change can give it the freedom it needs to survive. Kofi Annan will outline plans for reform at the United Nations General Assembly next week. Annan states that only "radical" revisions will likely preserve it.](/news/2003/09/21/united-nations-leaders-of-the-united-nations-are-concerned-if-change-can-give-it-the-freedom-it-needs-to-survive-kofi-annan-will-outline.md)
 _Context: Kofi Annan, United Nations, United Nations General Assembly_

@@ -7,7 +7,7 @@ _Context: Afghanistan, Hamid Karzai_
 _Context: Avian flu virus, Laos, Thailand, World Health Organisation_
 
 ### [ In "Fellers v. United States", the United States Supreme Court unanimously reaffirms the Miranda Warning.](/news/2004/01/26/in-fellers-v-united-states-the-united-states-supreme-court-unanimously-reaffirms-the-miranda-warning.md)
-_Context: Fellers v. United States, Miranda Warning, United States Supreme Court_
+_Context: Fellers v. United States, Miranda warning, United States Supreme Court_
 
 ### [ A federal judge in Los Angeles, California, declares a portion of the USA Patriot Act, banning "expert advice and assistance" to suspected foreign terrorist groups, to be unconstitutional.](/news/2004/01/26/a-federal-judge-in-los-angeles-california-declares-a-portion-of-the-usa-patriot-act-banning-expert-advice-and-assistance-to-suspected.md)
 _Context: Los Angeles, California, USA PATRIOT Act, terrorism, unconstitutional_

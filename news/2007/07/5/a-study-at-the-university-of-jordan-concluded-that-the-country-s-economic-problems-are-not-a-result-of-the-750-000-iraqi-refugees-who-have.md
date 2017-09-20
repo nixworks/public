@@ -12,3 +12,4 @@
 ### Related:
 
 1. [Iraqis living in Iran vote. ](/news/2010/03/6/iraqis-living-in-iran-vote.md) _Context: Iraqis_
+2. [ Yasser Arafat orders 21 members of the Al-Aqsa Martyrs' Brigades section of Fatah, who are wanted by Israel and have been seeking sanctuary within the Mukata for many months, to leave his Mukata headquarters in Ramallah. ](/news/2004/04/22/yasser-arafat-orders-21-members-of-the-al-aqsa-martyrs-brigades-section-of-fatah-who-are-wanted-by-israel-and-have-been-seeking-sanctuary.md) _Context: sanctuary_

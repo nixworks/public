@@ -13,7 +13,7 @@ _Context: 2003 general election, Jean Charest, Liberals, Parti Quebecois, Quebec
 _Context: Congregation for the Causes of Saints, Karl, Pope John Paul&nbsp;II, Vatican City, r_
 
 ### [ The bodies of a headless woman and a newborn fetus with the umbilical cord still attached washed up separately on the shore of San Francisco Bay near Richmond, California. DNA testing determined the body is that of Laci Peterson, who had been missing from her home in Modesto since December 24, 2002.](/news/2003/04/14/the-bodies-of-a-headless-woman-and-a-newborn-fetus-with-the-umbilical-cord-still-attached-washed-up-separately-on-the-shore-of-san-francisc.md)
-_Context: DNA, Laci Peterson, Modesto, Richmond, California, San Francisco Bay, fetus, umbilical cord_
+_Context: DNA, Laci, Modesto, Richmond, California, San Francisco Bay, fetus, umbilical cord_
 
 ## [Previous Day...](/news/2003/04/13/index.md)
 

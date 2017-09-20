@@ -7,7 +7,7 @@ _Context: Islamabad, Kashmir, Pakistan, cross-border terrorism_
 _Context: Israel, Mahathir Mohamad, Malaysia, Prime Minister_
 
 ### [ Occupation of Iraq: The commander of US ground forces in Iraq says that Al-Qaeda is now operating in Iraq as witnessed by increasingly sophisticated attacks on US troops.](/news/2003/10/22/occupation-of-iraq-the-commander-of-us-ground-forces-in-iraq-says-that-al-qaeda-is-now-operating-in-iraq-as-witnessed-by-increasingly-soph.md)
-_Context: Iraq, al-Qaeda, occupation of Iraq_
+_Context: Iraq, Occupation of Iraq, al-Qaeda_
 
 ### [ European Union and Guantanamo Bay: Leaders of the European Union parliament urge the EU to take action over 26 Europeans being held indefinitely by the US without charges, without trial, without legal representation at Guantanamo Bay. The detainees are experiencing increasing psychological problems.](/news/2003/10/22/european-union-and-guantanamo-bay-leaders-of-the-european-union-parliament-urge-the-eu-to-take-action-over-26-europeans-being-held-indefin.md)
 _Context: EU, Guantnamo Bay detainment camp_

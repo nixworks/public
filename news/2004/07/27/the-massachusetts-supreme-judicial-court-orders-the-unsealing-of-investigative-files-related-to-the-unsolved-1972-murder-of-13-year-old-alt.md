@@ -1,0 +1,23 @@
+### [2004-07-27](/news/2004/07/27/index.md)
+
+#  The Massachusetts Supreme Judicial Court orders the unsealing of investigative files related to the unsolved 1972 murder of 13-year-old altar boy Danny Croteau. Richard Lavigne, a defrocked priest convicted of child molestation, is the only suspect in the case. 
+
+
+
+
+### Source:
+
+1. [ABC](http://abcnews.go.com/wire/US/ap20040727_863.html)
+
+### Related:
+
+1. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: murder_
+2. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
+3. [The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. ](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-condemns-the-extralegal-killings-and-murders-under-rodrigo-duterte.md) _Context: murder_
+4. [Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md) _Context: murder_
+5. [Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in-davao-city.md) _Context: murder_
+6. [Human Rights Watch and the Philippine Commission on Human Rights condemn the murders of an indigenous Lumad family and the rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army under the guise of fighting a communist rebellion. ](/news/2015/09/9/human-rights-watch-and-the-philippine-commission-on-human-rights-condemn-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indige.md) _Context: murder_
+7. [An indigenous Lumad child dies in an evacuation center while the Philippine Senate investigates the alleged September 1 murders of an indigenous Lumad family and the alleged rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army. ](/news/2015/09/10/an-indigenous-lumad-child-dies-in-an-evacuation-center-while-the-philippine-senate-investigates-the-alleged-september-1-murders-of-an-indige.md) _Context: murder_
+8. [3000 indigenous Lumad evacuate over the murders of an indigenous Lumad family and the rape of an indigenous Manobo girl allegedly by soldiers and militiamen of the Philippine Army. ](/news/2015/09/1/3000-indigenous-lumad-evacuate-over-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indigenous-manobo-girl-allegedly-by-soldier.md) _Context: murder_
+9. [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md) _Context: murder_
+10. [A United States Marine is detained on the "USS Peleliu", which is docked in Subic Bay, Philippines, after he allegedy murdered Filipino transgender woman Jennifer Laude. ](/news/2014/10/13/a-united-states-marine-is-detained-on-the-uss-peleliu-which-is-docked-in-subic-bay-philippines-after-he-allegedy-murdered-filipino-tran.md) _Context: murder_

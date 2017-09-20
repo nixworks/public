@@ -19,7 +19,7 @@ _Context: Lebanon, Samir Geagea, militia_
 _Context: Hong Seok-Hyun, slush fund_
 
 ### [ Burma/Myanmar forgoes 2006 chairmanship of ASEAN ](/news/2005/07/26/burma-myanmar-forgoes-2006-chairmanship-of-asean.md)
-_Context: ASEAN, Burma, Burmese_
+_Context: ASEAN, Burma, Myanmar_
 
 ### [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md)
 _Context: Afghanistan, Bagram, demonstration, protest_

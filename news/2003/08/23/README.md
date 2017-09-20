@@ -1,7 +1,7 @@
 ## [2003-08-23](/news/2003/08/23/index.md)
 
 ### [ In an unprecedented move, the British government submit thousands of official documents (many of which would not normally be seen by the public for 30 years) to the Hutton Inquiry, and publication on the Internet.](/news/2003/08/23/in-an-unprecedented-move-the-british-government-submit-thousands-of-official-documents-many-of-which-would-not-normally-be-seen-by-the-pu.md)
-_Context: Hutton inquiry, form of government_
+_Context: Hutton Inquiry, form of government_
 
 ### [ Natural disaster: Wildfires sweep into the southern suburbs of Kelowna, British Columbia, Canada, destroying more than 200 homes. One-third of the city's population, or 30,000 people, have been evacuated.](/news/2003/08/23/natural-disaster-wildfires-sweep-into-the-southern-suburbs-of-kelowna-british-columbia-canada-destroying-more-than-200-homes-one-third.md)
 _Context: Kelowna, Wildfire, natural disaster_

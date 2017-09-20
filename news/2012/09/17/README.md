@@ -40,7 +40,7 @@ A ripped condom given to Swedish police by one of Julian Assange’s accusers do
 _Context: Japan, United States_
 
 ### [Nobel Laureate Aung San Suu Kyi begins a 17-day tour of the United States in a bid to help ease economic sanctions on Myanmar. ](/news/2012/09/17/nobel-laureate-aung-san-suu-kyi-begins-a-17-day-tour-of-the-united-states-in-a-bid-to-help-ease-economic-sanctions-on-myanmar.md)
-_Context: Aung San Suu Kyi, Burmese, Nobel Laureate, United States_
+_Context: Aung San Suu Kyi, Myanmar, Nobel Laureate, United States_
 
 ### [French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. ](/news/2012/09/17/french-police-announce-that-they-are-exploring-the-possibility-that-sylvain-mollier-and-not-the-al-hilli-family-may-have-been-the-intended.md)
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.
@@ -49,7 +49,7 @@ A French cyclist who was shot dead alongside a British family in a massacre in t
 _Context: 2009 G-20 summit protests in London, Metropolitan Police Service, death of Ian Tomlinson_
 
 ### [The Louisiana State University (LSU) main campus at Baton Rouge, Louisiana, is evacuated after a bomb threat. It is not clear at this time whether it is related to the two previous similar incidents the previous Friday at the University of Texas at Austin (UT) in Austin, Texas, and North Dakota State University (NDSU) in Fargo, North Dakota. ](/news/2012/09/17/the-louisiana-state-university-lsu-main-campus-at-baton-rouge-louisiana-is-evacuated-after-a-bomb-threat-it-is-not-clear-at-this-time-w.md)
-_Context: Austin, Texas, Baton Rouge, Fargo, North Dakota, Louisiana State University, North Dakota State University, University of Texas at Austin, bomb threat_
+_Context: Austin, Texas, Baton Rouge, Louisiana, Fargo, North Dakota, Louisiana State University, North Dakota State University, University of Texas at Austin, bomb threat_
 
 ### [Justice Antonin Scalia charges that Judge Richard Posner's characterization of the guns rights decision, DC v. Heller, is "bluntly, a lie." ](/news/2012/09/17/justice-antonin-scalia-charges-that-judge-richard-posner-s-characterization-of-the-guns-rights-decision-dc-v-heller-is-bluntly-a-lie.md)
 Supreme Court Associate Justice Antonin Scalia says he once thought cameras should be in the Supreme Court but now believes they would simply &quot;misinform&quot; the public. He appeared at a live event at Reuters&#039; headquarters in New York....

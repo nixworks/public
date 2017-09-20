@@ -11,7 +11,7 @@ As California&apos;s aid-in-dying law took effect Thursday, the Life Legal Defen
 
 ### Related:
 
-1. [Eberhard van der Laan, the Mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md) _Context: terminal_
+1. [Eberhard van der Laan, the mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md) _Context: terminal_
 2. [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md) _Context: California_
 3. [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md) _Context: California_
 4. [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md) _Context: California_

@@ -5,7 +5,7 @@
 _Context: Afghanistan, United Nations, land mine_
 
 ### [ Canadian Prime Minister Paul Martin goes on record that anyone found to be culpable in the sponsorship scandal, including himself, will be immediately discharged. The issue could delay the upcoming election until after the public enquiry is completed.](/news/2004/02/15/canadian-prime-minister-paul-martin-goes-on-record-that-anyone-found-to-be-culpable-in-the-sponsorship-scandal-including-himself-will-be.md)
-_Context: Paul Martin, Prime Minister, election, sponsorship scandal_
+_Context: 2004 federal election, Paul Martin, Prime Minister, sponsorship scandal_
 
 ### [ Same-sex marriage in the United States: Officials at the city and county of San Francisco, California, turn away hundreds of would-be same-sex newlyweds after thousands of gay and lesbian couples show up to marry over the weekend. The city claims it can only handle between 400 and 600 marriages a day, or about one a minute. ](/news/2004/02/15/same-sex-marriage-in-the-united-states-officials-at-the-city-and-county-of-san-francisco-california-turn-away-hundreds-of-would-be-same.md)
 _Context: San Francisco, California, gay, lesbian, marriage, same-sex marriage_
@@ -21,7 +21,7 @@ _Context: water park_
 
 ### [ Two fires sweep through China, one in a shopping center and the other in a temple, killing at least 90 and injuring 71. ](/news/2004/02/15/two-fires-sweep-through-china-one-in-a-shopping-center-and-the-other-in-a-temple-killing-at-least-90-and-injuring-71.md)
 ### [ The British government draws up plans to break up the BBC in the wake of the Hutton inquiry. ](/news/2004/02/15/the-british-government-draws-up-plans-to-break-up-the-bbc-in-the-wake-of-the-hutton-inquiry.md)
-_Context: BBC, Hutton inquiry_
+_Context: BBC, Hutton Inquiry_
 
 ### [ Iraqi police arrest Mohammed Zimam Abdul-Razaq, a member of the Baath Party and number 41 on the U.S. military's list of most wanted Iraqis. ](/news/2004/02/15/iraqi-police-arrest-mohammed-zimam-abdul-razaq-a-member-of-the-baath-party-and-number-41-on-the-u-s-military-s-list-of-most-wanted-iraqis.md)
 _Context: Baath Party, Iraqi Police, U.S. military, most wanted Iraqis_

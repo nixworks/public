@@ -40,7 +40,7 @@ _Context: 6-year trial, Joseph Estrada, President, anti-corruption_
 _Context: Prime Minister of Japan, Shinzo Abe, with the election of his successor_
 
 ### [ Tropical Depression Eight and Tropical Depression Nine form near the Lesser Antilles and Gulf of Mexico respectively. ](/news/2007/09/12/tropical-depression-eight-and-tropical-depression-nine-form-near-the-lesser-antilles-and-gulf-of-mexico-respectively.md)
-_Context: 2007 Atlantic hurricane season, Gulf of Mexico, Lesser Antilles, Tropical Depression Eight, Tropical Depression Nine_
+_Context: 2007, Gulf of Mexico, Lesser Antilles, Tropical Depression Eight, Tropical Depression Nine_
 
 ### [ The first episode of Linux Outlaws was released](/news/2007/09/12/the-first-episode-of-linux-outlaws-was-released.md)
 _Context: Linux Outlaws_

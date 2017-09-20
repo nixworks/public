@@ -1,0 +1,24 @@
+### [2004-04-13](/news/2004/04/13/index.md)
+
+#  Shanghai modifies its interpretation of the People's Republic of China's One Child Policy, allowing all divorced residents who remarry to have a second child without penalty. 
+
+
+
+
+### Source:
+
+1. [Guardian](http://www.guardian.co.uk/china/story/0,7369,1191213,00.html)
+2. [VOA](http://www.voanews.com/article.cfm?objectID=E6B4825F-25B3-4FA5-87EF0D1455A4DE4A&title=Shanghai%20Modifies%20%27One%20Child%27%20Policy&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)
+
+### Related:
+
+1. [The People's Republic of China evacuates 200,000 people from Shanghai ahead of Typhoon Haikui which is expected to make landfall in Zhejiang early tonight or tomorrow morning. ](/news/2012/08/7/the-people-s-republic-of-china-evacuates-200-000-people-from-shanghai-ahead-of-typhoon-haikui-which-is-expected-to-make-landfall-in-zhejiang.md) _Context: China, Shanghai_
+2. [Chinese police beat protesters and fire tear gas after demonstrators storm government buildings in Haimen (70km NNW from Shanghai), in protest against a local 'polluting' coal-powered electricity generation plant. ](/news/2011/12/20/chinese-police-beat-protesters-and-fire-tear-gas-after-demonstrators-storm-government-buildings-in-haimen-70km-nnw-from-shanghai-in-prote.md) _Context: China, Shanghai_
+3. [Chinese truck drivers stage a second day of protests in Shanghai at rising inflation. ](/news/2011/04/21/chinese-truck-drivers-stage-a-second-day-of-protests-in-shanghai-at-rising-inflation.md) _Context: China, Shanghai_
+4. [A "one-dog policy" is announced in Shanghai, China, with more than 600,000 unlicensed dogs to be declared illegal.](/news/2011/02/24/a-one-dog-policy-is-announced-in-shanghai-china-with-more-than-600-000-unlicensed-dogs-to-be-declared-illegal.md) _Context: China, Shanghai_
+5. [2011 Chinese protests:Police in China show up in force in several cities after a call for a "Jasmine Revolution", and disperse protesters in Beijing and Shanghai. ](/news/2011/02/20/2011-chinese-protests-police-in-china-show-up-in-force-in-several-cities-after-a-call-for-a-jasmine-revolution-and-disperse-protesters-in.md) _Context: China, Shanghai_
+6. [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md) _Context: China, Shanghai_
+7. [ Mayor Ray Nagin of New Orleans, Louisiana, is quarantined in Shanghai, China, after a passenger on his flight from the United States was diagnosed with A(H1N1) influenza. ](/news/2009/06/8/mayor-ray-nagin-of-new-orleans-louisiana-is-quarantined-in-shanghai-china-after-a-passenger-on-his-flight-from-the-united-states-was-di.md) _Context: China, Shanghai_
+8. [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md) _Context: China, Shanghai_
+9. [ Three people are killed and another three injured after an explosion on a bus in Shanghai, China. ](/news/2008/05/5/three-people-are-killed-and-another-three-injured-after-an-explosion-on-a-bus-in-shanghai-china.md) _Context: China, Shanghai_
+10. [ Rioting breaks out in Guangxi province, China, in protest at the government imposing fines for breaches of its strict one-child policy. ](/news/2007/05/18/rioting-breaks-out-in-guangxi-province-china-in-protest-at-the-government-imposing-fines-for-breaches-of-its-strict-one-child-policy.md) _Context: China, one-child policy_

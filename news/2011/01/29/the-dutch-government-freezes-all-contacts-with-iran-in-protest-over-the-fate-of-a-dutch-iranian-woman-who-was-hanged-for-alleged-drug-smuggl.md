@@ -12,7 +12,7 @@ The Dutch government freezes all contacts with Iran in protest over the hanging 
 
 ### Related:
 
-1. [Eberhard van der Laan, the Mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md) _Context: Politics of the Netherlands_
+1. [Eberhard van der Laan, the mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md) _Context: Politics of the Netherlands_
 2. [An IAEA report says Iran remains within key limits set in the 2015 agreement with world powers on development of its nuclear program. ](/news/2017/08/31/an-iaea-report-says-iran-remains-within-key-limits-set-in-the-2015-agreement-with-world-powers-on-development-of-its-nuclear-program.md) _Context: Iran_
 3. [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md) _Context: Iran_
 4. [ISIL forces raid an Iranian Islamic Revolutionary Guard Corps base in vast desert spaces of eastern Homs Governorate, Syria, manned by between 12 to 18 fighters, all but one of which are killed. ](/news/2017/08/11/isil-forces-raid-an-iranian-islamic-revolutionary-guard-corps-base-in-vast-desert-spaces-of-eastern-homs-governorate-syria-manned-by-betwe.md) _Context: Iran_

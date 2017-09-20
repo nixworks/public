@@ -1,0 +1,23 @@
+### [2004-04-4](/news/2004/04/4/index.md)
+
+#  The US Customs and Border Protection Agency begin patrols with unmanned aerial vehicles to identify illegal immigrants at U.S. land borders. 
+
+
+
+
+### Source:
+
+1. [Post-Newsweek Media](http://www.washingtontechnology.com/news/1_1/daily_news/23213-1.html)
+
+### Related:
+
+1. [A drone collides at London's Heathrow Airport with an Airbus A320 carrying 132 passengers and five crew, with no injuries reported. ](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-with-an-airbus-a320-carrying-132-passengers-and-five-crew-with-no-injuries-reported.md) _Context: drone_
+2. [ U.S. officials say unmanned airstrikes in southern Somalia killed about a dozen suspected militants from the al Qaeda-linked group al Shabaab on Monday and Tuesday. ](/news/2016/04/12/u-s-officials-say-unmanned-airstrikes-in-southern-somalia-killed-about-a-dozen-suspected-militants-from-the-al-qaeda-linked-group-al-shaba.md) _Context: drone_
+3. [The Oklahoma Department of Corrections says a drone carrying mobile phones, drugs, and hacksaw blades crashed at the Oklahoma State Penitentiary in McAlester before inmates could grab the contraband. This is fourth reported drone-attempt in the United States; the others were at prisons in Ohio, Maryland, and South Carolina. ](/news/2015/10/29/the-oklahoma-department-of-corrections-says-a-drone-carrying-mobile-phones-drugs-and-hacksaw-blades-crashed-at-the-oklahoma-state-penitent.md) _Context: drone_
+4. [U.S. Secretary of Transportation Anthony Foxx announced that all unmanned aircraft, i.e. drones, will be required to be registered with the government just as manned aircraft are. DOT is forming a task force of government leaders and diverse stakeholders who will determine the specifics of which drones will be covered and how the registration process will work. ](/news/2015/10/19/u-s-secretary-of-transportation-anthony-foxx-announced-that-all-unmanned-aircraft-i-e-drones-will-be-required-to-be-registered-with-the.md) _Context: drone_
+5. [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md) _Context: drone_
+6. [Philippines President Benigno Aquino III demands an investigation after a drone purportedly belonging to the United States Navy is found in the Philippine province of Quezon, the second found in the country. ](/news/2015/01/7/philippines-president-benigno-aquino-iii-demands-an-investigation-after-a-drone-purportedly-belonging-to-the-united-states-navy-is-found-in.md) _Context: drone_
+7. [A British photographer designs and builds a drone as a low cost alternative for shooting nature documentaries. [http://www.reuters.com/video/2014/01/16/reuters-tv-beetlecopter-the-low-cost-alternative-fo?videoId=276456872&videoChannel=118065 (Reuters) ]](/news/2014/01/16/a-british-photographer-designs-and-builds-a-drone-as-a-low-cost-alternative-for-shooting-nature-documentaries-http-www-reuters-com-video.md) _Context: drone_
+8. [Pakistani officials claim that an American drone strike on an Islamic seminary has killed six people, including two Afghan Taliban leaders and a leader of the Haqqani network. ](/news/2013/11/21/pakistani-officials-claim-that-an-american-drone-strike-on-an-islamic-seminary-has-killed-six-people-including-two-afghan-taliban-leaders-a.md) _Context: drone_
+9. [In the United States, Senator Rand Paul ends a 13-hour filibuster to block voting on the nomination of John O. Brennan as the Director of the CIA, questioning President Barack Obama and his administration's use of drones, and the stated legal justification for hypothetical lethal use within the United States targeting against noncombatants. Attorney General Eric Holder states that combat drones would not be used to target and kill, without due process, Americans not engaged in combat on American soil. ](/news/2013/03/7/in-the-united-states-senator-rand-paul-ends-a-13-hour-filibuster-to-block-voting-on-the-nomination-of-john-o-brennan-as-the-director-of-th.md) _Context: drone_
+10. [A young Pakistani man, whose father was killed by drones alongside 40 others in March 2011, seeks to block the sharing of British intelligence with the CIA. This represents the first serious legal challenge in the English courts to Britain's involvement in the drones campaign. ](/news/2012/10/23/a-young-pakistani-man-whose-father-was-killed-by-drones-alongside-40-others-in-march-2011-seeks-to-block-the-sharing-of-british-intelligen.md) _Context: drone_

@@ -4,7 +4,7 @@
 _Context: Matamoros, Osiel Crdenas, drug cartel_
 
 ### [ U.S. Representative James P. Moran, Democrat from Virginia, is forced out of a party leadership post after furor over his remarks that were interpreted as saying that American Jews are responsible for a possible war with Iraq.](/news/2003/03/14/u-s-representative-james-p-moran-democrat-from-virginia-is-forced-out-of-a-party-leadership-post-after-furor-over-his-remarks-that-were.md)
-_Context: Democratic, Iraq, James P. Moran, United States House of Representatives, Virginia_
+_Context: Democratic Party, Iraq, James P. Moran, United States House of Representatives, Virginia_
 
 ### [ Carlos Ortega, labor union leader and opponent of President Hugo Chvez of Venezuela, is granted political asylum at the Costa Rican Embassy in Caracas. Ortega had eluded arrest for three weeks on charges of treason, civil rebellion and "incitement".](/news/2003/03/14/carlos-ortega-labor-union-leader-and-opponent-of-president-hugo-chavez-of-venezuela-is-granted-political-asylum-at-the-costa-rican-embass.md)
 _Context: Caracas, Carlos Ortega, Costa Rica, Hugo Chvez, President, Venezuela, embassies, labor union, refugee_

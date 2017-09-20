@@ -7,7 +7,7 @@
 
 ### Source:
 
-1. [The New Color of Money Web site (includes images](http://www.moneyfactory.com/newmoney/)
+1. [U.S. Treasury](http://www.moneyfactory.com/newmoney/)
 
 ### Related:
 

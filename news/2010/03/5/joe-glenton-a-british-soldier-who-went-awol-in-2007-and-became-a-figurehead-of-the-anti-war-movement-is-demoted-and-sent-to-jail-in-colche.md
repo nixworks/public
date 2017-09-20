@@ -15,3 +15,4 @@ A soldier who went absent without leave rather than serve a second tour in Afgha
 ### Related:
 
 1. [ The Supreme Court of Canada denies asylum to Jeremy Hinzman and Brandon Hughey, two United States soldiers who deserted the Iraq War. ](/news/2007/11/15/the-supreme-court-of-canada-denies-asylum-to-jeremy-hinzman-and-brandon-hughey-two-united-states-soldiers-who-deserted-the-iraq-war.md) _Context: AWOL_
+2. [ Islamic Response claims that United States Marine Corps Corporal Wassef Ali Hassoun has been taken to a place of safety after he promised to desert from the Marine Corps. ](/news/2004/07/6/islamic-response-claims-that-united-states-marine-corps-corporal-wassef-ali-hassoun-has-been-taken-to-a-place-of-safety-after-he-promised-t.md) _Context: AWOL_

@@ -4,3 +4,8 @@
 
 
 
+
+### Related:
+
+1. [ In the 2004 Serbian presidential election, Boris Tadic defeats Tomislav Nikolic in the run-off, with 53.7% to 45.0% of the votes. ](/news/2004/06/27/in-the-2004-serbian-presidential-election-boris-tadic-defeats-tomislav-nikolic-in-the-run-off-with-53-7-to-45-0-of-the-votes.md) _Context: Tomislav Nikolic_
+2. [ Results of Serbian presidential elections show expected lead of Tomislav Nikolic with 30.1% of votes, followed with Boris Tadic with 27.3%; but it comes as a surprise that Bogoljub Karic has 19.3% of votes, more than government's candidate Dragan Marsicanin with 13.3%. Second round will be held on Sunday 27 June. ](/news/2004/06/13/results-of-serbian-presidential-elections-show-expected-lead-of-tomislav-nikolic-with-30-1-of-votes-followed-with-boris-tadic-with-27-3.md) _Context: Tomislav Nikolic_

@@ -1,0 +1,24 @@
+### [2004-07-19](/news/2004/07/19/index.md)
+
+#  Amnesty International releases its report citing systematic killing, torturing and gang raping of females from ages 8 to 80 by Muslim Arab Janjaweed militia in the Darfur region of Sudan. 
+
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+
+### Source:
+
+1. [Amnesty](http://web.amnesty.org/library/index/engafr540842004)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5705469&section=news)
+
+### Related:
+
+1. [ Human Rights Watch releases a [http://hrw.org/english/docs/2004/07/19/darfur9096.htm report] stating that Sudanese government documents confirm support for the Arab Janjaweed militia in their campaign of ethnic cleansing against African Muslims in Darfur.](/news/2004/07/20/human-rights-watch-releases-a-http-hrw-org-english-docs-2004-07-19-darfur9096-htm-report-stating-that-sudanese-government-documents-con.md) _Context: Arab, Darfur, Janjaweed, Sudan_
+2. [Amnesty International say dozens of children in Darfur are among more than 200 people estimated to have been killed by Sudan government chemical weapons since January. ](/news/2016/09/28/amnesty-international-say-dozens-of-children-in-darfur-are-among-more-than-200-people-estimated-to-have-been-killed-by-sudan-government-chem.md) _Context: Amnesty International, Darfur, Sudan_
+3. [Fighting between rival Arab tribes in Sudan's Darfur region kills 51 people and injures 62 others. ](/news/2013/02/23/fighting-between-rival-arab-tribes-in-sudan-s-darfur-region-kills-51-people-and-injures-62-others.md) _Context: Arab, Darfur, Sudan_
+4. [55 people are killed and 85 injured after clashes between Arab nomads from the Darfur region of Sudan and the Southern Sudan army. ](/news/2010/04/25/55-people-are-killed-and-85-injured-after-clashes-between-arab-nomads-from-the-darfur-region-of-sudan-and-the-southern-sudan-army.md) _Context: Arab, Darfur, Sudan_
+5. [ The Chief Prosecutor of the International Criminal Court names the former Sudanese minister Ahmed Muhammad Harun and Janjaweed militia leader Ali Kushayb as chief suspects in its investigation into alleged war crimes and crimes against humanity in Darfur. The Government of Sudan has announced that it will not hand over the named men to the ICC. ](/news/2007/02/27/the-chief-prosecutor-of-the-international-criminal-court-names-the-former-sudanese-minister-ahmed-muhammad-harun-and-janjaweed-militia-lead.md) _Context: Darfur, Janjaweed, Sudan_
+6. [ United Nations Secretary-General Kofi Annan calls upon African Union leaders to take action to resolve the crisis in Darfur where an estimated 30,000 black Sudanese have been killed by Sudanese Arabs in cultural and racial strife. ](/news/2004/07/6/united-nations-secretary-general-kofi-annan-calls-upon-african-union-leaders-to-take-action-to-resolve-the-crisis-in-darfur-where-an-estima.md) _Context: Arab, Darfur, Sudan_
+7. [ The European Union's 25 foreign ministers jointly call on the United Nations to pass a resolution threatening sanctions if the Sudanese government does not rein in the Arab militias blamed for atrocities in Darfur. ](/news/2004/07/27/the-european-union-s-25-foreign-ministers-jointly-call-on-the-united-nations-to-pass-a-resolution-threatening-sanctions-if-the-sudanese-gov.md) _Context: Arab, Darfur, Sudan_
+8. [ Villagers in Abga Rajil, western Sudan, claim 56 people are killed in a raid by janjaweed militia. The UN says conflict in the Darfur area has displaced around a million people. ](/news/2004/05/23/villagers-in-abga-rajil-western-sudan-claim-56-people-are-killed-in-a-raid-by-janjaweed-militia-the-un-says-conflict-in-the-darfur-area.md) _Context: Darfur, Janjaweed, Sudan_
+9. [ The United Nations warns of an imminent humanitarian crisis in the Darfur region of Sudan, where it is alleged that Arabs are waging a campaign of ethnic cleansing against the African population. ](/news/2004/04/14/the-united-nations-warns-of-an-imminent-humanitarian-crisis-in-the-darfur-region-of-sudan-where-it-is-alleged-that-arabs-are-waging-a-camp.md) _Context: Arab, Darfur, Sudan_
+10. [According to the Sudanese electoral commission, more than 97% of voters in Darfur choose to remain as five states rather than form a single region. However, The vote was held amid ongoing insecurity and many of Sudan's 2.5 million displaced people were not registered to vote, with the U.S. State Department warning that the referendum could not be considered credible "under current rules and conditions". ](/news/2016/04/23/according-to-the-sudanese-electoral-commission-more-than-97-of-voters-in-darfur-choose-to-remain-as-five-states-rather-than-form-a-single.md) _Context: Darfur, Sudan_

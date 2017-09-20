@@ -43,7 +43,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 _Context: Costa Rica, San Jose, Costa Rica_
 
 ### [ In Myanmar (Burma), the government begins a trial against Khin Nyunt, former prime minister, accused of bribery and corruption. The trial is held inside Insein prison in Rangoon. ](/news/2005/07/12/in-myanmar-burma-the-government-begins-a-trial-against-khin-nyunt-former-prime-minister-accused-of-bribery-and-corruption-the-trial-i.md)
-_Context: Burmese, Insein Prison, Khin Nyunt, Yangon, anti-corruption, bribes_
+_Context: Insein Prison, Khin Nyunt, Myanmar, Yangon, anti-corruption, bribes_
 
 ### [ In Spain's Basque region, four bombs explode near a power station at Amorebieta near Bilbao. Separatist group ETA claims responsibility ](/news/2005/07/12/in-spain-s-basque-region-four-bombs-explode-near-a-power-station-at-amorebieta-near-bilbao-separatist-group-eta-claims-responsibility.md)
 _Context: Amorebieta, Basque, Bilbao, ETA, Spanish, power station_

@@ -22,7 +22,7 @@ _Context: Hamid Karzai, Kunar Province, Taliban, bomb, land mine, pickup truck_
 _Context: Ein Yabrud, Israel, Israeli settlement, Israeli-Palestinian conflict, Ofra, Palestinian, Ramallah, West Bank_
 
 ### [ Occupation of Iraq: A Fallujah roadside attack on a military convoy leaves an American armored car and munitions truck burning wrecks. No one was reported killed. Iraqis nearby were reportedly cheering. Emerging series of threats.](/news/2003/10/19/occupation-of-iraq-a-fallujah-roadside-attack-on-a-military-convoy-leaves-an-american-armored-car-and-munitions-truck-burning-wrecks-no-o.md)
-_Context: Fallujah, Iraq, armored car, convoy, munitions truck, occupation of Iraq_
+_Context: Fallujah, Iraq, Occupation of Iraq, armored car, convoy, munitions truck_
 
 ## [Previous Day...](/news/2003/10/18/index.md)
 

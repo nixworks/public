@@ -4,7 +4,7 @@
 _Context: Bolivian Gas War, Carlos Mesa, Gonzalo Snchez de Lozada, President of Bolivia_
 
 ### [ Occupation of Iraq: Four US troops and at least two police officers are killed in an ambush in Karbala and another incident in Iraq.](/news/2003/10/17/occupation-of-iraq-four-us-troops-and-at-least-two-police-officers-are-killed-in-an-ambush-in-karbala-and-another-incident-in-iraq.md)
-_Context: Karbala, occupation of Iraq_
+_Context: Karbala, Occupation of Iraq_
 
 ### [ China's economy grows at 9% in the latest period, on course to become the largest economy in the world by 2050.](/news/2003/10/17/china-s-economy-grows-at-9-in-the-latest-period-on-course-to-become-the-largest-economy-in-the-world-by-2050.md)
 _Context: China_

@@ -13,7 +13,7 @@ _Context: Al Qaida's, Iraq, Suicide bombers_
 _Context: French National Assembly, ban, hijab_
 
 ### [ The White House rebuts Democrats' accusations that Bush shirked his military responsibilities, releasing pay records for the President's National Guard service between May 1972 and May 1973.](/news/2004/02/10/the-white-house-rebuts-democrats-accusations-that-bush-shirked-his-military-responsibilities-releasing-pay-records-for-the-president-s-na.md)
-_Context: Democratic, George W. Bush, National Guard, White House_
+_Context: Democratic Party, George W. Bush, National Guard, White House_
 
 ### [ The oil cartel OPEC announces further limits on the output of crude by one million barrels a day beginning April 1, 2004. If all member states stick to the agreement, OPEC's daily output will be cut by about 10 percent.](/news/2004/02/10/the-oil-cartel-opec-announces-further-limits-on-the-output-of-crude-by-one-million-barrels-a-day-beginning-april-1-2004-if-all-member-sta.md)
 _Context: OPEC, crude oil_
@@ -25,7 +25,7 @@ _Context: Cap-Hatien, Haiti, United Nations_
 _Context: Gaza, Palestinian Authority_
 
 ### [ Occupation of Iraq: A large car bomb explodes in the central Iraqi town of Iskandariya, 25 mi south of Baghdad, killing at least 50 people.](/news/2004/02/10/occupation-of-iraq-a-large-car-bomb-explodes-in-the-central-iraqi-town-of-iskandariya-25-mi-south-of-baghdad-killing-at-least-50-people.md)
-_Context: Baghdad, Iskandariya, car bomb, occupation of Iraq_
+_Context: Baghdad, Iskandariya, Occupation of Iraq, car bomb_
 
 ### [ An Iranian airliner crashes on arrival at Sharjah airport in the United Arab Emirates, killing at least 35 people. A few people are thought to have survived.](/news/2004/02/10/an-iranian-airliner-crashes-on-arrival-at-sharjah-airport-in-the-united-arab-emirates-killing-at-least-35-people-a-few-people-are-thought.md)
 _Context: Iran, Sharjah International Airport, United Arab Emirates_
@@ -37,7 +37,7 @@ _Context: Gloria Macapagal Arroyo, Philippines, President, senators_
 _Context: Ivan Rybkin, Kiev, Ukraine_
 
 ### [ Canada's auditor-general, Sheila Fraser, releases a scathing report on a CA$250-million sponsorship fund that had a major portion of its funds directed to firms friendly to the ruling Liberal party; the resulting scandal and inquiry is quite likely to affect the coming election. Alfonso Gagliano, a former cabinet minister involved in the scandal, is removed from his post as ambassador to Denmark and recalled to Canada.](/news/2004/02/10/canada-s-auditor-general-sheila-fraser-releases-a-scathing-report-on-a-ca-250-million-sponsorship-fund-that-had-a-major-portion-of-its-fu.md)
-_Context: Alfonso Gagliano, CAN$, Liberal Party's, Sheila Fraser, audit, election, scandal_
+_Context: 2004 federal election, Alfonso Gagliano, CAN$, Liberal Party's, Sheila Fraser, audit, scandal_
 
 ## [Previous Day...](/news/2004/02/9/index.md)
 

@@ -7,7 +7,7 @@ _Context: Croatia, ICTY, Milan Babic, Republic of Serbian Krajina, crimes agains
 _Context: David Kay, Iraq, United States Senate, committee, inquiry, intelligence, intelligence failure_
 
 ### [ The Hutton Inquiry report is released, stating the suicide of Iraqi weapons expert David Kelly did not involve "dishonourable conduct" on the part of the United Kingdom's government and exonerates Prime Minister Tony Blair of any wrongdoing in Kelly's death. The BBC receives harsh criticism for the allegations within Andrew Gilligan's report on weapons of mass destruction and the BBC's subsequent backing of the report. Gavyn Davies takes full responsibility for any wrongdoing and resigns as the Chairman of the Board of Governors of the BBC.](/news/2004/01/28/the-hutton-inquiry-report-is-released-stating-the-suicide-of-iraqi-weapons-expert-david-kelly-did-not-involve-dishonourable-conduct-on-t.md)
-_Context: Andrew Gilligan, BBC, David Christopher Kelly, Gavyn Davies, Hutton inquiry, Iraq, Prime Minister, Tony Blair, suicide, weapons of mass destruction_
+_Context: Andrew Gilligan, BBC, David Christopher Kelly, Gavyn Davies, Hutton Inquiry, Iraq, Prime Minister, Tony Blair, suicide, weapons of mass destruction_
 
 ### [ The discovery of a new form of matter, Fermionic condensate, has been announced.](/news/2004/01/28/the-discovery-of-a-new-form-of-matter-fermionic-condensate-has-been-announced.md)
 _Context: Fermionic condensate_

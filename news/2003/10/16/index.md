@@ -1,7 +1,7 @@
 ## [2003-10-16](/news/2003/10/16/index.md)
 
 ### [ Occupation of Iraq: The UN Security Council unanimously approves a new US resolution on Iraq. Russia, Germany and France back the resolution but will not provide troops or money. A survey indicates poor morale amongst the US troops serving in Iraq.](/news/2003/10/16/occupation-of-iraq-the-un-security-council-unanimously-approves-a-new-us-resolution-on-iraq-russia-germany-and-france-back-the-resolutio.md)
-_Context: Iraq, UN Security Council, occupation of Iraq_
+_Context: Iraq, Occupation of Iraq, UN Security Council_
 
 ### [ President Bush re-affirms his intention to pressure China and Japan into fair policies re their exchange rates. China's trade surplus is shrinking as imports surge. At the same time India is wrestling with the implications of the sustained appreciation of the rupee against the dollar.](/news/2003/10/16/president-bush-re-affirms-his-intention-to-pressure-china-and-japan-into-fair-policies-re-their-exchange-rates-china-s-trade-surplus-is-sh.md)
 ### [ Tens of thousands of Catholics attend Mass celebrating the 25th anniversary of Pope John Paul&nbsp;II in Rome. The Pope will beatify Mother Teresa on Sunday, October 19, and install 30 new Cardinals on Tuesday, October 21.](/news/2003/10/16/tens-of-thousands-of-catholics-attend-mass-celebrating-the-25th-anniversary-of-pope-john-paul-nbsp-ii-in-rome-the-pope-will-beatify-mother.md)

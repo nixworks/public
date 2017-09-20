@@ -10,7 +10,7 @@ _Context: Iraq, South Korea_
 _Context: File sharing, Mainsoft, Microsoft, Windows 2000, Windows NT 4, code_
 
 ### [ Occupation of Iraq: General John Abizaid, commander of U.S. forces in the Middle East, escapes injury when his convoy is attacked in Fallujah.](/news/2004/02/12/occupation-of-iraq-general-john-abizaid-commander-of-u-s-forces-in-the-middle-east-escapes-injury-when-his-convoy-is-attacked-in-falluj.md)
-_Context: Fallujah, John Abizaid, occupation of Iraq_
+_Context: Fallujah, John Abizaid, Occupation of Iraq_
 
 ### [ City officials in San Francisco, California, start issuing marriage licenses to same-sex couples, performing the first known civil marriage of a same-sex couple in the U.S. by marrying a lesbian couple, gay rights activists Del Martin and Phyllis Lyon. Over 80 couples whisked through quick ceremonies. Various conservative and other family groups, including the Campaign for California Families, plan to sue the mayor of San Francisco for violating California's marriage laws. The Family Research Council (FRC) states that ""It could not be clearer that the institution of marriage is under a direct assault by homosexual activists"". Virginia House of Delegates give preliminary approval to legislation that would ban the recognition of same-sex civil unions and domestic partnerships.](/news/2004/02/12/city-officials-in-san-francisco-california-start-issuing-marriage-licenses-to-same-sex-couples-performing-the-first-known-civil-marriage.md)
 _Context: California, Campaign for California Families, Del Martin and Phyllis Lyon, Family Research Council, San Francisco, California, Virginia House of Delegates, activist, bans, civil union, conservative, domestic partnership, gay, lesbian, mayor, permit_

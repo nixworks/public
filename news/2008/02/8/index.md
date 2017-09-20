@@ -16,7 +16,7 @@ _Context: Hamas, Israel_
 _Context: Egg, Austria, nursing home_
 
 ### [ A student shoots two students and kills herself at Louisiana Technical College in Baton Rouge, Louisiana. ](/news/2008/02/8/a-student-shoots-two-students-and-kills-herself-at-louisiana-technical-college-in-baton-rouge-louisiana.md)
-_Context: Baton Rouge, Louisiana Technical College_
+_Context: Baton Rouge, Louisiana, Louisiana Technical College_
 
 ### [ Scotland Yard detectives investigating the death of former Prime Minister of Pakistan Benazir Bhutto say that she died from the effect of a bomb blast not gunfire. ](/news/2008/02/8/scotland-yard-detectives-investigating-the-death-of-former-prime-minister-of-pakistan-benazir-bhutto-say-that-she-died-from-the-effect-of-a.md)
 _Context: Benazir Bhutto, Prime Minister, Scotland Yard, detective, suicide bombing_

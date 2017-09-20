@@ -1,0 +1,19 @@
+## [2004-07-31](/news/2004/07/31/index.md)
+
+### [ A plea bargain in a US court reveals details of an alleged Libyan plot to assassinate Saudi Arabian Crown Prince Abdullah. Leading US Muslim activist Abdurahman Alamoudi, founder of the American Muslim Council, admits taking part in the plot, as he pleads guilty to three charges of illegal dealings with Libya. US Attorney General John Ashcroft says the case has provided "critical intelligence" in the war on terror. ](/news/2004/07/31/a-plea-bargain-in-a-us-court-reveals-details-of-an-alleged-libyan-plot-to-assassinate-saudi-arabian-crown-prince-abdullah-leading-us-musli.md)
+_Context: Abdullah, Abdurahman Alamoudi, American Muslim Council, John Ashcroft, Libya, Saudi Arabia, War on Terror, plea bargain_
+
+### [ The Olympic Stadium in Berlin is given a new lease of life after a four-year renovation. The stadium is to stage the Football World Cup 2006 final, Germany's biggest sporting spectacle since reunification, exactly 70 years after the infamous Nazi Olympics. ](/news/2004/07/31/the-olympic-stadium-in-berlin-is-given-a-new-lease-of-life-after-a-four-year-renovation-the-stadium-is-to-stage-the-football-world-cup-200.md)
+_Context: Berlin, Nazi Olympics, Olympic Stadium, World Cup_
+
+### [ Valve & Sierra's joint WON system was permanently shut down, and replaced by VALVE's new Steam Client. Steam (software)](/news/2004/07/31/valve-sierra-s-joint-won-system-was-permanently-shut-down-and-replaced-by-valve-s-new-steam-client-steam-software.md)
+_Context: Steam, Valve Corporation, WON_
+
+### [ The Vatican denounces feminism, claiming that it would blur differences between men and women and threatens the institution of the traditional family of one man and one woman, stating that the drive for equality makes "homosexuality and heterosexuality virtually equivalent, in a new model of polymorphous sexuality". ](/news/2004/07/31/the-vatican-denounces-feminism-claiming-that-it-would-blur-differences-between-men-and-women-and-threatens-the-institution-of-the-traditio.md)
+_Context: family, feminist, heterosexuality, homosexuality, sexuality_
+
+### [ Iran states that it has resumed building nuclear centrifuges to enrich uranium, reversing an October 2003 pledge to Britain, France and Germany to suspend all uranium enrichment-related activities. The United States contends that the purpose is to produce weapons grade uranium. ](/news/2004/07/31/iran-states-that-it-has-resumed-building-nuclear-centrifuges-to-enrich-uranium-reversing-an-october-2003-pledge-to-britain-france-and-ger.md)
+Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+
+## [Previous Day...](/news/2004/07/30/index.md)
+

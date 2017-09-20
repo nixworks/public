@@ -10,13 +10,13 @@ _Context: Apple Computer_
 _Context: Iran, Khorasan province, Nishapur, fertiliser, petrol, sulfur_
 
 ### [ Occupation of Iraq: Suicide bombers in two vehicles killed 11 Iraqis and wounded 58 foreign troops and 44 Iraqis near the entrance to a Polish-manned coalition logistics base near the town of Hilla in central Iraq south of Baghdad. ](/news/2004/02/18/occupation-of-iraq-suicide-bombers-in-two-vehicles-killed-11-iraqis-and-wounded-58-foreign-troops-and-44-iraqis-near-the-entrance-to-a-pol.md)
-_Context: Baghdad, Hilla, Iraq, Polish, Suicide bombers, occupation of Iraq_
+_Context: Baghdad, Hilla, Iraq, Occupation of Iraq, Polish, Suicide bombers_
 
 ### [ Howard Dean officially ends his campaign for President of the United States, after placing a distant third in the Wisconsin primary elections of February 17, 2004. ""I am no longer actively pursuing the presidency,"" he announced.](/news/2004/02/18/howard-dean-officially-ends-his-campaign-for-president-of-the-united-states-after-placing-a-distant-third-in-the-wisconsin-primary-electio.md)
 _Context: Howard Dean, President, Wisconsin, primary election_
 
 ### [ Opinion poll results indicate either of the two main Democratic presidential candidates would beat President Bush by at least 10 points. ](/news/2004/02/18/opinion-poll-results-indicate-either-of-the-two-main-democratic-presidential-candidates-would-beat-president-bush-by-at-least-10-points.md)
-_Context: Democratic, George W. Bush, opinion poll_
+_Context: Democratic Party, George W. Bush, opinion poll_
 
 ### [ Israel is condemned by the International Committee of the Red Cross for the location of the Israeli West Bank barrier. The aid agency declared that the barrier at its current position was contrary to international humanitarian law and had caused extensive damage to Palestinian land and property and deprived thousands of Palestinians access to water, health care and education. ](/news/2004/02/18/israel-is-condemned-by-the-international-committee-of-the-red-cross-for-the-location-of-the-israeli-west-bank-barrier-the-aid-agency-decla.md)
 _Context: International Committee of the Red Cross, Israel, Palestinian, barrier_

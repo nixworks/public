@@ -26,7 +26,7 @@ _Context: Fermi National Accelerator Laboratory, subatomic particle_
 _Context: Centers for Disease Control, flu, vaccination_
 
 ### [ Occupation of Iraq: The United Kingdom is reportedly pushing for a changed approach in Iraq that goes beyond military strategy to reach out to the Iraqi people and the country's neighbours.](/news/2003/11/18/occupation-of-iraq-the-united-kingdom-is-reportedly-pushing-for-a-changed-approach-in-iraq-that-goes-beyond-military-strategy-to-reach-out.md)
-_Context: occupation of Iraq_
+_Context: Occupation of Iraq_
 
 ### [ The United Nations suspends operations in south-eastern Afghanistan following the fatal 16 November shooting of Bettina Goislard, a French employee of the UNHCR.](/news/2003/11/18/the-united-nations-suspends-operations-in-south-eastern-afghanistan-following-the-fatal-16-november-shooting-of-bettina-goislard-a-french.md)
 _Context: Afghanistan, Bettina Goislard, UNHCR, United Nations_

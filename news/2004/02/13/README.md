@@ -19,7 +19,7 @@ _Context: Ivan Rybkin, Vladimir Putin_
 _Context: George W. Bush_
 
 ### [ Democratic presidential nomination: Former Democratic candidate for the U.S. presidency Gen. Wesley K. Clark endorses current Democratic favorite Senator John Kerry.](/news/2004/02/13/democratic-presidential-nomination-former-democratic-candidate-for-the-u-s-presidency-gen-wesley-k-clark-endorses-current-democratic-fa.md)
-_Context: Democratic, Democratic presidential nomination, John Kerry, Wesley K. Clark_
+_Context: Democratic Party, Democratic presidential nomination, John Kerry, Wesley K. Clark_
 
 ### [ Greek and Turkish Cypriot leaders accept United Nations Secretary General Kofi Annan's plan for ending the partition of the island of Cyprus. The two sides will work under a tight timetable to agree by March 22 on reunification language that can be put to simultaneous islandwide referendums on April 21. Unless reunification is achieved, only the Greek Cypriot government will be entitled to enter the European Union on May 1.](/news/2004/02/13/greek-and-turkish-cypriot-leaders-accept-united-nations-secretary-general-kofi-annan-s-plan-for-ending-the-partition-of-the-island-of-cypru.md)
 _Context: Cyprus, EU, Kofi Annan, Republic of Cyprus, TRNC, United Nations Secretary-General, referendum_
@@ -31,7 +31,7 @@ _Context: Abdul Qadeer Khan, IAEA, Iran, centrifuge, uranium_
 _Context: Gaza, Israel, Palestinian, West Bank_
 
 ### [ Occupation of Iraq: South Korea's parliament on Friday approves sending 3,000 troops to Iraq, responding to a call from the United States for military help in restoring stability to Iraq.<ref name="auto"/>](/news/2004/02/13/occupation-of-iraq-south-korea-s-parliament-on-friday-approves-sending-3-000-troops-to-iraq-responding-to-a-call-from-the-united-states-f.md)
-_Context: Iraq, South Korea, occupation of Iraq_
+_Context: Iraq, Occupation of Iraq, South Korea_
 
 ### [ The European Union anti-fraud office (OLAF) is studying documents suggesting that Yasser Arafat and the Palestinian Authority diverted tens of millions of dollars in EU funds to organizations involved in terrorism. "... some of the money reportedly went to the Al-Aqsa Martyrs Brigades, which has been involved in terror strikes." Their final report is expected in two months.](/news/2004/02/13/the-european-union-anti-fraud-office-olaf-is-studying-documents-suggesting-that-yasser-arafat-and-the-palestinian-authority-diverted-tens.md)
 _Context: Al-Aqsa Martyrs' Brigades, EU, OLAF, Palestinian Authority, Yasser Arafat, terrorism_

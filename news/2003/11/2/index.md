@@ -1,7 +1,7 @@
 ## [2003-11-2](/news/2003/11/2/index.md)
 
 ### [ Occupation of Iraq: In the heaviest single loss for the coalition troops since cessation of the military campaign in Iraq two US Chinook helicopters are fired on by two surface-to-air missiles and one crashes near Fallujah and on its way to Baghdad airport; 16 soldiers are killed and 20 wounded. A blast damages an oil pipeline near Kirkuk, north of Baghdad.](/news/2003/11/2/occupation-of-iraq-in-the-heaviest-single-loss-for-the-coalition-troops-since-cessation-of-the-military-campaign-in-iraq-two-us-chinook-he.md)
-_Context: CH-47 Chinook, Iraq, Kirkuk, occupation of Iraq, surface-to-air missile_
+_Context: CH-47 Chinook, Iraq, Kirkuk, Occupation of Iraq, surface-to-air missile_
 
 ### [ War on Terrorism: The "New York Times" reports that militant Muslim recruits are ""streaming into Iraq"" and answering the call of Osama bin Laden and other extremists. These individuals are joining the fight against the coalition's occupation in Iraq, state counterterrorism officials. Intelligence officials (in six countries) have detected an estimate of hundreds of militant young Muslims from various countries headed for Iraq (primarily by crossing the Syrian or Iranian borders).](/news/2003/11/2/war-on-terrorism-the-new-york-times-reports-that-militant-muslim-recruits-are-streaming-into-iraq-and-answering-the-call-of-osama-bi.md)
 _Context: Iran, Iraq, Osama bin Laden, Syria, War on Terrorism, militant_

@@ -10,7 +10,7 @@ _Context: Dick Roche, Dublin, Irish, Minister of State, RT, garda, perjury_
 _Context: Iraq_
 
 ### [ Occupation of Iraq: Nine United States soldiers are reported killed after a Black Hawk helicopter makes an emergency landing near the central Iraqi town of Falluja.](/news/2004/01/8/occupation-of-iraq-nine-united-states-soldiers-are-reported-killed-after-a-black-hawk-helicopter-makes-an-emergency-landing-near-the-centr.md)
-_Context: UH-60 Black Hawk, occupation of Iraq_
+_Context: Occupation of Iraq, UH-60 Black Hawk_
 
 ### [ The Carnegie Endowment for International Peace publishes a report accusing the United States of "systematically misrepresenting" the threat posed by "Iraq's weapons of mass destruction".](/news/2004/01/8/the-carnegie-endowment-for-international-peace-publishes-a-report-accusing-the-united-states-of-systematically-misrepresenting-the-threat.md)
 _Context: Carnegie Endowment for International Peace_

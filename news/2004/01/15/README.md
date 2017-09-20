@@ -13,7 +13,7 @@ _Context: Yoon Young-kwan_
 _Context: EU, World Trade Organization, anti-dumping, trade sanctions_
 
 ### [ Canadian federal election, 2004: Former Ontario Health Minister Tony Clement declares his candidacy for the leadership of the Conservative Party of Canada. Also confirmed is the candidacy of auto parts magnate Belinda Stronach, who will announce her entry into the leadership race next week.](/news/2004/01/15/canadian-federal-election-2004-former-ontario-health-minister-tony-clement-declares-his-candidacy-for-the-leadership-of-the-conservative.md)
-_Context: Belinda Stronach, Conservative Party's, Ontario, Tony Clement, election_
+_Context: 2004 federal election, Belinda Stronach, Conservative Party's, Ontario, Tony Clement_
 
 ### [ Italy has indicted three Germans, all former members of an SS Panzergrenadier Division, on charges of massacring 560 people in 1944 in the Italian village of Sant'Anna di Stazzema. The three Germans, Gerhard Sommer, 83; Alfred Schonenberg, 83; and Ludwig Sonntag, 80, are currently living in Germany. It is not clear whether Italy will request the three men's extradition from Germany.](/news/2004/01/15/italy-has-indicted-three-germans-all-former-members-of-an-ss-panzergrenadier-division-on-charges-of-massacring-560-people-in-1944-in-the.md)
 _Context: Alfred Schonenberg, Gerhard Sommer, Ludwig Sonntag, Panzergrenadier Division, Sant'Anna di Stazzema, Waffen-SS, extradited_
@@ -22,7 +22,7 @@ _Context: Alfred Schonenberg, Gerhard Sommer, Ludwig Sonntag, Panzergrenadier Di
 _Context: 2004 U.S. presidential candidate, Carol Moseley Braun, Howard Dean, The Daily Show_
 
 ### [ The date for the publication of the Hutton Inquiry's report into the death of British weapons scientist Dr David Kelly is announced as January 28, 2004.](/news/2004/01/15/the-date-for-the-publication-of-the-hutton-inquiry-s-report-into-the-death-of-british-weapons-scientist-dr-david-kelly-is-announced-as-janu.md)
-_Context: Dr David Kelly, Hutton inquiry_
+_Context: Dr David Kelly, Hutton Inquiry_
 
 ### [ The creditors of ailing Finnish low-cost carrier Flying Finn have threatened to confiscate the airline's planes.](/news/2004/01/15/the-creditors-of-ailing-finnish-low-cost-carrier-flying-finn-have-threatened-to-confiscate-the-airline-s-planes.md)
 _Context: Flying Finn, low-cost airline_

@@ -8,3 +8,4 @@
 ### Related:
 
 1. [ Cartoon Network's hit action-animated programming block Toonami went completely off the air.](/news/2008/09/20/cartoon-network-s-hit-action-animated-programming-block-toonami-went-completely-off-the-air.md) _Context: Cartoon Network_
+2. [ Cartoon Network relaunches itself with a new logo and slogan "This is Cartoon Network."](/news/2004/06/14/cartoon-network-relaunches-itself-with-a-new-logo-and-slogan-this-is-cartoon-network.md) _Context: Cartoon Network_

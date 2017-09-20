@@ -31,7 +31,7 @@ _Context: Buckingham Palace, George W. Bush, The Daily Mirror, injunction, journ
 _Context: Garry Kasparov, X3D Fritz, chess_
 
 ### [ UEFA: The final five qualifying countries for the 2004 European Football Championship are settled, with Latvia astonishingly defeating Turkey 3-2 on aggregate over two games.](/news/2003/11/19/uefa-the-final-five-qualifying-countries-for-the-2004-european-football-championship-are-settled-with-latvia-astonishingly-defeating-turk.md)
-_Context: 2004 European Football Championship, Latvia, Turkey, UEFA_
+_Context: Euro 2004, Latvia, Turkey, UEFA_
 
 ### [ London Bridge Tower, set to become the tallest skyscraper in Western Europe, is granted full planning permission by the Deputy Prime Minister John Prescott.](/news/2003/11/19/london-bridge-tower-set-to-become-the-tallest-skyscraper-in-western-europe-is-granted-full-planning-permission-by-the-deputy-prime-minist.md)
 _Context: John Prescott, London Bridge Tower_

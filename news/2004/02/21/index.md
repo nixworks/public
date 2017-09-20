@@ -7,7 +7,7 @@ _Context: 2004 presidential election_
 _Context: Guantnamo Bay detainment camp, Human rights, MP, Tony Blair, terrorism_
 
 ### [ 2004 European Parliament election: The first pan-European political party organization, the European Greens, is established in Rome. ](/news/2004/02/21/2004-european-parliament-election-the-first-pan-european-political-party-organization-the-european-greens-is-established-in-rome.md)
-_Context: 2004 European Parliament election, European Greens, political party_
+_Context: European Greens, European Parliament election, political party_
 
 ### [ Early results from Iran's parliamentary elections show conservative candidates get victory over reformists. ](/news/2004/02/21/early-results-from-iran-s-parliamentary-elections-show-conservative-candidates-get-victory-over-reformists.md)
 _Context: Iran's parliamentary elections, reformist_

@@ -8,7 +8,7 @@ _Context: Pandurang Shastri Athavale_
 _Context: 2003 World Series, Florida Marlins, New York Yankees, World Series, baseball game_
 
 ### [ Occupation of Iraq: A US Blackhawk helicopter is brought down near Tikrit by Iraqi militants. The Daily Star Lebanon reports that the US is effectively plundering Iraq following the occupation. The daily average of attacks on US troops rises and reaches about 25-26 per day. 100,000 march against the occupation of Iraq in Washington DC.](/news/2003/10/25/occupation-of-iraq-a-us-blackhawk-helicopter-is-brought-down-near-tikrit-by-iraqi-militants-the-daily-star-lebanon-reports-that-the-us-is.md)
-_Context: Iraq, Tikrit, UH-60 Black Hawk, occupation of Iraq_
+_Context: Iraq, Occupation of Iraq, Tikrit, UH-60 Black Hawk_
 
 ### [ Tony Blair announces that the UK will press ahead with GM technology.](/news/2003/10/25/tony-blair-announces-that-the-uk-will-press-ahead-with-gm-technology.md)
 _Context: GM technology_

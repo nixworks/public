@@ -22,7 +22,7 @@ _Context: Color Magic, Germany, Kiel, Veronica Ferres, cruise ferry_
 _Context: Ernest Bai Koroma, Sierra Leone, injunction, main opposition party, run-off election_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid weakens to a tropical depression. ](/news/2007/09/15/2007-atlantic-hurricane-season-tropical-storm-ingrid-weakens-to-a-tropical-depression.md)
-_Context: 2007 Atlantic hurricane season, tropical depression_
+_Context: 2007, tropical depression_
 
 ### [ At least 10 people are killed and 15 wounded in a suicide bombing outside a Baghdad bakery as residents prepared to break their Ramadan fast. ](/news/2007/09/15/at-least-10-people-are-killed-and-15-wounded-in-a-suicide-bombing-outside-a-baghdad-bakery-as-residents-prepared-to-break-their-ramadan-fas.md)
 Ten people were killed and 15 hurt when a suicide bomber blew up his car outside a bakery in south-west Baghdad Saturday evening (local time) as Muslims were preparing to break the Ramadan fast, officials said.

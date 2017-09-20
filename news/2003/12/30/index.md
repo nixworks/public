@@ -7,7 +7,7 @@ _Context: Bologna, EU, European Central Bank, European Commission, Europol, Fran
 _Context: Food and Drug Administration, dietary supplements, drug, ephedra_
 
 ### [U.S. Attorney General John Ashcroft recuses himself and his office from the CIA leak scandal, in which the identity of Valerie Plame, a CIA operative, was leaked by Washington insiders. Democratic political leaders had been calling for Ashcroft's recusal. [http://www.cnn.com/2003/ALLPOLITICS/12/30/ashcroft.cia.leaks.reut/index.html]](/news/2003/12/30/u-s-attorney-general-john-ashcroft-recuses-himself-and-his-office-from-the-cia-leak-scandal-in-which-the-identity-of-valerie-plame-a-cia.md)
-_Context: CIA, Democrat, District of Columbia, John Ashcroft, U.S. Attorney General, Valerie Plame, recuses_
+_Context: CIA, Democratic, District of Columbia, John Ashcroft, U.S. Attorney General, Valerie Plame, recuses_
 
 ### [The man who was convicted of breaking into mainland China cable television networks and broadcasting footage of the banned Falun Gong, an alleged cult, reportedly dies in prison. Pro-Falun Gong groups and the Hong Kong-based Information Centre for Human Rights and Democracy claim he was beaten to death.[http://news.bbc.co.uk/2/hi/asia-pacific/3356699.stm]](/news/2003/12/30/the-man-who-was-convicted-of-breaking-into-mainland-china-cable-television-networks-and-broadcasting-footage-of-the-banned-falun-gong-an-al.md)
 _Context: Falun Gong, Hong Kong, Information Centre for Human Rights and Democracy, cult, mainland China_

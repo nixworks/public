@@ -1,6 +1,6 @@
 ### [2017-09-19](/news/2017/09/19/index.md)
 
-# A magnitude 7.1 earthquake strikes Mexico, causing the collapse of 29 buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake.
+# A magnitude 7.1 earthquake strikes Mexico, causing the collapse of 29 buildings in Mexico City and widespread evacuations, hours after a yearly earthquake drill in commemoration of the 1985 Mexico earthquake. 
 
 
 

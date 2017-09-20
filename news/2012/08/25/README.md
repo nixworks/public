@@ -16,7 +16,7 @@ _Context: Balkans, Nis, Russia, Serbia, Wildfire, drought, fire fighting aircraf
 At least 3 dead in Haiti; Forecasters say storm with 60-mph winds will build strength into Category 1 hurricane as it approaches Sunshine State; Florida Gov. Scott declares state of emergency
 
 ### [At least 85,000 people are displaced in Myanmar as weeks of heavy rain contribute to severe flooding in the Irrawaddy Delta. ](/news/2012/08/25/at-least-85-000-people-are-displaced-in-myanmar-as-weeks-of-heavy-rain-contribute-to-severe-flooding-in-the-irrawaddy-delta.md)
-_Context: Burmese, Irrawaddy Delta_
+_Context: Irrawaddy Delta, Myanmar_
 
 ### [A gas-leak blast at the Paraguana Refinery Complex in Amuay, in north Venezuela kills at least 39 people and injures more than 80. ](/news/2012/08/25/a-gas-leak-blast-at-the-paraguana-refinery-complex-in-amuay-in-north-venezuela-kills-at-least-39-people-and-injures-more-than-80.md)
 _Context: Amuay, Paraguana Refinery Complex, Venezuela_

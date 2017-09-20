@@ -19,7 +19,7 @@ _Context: regional bank_
 _Context: Foreign Minister, Georgian, Iribnews.com, Tedo Dzhaparidze_
 
 ### [ Occupation of Iraq: Two South Korean civilians working for a US firm are killed on a highway near Tikrit.](/news/2003/11/30/occupation-of-iraq-two-south-korean-civilians-working-for-a-us-firm-are-killed-on-a-highway-near-tikrit.md)
-_Context: South Korea, Tikrit, occupation of Iraq_
+_Context: Occupation of Iraq, South Korea, Tikrit_
 
 ### [ There is evidence that the tuberculosis drug D-cycloserine may be the first effective agent for the treatment of phobias.](/news/2003/11/30/there-is-evidence-that-the-tuberculosis-drug-d-cycloserine-may-be-the-first-effective-agent-for-the-treatment-of-phobias.md)
 _Context: D-cycloserine, phobia, tuberculosis_
@@ -31,7 +31,7 @@ _Context: India, Pakistan_
 _Context: Cincinnati, Ohio, Hamilton County, acute PCP intoxication, autopsy, baton, blood, cocaine, coronial, heart, police, riots, video, videotape_
 
 ### [ The draw is made for the 2004 European Football Championship. England are drawn with holders France, and hosts Portugal are drawn with neighbours Spain.](/news/2003/11/30/the-draw-is-made-for-the-2004-european-football-championship-england-are-drawn-with-holders-france-and-hosts-portugal-are-drawn-with-neig.md)
-_Context: 2004 European Football Championship, Portugal, Spanish_
+_Context: Euro 2004, Portugal, Spanish_
 
 ### [ In tennis, Australia wins the Davis Cup by three rubbers to one when Mark Philippoussis defeats Juan Carlos Ferrero of Spain in the first reverse singles match, played in Melbourne. It is the 28th time Australia has won the trophy, the most prestigious title in men's team tennis.](/news/2003/11/30/in-tennis-australia-wins-the-davis-cup-by-three-rubbers-to-one-when-mark-philippoussis-defeats-juan-carlos-ferrero-of-spain-in-the-first-r.md)
 _Context: Davis Cup, Juan Carlos Ferrero, Mark Philippoussis, Melbourne, Spanish, tennis_

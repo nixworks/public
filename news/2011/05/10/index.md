@@ -55,7 +55,7 @@ _Context: Philippines, Tropical Storm Bebeng_
 _Context: China, Sichuan, deadly earthquake_
 
 ### [Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.md)
-_Context: Baton Rouge, Mississippi River, Simmesport, Louisiana, United States Army Corps of Engineers, refinery_
+_Context: Baton Rouge, Louisiana, Mississippi River, Simmesport, Louisiana, United States Army Corps of Engineers, refinery_
 
 ### [East Timor rejected Chinese plans to build a radar on its territory in 2007, due to fears it would be used for intelligence purposes, according to Wikileaks. ](/news/2011/05/10/east-timor-rejected-chinese-plans-to-build-a-radar-on-its-territory-in-2007-due-to-fears-it-would-be-used-for-intelligence-purposes-accord.md)
 _Context: China, East Timor, WikiLeaks_

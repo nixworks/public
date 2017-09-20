@@ -1,0 +1,24 @@
+### [2004-04-14](/news/2004/04/14/index.md)
+
+#  U.S. presidential election : An advertisement for John Kerry placed in a newspaper in Gulfport, Florida by a local Democratic Party club gets negative national publicity, as it suggests shooting United States Secretary of Defense Donald Rumsfeld. The ad was placed by the Saint Petersburg Democratic Club of Florida, and has been condemned by both Republicans and Democrats, including Kerry's campaign. 
+
+
+
+
+### Source:
+
+1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/04/13/dem.ad/index.html)
+2. [Washington Times](http://washingtontimes.com/national/20040414-123947-2345r.htm)
+
+### Related:
+
+1. [ U.S. presidential election, 2004: The Iowa caucuses yield unexpectedly strong results for Democratic candidates John Kerry, who earns 38% of the state's delegates and John Edwards, who takes 32%. Former front-runner Howard Dean slips to 18%, and Richard A. "Dick" Gephardt's fourth-place (11%) finish prompts him to end his presidential bid.](/news/2004/01/19/u-s-presidential-election-2004-the-iowa-caucuses-yield-unexpectedly-strong-results-for-democratic-candidates-john-kerry-who-earns-38-o.md) _Context: 2004 U.S. presidential candidate, Democratic Party, John Kerry_
+2. [ U.S. presidential election, 2004: Senator Bob Graham of Florida announces his candidacy for the Democratic Party nomination of President.](/news/2003/02/27/u-s-presidential-election-2004-senator-bob-graham-of-florida-announces-his-candidacy-for-the-democratic-party-nomination-of-president.md) _Context: 2004 U.S. presidential candidate, Democratic Party, Florida_
+3. [ Former United States Secretary of Defense Donald Rumsfeld is accused of quoting the Bible while briefing then-President George W. Bush. ](/news/2009/05/18/former-united-states-secretary-of-defense-donald-rumsfeld-is-accused-of-quoting-the-bible-while-briefing-then-president-george-w-bush.md) _Context: Defense Secretary, Donald Rumsfeld_
+4. [ United States District Court Judge Thomas Hogan dismisses a case of alleged torture against former United States Secretary of Defense Donald Rumsfeld brought by nine former prisoners in Iraq and Afghanistan. ](/news/2007/03/27/united-states-district-court-judge-thomas-hogan-dismisses-a-case-of-alleged-torture-against-former-united-states-secretary-of-defense-donal.md) _Context: Defense Secretary, Donald Rumsfeld_
+5. [ Leaked Pentagon memo by United States Secretary of Defense Donald Rumsfeld says US policy in Iraq is "not working well enough or fast enough." ](/news/2006/12/2/leaked-pentagon-memo-by-united-states-secretary-of-defense-donald-rumsfeld-says-us-policy-in-iraq-is-not-working-well-enough-or-fast-enoug.md) _Context: Defense Secretary, Donald Rumsfeld_
+6. [ Rep. Mark Foley, R-Fla., resigns from the United States House of Representatives in the wake of questions about e-mails and instant messages he wrote to a former Capitol page. ](/news/2006/09/29/rep-mark-foley-r-fla-resigns-from-the-united-states-house-of-representatives-in-the-wake-of-questions-about-e-mails-and-instant-message.md) _Context: Florida, Republican_
+7. [ The United States Secretary of Defense Donald Rumsfeld likens Venezuela's President Hugo Chavez to Adolf Hitler. In retaliation, Venezuelan Vice President Jose Vicente Rangel refers to the US as the Third Reich. ](/news/2006/02/3/the-united-states-secretary-of-defense-donald-rumsfeld-likens-venezuela-s-president-hugo-cha-vez-to-adolf-hitler-in-retaliation-venezuela.md) _Context: Defense Secretary, Donald Rumsfeld_
+8. [ Liberal Democrat MEP for London, Sarah Ludford, who is leading a European Parliament investigation into the U.S. policy of "extraordinary rendition", says she may invite Vice President of the United States Dick Cheney, United States Secretary of Defense Donald Rumsfeld or United States Secretary of State Condoleezza Rice to testify. ](/news/2006/01/26/liberal-democrat-mep-for-london-sarah-ludford-who-is-leading-a-european-parliament-investigation-into-the-u-s-policy-of-extraordinary-r.md) _Context: Defense Secretary, Donald Rumsfeld_
+9. [ Major areas of the Australian city of Adelaide have been "locked down" ahead of the arrival of United States Secretary of Defense Donald Rumsfeld for the 17th annual AUS-MIN meeting. ](/news/2005/11/16/major-areas-of-the-australian-city-of-adelaide-have-been-locked-down-ahead-of-the-arrival-of-united-states-secretary-of-defense-donald-ru.md) _Context: Defense Secretary, Donald Rumsfeld_
+10. [ U.S. presidential election: Several Democratic Party members of the U.S. House of Representatives request that the United Nations send observers to monitor the November 2 presidential election, citing the disputed 2000 presidential outcome. ](/news/2004/07/2/u-s-presidential-election-several-democratic-party-members-of-the-u-s-house-of-representatives-request-that-the-united-nations-send-obse.md) _Context: 2004 U.S. presidential candidate, Democratic Party_

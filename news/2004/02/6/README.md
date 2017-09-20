@@ -31,7 +31,7 @@ _Context: Council of Guardians, Iran_
 _Context: Anton Piller order, Brilliant Digital Entertainment, Music Industry Piracy Investigations, P2P, Sharman Networks, broadband providers, executive_
 
 ### [ Democratic Presidential Primaries: Howard Dean tells his supporters that he must win the Wisconsin Democratic primary in order to stay in the Democratic presidential race.](/news/2004/02/6/democratic-presidential-primaries-howard-dean-tells-his-supporters-that-he-must-win-the-wisconsin-democratic-primary-in-order-to-stay-in-t.md)
-_Context: Democratic, Democratic Presidential Primaries, Howard Dean, Wisconsin, primary_
+_Context: Democratic Party, Democratic Presidential Primaries, Howard Dean, Wisconsin, primary_
 
 ### [ Electronic voting: The U.S. military abandons plans for a trial of Internet voting (Secure Electronic Registration and Voting Experiment) in the upcoming presidential election.](/news/2004/02/6/electronic-voting-the-u-s-military-abandons-plans-for-a-trial-of-internet-voting-secure-electronic-registration-and-voting-experiment-i.md)
 _Context: 2004 U.S. presidential candidate, Secure Electronic Registration and Voting Experiment, election system_

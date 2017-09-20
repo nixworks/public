@@ -1,0 +1,24 @@
+### [2004-06-15](/news/2004/06/15/index.md)
+
+#  Apple Computer launches its iTunes Music Store digital music service in the United Kingdom, France and Germany. The price for a single track will be 79 pence or 99 euro cents. 
+
+
+
+
+### Source:
+
+1. [Forbes](https://web.archive.org/web/20040618060815/http://www.forbes.com/business/healthcare/feeds/ap/2004/06/15/ap1414245.html)
+2. [The Register](http://www.theregister.com/2004/06/15/apple_itunes_europe/)
+
+### Related:
+
+1. [ A rare signed copy of Adolf Hitler's "Mein Kampf" sells at the Mullock's auction at Ludlow Racecourse, Shropshire, for GBP21,000 (EUR24,400). ](/news/2009/08/13/a-rare-signed-copy-of-adolf-hitleras-mein-kampf-sells-at-the-mullockas-auction-at-ludlow-racecourse-shropshire-for-agbp21-000-a-2.md) _Context: EUR, GBP_
+2. [ The Beatles' record label Apple Corps accuse Apple Computer in court of breaching a trademark agreement by operating their iTunes Music Store. ](/news/2006/03/29/the-beatles-record-label-apple-corps-accuse-apple-computer-in-court-of-breaching-a-trademark-agreement-by-operating-their-itunes-music-sto.md) _Context: Apple Computer, iTunes Music Store_
+3. [ Securitas depot robbery: British police announce that the total amount of cash stolen in last Wednesday's Securitas depot robbery was GBP GBP53 million (USD $92.6 million, EUR77.8 million). Five more people have been arrested in the last 24 hours and 10 properties searched in the ongoing investigation. ](/news/2006/02/27/securitas-depot-robbery-british-police-announce-that-the-total-amount-of-cash-stolen-in-last-wednesday-s-securitas-depot-robbery-was-gbp-a.md) _Context: EUR, GBP_
+4. [ Apple Computer revealed a new online music store, entitled the iTunes Music Store, for its iTunes and iPod products. Each song can be downloaded for 99 cents and there is no subscription fee.](/news/2003/04/28/apple-computer-revealed-a-new-online-music-store-entitled-the-itunes-music-store-for-its-itunes-and-ipod-products-each-song-can-be-downl.md) _Context: Apple Computer, iTunes Music Store_
+5. [The International Criminal Court has ruled that Ahmad al-Faqi al-Mahdi is liable for about EUR 2.7 million in personal damages for the destruction of Timbuktu's heritage sites, and that the victims (including Mali itself and the international community) be paid "individual, collective, and symbolic" reparations. The Trust Fund for Victims is to decide until 16 February 2018 how the amount will be paid (the Court has also recognized that the penniless al-Mahdi would be unable to pay). ](/news/2017/08/17/the-international-criminal-court-has-ruled-that-ahmad-al-faqi-al-mahdi-is-liable-for-about-a-2-7-million-in-personal-damages-for-the-destr.md) _Context: EUR_
+6. [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md) _Context: EUR_
+7. [Former Congolese Vice President and warlord Jean-Pierre Bemba, sentenced last year by the International Criminal Court (ICC) to 18 years in prison for war crimes, is given an additional 12 months and fined 300,000 euros for bribing witnesses during an earlier ICC trial. The court also handed jail terms and fines for alleged interference in his trial to members of his legal team. ](/news/2017/03/22/former-congolese-vice-president-and-warlord-jean-pierre-bemba-sentenced-last-year-by-the-international-criminal-court-icc-to-18-years-in.md) _Context: EUR_
+8. [Pope Francis donates 100,000 euros for the poor of Aleppo. ](/news/2017/03/10/pope-francis-donates-100-000-euros-for-the-poor-of-aleppo.md) _Context: EUR_
+9. [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing GBP245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-agbp24.md) _Context: GBP_
+10. [The European Union pledges to give the Gambia EUR225 million in aid to assist the country following the departure of former president Yahya Jammeh, whose 22 years of misrule left the country "virtually bankrupt". ](/news/2017/02/10/the-european-union-pledges-to-give-the-gambia-a-225-million-in-aid-to-assist-the-country-following-the-departure-of-former-president-yahya.md) _Context: EUR_

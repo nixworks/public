@@ -34,7 +34,7 @@ A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy 
 _Context: Coral Coast, Fiji, Southern Ocean_
 
 ### [Travel on the Mississippi River is closed for five miles near the US city of Baton Rouge, Louisiana due to flooding. ](/news/2011/05/20/travel-on-the-mississippi-river-is-closed-for-five-miles-near-the-us-city-of-baton-rouge-louisiana-due-to-flooding.md)
-_Context: Baton Rouge, Louisiana, Mississippi River, flooding_
+_Context: Baton Rouge, Louisiana, Louisiana, Mississippi River, flooding_
 
 ### [Georgia becomes the first country to recognize the 19th-century Russian military campaign against the Circassians in the northwest Caucasus as a "genocide". ](/news/2011/05/20/georgia-becomes-the-first-country-to-recognize-the-19th-century-russian-military-campaign-against-the-circassians-in-the-northwest-caucasus.md)
 _Context: Caucasus, Circassians, Georgian, Russian, genocide_

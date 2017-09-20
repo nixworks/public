@@ -1,0 +1,19 @@
+### [2004-04-30](/news/2004/04/30/index.md)
+
+#  U.S. newscast "Nightline" is taken off the air by several stations owned by the Sinclair Broadcast Group because of its planned airing of a list of U.S. soldiers killed in Iraq. Sinclair claims it is a political ploy, while network ABC says it is meant as "an expression of respect which simply seeks to honor those who have laid down their lives for this country.
+
+
+
+
+### Related:
+
+1. [Adam West, the actor widely known for playing Batman in the ABC series of the same name during the 1960's, dies from leukemia. ](/news/2017/06/9/adam-west-the-actor-widely-known-for-playing-batman-in-the-abc-series-of-the-same-name-during-the-1960-s-dies-from-leukemia.md) _Context: ABC_
+2. [Car bomb blasts kill at least 32 people across Iraq. ](/news/2012/09/30/car-bomb-blasts-kill-at-least-32-people-across-iraq.md) _Context: kill_
+3. [The Iraqi cilivian death toll due to violence has fallen to just under 4,000 in 2010, the lowest since the 2003 invasion of Iraq according to the Iraq Body Count.](/news/2010/12/29/the-iraqi-cilivian-death-toll-due-to-violence-has-fallen-to-just-under-4-000-in-2010-the-lowest-since-the-2003-invasion-of-iraq-according-t.md) _Context: kill_
+4. [ Charles Gibson announces he will step down as anchor of World News and retire from ABC in January 2010. Diane Sawyer will replace him at ABC World News. ](/news/2009/09/2/charles-gibson-announces-he-will-step-down-as-anchor-of-world-news-and-retire-from-abc-in-january-2010-diane-sawyer-will-replace-him-at-ab.md) _Context: ABC_
+5. [ US Vice President Joe Biden says in an ABC interview that Washington will not interfere in an Israeli attack on Iran. ](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.md) _Context: ABC_
+6. [ Ted Koppel will anchor his last broadcast of "Nightline" on 22 November and not in December 2005 as had been previously announced. ](/news/2005/10/6/ted-koppel-will-anchor-his-last-broadcast-of-nightline-on-22-november-and-not-in-december-2005-as-had-been-previously-announced.md) _Context: Nightline_
+7. [ ABC investigative reporter Brian Ross reports that security at nuclear reactors on U.S. college campuses is easily compromised. ](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.md) _Context: ABC_
+8. [ An eleven minute video tape purporting to be from Al Qaeda is delivered to American network ABC in Pakistan and shown on "Good Morning America", warns of future attacks on Los Angeles, California and Melbourne, Australia. Adam Yahiye Gadahn, an American convert to Islam, called the September 11, 2001 attacks "blessed events" and commenting on possible attacks in the future stated, "This time, don't count on us demonstrating restraint and compassion." ](/news/2005/09/11/an-eleven-minute-video-tape-purporting-to-be-from-al-qaeda-is-delivered-to-american-network-abc-in-pakistan-and-shown-on-good-morning-amer.md) _Context: ABC_
+9. [ U.S. President George W. Bush in an early morning interview with ABC's Diane Sawyer at the White House said: "I fully understand people wanting things to have happened yesterday" ](/news/2005/09/1/u-s-president-george-w-bush-in-an-early-morning-interview-with-abc-s-diane-sawyer-at-the-white-house-said-i-fully-understand-people-wan.md) _Context: ABC_
+10. [ The Zotob computer worm causes fatal crashes of computers worldwide. The worm only crashes PCs running Windows 2000 and earlier versions of Windows XP, shutting down and rebooting the computer endlessly. Affected were CNN, ABC, Caterpillar, New York Times and Capitol Hill PCs. ](/news/2005/08/17/the-zotob-computer-worm-causes-fatal-crashes-of-computers-worldwide-the-worm-only-crashes-pcs-running-windows-2000-and-earlier-versions-of.md) _Context: ABC_

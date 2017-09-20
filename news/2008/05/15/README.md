@@ -16,7 +16,7 @@ The number of U.S. workersfiling claims for initial jobless benefits rose by 6,0
 The Sichuan earthquake may eventually claim as many as 50,000 lives, the Chinese government said today, as helicopters planned aid drops in remote areas of the province.
 
 ### [ Myanmar's military junta, the State Peace and Development Council, claims that the Burmese constitutional referendum, 2008 approved their new constitution of Myanmar with a 92.4% majority. ](/news/2008/05/15/myanmar-s-military-junta-the-state-peace-and-development-council-claims-that-the-burmese-constitutional-referendum-2008-approved-their-n.md)
-_Context: Burma, Burmese, Burmese constitutional referendum, 2008, State Peace and Development Council, constitutionally, military junta_
+_Context: Burma, Burmese constitutional referendum, 2008, Myanmar, State Peace and Development Council, constitutionally, military junta_
 
 ## [Previous Day...](/news/2008/05/14/index.md)
 

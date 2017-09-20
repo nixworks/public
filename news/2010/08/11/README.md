@@ -94,7 +94,7 @@ _Context: Igor Chudinov_
 _Context: West Bengal_
 
 ### [Michael Mara, a man dubbed the "Granddad Bandit" suspected of bank robbery in 13 US states is arrested in Baton Rouge, Louisiana. ](/news/2010/08/11/michael-mara-a-man-dubbed-the-granddad-bandit-suspected-of-bank-robbery-in-13-us-states-is-arrested-in-baton-rouge-louisiana.md)
-_Context: Baton Rouge, Granddad Bandit, Louisiana, United States, bank robbery_
+_Context: Baton Rouge, Louisiana, Granddad Bandit, Louisiana, United States, bank robbery_
 
 ### [Peruvian indigenous Amazon groups announce a plan to launch their own political party before next year's election; protecting the rainforest and indigenous rights are to be among its aims. ](/news/2010/08/11/peruvian-indigenous-amazon-groups-announce-a-plan-to-launch-their-own-political-party-before-next-year-s-election-protecting-the-rainforest.md)
 Indigenous groups in the Peruvian Amazon say they plan to launch their own political party ahead of general elections next year.

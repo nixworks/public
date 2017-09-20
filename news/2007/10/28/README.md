@@ -19,7 +19,7 @@ _Context: Gaza, Hamas, Israel, oil_
 _Context: Dash 8 Q400, Scandinavian Airlines_
 
 ### [ 2007 Atlantic hurricane season: Tropical Depression Sixteen forms 195 miles (310 kilometers) south-southeast of Port au Prince, Haiti. A tropical storm warning is issued for the southwestern peninsula of Haiti, and a tropical storm watch is issued for the southeastern coast of Cuba. ](/news/2007/10/28/2007-atlantic-hurricane-season-tropical-depression-sixteen-forms-195-miles-310-kilometers-south-southeast-of-port-au-prince-haiti-a-tr.md)
-_Context: 2007 Atlantic hurricane season, Cuba, Haiti, Port-au-Prince, Tropical Depression Sixteen, tropical storm warning_
+_Context: 2007, Cuba, Haiti, Port-au-Prince, Tropical Depression Sixteen, tropical storm warning_
 
 ### [ Voters in Argentina go to the polls for the 2007 general election. Exit polls show First Lady Cristina Fernandez de Kirchner with a clear lead over Elisa Carrio. ](/news/2007/10/28/voters-in-argentina-go-to-the-polls-for-the-2007-general-election-exit-polls-show-first-lady-cristina-ferna-ndez-de-kirchner-with-a-clear.md)
 _Context: Argentina, Argentine general election, 2007, Cristina Fernandez, Elisa Carrio, First Lady_

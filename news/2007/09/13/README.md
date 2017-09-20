@@ -7,7 +7,7 @@ _Context: Miami_
 _Context: Earth, Google, Moon, US$, gigabyte, space transport_
 
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
-_Context: 2007 Atlantic hurricane season, Atlantic Ocean, Caribbean_
+_Context: 2007, Atlantic Ocean, Caribbean_
 
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)
 _Context: African Union, Darfur, Ethiopia, Sudan, United Nations_

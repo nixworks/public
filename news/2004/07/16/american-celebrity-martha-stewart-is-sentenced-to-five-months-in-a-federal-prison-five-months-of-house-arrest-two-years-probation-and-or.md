@@ -1,0 +1,23 @@
+### [2004-07-16](/news/2004/07/16/index.md)
+
+#  American celebrity Martha Stewart is sentenced to five months in a federal prison, five months of house arrest, two years probation, and ordered to pay a $30,000 fine, for attempting to cover up illegal stock trading. The sentence is stayed pending appeal. 
+
+Business news & Financial news from Reuters.com.
+
+
+### Source:
+
+1. [Reuters](http://www.reuters.com/financeNewsArticle.jhtml?type=businessNews&storyID=5693645)
+
+### Related:
+
+1. [Pakistan detains Hafiz Muhammad Saeed, the suspected mastermind of the 2008 attacks in the Indian city. Saeed, co-founder of the active terrorist organization Lashkar-e-Taiba, is being held under house arrest in Lahore in Pakistan's Punjab Province. Four other men are also under house arrest in the area. ](/news/2017/01/31/pakistan-detains-hafiz-muhammad-saeed-the-suspected-mastermind-of-the-2008-attacks-in-the-indian-city-saeed-co-founder-of-the-active-terr.md) _Context: house arrest_
+2. [The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. ](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.md) _Context: probation_
+3. [Conservative MP Philip Davies calls for a crackdown after it was announced up to 100 prisoners serving life sentences in British prisons will be let out of jail at Christmas for a five-day break with their families. Last year a total of 1,347 prison inmates, including 93 lifers, were given leave. The scheme has been defended by Justice Minister MP Andrew Selous but has caused outrage among justice campaigners. ](/news/2015/11/29/conservative-mp-philip-davies-calls-for-a-crackdown-after-it-was-announced-up-to-100-prisoners-serving-life-sentences-in-british-prisons-wil.md) _Context: prison_
+4. [Iranian Judiciary spokesman Gholamhossein Mohseni Ejei says an Iranian court sentenced "Washington Post" reporter Jason Rezaian to a prison term, length unspecified, for espionage. Mohseni Eje said, "I cannot give details." Post foreign editor Douglas Jehl said this might move the case closer to a final resolution in the judiciary, so it can then go to Iranian leaders who can make things right. ](/news/2015/11/22/iranian-judiciary-spokesman-gholamhossein-mohseni-ejei-says-an-iranian-court-sentenced-washington-post-reporter-jason-rezaian-to-a-prison.md) _Context: prison_
+5. [Former United States Army general and Director of the Central Intelligence Agency David Petraeus pleads guilty of sharing classified information with his biographer and lover. He is given two years probation and a $100,000 fine. ](/news/2015/04/23/former-united-states-army-general-and-director-of-the-central-intelligence-agency-david-petraeus-pleads-guilty-of-sharing-classified-informa.md) _Context: probation_
+6. [Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musharraf-is-under-house-arrest.md) _Context: house arrest_
+7. [Macy's loses a bid to stop JC Penney from selling unbranded housewares designed by Martha Stewart. ](/news/2013/04/12/macy-s-loses-a-bid-to-stop-jc-penney-from-selling-unbranded-housewares-designed-by-martha-stewart.md) _Context: Martha Stewart_
+8. [Englishman Barry Thew is sentenced to four months in jail after a t-shirt he wore is deemed to offend public morality. ](/news/2012/10/11/englishman-barry-thew-is-sentenced-to-four-months-in-jail-after-a-t-shirt-he-wore-is-deemed-to-offend-public-morality.md) _Context: prison_
+9. [Nakoula Basseley Nakoula, alleged producer of the film "Innocence of Muslims" and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-and.md) _Context: probation_
+10. [Pope Benedict XVI's butler, Paolo Gabriele, is placed under house arrest while awaiting trial for allegedly leaking confidential papers revealing fraud and disputes within the Vatican. ](/news/2012/07/21/pope-benedict-xvi-s-butler-paolo-gabriele-is-placed-under-house-arrest-while-awaiting-trial-for-allegedly-leaking-confidential-papers-reve.md) _Context: house arrest_

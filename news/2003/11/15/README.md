@@ -4,7 +4,7 @@
 _Context: Great Eastern Islamic Raiders' Front, Istanbul, Turkey, car bomb, radical Islamists, synagogue_
 
 ### [ In Louisiana, conservative Democrat Kathleen Blanco defeats Republican Bobby Jindal to become the first woman in that state to be elected governor. Jindal is the son of immigrants from India.](/news/2003/11/15/in-louisiana-conservative-democrat-kathleen-blanco-defeats-republican-bobby-jindal-to-become-the-first-woman-in-that-state-to-be-elected-g.md)
-_Context: Bobby Jindal, Democratic, Governor of Louisiana, Kathleen Blanco, Louisiana, Republican, conservative_
+_Context: Bobby Jindal, Democratic Party, Governor of Louisiana, Kathleen Blanco, Louisiana, Republican, conservative_
 
 ### [ One hundred thousand people of various organisations demonstrate in Paris on occasion of the last day of the European Social Forum.](/news/2003/11/15/one-hundred-thousand-people-of-various-organisations-demonstrate-in-paris-on-occasion-of-the-last-day-of-the-european-social-forum.md)
 _Context: European Social Forum, Paris_

@@ -10,7 +10,7 @@ _Context: Hatf-2 Ghaznavi, Hatf-4 missile, Pakistan, Pakistan army, Shaheen 1, S
 _Context: Gaza, Israel, Israeli-Palestinian conflict, Palestinian Area, Shaul Mofaz, West Bank, embargo, troop, week_
 
 ### [ Occupation of Iraq: Twin attacks in Baghdad killed a Spanish diplomat (by gunshot) and, in the other, at least ten people following an attack on a police station in Baghdad's main Shi'ite neighbourhood, exactly half a year since Coalition troops occupied the Iraqi city.](/news/2003/10/9/occupation-of-iraq-twin-attacks-in-baghdad-killed-a-spanish-diplomat-by-gunshot-and-in-the-other-at-least-ten-people-following-an-atta.md)
-_Context: Baghdad, Coalition troop, Shi'ite, diplomat, occupation of Iraq, police_
+_Context: Baghdad, Coalition troop, Occupation of Iraq, Shi'ite, diplomat, police_
 
 ## [Previous Day...](/news/2003/10/8/index.md)
 

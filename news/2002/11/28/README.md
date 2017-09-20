@@ -7,7 +7,7 @@ _Context: Thanksgiving Day_
 _Context: 2002 Mombasa attacks, Israel, Kenya, Mombasa, al-Qaeda, anti-aircraft, rocket attacks, suicide bomber_
 
 ### [ Henry Kissinger is appointed chairman of the National Commission on Terrorist Attacks Upon the United States, commonly known as the 9/11 Commission.](/news/2002/11/28/henry-kissinger-is-appointed-chairman-of-the-national-commission-on-terrorist-attacks-upon-the-united-states-commonly-known-as-the-9-11-co.md)
-_Context: Henry Kissinger, September 11 commission_
+_Context: 9/11 Commission, Henry Kissinger_
 
 ## [Previous Day...](/news/2002/11/27/index.md)
 

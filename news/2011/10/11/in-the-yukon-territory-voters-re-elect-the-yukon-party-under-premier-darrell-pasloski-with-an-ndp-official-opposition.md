@@ -12,3 +12,4 @@
 ### Related:
 
 1. [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md) _Context: Yukon_
+2. [ Same-sex marriage in Canada: A court in Yukon rules that the territory's government must licence marriages between same-sex partners. Yukon becomes the fourth jurisdiction in Canada to perform same-sex marriages, after Ontario, British Columbia, and Quebec. ](/news/2004/07/14/same-sex-marriage-in-canada-a-court-in-yukon-rules-that-the-territory-s-government-must-licence-marriages-between-same-sex-partners-yukon.md) _Context: Yukon_

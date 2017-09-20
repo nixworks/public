@@ -19,7 +19,7 @@ _Context: Boris Berezovsky, England, Exile, Russia, Surrey, business oligarch_
 _Context: 2013 Brahmanbaria, Bangladesh tornado, Bangladesh, Brahmanbaria, tornado_
 
 ### [2013 Thailand refugee camp fire: The death toll from a fire in a Thai refugee camp for Karen refugees from Myanmar rises to 37 with more than a hundred injured. ](/news/2013/03/23/2013-thailand-refugee-camp-fire-the-death-toll-from-a-fire-in-a-thai-refugee-camp-for-karen-refugees-from-myanmar-rises-to-37-with-more-tha.md)
-_Context: 2013 Thailand refugee camp fire, Burmese, Karen, Thai Society, refugee, refugee camp_
+_Context: 2013 Thailand refugee camp fire, Karen, Myanmar, Thai Society, refugee, refugee camp_
 
 ### [23 people are killed and 30 injured in a road accident in Pakistan's Punjab province. ](/news/2013/03/23/23-people-are-killed-and-30-injured-in-a-road-accident-in-pakistan-s-punjab-province.md)
 _Context: Pakistan, Punjab_

@@ -1,6 +1,6 @@
 ### [2011-09-22](/news/2011/09/22/index.md)
 
-# CERN researchers affiliated with the OPERA Experiment report experimental results that appear to show neutrinos exceeding the speed of light. 
+# CERN researchers affiliated with the OPERA experiment report experimental results that appear to show neutrinos exceeding the speed of light. 
 
 Scientists discuss the anomalous but exciting find that neutrinos appear to have travelled faster than the apparently unbreakable barrier of light speed.
 

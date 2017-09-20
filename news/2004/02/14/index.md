@@ -10,14 +10,14 @@ _Context: Giro d'Italia, Marco Pantani, Rimini, Tour de France, cyclist_
 _Context: George W. Bush, U.S. state, constitutional, constitutional amendment to ban, same-sex marriage, same-sex marriage_
 
 ### [ U.S. President hopeful John Kerry scores two more Democratic primary victories in the State of Nevada and the federally controlled District of Columbia.](/news/2004/02/14/u-s-president-hopeful-john-kerry-scores-two-more-democratic-primary-victories-in-the-state-of-nevada-and-the-federally-controlled-district.md)
-_Context: Democratic, District of Columbia, John Kerry, Nevada_
+_Context: Democratic Party, District of Columbia, John Kerry, Nevada_
 
 ### [ In Moscow, a roof collapses killing about 25 and injuring at least 110.](/news/2004/02/14/in-moscow-a-roof-collapses-killing-about-25-and-injuring-at-least-110.md)
 ### [ Approximately 550 qualified candidates suddenly drop out of Iran's parliamentary election.](/news/2004/02/14/approximately-550-qualified-candidates-suddenly-drop-out-of-iran-s-parliamentary-election.md)
 _Context: Iran_
 
 ### [ Occupation of Iraq: At least 20 people are killed in the town of Falluja as up to 50 gunmen attack government buildings, in one of the largest guerrilla attacks so far seen in Iraq.](/news/2004/02/14/occupation-of-iraq-at-least-20-people-are-killed-in-the-town-of-falluja-as-up-to-50-gunmen-attack-government-buildings-in-one-of-the-larg.md)
-_Context: Falluja, Iraq, occupation of Iraq_
+_Context: Falluja, Iraq, Occupation of Iraq_
 
 ### [ ROC presidential election, 2004: Candidates Lien Chan of the Pan-Blue Coalition and President Chen Shui-bian of the Pan-Green Coalition participate in a televised debate.](/news/2004/02/14/roc-presidential-election-2004-candidates-lien-chan-of-the-pan-blue-coalition-and-president-chen-shui-bian-of-the-pan-green-coalition-par.md)
 _Context: 2004 presidential election, Chen Shui-bian, Lien Chan, Pan-Green, coalition allies_

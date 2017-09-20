@@ -10,7 +10,7 @@ _Context: Sudan, United Nations Commission on Human Rights_
 _Context: Nigeria, Yelwa_
 
 ### [ U.S. Democratic and Republican leaders in Congress condemn the alleged mistreatment of Iraqi detainees in the strongest terms and call for a congressional investigation. ](/news/2004/05/4/u-s-democratic-and-republican-leaders-in-congress-condemn-the-alleged-mistreatment-of-iraqi-detainees-in-the-strongest-terms-and-call-for.md)
-_Context: Abu Ghraib prisoner abuse, Congress, Democratic, Republican_
+_Context: Abu Ghraib prisoner abuse, Congress, Democratic Party, Republican_
 
 ### [ The Pentagon announces that it plans to keep as many as 138,000 U.S. troops in Iraq through the end of 2005. ](/news/2004/05/4/the-pentagon-announces-that-it-plans-to-keep-as-many-as-138-000-u-s-troops-in-iraq-through-the-end-of-2005.md)
 Officials say Gen John P Abizaid, commander of American forces in Mideast, has put on hold goal of reducing troops in Iraq and plans to keep at least 135,000 soldiers there through 2005; he has asked that fresh Army and Marine forces rotating into Iraq arrive with larger percentage of tanks and armo...

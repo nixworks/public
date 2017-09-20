@@ -7,7 +7,7 @@ _Context: Tainan, sperm whale, the Republic of China_
 _Context: Diebold Election Systems, Maryland, election system, machine_
 
 ### [ Hutton Inquiry: The BBC Director-General, Greg Dyke, resigns in the continuing fall-out from the report. Mr Dyke is the second high-ranking BBC official to resign. Mark Byford is appointed Acting Director-General. The UK media in general condemns the report as a whitewash.](/news/2004/01/29/hutton-inquiry-the-bbc-director-general-greg-dyke-resigns-in-the-continuing-fall-out-from-the-report-mr-dyke-is-the-second-high-ranking.md)
-_Context: BBC, Greg Dyke, Hutton inquiry, Mark Byford_
+_Context: BBC, Greg Dyke, Hutton Inquiry, Mark Byford_
 
 ### [ The Al-Aqsa Martyrs' Brigades of Fatah claim responsibility for a suicide bombing aboard a city bus, in which Ali Yusuf Jaara, a member of the Palestinian police force, kills 10 Israelis and wounds more than 50, outside the Prime Minister's residence in Jerusalem. Simultaneously with the bombing, Shaul Mofaz, Israeli Defense Minister, is meeting with American envoys Wolfe and Sauterfield, who have requested an easing-up of conditions for the Palestinians. The explosion also coincides with a German-brokered prisoner swap between Israel and the Lebanese guerrilla group Hezbollah.](/news/2004/01/29/the-al-aqsa-martyrs-brigades-of-fatah-claim-responsibility-for-a-suicide-bombing-aboard-a-city-bus-in-which-ali-yusuf-jaara-a-member-of.md)
 _Context: Al-Aqsa Martyrs' Brigades, Ali Yusuf Jaara, Fatah, Hezbollah, Israelis, Jerusalem, Palestinian National Authority, Shaul Mofaz, guerillas, suicide bombing_

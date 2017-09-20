@@ -1,7 +1,7 @@
 ## [2004-03-27](/news/2004/03/27/index.md)
 
 ### [ John Kerry joins other Democrats calling for National Security Advisor Condoleezza Rice to testify before the September 11 commission and states the White House should learn from President Franklin Delano Roosevelt's openness during an inquiry after Pearl Harbor. ](/news/2004/03/27/john-kerry-joins-other-democrats-calling-for-national-security-advisor-condoleezza-rice-to-testify-before-the-september-11-commission-and-s.md)
-_Context: Condoleezza Rice, Franklin Delano Roosevelt, John Kerry, National Security Advisor, Pearl Harbor, President, September 11 commission, White House_
+_Context: 9/11 Commission, Condoleezza Rice, Franklin Delano Roosevelt, John Kerry, National Security Advisor, Pearl Harbor, President, White House_
 
 ### [ ROC presidential election, 2004: 500,000 Pan-Blue protesters take to the streets in Taipei to demand a recount. ](/news/2004/03/27/roc-presidential-election-2004-500-000-pan-blue-protesters-take-to-the-streets-in-taipei-to-demand-a-recount.md)
 _Context: 2004 presidential election, Taipei, coalition allies_

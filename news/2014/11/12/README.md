@@ -19,7 +19,7 @@ _Context: Iraq, Islamic State of Iraq and the Levant, suicide bombing_
 _Context: Islamist unrest in Egypt (2013-14), Mediterranean Sea, navy_
 
 ### [The 25th ASEAN Summit is held in the city of Naypyidaw, the capital of Myanmar. ](/news/2014/11/12/the-25th-asean-summit-is-held-in-the-city-of-naypyidaw-the-capital-of-myanmar.md)
-_Context: ASEAN Summit, Burmese, Naypyidaw_
+_Context: ASEAN Summit, Myanmar, Naypyidaw_
 
 ### [Chinese leader Xi Jinping and President of the United States Barack Obama reach a deal to limit greenhouse gases. ](/news/2014/11/12/chinese-leader-xi-jinping-and-president-of-the-united-states-barack-obama-reach-a-deal-to-limit-greenhouse-gases.md)
 The two countries together account for about 45 percent of the world&rsquo;s greenhouse-gas emissions, and their agreement is likely to energize international climate negotiations.

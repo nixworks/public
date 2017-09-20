@@ -13,7 +13,7 @@ _Context: Der Spiegel, Iran, Israel_
 _Context: Syria, United Nations Security Council_
 
 ### [ Occupation of Iraq: The Organisation of the Islamic Conference (OIC), a grouping of Muslim nations meeting in Malaysia, calls on the US to quit Iraq as soon as possible and to hand over to the UN; the OIC also pledges support to Syria.](/news/2003/10/11/occupation-of-iraq-the-organisation-of-the-islamic-conference-oic-a-grouping-of-muslim-nations-meeting-in-malaysia-calls-on-the-us-to.md)
-_Context: Organisation of Islamic Cooperation, occupation of Iraq_
+_Context: Occupation of Iraq, Organisation of Islamic Cooperation_
 
 ### [ The House of Representatives of the Diet of Japan is dissolved by the Prime Minister Koizumi Junichiro and the election will take place on November 9, 2003. See Japan general election, 2003 for more.](/news/2003/10/11/the-house-of-representatives-of-the-diet-of-japan-is-dissolved-by-the-prime-minister-koizumi-junichiro-and-the-election-will-take-place-on.md)
 _Context: Diet, House of Representatives, Japan general election, Koizumi Junichiro_

@@ -43,7 +43,7 @@ _Context: China, Guilin, Luojiang, landslide, quarry_
 A ship carrying up to 600 migrants trying to flee Libya has sunk just off the coast of the North African country, the U.N. Refugee Agency said Monday, citing witness accounts.
 
 ### [Floods in Mississippi worsen, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge may be inundated under 20-30 feet of water. [http://www.cbsnews.com/8301-504943_162-20061179-10391715.html "(CBS News)"]](/news/2011/05/9/floods-in-mississippi-worsen-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-may-be-inundated.md)
-_Context: Baton Rouge, Simmesport, Louisiana, United States Army Corps of Engineers, flooding_
+_Context: Baton Rouge, Louisiana, Simmesport, Louisiana, United States Army Corps of Engineers, flooding_
 
 ### [A province-wide state of emergency is declared for Manitoba in the wake of hundred-year floods on the Assiniboine River and Red River of the North near Brandon. ](/news/2011/05/9/a-province-wide-state-of-emergency-is-declared-for-manitoba-in-the-wake-of-hundred-year-floods-on-the-assiniboine-river-and-red-river-of-the.md)
 _Context: Assiniboine River, Brandon, Manitoba, Red River of the North, states of emergency_

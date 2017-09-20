@@ -19,7 +19,7 @@ _Context: Foreign Policy, George W. Bush, Middle East, President, dictatorship, 
 _Context: Afghanistan, National Security Council, War on Terrorism, al-Qaeda, visa-free travel_
 
 ### [ In the United States, Democratic candidate Howard Dean issues an apology for controversial remarks. He stated previously he wanted to be a candidate for ""guys with Confederate flags on their pickup trucks"."](/news/2003/11/6/in-the-united-states-democratic-candidate-howard-dean-issues-an-apology-for-controversial-remarks-he-stated-previously-he-wanted-to-be-a.md)
-_Context: Confederate flag, Democratic, Howard Dean, pickup truck_
+_Context: Confederate flag, Democratic Party, Howard Dean, pickup truck_
 
 ### [ Also in the United States, New York Attorney General Eliot Spitzer is reported ready to take further action in widening mutual fund investigations.](/news/2003/11/6/also-in-the-united-states-new-york-attorney-general-eliot-spitzer-is-reported-ready-to-take-further-action-in-widening-mutual-fund-investi.md)
 _Context: Eliot Spitzer, attorney general, mutual fund_

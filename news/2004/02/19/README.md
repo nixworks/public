@@ -28,7 +28,7 @@ _Context: Holocaust, Human rights, Nazism, Simon Wiesenthal, Simon Wiesenthal Ce
 _Context: 2004 presidential election, Chen Shui-bian, Lien Chan, independence_
 
 ### [ The White House reserves judgement on the Federal Marriage Amendment, a proposed constitutional amendment to define marriage as a "union of a man and a woman", until Massachusetts legislature and San Francisco courts take further action. Media reports speculate that the White House will probably also keep their opinion quiet until Democratic presidential candidate John Kerry takes a stand on the issue. ](/news/2004/02/19/the-white-house-reserves-judgement-on-the-federal-marriage-amendment-a-proposed-constitutional-amendment-to-define-marriage-as-a-union-of.md)
-_Context: Democratic, John Kerry, Massachusetts, White House, constitutional amendment, constitutional amendment to ban_
+_Context: Democratic Party, John Kerry, Massachusetts, White House, constitutional amendment, constitutional amendment to ban_
 
 ### [ States of emergency are declared in Nova Scotia and Prince Edward Island, Canada, after a prolonged blizzard dumps 90 centimetres of snow on the provinces. This doubles the previous record, set in the 1950s. Roads are completely impassable, blocked with drifts of up to 3 to 4 metres. ](/news/2004/02/19/states-of-emergency-are-declared-in-nova-scotia-and-prince-edward-island-canada-after-a-prolonged-blizzard-dumps-90-centimetres-of-snow-o.md)
 _Context: Nova Scotia, Prince Edward Island, blizzard_

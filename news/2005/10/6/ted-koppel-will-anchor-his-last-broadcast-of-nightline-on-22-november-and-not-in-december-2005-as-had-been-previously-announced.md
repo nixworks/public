@@ -8,3 +8,7 @@
 ### Source:
 
 1. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-10-07T011032Z_01_YUE704163_RTRUKOC_0_US-MEDIA-KOPPEL.xml)
+
+### Related:
+
+1. [ U.S. newscast "Nightline" is taken off the air by several stations owned by the Sinclair Broadcast Group because of its planned airing of a list of U.S. soldiers killed in Iraq. Sinclair claims it is a political ploy, while network ABC says it is meant as "an expression of respect which simply seeks to honor those who have laid down their lives for this country.](/news/2004/04/30/u-s-newscast-nightline-is-taken-off-the-air-by-several-stations-owned-by-the-sinclair-broadcast-group-because-of-its-planned-airing-of-a.md) _Context: Nightline_

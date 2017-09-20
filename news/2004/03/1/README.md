@@ -10,7 +10,7 @@ _Context: China Banking Regulatory Commission, International Swaps and Derivativ
 _Context: Dick Cheney, Jean Bertrand-Aristide, President of Haiti, United States Vice President_
 
 ### [ The UK Conservative Party withdraws from the Butler Inquiry into intelligence on Iraq's weapons of mass destruction, claiming the way its terms of reference have been interpreted is too narrow. The Liberal Democrats claim that this was obvious from the beginning. ](/news/2004/03/1/the-uk-conservative-party-withdraws-from-the-butler-inquiry-into-intelligence-on-iraq-s-weapons-of-mass-destruction-claiming-the-way-its-t.md)
-_Context: Butler Inquiry, Conservative Party, Iraq, Liberal Democrats, weapons of mass destruction_
+_Context: Butler Review, Conservative Party, Iraq, Liberal Democrats, weapons of mass destruction_
 
 ### [ President of Russia Vladimir Putin names Mikhail Fradkov as his new prime minister. ](/news/2004/03/1/president-of-russia-vladimir-putin-names-mikhail-fradkov-as-his-new-prime-minister.md)
 _Context: Mikhail Fradkov, Prime Minister of Russia, Russian President Vladimir Putin, Vladimir Putin_

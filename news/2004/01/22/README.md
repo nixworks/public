@@ -4,7 +4,7 @@
 _Context: Mars Exploration Rover Mission, Spirit, safe mode_
 
 ### [ Staff members of the United States Republican Party are accused of infiltrating Democratic Party computers and making copies of confidential files stored on the compromised computers. The infiltrations reportedly began in early 2002.](/news/2004/01/22/staff-members-of-the-united-states-republican-party-are-accused-of-infiltrating-democratic-party-computers-and-making-copies-of-confidentia.md)
-_Context: Democratic, Republican_
+_Context: Democratic Party, Republican_
 
 ### [ Maher Arar sues the United States government for having deported him to Syria and not Canada, his country of citizenship. He was reportedly tortured in Syria.](/news/2004/01/22/maher-arar-sues-the-united-states-government-for-having-deported-him-to-syria-and-not-canada-his-country-of-citizenship-he-was-reportedly.md)
 _Context: Maher Arar, Syria_

@@ -12,3 +12,4 @@
 ### Related:
 
 1. [Rock group Arcade Fire wins four awards at the Juno Awards of 2011 honouring Canadian music. ](/news/2011/03/27/rock-group-arcade-fire-wins-four-awards-at-the-juno-awards-of-2011-honouring-canadian-music.md) _Context: Arcade Fire_
+2. [ An outbreak of pseudomembranous colitis, a "Clostridium difficile" infection, is believed to have killed as many as 89 people in hospitals in Montreal, Quebec and Calgary, Alberta. ](/news/2004/06/5/an-outbreak-of-pseudomembranous-colitis-a-clostridium-difficile-infection-is-believed-to-have-killed-as-many-as-89-people-in-hospitals.md) _Context: Montreal_

@@ -1,6 +1,6 @@
 ### [2011-09-22](/news/2011/09/22/index.md)
 
-# Hewlett-Packard fires CEO Leo Apotheker, replacing him with former EBay CEO Meg Whitman. 
+# Hewlett-Packard fires CEO Lo Apotheker, replacing him with former eBay CEO Meg Whitman. 
 
 
 

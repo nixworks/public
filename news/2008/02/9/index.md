@@ -16,7 +16,7 @@ _Context: Camden Market, England, London, London Ambulance Service_
 The vote sets the stage for a showdown with the country’s secular elite over Islam’s place in Turkish society.
 
 ### [ The military government of Myanmar announces a national referendum to pass a new constitution will be held in May, and that democratic multi-party elections will take place in 2010. ](/news/2008/02/9/the-military-government-of-myanmar-announces-a-national-referendum-to-pass-a-new-constitution-will-be-held-in-may-and-that-democratic-mult.md)
-_Context: 2010, Burmese, Burmese constitutional referendum, 2008, constitution, general elections, military government_
+_Context: 2010, Burmese constitutional referendum, 2008, Myanmar, constitution, general elections, military government_
 
 ### [ The February 9th Killer rapes, and strangles Damiana Castillo in West Valley City, Utah, USA.](/news/2008/02/9/the-february-9th-killer-rapes-and-strangles-damiana-castillo-in-west-valley-city-utah-usa.md)
 _Context: February 9th Killer_

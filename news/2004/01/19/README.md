@@ -13,7 +13,7 @@ _Context: European Space Agency, Mars, Mars Express_
 _Context: Adirondack, Mars Exploration Rover Mission, NASA_
 
 ### [ U.S. presidential election, 2004: The Iowa caucuses yield unexpectedly strong results for Democratic candidates John Kerry, who earns 38% of the state's delegates and John Edwards, who takes 32%. Former front-runner Howard Dean slips to 18%, and Richard A. "Dick" Gephardt's fourth-place (11%) finish prompts him to end his presidential bid.](/news/2004/01/19/u-s-presidential-election-2004-the-iowa-caucuses-yield-unexpectedly-strong-results-for-democratic-candidates-john-kerry-who-earns-38-o.md)
-_Context: 2004 U.S. presidential candidate, Democratic, Howard Dean, John Edwards, John Kerry, Richard A. "Dick" Gephardt, caucuses_
+_Context: 2004 U.S. presidential candidate, Democratic Party, Howard Dean, John Edwards, John Kerry, Richard A. "Dick" Gephardt, caucuses_
 
 ### [ Yigal Amir, assassin of Yitzhak Rabin, plans to marry.](/news/2004/01/19/yigal-amir-assassin-of-yitzhak-rabin-plans-to-marry.md)
 _Context: Yigal Amir, Yitzhak Rabin_

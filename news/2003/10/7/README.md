@@ -13,7 +13,7 @@ _Context: Beirut, Israel, Lebanese territory, Middle East peace process, Terje R
 _Context: Democratic Republic of the Congo, peacekeeping operation_
 
 ### [ Occupation of Iraq: The Turkish Parliament votes (358-to-183) to approve the dispatch of peacekeepers to Iraq, in a major victory for United States efforts to broaden foreign involvement in Iraq. In Baghdad, Iraqi Governing Council officials state that they would oppose any new foreign troop deployment to Iraq. No formal decision had been made by the Council and leaders of the council have stated they would support this if the United States requested this.](/news/2003/10/7/occupation-of-iraq-the-turkish-parliament-votes-358-to-183-to-approve-the-dispatch-of-peacekeepers-to-iraq-in-a-major-victory-for-unite.md)
-_Context: Baghdad, Iraq, Iraqi Governing Council, Turkish Parliament, occupation of Iraq, peacekeepers_
+_Context: Baghdad, Iraq, Iraqi Governing Council, Occupation of Iraq, Turkish Parliament, peacekeepers_
 
 ### [ The South African government announce they would not prosecute the five policemen accused of killing Steve Biko in 1977, citing insufficient evidence to support a murder charge.](/news/2003/10/7/the-south-african-government-announce-they-would-not-prosecute-the-five-policemen-accused-of-killing-steve-biko-in-1977-citing-insufficien.md)
 _Context: South Africa, Steve Biko_

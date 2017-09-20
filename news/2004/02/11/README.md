@@ -31,7 +31,7 @@ _Context: Geneva, Sudan_
 _Context: Tracfin, Yasser Arafat, money laundering_
 
 ### [ Occupation of Iraq: At least 47 people, mostly Iraqi army recruits, are killed by a car bomb in Baghdad in the second major bomb attack in two days.](/news/2004/02/11/occupation-of-iraq-at-least-47-people-mostly-iraqi-army-recruits-are-killed-by-a-car-bomb-in-baghdad-in-the-second-major-bomb-attack-in.md)
-_Context: Baghdad, car bomb, occupation of Iraq_
+_Context: Baghdad, Occupation of Iraq, car bomb_
 
 ### [ Richard Desmond, the owner of Britain's "Daily Express" and "Daily Star" newspapers, confirms that he has made a bid for the troubled "Daily Telegraph".](/news/2004/02/11/richard-desmond-the-owner-of-britain-s-daily-express-and-daily-star-newspapers-confirms-that-he-has-made-a-bid-for-the-troubled-dail.md)
 _Context: Daily Express, Daily Star, Daily Telegraph, Richard Desmond_

@@ -7,7 +7,7 @@ _Context: Governor of Puerto Rico, Luis A. Ferre_
 _Context: 24th premier, Dalton McGuinty, Ontario_
 
 ### [ Occupation of Iraq: There is every sign that the international conference in Madrid at which pledges to re-build Iraq are hoped for will disappoint and e.g. Paul Bremer seeks to lower expectations.](/news/2003/10/23/occupation-of-iraq-there-is-every-sign-that-the-international-conference-in-madrid-at-which-pledges-to-re-build-iraq-are-hoped-for-will-di.md)
-_Context: Paul Bremer, occupation of Iraq_
+_Context: Occupation of Iraq, Paul Bremer_
 
 ### [ United States Supreme Court: Before a conservative legal organization, Supreme Court Justice Antonin Scalia ridicules the recent Supreme Court decision overturning anti-sodomy laws in Texas, saying that the Court had "held to be a constitutional right what had been a criminal offense at the time of the founding and for nearly 200 years thereafter." According to news reports, Scalia adopted a mocking tone to read from the court's ruling.](/news/2003/10/23/united-states-supreme-court-before-a-conservative-legal-organization-supreme-court-justice-antonin-scalia-ridicules-the-recent-supreme-co.md)
 _Context: Antonin Scalia, Texas, United States Supreme Court_

@@ -22,7 +22,7 @@ _Context: Xinhua, deadly earthquake, earthquake, mudslide_
 _Context: Calamba City, Philippines_
 
 ### [ Foreign Ministers of the member states of ASEAN including Nyan Win of Myanmar meet to discuss Cyclone Nargis. ](/news/2008/05/19/foreign-ministers-of-the-member-states-of-asean-including-nyan-win-of-myanmar-meet-to-discuss-cyclone-nargis.md)
-_Context: Association of Southeast Asian Nations, Burmese, Cyclone Nargis, Foreign Minister, Nyan Win_
+_Context: Association of Southeast Asian Nations, Cyclone Nargis, Foreign Minister, Myanmar, Nyan Win_
 
 ### [ Former Prime Minister of Malaysia, Mahathir Mohamad, tenders his resignation from the country's ruling political party, the United Malays National Organisation (UMNO). ](/news/2008/05/19/former-prime-minister-of-malaysia-mahathir-mohamad-tenders-his-resignation-from-the-country-s-ruling-political-party-the-united-malays-n.md)
 _Context: Mahathir Mohamad, Malaysia, Malaysian Prime Minister, United Malays National Organisation, tenders his resignation_

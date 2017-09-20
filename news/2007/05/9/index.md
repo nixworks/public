@@ -16,7 +16,7 @@ _Context: Iran, Mohammad Baqer Qalibaf, Tehran, mayor_
 _Context: Brazil, Catholic faithful, Latin America, Pope Benedict XVI_
 
 ### [ The first named storm of the 2007 Atlantic hurricane season, Subtropical Storm Andrea, forms off the southeastern United States. ](/news/2007/05/9/the-first-named-storm-of-the-2007-atlantic-hurricane-season-subtropical-storm-andrea-forms-off-the-southeastern-united-states.md)
-_Context: 2007 Atlantic hurricane season, Southeastern United States, Subtropical Storm Andrea_
+_Context: 2007, Southeastern United States, Subtropical Storm Andrea_
 
 ### [ Four people in the United Kingdom are arrested in connection with the 7 July 2005 London bombings. ](/news/2007/05/9/four-people-in-the-united-kingdom-are-arrested-in-connection-with-the-7-july-2005-london-bombings.md)
 _Context: 7 July, United Kingdom_

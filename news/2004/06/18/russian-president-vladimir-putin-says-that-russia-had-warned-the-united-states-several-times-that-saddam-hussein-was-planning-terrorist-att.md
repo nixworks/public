@@ -1,0 +1,25 @@
+### [2004-06-18](/news/2004/06/18/index.md)
+
+#  Russian President Vladimir Putin says that Russia had warned the United States several times that Saddam Hussein was planning terrorist attacks against the US. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/2/hi/americas/3819057.stm)
+2. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/theworld/2004/June/theworld_June351.xml&section=theworld)
+3. [Pravda.RU](http://newsfromrussia.com/world/2004/06/18/54436.html)
+
+### Related:
+
+1. [ Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an-act-of-state-terrorism-with-hos.md) _Context: Vladimir Putin, terrorism_
+2. [ Vladimir Putin tells mothers of Beslan children killed a year ago that the government could not guarantee complete security in the face of terrorism. ](/news/2005/09/2/vladimir-putin-tells-mothers-of-beslan-children-killed-a-year-ago-that-the-government-could-not-guarantee-complete-security-in-the-face-of.md) _Context: Vladimir Putin, terrorism_
+3. [ War on Terrorism: President Bush, speaking to American Legion veterans convention, defends the Iraq policy, declaring the United States had hit terrorism in overthrowing the government of Saddam Hussein. President Bush vows ""no retreat"" from Iraq. President Bush also states that the United States may carry out other pre-emptive strikes.](/news/2003/08/26/war-on-terrorism-president-bush-speaking-to-american-legion-veterans-convention-defends-the-iraq-policy-declaring-the-united-states-had.md) _Context: Saddam Hussein, terrorism_
+4. [ War on Terrorism: "The Sunday Times" reports that Al-Qaeda terrorists have infiltrated Iraq from surrounding Arab countries and have aligned themselves with former intelligence agents of Saddam Hussein to fight the Coalition forces. Their attacks have killed Coalition soldiers and Iraqi police officers, among others.](/news/2003/08/10/war-on-terrorism-the-sunday-times-reports-that-al-qaeda-terrorists-have-infiltrated-iraq-from-surrounding-arab-countries-and-have-aligne.md) _Context: Saddam Hussein, terrorism_
+5. [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cyber security unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cyber-security-unit-so-that-elec.md) _Context: Vladimir Putin_
+6. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Vladimir Putin_
+7. [Russian President Vladimir Putin appoints Vasily Nebenzya to be the new Permanent Representative of Russia to the United Nations following the sudden death of Vitaly Churkin in February. ](/news/2017/07/27/russian-president-vladimir-putin-appoints-vasily-nebenzya-to-be-the-new-permanent-representative-of-russia-to-the-united-nations-following-t.md) _Context: Vladimir Putin_
+8. [Philippine President Rodrigo Duterte, who later had to cut short his visit to Moscow because of terrorist attacks on the Philippine southern island of Mindanao, tells Russia President Vladimir Putin that the Philippines is looking to Russia for modern arms to fight ISIL. ](/news/2017/05/22/philippine-president-rodrigo-duterte-who-later-had-to-cut-short-his-visit-to-moscow-because-of-terrorist-attacks-on-the-philippine-southern.md) _Context: Vladimir Putin_
+9. [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md) _Context: terrorism_
+10. [ A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. ](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-an-attack-on-a-light-rail-train-in-jerusalem-israel-two-other-passengers-are-injured-a-pa.md) _Context: terrorism_

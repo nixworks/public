@@ -19,7 +19,7 @@ _Context: Kodak, Sony, digital camera, patent_
 _Context: 2004 U.S. presidential candidate, Federal Election Commission, George Soros, George W. Bush, The Media Fund, campaign finance, soft money_
 
 ### [ Canadian federal election: Monia Mazigh, the wife of former Syrian deportee Maher Arar, announces her run for candidacy with the NDP in the riding of Ottawa South. ](/news/2004/03/10/canadian-federal-election-monia-mazigh-the-wife-of-former-syrian-deportee-maher-arar-announces-her-run-for-candidacy-with-the-ndp-in-the.md)
-_Context: Maher Arar, Monia Mazigh, NDP, Ottawa South, Syria, election, ridings_
+_Context: 2004 federal election, Maher Arar, Monia Mazigh, NDP, Ottawa South, Syria, ridings_
 
 ### [ Lee Boyd Malvo is sentenced to life in prison without parole by a Virginia judge for his role in the Beltway Sniper Attacks.](/news/2004/03/10/lee-boyd-malvo-is-sentenced-to-life-in-prison-without-parole-by-a-virginia-judge-for-his-role-in-the-beltway-sniper-attacks.md)
 _Context: Beltway sniper attacks, Lee Boyd Malvo, Virginia_

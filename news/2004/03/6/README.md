@@ -22,7 +22,7 @@ _Context: EU, Turkey, political organisation_
 _Context: Ankara, Turkey, civil service_
 
 ### [ Canadian federal election: Former deputy prime minister Sheila Copps loses the Liberal constituency nomination to current Transport Minister Tony Valeri by 311 votes. She will likely appeal; there is some speculation that if the loss remains, she will either run as an independent or for the New Democratic Party. ](/news/2004/03/6/canadian-federal-election-former-deputy-prime-minister-sheila-copps-loses-the-liberal-constituency-nomination-to-current-transport-ministe.md)
-_Context: Liberal Party's, NDP, Sheila Copps, Tony Valeri, election_
+_Context: 2004 federal election, Liberal Party's, NDP, Sheila Copps, Tony Valeri_
 
 ### [ The scientists of the Russian polar research station near the North Pole are evacuated from their shifting and cracking ice floe by two Russian helicopters via Norway's Spitzbergen island. ](/news/2004/03/6/the-scientists-of-the-russian-polar-research-station-near-the-north-pole-are-evacuated-from-their-shifting-and-cracking-ice-floe-by-two-rus.md)
 _Context: North Pole, Spitzbergen_

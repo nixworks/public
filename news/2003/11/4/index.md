@@ -7,7 +7,7 @@ _Context: National Cancer Institute, cancer, clinical studies, oncogene, reoviru
 _Context: Mecca, Saudi Arabia, War on Terrorism_
 
 ### [ Occupation of Iraq: For the second night running the HQ of the coalition in central Baghdad comes under attack; huge explosions are heard. Spain, one of the staunchest supporters of the US in the Iraq war, withdraws many of its staff from its embassy in Iraq.](/news/2003/11/4/occupation-of-iraq-for-the-second-night-running-the-hq-of-the-coalition-in-central-baghdad-comes-under-attack-huge-explosions-are-heard.md)
-_Context: occupation of Iraq_
+_Context: Occupation of Iraq_
 
 ### [ Whilst the Sri Lankan prime minister Ranil Wickremesinghe is visiting the United States, the country's president Chandrika Kumaratunga suspends parliament and deploys troops, effectively putting the country into a state of martial law.](/news/2003/11/4/whilst-the-sri-lankan-prime-minister-ranil-wickremesinghe-is-visiting-the-united-states-the-country-s-president-chandrika-kumaratunga-susp.md)
 _Context: Chandrika Kumaratunga, Ranil Wickremesinghe, Sri Lankan prime minister, martial law_

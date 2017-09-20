@@ -1,7 +1,7 @@
 ## [2003-11-5](/news/2003/11/5/index.md)
 
 ### [ United States - Politics: Democratic intel memo by staff disturbs the US Senate. Senator Zell Miller (D-GA) states ""heads should roll"" over the memo of the Senate Select Committee on Intelligence that outlines a strategy to politicize intelligence data.](/news/2003/11/5/united-states-a-politics-democratic-intel-memo-by-staff-disturbs-the-us-senate-senator-zell-miller-d-ga-states-heads-should-roll.md)
-_Context: Democratic, Senate Select Committee on Intelligence, United States Senate, Zell Miller, political organisation_
+_Context: Democratic Party, Senate Select Committee on Intelligence, United States Senate, Zell Miller, political organisation_
 
 ### [ After 26 years, and at a distance from Earth of over 8 billion miles, Voyager 1 exits the solar system. It is expected to keep on transmitting into the 2020s.](/news/2003/11/5/after-26-years-and-at-a-distance-from-earth-of-over-8-billion-miles-voyager-1-exits-the-solar-system-it-is-expected-to-keep-on-transmitt.md)
 _Context: Earth, Voyager 1_
@@ -19,7 +19,7 @@ _Context: The Matrix Revolutions_
 _Context: EU, World Trade Organization_
 
 ### [ Occupation of Iraq:](/news/2003/11/5/occupation-of-iraq.md)
-_Context: occupation of Iraq_
+_Context: Occupation of Iraq_
 
 ### [ * The United States states foreign terrorists are slipping into Iraq and believes the people behind recent attacks in Iraq have come in from neighbouring countries. Iraq's Governing Council head, Jalal Talabani, urges Iraq's neighbours to crack down on "terrorists" crossing into Iraq. Talabani states terrorists had entered from Syria, Saudi Arabia and Iran. Syria urges America to withdraw troops from Iraq.](/news/2003/11/5/the-united-states-states-foreign-terrorists-are-slipping-into-iraq-and-believes-the-people-behind-recent-attacks-in-iraq-have-come-in-fro.md)
 _Context: Iran, Iraq Interim Governing Council, Jalal Talabani, Saudi Arabia, Syria, terrorism_

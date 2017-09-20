@@ -7,7 +7,7 @@ _Context: Al Qaida's, Ayman al-Zawahiri, Pakistan, Pervez Musharraf, Waziristan_
 _Context: Democracy for America, Howard Dean_
 
 ### [ Indian government officials warn that rebels from northeast India based in Bangladesh, Myanmar and Bhutan are planning major attacks to disrupt upcoming national elections. ](/news/2004/03/18/indian-government-officials-warn-that-rebels-from-northeast-india-based-in-bangladesh-myanmar-and-bhutan-are-planning-major-attacks-to-dis.md)
-_Context: Bangladesh, Bhutan, Burmese_
+_Context: Bangladesh, Bhutan, Myanmar_
 
 ### [ Unrest in Kosovo: NATO announces that it will reinforce its Kosovo Force, following ethnic unrest there that has killed at least 31 people over the past two days. More Serbian Orthodox Churches have been set ablaze by Albanians and violence has continued in and around Kosovo Serb enclaves. Russia and Serbia and Montenegro call for an urgent meeting of the UN Security Council. United Nations officials attempt to restore order in the province and blame the unrest on nationalist extremists on both sides. More demonstrations have taken place across Serbia, so far without the violence seen the previous day. ](/news/2004/03/18/unrest-in-kosovo-nato-announces-that-it-will-reinforce-its-kosovo-force-following-ethnic-unrest-there-that-has-killed-at-least-31-people.md)
 _Context: Albanians, Kosovo Force, Kosovo Serb enclaves, NATO, Serbia, Serbia and Montenegro, Serbian Orthodox Church, UN Security Council, UNMIK, Unrest in Kosovo_

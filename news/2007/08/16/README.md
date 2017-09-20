@@ -28,7 +28,7 @@ North Korea detailed a picture of widespread devastation on Wednesday after heav
 The aid deal signed in a ceremony in Jerusalem represents a 25 percent rise in U.S. military aid to Israel, from a current $2.4 billion each year to $3 billion a year over 10 years.
 
 ### [ 2007 Atlantic hurricane season: Hurricane Dean becomes the first hurricane of the season, threatening the Lesser Antilles, while Tropical Storm Erin threatens Texas. At least five people died in thunderstorms resulting from Erin while another two people went missing. ](/news/2007/08/16/2007-atlantic-hurricane-season-hurricane-dean-becomes-the-first-hurricane-of-the-season-threatening-the-lesser-antilles-while-tropical-s.md)
-_Context: 2007 Atlantic hurricane season, Hurricane Dean, Lesser Antilles, Texas, Tropical Storm Erin, hurricane_
+_Context: 2007, Hurricane Dean, Lesser Antilles, Texas, Tropical Storm Erin, hurricane_
 
 ### [ Peru's civil defense agency estimates that the death toll from the 2007 Peru earthquake is now 337 with 827 more injured. The coastal province of Ica is hardest hit. A 6.3 magnitude aftershock hits the country. The Government of Peru declares a state of emergency. ](/news/2007/08/16/peru-s-civil-defense-agency-estimates-that-the-death-toll-from-the-2007-peru-earthquake-is-now-337-with-827-more-injured-the-coastal-provi.md)
 A powerful earthquake has devastated several Peruvian cities killing at least 337 people in toppled buildings and forcing the Government to declare a state of emergency.

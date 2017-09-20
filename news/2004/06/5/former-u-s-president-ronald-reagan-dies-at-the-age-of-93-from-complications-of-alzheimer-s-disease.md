@@ -1,0 +1,26 @@
+### [2004-06-5](/news/2004/06/5/index.md)
+
+#  Former U.S. President Ronald Reagan dies at the age of 93 from complications of Alzheimer's disease. 
+
+
+
+
+### Source:
+
+1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3779583.stm)
+2. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=J33QU2XYQDMX4CRBAELCFEY?type=topNews&storyID=5352591)
+3. [SF Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2004/06/05/obituary1648EDT0615.DTL)
+4. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A18566-2004Jun5.html)
+
+### Related:
+
+1. [United States federal judge Richard Posner has announced his retirement after three decades of service on the bench of the 7th U.S. Circuit Court of Appeals, headquartered in Chicago, Illinois. Appointed by President Ronald Reagan in 1981, Justice Posner has written more than 3,300 opinions from the bench.](/news/2017/09/1/united-states-federal-judge-richard-posner-has-announced-his-retirement-after-three-decades-of-service-on-the-bench-of-the-7th-u-s-circuit.md) _Context: Ronald Reagan_
+2. [The 2017 White House Correspondents' Dinner is held while Donald Trump decides not to attend, becoming the first incumbent president to do so since Ronald Reagan, who did not attend the dinner while recovering from a 1981 assassination attempt. ](/news/2017/04/29/the-2017-white-house-correspondents-dinner-is-held-while-donald-trump-decides-not-to-attend-becoming-the-first-incumbent-president-to-do-s.md) _Context: Ronald Reagan_
+3. [The District Court for the District of Columbia releases John Hinckley Jr, U.S. President Ronald Reagan's March 1981 would-be assassin, from a psychiatric hospital after 35 years. ](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.md) _Context: Ronald Reagan_
+4. [A federal judge, Paul L. Friedman, rules that John Hinckley Jr., who attempted to assassinate U.S. President Ronald Reagan outside the Washington Hilton on March 30, 1981, is to be released after 35 years at St. Elizabeths Hospital as he no longer poses a danger to himself or others. ](/news/2016/07/27/a-federal-judge-paul-l-friedman-rules-that-john-hinckley-jr-who-attempted-to-assassinate-u-s-president-ronald-reagan-outside-the-washi.md) _Context: Ronald Reagan_
+5. [Biogen Idec Inc. reports that a drug in a phase II clinical research trial has achieved the first experimental demonstration of a statistically significant reduction in amyloid plaque as well as a slowing of clinical impairment in patients with Alzheimer's disease. The antibody drug, aducanumab, blocked beta amyloid formation, a protein that forms toxic brain-destroying plaques, and significantly slowed cognitive decline. ](/news/2015/03/20/biogen-idec-inc-reports-that-a-drug-in-a-phase-ii-clinical-research-trial-has-achieved-the-first-experimental-demonstration-of-a-statistica.md) _Context: Alzheimer's disease_
+6. [The recent death of James Brady, former press secretary to Ronald Reagan, is classified as a homicide 33 years after Brady was shot by John W. Hinckley. ](/news/2014/08/8/the-recent-death-of-james-brady-former-press-secretary-to-ronald-reagan-is-classified-as-a-homicide-33-years-after-brady-was-shot-by-john.md) _Context: Ronald Reagan_
+7. [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md) _Context: Alzheimer's disease_
+8. [Research by study author Kerry O'Banion, of the University of Rochester Medical Center in Rochester, New York, announces that a particularly harmful type of space radiation may accelerate the development of Alzheimer's disease. ](/news/2012/12/31/research-by-study-author-kerry-o-banion-of-the-university-of-rochester-medical-center-in-rochester-new-york-announces-that-a-particularly.md) _Context: Alzheimer's disease_
+9. [U.S. news magazine "Time" selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those-of.md) _Context: Ronald Reagan_
+10. [George H. W. Bush is admitted in stable condition to The Methodist Hospital of the Texas Medical Center in Houston, Texas. The 88-year-old served as the 41st President of the United States from 1989 till 1993 and was hospitalized due to a severe cough and bronchitis but is expected to be discharged within 72 hours. ](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.md) _Context: 41st_

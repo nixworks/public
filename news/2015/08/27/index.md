@@ -29,7 +29,7 @@ Hundreds of people are feared dead after two boats carrying up to 500 migrants c
 
 ### [A sinkhole in China swallows five people. ](/news/2015/08/27/a-sinkhole-in-china-swallows-five-people.md)
 ### [Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tropical-storm-erika.md)
-_Context: 2015 Atlantic hurricane season, Caribbean, Dominican, Tropical Storm Erika_
+_Context: 2015 Atlantic hurricane season, Caribbean, Dominica, Tropical Storm Erika_
 
 ### [David H. Murdock, the CEO and chairman of Dole Food Company, along with a fellow confidant, are ordered to pay $148 million for misleading directors and shareholders. ](/news/2015/08/27/david-h-murdock-the-ceo-and-chairman-of-dole-food-company-along-with-a-fellow-confidant-are-ordered-to-pay-148-million-for-misleading-d.md)
 _Context: $, David H. Murdock, Dole Food Company_

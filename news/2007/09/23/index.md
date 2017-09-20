@@ -4,7 +4,7 @@
 Bargainers worked through the night in an effort to reach a settlement in contentious contract talks, facing an 11 a.m. Eastern time strike deadline.
 
 ### [ 2007 Atlantic hurricane season: Subtropical Depression 11 is upgraded to Subtropical Storm Jerry, 1070 miles (1725 km) west of the Azores. ](/news/2007/09/23/2007-atlantic-hurricane-season-subtropical-depression-11-is-upgraded-to-subtropical-storm-jerry-1070-miles-1725-km-west-of-the-azores.md)
-_Context: 2007 Atlantic hurricane season, Azores, Subtropical Depression, Subtropical Storm Jerry_
+_Context: 2007, Azores, Subtropical Depression, Subtropical Storm Jerry_
 
 ### [ Yasuo Fukuda, a political moderate, is elected by Japan's governing Liberal Democratic Party to become the country's next prime minister. ](/news/2007/09/23/yasuo-fukuda-a-political-moderate-is-elected-by-japanas-governing-liberal-democratic-party-to-become-the-countryas-next-prime-ministe.md)
 Yasuo Fukuda, a mild-mannered political moderate, is known for his ability to build consensus behind the scenes.

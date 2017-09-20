@@ -10,7 +10,7 @@ _Context: Mowaffaq al-Rubaie, Saddam Hussein_
 _Context: Guantnamo Bay detainment camp_
 
 ### [ Occupation of Iraq: A fuel tanker explodes in downtown Baghdad, killing 10 and wounding 15. Initially believed to be caused by a bomb, officials later conclude that a traffic accident was responsible. [http://news.bbc.co.uk/1/hi/world/middle_east/3326499.stm]](/news/2003/12/17/occupation-of-iraq-a-fuel-tanker-explodes-in-downtown-baghdad-killing-10-and-wounding-15-initially-believed-to-be-caused-by-a-bomb-offi.md)
-_Context: Baghdad, occupation of Iraq_
+_Context: Baghdad, Occupation of Iraq_
 
 ### [ The head of the Greek terrorist group Revolutionary Organization 17 November and their chief hitman are jailed for life, along with four other members of the organisation. ](/news/2003/12/17/the-head-of-the-greek-terrorist-group-revolutionary-organization-17-november-and-their-chief-hitman-are-jailed-for-life-along-with-four-ot.md)
 _Context: Revolutionary Organization 17 November_

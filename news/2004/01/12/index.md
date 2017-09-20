@@ -7,7 +7,7 @@ _Context: IBM, Philips, Samsung, United States Patent and Trademark Office, ten 
 _Context: Israeli attack on USS ''Liberty'', State Department_
 
 ### [ Canadian federal election, 2004: Stephen Harper announces his entry into the race to lead the new Conservative Party of Canada. Earlier today, Jim Prentice drops out of the leadership contest, citing a lack of funds.](/news/2004/01/12/canadian-federal-election-2004-stephen-harper-announces-his-entry-into-the-race-to-lead-the-new-conservative-party-of-canada-earlier-tod.md)
-_Context: Conservative Party's, Jim Prentice, Stephen Harper, election_
+_Context: 2004 federal election, Conservative Party's, Jim Prentice, Stephen Harper_
 
 ### [ Israeli-Palestinian conflict: Over 100,000 people rally in Tel Aviv to protest Prime Minister Ariel Sharon's plans to withdraw from parts of Gaza and the West Bank, which would involve abandoning some Israeli settlements in those areas.](/news/2004/01/12/israeli-palestinian-conflict-over-100-000-people-rally-in-tel-aviv-to-protest-prime-minister-ariel-sharon-s-plans-to-withdraw-from-parts-o.md)
 _Context: Ariel Sharon, Gaza, Israeli settlements, Israeli-Palestinian conflict, Prime Minister, Tel Aviv, West Bank, protest_
