@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-russia-nato/russias-zapad-war-games-unnerve-the-west-idUSKCN1BO1OG)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20170913&t=2&i=1201248988&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8C148)
 
 ### Related:
 

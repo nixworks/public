@@ -8,6 +8,7 @@
 ### Source:
 
 1. [El Universal](http://www.eluniversal.com.mx/metropoli/cdmx/se-registra-sismo-en-la-cdmx)
+1. [Cover Image](http://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2017/09/19/sismo_68_2_redis.jpg?itok=EG26t2xP)
 
 ### Related:
 

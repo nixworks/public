@@ -8,6 +8,7 @@ Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-asia-41291650)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/A408/production/_97829914_mediaitem97829913.jpg)
 
 ### Related:
 

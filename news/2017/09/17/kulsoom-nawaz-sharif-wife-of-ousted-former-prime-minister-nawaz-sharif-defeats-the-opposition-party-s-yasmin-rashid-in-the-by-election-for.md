@@ -10,6 +10,7 @@ Long queues form outside polling stations to vote in the seat vacated by former 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/09/voting-concludes-key-pakistan-election-170917124556192.html)
 2. [BBC](http://www.bbc.com/news/world-asia-41297892)
 3. [The Nation](http://nation.com.pk/national/17-Sep-2017/sharifs-may-not-cooperate-in-corruption-cases)
+3. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/5F2B/production/_97836342_mediaitem97836341.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [NOS](https://nos.nl/artikel/2193622-zieke-amsterdamse-burgemeester-van-der-laan-legt-werk-neer.html)
 2. [RTL Nieuws](https://www.rtlnieuws.nl/nederland/zieke-burgemeester-van-der-laan-stopt-per-direct-vaarwel)
+2. [Cover Image](https://www.rtlnieuws.nl/sites/default/files/styles/landscape_2/public/content/images/2017/09/18/van_der_laan_anp.jpg?itok=q-Ym6LV6)
 
 ### Related:
 

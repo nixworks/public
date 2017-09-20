@@ -8,6 +8,7 @@
 ### Source:
 
 1. [UPI](https://www.upi.com/Top_News/World-News/2017/09/16/Violet-Mosse-Brown-worlds-oldest-person-dead-at-117/4731505583191/)
+1. [Cover Image](https://cdnph.upi.com/sv/ph/og/i/4731505583191/2017/1/15055839187296/v2.1/Violet-Mosse-Brown-worlds-oldest-person-dead-at-117.jpg)
 
 ### Related:
 

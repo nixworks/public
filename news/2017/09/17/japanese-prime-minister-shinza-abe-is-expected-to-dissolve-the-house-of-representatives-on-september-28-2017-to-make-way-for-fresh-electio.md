@@ -8,6 +8,7 @@ The Japanese political world was rocked Sunday after media reports emerged that 
 ### Source:
 
 1. [The Japan Times](https://www.japantimes.co.jp/news/2017/09/17/national/politics-diplomacy/abe-likely-dissolve-lower-house-soon-snap-general-election/)
+1. [Cover Image](https://www.japantimes.co.jp/wp-content/uploads/2017/09/n-snapelection-a-20170918-870x563.jpg)
 
 ### Related:
 

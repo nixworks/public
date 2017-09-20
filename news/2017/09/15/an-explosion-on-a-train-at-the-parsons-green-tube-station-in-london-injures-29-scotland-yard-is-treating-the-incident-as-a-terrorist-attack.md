@@ -9,6 +9,7 @@ Passengers on District line reported seeing a device and hearing a bang on a tub
 
 1. [BBC](http://www.bbc.com/news/uk-41278545)
 2. [The Guardian](https://www.theguardian.com/uk-news/2017/sep/15/parsons-green-district-line-suspended-in-west-london-over-incident)
+2. [Cover Image](https://i.guim.co.uk/img/media/ff46e3ef094604990460859053b270086301939a/0_525_3500_2100/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=fb5b7bcbe9f2c942ae4fd1a510d73824)
 
 ### Related:
 

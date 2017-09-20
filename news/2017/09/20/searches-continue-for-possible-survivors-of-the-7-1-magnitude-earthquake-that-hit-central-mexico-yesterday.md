@@ -8,6 +8,7 @@ A powerful earthquake shook central Mexico on Tuesday, killing at least two peop
 ### Source:
 
 1. [Los Angeles Times](http://www.latimes.com/world/la-fg-mexico-earthquake-20170919-story.html)
+1. [Cover Image](http://www.trbimg.com/img-59c2077f/turbine/la-fg-mexico-earthquake-20170919)
 
 ### Related:
 

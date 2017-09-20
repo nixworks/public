@@ -8,6 +8,7 @@ California would allocate its delegates just after early nominating contests in 
 ### Source:
 
 1. [Politico](http://www.politico.com/story/2017/09/16/california-early-primary-2020-elections-242799)
+1. [Cover Image](http://static.politico.com/f2/1c/77a5cc3c41d4ad7e23f159e99a3d/170916-ricardo-lara-ap-1160.jpg)
 
 ### Related:
 

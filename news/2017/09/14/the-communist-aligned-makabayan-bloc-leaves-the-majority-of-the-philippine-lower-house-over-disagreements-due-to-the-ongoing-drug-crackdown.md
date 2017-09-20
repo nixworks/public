@@ -8,6 +8,7 @@
 ### Source:
 
 1. [Rappler](https://www.rappler.com/nation/182150-makabayan-bloc-leaves-house-representatives-majority)
+1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/BC3FF36955264402B64D9B099501507A/makabayan-drug-war-rappler-20170907.jpg)
 
 ### Related:
 

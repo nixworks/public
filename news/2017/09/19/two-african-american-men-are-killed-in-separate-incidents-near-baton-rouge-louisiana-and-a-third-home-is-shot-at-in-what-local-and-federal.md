@@ -9,6 +9,7 @@ Kenneth James Gleason accused of killing homeless man, dishwasher walking to wor
 
 1. [CBS News](https://www.cbsnews.com/news/white-baton-rouge-man-arrested-deaths-black-men/)
 2. [U.S. News & World Report](https://www.usnews.com/news/us/articles/2017-09-19/white-man-arrested-in-killings-of-two-black-men-in-louisiana)
+2. [Cover Image](https://cbsnews1.cbsistatic.com/hub/i/2017/09/17/97941168-5b69-4389-bca9-1f0f9e0b2a3f/baton-rouge-mug.jpg)
 
 ### Related:
 

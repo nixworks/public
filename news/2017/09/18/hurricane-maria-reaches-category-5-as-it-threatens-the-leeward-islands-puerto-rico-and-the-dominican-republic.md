@@ -8,6 +8,7 @@ Maria grew from a tropical storm into a Category 5 hurricane and was bearing dow
 ### Source:
 
 1. [NBC News](https://www.nbcnews.com/news/weather/hurricane-maria-loads-another-blow-caribbean-n802511?cid=eml_nbn_20170918)
+1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2017_38/2158271/170918-hurricane-maria-mc-1002_754b9742f9ee43efadd6787da4aa2e12.nbcnews-fp-1200-630.jpg)
 
 ### Related:
 

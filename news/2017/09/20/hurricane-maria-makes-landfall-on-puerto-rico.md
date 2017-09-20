@@ -2,13 +2,15 @@
 
 # Hurricane Maria makes landfall on Puerto Rico. 
 
-Hurricane Maria is pummelling Puerto Rico, bringing &quot;catastrophic&quot; 155mph winds and dangerous storm surges, after battering the Virgin Islands.
+Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to hit the U.S. territory in nearly 90 years, ripping windows from their fixtures and sending debris hurtling through the streets as it approached the capital, San Juan.
 
 
 ### Source:
 
 1. [NHC](http://www.nhc.noaa.gov/archive/2017/al15/al152017.public_a.017.shtml?)
-2. [The Telegraph](http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/)
+2. [Reuters](https://www.reuters.com/article/us-storm-maria/hurricane-maria-slams-puerto-rico-with-high-rains-storm-surge-idUSKCN1BT1RW)
+3. [The Telegraph](http://www.telegraph.co.uk/news/2017/09/20/hurricane-maria-path-latest-news-live-puerto-rico-virgin-islands/)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170919&t=2&i=1202077716&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8I1VH)
 
 ### Related:
 

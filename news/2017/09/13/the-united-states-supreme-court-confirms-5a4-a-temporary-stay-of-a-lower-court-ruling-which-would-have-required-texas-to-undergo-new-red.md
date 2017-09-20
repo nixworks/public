@@ -9,6 +9,7 @@ At issue is whether the congressional map Texas adopted in 2013 violates the Con
 
 1. [Politico](http://www.politico.com/blogs/under-the-radar/2017/09/12/supreme-court-blocks-ruling-against-texas-redistricting-242644)
 2. [The Houston Chronicle](http://www.houstonchronicle.com/news/houston-texas/houston/article/Court-blocks-redrawing-Texas-maps-12193259.php)
+2. [Cover Image](http://static.politico.com/bb/e2/b65bb10e467e84d1108861c1686c/supreme-court.jpg)
 
 ### Related:
 

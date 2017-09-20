@@ -9,6 +9,7 @@ The California Assembly passed a package of bills Thursday that aim to address t
 
 1. [Los Angeles Times](http://www.latimes.com/politics/la-pol-ca-housing-legislation-deal-impact-20170915-story.html)
 2. [The Sacramento Bee](http://www.sacbee.com/news/politics-government/capitol-alert/article173459896.html)
+2. [Cover Image](http://www.sacbee.com/latest-news/kkx54t-We-know-that-this-is-just-a-start-Assembly-speaker-says-of-housing-bills/alternates/LANDSCAPE_1140/%22We%20know%20that%20this%20is%20just%20a%20start,%22%20Assembly%20speaker%20says%20of%20housing%20bills)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Gujarat to Mumbai 217mph train will cut journey time from eight hours to three a
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/sep/14/india-starts-work-on-its-first-bullet-train-line)
+1. [Cover Image](https://i.guim.co.uk/img/media/fcd0d488a1e885b6e1ee106777d8f19b0c0a01df/0_82_2915_1748/master/2915.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4a8a0e6e305b65c12c00f9bb9b6258b4)
 
 ### Related:
 

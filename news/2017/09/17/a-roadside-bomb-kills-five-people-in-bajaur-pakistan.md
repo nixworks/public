@@ -8,6 +8,7 @@ Deceased include political tehsildar; one Levies official injured
 ### Source:
 
 1. [Geo TV](https://www.geo.tv/latest/158478-roadside-bombing-leaves-five-dead-in-bajaur)
+1. [Cover Image](https://www.geo.tv/assets/uploads/updates/2017-09-17/158478_124029_updates.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@
 
 1. [CNN](http://www.cnn.com/2017/09/14/politics/california-2020-democratic-primary-march/index.html)
 2. [NPR](http://www.npr.org/2017/09/15/551075855/california-seeks-more-influence-in-2020-presidential-race)
+2. [Cover Image](https://media.npr.org/assets/img/2017/09/14/gettyimages-532642472_wide-702895f74a5cfc099931972a2676b006062110c8.jpg?s=1400)
 
 ### Related:
 

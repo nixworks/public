@@ -8,6 +8,7 @@ Turkey has summoned Germany&#39;s ambassador after more than 10,000 Kurds rallie
 ### Source:
 
 1. [Deutsche Welle](http://www.dw.com/en/turkey-summons-german-ambassador-to-ankara-over-kurdish-rally-in-cologne/a-40543513)
+1. [Cover Image](http://www.dw.com/image/36370664_304.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@
 ### Source:
 
 1. [CNN](http://money.cnn.com/2017/09/13/news/shkreli-bond/index.html)
+1. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/170804152803-martin-shkreli-exits-court-aug-4-780x439.jpg)
 
 ### Related:
 

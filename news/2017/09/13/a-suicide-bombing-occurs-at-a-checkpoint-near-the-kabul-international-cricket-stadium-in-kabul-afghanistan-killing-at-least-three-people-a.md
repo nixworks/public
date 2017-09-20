@@ -9,6 +9,7 @@ A suicide bomber blew himself up at a checkpoint near the main cricket stadium i
 
 1. [CNBC](https://www.cnbc.com/2017/09/13/senate-blocks-rand-pauls-effort-to-repeal-war-authorizations.html)
 2. [Reuters](https://www.reuters.com/article/us-afghanistan-blast/suicide-bomb-near-cricket-stadium-in-afghan-capital-kills-at-least-two-idUSKCN1BO1DE)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170913&t=2&i=1201235666&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8C0YC)
 
 ### Related:
 

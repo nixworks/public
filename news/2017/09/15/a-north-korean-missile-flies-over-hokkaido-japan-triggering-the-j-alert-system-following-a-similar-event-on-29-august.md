@@ -9,6 +9,7 @@ North Korea fired its second missile over Japan in as many months, a fresh provo
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-09-14/north-korea-missile-may-have-been-launched-japan-says-j7l06uhl)
 2. [Yonhap](http://english.yonhapnews.co.kr/news/2017/09/15/0200000000AEN20170915005900315.html)
+2. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4oRJA._CvCc/v0/1200x800.jpg)
 
 ### Related:
 

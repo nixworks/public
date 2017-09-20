@@ -10,6 +10,7 @@ Catch up on Emily Nussbaum’s reviews and our other TV coverage ahead of Sunday
 1. [ABC News Australia](http://www.abc.net.au/news/2017-09-17/emmys-2017-nominees-and-winners-list/8952372)
 2. [The New Yorker](https://www.newyorker.com/culture/culture-desk/the-2017-emmy-nominees-in-the-new-yorker)
 3. [Vox](https://www.vox.com/culture/2017/9/17/16323846/emmy-winners-2017-complete-list)
+3. [Cover Image](https://media.newyorker.com/photos/59bc4c462a895b3bd5c3bbe7/16:9/w_1200,h_630,c_limit/Emmys-2017-Roundup.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ Although no longer at imminent risk of extinction, scientists are warning the Hi
 ### Source:
 
 1. [Sky News](http://news.sky.com/story/snow-leopard-taken-off-endangered-list-but-still-vulnerable-11035447)
+1. [Cover Image](http://e3.365dm.com/17/09/1600x900/e1c278274702b33d9b2816d9590b34c134129540b7f46dc8307602a553d336df_4100553.jpg?20170914173131)
 
 ### Related:
 

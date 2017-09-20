@@ -8,6 +8,7 @@ Police discover a mass of documents directly related to the banned independence 
 ### Source:
 
 1. [BBC](http://www.bbc.com/news/world-europe-41325663)
+1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2838/production/_97869201_041822981-1.jpg)
 
 ### Related:
 

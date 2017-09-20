@@ -8,6 +8,7 @@ Scientists from around the world are hoping to return a lost species of giant to
 ### Source:
 
 1. [Phys.org](https://phys.org/news/2017-09-deadhow-revive-lost-species.html)
+1. [Cover Image](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/backfromthed.jpg)
 
 ### Related:
 

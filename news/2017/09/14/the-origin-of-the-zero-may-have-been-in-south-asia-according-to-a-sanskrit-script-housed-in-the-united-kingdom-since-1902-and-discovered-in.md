@@ -8,6 +8,7 @@ Exclusive: one of the greatest conceptual breakthroughs in mathematics has been 
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/science/2017/sep/14/much-ado-about-nothing-ancient-indian-text-contains-earliest-zero-symbol)
+1. [Cover Image](https://i.guim.co.uk/img/media/e88003629ce6013950922ab139ce0fd40d0b9ea5/665_475_4204_2524/master/4204.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=e0a7296baa0484000c297b8e5b3c11bd)
 
 ### Related:
 

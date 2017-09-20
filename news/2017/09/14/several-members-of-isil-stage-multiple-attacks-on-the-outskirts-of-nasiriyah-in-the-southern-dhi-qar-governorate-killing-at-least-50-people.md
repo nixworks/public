@@ -9,6 +9,7 @@ Gunmen and a suicide bomber storm a restaurant and open fire before a bomb explo
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-41270791)
 2. [RT](https://www.rt.com/news/403313-southern-iraq-twin-blast-dead/)
+2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/156C6/production/_97805778_7199cffc-4cb9-4489-b1b5-906216aa61b9.jpg)
 
 ### Related:
 

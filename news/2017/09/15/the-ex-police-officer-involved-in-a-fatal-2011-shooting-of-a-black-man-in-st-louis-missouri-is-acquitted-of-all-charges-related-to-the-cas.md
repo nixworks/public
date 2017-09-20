@@ -9,6 +9,7 @@ Demonstrators have clashed with police in St. Louis following the acquittal of e
 
 1. [ABC News](http://abcnews.go.com/US/st-louis-police-officers-acquittal-fatal-shooting-ignites/story?id=49872333)
 2. [DW](http://www.dw.com/en/st-louis-protests-erupt-after-white-officer-acquitted-in-fatal-shooting-of-black-man/a-40536707)
+2. [Cover Image](http://www.dw.com/image/40536341_304.jpg)
 
 ### Related:
 

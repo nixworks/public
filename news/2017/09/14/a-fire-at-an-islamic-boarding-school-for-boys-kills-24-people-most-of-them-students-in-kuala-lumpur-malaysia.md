@@ -8,6 +8,7 @@ A fire at an Islamic boarding school for boys killed at least 24 people, most of
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-malaysia-fire/blaze-kills-24-at-islamic-school-in-malaysian-capital-idUSKCN1BP04T)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170914&t=2&i=1201335666&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8D0CH)
 
 ### Related:
 

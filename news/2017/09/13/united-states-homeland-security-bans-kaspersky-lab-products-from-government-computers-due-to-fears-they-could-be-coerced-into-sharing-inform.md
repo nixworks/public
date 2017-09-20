@@ -8,6 +8,7 @@ American government agencies are now banned from using software created by the R
 ### Source:
 
 1. [Gizmodo](http://gizmodo.com/citing-russian-ties-homeland-security-boots-kaspersky-1807474114)
+1. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/s--J0YbRWRl--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/cyq1aebwiuulfjqz2tiy.jpg)
 
 ### Related:
 

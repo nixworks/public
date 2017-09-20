@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The Guardian](https://www.theguardian.com/world/2017/sep/17/british-airways-ba-plane-paris-direct-security-threat)
+1. [Cover Image](https://i.guim.co.uk/img/media/0a21107b2424139e69f489368a7c65598cb8eb7f/0_506_1518_911/master/1518.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=ad707b38bafdfb74fdc3d1313c105e2a)
 
 ### Related:
 

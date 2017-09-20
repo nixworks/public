@@ -9,6 +9,7 @@ More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to 
 
 1. [Reuters](http://www.reuters.com/article/us-spain-politics-catalonia/catalan-mayors-defy-spanish-courts-ahead-of-independence-vote-idUSKCN1BR0FW)
 2. [The Scotsman](http://www.scotsman.com/news/scottish-government-release-statement-on-catalonia-referendum-1-4561960)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20170916&t=2&i=1201688879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPED8F0ME)
 
 ### Related:
 

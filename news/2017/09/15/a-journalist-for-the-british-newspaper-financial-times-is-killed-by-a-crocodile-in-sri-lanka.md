@@ -8,6 +8,7 @@ Paul McClean, a 24-year-old British journalist for the Financial Times, died fol
 ### Source:
 
 1. [The Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-crocodile-attack-sri-lanka-20170915-story.html)
+1. [Cover Image](http://www.trbimg.com/img-59bbf041/turbine/ct-crocodile-attack-sri-lanka-20170915)
 
 ### Related:
 

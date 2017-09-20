@@ -8,6 +8,7 @@ Ryanair Holdings Plc scrapped 82 flights on Sunday, the start of a six-week prog
 ### Source:
 
 1. [Bloomberg](https://www.bloomberg.com/news/articles/2017-09-16/ryanair-cancels-82-flights-after-it-messed-up-crew-s-time-off)
+1. [Cover Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQ8n1BrFEDI8/v0/1200x714.jpg)
 
 ### Related:
 

@@ -8,6 +8,7 @@ European Commission President Jean-Claude Juncker made key proposals in his annu
 ### Source:
 
 1. [Reuters](https://www.reuters.com/article/us-eu-juncker-factbox/key-points-in-junckers-2017-annual-eu-address-idUSKCN1BO0YH)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

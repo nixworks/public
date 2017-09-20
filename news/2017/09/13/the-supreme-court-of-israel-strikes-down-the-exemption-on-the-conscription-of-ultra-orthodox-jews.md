@@ -8,6 +8,7 @@ Israel&apos;s Supreme Court has ruled that religious young men studying in semin
 ### Source:
 
 1. [The Los Angeles Times](http://www.latimes.com/world/middleeast/la-fg-israel-orthodox-draft-20170913-story.html)
+1. [Cover Image](http://www.trbimg.com/img-59b9f827/turbine/la-fg-israel-orthodox-draft-20170913)
 
 ### Related:
 

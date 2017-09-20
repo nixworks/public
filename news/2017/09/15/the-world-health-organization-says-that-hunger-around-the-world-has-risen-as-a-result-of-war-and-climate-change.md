@@ -8,6 +8,7 @@
 ### Source:
 
 1. [The World Health Organization](http://www.who.int/mediacentre/news/releases/2017/world-hunger-report/en/)
+1. [Cover Image](http://www.who.int/entity/mediacentre/news/releases/2017/food-safety-madagascar.jpg)
 
 ### Related:
 

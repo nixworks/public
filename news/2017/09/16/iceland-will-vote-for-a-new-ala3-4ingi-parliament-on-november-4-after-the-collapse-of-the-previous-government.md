@@ -8,6 +8,7 @@
 ### Source:
 
 1. [News.com.au](http://www.news.com.au/world/breaking-news/iceland-election-expected-on-november-4/news-story/6756ac5edb2f3bb3292bbb158ea381f0)
+1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)
 
 ### Related:
 

@@ -9,6 +9,7 @@ The once dominant toy retailer has struggled against larger rivals such as Amazo
 
 1. [BBC](http://www.bbc.com/news/business-41316205)
 2. [CNBC](https://www.cnbc.com/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy.html)
+2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/120F7/production/_97857937_gettyimages-134072304-1.jpg)
 
 ### Related:
 
