@@ -12,6 +12,9 @@ Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to 
 ### [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md)
  SACRAMENTO, Calif. (AP) — California&#39;s attorney general sued the Trump administration Wednesday over its plan to build a wall along the U.S.-Mexico border, arguing it&#39;s oversteppi
 
+### [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md)
+Spanish police raided Catalan government offices and arrested officials on Wednesday to halt a banned referendum on independence, an action the regional president said meant Madrid had effectively taken over his administration.
+
 ### [ Saudi Arabia lifts its 2013 ban on internet calls, effective midnight local time (21:00 UTC). ](/news/2017/09/20/saudi-arabia-lifts-its-2013-ban-on-internet-calls-effective-midnight-local-time-21-00-utc.md)
 Saudi Arabia will lift a ban on internet phone calls, a government spokesman said, part of efforts to attract more business to the country.
 
