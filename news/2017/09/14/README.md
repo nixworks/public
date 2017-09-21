@@ -22,7 +22,7 @@ _Context: Belarus, Belarus-Russia relations, Defence Ministry of Belarus, Kalini
 Gujarat to Mumbai 217mph train will cut journey time from eight hours to three and is funded with low-interest Japanese loan
 
 ### [The Communist-aligned Makabayan bloc leaves the majority of the Philippine lower House over disagreements due to the ongoing drug crackdown. ](/news/2017/09/14/the-communist-aligned-makabayan-bloc-leaves-the-majority-of-the-philippine-lower-house-over-disagreements-due-to-the-ongoing-drug-crackdown.md)
-_Context: Communist, Makabayan, Philippine Drug War, Philippine lower House_
+_Context: Communist, Makabayan, Philippine lower House, war on drugs_
 
 ### [California wants to schedule its primaries earlier than usual, possibly on March or Super Tuesday, to have much more influence in comparison to its weight and diversity and to help Californian candidates, such as Eric Garcetti and Kamala Harris. ](/news/2017/09/14/california-wants-to-schedule-its-primaries-earlier-than-usual-possibly-on-march-or-super-tuesday-to-have-much-more-influence-in-comparison.md)
 _Context: California, Eric Garcetti, Kamala Harris, Super Tuesday, United States presidential election, 2020, primaries_

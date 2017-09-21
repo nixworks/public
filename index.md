@@ -1,4 +1,15 @@
-## [News](/news/2017/09/20/index.md)
+## [News](/news/2017/09/21/index.md)
+
+### [Coinciding the 45th anniversary of declaration of 1972 Martial Law by late Philippine President Ferdinand Marcos, a nationwide protests are conducted by various groups against the government's implementation of war on drugs and ongoing martial law in the whole Mindanao under the administration of President Rodrigo Duterte. ](/news/2017/09/21/coinciding-the-45th-anniversary-of-declaration-of-1972-martial-law-by-late-philippine-president-ferdinand-marcos-a-nationwide-protests-are.md)
+Students and youth groups begin demonstrations for the 45th anniversary of Martial Law with a rally at UP Diliman, to oppose what they fear would be nationwide military rule under the Duterte administration
+
+## Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2017/09/20/index.md)
 
 ### [ The U.S. Federal Reserve announces its benchmark interest rate will not change this month, though it expects an increase by the end of the year, along with three increases in 2018 and two in 2019. The Federal Reserve also says its balance sheet reduction program will begin in October. ](/news/2017/09/20/the-u-s-federal-reserve-announces-its-benchmark-interest-rate-will-not-change-this-month-though-it-expects-an-increase-by-the-end-of-the.md)
 The Fed was not expected to raise its benchmark interest rate at this week&#039;s meeting.
@@ -21,13 +32,9 @@ Saudi Arabia will lift a ban on internet phone calls, a government spokesman sai
 ### [ MIT physics professor Daniel Rothman's mathematical formula, published in the peer-review journal "Science Advances", predicts a sixth mass extinction may be set to occur within 10,000 years if by the year 2100 current carbon dioxide emissions are not reduced, and a critical amount of carbon (310 gigatons) is added to the oceans. ](/news/2017/09/20/mit-physics-professor-daniel-rothman-s-mathematical-formula-published-in-the-peer-review-journal-science-advances-predicts-a-sixth-mass.md)
 In the past 540 million years, the Earth has endured five mass extinction events, each involving processes that upended the normal cycling of carbon through the atmosphere and oceans. These globally fatal perturbations in carbon each unfolded over thousands to millions of years, and are coincident w...
 
-## Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
-
 ---
 
-## [Yesterday](/news/2017/09/19/index.md)
+## [Day Before Yesterday](/news/2017/09/19/index.md)
 
 ### [Hurricane Maria makes landfall on Dominica as a category 5 hurricane with maximum sustained winds of 160 mph (260 km/h). Maria is the second category 5 hurricane to make landfall at that intensity in the 2017 season, making this and 2007 the only seasons on record to feature this occurence. ](/news/2017/09/19/hurricane-maria-makes-landfall-on-dominica-as-a-category-5-hurricane-with-maximum-sustained-winds-of-160-mph-260-km-h-maria-is-the-second.md)
 _Context: 2007, 2017 Atlantic hurricane season, Dominica, Hurricane Maria, category 5 hurricane, landfall_
@@ -49,23 +56,7 @@ _Context: Apple Inc., iOS 11, iPad, iPhone_
 
 ---
 
-## [Day Before Yesterday](/news/2017/09/18/index.md)
-
-### [A few hundred pro-government protesters gather in Myanmar's commercial capital Yangon, condemning Rohingya insurgents as well as perceived foreign interference in the Rakhine conflict. ](/news/2017/09/18/a-few-hundred-pro-government-protesters-gather-in-myanmar-s-commercial-capital-yangon-condemning-rohingya-insurgents-as-well-as-perceived-f.md)
-_Context: Myanmar, Northern Rakhine State clashes, Rohingya, Yangon_
-
-### [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md)
-The once dominant toy retailer has struggled against larger rivals such as Amazon and Walmart.
-
-### [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md)
-Maria grew from a tropical storm into a Category 5 hurricane and was bearing down on Puerto Rico and other Caribbean islands still bailing out from Irma.
-
-### [Eberhard van der Laan, the mayor of Amsterdam, takes a permanent leave of absence after disclosing that his metastatic lung cancer has been diagnosed as terminal. ](/news/2017/09/18/eberhard-van-der-laan-the-mayor-of-amsterdam-takes-a-permanent-leave-of-absence-after-disclosing-that-his-metastatic-lung-cancer-has-been.md)
-_Context: Eberhard van der Laan, Politics of the Netherlands, leave of absence, lung cancer, mayor of Amsterdam, metastatic, terminal_
-
----
-
-## [Previous Day...](/news/2017/09/17/index.md)
+## [Previous Day...](/news/2017/09/18/index.md)
 
 ---
 

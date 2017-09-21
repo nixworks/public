@@ -31,7 +31,7 @@ Demonstrators have clashed with police in St. Louis following the acquittal of e
 _Context: Bjarni Benediktsson, Bright Future, Politics of Iceland, Prime Minister_
 
 ### [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md)
-_Context: Caloocan, Philippine Drug War, Philippine National Police_
+_Context: Caloocan, Philippine National Police, war on drugs_
 
 ### [The Iraqi Kurdistan Parliament votes to go ahead with the planned independence referendum, scheduled to take place on 25 September, 2017. ](/news/2017/09/15/the-iraqi-kurdistan-parliament-votes-to-go-ahead-with-the-planned-independence-referendum-scheduled-to-take-place-on-25-september-2017.md)
 _Context: Iraqi Kurdistan Parliament, Iraqi Kurdistan independence referendum, 2017_
